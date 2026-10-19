@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "דברו\/דברי\/דבר — sama rótin 'að tala' og 'orð' þrisvar sinnum; aðeins hluti af leiknum kemst í íslensku ('töluðu\/orð\/talað')"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "רוח ritað 'rúakh' — vindur\/andi\/ándardráttur í einu orði, ekki skellt niður í 'andi' einn"
-    }
-  ],
-  "translation": "Og þeir töluðu við hann ⟨את⟩ öll þau orð, sem Jósef hafði talað við þá; og hann sá ⟨את⟩ vagnana, sem Jósef hafði sent til að bera hann, og rúakh Jaakov, föður þeirra, lifði aftur.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "625655797e8480bfc538fc859382891fa5ca5d2e4655d53efe5cd61b60e2e62e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/45\/25-28.1792393939298.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir töluðu við hann ⟨את⟩ öll orð Jósefs, þau er hann hafði talað til þeirra; og er hann sá ⟨את⟩ vagnana, þá er Jósef hafði sent til að bera hann, þá lifði rúakh Jaakov, föður þeirra, aftur.",
   "tokens": [
     {
       "surface": "וידברו",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "öll þau orð"
+      "marks": "öll orð Jósefs"
     },
     {
       "surface": "כל",
@@ -47,15 +26,15 @@
     },
     {
       "surface": "דברי",
-      "gloss": "þau orð"
+      "gloss": "orð"
     },
     {
       "surface": "יוסף",
-      "gloss": "Jósef"
+      "gloss": "Jósefs"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þau er"
     },
     {
       "surface": "דבר",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "við þá"
+      "gloss": "til þeirra"
     },
     {
       "surface": "וירא",
-      "gloss": "og hann sá"
+      "gloss": "og er hann sá"
     },
     {
       "surface": "את",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þá er"
     },
     {
       "surface": "שלח",
@@ -96,11 +75,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann"
     },
     {
       "surface": "ותחי",
-      "gloss": "lifði aftur"
+      "gloss": "þá lifði — aftur"
     },
     {
       "surface": "רוח",
@@ -115,6 +95,6 @@
       "gloss": "föður þeirra"
     }
   ],
-  "timestamp": "2026-10-19T07:12:19.299594126Z",
+  "timestamp": "2026-10-19T14:46:16.613565290Z",
   "model": "glm-5.3"
 }

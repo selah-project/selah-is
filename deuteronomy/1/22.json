@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'aftur' bætt við — hebreskan segir aðeins 'og færa oss orð'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויחפרו",
-      "rationale": "bókstaflega 'grafa uppi' — kanna\/frekast"
-    }
-  ],
-  "translation": "Og þér komuð allir að mér og sögðuð: Sendum menn fyrir framan oss, og láttu þeir kanna fyrir oss ⟨את⟩ landið og færa oss orð aftur um ⟨את⟩ leiðina sem vér farum upp um hana og ⟨את⟩ borgirnar sem vér komum til þeirra.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "5c8a4db9dccbb2e8dd7a6f00594ab14a7ce87f224b79771957ef9783041969a8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/21-24.1792397541486.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þér nálguðust mig allir og sögðuð: Sendum menn fyrir oss, og þeir skuli kanna fyrir okkur ⟨את⟩ landið og segja okkur ⟨את⟩ orðið — ⟨את⟩ leiðina sem við skulum góra upp á henni, og ⟨את⟩ borgirnar sem við skulum komast til þeirra.",
   "tokens": [
     {
       "surface": "ותקרבון",
-      "gloss": "Og þér komuð"
+      "gloss": "Og þér nálguðust"
     },
     {
       "surface": "אלי",
-      "gloss": "að mér"
+      "gloss": "mig"
     },
     {
       "surface": "כלכם",
@@ -54,15 +33,15 @@
     },
     {
       "surface": "לפנינו",
-      "gloss": "fyrir framan oss"
+      "gloss": "fyrir oss"
     },
     {
       "surface": "ויחפרו",
-      "gloss": "og láttu þeir kanna"
+      "gloss": "og þeir skuli kanna"
     },
     {
       "surface": "לנו",
-      "gloss": "fyrir oss"
+      "gloss": "fyrir okkur"
     },
     {
       "surface": "את",
@@ -75,16 +54,16 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "og færa"
+      "gloss": "og segja"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "orð"
+      "marks": "orðið — oss"
     },
     {
       "surface": "דבר",
-      "gloss": "orð"
+      "gloss": "orðið"
     },
     {
       "surface": "את",
@@ -101,15 +80,15 @@
     },
     {
       "surface": "נעלה",
-      "gloss": "vér farum upp"
+      "gloss": "við skulum góra upp"
     },
     {
       "surface": "בה",
-      "gloss": "um hana"
+      "gloss": "á henni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "borgirnar"
     },
     {
@@ -122,13 +101,13 @@
     },
     {
       "surface": "נבא",
-      "gloss": "vér komum"
+      "gloss": "við skulum komast til"
     },
     {
       "surface": "אליהן",
-      "gloss": "til þeirra"
+      "gloss": "þeirra"
     }
   ],
-  "timestamp": "2026-10-19T08:12:21.487315373Z",
+  "timestamp": "2026-10-19T14:37:51.583338605Z",
   "model": "glm-5.3"
 }

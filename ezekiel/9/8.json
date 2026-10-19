@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'eftir einn' — hebreskan segir aðeins 'ég var eftir'; 'einn' bætt við í íslensku"
-    },
-    {
-      "kind": "substitution",
-      "subject": "gjóta",
-      "rationale": "שפך er 'að ausa út, spilla' — gjót er íslenskt útstreymi-mynd sem jafnar 'ausa út reiði'"
-    }
-  ],
-  "translation": "Og svo varð, er þeir höfðu sligið og ég var eftir einn, að ég fell á andlit mitt og ópaði og sagði: Ah, Adónaí Jahve! Ert þú að eyða öllu leifunum af Ísrael, er þú gjótar reiði þinni yfir Jerúsjalajím?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "742ff5541b69573f7d9e74a9ea8ad730516d88935a1cb2ee6b1523f36c06e63e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/9\/5-8.1792406984131.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þegar þeir höggvust — og ég varð eftir einn — fell ég á andliti mitt og æpti og sagði: Ah, Adónaí Jahve, eyðir þú ⟨את⟩ öllu leiftri Ísraels, þegar þú gýst ⟨את⟩ reiði þinni yfir Jerúsjalajím?",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og svo varð"
+      "gloss": "Og þegar"
     },
     {
       "surface": "כהכותם",
-      "gloss": "er þeir höfðu sligið"
+      "gloss": "þeir höggvust"
     },
     {
       "surface": "ונאשאר",
-      "gloss": "og ég var eftir"
+      "gloss": "og ég varð eftir einn"
     },
     {
       "surface": "אני",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ואפלה",
-      "gloss": "féll ég"
+      "gloss": "fell ég"
     },
     {
       "surface": "על",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "andlit mitt"
+      "gloss": "andliti mitt"
     },
     {
       "surface": "ואזעק",
-      "gloss": "og ópaði"
+      "gloss": "og æpti"
     },
     {
       "surface": "ואמר",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "המשחית",
-      "gloss": "ert þú að eyða"
+      "gloss": "eyðir þú"
     },
     {
       "surface": "אתה",
@@ -87,28 +66,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "allt leifarnar"
+      "marks": "öllu leiftri Ísraels"
     },
     {
       "surface": "כל",
-      "gloss": "allt"
+      "gloss": "öllu"
     },
     {
       "surface": "שארית",
-      "gloss": "leifunum"
+      "gloss": "leiftri"
     },
     {
       "surface": "ישראל",
-      "gloss": "af Ísrael"
+      "gloss": "Ísraels"
     },
     {
       "surface": "בשפכך",
-      "gloss": "er þú gjótar"
+      "gloss": "þegar þú gýst"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "reiði þína"
+      "marks": "reiði þinni"
     },
     {
       "surface": "חמתך",
@@ -123,6 +102,6 @@
       "gloss": "Jerúsjalajím"
     }
   ],
-  "timestamp": "2026-10-19T10:49:44.132390655Z",
+  "timestamp": "2026-10-19T14:44:33.262483401Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "שריד er 'sá sem eftir lifir' — flutt fram í íslenskri orðröð uns enginn slupp lifandi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "השאיר\/שריד",
-      "rationale": "sama rót שאר í sögn og nafni orði — 'gerði eftir' og 'eftirlifandi' — tapast í íslensku"
-    }
-  ],
-  "translation": "Og þeir_begin slógu ⟨את⟩ hann og ⟨את⟩ syni hans og ⟨את⟩ allt fólk hans, uns ekkert varð eftir, enginn slupp lifandi, og þeir tóku land hans í arf.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b46e000413ec5684c7b7b011047ade5448bd708bbf79004fcf5157327729df48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/21\/33-35.1792396937372.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir börðu hann, ⟨את⟩, og ⟨את⟩ syni hans og ⟨את⟩ allt fólk hans, þar til ekkert var eftir, enginn sá er undan komst, og þeir tóu ⟨את⟩ land hans í arf.",
   "tokens": [
     {
       "surface": "ויכו",
-      "gloss": "og þeir slógu"
+      "gloss": "og þeir börðu"
     },
     {
       "surface": "אתו",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "syni hans"
     },
     {
@@ -48,7 +27,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "allt fólk hans"
     },
     {
@@ -61,27 +40,27 @@
     },
     {
       "surface": "עד",
-      "gloss": "uns"
+      "gloss": "þar til"
     },
     {
       "surface": "בלתי",
-      "gloss": "ekkert varð eftir"
+      "gloss": "ekkert var eftir"
     },
     {
       "surface": "השאיר",
-      "gloss": "slupp lifandi"
+      "gloss": "enginn sá er undan komst"
     },
     {
       "surface": "לו",
-      "gloss": "honum"
+      "gloss": "hann"
     },
     {
       "surface": "שריד",
-      "gloss": "enginn"
+      "gloss": "sá er undan komst"
     },
     {
       "surface": "ויירשו",
-      "gloss": "og þeir tóku í arf"
+      "gloss": "og þeir tóu í arf"
     },
     {
       "surface": "את",
@@ -93,6 +72,6 @@
       "gloss": "land hans"
     }
   ],
-  "timestamp": "2026-10-19T08:02:17.374085124Z",
+  "timestamp": "2026-10-19T14:55:57.718424138Z",
   "model": "glm-5.3"
 }

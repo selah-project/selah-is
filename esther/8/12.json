@@ -5,31 +5,15 @@
   "book": "esther",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Versið festir dagsetninguna: einn dagur, 13. Adar, tólfti mánuður — spegill 13. Nisan úr Ester 3:12-13."
-    }
-  ],
-  "translation": "á einum degi, í öllum héraðum konungsins Akasveróssar, þann þrettánda af mánuðinum tólfta — hann er mánuðurinn Adar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/8\/9-12.1792413398338.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Á einum degi í öllum héruðum konungsins Akasverós, á þrettándanum degi mánaðarins tólfunda, ⟨það er⟩ mánuðinn Adar.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "á degi"
+      "gloss": "á einum degi"
     },
     {
       "surface": "אחד",
-      "gloss": "einum"
+      "gloss": "einn"
     },
     {
       "surface": "בכל",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "מדינות",
-      "gloss": "héraðum"
+      "gloss": "héruðum"
     },
     {
       "surface": "המלך",
@@ -45,19 +29,19 @@
     },
     {
       "surface": "אחשורוש",
-      "gloss": "Akasveróssar"
+      "gloss": "Akasverós"
     },
     {
       "surface": "בשלושה",
-      "gloss": "þrettánda"
+      "gloss": "á þrettándanum"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "-án"
     },
     {
       "surface": "לחדש",
-      "gloss": "af mánuðinum"
+      "gloss": "degi mánaðarins"
     },
     {
       "surface": "שנים",
@@ -65,21 +49,21 @@
     },
     {
       "surface": "עשר",
-      "gloss": "tölfta"
+      "gloss": "-unda"
     },
     {
       "surface": "הוא",
-      "gloss": "hann"
+      "gloss": "⟨það er⟩"
     },
     {
       "surface": "חדש",
-      "gloss": "er mánuðurinn"
+      "gloss": "mánuðinn"
     },
     {
       "surface": "אדר",
       "gloss": "Adar"
     }
   ],
-  "timestamp": "2026-10-19T12:36:38.339968702Z",
+  "timestamp": "2026-10-19T14:40:26.062540467Z",
   "model": "glm-5.3"
 }

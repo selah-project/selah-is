@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "smurning Sjólómó",
-      "rationale": "formleg krýning: horn olíunnar, shofarblástur og kall fólksins — vígsluathöfn með yfirgefna merki."
-    },
-    {
-      "kind": "substitution",
-      "subject": "shofar",
-      "rationale": "שופר er horn, ekki lúður; heitið haft óþýtt."
-    }
-  ],
-  "translation": "Og Tsadók presturinn tók ⟨את⟩ horn olíunnar úr tjaldbúðinni og smurði Sjólómó, og þeir blésu í shofarinn, og allt fólkið kallaði: Lifi konungurinn Sjólómó!",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "6561b2ec2175bd463c3a49a1ee05f955c81992c8af60e91b029366e1c5635614",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/37-40.1792401888423.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Tsadok presturinn tók ⟨את⟩ olíuhornið úr tjaldbúðinni og smurði Sjelómó; og þeir blésu í hornið, og allt fólkið sagði: Lifi Sjelómó konungur!",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Og tók"
+      "gloss": "tók"
     },
     {
       "surface": "צדוק",
-      "gloss": "Tsadók"
+      "gloss": "Tsadok"
     },
     {
       "surface": "הכהן",
@@ -43,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "horn olíunnar"
+      "marks": "olíuhornið"
     },
     {
       "surface": "קרן",
-      "gloss": "horn"
+      "gloss": "hornið"
     },
     {
       "surface": "השמן",
-      "gloss": "olíunnar"
+      "gloss": "olíu-"
     },
     {
       "surface": "מן",
@@ -68,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sjólómó"
+      "marks": "Sjelómó"
     },
     {
       "surface": "שלמה",
-      "gloss": "Sjólómó"
+      "gloss": "Sjelómó"
     },
     {
       "surface": "ויתקעו",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "בשופר",
-      "gloss": "í shofarinn"
+      "gloss": "í hornið"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "og kallaði"
+      "gloss": "og sagði"
     },
     {
       "surface": "כל",
@@ -100,13 +79,13 @@
     },
     {
       "surface": "המלך",
-      "gloss": "konungurinn"
+      "gloss": "konungur"
     },
     {
       "surface": "שלמה",
-      "gloss": "Sjólómó"
+      "gloss": "Sjelómó"
     }
   ],
-  "timestamp": "2026-10-19T09:24:48.424772115Z",
+  "timestamp": "2026-10-19T14:31:12.439165197Z",
   "model": "glm-5.3"
 }

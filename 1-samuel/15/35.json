@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לא יסף",
-      "rationale": "lít. „bætti ekki við“ = „sá ekki aftur“, íslenska fær merkinguna en tapar mynd lykilorðsins יסף"
-    },
-    {
-      "kind": "crux",
-      "subject": "נחם",
-      "rationale": "„iðraðist\/beit síðarbrögðum“ — Jahve „breytti hug“ um Sjáúl; þýðendum deilt um hvort tilfinning eða ákvörðun sé um að ræða"
-    }
-  ],
-  "translation": "Og Sámúel sá Sjáúl ekki aftur til dauðadags hans, því að Sámúel harmaði yfir Sjáúli, og Jahve iðraðist þess að hann hafði gert Sjáúl að konungi ⟨את⟩ Sjáúl yfir Ísrael.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "4c3f1b366b24c1ab57d17a9841d27d710aed252867bc827fc0b3b0f67fa97ffb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/33-35.1792400481985.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Sjmúel sá Shaul ekki aftur ⟨את⟩ Shaul til dauðadags hans, því að Sjmúel harmaði yfir Shaul, og Jahve sá eftir að hann hafði gert Shaul að konungi ⟨את⟩ Shaul yfir Ísrael.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Og ekki"
+      "gloss": "og … ekki"
     },
     {
       "surface": "יסף",
-      "gloss": "sá aftur"
+      "gloss": "sá … aftur"
     },
     {
       "surface": "שמואל",
-      "gloss": "Sámúel"
+      "gloss": "Sjmúel"
     },
     {
       "surface": "לראות",
@@ -47,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sjáúl"
+      "marks": "Shaul"
     },
     {
       "surface": "שאול",
-      "gloss": "Sjáúl"
+      "gloss": "Shaul"
     },
     {
       "surface": "עד",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "יום",
-      "gloss": "dauðadags"
+      "gloss": "dags"
     },
     {
       "surface": "מותו",
-      "gloss": "hans"
+      "gloss": "dauða hans"
     },
     {
       "surface": "כי",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "שמואל",
-      "gloss": "Sámúel"
+      "gloss": "Sjmúel"
     },
     {
       "surface": "אל",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sjáúli"
+      "gloss": "Shaul"
     },
     {
       "surface": "ויהוה",
@@ -91,24 +70,24 @@
     },
     {
       "surface": "נחם",
-      "gloss": "iðraðist"
+      "gloss": "sá eftir"
     },
     {
       "surface": "כי",
-      "gloss": "þess að"
+      "gloss": "að"
     },
     {
       "surface": "המליך",
-      "gloss": "hafði gert að konungi"
+      "gloss": "hafði gert … að konungi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sjáúl"
+      "marks": "Shaul"
     },
     {
       "surface": "שאול",
-      "gloss": "Sjáúl"
+      "gloss": "Shaul"
     },
     {
       "surface": "על",
@@ -119,6 +98,6 @@
       "gloss": "Ísrael"
     }
   ],
-  "timestamp": "2026-10-19T09:01:21.986697771Z",
+  "timestamp": "2026-10-19T14:32:48.578737251Z",
   "model": "glm-5.3"
 }

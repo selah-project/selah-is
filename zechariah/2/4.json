@@ -5,166 +5,140 @@
   "book": "zechariah",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כפי",
-      "rationale": "Bókstaflega 'samkvæmt munnhætti hvers manns' — frasi sem þýðast 'svo að enginn maður'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זרו \/ לזרותה",
-      "rationale": "Sömu rót (að sigta\/strá) ramm-settir í upphafi og enda verss — hornin stráðu, smiðirnir strá þeim; hringrásin glatast að hluta í þýðingu."
-    },
-    {
-      "kind": "mystery",
-      "subject": "Hvað koma þessir að gera?",
-      "rationale": "Opin spurning um hlutverk sýnarveranna; svarið er gefið í gegnum engilinn."
-    }
-  ],
-  "translation": "Og ég sagði: Hvað koma þessir að gera? Og hann svarar og mælti: Þetta eru hornin sem stráðu ⟨את⟩ Júda, svo að enginn maður hélt upp höfði sínum; og þessir koma til að hræða ⟨את⟩ þá, að fella horn þjóðanna, þeirra er lyfta horni sínu gegn landi Júda, til að strá því.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "87127273f0aad37dc18402250ecd967bed47e5bb104bb664187d7f6f2bfe4e81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/2\/1-4.1792408996057.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég sagði: Hvað koma þessir að gera? Og hann svaraði og sagði: Þessir eru hornin sem dreiftu ⟨את⟩ Júda svo að enginn maður hóf höfuð sitt — og þessir koma til að ógna ⟨את⟩ þeim, að fella horn þjóðanna, þeirra sem lyftu horni sínu gegn landi Júda, til að dreifa því.",
   "tokens": [
     {
-      "surface": "ואמר",
+      "surface": "וָאֹמַר",
       "gloss": "Og ég sagði"
     },
     {
-      "surface": "מה",
+      "surface": "מָה",
       "gloss": "Hvað"
     },
     {
-      "surface": "אלה",
+      "surface": "אֵלֶּה",
       "gloss": "þessir"
     },
     {
-      "surface": "באים",
+      "surface": "בָּאִים",
       "gloss": "koma"
     },
     {
-      "surface": "לעשות",
+      "surface": "לַעֲשׂוֹת",
       "gloss": "að gera"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "og hann svarar"
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Og hann sagði"
     },
     {
-      "surface": "לאמר",
+      "surface": "לֵאמֹר",
       "gloss": "og mælti"
     },
     {
-      "surface": "אלה",
-      "gloss": "Þetta eru"
+      "surface": "אֵלֶּה",
+      "gloss": "Þessir"
     },
     {
-      "surface": "הקרנות",
-      "gloss": "hornin"
+      "surface": "הַקְּרָנוֹת",
+      "gloss": "eru hornin"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "sem"
     },
     {
-      "surface": "זרו",
-      "gloss": "stráðu"
+      "surface": "זֵרוּ",
+      "gloss": "dreiftu"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "Júda"
     },
     {
-      "surface": "יהודה",
+      "surface": "יְהוּדָה",
       "gloss": "Júda"
     },
     {
-      "surface": "כפי",
+      "surface": "כְּפִי",
       "gloss": "svo að"
     },
     {
-      "surface": "איש",
+      "surface": "אִישׁ",
       "gloss": "enginn maður"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "ekki"
     },
     {
-      "surface": "נשא",
-      "gloss": "hélt upp"
+      "surface": "נָשָׂא",
+      "gloss": "hóf"
     },
     {
-      "surface": "ראשו",
-      "gloss": "höfði sínum"
+      "surface": "רֹאשׁוֹ",
+      "gloss": "höfuð sitt"
     },
     {
-      "surface": "ויבאו",
-      "gloss": "og þeir koma"
+      "surface": "וַיָּבֹאוּ",
+      "gloss": "og koma"
     },
     {
-      "surface": "אלה",
+      "surface": "אֵלֶּה",
       "gloss": "þessir"
     },
     {
-      "surface": "להחריד",
-      "gloss": "til að hræða"
+      "surface": "לְהַחֲרִיד",
+      "gloss": "að ógna"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "þá"
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "þeim (Júda)"
     },
     {
-      "surface": "לידות",
+      "surface": "לְיַדּוֹת",
       "gloss": "að fella"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "horn þjóðanna"
     },
     {
-      "surface": "קרנות",
+      "surface": "קַרְנוֹת",
       "gloss": "horn"
     },
     {
-      "surface": "הגוים",
+      "surface": "הַגּוֹיִם",
       "gloss": "þjóðanna"
     },
     {
-      "surface": "הנשאים",
-      "gloss": "þeirra er lyfta"
+      "surface": "הַנֹּשְׂאִים",
+      "gloss": "þeirra sem lyftu"
     },
     {
-      "surface": "קרן",
+      "surface": "קֶרֶן",
       "gloss": "horni"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "gegn"
     },
     {
-      "surface": "ארץ",
+      "surface": "אֶרֶץ",
       "gloss": "landi"
     },
     {
-      "surface": "יהודה",
+      "surface": "יְהוּדָה",
       "gloss": "Júda"
     },
     {
-      "surface": "לזרותה",
-      "gloss": "til að strá því"
+      "surface": "לְזָרוֹתָהּ",
+      "gloss": "til að dreifa því"
     }
   ],
-  "timestamp": "2026-10-19T11:23:16.058281058Z",
+  "timestamp": "2026-10-19T14:58:38.148263942Z",
   "model": "glm-5.3"
 }

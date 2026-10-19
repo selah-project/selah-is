@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "המס ימס — sömu rót endurtekin í infinitivus absolutus: 'mun alveg bráðna'; ítarefni endurtekið til að eyða"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'er' sem smellisagn — hebreskan segir 'frægur kappi faðir þinn'"
-    }
-  ],
-  "translation": "Og jafnvel sá sem drengur er og hjarta hans er sem hjarta ljóns, mun alveg bráðna, því að allt Ísrael veit að frægur kappi er faðir þinn og drengir eru með honum.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "f92f1e4f1f5ec5d0ab0abe1b74466ac2b7b34eaf000104e85feeb1716055037d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/17\/9-12.1792401516131.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og jafnvel sá sem er sonur krafts, hann er hjarta hans sem hjarta ljónsins, mun algjörlega bráðna; því að allt Ísrael veit að faðir þinn er kappi og synir krafts eru ⟨את⟩ ⟨með honum⟩.",
   "tokens": [
     {
       "surface": "והוא",
-      "gloss": "Og jafnvel sá"
+      "gloss": "Og hann"
     },
     {
       "surface": "גם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "drengur"
+      "gloss": "sonur"
     },
     {
       "surface": "חיל",
-      "gloss": "drengur"
+      "gloss": "krafts"
     },
     {
       "surface": "אשר",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "האריה",
-      "gloss": "ljóns"
+      "gloss": "ljónsins"
     },
     {
       "surface": "המס",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ימס",
-      "gloss": "alveg bráðna"
+      "gloss": "algjörlega bráðna"
     },
     {
       "surface": "כי",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "גבור",
-      "gloss": "frægur kappi"
+      "gloss": "kappi"
     },
     {
       "surface": "אביך",
@@ -98,11 +77,11 @@
     },
     {
       "surface": "ובני",
-      "gloss": "og drengir"
+      "gloss": "og synir"
     },
     {
       "surface": "חיל",
-      "gloss": "drengir"
+      "gloss": "krafts"
     },
     {
       "surface": "אשר",
@@ -110,9 +89,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "með ⟨את⟩ honum"
+      "gloss": "⟨את⟩",
+      "marks": "með honum"
     }
   ],
-  "timestamp": "2026-10-19T09:18:36.133046185Z",
+  "timestamp": "2026-10-19T14:36:21.593919083Z",
   "model": "glm-5.3"
 }

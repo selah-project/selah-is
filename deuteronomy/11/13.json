@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמע תשמעו",
-      "rationale": "Infinitivus absolutus endurtekur rótina — „hlýða-þér-hlýðið“ — áherslubygging sem tapast á íslensku"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sálu ykkar",
-      "rationale": "נפש er lífskraftur, andardráttur, ekki ókvernig sál"
-    },
-    {
-      "kind": "you",
-      "subject": "Ísrael",
-      "rationale": "Beint ávarp: „þér“, „ykkar“, „ykkar hjarta“ — önnur útgáfa af Sjema-ávarpinu"
-    }
-  ],
-  "translation": "Og það mun verða, ef þér hlýðið á boðorð mín, þau sem ég býð ⟨את⟩ ykkur í dag, að elska Jahve Elóhím ykkar og þjóna honum með öllu hjarta ykkar og allri sálu ykkar,",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/11\/13-16.1792397825687.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨það⟩ mun gerast, ef þér hlýðið vel á boðorð mín, sem ég boði ykkur ⟨את⟩ í dag: að elska Jahve, Elóhím ykkar, og að þjóna honum með öllu hjarta ykkar og með allri sálu ykkar.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Og það mun verða"
+      "gloss": "Og mun gerast"
     },
     {
       "surface": "אם",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "שמע",
-      "gloss": "hlýðið"
+      "gloss": "hlýðið vel"
     },
     {
       "surface": "תשמעו",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "þau sem"
+      "gloss": "sem"
     },
     {
       "surface": "אנכי",
@@ -67,12 +41,12 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "býð"
+      "gloss": "boði"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "hinn daginn í dag"
     },
     {
       "surface": "היום",
@@ -85,7 +59,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve Elóhím ykkar"
+      "marks": "Jahve, Elóhím ykkar"
     },
     {
       "surface": "יהוה",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "ולעבדו",
-      "gloss": "og þjóna honum"
+      "gloss": "og að þjóna honum"
     },
     {
       "surface": "בכל",
@@ -109,13 +83,13 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "og allri"
+      "gloss": "og með allri"
     },
     {
       "surface": "נפשכם",
       "gloss": "sálu ykkar"
     }
   ],
-  "timestamp": "2026-10-19T08:17:05.687630209Z",
+  "timestamp": "2026-10-19T14:38:15.108979685Z",
   "model": "glm-5.3"
 }

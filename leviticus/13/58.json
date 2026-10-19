@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "fornafnið 'því' bætt við fyrir מהם (fleirtala hebreskunnar — 'frá þeim')"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "כבס er að trampa með fótum — 'þvo' í trampa í steinum, ekki vélþvottur"
-    }
-  ],
-  "translation": "Og fatnaðurinn eða inntextinn eða úttextinn eða allt skinntækið, sem þú þvær, og sýkin hverfur frá ⟨því⟩ — þá skal það þvá að nýju og verður hreint.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "bbad8c3a36eb475c0e5c575df21ec0720309a8839c92b754f30bda53f218e7b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/57-59.1792395710881.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og flíkin eða vefjarinn eða þvegin eða allt skinnfatnaður sem þú þvær — ef meinin hverfur frá þeim, þá skal þvo ⟨það⟩ í annat sinn og það verður hreint.",
   "tokens": [
     {
       "surface": "והבגד",
-      "gloss": "Og fatnaðurinn"
+      "gloss": "Og flíkin"
     },
     {
       "surface": "או",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "השתי",
-      "gloss": "inntextinn"
+      "gloss": "vefjarinn"
     },
     {
       "surface": "או",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הערב",
-      "gloss": "úttextinn"
+      "gloss": "þvegin"
     },
     {
       "surface": "או",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "כלי",
-      "gloss": "skinntækið"
+      "gloss": "skinnfatnaður"
     },
     {
       "surface": "העור",
-      "gloss": ""
+      "gloss": "skinns"
     },
     {
       "surface": "אשר",
@@ -74,29 +53,29 @@
     },
     {
       "surface": "וסר",
-      "gloss": "og hverfur"
+      "gloss": "hverfur"
     },
     {
       "surface": "מהם",
-      "gloss": "frá ⟨því⟩"
+      "gloss": "frá þeim"
     },
     {
       "surface": "הנגע",
-      "gloss": "sýkin"
+      "gloss": "meinin"
     },
     {
       "surface": "וכבס",
-      "gloss": "þá skal það þvá"
+      "gloss": "skal þvo"
     },
     {
       "surface": "שנית",
-      "gloss": "að nýju"
+      "gloss": "í annat sinn"
     },
     {
       "surface": "וטהר",
-      "gloss": "og verður hreint"
+      "gloss": "verður hreint"
     }
   ],
-  "timestamp": "2026-10-19T07:41:50.883842382Z",
+  "timestamp": "2026-10-19T14:53:42.836978512Z",
   "model": "glm-5.3"
 }

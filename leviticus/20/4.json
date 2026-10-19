@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Fornafnið 'það' (fólkið landsins) bætt við í íslensku; hebreskan sleppur umfanganum."
-    },
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "'Fela augu sín frá manni' er myndmál um að líta framhjá með vísvitandi; tekið bókstöklegendi."
-    }
-  ],
-  "translation": "Og ef fólkið landsins feler augu sín frá þeim manni, er hann gefur af sáði sínu til Mólek, svo að ⟨það⟩ lætur hann ekki deyja —",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "cee23beb50facc4104b773d04b158c429ebd13766ce2148a0d1f3bbbd858d18a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/20\/1-4.1792396073624.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ef fólkið í landinu fær falið ⟨את⟩ augu sín frá þeim manni, er hann gefur af sáði sínu til Móleks, til að eigi láta ⟨את⟩ hann af lífi —",
   "tokens": [
     {
       "surface": "ואם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "העלם",
-      "gloss": "feler"
+      "gloss": "fær falið"
     },
     {
       "surface": "יעלימו",
-      "gloss": "augu sín"
+      "gloss": "falið"
     },
     {
       "surface": "עם",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "landsins"
+      "gloss": "í landinu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "augu sín"
+      "marks": "augu sín (עיניהם)"
     },
     {
       "surface": "עיניהם",
-      "gloss": "augu þeirra"
+      "gloss": "augu sín"
     },
     {
       "surface": "מן",
@@ -79,22 +58,22 @@
     },
     {
       "surface": "למלך",
-      "gloss": "til Mólek"
+      "gloss": "til Móleks"
     },
     {
       "surface": "לבלתי",
-      "gloss": "svo að ekki"
+      "gloss": "til að eigi"
     },
     {
       "surface": "המית",
-      "gloss": "lætur deyja"
+      "gloss": "láta af lífi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "hann"
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann (þann manninn)"
     }
   ],
-  "timestamp": "2026-10-19T07:47:53.629996517Z",
+  "timestamp": "2026-10-19T14:54:32.141611007Z",
   "model": "glm-5.3"
 }

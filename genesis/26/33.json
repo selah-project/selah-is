@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שבעה \/ שבע",
-      "rationale": "Nafn brunnsins Sjíva hljómar við שבע ('sjö' og 'eið'), sem og Be'er-Sjéva úr 1. Mós 21 — tvöföld orðleik, glataður í þýðingu."
-    },
-    {
-      "kind": "elision",
-      "subject": "העיר",
-      "rationale": "Hebreskan segir 'nafn borgarinnar', án sagnar; íslenskan krefst sagnarinnar 'heitir'."
-    }
-  ],
-  "translation": "Og hann kallaði hana Sjíva; þess vegna heitir borgin Be'er-Sjéva til þessa dags.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "87e152307804b1547e662f81c4918f982e25e5a16c97088a74a3ded420bd283e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/26\/33-35.1792393157290.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann kallaði hana Sjivá; þess vegna er nafn borgarinnar Beér-Sjivá, fram á ⟨þennan⟩ dag þennan.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -35,49 +14,49 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "hana (Sjíva)"
+      "marks": "hana (Sjivá)"
     },
     {
       "surface": "שבעה",
-      "gloss": "Sjíva"
+      "gloss": "Sjivá"
     },
     {
       "surface": "על",
-      "gloss": "á"
-    },
-    {
-      "surface": "כן",
       "gloss": "þess"
     },
     {
+      "surface": "כן",
+      "gloss": "vegna"
+    },
+    {
       "surface": "שם",
-      "gloss": "heitir"
+      "gloss": "nafn"
     },
     {
       "surface": "העיר",
-      "gloss": "borgin"
+      "gloss": "borgarinnar"
     },
     {
       "surface": "באר",
-      "gloss": "Be'er"
+      "gloss": "Beér-"
     },
     {
       "surface": "שבע",
-      "gloss": "Sjéva"
+      "gloss": "Sjivá"
     },
     {
       "surface": "עד",
-      "gloss": "til"
+      "gloss": "fram á"
     },
     {
       "surface": "היום",
-      "gloss": "dags"
+      "gloss": "dag"
     },
     {
       "surface": "הזה",
-      "gloss": "þessa"
+      "gloss": "þennan"
     }
   ],
-  "timestamp": "2026-10-19T06:59:17.290616292Z",
+  "timestamp": "2026-10-19T14:45:45.328450225Z",
   "model": "glm-5.3"
 }

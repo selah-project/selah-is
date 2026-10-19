@@ -5,49 +5,28 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "מלא את היד, 'að fylla hönd', er mynd fyrir að vígja til embættis; yfirborðsþýðing höldin."
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Setningin snýr að Aharon og sonum hans — hver má éta og hver ekki."
-    }
-  ],
-  "translation": "Og þeir skulu eta ⟨את⟩ þeim hlutum er sœtt var með þeim, til að fylla hönd þeirra, til að helga ⟨את⟩ þá; og útlendingur má ekki éta, því að heilagt eru þeir.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/29\/33-36.1792394957678.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir skulu eta ⟨את⟩ þau hluti með því að yfirbót var gjörð fyrir þá, til að fylla ⟨את⟩ hendur þeirra, til að helga ⟨את⟩ þá; en útlendingur má ekki eta, því að þeir eru heilagir.",
   "tokens": [
     {
       "surface": "ואכלו",
-      "gloss": "og þeir skulu eta"
+      "gloss": "Og þeir skulu eta"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "hlutirnir"
+      "marks": "þau hluti (af hrætinu og brauðinu, v. 32)"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "með því að"
     },
     {
       "surface": "כפר",
-      "gloss": "sœtt var"
+      "gloss": "yfirbót var gjörð"
     },
     {
       "surface": "בהם",
-      "gloss": "með þeim"
+      "gloss": "fyrir þá"
     },
     {
       "surface": "למלא",
@@ -56,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hönd þeirra"
+      "marks": "hendur þeirra"
     },
     {
       "surface": "ידם",
-      "gloss": "hönd þeirra"
+      "gloss": "hendur þeirra"
     },
     {
       "surface": "לקדש",
@@ -69,11 +48,11 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "þá"
+      "marks": "þá (Aharon og synir hans)"
     },
     {
       "surface": "וזר",
-      "gloss": "og útlendingur"
+      "gloss": "en útlendingur"
     },
     {
       "surface": "לא",
@@ -81,7 +60,7 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "má éta"
+      "gloss": " má eta"
     },
     {
       "surface": "כי",
@@ -89,13 +68,13 @@
     },
     {
       "surface": "קדש",
-      "gloss": "heilagt"
+      "gloss": "heilagir"
     },
     {
       "surface": "הם",
-      "gloss": "þeir"
+      "gloss": "þeir eru"
     }
   ],
-  "timestamp": "2026-10-19T07:29:17.679471822Z",
+  "timestamp": "2026-10-19T14:41:32.127937609Z",
   "model": "glm-5.3"
 }

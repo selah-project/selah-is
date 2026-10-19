@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "annað את (v. 6, 'með') er framhaldsforsetning 'með', ekki akkúsatívmerki — geymt sem merkt ⟨את⟩ með glósunni 'með'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "seventy",
-      "rationale": "synir konungsins taldir: sjötíu menn — tölvan gefur atburðarrásinni mannatal"
-    }
-  ],
-  "translation": "Og hann skrifaði þeim bréf í annat sinn og sagði: Ef þér eruð mínir og hlýðið rödd minni, þá takið ⟨את⟩ höfuð karlmanna sona herra yðar og komið til mín um þennan tíma á morgun, til Jisreel. En synir konungsins, sjötíu menn, voru með ⟨את⟩ höfðingjum borgarinnar, þeim sem ólu þá upp.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "be1a8a770bff10a9c15a04819da693d976c4ea2f28d5c234a34a1968f393f857",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/10\/5-8.1792403122409.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann skrifaði þeim bréf í annað sinn og sagði: Ef þér eruð mínir og hlýðið röddu minni, þá takið ⟨את⟩ höfuð mannaanna, sona herra yðar, og komið til mín um þetta leyti á morgun í Jisreel. Og synir konungsins, sjötíu menn, voru hjá ⟨את⟩ höfðingjum borgarinnar, ⟨þeir⟩ sem fóstruðu þá.",
   "tokens": [
     {
       "surface": "ויכתב",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "שנית",
-      "gloss": "í annat skipti"
+      "gloss": "í annað sinn"
     },
     {
       "surface": "לאמר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "ef"
+      "gloss": "Ef"
     },
     {
       "surface": "לי",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ולקלי",
-      "gloss": "og rödd minni"
+      "gloss": "og röddu minni"
     },
     {
       "surface": "אתם",
@@ -79,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "höfuð karlmanna sona herra yðar"
+      "marks": "höfuð mannaanna"
     },
     {
       "surface": "ראשי",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "karlmanna"
+      "gloss": "mannaanna"
     },
     {
       "surface": "בני",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "כעת",
-      "gloss": "um þennan tíma"
+      "gloss": "um þetta leyti"
     },
     {
       "surface": "מחר",
@@ -115,11 +94,11 @@
     },
     {
       "surface": "יזרעאלה",
-      "gloss": "til Jisreel"
+      "gloss": "í Jisreel"
     },
     {
       "surface": "ובני",
-      "gloss": "En synir"
+      "gloss": "Og synir"
     },
     {
       "surface": "המלך",
@@ -135,7 +114,7 @@
     },
     {
       "surface": "את",
-      "gloss": "með ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "höfðingjum borgarinnar"
     },
     {
@@ -148,13 +127,13 @@
     },
     {
       "surface": "מגדלים",
-      "gloss": "þeim sem ólu upp"
+      "gloss": "sem fóstruðu"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ þá"
     }
   ],
-  "timestamp": "2026-10-19T09:45:22.410807555Z",
+  "timestamp": "2026-10-19T14:34:40.869659370Z",
   "model": "glm-5.3"
 }

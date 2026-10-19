@@ -5,44 +5,23 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Eved-Melekh talar beint til konungsins: 'Herra minn, konungur'."
-    },
-    {
-      "kind": "crux",
-      "subject": "וימת",
-      "rationale": "Qatal-formin 'hann deyr' skýrð sem ýmtun um væntanlegt dauða (kven 'er að deyja') hjá flestum þýðendum; YLT heldur lögunni 'he dieth'."
-    }
-  ],
-  "translation": "Herra minn, konungur, illt hafa þessir menn gjört í öllu því sem þeir gjörðu Jirmejáhu spámanni: ⟨את⟩ því að þeir köstuðu honum í brunninn, og hann deyr þar neðan af sulti, því ekkert brauð er lengur í borginni.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "c545f77ebf24acfa78c9dad2f778b8e2c4d75c3a7dd36f4b856e18f31174f039",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/38\/9-12.1792406313616.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Herra minn, konungurinn, illt hafa gert þessir menn — ⟨את⟩ öllu því sem þeir gerðu Jeremía spámanni: ⟨את⟩ því sem þeir köstuðu honum í brunninn, og hann deyr undir sér vegna hungursins, því að brauð er ekki lengur í borginni.",
   "tokens": [
     {
       "surface": "אדני",
-      "gloss": "Herra minn"
+      "gloss": "herra minn"
     },
     {
       "surface": "המלך",
-      "gloss": "konungur"
+      "gloss": "konungurinn"
     },
     {
       "surface": "הרעו",
-      "gloss": "illt hafa þeir gjört"
+      "gloss": "illt hafa gert"
     },
     {
       "surface": "האנשים",
-      "gloss": "mennirnir"
+      "gloss": "menn"
     },
     {
       "surface": "האלה",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "alt"
+      "gloss": "allt"
     },
     {
       "surface": "אשר",
@@ -63,20 +42,20 @@
     },
     {
       "surface": "עשו",
-      "gloss": "þeir gjörðu"
+      "gloss": "þeir gerðu"
     },
     {
       "surface": "לירמיהו",
-      "gloss": "Jirmejáhu"
+      "gloss": "Jeremía"
     },
     {
       "surface": "הנביא",
-      "gloss": "spámanni"
+      "gloss": "spámanninum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "því að þeir köstuðu honum"
+      "marks": "því sem"
     },
     {
       "surface": "אשר",
@@ -100,23 +79,23 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "þar neðan"
+      "gloss": "undir sér"
     },
     {
       "surface": "מפני",
-      "gloss": "af"
+      "gloss": "vegna"
     },
     {
       "surface": "הרעב",
-      "gloss": "sulti"
+      "gloss": "hungursins"
     },
     {
       "surface": "כי",
-      "gloss": "því"
+      "gloss": "því að"
     },
     {
       "surface": "אין",
-      "gloss": "ekkert"
+      "gloss": "er ekki"
     },
     {
       "surface": "הלחם",
@@ -131,6 +110,6 @@
       "gloss": "í borginni"
     }
   ],
-  "timestamp": "2026-10-19T10:38:33.617554772Z",
+  "timestamp": "2026-10-19T14:49:43.214442350Z",
   "model": "glm-5.3"
 }

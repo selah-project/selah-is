@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בנותיה",
-      "rationale": "\"Dætur borgarinnar\" = útpostar og nærliggjandi þorp; myndin er hlutlaus í hebresku en felur í sér tengsl."
-    },
-    {
-      "kind": "crux",
-      "subject": "עפרון",
-      "rationale": "KJV les \"Efraím\", en sagnarótin er Efron (eða Efrayin); staðarheiti í Júda."
-    },
-    {
-      "kind": "measurement",
-      "subject": "borgalistinn",
-      "rationale": "Listi yfir unnar borgir: Bet-El, Jesjana, Efron."
-    }
-  ],
-  "translation": "Og Avíja elti Jeróbeam og tók af honum borgir: ⟨את⟩ Bet-El og dætur hennar, og ⟨את⟩ Jesjana og dætur hennar, og ⟨את⟩ Efron og dætur hennar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "f05b0fa9fef9bbce540275551967e13bef28c1794828c512749a257ddce2aff5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/13\/17-20.1792415596195.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Avíja elti eftir Jaravám og náði í borgir frá honum: ⟨את⟩ Beit-El og dætur þess, og ⟨את⟩ Jeshana og dætur þess, og ⟨את⟩ Efron og dætur þess.",
   "tokens": [
     {
       "surface": "וירדף",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jeróbeam"
+      "gloss": "Jaravám"
     },
     {
       "surface": "וילכד",
-      "gloss": "og tók"
+      "gloss": "náði í"
     },
     {
       "surface": "ממנו",
-      "gloss": "af honum"
+      "gloss": "frá honum"
     },
     {
       "surface": "ערים",
@@ -64,46 +38,46 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bet-El"
+      "marks": "Beit-El"
     },
     {
       "surface": "בית",
-      "gloss": "Bet-"
+      "gloss": "Beit-El"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "-El"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Jesjana"
+      "gloss": "og ⟨את⟩",
+      "marks": "dætur þess (Beit-El)"
     },
     {
       "surface": "בנותיה",
-      "gloss": "dætur hennar"
+      "gloss": "dætur þess"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Jesjana"
+      "gloss": "og ⟨את⟩",
+      "marks": "Jeshana"
     },
     {
       "surface": "ישנה",
-      "gloss": "Jesjana"
+      "gloss": "Jeshana"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Efron"
+      "gloss": "og ⟨את⟩",
+      "marks": "dætur þess (Jeshana)"
     },
     {
       "surface": "בנותיה",
-      "gloss": "dætur hennar"
+      "gloss": "dætur þess"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "Efron"
     },
     {
@@ -112,9 +86,9 @@
     },
     {
       "surface": "ובנתיה",
-      "gloss": "og dætur hennar"
+      "gloss": "og dætur þess"
     }
   ],
-  "timestamp": "2026-10-19T13:13:16.196560193Z",
+  "timestamp": "2026-10-19T14:33:43.917014557Z",
   "model": "glm-5.3"
 }

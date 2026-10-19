@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "מכור הברזל 'járnofnin' — myndlíning úr 5. Mós 4:20; Ísrael smelt úr Egyptalandi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "בקולי hlýða 'í rödd minna' — íslenska þarf frekari smið en hebreskan heldur 'rödd' myndina"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "והייתם...ואנכי אהיה",
-      "rationale": "Kíasmísk tvenna: 'þér skuluð verða mér að þjóð \/ ég mun verða ykkur að Elóhím' — sáttmálstvenna í speglun"
-    }
-  ],
-  "translation": "sem ég bauð ⟨את⟩ feður ykkar, þegar ég leiddi þá út úr landi Mitsrajím, úr járnofninum, og sagði: Heyrið rödd minna og gjörið ⟨את⟩ þau eftir öllu því sem ég byð ykkur, og þér skuluð verða mér að þjóð, og ég mun verða ykkur að Elóhím.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/11\/1-4.1792405574797.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sá er ég bauð föður ykkar, ⟨á⟩ deginum er ég leiddi ⟨את⟩ þá út úr landi Mitsrajím, úr járnofninum, og sagði: Heyrið í röddu minni og gjörið ⟨את⟩ það, í öllu því sem ég býð ykkur, og þér skuluð verða mér að þjóð, og ég mun verða ykkur að Elóhím.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "sá er"
     },
     {
       "surface": "צויתי",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "feður ykkar"
+      "marks": "föður ykkar"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "feður ykkar"
+      "gloss": "föður ykkar"
     },
     {
       "surface": "ביום",
-      "gloss": "þegar"
+      "gloss": "á deginum"
     },
     {
       "surface": "הוציאי",
@@ -61,11 +35,11 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ þá",
-      "marks": "feðurnir"
+      "marks": "þá (föðurna) út úr landi Mitsrajím"
     },
     {
       "surface": "מארץ",
-      "gloss": "úr landi"
+      "gloss": "út úr landi"
     },
     {
       "surface": "מצרים",
@@ -73,11 +47,11 @@
     },
     {
       "surface": "מכור",
-      "gloss": "úr ofni"
+      "gloss": "ofn"
     },
     {
       "surface": "הברזל",
-      "gloss": "járn"
+      "gloss": "járn-"
     },
     {
       "surface": "לאמר",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "שמעו",
-      "gloss": "Heyrið"
+      "gloss": "heyrið"
     },
     {
       "surface": "בקולי",
-      "gloss": "rödd minna"
+      "gloss": "í röddu minni"
     },
     {
       "surface": "ועשיתם",
@@ -97,25 +71,25 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þau",
-      "marks": "orðin"
+      "gloss": "⟨את⟩ það",
+      "marks": "það, í öllu því"
     },
     {
       "surface": "ככל",
-      "gloss": "eftir öllu"
+      "gloss": "í öllu"
     },
     {
       "surface": "אשר",
-      "gloss": "því sem"
+      "gloss": "því er"
     },
     {
       "surface": "אצוה",
-      "gloss": "ég byð"
+      "gloss": "ég býð"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ ykkur",
-      "marks": "þér"
+      "marks": "ykkur"
     },
     {
       "surface": "והייתם",
@@ -146,6 +120,6 @@
       "gloss": "að Elóhím"
     }
   ],
-  "timestamp": "2026-10-19T10:26:14.799026850Z",
+  "timestamp": "2026-10-19T14:48:30.525376024Z",
   "model": "glm-5.3"
 }

@@ -5,93 +5,69 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dýr vallarins",
-      "rationale": "חית השדה er eintala með greini — 'dýr vallarins' sem heild, ekki 'villtu dýrin' fleirtölu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ושכלה",
-      "gloss": "Lít. 'mun láta fósturfalla' — um að svipta börnum, en orðið sjálft er um fósturmissi."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨er⟩",
-      "rationale": "Forsætisbinding sem hebreskan felur í sagnmyndinni bætt við."
-    }
-  ],
-  "translation": "Og ég mun senda á yður ⟨את⟩ dýr vallarins, og ⟨er⟩ það mun svipta yður afkvæmum og eyða búfénu yðar, og færa yður niður, og vegir yðar munu liggja auðnir.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/21-24.1792396249350.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég sendi yfir ykkur ⟨את⟩ dýr marksins, og hún mun svipta ykkur börnum, og hún mun afmekka ⟨את⟩ búfé ykkar, og hún mun færa ykkur í fáld, og vegir ykkar verða eyði.",
   "tokens": [
     {
       "surface": "והשלחתי",
-      "gloss": "Og ég mun senda"
+      "gloss": "Og ég sendi ykkur"
     },
     {
       "surface": "בכם",
-      "gloss": "á yður"
+      "gloss": "yfir ykkur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dýr vallarins"
+      "marks": "dýr marksins"
     },
     {
       "surface": "חית",
-      "gloss": "dýr"
+      "gloss": "dýr marksins"
     },
     {
       "surface": "השדה",
-      "gloss": "vallarins"
+      "gloss": "marksins"
     },
     {
       "surface": "ושכלה",
-      "gloss": "og mun svipta afkvæmum"
+      "gloss": "svipta ykkur börnum"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "svipta ykkur börnum"
     },
     {
       "surface": "והכריתה",
-      "gloss": "og eyða"
+      "gloss": "afmekka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "búfénu yðar"
+      "marks": "búfé ykkar"
     },
     {
       "surface": "בהמתכם",
-      "gloss": "búfénu yðar"
+      "gloss": "búfé ykkar"
     },
     {
       "surface": "והמעיטה",
-      "gloss": "og færa niður"
+      "gloss": "færa í fáld"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "færa í fáld"
     },
     {
       "surface": "ונשמו",
-      "gloss": "og munu liggja auðnir"
+      "gloss": "verða eyði"
     },
     {
       "surface": "דרכיכם",
-      "gloss": "vegir yðar"
+      "gloss": "vegir ykkar"
     }
   ],
-  "timestamp": "2026-10-19T07:50:49.351395895Z",
+  "timestamp": "2026-10-19T14:54:09.000245620Z",
   "model": "glm-5.3"
 }

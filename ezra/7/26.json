@@ -5,32 +5,11 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "rætur",
-      "rationale": "לשרשו: orð-líking 'að rífa upp rætur' — útlegð eða rekning fram úr landi; KJV 'útlegð'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "Aramæska drættin דתא די מלכא losaður yfir í hliðstæða íslenska samsetningu — samhengi sést í tölkunum."
-    }
-  ],
-  "translation": "Og hvern sem ekki framkvæmir lög Elóa þíns og lögin konungsins, honum skal dæmt óseðanlega — hvort heldur til dauða, til rótarstiftingar, til sektar fararþegna eða til fangelsis.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "492f4c1c60e03f7c005741de2bc0cb6f2acfd022abf8a536516f3c292992435a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/7\/25-28.1792413998208.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hvern sem ekki framkvæmir lög Elóa þíns og lög konungsins, honum skal dæmt með öllu fljótlega — hvort heldur til dauða, eða til upprætingar, eða til sektar á eignum, eða til fangelsis.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "og hvern"
+      "gloss": "Og hvern"
     },
     {
       "surface": "די",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": ""
+      "gloss": "að gjöra"
     },
     {
       "surface": "דתא",
@@ -54,39 +33,39 @@
     },
     {
       "surface": "די",
-      "gloss": "Elóa"
-    },
-    {
-      "surface": "אלהך",
       "gloss": "þíns"
     },
     {
+      "surface": "אלהך",
+      "gloss": "Elóa"
+    },
+    {
       "surface": "ודתא",
-      "gloss": "og lögin"
+      "gloss": "og lög"
     },
     {
       "surface": "די",
-      "gloss": "konungsins"
+      "gloss": "þess"
     },
     {
       "surface": "מלכא",
-      "gloss": ""
+      "gloss": "konungsins"
     },
     {
       "surface": "אספרנא",
-      "gloss": "óseðanlega"
+      "gloss": "með öllu fljótlega"
     },
     {
       "surface": "דינה",
-      "gloss": "dæmt"
+      "gloss": "dómi"
     },
     {
       "surface": "להוא",
-      "gloss": "honum skal"
+      "gloss": "skal"
     },
     {
       "surface": "מתעבד",
-      "gloss": "fremjað"
+      "gloss": "framkvæmdur"
     },
     {
       "surface": "מנה",
@@ -106,7 +85,7 @@
     },
     {
       "surface": "לשרשו",
-      "gloss": "til rótarstiftingar"
+      "gloss": "til upprætingar"
     },
     {
       "surface": "הן",
@@ -118,13 +97,13 @@
     },
     {
       "surface": "נכסין",
-      "gloss": "fararþegna"
+      "gloss": "á eignum"
     },
     {
       "surface": "ולאסורין",
       "gloss": "eða til fangelsis"
     }
   ],
-  "timestamp": "2026-10-19T12:46:38.209827679Z",
+  "timestamp": "2026-10-19T14:44:56.219924795Z",
   "model": "glm-5.3"
 }

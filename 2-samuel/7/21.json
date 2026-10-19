@@ -5,31 +5,15 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "⟨þess⟩ bætt við — hebreskan segir aðeins 'til að kenna þjón þinn'"
-    }
-  ],
-  "translation": "Fyrir orð þíns sakir og eftir hjarta þínu hefir þú gjört ⟨את⟩ alla þessa stórkostleika, til að láta þinn þjón vita ⟨þess⟩.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "a1d174db72177a2b8a5363b0d9894050428bface4dfd08d88c6e3aa957ae350e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/7\/21-24.1792401287034.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fyrir orð þín sakir og eftir hjarta þínu hefir þú gjört ⟨את⟩ alla þessa vegsemd, til þess að gera ⟨את⟩ þjóni þínum kunnan.",
   "tokens": [
     {
       "surface": "בעבור",
-      "gloss": "fyrir sakir"
+      "gloss": "fyrir ... sakir"
     },
     {
       "surface": "דברך",
-      "gloss": "orð þíns"
+      "gloss": "orð þín"
     },
     {
       "surface": "וכלבך",
@@ -42,34 +26,34 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alla þenna stórkostleika"
+      "marks": "alla þessa vegsemd"
     },
     {
       "surface": "כל",
-      "gloss": "allan"
+      "gloss": "all-"
     },
     {
       "surface": "הגדולה",
-      "gloss": "stórkostleikann"
+      "gloss": "vegsemd"
     },
     {
       "surface": "הזאת",
-      "gloss": "þennan"
+      "gloss": "þessa"
     },
     {
       "surface": "להודיע",
-      "gloss": "til að láta vita"
+      "gloss": "til þess að gera kunnan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þinn þjón"
+      "marks": "þjóni þínum"
     },
     {
       "surface": "עבדך",
-      "gloss": "þinn þjón"
+      "gloss": "þjóni þínum"
     }
   ],
-  "timestamp": "2026-10-19T09:14:47.035746391Z",
+  "timestamp": "2026-10-19T14:37:12.431545663Z",
   "model": "glm-5.3"
 }

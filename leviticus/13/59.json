@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "צרעæt runnin saman við נגע í einu orðatilhögun — 'sýking holdsveiki' ekki endurtekið"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "fornafnið 'það' bætt við fyrir endingarnar -ו í לטהרו\/לטמאו"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "lokaform Tóru-kaflans — lagasetning tæmandi upptalning efnis, spinings og skinnfæra"
-    }
-  ],
-  "translation": "Þetta er Tóra sýkingarinnar í fatnaði úr ull eða hör, í inntexta eða úttexta eða í nokkru skinnfæri — til aðskýra ⟨það⟩ hreint eða óhreint.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "bbad8c3a36eb475c0e5c575df21ec0720309a8839c92b754f30bda53f218e7b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/57-59.1792395710881.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þetta er Tóra um sár tsaráat í fatnaði úr ull eða hör, eða í innvefðum þráðum eða útvefðum þráðum, eða í nokkru skinnfæri — ⟨til⟩ að segja ⟨það⟩ hreint eða óhreint.",
   "tokens": [
     {
       "surface": "זאת",
@@ -39,23 +13,23 @@
     },
     {
       "surface": "תורת",
-      "gloss": "er Tóra"
+      "gloss": "Tóra"
     },
     {
       "surface": "נגע",
-      "gloss": "sýkingarinnar"
+      "gloss": "sár"
     },
     {
       "surface": "צרעת",
-      "gloss": ""
+      "gloss": "tsaráat"
     },
     {
       "surface": "בגד",
-      "gloss": "í fatnaði"
+      "gloss": "fatnaði"
     },
     {
       "surface": "הצמר",
-      "gloss": "úr ull"
+      "gloss": "ull"
     },
     {
       "surface": "או",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "השתי",
-      "gloss": "inntexta"
+      "gloss": "innvefðum þráðum"
     },
     {
       "surface": "או",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "הערב",
-      "gloss": "úttexta"
+      "gloss": "útvefðum þráðum"
     },
     {
       "surface": "או",
@@ -95,11 +69,11 @@
     },
     {
       "surface": "עור",
-      "gloss": "skinn"
+      "gloss": "skinn-"
     },
     {
       "surface": "לטהרו",
-      "gloss": "til aðskýra ⟨það⟩ hreint"
+      "gloss": "að segja hreint"
     },
     {
       "surface": "או",
@@ -110,6 +84,6 @@
       "gloss": "óhreint"
     }
   ],
-  "timestamp": "2026-10-19T07:41:50.884114924Z",
+  "timestamp": "2026-10-19T14:53:37.963340335Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "אך…כי אם er afmarkandi tenging: ‚aðeins — nema‘, gerð sem ‚Þó… heldur‘"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "כי אם fellur saman við ‚heldur‘ og fær ekki sérstaka glósu"
-    }
-  ],
-  "translation": "Þó stigu prestar hátyppanna ekki upp að altari Jahve í Jerúsjalajím, heldur óu þeir ósýrð brauð mitt í meðal bræðra sinna.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c493ed7b8e435d9efa04da4508e918ad2850d751de332aa995d4b506d4460edf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/23\/9-12.1792403533832.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aðeins stigu prestir hámsetanna ekki upp á altari Jahve í Jerúsjalajím, heldur átu þeir ósýrðbrauð meðal bræðra sinna.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Þó"
+      "gloss": "aðeins"
     },
     {
       "surface": "לא",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "יעלו",
-      "gloss": "stigu"
+      "gloss": "stigu upp"
     },
     {
       "surface": "כהני",
-      "gloss": "prestar"
+      "gloss": "prestir"
     },
     {
       "surface": "הבמות",
-      "gloss": "hátyppanna"
+      "gloss": "hámsetanna"
     },
     {
       "surface": "אל",
-      "gloss": "upp að"
+      "gloss": "á"
     },
     {
       "surface": "מזבח",
@@ -70,25 +49,25 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨heldur⟩"
     },
     {
       "surface": "אכלו",
-      "gloss": "óu þeir"
+      "gloss": "átu þeir"
     },
     {
       "surface": "מצות",
-      "gloss": "ósýrð brauð"
+      "gloss": "ósýrðbrauð"
     },
     {
       "surface": "בתוך",
-      "gloss": "mitt í"
+      "gloss": "meðal"
     },
     {
       "surface": "אחיהם",
-      "gloss": "bræðrum sínum"
+      "gloss": "bræðra sinna"
     }
   ],
-  "timestamp": "2026-10-19T09:52:13.832721544Z",
+  "timestamp": "2026-10-19T14:35:44.669359635Z",
   "model": "glm-5.3"
 }

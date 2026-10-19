@@ -5,36 +5,16 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "hér er את forsetningin 'með' (H854), ekki beinar fallmerkið — ⟨með⟩ borið í íslenskri þýðingu"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "felatíminn talinn: sex ár í húsi Elóhím"
-    }
-  ],
-  "translation": "Og hann var ⟨með⟩ þeim í húsi Elóhím, faldur sex ár, meðan Ataljá réð yfir landinu.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "c09938c0c2352b3e1eb16fa77ca221ecea3486b7c8c4b20815322acb56e2e0d2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/22\/9-12.1792415744762.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ hann var með þeum í húsi Elóhím falinn í sex ár, og Atalía réð yfir landinu.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og hann var"
+      "gloss": "Og var"
     },
     {
       "surface": "אתם",
-      "gloss": "með ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "בבית",
@@ -46,7 +26,7 @@
     },
     {
       "surface": "מתחבא",
-      "gloss": "faldur"
+      "gloss": "falinn"
     },
     {
       "surface": "שש",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "ועתליה",
-      "gloss": "meðan Ataljá"
+      "gloss": "og Atalía"
     },
     {
       "surface": "מלכת",
@@ -73,6 +53,6 @@
       "gloss": "landinu"
     }
   ],
-  "timestamp": "2026-10-19T13:15:44.763631668Z",
+  "timestamp": "2026-10-19T14:34:06.550975154Z",
   "model": "glm-5.3"
 }

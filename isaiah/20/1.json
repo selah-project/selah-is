@@ -5,33 +5,11 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "סרגון",
-      "rationale": "Sargon — þetta er eina minningin á Sargon konungi í Tanakh, þótt hann ríkti yfir Assýríu í sautján ár."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "gloss": "חה",
-      "rationale": "אתו er aleph-tav með persónufornafni; valdi að merkja aðeins fornafnið 'hann', ekki tvöfaldan ⟨את⟩-markara."
-    }
-  ],
-  "translation": "Á því ári er Tartan kom til Asjdódar, er Sargon, konungur Assýríu, sendi hann, og hann barðist gegn Asjdód og hertók hana,",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/20\/1-4.1792404075448.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Á árinu sem Tartan kom til Asjdod, er Sargón, konungur Asjúr, sendi hann ⟨את⟩, og hann barðist gegn Asjdod og vann hana.",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "Á því ári"
+      "gloss": "Á árinu"
     },
     {
       "surface": "בא",
@@ -43,19 +21,20 @@
     },
     {
       "surface": "אשדודה",
-      "gloss": "til Asjdódar"
+      "gloss": "til Asjdod"
     },
     {
       "surface": "בשלח",
-      "gloss": "er … sendi"
+      "gloss": "er ... sendi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann — Sargón"
     },
     {
       "surface": "סרגון",
-      "gloss": "Sargon"
+      "gloss": "Sargón"
     },
     {
       "surface": "מלך",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Assýríu"
+      "gloss": "Asjúr"
     },
     {
       "surface": "וילחם",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "באשדוד",
-      "gloss": "gegn Asjdód"
+      "gloss": "gegn Asjdod"
     },
     {
       "surface": "וילכדה",
-      "gloss": "og hertók hana"
+      "gloss": "og vann hana"
     }
   ],
-  "timestamp": "2026-10-19T10:01:15.449424085Z",
+  "timestamp": "2026-10-19T14:47:12.818015083Z",
   "model": "glm-5.3"
 }

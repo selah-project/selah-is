@@ -5,31 +5,15 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "אתו er forsetningin 'með honum' (H854), ekki merkimiðinn; ⟩með⟨ bætt við til skýringar"
-    }
-  ],
-  "translation": "Og varð, er allt það fólk sem hjá Jisjmael var sá ⟨את⟩ Jókhana, son Kareaks, og ⟨את⟩ alla höfðingja hersins sem ⟨með⟩ honum var, þá glöddust þeir.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "ab8b0b76bdfb311fd0f7c121e377008b83663e3994a66df64375b37d4f8549ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/41\/13-16.1792406327177.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨að⟩ þegar allt fólkið sem hjá ⟨את⟩ Jisjmael var sá ⟨את⟩ Jókhanan, son Karka, og ⟨את⟩ alla höfðingja hersveitanna sem ⟨את⟩ með honum voru, þá glöddust þeir.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og varð"
+      "gloss": "Og ⟨að⟩ þegar"
     },
     {
       "surface": "כראות",
-      "gloss": "er... sá"
+      "gloss": "sá"
     },
     {
       "surface": "כל",
@@ -45,8 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Jisjmael"
+      "gloss": "hjá ⟨את⟩"
     },
     {
       "surface": "ישמעאל",
@@ -55,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jókhana"
+      "marks": "Jókhanan, son Karka"
     },
     {
       "surface": "יוחנן",
-      "gloss": "Jókhana"
+      "gloss": "Jókhanan"
     },
     {
       "surface": "בן",
@@ -67,12 +50,12 @@
     },
     {
       "surface": "קרח",
-      "gloss": "Kareaks"
+      "gloss": "Karka"
     },
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "alla höfðingja hersins"
+      "marks": "alla höfðingja hersveitanna"
     },
     {
       "surface": "כל",
@@ -84,7 +67,7 @@
     },
     {
       "surface": "החילים",
-      "gloss": "hersins"
+      "gloss": "hersveitanna"
     },
     {
       "surface": "אשר",
@@ -92,13 +75,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ með honum"
+      "gloss": "með honum ⟨את⟩"
     },
     {
       "surface": "וישמחו",
       "gloss": "þá glöddust þeir"
     }
   ],
-  "timestamp": "2026-10-19T10:38:47.177904280Z",
+  "timestamp": "2026-10-19T14:49:56.413298948Z",
   "model": "glm-5.3"
 }

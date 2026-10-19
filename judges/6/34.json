@@ -5,50 +5,50 @@
   "book": "judges",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "klæddi",
-      "rationale": "לבש 'að klæðast' — rúakh Jahve 'klæðist' Gídeoni, myndlíking flutt á virða í íslensku"
-    },
-    {
-      "kind": "crux",
-      "subject": "ויזעק אביעזר",
-      "rationale": "'Avíezer var kallaður saman' (hljóðlegt og ópersónulegt) eða 'hann kallaði saman Avíezer' — þýðendur skarast"
-    }
-  ],
-  "translation": "Og rúakh Jahve klæddi ⟨את⟩ Gídeon, og hann stúfaði í sjofarhorni og kallaði saman ⟨את⟩ Avíezer á eftir sér.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "f400795a03e4f0d40d078b59238be634684544a97733b3a091a8f48c2c10eca5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/6\/33-36.1792399580215.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og rúakh Jahve klæddi ⟨את⟩ Gídeon, og hann hljóðaði í horn, og Avíezer var saman kallaður á eftir honum.",
   "tokens": [
     {
+      "surface": "ורוח",
+      "gloss": "Og rúakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "klæddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gídeon"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gídeon"
+    },
+    {
       "surface": "ויתקע",
-      "gloss": "og hann stúfaði"
+      "gloss": "og hann hljóðaði"
     },
     {
       "surface": "בשופר",
-      "gloss": "í sjofarhorni"
+      "gloss": "í horn"
     },
     {
       "surface": "ויזעק",
-      "gloss": "og kallaði saman"
+      "gloss": "og var saman kallaður"
     },
     {
       "surface": "אביעזר",
-      "gloss": "⟨את⟩ Avíezer"
+      "gloss": "Avíezer"
     },
     {
       "surface": "אחריו",
-      "gloss": "á eftir sér"
+      "gloss": "á eftir honum"
     }
   ],
-  "timestamp": "2026-10-19T08:46:20.216524302Z",
+  "timestamp": "2026-10-19T14:52:41.870519527Z",
   "model": "glm-5.3"
 }

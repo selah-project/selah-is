@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "שחד er mútugjöf eða kaupfé — „gjöf“ er mildasta ráð; „múta“ er hin hvassari merking"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "„er“ — hebreskan segir bara „sáttmáli milli mín og þín“ án sögnar"
-    },
-    {
-      "kind": "you",
-      "subject": "til Ben-Hadad",
-      "rationale": "beint ræðueyti Asa konungs til Ben-Hadadar í bréfi"
-    }
-  ],
-  "translation": "Sáttmáli er milli mín og þín, milli föður míns og föður þíns; sjá, ég hef sent þér gjöf, silfur og gull — far þú og brjót þinn sáttmála ⟨את⟩ við Baesja, konung Ísraels, þá fer hann frá mér.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "9344ec42730eadce2f499cd0a6e092ea1b6f13d4309e740b868f84d460134a5c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/15\/17-20.1792402530348.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sáttmáli er milli mín og þín, milli föður míns og föður þíns; sjá, ég hef sent þér gjöf, silfur og gull: farðu, brýtu sáttmál þinn ⟨את⟩ við Bæsha, konung Ísraels, svo að hann fer héðan frá mér.",
   "tokens": [
     {
       "surface": "ברית",
-      "gloss": "Sáttmáli"
+      "gloss": "sáttmáli"
     },
     {
       "surface": "ביני",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ובינך",
-      "gloss": "og þín"
+      "gloss": "og milli þín"
     },
     {
       "surface": "בין",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "og"
+      "gloss": "og milli"
     },
     {
       "surface": "אביך",
@@ -87,28 +61,29 @@
     },
     {
       "surface": "לך",
-      "gloss": "far"
+      "gloss": "farðu"
     },
     {
       "surface": "הפרה",
-      "gloss": "brjót"
+      "gloss": "brýtu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þinn sáttmála"
+      "marks": "sáttmál þinn"
     },
     {
       "surface": "בריתך",
-      "gloss": "þinn sáttmála"
+      "gloss": "sáttmál þinn"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ við"
+      "gloss": "⟨את⟩",
+      "marks": "Bæsha, konung Ísraels"
     },
     {
       "surface": "בעשא",
-      "gloss": "Baesja"
+      "gloss": "Bæsha"
     },
     {
       "surface": "מלך",
@@ -120,13 +95,13 @@
     },
     {
       "surface": "ויעלה",
-      "gloss": "þá fer hann"
+      "gloss": "svo að hann fer héðan"
     },
     {
       "surface": "מעלי",
       "gloss": "frá mér"
     }
   ],
-  "timestamp": "2026-10-19T09:35:30.349603748Z",
+  "timestamp": "2026-10-19T14:31:51.531205978Z",
   "model": "glm-5.3"
 }

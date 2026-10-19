@@ -5,35 +5,19 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "dáinn",
-      "rationale": "מת getur verið 'dauður' eða 'deyjandi'; KJs les 'dauður', YLT 'deyjandi'."
-    }
-  ],
-  "translation": "Þjónar hans settu hann, dáinn, á vagn frá Megiddó og fluttu hann til Jerúsjalajím og grófu hann í gröf hans. Og lýður landsins tóku ⟨את⟩ Jehóakhaz, son Jósjíahú, og smuru hann og gerðu hann að konungi í stað föður hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b015b50d43b29ee7b38106a5b34c9cca2fe34d6bac43bfeedb9acbca03c5eb85",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/23\/29-32.1792403507596.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þjónar hans lögðu hann ⟨dauðan⟩ á vöggu sína frá Megiddó og fluttu hann til Jerúsjalajím og grófu hann í gröf hans. Og lýðsþjóð landsins tók ⟨את⟩ Jehóakhaz, son Jósíja, og smurðu hann og gjörðu hann að konungi í stað föður hans.",
   "tokens": [
     {
       "surface": "וירכבהו",
-      "gloss": "settu hann á vagn"
+      "gloss": "lögðu hann á vöggu"
     },
     {
       "surface": "עבדיו",
-      "gloss": "Þjónar hans"
+      "gloss": "þjónar hans"
     },
     {
       "surface": "מת",
-      "gloss": "dáinn"
+      "gloss": "dauðan"
     },
     {
       "surface": "ממגדו",
@@ -57,11 +41,11 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "Og tóku"
+      "gloss": "og tók"
     },
     {
       "surface": "עם",
-      "gloss": "lýður"
+      "gloss": "lýðsþjóð"
     },
     {
       "surface": "הארץ",
@@ -82,25 +66,25 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Jósjíahú"
+      "gloss": "Jósíja"
     },
     {
       "surface": "וימשחו",
-      "gloss": "og smuru"
+      "gloss": "og smurðu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "hann (Jehóakhaz)"
+      "gloss": "⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "וימליכו",
-      "gloss": "og gerðu hann að konungi"
+      "gloss": "og gjörðu hann að konungi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "hann (Jehóakhaz)"
+      "gloss": "⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "תחת",
@@ -111,6 +95,6 @@
       "gloss": "föður hans"
     }
   ],
-  "timestamp": "2026-10-19T09:51:47.597751163Z",
+  "timestamp": "2026-10-19T14:35:34.439907258Z",
   "model": "glm-5.3"
 }

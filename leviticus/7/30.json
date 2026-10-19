@@ -5,45 +5,24 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "vifjun",
-      "rationale": "תנופה er hin formlega 'vifjaða fórn' — hreyfingin upp og niður, ekki aðeins 'gjöf'."
-    },
-    {
-      "kind": "addition",
-      "subject": "ásjá",
-      "rationale": "לפני er 'andlit\/fyrir andliti'; 'fyrir ásjáu' gerir hverfa andlitsins sýnilega."
-    }
-  ],
-  "translation": "Hendur hans skulu bera eldfórnir Jahve: fituna á brjóstinu skal hann færa; ⟨את⟩ brjóstið, til að vifja ⟨את⟩ því sem vifjun fyrir ásjáu Jahve.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/7\/29-32.1792395476377.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hendurnar hans skulu færa ⟨את⟩ elsfórnir Jahve; ⟨את⟩ feitið á brjóstinu skal hann færa, ⟨את⟩ brjóstið, til að veifa ⟨את⟩ því sem veififórn fyrir augliti Jahve.",
   "tokens": [
     {
       "surface": "ידיו",
-      "gloss": "Hendur hans"
+      "gloss": "hendurnar hans"
     },
     {
       "surface": "תביאינה",
-      "gloss": "skulu bera"
+      "gloss": "skulu færa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eldfórnir Jahve"
+      "marks": "elsfórnir"
     },
     {
       "surface": "אשי",
-      "gloss": "eldfórnir"
+      "gloss": "elsfórnir"
     },
     {
       "surface": "יהוה",
@@ -52,11 +31,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fituna"
+      "marks": "feitið"
     },
     {
       "surface": "החלב",
-      "gloss": "fituna"
+      "gloss": "feitið"
     },
     {
       "surface": "על",
@@ -81,26 +60,26 @@
     },
     {
       "surface": "להניף",
-      "gloss": "til að vifja"
+      "gloss": "til að veifa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "því"
+      "gloss": "⟨את⟩ því",
+      "marks": "veififórn"
     },
     {
       "surface": "תנופה",
-      "gloss": "vifjun"
+      "gloss": "sem veififórn"
     },
     {
       "surface": "לפני",
-      "gloss": "fyrir ásjáu"
+      "gloss": "fyrir augliti"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T07:37:56.378828344Z",
+  "timestamp": "2026-10-19T14:55:17.375475080Z",
   "model": "glm-5.3"
 }

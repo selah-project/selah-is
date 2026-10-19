@@ -5,40 +5,19 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "svívirðing",
-      "rationale": "דבה er bókstaflega „orðræða\/því milli“ — hér um ósannaða sögusögn; „svívirðing“ gefur dóm hennar sem textinn birtir."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "לתור אתה \/ ארץ אוכלת",
-      "rationale": "Kannun (תור) og land sem „étur“ — ögrandi andstæða landinu sem flæðir af mjólk og hunangi (4M 13:27 hefjast svipuð ræða)."
-    }
-  ],
-  "translation": "Og þeir færðu út svívirðingu um landið sem þeir könnuðu, meðal Ísraelsmanna, og sögðu: Landið sem vér fórum í gegnum til að kanna ⟨את⟩ það er land sem étur íbúa sína, og allur lýðurinn er vér sáum í því eru menn vaxnir að stærð.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "74981d40120b5fc08c207594df6e041d32164833b8dbfc0bdab3308e8d37e936",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/13\/29-32.1792396805468.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir fluttu út slúður um landið sem þeir könnuðu ⟨את⟩ það, til sona Ísraels, og sögðu: Landið sem við fórum í gegnum til að kanna ⟨את⟩ það er land sem étur íbúa sína, og allt fólkið sem við sáum í því eru menn af vöxtum.",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "Og þeir færðu út"
+      "gloss": "Og þeir fluttu út"
     },
     {
       "surface": "דבת",
-      "gloss": "svívirðingu"
+      "gloss": "slúður"
     },
     {
       "surface": "הארץ",
-      "gloss": "um landið"
+      "gloss": "landið"
     },
     {
       "surface": "אשר",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "תרו",
-      "gloss": "þeir könnuðu"
+      "gloss": "könnuðu"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "landið"
     },
     {
       "surface": "אל",
-      "gloss": "meðal"
+      "gloss": "til"
     },
     {
       "surface": "בני",
-      "gloss": "manna"
+      "gloss": "sona"
     },
     {
       "surface": "ישראל",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "Landið"
+      "gloss": "landið"
     },
     {
       "surface": "אשר",
@@ -79,20 +58,20 @@
     },
     {
       "surface": "עברנו",
-      "gloss": "vér fórum í gegnum"
+      "gloss": "við fórum í gegnum"
     },
     {
       "surface": "בה",
-      "gloss": "í því"
+      "gloss": "það"
     },
     {
       "surface": "לתור",
-      "gloss": "til að kanna"
+      "gloss": "að kanna"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "land"
     },
     {
       "surface": "ארץ",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "אכלת",
-      "gloss": "sem étur"
+      "gloss": "etur"
     },
     {
       "surface": "יושביה",
@@ -112,11 +91,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "og allur"
+      "gloss": "og allt"
     },
     {
       "surface": "העם",
-      "gloss": "lýðurinn"
+      "gloss": "fólkið"
     },
     {
       "surface": "אשר",
@@ -124,7 +103,7 @@
     },
     {
       "surface": "ראינו",
-      "gloss": "vér sáum"
+      "gloss": "sáum"
     },
     {
       "surface": "בתוכה",
@@ -132,13 +111,13 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "eru menn"
+      "gloss": "menn"
     },
     {
       "surface": "מדות",
-      "gloss": "vaxnir að stærð"
+      "gloss": "af vöxtum"
     }
   ],
-  "timestamp": "2026-10-19T08:00:05.469862509Z",
+  "timestamp": "2026-10-19T14:55:09.696181098Z",
   "model": "glm-5.3"
 }

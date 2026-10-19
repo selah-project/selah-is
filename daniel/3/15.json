@@ -5,33 +5,7 @@
   "book": "daniel",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "קיתרס · פסנתרין · סומפניה",
-      "rationale": "Grísk lánuorð fyrir hljóðfæri — framandi orð í arömsku borgríkinu."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨vel⟩",
-      "rationale": "Aramska sleppir andsvari konungs í fyrri skilyrðingunni; greinarmunurinn „þá er vel“ er óræður í grunntextanum."
-    },
-    {
-      "kind": "crux",
-      "subject": "אלה",
-      "rationale": "Konungurinn segir „guð“ með litlum staf — hann heldur að enginn guð frelsi þá; í kjölfarið sannar Elóa þetta."
-    }
-  ],
-  "translation": "Nú þá — ef þér eruð reiðubúnir, þegar þið heyrið hljóð lúðarsins, flautunnar, kitörunnar, sambúkunnar, saltéríunnar, sumpóníunnar og alls konar tónlist, að falla niður og tilbiðja líkneskið sem ég hef gert — <vel> — en ef þér tilbiðjið ekki, verðið þið í þá stund kastað inn í miðju brennandi eldinnar; og hver er sá guð sem geti leyst ykkur úr hendi minni?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "26727df9c02b408a8c562992b9027dc8f78413a7dffad5f46f9e777eaed371df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/3\/13-16.1792413549214.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nú þá — ef þér eruð reiðubúnir, þegar þér heyrið hljóð lúðrans, flautunnar, kitvers, sambúku, salteríns, símfóníu og alls konar tónlistar, að falla niður og tilbiðja myndina sem ég hef gert — ⟨vel og gott⟩, en ef þér tilbiðjið ekki, verðið þér í sömu stund kastað inn í miðjunni á brunandi eldovni. Og hver er sá guð sem geti frelsað ykkur úr hendi minni?",
   "tokens": [
     {
       "surface": "כען",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "איתיכון",
-      "gloss": "þér"
+      "gloss": "þér eruð"
     },
     {
       "surface": "עתידין",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "בעדנא",
-      "gloss": "í þá stund"
+      "gloss": "á þeirri stundu"
     },
     {
       "surface": "די",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "תשמעון",
-      "gloss": "þið heyrið"
+      "gloss": "þér heyrið"
     },
     {
       "surface": "קל",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "קרנא",
-      "gloss": "lúðarsins"
+      "gloss": "lúðrans"
     },
     {
       "surface": "משרוקיתא",
@@ -79,19 +53,19 @@
     },
     {
       "surface": "קיתרס",
-      "gloss": "kitörunnar"
+      "gloss": "kitvers"
     },
     {
       "surface": "שבכא",
-      "gloss": "sambúkunnar"
+      "gloss": "sambúku"
     },
     {
       "surface": "פסנתרין",
-      "gloss": "saltéríunnar"
+      "gloss": "salteríns"
     },
     {
       "surface": "וסומפניה",
-      "gloss": "sumpóníunnar"
+      "gloss": "og símfóníu"
     },
     {
       "surface": "וכל",
@@ -99,23 +73,23 @@
     },
     {
       "surface": "זני",
-      "gloss": "kyns"
+      "gloss": "konar"
     },
     {
       "surface": "זמרא",
-      "gloss": "tónlist"
+      "gloss": "tónlistar"
     },
     {
       "surface": "תפלון",
-      "gloss": "falla niður"
+      "gloss": "fallið"
     },
     {
       "surface": "ותסגדון",
-      "gloss": "og tilbiðja"
+      "gloss": "og tilbiðjið"
     },
     {
       "surface": "לצלמא",
-      "gloss": "líkneskið"
+      "gloss": "myndina"
     },
     {
       "surface": "די",
@@ -139,31 +113,31 @@
     },
     {
       "surface": "בה",
-      "gloss": "í"
+      "gloss": "í þeirri"
     },
     {
       "surface": "שעתה",
-      "gloss": "þá stund"
+      "gloss": "stundu"
     },
     {
       "surface": "תתרמון",
-      "gloss": "verðið þið kastað"
+      "gloss": "verðið þér kastað"
     },
     {
       "surface": "לגוא",
-      "gloss": "inn í miðju"
+      "gloss": "inn í miðjunni"
     },
     {
       "surface": "אתון",
-      "gloss": "eldarins"
+      "gloss": "eldovni"
     },
     {
       "surface": "נורא",
-      "gloss": "eldinnar"
+      "gloss": "elds"
     },
     {
       "surface": "יקדתא",
-      "gloss": "brennandi"
+      "gloss": "brunandi"
     },
     {
       "surface": "ומן",
@@ -171,7 +145,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "er sá"
+      "gloss": "sá"
     },
     {
       "surface": "אלה",
@@ -183,7 +157,7 @@
     },
     {
       "surface": "ישיזבנכון",
-      "gloss": "geti leyst ykkur"
+      "gloss": "geti frelsað ykkur"
     },
     {
       "surface": "מן",
@@ -194,6 +168,6 @@
       "gloss": "hendi minni"
     }
   ],
-  "timestamp": "2026-10-19T12:39:09.215288351Z",
+  "timestamp": "2026-10-19T14:38:25.269387541Z",
   "model": "glm-5.3"
 }

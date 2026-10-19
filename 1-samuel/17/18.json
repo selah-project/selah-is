@@ -5,38 +5,12 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חרצי החלב",
-      "rationale": "Orðrétt 'skurðirnir af mjólkinni' — gæti verið ostir eða mjólkurfylld brauð; flestir lesa 'osta'."
-    },
-    {
-      "kind": "crux",
-      "subject": "ערבתם",
-      "rationale": "'Veðlyndgögn þeirra' — eða 'friðarboð þeirra'; LXX les 'hlaupa þeirra'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "לשר האלף",
-      "rationale": "'Höfði þúsundarinnar' = foringi hersveitar; þýtt sem herforingjastign."
-    }
-  ],
-  "translation": "Og ⟨את⟩ þessi tíu osta skalt þú færa yfirhershöfðjaanum um þúsundina, og bræður þína skalt þú heimsækja í heilbrigði, og ⟨את⟩ veðlyndgögn þeirra skalt þú taka.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "0ae7269ca59e02ce205286d9e0deda27bd71d5724ff930513c96d778131a3a27",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/17-20.1792400615201.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ þessar tíu sneiðingar af ostinum skalt þú færa yfirforingjanum í herbúðunum, og ⟨את⟩ bræður þína skalt þú heimsækja til að spurja um heill þeirra, og ⟨את⟩ veðbeiðni þeirra skalt þú taka.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Og ⟨את⟩",
-      "marks": "þessi tíu osta"
+      "gloss": "⟨את⟩",
+      "marks": "þessar tíu sneiðingar af ostinum"
     },
     {
       "surface": "עשרת",
@@ -44,15 +18,15 @@
     },
     {
       "surface": "חרצי",
-      "gloss": "ostir"
+      "gloss": "sneiðingar"
     },
     {
       "surface": "החלב",
-      "gloss": "af mjólk"
+      "gloss": "af ostinum"
     },
     {
       "surface": "האלה",
-      "gloss": "þessir"
+      "gloss": "þessar"
     },
     {
       "surface": "תביא",
@@ -60,15 +34,15 @@
     },
     {
       "surface": "לשר",
-      "gloss": "yfirhershöfðjaanum"
+      "gloss": "yfirforingjanum"
     },
     {
       "surface": "האלף",
-      "gloss": "um þúsundina"
+      "gloss": "í herbúðunum"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "bræður þína"
     },
     {
@@ -81,22 +55,22 @@
     },
     {
       "surface": "לשלום",
-      "gloss": "í heilbrigði"
+      "gloss": "til að spurja um heill"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "veðlyndgögn þeirra"
+      "gloss": "⟨את⟩",
+      "marks": "veðbeiðni þeirra"
     },
     {
       "surface": "ערבתם",
-      "gloss": "veðlyndgögn þeirra"
+      "gloss": "veðbeiðni þeirra"
     },
     {
       "surface": "תקח",
       "gloss": "skalt þú taka"
     }
   ],
-  "timestamp": "2026-10-19T09:03:35.203167125Z",
+  "timestamp": "2026-10-19T14:32:49.681798785Z",
   "model": "glm-5.3"
 }

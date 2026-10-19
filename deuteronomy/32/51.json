@@ -5,69 +5,43 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מריבת קדש",
-      "rationale": "'Merívat-Kadesj' bætir saman 'deiluna' (meríva) og staðarheitið Kadesj — mannanna munnviðri fest í nafni staðarins."
-    },
-    {
-      "kind": "crux",
-      "subject": "מעלתם",
-      "rationale": "'Brjóta trúnað \/ gjöra ótrúlega' gegn Jahve — sumir þýða 'geruðust sviksamir'."
-    },
-    {
-      "kind": "you",
-      "subject": "til Mósje og Aharon",
-      "rationale": "Fleirtala 'þér' vísa til Mósje og Aharon saman."
-    }
-  ],
-  "translation": "Vegna þess að þér brutust trúnað við mig í miðju sona Ísraels, við vatn Merívat-Kadesj í eyðimörk Sín, vegna þess að þér helguðuð mig ekki í miðju sona Ísraels.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "873ccfd3e4a8112c3ec3f18c6c4ac4a86ca0bab5c0e33268beeadc82c0f6132c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/32\/49-52.1792398542781.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Af því að þér brutuð trúnni gegn mér, í hjarta Ísraelsmanna, við vatnin í Meríbat-Kadesj í eyðimörk Sín — af því að þér helguðuð ⟨את⟩ mig ekki meðal Ísraelsmanna.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Vegna"
+      "gloss": "af því að"
     },
     {
       "surface": "אשר",
-      "gloss": "þess að"
+      "gloss": "að"
     },
     {
       "surface": "מעלתם",
-      "gloss": "þér brutust trúnað"
+      "gloss": "brutuð þér trúnni"
     },
     {
       "surface": "בי",
-      "gloss": "við mig"
+      "gloss": "gegn mér"
     },
     {
       "surface": "בתוך",
-      "gloss": "í miðju"
+      "gloss": "í hjarta"
     },
     {
       "surface": "בני",
-      "gloss": "sona"
+      "gloss": "Ísraels-"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels"
+      "gloss": "manna"
     },
     {
       "surface": "במי",
-      "gloss": "við vatn"
+      "gloss": "við vatnin"
     },
     {
       "surface": "מריבת",
-      "gloss": "Merívat"
+      "gloss": "Meríbat-"
     },
     {
       "surface": "קדש",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "על",
-      "gloss": "vega þess að"
+      "gloss": "af því að"
     },
     {
       "surface": "אשר",
-      "gloss": "þess að"
+      "gloss": "að"
     },
     {
       "surface": "לא",
@@ -95,25 +69,26 @@
     },
     {
       "surface": "קדשתם",
-      "gloss": "þér helguðuð"
+      "gloss": "helguðuð þér"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mig"
+      "gloss": "⟨את⟩",
+      "marks": "mig"
     },
     {
       "surface": "בתוך",
-      "gloss": "í miðju"
+      "gloss": "meðal"
     },
     {
       "surface": "בני",
-      "gloss": "sona"
+      "gloss": "Ísraels-"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels"
+      "gloss": "manna"
     }
   ],
-  "timestamp": "2026-10-19T08:29:02.782733052Z",
+  "timestamp": "2026-10-19T14:39:13.971524421Z",
   "model": "glm-5.3"
 }

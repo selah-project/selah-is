@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'vegna þess' bætt við til að tengja 'málið' við skýringuna — hebreskan tengir með אשר einu."
-    },
-    {
-      "kind": "crux",
-      "subject": "סגר את פרץ",
-      "rationale": "'lokaði gatið' (ytl) eða 'bætti' (KJV 'repaired'); orðið þýðir bókstaflega að loka."
-    }
-  ],
-  "translation": "Og þetta er málið ⟨vegna þess⟩ að hann hélt hönd gegn konungi: Sjelómó reisti Milló, lokaði ⟨את⟩ gati borgar Davíðs föður hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c5630a19817262dc5fbc53e060bca896f91f13ef2e1aeb57c26939812d2fa0d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/11\/25-28.1792402363862.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þetta er málið ⟨sem⟩ honum hóf hann hönd sína gegn konunginum Sjólómó: Salómonó — Sjólómó byggði ⟨את⟩ Mílló, lokaði ⟨את⟩ gati borgar Davíðs föður síns.",
   "tokens": [
     {
       "surface": "וזה",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "málið"
+      "gloss": "er málið"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "הרים",
-      "gloss": "hélt"
+      "gloss": "hóf"
     },
     {
       "surface": "יד",
@@ -50,24 +29,24 @@
     },
     {
       "surface": "במלך",
-      "gloss": "gegn konungi"
+      "gloss": "gegn konunginum"
     },
     {
       "surface": "שלמה",
-      "gloss": "Sjelómó"
+      "gloss": "Sjólómó"
     },
     {
       "surface": "בנה",
-      "gloss": "reisti"
+      "gloss": "byggði"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Milló"
+      "marks": "Mílló"
     },
     {
       "surface": "המלוא",
-      "gloss": "Milló"
+      "gloss": "Mílló"
     },
     {
       "surface": "סגר",
@@ -76,11 +55,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gatið"
+      "marks": "gati borgar Davíðs"
     },
     {
       "surface": "פרץ",
-      "gloss": "gatið"
+      "gloss": "gati"
     },
     {
       "surface": "עיר",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "אביו",
-      "gloss": "föður hans"
+      "gloss": "föður síns"
     }
   ],
-  "timestamp": "2026-10-19T09:32:43.863432326Z",
+  "timestamp": "2026-10-19T14:31:10.684827380Z",
   "model": "glm-5.3"
 }

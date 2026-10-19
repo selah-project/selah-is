@@ -5,62 +5,36 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "ו in ונשאו og אתך: 'með' bætt við til að gera samberingu skýra."
-    },
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "ונשAU אתך — 'bera með þér' — myndin af byrði sem deilt er."
-    },
-    {
-      "kind": "alternative",
-      "subject": "is",
-      "rationale": "הם getur verið sterk fornafn: 'þeir dæma þau' — 'sjálfir' valið til að greina frá lýðnum."
-    }
-  ],
-  "translation": "Og þeir skulu dæma ⟨את⟩ lýðnum á alla tíma; og ⟨það⟩ verður að hver stór mál máttu þeir flytja til þín, en hvert lítit mál skulu þeir dæma ⟨sjálfir⟩; og það mun léttast fyrir þér, og þeir munu bera með þér.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "85a8c5fa058ad4f40a39c13d40b4c4cb6914fd8dd8ad14fda21132dae84ff053",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/18\/21-24.1792394579135.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir skulu dæma ⟨את⟩ fólkið á allri stundu, og ⟨að⟩ það verði að hver mikilmæti mál skulu þeir flytja til þín, en hver smámál skulu þeir dæma ⟩sjálfir⟨, og ⟨það⟩ léttist af þér, og þeir skulu bera ⟨את⟩ með þér.",
   "tokens": [
     {
       "surface": "ושפטו",
-      "gloss": "og þeir skulu dæma"
+      "gloss": "Og þeir skulu dæma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lýðnum"
+      "marks": "fólkið"
     },
     {
       "surface": "העם",
-      "gloss": "lýðnum"
+      "gloss": "fólkið"
     },
     {
       "surface": "בכל",
-      "gloss": "á allan"
+      "gloss": "á allri"
     },
     {
       "surface": "עת",
-      "gloss": "tíma"
+      "gloss": "stundu"
     },
     {
       "surface": "והיה",
-      "gloss": "og ⟨það⟩ verður"
+      "gloss": "og ⟨að⟩ það verði að"
     },
     {
       "surface": "כל",
-      "gloss": "hvert"
+      "gloss": "hver"
     },
     {
       "surface": "הדבר",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "הגדל",
-      "gloss": "stórt"
+      "gloss": "mikilmæti"
     },
     {
       "surface": "יביאו",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "en hvert"
+      "gloss": "en hver"
     },
     {
       "surface": "הדבר",
-      "gloss": "mál"
+      "gloss": "smámál"
     },
     {
       "surface": "הקטן",
@@ -96,25 +70,25 @@
     },
     {
       "surface": "הם",
-      "gloss": "⟨sjálfir⟩"
+      "gloss": "sjálfir"
     },
     {
       "surface": "והקל",
-      "gloss": "og það mun léttast"
+      "gloss": "og léttist"
     },
     {
       "surface": "מעליך",
-      "gloss": "fyrir þér"
+      "gloss": "af þér"
     },
     {
       "surface": "ונשאו",
-      "gloss": "og þeir munu bera"
+      "gloss": "og þeir skulu bera"
     },
     {
       "surface": "אתך",
-      "gloss": "með ⟨את⟩ þér"
+      "gloss": "⟨את⟩ með þér"
     }
   ],
-  "timestamp": "2026-10-19T07:22:59.137037028Z",
+  "timestamp": "2026-10-19T14:40:47.154992426Z",
   "model": "glm-5.3"
 }

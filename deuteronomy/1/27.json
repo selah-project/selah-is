@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "hata",
-      "rationale": "שנא hata — orðið um hati; ekki mýkt í 'elska ekki' eins og sumar þýðingar gera"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Bein ræða Mósa til Ísraels með orð þeirra innfelld"
-    }
-  ],
-  "translation": "Og þér kvörtuðuð í tjöldum yðar og sögðu: Af því að Jahve hatar okkur færði hann okkur út úr landi Mitsrajím til að gefa ⟨את⟩ okkur í hönd Emórínum, til að eyða okkur.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/25-28.1792397619536.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þér gerðuð uppreisn í tjöldum yðar og sögðu: Af hati Jahve, fyrir það að hann hatar ⟨את⟩ okkur, leiddi hann okkur út úr landi Mitsrajím til að gefa ⟨את⟩ okkur í hendi Emorítanum til að eyða okkur.",
   "tokens": [
     {
       "surface": "ותרגנו",
-      "gloss": "Og þér kvörtuðuð"
+      "gloss": "gerðuð uppreisn"
     },
     {
       "surface": "באהליכם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בשנאת",
-      "gloss": "Af því að ... hatar"
+      "gloss": "af hati"
     },
     {
       "surface": "יהוה",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "הוציאנו",
-      "gloss": "færði hann okkur út"
+      "gloss": "leiddi hann okkur út"
     },
     {
       "surface": "מארץ",
@@ -72,21 +51,21 @@
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "í hönd"
+      "marks": "okkur (í hendi Emorítanum)"
     },
     {
       "surface": "ביד",
-      "gloss": "í hönd"
+      "gloss": "í hendi"
     },
     {
       "surface": "האמרי",
-      "gloss": "Emórínum"
+      "gloss": "Emorítanum"
     },
     {
       "surface": "להשמידנו",
       "gloss": "til að eyða okkur"
     }
   ],
-  "timestamp": "2026-10-19T08:13:39.537963187Z",
+  "timestamp": "2026-10-19T14:37:54.003049512Z",
   "model": "glm-5.3"
 }

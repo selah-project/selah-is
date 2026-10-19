@@ -5,87 +5,66 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "hlutkesti",
-      "rationale": "Landnýtskipting með hlutkesti eftir ættflokkum og kynþáttum — mæling og skipting lands."
-    },
-    {
-      "kind": "you",
-      "subject": "Ísrael",
-      "rationale": "Beint boð til Ísraels um skiptingu erfðahluta."
-    }
-  ],
-  "translation": "Og þér skuluð skipta landinu í erfðahluta með hlutkesti eftir ættflokkum ykkar; þeim sem eru fleiri skuluð þér auka erfðahlut hans, og þeim sem eru færri skuluð þér minnka erfðahlut hans; hvert sem hlutkestið fellur fyrir einhvern, það skal hans vera; eftir kynþáttum feðra ykkar skuluð þér erfa landið.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "271d51b1c5efc2127a38b76c7f0b3edbb651f21fa81fb0fa4bab7239afca6321",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/33\/53-56.1792397485402.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þér skuluð taka landið ⟨את⟩ í arf eftir hlutkesti, eftir ættum ykkar; hinum fjölmennari megið þér auka ⟨את⟩ arf hans, og hinum fámennari megið þér minnka ⟨את⟩ arf hans; þangað sem hlutkestið fellur fyrir mann, verði það hans; eftir kynþáttum feðra ykkar skuluð þér taka landið í arf.",
   "tokens": [
     {
       "surface": "והתנחלתם",
-      "gloss": "skuluð þér skipta í erfðahluta"
+      "gloss": "skuluð þér taka landið í arf"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "landinu"
+      "marks": "landið"
     },
     {
       "surface": "הארץ",
-      "gloss": "landinu"
+      "gloss": "landið"
     },
     {
       "surface": "בגורל",
-      "gloss": "með hlutkesti"
+      "gloss": "eftir hlutkesti"
     },
     {
       "surface": "למשפחתיכם",
-      "gloss": "eftir ættflokkum ykkar"
+      "gloss": "eftir ættum ykkar"
     },
     {
       "surface": "לרב",
-      "gloss": "þeim sem eru fleiri"
+      "gloss": "hinum fjölmennari"
     },
     {
       "surface": "תרבו",
-      "gloss": "skuluð þér auka"
+      "gloss": "megið þér auka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "erfðahlut hans"
+      "marks": "arf hans"
     },
     {
       "surface": "נחלתו",
-      "gloss": "erfðahlut hans"
+      "gloss": "arf hans"
     },
     {
       "surface": "ולמעט",
-      "gloss": "og þeim sem eru færri"
+      "gloss": "og hinum fámennari"
     },
     {
       "surface": "תמעיט",
-      "gloss": "skuluð þér minnka"
+      "gloss": "megið þér minnka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "erfðahlut hans"
+      "marks": "arf hans"
     },
     {
       "surface": "נחלתו",
-      "gloss": "erfðahlut hans"
+      "gloss": "arf hans"
     },
     {
       "surface": "אל",
-      "gloss": "hvert"
+      "gloss": "þangað sem"
     },
     {
       "surface": "אשר",
@@ -113,7 +92,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "skal vera"
+      "gloss": "verði"
     },
     {
       "surface": "למטות",
@@ -125,9 +104,9 @@
     },
     {
       "surface": "תתנחלו",
-      "gloss": "skuluð þér erfa"
+      "gloss": "skuluð þér taka landið í arf"
     }
   ],
-  "timestamp": "2026-10-19T08:11:25.404220099Z",
+  "timestamp": "2026-10-19T14:56:52.157454734Z",
   "model": "glm-5.3"
 }

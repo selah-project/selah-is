@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "okkur",
-      "rationale": "Fornafnið „okkur“ í תבלענו („gleypi okkur“) tekið út og sett í hornklofa."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לקלם",
-      "rationale": "„Vegna ópiðs þeirra“ — hebreskan segir „fyrir rödd þeirra“, flóinn atburður merktur sem orsakatenging."
-    }
-  ],
-  "translation": "Og allt Ísrael, þeir sem í kringum þá voru, flúðu vegna ópiðs þeirra, því að þeir sögðu: Kynni jörðin að gleypa einnig ⟨okkur⟩.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "d9c1e015c937bd116c8484e009b75474a33dc241f3f5e62d613fb144c6d094b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/16\/33-35.1792396831041.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og allt Ísrael, þeir er í kring um þá, flúðu fyrir röddu þeirra, því að þeir sögðu: Páð jörðin gleypir ⟨okkur⟩.",
   "tokens": [
     {
       "surface": "וכל",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þeir er"
     },
     {
       "surface": "סביבתיהם",
-      "gloss": "í kringum þá"
+      "gloss": "í kring um þá"
     },
     {
       "surface": "נסו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "לקלם",
-      "gloss": "vegna ópiðs þeirra"
+      "gloss": "fyrir röddu þeirra"
     },
     {
       "surface": "כי",
@@ -58,25 +37,21 @@
     },
     {
       "surface": "אמרו",
-      "gloss": "þeir sögðu"
-    },
-    {
-      "surface": "ן",
-      "gloss": ""
+      "gloss": "sögðu"
     },
     {
       "surface": "פן",
-      "gloss": "Kynni"
+      "gloss": "Páð"
     },
     {
       "surface": "תבלענו",
-      "gloss": "að gleypa"
+      "gloss": "gleypir ⟨okkur⟩"
     },
     {
       "surface": "הארץ",
       "gloss": "jörðin"
     }
   ],
-  "timestamp": "2026-10-19T08:00:31.042646882Z",
+  "timestamp": "2026-10-19T14:55:44.355321879Z",
   "model": "glm-5.3"
 }

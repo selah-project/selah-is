@@ -5,49 +5,28 @@
   "book": "judges",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "hóraði",
-      "rationale": "ותזנה: „dró hor \/ var ótrú“ — sumir lesa (ásamt hafnar-útgáfu) „þekktist óvinsamlega við hann“; BSB velur einfaldlega „var ótrú“"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "„fjóra mánuði“ — tölunarþáttur varðveittur bókstaflega"
-    }
-  ],
-  "translation": "Og hjákona hans hóraði á móti honum og fór frá honum til húss föður síns, til Bet-Lekem Júda, og var þar í fjóra mánuði.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "1d385ad8e88bbed2bfa5ee8566b34a51ac598331594ba55a60f91e4bb2972e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/19\/1-4.1792400036126.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og frilla hans dró fram hjá honum og fór frá ⟨את⟩ honum til húss föður síns, til Bet-Lekem í Júda, og var þar í fjóra mánuði.",
   "tokens": [
     {
       "surface": "ותזנה",
-      "gloss": "hóraði"
+      "gloss": "dró fram hjá"
     },
     {
       "surface": "עליו",
-      "gloss": "á-móti-honum"
+      "gloss": "honum"
     },
     {
       "surface": "פילגשו",
-      "gloss": "hjákona-hans"
+      "gloss": "frilla hans"
     },
     {
       "surface": "ותלך",
-      "gloss": "og-fór"
+      "gloss": "og fór"
     },
     {
       "surface": "מאתו",
-      "gloss": "frá-⟨את⟩honum",
-      "marks": "frá honum"
+      "gloss": "frá ⟨את⟩",
+      "marks": "honum"
     },
     {
       "surface": "אל",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אביה",
-      "gloss": "föður-síns"
+      "gloss": "föður síns"
     },
     {
       "surface": "אל",
@@ -67,19 +46,19 @@
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Bet-Lekem"
     },
     {
       "surface": "לחם",
-      "gloss": "Lekem"
+      "gloss": "Bet-Lekem"
     },
     {
       "surface": "יהודה",
-      "gloss": "Júda"
+      "gloss": "í Júda"
     },
     {
       "surface": "ותהי",
-      "gloss": "og-var"
+      "gloss": "og var"
     },
     {
       "surface": "שם",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "ימים",
-      "gloss": "daga-tíma"
+      "gloss": "í tíma"
     },
     {
       "surface": "ארבעה",
@@ -98,6 +77,6 @@
       "gloss": "mánuði"
     }
   ],
-  "timestamp": "2026-10-19T08:53:56.126922504Z",
+  "timestamp": "2026-10-19T14:52:28.589627115Z",
   "model": "glm-5.3"
 }

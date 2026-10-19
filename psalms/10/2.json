@@ -5,67 +5,41 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "mynd יתפשו er ópersónuleg þýðing; ⟨hann⟩ vísa til hins þrýsta"
-    },
-    {
-      "kind": "crux",
-      "subject": "יתפשו",
-      "rationale": " lýsingarháttur þátíðar 'þeir verða gripnir' (bæn) eða framsöguháttur 'þeir eru gripnir' — KJV\/JPS skilja sem bæn"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ידלק",
-      "rationale": "orðrétt 'brennur\/eldar' — mynd ofsóknum eins og eldi sem elst uppi"
-    }
-  ],
-  "translation": "Í örum гордískapr vondans eldir ⟨ hann ⟩ hinn þrýsta; verði þeir gripnir í vélabrögðunum sem þeir hafa í hyggju.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/10\/1-4.1792409337650.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Í ofsi rangláta manninum eldi hann á eftir þeim fáteká; láttu þá verða gripna í þessum ráðagerðum sem þeir hugðu.",
   "tokens": [
     {
       "surface": "בגאות",
-      "gloss": "Í örum гордískapr"
+      "gloss": "í ofsi"
     },
     {
       "surface": "רשע",
-      "gloss": "vondans"
+      "gloss": "rangláta manninum"
     },
     {
       "surface": "ידלק",
-      "gloss": "eldir"
+      "gloss": "eldi hann á eftir"
     },
     {
       "surface": "עני",
-      "gloss": "hinn þrýsta"
+      "gloss": "þeim fáteká"
     },
     {
       "surface": "יתפשו",
-      "gloss": "verði gripnir"
+      "gloss": "láttu þá verða gripna"
     },
     {
       "surface": "במזמות",
-      "gloss": "í vélabrögðunum"
+      "gloss": "í þessum ráðagerðum"
     },
     {
       "surface": "זו",
-      "gloss": "sem"
+      "gloss": "þessum"
     },
     {
       "surface": "חשבו",
-      "gloss": "hafa í hyggju"
+      "gloss": "þeir hugðu"
     }
   ],
-  "timestamp": "2026-10-19T11:28:57.651211023Z",
+  "timestamp": "2026-10-19T14:57:25.069067278Z",
   "model": "glm-5.3"
 }

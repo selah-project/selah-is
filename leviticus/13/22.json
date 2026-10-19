@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פשה תפשה",
-      "rationale": "Sama rót tvísett, 'að dreifast — dreifist'; íslenskan nær endurtekningunni með 'dreifist mikið' en ekki orðhleifyingunni."
-    },
-    {
-      "kind": "substitution",
-      "subject": "נגע",
-      "rationale": "Bókstaflega 'hogg\/sláður' (áverki); 'sár' eða 'plága' eru valin í flestum þýðingum."
-    }
-  ],
-  "translation": "En ef það dreifist mikið í húðinni, þá skal presturinn lýsa hann óhreinan: hogg ⟨það⟩ er.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "3ff122ad472413dd40e4438ffeb5f8607cf689f1a1ead181c82f49c9e2e35faa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/21-24.1792395769292.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ef það dreifist mikið á húðina, þá skal presturinn lýsa hann óhreinan; ⟨את⟩ ⟨það⟩ er sár.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "En ef"
+      "gloss": "Og ef"
     },
     {
       "surface": "פשה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "בעור",
-      "gloss": "í húðinni"
+      "gloss": "á húðina"
     },
     {
       "surface": "וטמא",
@@ -55,17 +34,17 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hann"
+      "marks": "sár (נגע)"
     },
     {
       "surface": "נגע",
-      "gloss": "hogg"
+      "gloss": "sár"
     },
     {
       "surface": "הוא",
-      "gloss": "það er"
+      "gloss": "⟨það⟩ er"
     }
   ],
-  "timestamp": "2026-10-19T07:42:49.293616306Z",
+  "timestamp": "2026-10-19T14:53:30.380104249Z",
   "model": "glm-5.3"
 }

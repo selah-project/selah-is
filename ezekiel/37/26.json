@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרת ברית",
-      "rationale": "Orðlega 'skera sáttmála' — að gjöra\/særst íslenska; myndin af því að skera dýr í tvennt (1. Mós 15)"
-    },
-    {
-      "kind": "addition",
-      "subject": "með",
-      "rationale": "Forsetningin 'með' bætt við — hebreskan segir aðeins 'sáttmáli eilífðar mun vera ⟨את⟩ þá'"
-    }
-  ],
-  "translation": "Og ég mun gjöra þeim sáttmála friðar, sáttmáli eilífðar mun vera ⟨með⟩ þeim, og ég mun setja þá og margfalda ⟨את⟩ þá, og ég mun setja ⟨את⟩ helgidóm minn í miðju þeirra að eilífu.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "148144beaac8c007250da26f3abe621f8769ff0f62f0995eb3f12fa6c759d84d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/37\/25-28.1792407737984.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég mun skera þeim sáttmála friðar, sáttmáli eilífðar mun hann vera ⟨með⟩ þeim; og ég mun setja ⟨את⟩ þá og margfalda ⟨את⟩ þá, og ég mun setja ⟨את⟩ helgidóm minn í miðju þeirra til eilífðar.",
   "tokens": [
     {
       "surface": "וכרתי",
-      "gloss": "og ég mun gjöra"
+      "gloss": "og ég mun skera"
     },
     {
       "surface": "להם",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "mun vera"
+      "gloss": "mun hann vera"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "þá"
+      "marks": "þeim (sáttmálinn með þeim)"
     },
     {
       "surface": "ונתתים",
@@ -93,9 +72,9 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "að eilífu"
+      "gloss": "til eilífðar"
     }
   ],
-  "timestamp": "2026-10-19T11:02:17.985115343Z",
+  "timestamp": "2026-10-19T14:44:01.574822340Z",
   "model": "glm-5.3"
 }

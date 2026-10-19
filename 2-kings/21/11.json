@@ -5,31 +5,15 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בגלוליו",
-      "rationale": "„Skurðgoð“ — bókstaflega „klukkur“, tréboltar; orðið er höðnarmark."
-    }
-  ],
-  "translation": "Vegna þess að Menashe, konungur Júda, gjörði ⟨את⟩ þessar vileinkanir og syndgaði meira en allt það sem Amorítarnir gjörðu fyrir hans daga, og lét einnig Júda syndga með skurðgoðum sínum —",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "6cbcaf80d8244eda35f07c546019a278e3585002b36c5a5f6982f42647cf12ba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/21\/9-12.1792403439277.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vegna þess að Menasjé, konungur Júda, gjörði þessar styggilegar háttsemi — hann gjörði meira illt en allt það sem Emorítarnir gjörðu ⟨sem⟩ voru á undan honum — og lét hann einnig Júda syngja með skurðgoðum sínum:",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "Vegna þess að"
+      "gloss": "vega þess að"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "þess að"
     },
     {
       "surface": "עשה",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashe"
+      "gloss": "Menasjé"
     },
     {
       "surface": "מלך",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "התעבות",
-      "gloss": "þessar vileinkanir"
+      "gloss": "styggilegar háttsemi"
     },
     {
       "surface": "האלה",
@@ -57,11 +41,11 @@
     },
     {
       "surface": "הרע",
-      "gloss": "syndgaði"
+      "gloss": "gjörði meira illt"
     },
     {
       "surface": "מכל",
-      "gloss": "meira en allt"
+      "gloss": "en allt"
     },
     {
       "surface": "אשר",
@@ -73,19 +57,19 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Amorítarnir"
+      "gloss": "Emorítarnir"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "לפניו",
-      "gloss": "fyrir hans daga"
+      "gloss": "voru á undan honum"
     },
     {
       "surface": "ויחטא",
-      "gloss": "og lét syndga"
+      "gloss": "og lét syngja"
     },
     {
       "surface": "גם",
@@ -105,6 +89,6 @@
       "gloss": "með skurðgoðum sínum"
     }
   ],
-  "timestamp": "2026-10-19T09:50:39.278205603Z",
+  "timestamp": "2026-10-19T14:35:22.777454852Z",
   "model": "glm-5.3"
 }

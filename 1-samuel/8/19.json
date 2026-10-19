@@ -5,64 +5,43 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "כי fellur niður í neituninni 'לא כי אם' sem myndar eina neitandi einingu"
-    },
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Bein ræða fólksins: 'Nei, heldur skuli konungur vera yfir oss'"
-    }
-  ],
-  "translation": "En fólkið neitaði að hlýða á rödd Sámúels, og þau sögðu: Nei, heldur skuli konungur vera yfir oss.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/8\/17-20.1792400219163.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En fólkið neitaði að hlýða á rödd Sjmúels, og þeir sögðu: Nei, heldur skal konungur vera yfir oss.",
   "tokens": [
     {
       "surface": "וימאנו",
-      "gloss": "en neitaði"
+      "gloss": "neitaði"
     },
     {
       "surface": "העם",
-      "gloss": "folkið"
+      "gloss": "fólkið"
     },
     {
       "surface": "לשמע",
-      "gloss": "að hlýða"
+      "gloss": "að hlýða á"
     },
     {
       "surface": "בקול",
-      "gloss": "á rödd"
+      "gloss": "rödd"
     },
     {
       "surface": "שמואל",
-      "gloss": "Sámúels"
+      "gloss": "Sjmúels"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "og þau sögðu"
+      "gloss": "og þeir sögðu"
     },
     {
       "surface": "לא",
-      "gloss": "nei"
+      "gloss": "Nei"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "heldur"
     },
     {
       "surface": "אם",
-      "gloss": "heldur"
+      "gloss": ""
     },
     {
       "surface": "מלך",
@@ -70,13 +49,13 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "skuli vera"
+      "gloss": "skal vera"
     },
     {
       "surface": "עלינו",
       "gloss": "yfir oss"
     }
   ],
-  "timestamp": "2026-10-19T08:56:59.164253487Z",
+  "timestamp": "2026-10-19T14:33:30.794827917Z",
   "model": "glm-5.3"
 }

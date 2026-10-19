@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "את + possessive ending = 'mig' — en formið er eins og aleph-tav-markið með endingu; 'að þekkja mig' er viðtekinn"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דן דין",
-      "rationale": "sögn og nafn af sömu rót — 'dæmdi mál', stíllög spámannsins"
-    }
-  ],
-  "translation": "Hann dæmdi mál fátæks og útburðar — þá var ⟨það⟩ gott; er það ekki að þekkja mig? segir Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "595f8afa3fda109e88f91dea547e4d85141492c6fa3094d802d0390662876682",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/22\/13-16.1792405797894.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hann skýrði dóm ⟨את⟩ fátæks og ⟨את⟩ þarfa — þá gekk honum vel. Er þetta ekki það að þekkja mig? segir Jahve.",
   "tokens": [
     {
       "surface": "דן",
-      "gloss": "Hann dæmdi"
+      "gloss": "skýrði dóm"
     },
     {
       "surface": "דין",
-      "gloss": "mál"
+      "gloss": "dóm"
     },
     {
       "surface": "עני",
@@ -42,23 +21,23 @@
     },
     {
       "surface": "ואביון",
-      "gloss": "og útburðar"
+      "gloss": "og þarfa"
     },
     {
       "surface": "אז",
-      "gloss": "Þá"
+      "gloss": "þá"
     },
     {
       "surface": "טוב",
-      "gloss": "gott"
+      "gloss": "gekk honum vel"
     },
     {
       "surface": "הלוא",
-      "gloss": "er það ekki"
+      "gloss": "er þetta ekki"
     },
     {
       "surface": "היא",
-      "gloss": "það"
+      "gloss": "þetta"
     },
     {
       "surface": "הדעת",
@@ -78,6 +57,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T10:29:57.895786497Z",
+  "timestamp": "2026-10-19T14:49:00.537177222Z",
   "model": "glm-5.3"
 }

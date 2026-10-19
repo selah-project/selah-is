@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וטבח טבח",
-      "rationale": "myndmynd — sögn og nafn sömu rótar: „slátraðu slátrun“ — tlítur orðaleik sem flestar þýðingar láta hverfa"
-    },
-    {
-      "kind": "hapax",
-      "subject": "טבח",
-      "rationale": "nafnið טֶבַח (slátrun) stendur aðeins hér í Tanakh sem nafnorð af þessari mynd"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "„var með þeim“ sett inn til að gera samband skýrt — hebreskan segir aðeins את בנימין"
-    }
-  ],
-  "translation": "Og Jósef sá ⟨את⟩ þá — ⟨את⟩ Binjamín var með þeim — og hann sagði við þann sem yfir húsi hans var: „Leddu mennina heim, og slátraðu slátrun og gjörðu þitt tilefni, því að ⟨með⟩ mér skulu mennirnir eta ⟨á⟩ hádegi.“",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "f3cf59480239a9db7dc154829027e9fffeebfd17fc1de920ea78a0b0a93e9c95",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/13-16.1792393842950.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jósef sá þá — Benjamín ⟨את⟩ með þeim — og sagði þeim er yfir húsi hans: Færð ⟨את⟩ mennina inn í húsið og slátrað slátrun og gjörðu ⟨það⟩ til, því að ⟨את⟩ með mér skulu mennirnir éta hádegis.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "og sá"
+      "gloss": "Og Jósef sá"
     },
     {
       "surface": "יוסף",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ þá"
+      "gloss": "⟨את⟩ með þeim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Binjamín"
+      "marks": "Benjamín"
     },
     {
       "surface": "בנימין",
-      "gloss": "Binjamín"
+      "gloss": "Benjamín"
     },
     {
       "surface": "ויאמר",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "לאשר",
-      "gloss": "við þann sem"
+      "gloss": "þeim er"
     },
     {
       "surface": "על",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "הבא",
-      "gloss": "leddu"
+      "gloss": "Færð"
     },
     {
       "surface": "את",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "הביתה",
-      "gloss": "heim"
+      "gloss": "inn í húsið"
     },
     {
       "surface": "וטבח",
-      "gloss": "og slátraðu"
+      "gloss": "slátrað"
     },
     {
       "surface": "טבח",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "והכן",
-      "gloss": "og gjörðu þitt tilefni"
+      "gloss": "og gjörðu til"
     },
     {
       "surface": "כי",
@@ -109,7 +83,7 @@
     },
     {
       "surface": "יאכלו",
-      "gloss": "skulu eta"
+      "gloss": "skulu éta"
     },
     {
       "surface": "האנשים",
@@ -117,9 +91,9 @@
     },
     {
       "surface": "בצהרים",
-      "gloss": "á hádegi"
+      "gloss": "hádegis"
     }
   ],
-  "timestamp": "2026-10-19T07:10:42.951567406Z",
+  "timestamp": "2026-10-19T14:46:34.431979811Z",
   "model": "glm-5.3"
 }

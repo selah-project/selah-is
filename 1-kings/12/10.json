@@ -5,44 +5,23 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "הכביד\/הקל — 'gera þungt' og 'gera létt' standa andstætt hvoru öðru, þyngd við lek í v.11"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Ungu mennirnir segja Róhóvam hvernig hann skyldi tala — beint ávarp til konungsins"
-    }
-  ],
-  "translation": "Og sveinarnir, þeir er ólust upp með honum, tóluðu við hann og sögðu: Þús skyldir þú segja þessu fólki, því er talaði við þig og sagði: Faðir þinn gerði ok ⟨את⟩ okið okkar þungt, en þú gér léttara af okkur — þús skyldir þú tala við þá: Litlifingur minn er þykkari en lendur föður míns.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b1147edd681aa68169446b16a1dd638547de3d893f770010015e9fc1cdfd048d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/12\/9-12.1792402356088.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og unglingarnir sem ólust upp ⟨את⟩ með honum töluðu til hans og sögðu: Svo skalt þú segja þessu lýði, þeim sem töluðu til þín og sögðu: Faðir þinn gerði ⟨את⟩ okið okkar þungt, en þú skalt gera það létt yfir oss — svo skalt þú tala til þeirra: Litli fingur minn er þykkari en lendar föður míns.",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "Og sveinarnir tóluðu"
+      "gloss": "töluðu"
     },
     {
       "surface": "אליו",
-      "gloss": "við hann"
+      "gloss": "til hans"
     },
     {
       "surface": "הילדים",
-      "gloss": "sveinarnir"
+      "gloss": "unglingarnir"
     },
     {
       "surface": "אשר",
-      "gloss": "þeir er"
+      "gloss": "sem"
     },
     {
       "surface": "גדלו",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ með hann"
+      "gloss": "⟨את⟩ með honum"
     },
     {
       "surface": "לאמר",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "כה",
-      "gloss": "þús"
+      "gloss": "svo"
     },
     {
       "surface": "תאמר",
-      "gloss": "skyldir þú segja"
+      "gloss": "skalt þú segja"
     },
     {
       "surface": "לעם",
-      "gloss": "fólki"
+      "gloss": "þessu lýði"
     },
     {
       "surface": "הזה",
@@ -74,19 +53,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "því er"
+      "gloss": "sem"
     },
     {
       "surface": "דברו",
-      "gloss": "talaði"
+      "gloss": "töluðu"
     },
     {
       "surface": "אליך",
-      "gloss": "við þig"
+      "gloss": "til þín"
     },
     {
       "surface": "לאמר",
-      "gloss": "og sagði"
+      "gloss": "og sögðu"
     },
     {
       "surface": "אביך",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "עלנו",
-      "gloss": "ok okkar"
+      "gloss": "okið okkar"
     },
     {
       "surface": "ואתה",
@@ -111,27 +90,27 @@
     },
     {
       "surface": "הקל",
-      "gloss": "gér léttara"
+      "gloss": "skalt gera létt"
     },
     {
       "surface": "מעלינו",
-      "gloss": "af okkur"
+      "gloss": "yfir oss"
     },
     {
       "surface": "כה",
-      "gloss": "þús"
+      "gloss": "svo"
     },
     {
       "surface": "תדבר",
-      "gloss": "skyldir þú tala"
+      "gloss": "skalt þú tala"
     },
     {
       "surface": "אליהם",
-      "gloss": "við þá"
+      "gloss": "til þeirra"
     },
     {
       "surface": "קטני",
-      "gloss": "litlifingur minn"
+      "gloss": "litli fingur minn"
     },
     {
       "surface": "עבה",
@@ -139,13 +118,13 @@
     },
     {
       "surface": "ממתני",
-      "gloss": "en lendur"
+      "gloss": "lendar"
     },
     {
       "surface": "אבי",
       "gloss": "föður míns"
     }
   ],
-  "timestamp": "2026-10-19T09:32:36.089030620Z",
+  "timestamp": "2026-10-19T14:31:42.131600579Z",
   "model": "glm-5.3"
 }

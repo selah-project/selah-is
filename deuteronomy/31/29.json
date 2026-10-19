@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "השחת תשחתון",
-      "rationale": "Infinitivus absolutus endurtekur rótina — 'að skemma munið þér skemma' — ógjarnan í íslensku, skilað með samsettri mynd."
-    },
-    {
-      "kind": "substitution",
-      "subject": "וקראת",
-      "rationale": "Bókstaflega 'og hann mun mæta ykkur' — kveðaupp á ógæfu sem verkar; Íslenzka notar 'hitta'."
-    }
-  ],
-  "translation": "Því að ég veit, að eftir dauða minn munuð þér óhreinast-með-eigin-vilja og snúa ykkur af veginum, sem ég hef boðið ykkur, og ógæfan mun hitta ykkur í enda daga, því að þér munuð gjöra ⟨את⟩ hið illa í augum Jahve, til að æsa hann til reiði með verkum handa ykkar.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "9ade541a81350068b1280ef66f38d4cc89a7a8e55a3083ba1bba487dcbfdd14d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/31\/29-30.1792398494633.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að ég veit að eftir dauða min munuð þér spilla-spoið ykkur og snúa ykkur frá þeirri leið sem ég bauð ⟨את⟩ ykkur, og hið illa mun hitta ⟨את⟩ ykkur í egnd daga, því að þér munuð gjöra ⟨את⟩ illuna í augum Jahve, til að æsa hann til reiði með verkum handa ykkar.",
   "tokens": [
     {
       "surface": "כי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מותי",
-      "gloss": "dauða minn"
+      "gloss": "dauða min"
     },
     {
       "surface": "כי",
@@ -50,23 +29,23 @@
     },
     {
       "surface": "השחת",
-      "gloss": "munuð þér óhreinast-með-eigin-vilja"
+      "gloss": "spilla-"
     },
     {
       "surface": "תשחתון",
-      "gloss": "og snúa"
+      "gloss": "spoið ykkur"
     },
     {
       "surface": "וסרתם",
-      "gloss": "ykkur af"
+      "gloss": "og snúa ykkur frá"
     },
     {
       "surface": "מן",
-      "gloss": "af"
+      "gloss": "frá"
     },
     {
       "surface": "הדרך",
-      "gloss": "veginum"
+      "gloss": "þeirri leið"
     },
     {
       "surface": "אשר",
@@ -74,27 +53,29 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ég hef boðið"
+      "gloss": "ég bauð"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "וקראת",
-      "gloss": "og ógæfan mun hitta"
+      "gloss": "og mun hitta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "הרעה",
-      "gloss": "ógæfan"
+      "gloss": "hið illa"
     },
     {
       "surface": "באחרית",
-      "gloss": "í enda"
+      "gloss": "í egnd"
     },
     {
       "surface": "הימים",
@@ -111,11 +92,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hið illa"
+      "marks": "illuna"
     },
     {
       "surface": "הרע",
-      "gloss": "hið illa"
+      "gloss": "illuna"
     },
     {
       "surface": "בעיני",
@@ -138,6 +119,6 @@
       "gloss": "handa ykkar"
     }
   ],
-  "timestamp": "2026-10-19T08:28:14.633861644Z",
+  "timestamp": "2026-10-19T14:39:20.415458482Z",
   "model": "glm-5.3"
 }

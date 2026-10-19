@@ -5,28 +5,7 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Eshbáal",
-      "rationale": "Hebreska hefur אשבעל ('Baal' í nafninu); 2. Samúelbók kallar sama mann Ísbóshet — þýðendur skiptast á milli heita."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאול",
-      "rationale": "Nafnið Sjáúl er sama orð og 'sá sem er spiður\/óskað eftir'; týnst í íslensku."
-    }
-  ],
-  "translation": "Og Ner gat Kís, og Kís gat Sjáúl, og Sjáúl gat Jehonatan og Malkí-Sjúa og Avínadav og Eshbáal.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "fdb979566934f7093a7a4b825b49587a6b58e4faed35deb3c9a3c89dd0fd2d88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/8\/33-36.1792414630860.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Ner gat ⟨את⟩ Kísj, og Kísj gat ⟨את⟩ Sjáúl, og Sjáúl gat ⟨את⟩ Jehónatan og ⟨את⟩ Malkísjúa og ⟨את⟩ Avínadav og ⟨את⟩ Eshbáal.",
   "tokens": [
     {
       "surface": "ונר",
@@ -39,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kís"
+      "marks": "Kísj"
     },
     {
       "surface": "קיש",
-      "gloss": "Kís"
+      "gloss": "Kísj"
     },
     {
       "surface": "וקיש",
-      "gloss": "og Kís"
+      "gloss": "og Kísj"
     },
     {
       "surface": "הוליד",
@@ -73,24 +52,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehonatan"
+      "marks": "Jehónatan"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Jehonatan"
+      "gloss": "Jehónatan"
     },
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "Malkí-Sjúa"
+      "marks": "Malkísjúa"
     },
     {
       "surface": "מלכי",
-      "gloss": "Malkí-"
+      "gloss": "Malkísjúa"
     },
     {
       "surface": "שוע",
-      "gloss": "Sjúa"
+      "gloss": "-sjúa"
     },
     {
       "surface": "ואת",
@@ -111,6 +90,6 @@
       "gloss": "Eshbáal"
     }
   ],
-  "timestamp": "2026-10-19T12:57:10.861150851Z",
+  "timestamp": "2026-10-19T14:31:30.512348145Z",
   "model": "glm-5.3"
 }

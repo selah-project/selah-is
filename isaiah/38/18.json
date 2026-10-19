@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שאול",
-      "rationale": "Sjeól er heimur hinna dauðu, ekki 'helvíti' — engin refsing er í orðinu sjálfu."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'farð' er bætt við 'þeir sem fara niður' — hebreska lýsir niðurferðina með utanvísismynd."
-    },
-    {
-      "kind": "mystery",
-      "subject": "Sjeól",
-      "rationale": "Versið talar um falið land þar sem lofgjöfn hljómar ekki — myrkri hinna dauðu."
-    }
-  ],
-  "translation": "Því að Sjeól þakkar þér ekki, dauðinn lofar þig ekki; þeir sem fara niður í gryfjuna bíða ekki sannleika þíns.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/38\/17-20.1792404484945.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að Sjeól þakkar þér ekki, máttu Dauðinn lofa þig; þeir sem fara niður í gryfjuna búast ekki við sannleika þínum.",
   "tokens": [
     {
       "surface": "כי",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "מות",
-      "gloss": "dauðinn"
+      "gloss": "Dauðinn"
     },
     {
       "surface": "יהללך",
-      "gloss": "lofar þig"
+      "gloss": "lofa þig"
     },
     {
       "surface": "לא",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ישברו",
-      "gloss": "bíða"
+      "gloss": "búast"
     },
     {
       "surface": "יורדי",
@@ -71,17 +45,17 @@
     },
     {
       "surface": "בור",
-      "gloss": "í gryfjuna"
+      "gloss": "gryfjuna"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "við"
     },
     {
       "surface": "אמתך",
-      "gloss": "sannleika þíns"
+      "gloss": "sannleika þínum"
     }
   ],
-  "timestamp": "2026-10-19T10:08:04.945940295Z",
+  "timestamp": "2026-10-19T14:47:56.534517874Z",
   "model": "glm-5.3"
 }

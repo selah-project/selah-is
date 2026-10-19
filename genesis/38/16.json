@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "Mjúka agnsorfið 'nú' fellur niður; 'leið' í 'Kom, leið' gefur sama blæ"
-    },
-    {
-      "kind": "idiom",
-      "subject": "הבה נא",
-      "rationale": "Fast=setning 'kom nú' — boðarfrasa, ekki bókstafleg skipun"
-    },
-    {
-      "kind": "you",
-      "subject": "to Tamar",
-      "rationale": "Júda talar beint til hennar íþykkjandi máli"
-    }
-  ],
-  "translation": "Og hann sveigði til hennar á veginum og sagði: Kom, leið mátt koma til mín að liggja hjá þér — því að hann vissi ekki að hún var tengdadóttir hans. Og hún sagði: Hvað munt þú gefa mér ef þú kemur til mín?",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "39f3f4d102a9eefca9b32bc00c98176d4cde190203eed19d45444ac5ca17b3d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/38\/13-16.1792393656895.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sneri til hennar við veginn og sagði: Kom, ég bið þig, lát mig koma til þín — hann vissi ekki að hún var mágakona hans — og hún sagði: Hvað munðu gefa mér fyrir að koma til mín?",
   "tokens": [
     {
       "surface": "ויט",
-      "gloss": "sveigði til"
+      "gloss": "og hann sneri"
     },
     {
       "surface": "אליה",
@@ -43,27 +17,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "á"
+      "gloss": "við"
     },
     {
       "surface": "הדרך",
-      "gloss": "veginum"
+      "gloss": "veginn"
     },
     {
       "surface": "ויאמר",
-      "gloss": "sagði"
+      "gloss": "og sagði"
     },
     {
       "surface": "הבה",
-      "gloss": "Kom, leið"
+      "gloss": "kom"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "ég bið þig"
     },
     {
       "surface": "אבוא",
-      "gloss": "mátt koma"
+      "gloss": "lát mig koma"
     },
     {
       "surface": "אליך",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "ef"
+      "gloss": "—"
     },
     {
       "surface": "לא",
       "gloss": "ekki"
     },
     {
-      "surface": "ידע",
-      "gloss": "vissi"
+      "surface": "יודע",
+      "gloss": "hann vissi"
     },
     {
       "surface": "כי",
@@ -87,23 +61,23 @@
     },
     {
       "surface": "כלתו",
-      "gloss": "tengdadóttir hans"
+      "gloss": "mágakona hans"
     },
     {
-      "surface": "הוא",
+      "surface": "היא",
       "gloss": "hún"
     },
     {
       "surface": "ותאמר",
-      "gloss": "sagði"
+      "gloss": "og hún sagði"
     },
     {
       "surface": "מה",
-      "gloss": "Hvað"
+      "gloss": "hvað"
     },
     {
       "surface": "תתן",
-      "gloss": "munt gefa"
+      "gloss": "munðu gefa"
     },
     {
       "surface": "לי",
@@ -111,17 +85,17 @@
     },
     {
       "surface": "כי",
-      "gloss": "ef"
+      "gloss": "fyrir að"
     },
     {
       "surface": "תבוא",
-      "gloss": "kemur"
+      "gloss": "koma"
     },
     {
       "surface": "אלי",
       "gloss": "til mín"
     }
   ],
-  "timestamp": "2026-10-19T07:07:36.896664829Z",
+  "timestamp": "2026-10-19T14:45:32.735437311Z",
   "model": "glm-5.3"
 }

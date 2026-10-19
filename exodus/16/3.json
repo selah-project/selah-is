@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מי יתן",
-      "rationale": "Bókstaflega „hver mundi gefa“ — hebreskt óskarform; „gæti einhver gefið“ heldur ljóðlegri mynd en „ætti ég að hafa dáið“."
-    },
-    {
-      "kind": "crux",
-      "subject": "מותנו ביד יהוה",
-      "rationale": "„Að deyja í hendi Jahve“ — sumir þýða „af hendi Jahve“; myndlæningin er um vald, ekki afbroti."
-    },
-    {
-      "kind": "you",
-      "subject": "to Moses and Aaron",
-      "rationale": "Ísraelsmenn beina ræðu sinni að Mósje og Aharon — „þið hafið fært okkur út“."
-    }
-  ],
-  "translation": "Og Ísraelsmenn sögðu við þá: Gæti einhver gefið að við hefðum dáið í hendi Jahve í landi Mitsrajím, er við sátum við kjötputana og átum brauð til mettunar; því að þið hafið fært ⟨את⟩ okkur út í þessa eyðimörk til að deyða allan þennan söfnuð með hungri.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "8af8f9c3a55ffaf8b44f5422e406409016e09f97bbeb1e2aba11aa076425aec6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/16\/1-4.1792394521818.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og synir Ísraels sögðu við þá: Hver gjöri að við hefðum dáið í hendi Jahve í landi Mitsrajím, er við sátum við kjötpottana og étu brauð til mettunar — því að þér hafið fært ⟨את⟩ okkur út í þessa eyðimörk til að láta ⟨את⟩ allt þetta söfn deyja úr hungri.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "sögðu"
+      "gloss": "Og sögðu"
     },
     {
       "surface": "אלהם",
@@ -43,23 +17,23 @@
     },
     {
       "surface": "בני",
-      "gloss": "menn"
+      "gloss": "synir"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵל",
       "gloss": "Ísraels"
     },
     {
       "surface": "מי",
-      "gloss": "hver"
+      "gloss": "Hver"
     },
     {
       "surface": "יתן",
-      "gloss": "gæfi"
+      "gloss": "gjöri"
     },
     {
       "surface": "מותנו",
-      "gloss": "að við hefðum dáið"
+      "gloss": "að við dáiðum"
     },
     {
       "surface": "ביד",
@@ -87,15 +61,15 @@
     },
     {
       "surface": "סיר",
-      "gloss": "putana"
+      "gloss": "pottana"
     },
     {
       "surface": "הבשר",
-      "gloss": "kjöt"
+      "gloss": "kjöts"
     },
     {
       "surface": "באכלנו",
-      "gloss": "og átum"
+      "gloss": "og étu"
     },
     {
       "surface": "לחם",
@@ -111,16 +85,16 @@
     },
     {
       "surface": "הוצאתם",
-      "gloss": "þið hafið fært út"
+      "gloss": "þér hafið fært"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ okkur",
       "marks": "okkur"
     },
     {
       "surface": "אל",
-      "gloss": "í"
+      "gloss": "út í"
     },
     {
       "surface": "המדבר",
@@ -132,30 +106,30 @@
     },
     {
       "surface": "להמית",
-      "gloss": "til að deyða"
+      "gloss": "til að láta deyja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "allan þennan söfnuð"
+      "marks": "allt þetta söfn"
     },
     {
       "surface": "כל",
-      "gloss": "allan"
+      "gloss": "allt"
     },
     {
       "surface": "הקהל",
-      "gloss": "söfnuð"
+      "gloss": "söfnið"
     },
     {
       "surface": "הזה",
-      "gloss": "þennan"
+      "gloss": "þetta"
     },
     {
       "surface": "ברעב",
-      "gloss": "með hungri"
+      "gloss": "úr hungri"
     }
   ],
-  "timestamp": "2026-10-19T07:22:01.820348373Z",
+  "timestamp": "2026-10-19T14:41:09.970550426Z",
   "model": "glm-5.3"
 }

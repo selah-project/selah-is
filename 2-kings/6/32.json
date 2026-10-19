@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בן המרצח",
-      "rationale": "'son morðingsins' — konungurinn (Jóram) eða almennt 'morisynir' semlastæling; sumir lesa 'þessi morðingi'"
-    },
-    {
-      "kind": "you",
-      "subject": "öldungarnir",
-      "rationale": "Elísa talar beint til öldunganna — boðsháttur í fleirtölu"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "fyrsta אתו er forsetningin 'með\/hjá' (H854), ekki marking að drætti — samtfest við 'hjá honum'"
-    }
-  ],
-  "translation": "En Elísa sat í húsi sínu og öldungarnir sátu hjá honum, og hann sendi mann frá sér; en áður en sendimaðurinn kom til hans, sagði hann við öldungana: Sjáðið þið að þessi son morðingsins hefur sent til að fjarlægja ⟨את⟩ höfuð mitt? Sjáði, um leið og sendimaðurinn kemur, lokið dyrunum og þrýstið ⟨את⟩ honum að dyrunum — er hljóð fóta herra hans ekki á eftir honum?",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/6\/29-32.1792402991158.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En Elísa sat í húsi sínu og öldungarnir sátu hjá honum; og ⟨konungurinn⟩ sendi mann frá sér, en áður en sendimaðurinn kom til hans sagði hann við öldungana: Sáið þið að þessi sonur morðingjans hefur sent til að fella ⟨את⟩ höfuð mitt? Sjáði, þegar sendimaðurinn kemur, lokið dyrunum og haldið honum ⟨את⟩ fastum við dyrnar — er ekki hljóð fótspora herra hans á eftir honum?",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -55,7 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "hjá ⟨את⟩ honum"
+      "gloss": "⟨את⟩",
+      "marks": "hjá honum (öldungarnir)"
     },
     {
       "surface": "וישלח",
@@ -75,7 +50,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "kom"
+      "gloss": "kæmi"
     },
     {
       "surface": "המלאך",
@@ -103,7 +78,7 @@
     },
     {
       "surface": "הראיתם",
-      "gloss": "sjáið þið"
+      "gloss": "Sáið þið"
     },
     {
       "surface": "כי",
@@ -115,11 +90,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "son"
+      "gloss": "sonur"
     },
     {
       "surface": "המרצח",
-      "gloss": "morðingsins"
+      "gloss": "morðingjans"
     },
     {
       "surface": "הזה",
@@ -127,7 +102,7 @@
     },
     {
       "surface": "להסיר",
-      "gloss": "til að fjarlægja"
+      "gloss": "til að fella"
     },
     {
       "surface": "את",
@@ -140,11 +115,11 @@
     },
     {
       "surface": "ראו",
-      "gloss": "sjáið"
+      "gloss": "Sjáði"
     },
     {
       "surface": "כבא",
-      "gloss": "um leið og ... kemur"
+      "gloss": "kemur"
     },
     {
       "surface": "המלאך",
@@ -160,7 +135,7 @@
     },
     {
       "surface": "ולחצתם",
-      "gloss": "og þrýstið"
+      "gloss": "og haldið fastum"
     },
     {
       "surface": "אתו",
@@ -169,11 +144,11 @@
     },
     {
       "surface": "בדלת",
-      "gloss": "að dyrunum"
+      "gloss": "við dyrnar"
     },
     {
       "surface": "הלוא",
-      "gloss": "er ... ekki"
+      "gloss": "Er ekki"
     },
     {
       "surface": "קול",
@@ -181,7 +156,7 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "fóta"
+      "gloss": "fótspora"
     },
     {
       "surface": "אדניו",
@@ -192,6 +167,6 @@
       "gloss": "á eftir honum"
     }
   ],
-  "timestamp": "2026-10-19T09:43:11.159796756Z",
+  "timestamp": "2026-10-19T14:36:45.904089591Z",
   "model": "glm-5.3"
 }

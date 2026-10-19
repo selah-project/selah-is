@@ -5,38 +5,12 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "ואתכם er aleph-tav með persónuendingu; framvísunin fellur inn í persónufornafnið og merkingarorðið 'sögn: strá út' bætt við í glósu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שממה\/חרבה",
-      "rationale": "Tvö orð af rót שׁמם og חרב í samstöðu í v. 33 — auðn og eyði — endurtaka rótarhljóm sem glatast að hluta til á íslensku"
-    },
-    {
-      "kind": "addition",
-      "subject": "framvísunarsögn",
-      "rationale": "Íslenskan þarf hjálparsagnir (mun, verða) sem hebreskan segir með beygingu"
-    }
-  ],
-  "translation": "Og yður mun ég strá út meðal þjóðanna, og ég mun láta sverðið út á eftir yður, og land yðar mun verða auðn og borgir yðar munu liggja í eyði.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/33-36.1792396267827.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ yður mun ég strá út meðal þjóðanna, og ég mun lgga sverð á eftir yður, og land yðar verður að eyðimörk, og borgir yðar verða lagðar í eyði.",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "og ⟨את⟩ yður",
-      "marks": "yður — merkt við beygingu (sögn: strá út)"
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður — það sem stráð er út"
     },
     {
       "surface": "אזרה",
@@ -48,19 +22,19 @@
     },
     {
       "surface": "והריקתי",
-      "gloss": "og ég mun láta út"
+      "gloss": "og ég mun leggja á eftir"
     },
     {
       "surface": "אחריכם",
-      "gloss": "á eftir yður"
+      "gloss": "eftir yður"
     },
     {
       "surface": "חרב",
-      "gloss": "sverðið"
+      "gloss": "sverð"
     },
     {
       "surface": "והיתה",
-      "gloss": "og mun verða"
+      "gloss": "og verður"
     },
     {
       "surface": "ארצכם",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "שממה",
-      "gloss": "auðn"
+      "gloss": "að eyðimörk"
     },
     {
       "surface": "ועריכם",
@@ -76,13 +50,13 @@
     },
     {
       "surface": "יהיו",
-      "gloss": "munu liggja"
+      "gloss": "verða"
     },
     {
       "surface": "חרבה",
-      "gloss": "í eyði"
+      "gloss": "lagðar í eyði"
     }
   ],
-  "timestamp": "2026-10-19T07:51:07.828545893Z",
+  "timestamp": "2026-10-19T14:54:12.583366356Z",
   "model": "glm-5.3"
 }

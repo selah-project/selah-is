@@ -5,35 +5,55 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ואחריך לא זונה",
-      "rationale": "'Eftir þig gerir engin hórsku' — eða 'enginn.Diagnostics elskar þig' — KJV 'none followeth thee'."
-    }
-  ],
-  "translation": "Og þú varst þveröfugt við aðrar konur í hórkunum þínum — að þér fylgir engin í hórkunum — og þegar þú gafst hórlaun en hórlaun voru þér ekki gefin, þá varst þú ⟨þveröfugt⟩.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "93c55c113b2694185bec167d8672df5588d65cc1e8cc3a884575ea5c2b20c6f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/16\/33-36.1792407115719.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og það varð í þér hið gagnstæða frá konunum í saurlífi þínu — og eftir þér hórar enginn — og í því að þú gefur hórunargjöf, en hórunargjöf er ekki gefin þér, þess vegna varðst þú hið gagnstæða.",
   "tokens": [
     {
+      "surface": "ויהי",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "hið gagnstæða"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "konunum"
+    },
+    {
+      "surface": "בתזנותיך",
+      "gloss": "í saurlífi þínu"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "og eftir þér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enginn-ekki"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "hórar"
+    },
+    {
       "surface": "ובתתך",
-      "gloss": "og þegar þú gafst"
+      "gloss": "og í því að þú gefur"
     },
     {
       "surface": "אתנן",
-      "gloss": "hórlaun"
+      "gloss": "hórunargjöf"
     },
     {
       "surface": "ואתנן",
-      "gloss": "en hórlaun"
+      "gloss": "en hórunargjöf"
     },
     {
       "surface": "לא",
@@ -41,7 +61,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "voru gefin"
+      "gloss": "er gefin"
     },
     {
       "surface": "לך",
@@ -49,13 +69,13 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "þá varst þú"
+      "gloss": "varðst þú"
     },
     {
       "surface": "להפך",
-      "gloss": "þveröfugt"
+      "gloss": "hið gagnstæða"
     }
   ],
-  "timestamp": "2026-10-19T10:51:55.720636207Z",
+  "timestamp": "2026-10-19T14:42:18.358340909Z",
   "model": "glm-5.3"
 }

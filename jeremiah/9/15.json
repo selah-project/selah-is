@@ -5,87 +5,67 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'hvorki ... né' — hebreskan segir aðeins 'ekki' einu sinni, íslenskan þarf samhverfa neitun"
-    },
-    {
-      "kind": "alternative",
-      "subject": "is",
-      "rationale": "כלותי 'full eyða\/eyða til enda' — 'gjört út af' heldur lagvísismyndinni"
-    }
-  ],
-  "translation": "Og ég dreif þeim út meðal þjóðanna sem hvorki þeir né feður þeirra þekktu, og ég sendi sverðið á eftir þeim, þar til ég hef gjört þeim alveg út af.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/9\/13-16.1792405552078.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég mun dreifa þeim meðal þjóðanna sem hvorki þeir né feður þeirra hafa þekkt, og ég mun senda ⟨את⟩ sverðið eftir þeim, þar til ég hef eytt ⟨את⟩ þeim.",
   "tokens": [
     {
-      "surface": "והפצותים",
-      "gloss": "Og ég dreif þeim út"
+      "surface": "וַהֲפִֽצוֹתִים",
+      "gloss": "mun ég dreifa"
     },
     {
-      "surface": "בגוים",
+      "surface": "בַּגּוֹיִם",
       "gloss": "meðal þjóðanna"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר",
       "gloss": "sem"
     },
     {
-      "surface": "לא",
-      "gloss": "ekki"
+      "surface": "לֹא",
+      "gloss": "hvorki"
     },
     {
-      "surface": "ידעו",
-      "gloss": "þekktu"
+      "surface": "יָדְעוּ",
+      "gloss": "hafa þekkt"
     },
     {
-      "surface": "המה",
+      "surface": "הֵמָּה",
       "gloss": "þeir"
     },
     {
-      "surface": "ואבותם",
-      "gloss": "og feður þeirra"
+      "surface": "וַאֲבוֹתָם",
+      "gloss": "né feður þeirra"
     },
     {
-      "surface": "ושלחתי",
-      "gloss": "og ég sendi"
+      "surface": "וְשִׁלַּחְתִּי",
+      "gloss": "og ég mun senda"
     },
     {
-      "surface": "אחריהם",
-      "gloss": "á eftir þeim"
+      "surface": "אַחֲרֵיהֶם",
+      "gloss": "eftir þeim"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
       "marks": "sverðið"
     },
     {
-      "surface": "החרב",
+      "surface": "הַחֶרֶב",
       "gloss": "sverðið"
     },
     {
-      "surface": "עד",
+      "surface": "עַד",
       "gloss": "þar til"
     },
     {
-      "surface": "כלותי",
-      "gloss": "ég hef gjört alveg út af"
+      "surface": "כַּלּוֹתִי",
+      "gloss": "hef ég eytt"
     },
     {
-      "surface": "אותם",
-      "gloss": "⟨את⟩ þeim"
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩ þeim",
+      "marks": "þeim (suffixed object marker)"
     }
   ],
-  "timestamp": "2026-10-19T10:25:52.080147472Z",
+  "timestamp": "2026-10-19T14:50:35.106808107Z",
   "model": "glm-5.3"
 }

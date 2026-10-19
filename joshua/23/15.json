@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הטוב \/ הרע",
-      "rationale": "Andstæða 'góða orðs' og 'illa orðs' í sama kima — mælikvarði launa og refsingar."
-    },
-    {
-      "kind": "you",
-      "subject": "to Ísrael",
-      "rationale": "Ávarp til lýðsins í viðvörunni."
-    }
-  ],
-  "translation": "Og það mun verða: sem allt hið góða orð kom ykkur, sem Jahve Elóhím ykkar talaði til ykkar, þannig mun Jahve leiða ykkur ⟨את⟩ allt hið illa orð, uns hann hefur eytt ykkur af þessari góðu jörðu, sem Jahve Elóhím ykkar hefur gefið ykkur.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "993bb73692a49117fd80f4e3eaa593096e801a0883966c36e9411b7df3120cfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/23\/13-16.1792399502050.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og það mun verða, að eins og kom yfir ykkur allt hið góða orð, það sem Jahve, Elóhím ykkar, talaði til ykkar, þannig mun Jahve láta koma yfir ykkur ⟨את⟩ allt hið illa orð, uns hann heir eytt ⟨את⟩ ykkur af þessari góðu jörð, sem Jahve, Elóhím ykkar, gaf ykkur.",
   "tokens": [
     {
       "surface": "והיה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "sem"
+      "gloss": "að eins og"
     },
     {
       "surface": "בא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "ykkur"
+      "gloss": "yfir ykkur"
     },
     {
       "surface": "כל",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "góða"
+      "gloss": "hið góða"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "דבר",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "יביא",
-      "gloss": "mun leiða"
+      "gloss": "mun láta koma"
     },
     {
       "surface": "יהוה",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "ykkur"
+      "gloss": "yfir ykkur"
     },
     {
       "surface": "את",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "הרע",
-      "gloss": "illa"
+      "gloss": "hið illa"
     },
     {
       "surface": "עד",
@@ -119,7 +98,8 @@
     },
     {
       "surface": "אותכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur (orðið er eytt af jörðinni) — byðupersónan sem eytt er"
     },
     {
       "surface": "מעל",
@@ -127,7 +107,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "jörðu"
+      "gloss": "jörðinni"
     },
     {
       "surface": "הטובה",
@@ -143,7 +123,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "hefur gefið"
+      "gloss": "gaf"
     },
     {
       "surface": "לכם",
@@ -158,6 +138,6 @@
       "gloss": "Elóhím ykkar"
     }
   ],
-  "timestamp": "2026-10-19T08:45:02.052259580Z",
+  "timestamp": "2026-10-19T14:51:55.332345022Z",
   "model": "glm-5.3"
 }

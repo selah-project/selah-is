@@ -5,45 +5,19 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "כי אם er samsett neitun 'nema'; אם fellur inn í hana"
-    },
-    {
-      "kind": "substitution",
-      "subject": "kýrlamb",
-      "rationale": "כבשה er æð kindar; 'kýrlamb' varðar kyngerviðsins en 'lamb' stærðina"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כבשה\/כבשת",
-      "rationale": "endurtekning orðsins 'lamb' gegnum vers 3–4 bærir tilfinningaslegan áherslu þjóðsögunnar"
-    }
-  ],
-  "translation": "En fátæka manninn átti ekki neitt, nema eina litla kýrlamb, sem hann hafði keypt og fætt upp, og það óx upp hjá honum og með börnum hans saman; af bitanum hans át það og úr bikarnum hans drakk það og í fanginu hans lá það, og það var honum sem dóttir.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "10369e67e5c87d0220cfd6cca86b3de8221fdd08c3838de87efcffa785c9ca79",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/1-4.1792401431185.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En fátækurinn átti ekkert, nema eina litla able, er hann hafði keypt og haldið lifandi; og hún óx upp hjá honum og með börnum hans saman; af munnbita hans át hún og af bikar hans drakk hún, og í fanginu á honum lá hún, og varð honum ⟨sem⟩ dóttur.",
   "tokens": [
     {
       "surface": "ולרש",
-      "gloss": "En fátæka manninn"
+      "gloss": "en fátækurinn"
     },
     {
       "surface": "אין",
-      "gloss": "ekki"
+      "gloss": "ekkert"
     },
     {
       "surface": "כל",
-      "gloss": "neitt"
+      "gloss": "allt"
     },
     {
       "surface": "כי",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ef"
     },
     {
       "surface": "כבשה",
-      "gloss": "kýrlamb"
+      "gloss": "eina litla able"
     },
     {
       "surface": "אחת",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "er"
     },
     {
       "surface": "קנה",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "ויחיה",
-      "gloss": "og fætt upp"
+      "gloss": "og haldið lifandi"
     },
     {
       "surface": "ותגדל",
-      "gloss": "og það óx upp"
+      "gloss": "og hún óx upp"
     },
     {
       "surface": "עמו",
@@ -99,31 +73,31 @@
     },
     {
       "surface": "מפתו",
-      "gloss": "af bitanum hans"
+      "gloss": "af munnbita hans"
     },
     {
       "surface": "תאכל",
-      "gloss": "át það"
+      "gloss": "át hún"
     },
     {
       "surface": "ומכסו",
-      "gloss": "og úr bikarnum hans"
+      "gloss": "og af bikar hans"
     },
     {
       "surface": "תשתה",
-      "gloss": "drakk það"
+      "gloss": "drakk hún"
     },
     {
       "surface": "ובחיקו",
-      "gloss": "og í fanginu hans"
+      "gloss": "og í fanginu á honum"
     },
     {
       "surface": "תשכב",
-      "gloss": "lá það"
+      "gloss": "lá hún"
     },
     {
       "surface": "ותהי",
-      "gloss": "og það var"
+      "gloss": "og varð"
     },
     {
       "surface": "לו",
@@ -131,9 +105,9 @@
     },
     {
       "surface": "כבת",
-      "gloss": "sem dóttir"
+      "gloss": "dóttur"
     }
   ],
-  "timestamp": "2026-10-19T09:17:11.186198755Z",
+  "timestamp": "2026-10-19T14:36:38.556748485Z",
   "model": "glm-5.3"
 }

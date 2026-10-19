@@ -5,47 +5,15 @@
   "book": "daniel",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "til Nevúkadnessars",
-      "rationale": "Versið beinist til konungs í öðru persóni eintölu — áminningin um hinn æðsta."
-    },
-    {
-      "kind": "measurement",
-      "subject": "sjö tímabil",
-      "rationale": "עדנין — tölulögð mæling á refsingartíma."
-    },
-    {
-      "kind": "crux",
-      "subject": "עדנין",
-      "rationale": "'tímabil\/tímar' vs 'ár' — aramíska orðið getur merkt bæði; sumir telja sjö ár."
-    },
-    {
-      "kind": "elision",
-      "subject": "די",
-      "gloss-rationale-less": "",
-      "rationale": "Arameíska ættingin די fellur saman við 'að\/hveim sem' á undan."
-    }
-  ],
-  "translation": "Og frá mønnum skalt þú rekinn verða, og með dýrum merkis verður bústaður þinn; grasi eins og nautum munu þér láta þig næra, og sjö tímabil munu líða yfir þig, uns þú kannast við að hinn æðsti ríkir í konungsríki manna, og hveim sem honum sýnist gefur hann ⟨את⟩ hana.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "156a992b1f65104b118a6db8fc648c1a93988b9f5ea0de2564b85f63880cb15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/4\/29-32.1792413562750.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og frá mönnum skalt þú vera rekinn, og með dýrum merkis verður dvalarstaður þinn; grasi, eins og nautum, munu þeir fæða þig, og sjö tímabil munu líða yfir þig, þar til þú veist að Hinn Hæsti ríkir yfir konungsríki manna, og gefur það ⟨þeim⟩ er honum þykir.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "frá"
+      "gloss": "Og frá"
     },
     {
       "surface": "אנשא",
-      "gloss": "mønnum"
+      "gloss": "mönnunum"
     },
     {
       "surface": "לך",
@@ -53,11 +21,11 @@
     },
     {
       "surface": "טרדין",
-      "gloss": "rekinn verða"
+      "gloss": "rekinn"
     },
     {
       "surface": "ועם",
-      "gloss": "með"
+      "gloss": "og með"
     },
     {
       "surface": "חיות",
@@ -69,7 +37,7 @@
     },
     {
       "surface": "מדרך",
-      "gloss": "bústaður þinn"
+      "gloss": "dvalarstaður þinn"
     },
     {
       "surface": "עשבא",
@@ -77,19 +45,19 @@
     },
     {
       "surface": "כתורין",
-      "gloss": "nautum"
+      "gloss": "eins og nautum"
     },
     {
       "surface": "לך",
-      "gloss": "þér"
+      "gloss": "þig"
     },
     {
       "surface": "יטעמון",
-      "gloss": "munu láta næra"
+      "gloss": "munu þeir fæða"
     },
     {
       "surface": "ושבעה",
-      "gloss": "sjö"
+      "gloss": "og sjö"
     },
     {
       "surface": "עדנין",
@@ -97,7 +65,7 @@
     },
     {
       "surface": "יחלפון",
-      "gloss": "líða"
+      "gloss": "munu líða"
     },
     {
       "surface": "עליך",
@@ -105,7 +73,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "uns"
+      "gloss": "þar til"
     },
     {
       "surface": "די",
@@ -113,7 +81,7 @@
     },
     {
       "surface": "תנדע",
-      "gloss": "kannast við"
+      "gloss": "þú veist"
     },
     {
       "surface": "די",
@@ -125,11 +93,11 @@
     },
     {
       "surface": "עליא",
-      "gloss": "hinn æðsti"
+      "gloss": "Hinn Hæsti"
     },
     {
       "surface": "במלכות",
-      "gloss": "í konungsríki"
+      "gloss": "yfir konungsríki"
     },
     {
       "surface": "אנשא",
@@ -137,7 +105,7 @@
     },
     {
       "surface": "ולמן",
-      "gloss": "hveim sem"
+      "gloss": "og þeim er"
     },
     {
       "surface": "די",
@@ -145,14 +113,13 @@
     },
     {
       "surface": "יצבא",
-      "gloss": "honum sýnist"
+      "gloss": "honum þykir"
     },
     {
       "surface": "יתננה",
-      "gloss": "gefur ⟨את⟩ hana",
-      "marks": "hana"
+      "gloss": "gefur það"
     }
   ],
-  "timestamp": "2026-10-19T12:39:22.751337705Z",
+  "timestamp": "2026-10-19T14:38:08.888971074Z",
   "model": "glm-5.3"
 }

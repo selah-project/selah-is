@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 66,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Fyrstavarnar í fleirtölu ætlaðar þeim sem elska Jerúsjalajím."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמחו\/שישו",
-      "rationale": "Tvær rætur með sömu merkingu (gleðjast) í samstöðu; muninn hverfur á íslensku."
-    }
-  ],
-  "translation": "Gjöðið ykkur gleði með Jerúsjalajím og fagnið með henni, allir þér sem elska hana; gjöðið ykkur gleði með henni í gleði, allir þér sem syrgja yfir henni.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e44cd6b0a79b5bf3f4a5c154b80915b908e20f7deb96fe74bec5f4908554a7bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/66\/9-12.1792405120946.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gleðjist ⟨את⟩ Jerúsjalajím og fagnið með henni, allir þér sem elska hana; gleðjist með henni ⟨את⟩ í mæðgledði, allir þér sem syrgja yfir henni.",
   "tokens": [
     {
       "surface": "שמחו",
-      "gloss": "Gjöðið ykkur gleði"
+      "gloss": "Gleðjist"
     },
     {
       "surface": "את",
@@ -39,7 +18,7 @@
     },
     {
       "surface": "ירושלם",
-      "gloss": "með Jerúsjalajím"
+      "gloss": "Jerúsjalajím"
     },
     {
       "surface": "וגילו",
@@ -59,15 +38,16 @@
     },
     {
       "surface": "שישו",
-      "gloss": "gjöðið ykkur gleði"
+      "gloss": "gleðjist"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ með henni"
+      "gloss": "með henni ⟨את⟩",
+      "marks": "í mæðgledði"
     },
     {
       "surface": "משוש",
-      "gloss": "í gleði"
+      "gloss": "í mæðgledði"
     },
     {
       "surface": "כל",
@@ -82,6 +62,6 @@
       "gloss": "yfir henni"
     }
   ],
-  "timestamp": "2026-10-19T10:18:40.947367195Z",
+  "timestamp": "2026-10-19T14:48:41.954369024Z",
   "model": "glm-5.3"
 }

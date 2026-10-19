@@ -5,32 +5,16 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "וימכר",
-      "rationale": "\"Seldi þá í hendi\" — hebreskt myndmál um að gefa upp í vald óvina, ekki sölu í viðskiptaskilningi."
-    }
-  ],
-  "translation": "Og þeir gleymdu ⟨את⟩ Jahve Elóhím sínum, og hann seldi þá í hendi Sísera, hershöfðingja hersins í Hatsor, og í hendi Filistea, og í hendi konungs Móabs, og þeir börðust gegn þeim.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/12\/9-12.1792400395269.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir gleymdu ⟨את⟩ Jahve, Elóhím sínum, og hann seldi ⟨את⟩ þá í hond Síséra, höfðingja hersins í Khatsór, og í hond Filistíumanna, og í hond konungs Móabs, og þeir börðust gegn þeim.",
   "tokens": [
     {
       "surface": "וישכחו",
-      "gloss": "gleymdu"
+      "gloss": "Og þeir gleymdu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve Elóhím sínum"
+      "marks": "Jahve"
     },
     {
       "surface": "יהוה",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "וימכר",
-      "gloss": "seldi"
+      "gloss": "og hann seldi"
     },
     {
       "surface": "אתם",
@@ -51,15 +35,15 @@
     },
     {
       "surface": "ביד",
-      "gloss": "í hendi"
+      "gloss": "í hond"
     },
     {
       "surface": "סיסרא",
-      "gloss": "Sísera"
+      "gloss": "Síséra"
     },
     {
       "surface": "שר",
-      "gloss": "hershöfðingja"
+      "gloss": "höfðingja"
     },
     {
       "surface": "צבא",
@@ -67,19 +51,19 @@
     },
     {
       "surface": "חצור",
-      "gloss": "Hatsor"
+      "gloss": "í Khatsór"
     },
     {
       "surface": "וביד",
-      "gloss": "í hendi"
+      "gloss": "og í hond"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistea"
+      "gloss": "Filistíumanna"
     },
     {
       "surface": "וביד",
-      "gloss": "í hendi"
+      "gloss": "og í hond"
     },
     {
       "surface": "מלך",
@@ -91,13 +75,13 @@
     },
     {
       "surface": "וילחמו",
-      "gloss": "börðust"
+      "gloss": "og þeir börðust"
     },
     {
       "surface": "בם",
       "gloss": "gegn þeim"
     }
   ],
-  "timestamp": "2026-10-19T08:59:55.270749039Z",
+  "timestamp": "2026-10-19T14:33:01.662862552Z",
   "model": "glm-5.3"
 }

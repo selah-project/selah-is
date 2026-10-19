@@ -5,40 +5,20 @@
   "book": "amos",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "afpakad",
-      "rationale": "pakad getur merkt heimsókn, refsingu eða uppgjör — ,heimta á,heldur víðlestri en ,refsa,"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Jahve talar beint til Ísraels um sérstaklega kunning þeirra"
-    }
-  ],
-  "translation": "Aðeins ykkur þekki ég, af öllum ættum jarðarinnar; þess vegna mun ég heimta ⟨את⟩ alla missiði ykkar á ykkur.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/3\/1-4.1792408353731.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aðeins ykkur ⟨את⟩ kunni ég, af öllum ættum jarðarinnar; því mun ég heimsækja ykkur ⟨את⟩ vegna allra misgerða ykkar.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "aðeins"
+      "gloss": "Aðeins"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "þeim sem ég kunni (jáðæðisorfð) — vísar á hlutverk ykkar í kunnnæminu"
     },
     {
       "surface": "ידעתי",
-      "gloss": "þekki ég"
+      "gloss": "kunni ég"
     },
     {
       "surface": "מכל",
@@ -54,34 +34,34 @@
     },
     {
       "surface": "על",
-      "gloss": "þess vegna"
+      "gloss": "því"
     },
     {
       "surface": "כן",
-      "gloss": "þess vegna"
+      "gloss": ""
     },
     {
       "surface": "אפקד",
-      "gloss": "mun ég heimta á"
+      "gloss": "mun ég heimsækja"
     },
     {
       "surface": "עליכם",
-      "gloss": "á ykkur"
+      "gloss": "ykkur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alla missiði ykkar"
+      "marks": "allar misgerðir ykkar"
     },
     {
       "surface": "כל",
-      "gloss": "alla"
+      "gloss": "allra"
     },
     {
       "surface": "עונתיכם",
-      "gloss": "missiði ykkar"
+      "gloss": "misgerða ykkar"
     }
   ],
-  "timestamp": "2026-10-19T11:12:33.732506338Z",
+  "timestamp": "2026-10-19T14:37:23.690015954Z",
   "model": "glm-5.3"
 }

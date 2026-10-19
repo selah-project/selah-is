@@ -5,37 +5,11 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Hebreska hefur ekki sagnorð við היה í þessu samhengi; 'voru' bætt við í sviga"
-    },
-    {
-      "kind": "measurement",
-      "subject": "hliðsmál",
-      "rationale": "Versnum telur mál hliðsins: fimmtíu alnir lengd, tuttugu og fimm alnir breidd"
-    },
-    {
-      "kind": "crux",
-      "subject": "תא",
-      "rationale": "תא merkir klefa\/lítinn kima — KJV 'little chambers', JPS 'cells'"
-    }
-  ],
-  "translation": "Og klefar hennar þrír héðan og þrír þaðan, og súlur hennar og svölun hennar ⟨voru⟩ eftir sömu mælingu og fyrsta hliðið: fimmtíu alnir lengd hennar og tuttugu og fimm alnir breidd.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6ce7b5e8cc47f23241f53e0bd7f8535f73f148105ff32dbc028f0472512a2b59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/40\/21-24.1792407813575.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og klefar ⟨þess⟩ voru þrír á hlið þessari og þrír á hlið þessari, og stoðir þess og svalir ⟨þess⟩ voru eftir máttkvæði hins fyrsta hliðsins: fimmtíu faðma lengd ⟨þess⟩, og breidd fimm og tuttugu faðma.",
   "tokens": [
     {
       "surface": "ותאו",
-      "gloss": "Og klefar hennar"
+      "gloss": "Og klefar"
     },
     {
       "surface": "שלושה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "מפו",
-      "gloss": "héðan"
+      "gloss": "á hlið þessari"
     },
     {
       "surface": "ושלשה",
@@ -51,31 +25,31 @@
     },
     {
       "surface": "מפו",
-      "gloss": "þaðan"
+      "gloss": "á hlið þessari"
     },
     {
       "surface": "ואילו",
-      "gloss": "og súlur hennar"
+      "gloss": "og stoðir þess"
     },
     {
       "surface": "ואלמו",
-      "gloss": "og svölun hennar"
+      "gloss": "og svalir ⟨þess⟩"
     },
     {
       "surface": "היה",
-      "gloss": "⟨voru⟩"
+      "gloss": "voru"
     },
     {
       "surface": "כמדת",
-      "gloss": "eftir sömu mælingu"
+      "gloss": "eftir máttkvæði"
     },
     {
       "surface": "השער",
-      "gloss": "hliðið"
+      "gloss": "hliðsins"
     },
     {
       "surface": "הראשון",
-      "gloss": "fyrsta"
+      "gloss": "hins fyrsta"
     },
     {
       "surface": "חמשים",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "אמה",
-      "gloss": "alnir"
+      "gloss": "faðma"
     },
     {
       "surface": "ארכו",
-      "gloss": "lengd hennar"
+      "gloss": "lengd ⟨þess⟩"
     },
     {
       "surface": "ורחב",
@@ -95,17 +69,17 @@
     },
     {
       "surface": "חמש",
-      "gloss": "tuttugu og fimm"
+      "gloss": "fimm"
     },
     {
       "surface": "ועשרים",
-      "gloss": ""
+      "gloss": "og tuttugu"
     },
     {
       "surface": "באמה",
-      "gloss": "alnir"
+      "gloss": "faðma"
     }
   ],
-  "timestamp": "2026-10-19T11:03:33.575832288Z",
+  "timestamp": "2026-10-19T14:44:10.763371709Z",
   "model": "glm-5.3"
 }

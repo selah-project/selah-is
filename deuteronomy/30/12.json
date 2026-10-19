@@ -5,49 +5,23 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "það",
-      "rationale": "fornafnið „það“ við ⟨את⟩ er sett inn — hebreskan notar aðeins aleph-tav markið"
-    },
-    {
-      "kind": "crux",
-      "subject": "היא\/הוא",
-      "rationale": "kyn orðsins um boðorðið — femínín í v. 11, en hvað „það“ vísar til (boðorðið eða Tóran alla) hefur verið deilt um"
-    },
-    {
-      "kind": "invitation",
-      "subject": "Ísrael",
-      "rationale": "spurningin „Hver skal stíga upp...“ hvetur lesandann til að sjá að boðorðið er þegar hjá honum"
-    }
-  ],
-  "translation": "Það er ekki á himninum, svo að þú segir: Hver skal stíga upp fyrir oss á himnin og taka ⟨את⟩ það fyrir oss ⟨את⟩ og láta oss heyra það, og vér skulum gjöra það?",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/30\/9-12.1792398396924.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ekki í himninum er hún, til að segja: Hver stígur upp fyrir okkur til himins og tekur hana fyrir okkur og lætur okkur heyra ⟨את⟩ hana, svo að vér gjörum hana?",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ekki"
+      "gloss": "Ekki"
     },
     {
       "surface": "בשמים",
-      "gloss": "á himninum"
+      "gloss": "í himninum"
     },
     {
       "surface": "הוא",
-      "gloss": "Það er"
+      "gloss": "hún"
     },
     {
       "surface": "לאמר",
-      "gloss": "svo að þú segir"
+      "gloss": "til að segja"
     },
     {
       "surface": "מי",
@@ -55,38 +29,38 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "skal stíga upp"
+      "gloss": "stígur upp"
     },
     {
       "surface": "לנו",
-      "gloss": "fyrir oss"
+      "gloss": "fyrir okkur"
     },
     {
       "surface": "השמימה",
-      "gloss": "á himnin"
+      "gloss": "til himins"
     },
     {
       "surface": "ויקחה",
-      "gloss": "og taka"
+      "gloss": "og tekur hana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir okkur"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "og lætur okkur heyra"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "það (boðorðið)"
-    },
-    {
-      "surface": "לנו",
-      "gloss": "fyrir oss"
-    },
-    {
-      "surface": "וישמענו",
-      "gloss": "⟨את⟩ og láta oss heyra"
+      "marks": "hana (Tórana, boðorðið)"
     },
     {
       "surface": "ונעשנה",
-      "gloss": "og vér skulum gjöra"
+      "gloss": "og gjörum hana"
     }
   ],
-  "timestamp": "2026-10-19T08:26:36.925987076Z",
+  "timestamp": "2026-10-19T14:38:56.706637580Z",
   "model": "glm-5.3"
 }

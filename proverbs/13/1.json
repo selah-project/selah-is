@@ -5,17 +5,41 @@
   "book": "proverbs",
   "lang": "is",
   "chapter": 13,
-  "translation": "Son meaningur — mūsar faðir; en hāðari hlýðir ekki á áminningu.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/13\/1-4.1792411352763.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-19T12:02:32.763485257Z",
+  "translation": "Sonkur visur ⟨heyrir⟩ ávísun föður, en hæðismaður heyrir ekki áminningu.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "sonkur"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "visur"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ávísun"
+    },
+    {
+      "surface": "אב",
+      "gloss": "föður"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "en hæðismaður"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyrir"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "áminningu"
+    }
+  ],
+  "timestamp": "2026-10-19T14:56:40.326546617Z",
   "model": "glm-5.3"
 }

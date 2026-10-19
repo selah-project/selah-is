@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska þarf hjápinsína 'hann' og greini við 'Elasar prestinn' — hebreskan hefur hvorki"
-    }
-  ],
-  "translation": "Og Mósje gjörði eins og Jahve hafði boðið honum, og hann tók ⟨את⟩ Jójšúa og setti hann fyrir framan Elasar prestinn og fyrir framan allan söfnuðinn.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b00ac22eff1690ee6d1b9b57002958b15c6cf37929006a231829eb6992574035",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/27\/21-23.1792397220126.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje gjörði eins og Jahve hafði boðið ⟨את⟩ honum, og hann tók ⟨את⟩ Jehósjúa og setti hann fram fyrir Elasar prestinn og fram fyrir alla söfnuðinn.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -46,7 +30,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "honum"
+      "marks": "honum (Mósje)"
     },
     {
       "surface": "ויקח",
@@ -55,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jójšúa"
+      "marks": "Jehósjúa"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jójšúa"
+      "gloss": "Jehósjúa"
     },
     {
       "surface": "ויעמדהו",
@@ -67,7 +51,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "fyrir framan"
+      "gloss": "fram fyrir"
     },
     {
       "surface": "אלעזר",
@@ -79,17 +63,17 @@
     },
     {
       "surface": "ולפני",
-      "gloss": "og fyrir framan"
+      "gloss": "og fram fyrir"
     },
     {
       "surface": "כל",
-      "gloss": "allan"
+      "gloss": "alla"
     },
     {
       "surface": "העדה",
       "gloss": "söfnuðinn"
     }
   ],
-  "timestamp": "2026-10-19T08:07:00.127850300Z",
+  "timestamp": "2026-10-19T14:55:58.576016326Z",
   "model": "glm-5.3"
 }

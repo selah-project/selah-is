@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "תתנודד: „hrœra höfði“ í háði (KJV „skippedst“ er víðavangur); sögnin þýðir bæði „væla“ og „hrœra\/vaka höfði“."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "„hann“ og „höfði“ skotin inn til að gera höfðihrœringuna skýra; hebreskan nefnir ekki höfuð."
-    }
-  ],
-  "translation": "Og var Ísrael ekki að spotti fyrir yður? Fannst hann meðal þjófa? Því að eins oft og þér talið um hann, hrœrið þér höfði.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "bca79b071df106451b80923773fb8a450588942ebaac4da452a0fffc96bea939",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/48\/25-28.1792406520742.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hefur Ísrael ekki verið þér að spotti? Var hann fundinn meðal þjófa? Því eins oft og þú talar orð þín um hann, veifir þú höfði þínu.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Og"
+      "gloss": "Hefur … ekki"
     },
     {
       "surface": "לוא",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "השחק",
-      "gloss": "að spott"
+      "gloss": "spotti"
     },
     {
       "surface": "היה",
-      "gloss": "var"
+      "gloss": "verið"
     },
     {
       "surface": "לך",
-      "gloss": "fyrir yður"
+      "gloss": "þér"
     },
     {
       "surface": "ישראל",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "hvort"
     },
     {
       "surface": "בגנבים",
@@ -62,29 +41,29 @@
     },
     {
       "surface": "נמצאה",
-      "gloss": "Fannst hann"
+      "gloss": "var fundinn"
     },
     {
       "surface": "כי",
-      "gloss": "Því að"
+      "gloss": "því að"
     },
     {
       "surface": "מדי",
-      "gloss": "eins oft og"
+      "gloss": "eins oft"
     },
     {
       "surface": "דבריך",
-      "gloss": "þér talið um hann"
+      "gloss": "orð þín"
     },
     {
       "surface": "בו",
-      "gloss": ""
+      "gloss": "um hann"
     },
     {
       "surface": "תתנודד",
-      "gloss": "hrœrið þér höfði"
+      "gloss": "veifir þú höfði þínu"
     }
   ],
-  "timestamp": "2026-10-19T10:42:00.742928739Z",
+  "timestamp": "2026-10-19T14:49:58.695502129Z",
   "model": "glm-5.3"
 }

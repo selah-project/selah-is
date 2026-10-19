@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Mannsson — beint ávarp til Jesekiel"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Forsögnoð gerir rúlluna að viðtökuhlutfalli (selja að éta)"
-    },
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Boðsorð: éta, fara, tala"
-    }
-  ],
-  "translation": "Og hann sagði við mig: Mannsson, ⟨את⟩ það sem þú finnur — ætt þú að éta; eta þessa rúllu og far ⟨og⟩ tala til húss Ísraels.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "441a10aeac71e664c0f8b87082e1e091dda593eea6bd9db38bfaa21af70de85e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/3\/1-4.1792406834993.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði við mig: Mannsson, ⟨את⟩ það sem þú finnur skalt þú eta; eta ⟨את⟩ þessa rúllu, og farðu og talaðu til húss Ísraels.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "תמצא",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "אכול",
-      "gloss": "ætt þú að éta"
+      "gloss": "skalt þú eta"
     },
     {
       "surface": "אכול",
@@ -85,11 +59,11 @@
     },
     {
       "surface": "ולך",
-      "gloss": "og far"
+      "gloss": "og farðu"
     },
     {
       "surface": "דבר",
-      "gloss": "tala"
+      "gloss": "talaðu"
     },
     {
       "surface": "אל",
@@ -104,6 +78,6 @@
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T10:47:14.994474815Z",
+  "timestamp": "2026-10-19T14:43:27.862681599Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פרץ\/פרץ\/פרץ-עזה",
-      "rationale": "sama rótin þrisvar: sögnin ‚gjöreyða‘, nafn staðarins Perets-Ússa — orðaleikurinn glatast að hluta í íslensku"
-    },
-    {
-      "kind": "crux",
-      "subject": "ויחר לדוד",
-      "rationale": "líturlegt ‚kveiknaði fyrir Davíð‘; KJV ‚displeased‘, JPS ‚displeased‘ — reiði eða sorg hjá Davíð"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss": "tengifallið fellur niður í íslensku, merkilegt með ‚yfir því að‘"
-    }
-  ],
-  "translation": "Og Davíð kveiknaði í reiði yfir því að Jahve gjöreyddi Ussa; og sá staður var kallaður Perets-Ússa, til þessa dags.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "bef6c177a0d54c74016663a27ed687f5689f83b54c9f87d0a2865f8b06a55840",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/6\/8-8.1792416596025.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Davíð kveiknaði í reiði vegna þess að Jahve gjörði ágangan á Ussa; og hann kallaði ⟨það⟩ staðinn Perets-Ussa, allt til ⟨þessa⟩ dags.",
   "tokens": [
     {
       "surface": "ויחר",
@@ -39,19 +13,19 @@
     },
     {
       "surface": "לדוד",
-      "gloss": "Davíð"
+      "gloss": "Og Davíð"
     },
     {
       "surface": "על",
-      "gloss": "yfir því að"
+      "gloss": "vegna"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "þess að"
     },
     {
       "surface": "פרץ",
-      "gloss": "gjöreyddi"
+      "gloss": "gjörði ágangan"
     },
     {
       "surface": "יהוה",
@@ -59,35 +33,35 @@
     },
     {
       "surface": "פרץ",
-      "gloss": "gjöreyddi"
+      "gloss": "ágang"
     },
     {
       "surface": "בעזה",
-      "gloss": "Ussa"
+      "gloss": "á Ussa"
     },
     {
       "surface": "ויקרא",
-      "gloss": "var kallaður"
+      "gloss": "og hann kallaði"
     },
     {
       "surface": "למקום",
-      "gloss": "staður"
+      "gloss": "staðinn"
     },
     {
       "surface": "ההוא",
-      "gloss": "sá"
+      "gloss": "það"
     },
     {
       "surface": "פרץ",
-      "gloss": "Perets-Ússa"
+      "gloss": "Perets"
     },
     {
       "surface": "עזה",
-      "gloss": "Perets-Ússa"
+      "gloss": "Ussa"
     },
     {
       "surface": "עד",
-      "gloss": "til"
+      "gloss": "allt til"
     },
     {
       "surface": "היום",
@@ -98,6 +72,6 @@
       "gloss": "þessa"
     }
   ],
-  "timestamp": "2026-10-19T13:29:56.026340362Z",
+  "timestamp": "2026-10-19T14:37:23.643687813Z",
   "model": "glm-5.3"
 }

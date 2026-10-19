@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ראה פנים",
-      "rationale": "'Sjá andlit' er hebreskt tjáningarháttur um að mæta manni, sérstaklega yfirmanni; fært bókstaflega."
-    },
-    {
-      "kind": "addition",
-      "subject": "sé",
-      "rationale": "Íslenska þýðingin þarf viðtengingarhátt ('sé með yður') sem hebreskan segir ekki beint."
-    }
-  ],
-  "translation": "En ef þú sendir hann ekki, förum vér ekki niður, því að maðurinn sagði til vor: Þér skuluð ekki sjá andlit mitt, nema yðar bróðir sé með yður.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/5-8.1792393871315.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En ef þú sendir hann ekki, förum vér ekki niður, því að maðurinn sagði við oss: Þér skuluð ekki sjá andlit mitt, nema yðar bróðir sé ⟨með⟩ ⟨את⟩ yður.",
   "tokens": [
     {
       "surface": "ואם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אינך",
-      "gloss": "þú sendir ekki"
+      "gloss": "þú ... ekki"
     },
     {
       "surface": "משלח",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "אלינו",
-      "gloss": "til vor"
+      "gloss": "við oss"
     },
     {
       "surface": "לא",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "תראו",
-      "gloss": "þér skuluð sjá"
+      "gloss": "Þér skuluð sjá"
     },
     {
       "surface": "פני",
@@ -86,10 +65,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "með yður"
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður"
     }
   ],
-  "timestamp": "2026-10-19T07:11:11.316790096Z",
+  "timestamp": "2026-10-19T14:46:26.294283675Z",
   "model": "glm-5.3"
 }

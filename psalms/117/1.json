@@ -5,17 +5,42 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 117,
-  "translation": "Lofjið Jahve, allar þjóðir; vegsamið hann, allar þjóðflokkar ⟨את⟩.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/117\/1-2.1792410743334.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
-  "tokens": [],
-  "timestamp": "2026-10-19T11:52:23.334735385Z",
+  "translation": "Lofið ⟨את⟩ Jahve, öll þjóðirnar; lofið hann, allar þjóðflokkarnir!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lofið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "lofið hann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "þjóðflokkarnir"
+    }
+  ],
+  "timestamp": "2026-10-19T14:57:00.145016230Z",
   "model": "glm-5.3"
 }

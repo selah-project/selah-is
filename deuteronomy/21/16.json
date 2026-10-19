@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פני",
-      "rationale": "„yfir andliti“ = „í augsýn \/ fram yfir“ — bókstafleg mynd myndi rugla"
-    },
-    {
-      "kind": "measurement",
-      "subject": "erfðaskipan",
-      "rationale": "versið setur fyrstfæðingarrétt sem mældan hlut í erfðaskiptum"
-    }
-  ],
-  "translation": "þá skal það vera, á þeim degi er hann lætur sonu sína erfast ⟨את⟩ það sem honum er búð, að hann má ekki gjöra son hinnar elskuðu að fyrstfæddum fram yfir son hinnar hataðu — hann fyrstfæddi.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/21\/13-16.1792398141234.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þá mun verða, á þeim degi er hann lætur ⟨את⟩ syni sína erfa ⟨את⟩ það sem honum blasir, að hann má ekki gegndirja fyrstfæddur soninn ⟨את⟩ son hinnar elskaðu, frammi fyrir syni hinnar hatuðu, fyrstfæddan.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "þá skal það vera"
+      "gloss": "Og þá mun verða"
     },
     {
       "surface": "ביום",
@@ -38,12 +17,12 @@
     },
     {
       "surface": "הנחילו",
-      "gloss": "er hann lætur erfast"
+      "gloss": "lætur erfa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "það sem honum er búð"
+      "marks": "syni sína"
     },
     {
       "surface": "בניו",
@@ -52,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "það sem honum er búð"
+      "marks": "það sem honum blasir"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "יהיה",
-      "gloss": "er"
+      "gloss": "blasir"
     },
     {
       "surface": "לו",
@@ -72,16 +51,16 @@
     },
     {
       "surface": "יוכל",
-      "gloss": "hann má"
+      "gloss": "má"
     },
     {
       "surface": "לבכר",
-      "gloss": "gjöra að fyrstfæddum"
+      "gloss": "gegndirja fyrstfæddur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "son hinnar elskuðu"
+      "marks": "son hinnar elskaðu"
     },
     {
       "surface": "בן",
@@ -89,29 +68,29 @@
     },
     {
       "surface": "האהובה",
-      "gloss": "hinnar elskuðu"
+      "gloss": "hinnar elskaðu"
     },
     {
       "surface": "על",
-      "gloss": "fram yfir"
+      "gloss": "frammi fyrir"
     },
     {
       "surface": "פני",
-      "gloss": "í augsýn"
+      "gloss": "frammi fyrir"
     },
     {
       "surface": "בן",
-      "gloss": "son"
+      "gloss": "syni"
     },
     {
       "surface": "השנואה",
-      "gloss": "hinnar hataðu"
+      "gloss": "hinnar hatuðu"
     },
     {
       "surface": "הבכר",
-      "gloss": "hann fyrstfæddi"
+      "gloss": "fyrstfæddan"
     }
   ],
-  "timestamp": "2026-10-19T08:22:21.236107693Z",
+  "timestamp": "2026-10-19T14:39:02.080675457Z",
   "model": "glm-5.3"
 }

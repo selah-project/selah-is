@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כתמל שלשם",
-      "rationale": "„í gær og hittfyrirverandi dag“ — tíðarvendt áíslenzku sem „eins og áður“, upphafleg tvískipting glatast"
-    },
-    {
-      "kind": "elision",
-      "subject": "שלשם",
-      "rationale": "hluti af fastri tíðarsetningu, fellur brott í íslensku"
-    }
-  ],
-  "translation": "Og hann sagði við ⟨þær⟩: Ég sé ⟨את⟩ andlit föður ykkar, að ⟨það⟩ er ekki til mín eins og áður; en Elóhím föður míns hefur verið með mér.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/31\/5-8.1792393421399.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði við þær: Ég sé ⟨את⟩ andlit föður ykkar, að ⟨það⟩ er ekki til mín eins og fyrir tveimur eða þremur dögum, og Elóhím föður mins hefur verið með mér.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "להן",
-      "gloss": "við ⟨þær⟩"
+      "gloss": "við þær"
     },
     {
       "surface": "ראה",
@@ -47,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "andlit"
+      "marks": "andlit föður ykkar"
     },
     {
       "surface": "פני",
@@ -71,19 +50,19 @@
     },
     {
       "surface": "כתמל",
-      "gloss": "eins og áður"
+      "gloss": "eins og fyrir tveimur dögum"
     },
     {
       "surface": "שלשם",
-      "gloss": ""
+      "gloss": "eða þremur dögum"
     },
     {
       "surface": "ואלהי",
-      "gloss": "en Elóhím"
+      "gloss": "og Elóhím"
     },
     {
       "surface": "אבי",
-      "gloss": "föður míns"
+      "gloss": "föður mins"
     },
     {
       "surface": "היה",
@@ -94,6 +73,6 @@
       "gloss": "með mér"
     }
   ],
-  "timestamp": "2026-10-19T07:03:41.400053045Z",
+  "timestamp": "2026-10-19T14:45:29.065621702Z",
   "model": "glm-5.3"
 }

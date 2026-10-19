@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את העם",
-      "rationale": "getur verið forsetningin 'með' (KJV: with this people) eða beint hlutmerki; ég valdi 'með' að fyrirmynd eldri þýðinga"
-    },
-    {
-      "kind": "you",
-      "subject": "Jósúa",
-      "rationale": "Mósje talar beint til Jósúa frammi fyrir öllu Ísrael"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חזק וימצו",
-      "rationale": "sama boðapar og í 31:6, nú í eintölu — samtenging tveggja ávarpa"
-    }
-  ],
-  "translation": "Og Mósje kallaði Jósúa og sagði við hann, í augnsýn alls Ísraels: Vertu sterkur og hraustur, því að þú skalt fara með ⟨את⟩ þessu fólki inn í landið, sem Jahve sór feðrum þeirra að gefa þeim, og þú skalt láta ⟨את þá⟩ erfa það.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c1616bfc945716b24b37b1f5dedf411c1c17f5f484fc6f1d66229893557a65a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/31\/5-8.1792398621135.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje kallaði að Jósjúa og sagði við hann, í augum alls Ísraels: Vertu sterkur og vigharta, því að þú munt fara með ⟨את⟩ þessu fólki inn í landið sem Jahve sór föðrum þeirra að gefa þeim, og þú munt láta þá erfa ⟨את⟩ það.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Og kallaði"
+      "gloss": "Og kallaði að"
     },
     {
       "surface": "משה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ליהושע",
-      "gloss": "Jósúa"
+      "gloss": "Jósjúa"
     },
     {
       "surface": "ויאמר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "í augnsýn"
+      "gloss": "í augum"
     },
     {
       "surface": "כל",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "ואמץ",
-      "gloss": "og hraustur"
+      "gloss": "og vigharta"
     },
     {
       "surface": "כי",
@@ -83,20 +57,20 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "skalt fara"
+      "gloss": "munt fara"
     },
     {
       "surface": "את",
-      "gloss": "með ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "þessu fólki"
     },
     {
       "surface": "העם",
-      "gloss": "fólki"
+      "gloss": "þessu fólki"
     },
     {
       "surface": "הזה",
-      "gloss": "þetta"
+      "gloss": "þessu"
     },
     {
       "surface": "אל",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "לאבתם",
-      "gloss": "feðrum þeirra"
+      "gloss": "föðrum þeirra"
     },
     {
       "surface": "לתת",
@@ -136,14 +110,14 @@
     },
     {
       "surface": "תנחילנה",
-      "gloss": "skalt láta erfa það"
+      "gloss": "munt láta þá erfa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "þá"
+      "marks": "það"
     }
   ],
-  "timestamp": "2026-10-19T08:30:21.136336735Z",
+  "timestamp": "2026-10-19T14:38:54.591285770Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "mannatal frumgetna — framkvæmd skipunarinnar frá v. 40"
-    }
-  ],
-  "translation": "Og Mósje taldi, eins og Jahve bauð honum, ⟨את⟩ alla frumgetna meðal sona Ísraels.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "ec3b58f0efaa15f7743480dbd88ccc40bbb7774be75c254ea0d79269ebc2a599",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/3\/41-44.1792396379878.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje taldi, eins og Jahve hafði búið ⟨את⟩ honum yfir, ⟨את⟩ hvern einasta frumgetinn meðal sona Ísraels.",
   "tokens": [
     {
       "surface": "ויפקד",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "bauð"
+      "gloss": "hafði búið yfir"
     },
     {
       "surface": "יהוה",
@@ -45,21 +29,21 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann",
-      "marks": "Mósje"
+      "gloss": "⟨את⟩",
+      "marks": "honum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alla frumgetna"
+      "marks": "hvern einasta frumgetinn"
     },
     {
       "surface": "כל",
-      "gloss": "alla"
+      "gloss": "hvern einasta"
     },
     {
       "surface": "בכר",
-      "gloss": "frumgetna"
+      "gloss": "frumgetinn"
     },
     {
       "surface": "בבני",
@@ -70,6 +54,6 @@
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T07:52:59.879465310Z",
+  "timestamp": "2026-10-19T14:55:49.591130353Z",
   "model": "glm-5.3"
 }

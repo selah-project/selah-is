@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Forsetningin „með“ og fornafnið „hans“ bætt við — hebreska forsetningin אתו sameinar bæði í einu orði."
-    },
-    {
-      "kind": "substitution",
-      "subject": "בידו",
-      "rationale": "„Í hönd hans“ er hebreskt myndmál um vald og kraft — haft bókstaflega til að varðveita myndina."
-    }
-  ],
-  "translation": "Og herra hans sá að Jahve var ⟨með⟩ honum, og allt það er hann gjörði — því að Jahve lét það tekst ágætlega í hönd ⟨hans⟩.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "17e25ea9f80445fb68623ec36d87ab2dc3e7437fdba07a19abc3006360b6fcf6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/39\/1-4.1792393731789.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og herra hans sá að Jahve var ⟨את⟩ með honum, og allt það sem hann gjörir lætur Jahve vel takast í hendi hans.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Og sá"
+      "gloss": "sá"
     },
     {
       "surface": "אדניו",
@@ -46,7 +25,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ var ⟨með⟩ honum"
+      "gloss": "⟨את⟩ með honum",
+      "marks": "með Jósef"
     },
     {
       "surface": "וכל",
@@ -54,7 +34,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "það er"
+      "gloss": "það sem"
     },
     {
       "surface": "הוא",
@@ -62,7 +42,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "gjörði"
+      "gloss": "gjörir"
     },
     {
       "surface": "יהוה",
@@ -70,13 +50,13 @@
     },
     {
       "surface": "מצליח",
-      "gloss": "lét tekst ágætlega"
+      "gloss": "lætur vel takast"
     },
     {
       "surface": "בידו",
-      "gloss": "í hönd ⟨hans⟩"
+      "gloss": "í hendi hans"
     }
   ],
-  "timestamp": "2026-10-19T07:08:51.790749651Z",
+  "timestamp": "2026-10-19T14:46:40.445438098Z",
   "model": "glm-5.3"
 }

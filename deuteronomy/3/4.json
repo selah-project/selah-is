@@ -5,41 +5,20 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "sextíu borgir",
-      "rationale": "Versið telur borgir og afmarkar landsvæði — hérað Argob, ríki Ógs"
-    },
-    {
-      "kind": "substitution",
-      "subject": "hérað",
-      "rationale": "חבל er bókstaflega „málaslöng“ og þar af leiðandi afmarkað svæði — íslenskan notar „hérað“ og missir mynd málningar"
-    }
-  ],
-  "translation": "Og vér unnúum öll borgir hans á þeim tíma; ekkert var borgin sem vér tókum ekki frá ⟨את⟩ þeim — sextíu borgir, allt hérað Argob, ríki Ógs í Bashan.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "69a79efe92e46e0f95e78a4356372cfabbf4763e8e7010c8b65f8db7c00a88b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/3\/1-4.1792397634366.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og við höggum ⟨את⟩ allar borgir hans á þeim tíma; engin borg var sem við tókum ekki ⟨את⟩ frá þeim — sextíu borgir, allt hérað Argob, konungsríki Ógs í Bashan.",
   "tokens": [
     {
       "surface": "ונלכד",
-      "gloss": "Og vér unnúum"
+      "gloss": "Og við höggum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "öll borgir hans"
+      "marks": "allar borgir hans"
     },
     {
       "surface": "כל",
-      "gloss": "öll"
+      "gloss": "allar"
     },
     {
       "surface": "עריו",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "בעת",
-      "gloss": "á"
+      "gloss": "á þeim tíma"
     },
     {
       "surface": "ההוא",
-      "gloss": "þeim tíma"
+      "gloss": "þeim"
     },
     {
       "surface": "לא",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "קריה",
-      "gloss": "borgin"
+      "gloss": "borg"
     },
     {
       "surface": "אשר",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "לקחנו",
-      "gloss": "vér tókum"
+      "gloss": "tókum við"
     },
     {
       "surface": "מאתם",
-      "gloss": "frá ⟨את⟩ þeim"
+      "gloss": "frá þeim ⟨את⟩"
     },
     {
       "surface": "ששים",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "ממלכת",
-      "gloss": "ríki"
+      "gloss": "konungsríki"
     },
     {
       "surface": "עוג",
@@ -114,6 +93,6 @@
       "gloss": "í Bashan"
     }
   ],
-  "timestamp": "2026-10-19T08:13:54.367776874Z",
+  "timestamp": "2026-10-19T14:38:52.273970847Z",
   "model": "glm-5.3"
 }

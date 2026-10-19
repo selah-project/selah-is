@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "חמתה: 'við Khamat' (staðsetning) vs. 'að Khamat' (mark) — endlíkingar skera sig á."
-    },
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "להציב ידו, 'að reisa hönd sína', myndmál um að tryggja vald."
-    }
-  ],
-  "translation": "Og Davíð lagði ‹את⟩ ⟨את⟩ Hadadeser konung í Tsóva við Khamat að velli, er hann fórn að koma hönd sinni á stall við ána Prat.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/18\/1-4.1792414886909.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Davíð barði ⟨את⟩ Hadadezer, konung í Tsóva, við Khamat, er hann fór til að festa hönd sína við ána Prat.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "lagði að velli"
+      "gloss": "barði"
     },
     {
       "surface": "דויד",
@@ -39,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Hadeser"
+      "marks": "Hadadezer"
     },
     {
       "surface": "הדדעזר",
-      "gloss": "Hadadeser"
+      "gloss": "Hadadezer"
     },
     {
       "surface": "מלך",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "בלכתו",
-      "gloss": "er hann fórn"
+      "gloss": "er hann fór"
     },
     {
       "surface": "להציב",
-      "gloss": "að koma á stall"
+      "gloss": "til að festa"
     },
     {
       "surface": "ידו",
-      "gloss": "hönd sinni"
+      "gloss": "hönd sína"
     },
     {
       "surface": "בנהר",
@@ -78,6 +57,6 @@
       "gloss": "Prat"
     }
   ],
-  "timestamp": "2026-10-19T13:01:26.910503967Z",
+  "timestamp": "2026-10-19T14:30:54.150251646Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,20 @@
   "book": "zechariah",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rúakh",
-      "rationale": "רוחי varðveitt sem 'rúakh mín' — vindur\/andi, ekki þýtt (D2)"
-    },
-    {
-      "kind": "crux",
-      "subject": "הניחו",
-      "rationale": "'létu hvíla\/lægðu' — KJB 'quieted', JPS 'eased', YLT 'caused to rest'; hvort rúakh Jahve er lögð til hvíldar eða reiðin lægst"
-    }
-  ],
-  "translation": "Þá kallaði hann á mig og talaði við mig og sagði: Sjá, þeir sem fara til lands norðurs hafa lægt rúakh mína í landi norðurs.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/6\/5-8.1792409017528.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann kallaði til ⟨את⟩ mín og talaði við mig og sagði: Sjá, þeir sem fara til lands norðurs hafa látið rúakh mina hvílast í landi norðurs.",
   "tokens": [
     {
       "surface": "ויזעק",
-      "gloss": "Þá kallaði hann"
+      "gloss": "kallaði til"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "á mig"
+      "marks": "mín"
     },
     {
       "surface": "וידבר",
-      "gloss": "og talaði"
+      "gloss": "talaði"
     },
     {
       "surface": "אלי",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "og sagði"
+      "gloss": "sagði"
     },
     {
       "surface": "ראה",
@@ -71,16 +50,16 @@
     },
     {
       "surface": "הניחו",
-      "gloss": "hafa lægt"
+      "gloss": "hafa látið hvílast"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rúakh mína"
+      "marks": "rúakh mina"
     },
     {
       "surface": "רוחי",
-      "gloss": "rúakh mína"
+      "gloss": "rúakh mina"
     },
     {
       "surface": "בארץ",
@@ -91,6 +70,6 @@
       "gloss": "norðurs"
     }
   ],
-  "timestamp": "2026-10-19T11:23:37.529635703Z",
+  "timestamp": "2026-10-19T14:58:07.003063316Z",
   "model": "glm-5.3"
 }

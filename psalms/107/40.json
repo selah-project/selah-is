@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "samhring '⟨sem er⟩' bætt við áður en 'ekki vegur' — hebreskan segir aðeins tóhu-ekki-vegur"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "תהו er sami orður og í . Mós 1:2 ('eyð og tóm') — 'eyðimörk' heldur eyðimyndinni"
-    }
-  ],
-  "translation": "Hann úthellir smána yfir höfðingja og lætur ⟨את⟩ þá villast í eyðimörk, ⟨sem er⟩ ekki vegur.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/37-40.1792410654909.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hann úthellir smán á höfðingja og lætur ⟨þá⟩ flákast í eyðimörk þar sem ⟨er⟩ enginn vegur.",
   "tokens": [
     {
       "surface": "שפך",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "בוז",
-      "gloss": "smána"
+      "gloss": "smán"
     },
     {
       "surface": "על",
-      "gloss": "yfir"
+      "gloss": "á"
     },
     {
       "surface": "נדיבים",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויתעם",
-      "gloss": "og lætur ⟨את⟩ þá villast"
+      "gloss": "og lætur flákast"
     },
     {
       "surface": "בתהו",
@@ -54,13 +33,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "ekki"
+      "gloss": "enginn"
     },
     {
       "surface": "דרך",
       "gloss": "vegur"
     }
   ],
-  "timestamp": "2026-10-19T11:50:54.910055661Z",
+  "timestamp": "2026-10-19T14:57:15.342753450Z",
   "model": "glm-5.3"
 }

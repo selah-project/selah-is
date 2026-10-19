@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "Kálfurinn er kallaður ‚synd ykkar‘ — smíði hans sjálfrar er nefnd sem syndin."
-    },
-    {
-      "kind": "alternative",
-      "subject": "is",
-      "rationale": "טחון merkir ‚að mala‘; ‚krossa‘ fyrir כתת gæti einnig verið ‚bar niður‘."
-    }
-  ],
-  "translation": "Og ⟨את⟩ synd ykkar, sem þið gerðuð, ⟨את⟩ kálfinn, tók ég og brenndi hann í eldi og krossaði hann og mal hann vel, allt þar til hann varð fínn að dufti, og kastaði ég ⟨את⟩ dufti hans út í ána sem rennur niður af fjallinu.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "7fec7a83f2d9403fca0b7eefd224acf3387d40c258c449dcf8801a2cb875b489",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/9\/21-24.1792397811868.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ syndina sem þið gerðuð, ⟨את⟩ kálfann, tók ég, og brenndi ⟨את⟩ hann í eldi, og braut ⟨את⟩ hann niður og mólaði vel, uns hann krynndist í duft, og ég varp ⟨את⟩ dufti hans í lærina sem rennur niður af fjallinu.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "synd ykkar"
+      "marks": "syndina"
     },
     {
       "surface": "חטאתכם",
-      "gloss": "synd ykkar"
+      "gloss": "syndina yðar"
     },
     {
       "surface": "אשר",
@@ -48,11 +27,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kálfinn"
+      "marks": "kálfann"
     },
     {
       "surface": "העגל",
-      "gloss": "kálfinn"
+      "gloss": "kálfann"
     },
     {
       "surface": "לקחתי",
@@ -65,7 +44,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hann (kálfinn)"
+      "marks": "hann"
     },
     {
       "surface": "באש",
@@ -73,16 +52,16 @@
     },
     {
       "surface": "ואכת",
-      "gloss": "og krossaði"
+      "gloss": "og braut ég"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hann (kálfinn)"
+      "marks": "hann"
     },
     {
       "surface": "טחון",
-      "gloss": "mal"
+      "gloss": "að móla"
     },
     {
       "surface": "היטב",
@@ -90,23 +69,23 @@
     },
     {
       "surface": "עד",
-      "gloss": "allt þar til"
+      "gloss": "uns"
     },
     {
       "surface": "אשר",
-      "gloss": "að"
+      "gloss": "uns"
     },
     {
       "surface": "דק",
-      "gloss": "varð fínn"
+      "gloss": "krynndist"
     },
     {
       "surface": "לעפר",
-      "gloss": "að dufti"
+      "gloss": "í duft"
     },
     {
       "surface": "ואשלך",
-      "gloss": "og kastaði"
+      "gloss": "og ég varp"
     },
     {
       "surface": "את",
@@ -119,11 +98,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "út í"
+      "gloss": "í"
     },
     {
       "surface": "הנחל",
-      "gloss": "ána"
+      "gloss": "lærina"
     },
     {
       "surface": "הירד",
@@ -138,6 +117,6 @@
       "gloss": "fjallinu"
     }
   ],
-  "timestamp": "2026-10-19T08:16:51.869569503Z",
+  "timestamp": "2026-10-19T14:40:24.656014593Z",
   "model": "glm-5.3"
 }

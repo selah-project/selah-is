@@ -5,40 +5,19 @@
   "book": "judges",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי לקח את אשתו",
-      "rationale": "'af því að hann tók konu sína' — en hver tók? Sjemshon eða mágrinn;语境 gefur til kynna að mágrinn hafði gefið hana öðrum, en hebreska setningin er tvíræð."
-    },
-    {
-      "kind": "substitution",
-      "subject": "חתן",
-      "rationale": "'mágr' nær bæði tengdamanni og tengdaföður; 'tengdasonur' of þrengt."
-    }
-  ],
-  "translation": "Og Pelistínimennirnir sögðu: Hver gjörði þetta? Og þeir sögðu: Sjemshon, mágr Tímnamannsins, af því að hann tók ⟨את⟩ konu hans og gaf hana vini sínum. Þá gengu Pelistínimenn upp og brenndu hana og ⟨את⟩ föður hennar í eldi.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "bb3412b5bc51f34a0add217c92af0804083f05f1542e3cfbcc4a246851196de1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/15\/5-8.1792399874102.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Filistímenn sögðu: Hver gjörði þetta? Og þeir sögðu: Shimshon, mági Timníamannsins, af því að hann hafði tekið ⟨את⟩ konu hans og gefið hana félaga hans. Og Filistímenn fóru upp og brenndu hana ⟨את⟩ og föður hennar í eldi.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "sögðu"
+      "gloss": "Og sögðu"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelistínimennirnir"
+      "gloss": "Filistímenn"
     },
     {
       "surface": "מי",
-      "gloss": "hver"
+      "gloss": "Hver"
     },
     {
       "surface": "עשה",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "sögðu"
+      "gloss": "Og þeir sögðu"
     },
     {
       "surface": "שמשון",
-      "gloss": "Sjemshon"
+      "gloss": "Shimshon"
     },
     {
       "surface": "חתן",
-      "gloss": "mágr"
+      "gloss": "mági"
     },
     {
       "surface": "התמני",
-      "gloss": "Tímnamannsins"
+      "gloss": "Timníamannsins"
     },
     {
       "surface": "כי",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "לקח",
-      "gloss": "tók"
+      "gloss": "hafði tekið"
     },
     {
       "surface": "את",
@@ -83,27 +62,28 @@
     },
     {
       "surface": "ויתנה",
-      "gloss": "gaf hana"
+      "gloss": "og gefið"
     },
     {
       "surface": "למרעהו",
-      "gloss": "vini sínum"
+      "gloss": "félaga hans"
     },
     {
       "surface": "ויעלו",
-      "gloss": "gengu upp"
+      "gloss": "Og fóru upp"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelistínimenn"
+      "gloss": "Filistímenn"
     },
     {
       "surface": "וישרפו",
-      "gloss": "brenndu"
+      "gloss": "og brenndu"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ hana"
+      "gloss": "hana ⟨את⟩",
+      "marks": "hana"
     },
     {
       "surface": "ואת",
@@ -119,6 +99,6 @@
       "gloss": "í eldi"
     }
   ],
-  "timestamp": "2026-10-19T08:51:14.103260734Z",
+  "timestamp": "2026-10-19T14:52:29.052929341Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "song-of-songs",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "שיפוח: 'blæs\/andar' (dagurinn andar) á móti 'brestur fram' eða 'svalar' — KJV 'break', JPS 'breathe'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "הלבונה 'liban' (røkelsi) — orðið merkir 'hið hvíta', samhljóðað Libanon í v. 8"
-    }
-  ],
-  "translation": "Þar til dagurinn andar og skuggarnir flý, fer ég mér til mýrrufjallsins og til libanhæðarinnar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/4\/5-8.1792412642471.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þar til dagurinn blæs og skuggarnir flýja, færi ég ⟨mér⟩ til fjalls mýrrunnar og til hæðar reykelsisins.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "þar til"
+      "gloss": "Þar til"
     },
     {
       "surface": "שיפוח",
-      "gloss": "andar"
+      "gloss": "blæs"
     },
     {
       "surface": "היום",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ונסו",
-      "gloss": "og flý"
+      "gloss": "og flýja"
     },
     {
       "surface": "הצללים",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "אלך",
-      "gloss": "fer ég"
+      "gloss": "færi"
     },
     {
       "surface": "לי",
-      "gloss": "mér"
+      "gloss": "⟨mér⟩"
     },
     {
       "surface": "אל",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "המור",
-      "gloss": "mýrru-"
+      "gloss": "mýrrunnar"
     },
     {
       "surface": "ואל",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "הלבונה",
-      "gloss": "liban-(røykelsis)"
+      "gloss": "reykelsisins"
     }
   ],
-  "timestamp": "2026-10-19T12:24:02.472446196Z",
+  "timestamp": "2026-10-19T14:58:13.130125036Z",
   "model": "glm-5.3"
 }

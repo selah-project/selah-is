@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "lystar hendur",
-      "rationale": "מרפא את הידיים — „að slappa hendurnar“: að svipta móð, íslenska myndin „lystar hendur“"
-    },
-    {
-      "kind": "you",
-      "subject": "til Sedekja konungs",
-      "rationale": "Höfðingjarnir beina kröfu um dauða Jirmeja beint til konungsins"
-    }
-  ],
-  "translation": "Og höfðingjarnir sögðu við konunginn: Láttu þenna mann deyja, biðjum þig, því að hann lystar hendur hermanna þeirra er eftir eru í þessari borg og hendur alls lýðsins með því að tala slík orð til þeirra; því að þessi maður leitast ekki við velferð þessa lýðs heldur óhapp.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "991e05c94929d169274f59c05c829f960b69eb83ae5b150ea730f5e495ffa383",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/38\/1-4.1792406360513.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og höfðingjarnir sögðu við konunginn: Látið, biðjum við, ⟨את⟩ þennan mann deyja, því að fyrir þetta letur hann hendur hermannanna sem eftir eru í þessari borg, og ⟨את⟩ hendur alls lýðsins, með því að tala við þá eftir þessum orðum — því að þessi maður leitast ekki að friði fyrir þennan lýð, heldur eitt til illsku.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "יומת",
-      "gloss": "Láttu deyja"
+      "gloss": "látið deyja"
     },
     {
       "surface": "נא",
-      "gloss": "biðjum þig"
+      "gloss": "biðjum við"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þenna mann"
+      "marks": "þennan mann"
     },
     {
       "surface": "האיש",
-      "gloss": "þenna mann"
+      "gloss": "manninn"
     },
     {
       "surface": "הזה",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "þess sökum"
+      "gloss": "þetta"
     },
     {
       "surface": "הוא",
@@ -83,12 +62,12 @@
     },
     {
       "surface": "מרפא",
-      "gloss": "lystar"
+      "gloss": "letur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hendur"
+      "marks": "hendur hermannanna"
     },
     {
       "surface": "ידי",
@@ -96,15 +75,15 @@
     },
     {
       "surface": "אנשי",
-      "gloss": "hermanna"
+      "gloss": "manna"
     },
     {
       "surface": "המלחמה",
-      "gloss": "herins"
+      "gloss": "hernaðarins"
     },
     {
       "surface": "הנשארים",
-      "gloss": "er eftir eru"
+      "gloss": "þeir sem eftir eru"
     },
     {
       "surface": "בעיר",
@@ -116,8 +95,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "hendur"
+      "gloss": "⟨את⟩",
+      "marks": "hendur alls lýðsins"
     },
     {
       "surface": "ידי",
@@ -137,15 +116,15 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "til þeirra"
+      "gloss": "við þá"
     },
     {
       "surface": "כדברים",
-      "gloss": "slík orð"
+      "gloss": "eftir orðum"
     },
     {
       "surface": "האלה",
-      "gloss": "þessi"
+      "gloss": "þessum"
     },
     {
       "surface": "כי",
@@ -153,15 +132,15 @@
     },
     {
       "surface": "האיש",
-      "gloss": "þessi maður"
+      "gloss": "maðurinn"
     },
     {
       "surface": "הזה",
-      "gloss": "þennan"
+      "gloss": "þessi"
     },
     {
       "surface": "איננו",
-      "gloss": "er ekki"
+      "gloss": "ekki"
     },
     {
       "surface": "דרש",
@@ -169,7 +148,7 @@
     },
     {
       "surface": "לשלום",
-      "gloss": "við velferð"
+      "gloss": "að friði"
     },
     {
       "surface": "לעם",
@@ -185,13 +164,13 @@
     },
     {
       "surface": "אם",
-      "gloss": "nokkurn tíma"
+      "gloss": "eitt"
     },
     {
       "surface": "לרעה",
-      "gloss": "óhapp"
+      "gloss": "til illsku"
     }
   ],
-  "timestamp": "2026-10-19T10:39:20.514768459Z",
+  "timestamp": "2026-10-19T14:50:09.604983296Z",
   "model": "glm-5.3"
 }

@@ -5,58 +5,27 @@
   "book": "judges",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עירים\/ערים",
-      "rationale": "עירים ('asnaeyrar') og ערים ('bæir') hljóma eins — orðaleikur tapast í íslensku; fyrri myndin er bókstafleg, sú seinna merkir bæina"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "להם להם",
-      "rationale": "tvöföld 'þeim, þeim' í hebresku — endurtekning varðveitt í þýðingunni"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "þrjátugu synir, þrjátigu asnaeyrar, þrjátugu bæir — talning í þrennu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "bæja",
-      "rationale": "síðara עירים þýtt 'bæja' í krafti orðaleiksins; bókstaflega 'asnaeyra'"
-    }
-  ],
-  "translation": "Og hann átti þrjátugu syni, sem riðu á þrjátigu asnaeyrum, og þrjátigu bæja áttu þeir — þeim, þeim er kallað Khavót Jaír, fram á þennan dag, þau sem eru í landi Gílead.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "8d3d8e9f0a93fc93f8448a309420acab9d42062b1dccfceb29f8307fc337d9cc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/10\/1-4.1792399756374.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og honum voru þrjátíu synir, þeir riðu á þrjátíu asnaungum, og þrjátíu borgir áttu ⟨þeir⟩ — ⟨þeir⟩ kölluðu þær bæi Jaír — til þessa dags, þær ⟨sem⟩ eru í landi Gílead.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "var"
+      "gloss": "Og honum voru"
     },
     {
       "surface": "לו",
-      "gloss": "hann átti"
+      "gloss": "honum"
     },
     {
       "surface": "שלשים",
-      "gloss": "þrjátugu"
+      "gloss": "þrjátíu"
     },
     {
       "surface": "בנים",
-      "gloss": "syni"
+      "gloss": "synir"
     },
     {
       "surface": "רכבים",
-      "gloss": "riðu"
+      "gloss": "þeir riðu"
     },
     {
       "surface": "על",
@@ -64,39 +33,35 @@
     },
     {
       "surface": "שלשים",
-      "gloss": "þrjátigu"
+      "gloss": "þrjátíu"
     },
     {
       "surface": "עירים",
-      "gloss": "asnaeyrum"
+      "gloss": "asnaungum"
     },
     {
       "surface": "ושלשים",
-      "gloss": "og þrjátigu"
+      "gloss": "og þrjátíu"
     },
     {
       "surface": "עירים",
-      "gloss": "bæja"
+      "gloss": "borgir"
     },
     {
       "surface": "להם",
-      "gloss": "áttu þeir"
+      "gloss": "áttu ⟨þeir⟩"
     },
     {
       "surface": "להם",
-      "gloss": "þeim"
-    },
-    {
-      "surface": "להם",
-      "gloss": "þeim"
+      "gloss": "⟨þeir⟩"
     },
     {
       "surface": "יקראו",
-      "gloss": "er kallað"
+      "gloss": "kölluðu þær"
     },
     {
       "surface": "חות",
-      "gloss": "Khavót"
+      "gloss": "bæi"
     },
     {
       "surface": "יאיר",
@@ -104,19 +69,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "fram á"
+      "gloss": "til"
     },
     {
       "surface": "היום",
-      "gloss": "dag"
+      "gloss": "þessa dags"
     },
     {
       "surface": "הזה",
-      "gloss": "þennan"
+      "gloss": "þessa"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "בארץ",
@@ -127,6 +92,6 @@
       "gloss": "Gílead"
     }
   ],
-  "timestamp": "2026-10-19T08:49:16.375815446Z",
+  "timestamp": "2026-10-19T14:52:17.429574051Z",
   "model": "glm-5.3"
 }

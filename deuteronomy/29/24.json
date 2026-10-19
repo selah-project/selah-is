@@ -5,95 +5,75 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרת ברית",
-      "rationale": "orðrétt 'skera sáttmála' — íslenska heldur myndinni með 'skera sáttmála'"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "framtíðarhjálpar sögn 'munu' bætt við í fyrsta lið"
-    }
-  ],
-  "translation": "Og þeir munu segja: Því að þeir yfirgáfu ⟨את⟩ sáttmála Jahve, Elóhím feðra sinna, sem hann skar við þá, þegar hann leiddi þá út úr landi Mitsrajím.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "adddd89617aba5d895e8bed54618a4dbde4515c0fe805af950ce6a45592b9aca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/29\/21-24.1792398419110.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨þeir⟩ munu segja: Vegna þess að ⟨þeir⟩ yfirgáfu ⟨את⟩ sáttmála Jahve, Elóhím feðra þeirra, sem hann sótti við ⟨þá⟩, er hann leiddi ⟨את⟩ þá út úr landi Mitsrajím.",
   "tokens": [
     {
-      "surface": "ואמרו",
-      "gloss": "og þeir munu segja"
+      "surface": "וְאָ֣מְר֔וּ",
+      "gloss": "Og munu segja"
     },
     {
-      "surface": "על",
-      "gloss": "því að"
+      "surface": "עַ֚ל",
+      "gloss": "Vegna þess að"
     },
     {
-      "surface": "אשר",
-      "gloss": "⟨að⟩"
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "þess að"
     },
     {
-      "surface": "עזבו",
-      "gloss": "þeir yfirgáfu"
+      "surface": "עָֽזְב֔וּ",
+      "gloss": "yfirgáfu"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "sáttmála Jahve"
     },
     {
-      "surface": "ברית",
+      "surface": "בְּרִ֥ית",
       "gloss": "sáttmála"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֖ה",
       "gloss": "Jahve"
     },
     {
-      "surface": "אלהי",
+      "surface": "אֱלֹהֵ֣י",
       "gloss": "Elóhím"
     },
     {
-      "surface": "אבתם",
-      "gloss": "feðra sinna"
+      "surface": "אֲבֹתָ֑ם",
+      "gloss": "feðra þeirra"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֣ר",
       "gloss": "sem"
     },
     {
-      "surface": "כרת",
-      "gloss": "skar"
+      "surface": "כָּרַ֣ת",
+      "gloss": "sótti við"
     },
     {
-      "surface": "עמם",
-      "gloss": "við þá"
+      "surface": "עִמָּ֔ם",
+      "gloss": "við ⟨þá⟩"
     },
     {
-      "surface": "בהוציאו",
-      "gloss": "þegar hann leiddi út"
+      "surface": "בְּהוֹצִיא֥וֹ",
+      "gloss": "er hann leiddi út"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩ þá"
+      "surface": "אֹתָ֖ם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "út úr landi Mitsrajím"
     },
     {
-      "surface": "מארץ",
+      "surface": "מֵאֶ֥רֶץ",
       "gloss": "út úr landi"
     },
     {
-      "surface": "מצרים",
+      "surface": "מִצְרָֽיִם",
       "gloss": "Mitsrajím"
     }
   ],
-  "timestamp": "2026-10-19T08:26:59.112272453Z",
+  "timestamp": "2026-10-19T14:38:43.047328676Z",
   "model": "glm-5.3"
 }

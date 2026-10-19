@@ -5,31 +5,15 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 47,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתו",
-      "rationale": "Getur verið forsetningin 'með honum' (H854) eða lestrarformið (qere) af אותו 'hann' — báðar skilningar ganga."
-    }
-  ],
-  "translation": "Og það mun verða að í þeirri ættkvísl sem útlendingurinn dvelst ⟨með⟩, þar skuluð þér gefa honum erfðaland hans, segir Adónaí Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "51fc97d9ed2c385993afa06b3e24111ae280042e402a7b3231f30406968f5084",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/47\/21-23.1792407934521.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og það mun verða að í því kyniþætti sem útlendingurinn dvelst ⟨með⟩, þar skuluð þér gefa honum arf hans, segir Adónaí Jahve.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Og það mun verða"
+      "gloss": "Og það mun verða að"
     },
     {
       "surface": "בשבט",
-      "gloss": "í þeirri ættkvísl"
+      "gloss": "í því kyniþætti"
     },
     {
       "surface": "אשר",
@@ -45,7 +29,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ með honum"
+      "gloss": "⟨את⟩",
+      "marks": "með honum"
     },
     {
       "surface": "שם",
@@ -57,7 +42,7 @@
     },
     {
       "surface": "נחלתו",
-      "gloss": "erfðaland hans"
+      "gloss": "arf hans"
     },
     {
       "surface": "נאם",
@@ -72,6 +57,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T11:05:34.522225805Z",
+  "timestamp": "2026-10-19T14:44:21.130447943Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חרם",
-      "rationale": "hebreska 'helga til vígtortímingar' er vígtengt hugtak um algjöra eyðingu, ekki bara 'eyða'"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Jahve talar í fyrstu persónu í útilýsingu yfir Júda og nágrannastríðunum"
-    },
-    {
-      "kind": "crux",
-      "subject": "ואל נבוכדראצר",
-      "rationale": "sumar þýðingar lesa 'og til Nebúkadnesar' (földunarfyrirsögn), aðrar samtengja nafnið beint við 'ættbálka norðursins'"
-    }
-  ],
-  "translation": "Sjá, ég sendi og tek allar ættbálka norðursins, segir Jahve, og Nebúkadnesar, konung Babel, þjón minn, og ég færi þá yfir þessa jörð og yfir íbúa hennar og yfir allar þjóðirnar hér í kring, og ég helga þá til vígtortímingar og set þau til undurs og til flönis og til eilífra rústa.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "7d6ff903a3db5cab5b332f2bf2f12e0070667246de7f6c5b1db004a66b6669e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/25\/9-12.1792405951572.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sjá, ég sendi og tek ⟨את⟩ allar ættir norðursins, segir Jahve, og til Nevúkadnesar, konungins í Bavel, þjóns míns, og ég flyt þá yfir land þetta og yfir íbúa þess og yfir alla þessa þjóðir þær er í kringum það, og ég helga þá til tortímingar og geri þá að hræðingu og að flön, og að eilífðarrústum.",
   "tokens": [
     {
       "surface": "הנני",
@@ -48,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "allar ættbálka norðursins"
+      "marks": "allar ættir norðursins"
     },
     {
       "surface": "כל",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "משפחות",
-      "gloss": "ættbálka"
+      "gloss": "ættir"
     },
     {
       "surface": "צפון",
@@ -76,23 +50,23 @@
     },
     {
       "surface": "נבוכדראצר",
-      "gloss": "Nebúkadnesar"
+      "gloss": "Nevúkadnesar"
     },
     {
       "surface": "מלך",
-      "gloss": "konung"
+      "gloss": "konungs"
     },
     {
       "surface": "בבל",
-      "gloss": "Babel"
+      "gloss": "Bavel"
     },
     {
       "surface": "עבדי",
-      "gloss": "þjón minn"
+      "gloss": "þjóns míns"
     },
     {
       "surface": "והבאתים",
-      "gloss": "og ég færi þá"
+      "gloss": "og ég flyt þá"
     },
     {
       "surface": "על",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "þessa jörð"
+      "gloss": "land"
     },
     {
       "surface": "הזאת",
-      "gloss": "þessa"
+      "gloss": "þetta"
     },
     {
       "surface": "ועל",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "ישביה",
-      "gloss": "íbúa hennar"
+      "gloss": "íbúa þess"
     },
     {
       "surface": "ועל",
@@ -120,45 +94,45 @@
     },
     {
       "surface": "כל",
-      "gloss": "allar"
+      "gloss": "alla"
     },
     {
       "surface": "הגוים",
-      "gloss": "þjóðirnar"
+      "gloss": "þessar þjóðir"
     },
     {
       "surface": "האלה",
-      "gloss": "þessar"
+      "gloss": "þær"
     },
     {
       "surface": "סביב",
-      "gloss": "hér í kring"
+      "gloss": "í kringum"
     },
     {
       "surface": "והחרמתים",
-      "gloss": "og ég helga þá til vígtortímingar"
+      "gloss": "og ég helga þá til tortímingar"
     },
     {
       "surface": "ושמתים",
-      "gloss": "og set þau"
+      "gloss": "og geri þá"
     },
     {
       "surface": "לשמה",
-      "gloss": "til undurs"
+      "gloss": "að hræðingu"
     },
     {
       "surface": "ולשרקה",
-      "gloss": "til flönis"
+      "gloss": "og að flön"
     },
     {
       "surface": "ולחרבות",
-      "gloss": "til eilífra rústa"
+      "gloss": "og að rústum"
     },
     {
       "surface": "עולם",
-      "gloss": "eilífra"
+      "gloss": "eilífðar"
     }
   ],
-  "timestamp": "2026-10-19T10:32:31.573208450Z",
+  "timestamp": "2026-10-19T14:48:57.149135111Z",
   "model": "glm-5.3"
 }

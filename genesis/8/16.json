@@ -5,67 +5,46 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Boðið 'Farðu' — fyrsta skipun eftir flóðið, útgangan úr örkinni."
-    },
-    {
-      "kind": "you",
-      "subject": "to Nóach",
-      "rationale": "Beint boð til Nóachs og fjölskyldu hans, nefnd hvert nafnlega."
-    }
-  ],
-  "translation": "Farðu úr örkinni, þú og kona þín og synir þínir og konur sona þínra ⟨með þér⟩.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "b79a2f56b8e34b21aaf32726ea0eeac88ca6e87ba6d2515eb4bc1e2a970f8288",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/13-16.1792392646137.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Farðu út úr örkinni, þú og kona þín og synir þín og konur sona þinna með ⟨את⟩-þér.",
   "tokens": [
     {
-      "surface": "צא",
+      "surface": "צֵא",
       "gloss": "Farðu"
     },
     {
-      "surface": "מן",
-      "gloss": "úr"
+      "surface": "מִן",
+      "gloss": "út úr"
     },
     {
-      "surface": "התבה",
+      "surface": "הַתֵּבָה",
       "gloss": "örkinni"
     },
     {
-      "surface": "אתה",
+      "surface": "אַתָּה",
       "gloss": "þú"
     },
     {
-      "surface": "ואשתך",
+      "surface": "וְאִשְׁתְּךָ",
       "gloss": "og kona þín"
     },
     {
-      "surface": "ובניך",
-      "gloss": "og synir þínir"
+      "surface": "וּבָנֶיךָ",
+      "gloss": "og synir þín"
     },
     {
-      "surface": "ונשי",
+      "surface": "וּנְשֵׁי",
       "gloss": "og konur"
     },
     {
-      "surface": "בניך",
-      "gloss": "sona þínra"
+      "surface": "בָנֶיךָ",
+      "gloss": "sona þinna"
     },
     {
-      "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "með þér"
+      "surface": "אִתָּךְ",
+      "gloss": "með ⟨את⟩",
+      "marks": "þér"
     }
   ],
-  "timestamp": "2026-10-19T06:50:46.139085813Z",
+  "timestamp": "2026-10-19T14:47:21.269675246Z",
   "model": "glm-5.3"
 }

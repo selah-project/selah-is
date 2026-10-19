@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hana",
-      "rationale": "Ákvæðifornafnið \"hana\" (landið, kvenkyns í hebresku) bætt við í íslensku."
-    },
-    {
-      "kind": "you",
-      "subject": "til Ísraelsmanna",
-      "rationale": "Boðið \"styrkja hann\" beint til lýðsins í áhorfendatölu."
-    }
-  ],
-  "translation": "Jehósúa Ben-Nún, sá sem stendur andspænis þér, hann skal koma þangað; hann skalt þú styrkja, því að hann mun láta Ísrael erfa hana.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/37-40.1792397543557.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jehósúa Ben-Nún, sá er stendur fyrir framan þig, hann mun fara þangat; hann ⟨את⟩ skalt þú styrkja, því að hann mun láta Ísrael erfa ⟨את⟩ hana.",
   "tokens": [
     {
       "surface": "יהושע",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "העמד",
-      "gloss": "sá sem stendur"
+      "gloss": "sá er stendur"
     },
     {
       "surface": "לפניך",
-      "gloss": "andspænis þér"
+      "gloss": "fyrir framan þig"
     },
     {
       "surface": "הוא",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "יבא",
-      "gloss": "skal koma"
+      "gloss": "mun fara"
     },
     {
       "surface": "שמה",
-      "gloss": "þangað"
+      "gloss": "þangat"
     },
     {
       "surface": "אתו",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ינחלנה",
-      "gloss": "mun láta … erfa hana"
+      "gloss": "mun láta erfa hana"
     },
     {
       "surface": "את",
@@ -91,6 +70,6 @@
       "gloss": "Ísrael"
     }
   ],
-  "timestamp": "2026-10-19T08:12:23.559113831Z",
+  "timestamp": "2026-10-19T14:37:36.579913897Z",
   "model": "glm-5.3"
 }

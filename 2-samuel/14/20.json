@@ -5,45 +5,24 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Copula 'er' bætt við ('herra minn er vitur'), hebreskan hefur hana ekki"
-    },
-    {
-      "kind": "alternative",
-      "subject": "סבב את פני הדבר",
-      "rationale": "myndrænt: 'að snúa andliti málsins' — einnig lesið sem 'að breyta framsetningu málsins'"
-    }
-  ],
-  "translation": "Til að snúa andliti málsins hefur þjónn þinn Jóab gert ⟨את⟩ þetta mál, og herra minn er vitur samkvæmt speki sendiboða Elóhím til að þekkja ⟨את⟩ allt það sem er á jörðinni.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "fcaee3641f07f9048f91617ab0791fe61acb2eeb647fe3b5d41be45cb7d5d2fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/14\/17-20.1792401563125.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Til þess að snúa ― í kringum andlit málsins ― hefur þræll þinn Jóab gjört ⟨את⟩ þetta mál, og herra minn er spekin sem speki sendings Elóhím, til að skilja ⟨את⟩ allt það sem er á jörðinni.",
   "tokens": [
     {
       "surface": "לבעבור",
-      "gloss": "Til að"
+      "gloss": "til þess að"
     },
     {
       "surface": "סבב",
-      "gloss": "snúa"
+      "gloss": "snúa í kringum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "andliti málsins"
+      "marks": "andlit málsins"
     },
     {
       "surface": "פני",
-      "gloss": "andliti"
+      "gloss": "andlit"
     },
     {
       "surface": "הדבר",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "עשה",
-      "gloss": "hefur gert"
+      "gloss": "hefir gjört"
     },
     {
       "surface": "עבדך",
-      "gloss": "þjónn þinn"
+      "gloss": "þræll þinn"
     },
     {
       "surface": "יואב",
@@ -80,15 +59,15 @@
     },
     {
       "surface": "חכם",
-      "gloss": "er vitur"
+      "gloss": "er spekin"
     },
     {
       "surface": "כחכמת",
-      "gloss": "samkvæmt speki"
+      "gloss": "sem speki"
     },
     {
       "surface": "מלאך",
-      "gloss": "sendiboða"
+      "gloss": "sendings"
     },
     {
       "surface": "האלהים",
@@ -96,7 +75,7 @@
     },
     {
       "surface": "לדעת",
-      "gloss": "til að þekkja"
+      "gloss": "til að skilja"
     },
     {
       "surface": "את",
@@ -116,6 +95,6 @@
       "gloss": "á jörðinni"
     }
   ],
-  "timestamp": "2026-10-19T09:19:23.127657590Z",
+  "timestamp": "2026-10-19T14:36:24.662479229Z",
   "model": "glm-5.3"
 }

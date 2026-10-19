@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "ויקרב er orðið 'léttu' — orðið er 'léta nálgast', sama vigsluorð og um fórnir"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "מגבעות er hálfkúlótur húfa; 'höfuðbúnað' heldur loki en myndin þrengist"
-    }
-  ],
-  "translation": "Og Mósje léttu sonu Aharons og klæddi þá skyrtum og gyrti þeim belti og batt þeim höfuðbúnað, eins og Jahve hafði boðið Mósje.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/8\/13-16.1792395650446.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje léttu koma sonu Aharons og klæddi þá skyrtum, gyrði þá ⟨אתם⟩ belti og batt ⟨þeir⟩ höfuðfat, eins og Jahve hafði boðið ⟨את⟩ Mósje.",
   "tokens": [
     {
       "surface": "ויקרב",
-      "gloss": "léttu"
+      "gloss": "léttu koma"
     },
     {
       "surface": "משה",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "ויחגר",
-      "gloss": "gyrti"
+      "gloss": "gyrði"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתם⟩",
       "marks": "belti"
     },
     {
@@ -72,7 +51,7 @@
     },
     {
       "surface": "ויחבש",
-      "gloss": "band"
+      "gloss": "batt"
     },
     {
       "surface": "להם",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "מגבעות",
-      "gloss": "höfuðbúnað"
+      "gloss": "höfuðfat"
     },
     {
       "surface": "כאשר",
@@ -104,6 +83,6 @@
       "gloss": "Mósje"
     }
   ],
-  "timestamp": "2026-10-19T07:40:50.447345615Z",
+  "timestamp": "2026-10-19T14:55:18.517028459Z",
   "model": "glm-5.3"
 }

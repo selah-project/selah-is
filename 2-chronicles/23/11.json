@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העדות",
-      "rationale": "'vitnisburðurinn' — líklega afrit sáttmálans (2. Mós); sumir 'konungstáknin' (jps 'insignia')"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וימליכו",
-      "rationale": "orðið er 'gerðu konung' — 'gerðu hann að konungi' er íslensk umritun"
-    }
-  ],
-  "translation": "Og þeir leiddu út ⟨את⟩ son konungsins og settu á hann ⟨את⟩ kórónuna og ⟨את⟩ vitnisburðinn, og gerðu hann að konungi, og Jehójada og synir hans smurðu hann, og þeir sögðu: Lifi konungurinn!",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "47749a7c379c154603747ff8eec52c3c12bf3dc3f3c8cd627077cd0e11fc2abf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/23\/9-12.1792415732284.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir færðu út ⟨את⟩ son konungsins og settu á hann ⟨את⟩ kórónuna og ⟨את⟩ vottkvæðið, og gerðu hann að konungi, og Jahójada og synir hans smurðu hann, og þeir sögðu: Lái konungurinn!",
   "tokens": [
     {
       "surface": "ויוציאו",
-      "gloss": "Og þeir leiddu út"
+      "gloss": "og þeir færðu út"
     },
     {
       "surface": "את",
@@ -65,11 +44,11 @@
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "vitnisburðinn"
+      "marks": "vottkvæðið"
     },
     {
       "surface": "העדות",
-      "gloss": "vitnisburðinn"
+      "gloss": "vottkvæðið"
     },
     {
       "surface": "וימליכו",
@@ -77,7 +56,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ hann",
       "marks": "hann"
     },
     {
@@ -86,7 +65,7 @@
     },
     {
       "surface": "יהוידע",
-      "gloss": "Jehójada"
+      "gloss": "Jahójada"
     },
     {
       "surface": "ובניו",
@@ -98,13 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "Lifi"
+      "gloss": "Lái"
     },
     {
       "surface": "המלך",
       "gloss": "konungurinn"
     }
   ],
-  "timestamp": "2026-10-19T13:15:32.285847068Z",
+  "timestamp": "2026-10-19T14:33:42.963347796Z",
   "model": "glm-5.3"
 }

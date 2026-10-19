@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "‚Hann' er bætt við — hebreskan hefur aðeins wayyiqtol ‚og sagði' án nafnefnis."
-    },
-    {
-      "kind": "crux",
-      "subject": "להתיצב",
-      "rationale": "Réttháttur: ‚enginn er með þér til að staða sér' — sumir þýða ‚enginn getur staðist þig'; myndin er sú að enginn getur stillt sér upp gagnvart þér."
-    },
-    {
-      "kind": "you",
-      "subject": "to Jahve",
-      "rationale": "Bæn Jósafats beinist beint til Jahve með samtölu í annarri persónu."
-    }
-  ],
-  "translation": "Og hann sagði: Jahve, Elóhím feðra vorra, ert þú ekki Elóhím í himninum? Og þú ríkir yfir öllum konungsríkjum þjóðanna, og í hendi þinni er kraftur og máttur, og enginn er með þér ⟨sem⟩ getur staðið gegn þér.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "06bd90bc00b8a4a8bbbd799c1959ea96f561c3fc8209ba2dd3129a3be4cec0a3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/20\/5-8.1792415687696.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði: Jahve, Elóhím feðra vorra, ert þú ekki ⟨sá⟩ Elóhím í himninum, og þú ríkir yfir öllum ríkjum þjóðanna, og í hendi þinni er kraftur og megn, og enginn er með þér ⟨til að⟩ standast ⟨þig⟩?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elóhím"
+      "gloss": "Elóhím feðra vorra"
     },
     {
       "surface": "אבתינו",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "הלא",
-      "gloss": "ekki"
+      "gloss": "ert þú ekki"
     },
     {
       "surface": "אתה",
-      "gloss": "ert þú"
+      "gloss": "þú"
     },
     {
       "surface": "הוא",
-      "gloss": "sá"
+      "gloss": "⟨sá⟩"
     },
     {
       "surface": "אלהים",
@@ -70,24 +44,20 @@
       "gloss": "í himninum"
     },
     {
-      "surface": "ויאמר",
-      "gloss": ""
-    },
-    {
       "surface": "ואתה",
       "gloss": "og þú"
     },
     {
       "surface": "מושל",
-      "gloss": "ríkir"
+      "gloss": "ríkir yfir"
     },
     {
       "surface": "בכל",
-      "gloss": "yfir öllum"
+      "gloss": "öllum"
     },
     {
       "surface": "ממלכות",
-      "gloss": "konungsríkjum"
+      "gloss": "ríkjum"
     },
     {
       "surface": "הגוים",
@@ -103,21 +73,21 @@
     },
     {
       "surface": "וגבורה",
-      "gloss": "og máttur"
+      "gloss": "og megn"
     },
     {
       "surface": "ואין",
-      "gloss": "og enginn"
+      "gloss": "og enginn er"
     },
     {
       "surface": "עמך",
-      "gloss": "er með þér"
+      "gloss": "með þér"
     },
     {
       "surface": "להתיצב",
-      "gloss": "að staða sér gegn"
+      "gloss": "⟨til að⟩ standast ⟨þig⟩"
     }
   ],
-  "timestamp": "2026-10-19T13:14:47.697454333Z",
+  "timestamp": "2026-10-19T14:33:46.388418960Z",
   "model": "glm-5.3"
 }

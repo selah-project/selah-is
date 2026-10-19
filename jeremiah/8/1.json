@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska þarf greini og eigingarfalli þar sem hebreskan hefur ber nafnboroð"
-    },
-    {
-      "kind": "elision",
-      "subject": "bein",
-      "rationale": "Hebreskan endar ekki orðið „bein“ í hverri tilgreiningu en innsiglið endurtekningar er varðveitt"
-    }
-  ],
-  "translation": "Á þeirri tíð, segir Jahve, munu þeir bera út bein konunganna í Júda, og ⟨את⟩ bein höfðingja hans, og ⟨את⟩ bein prestanna, og ⟨את⟩ bein spámanna, og ⟨את⟩ bein íbúanna í Jerúsjalajím, úr gröfum þeirra.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "7ead3dc54f29b85c3152caf1608472c3fe47d6f0ff29a9e053dc93b66b485668",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/8\/1-4.1792405559018.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Á þeirri stundu, segir Jahve, munu þeir flytja út ⟨את⟩ bein konunganna í Júda og ⟨את⟩ bein höfðingja þeirra og ⟨את⟩ bein prestanna og ⟨את⟩ bein spámanna og ⟨את⟩ bein íbúanna í Jerúsjalajím, úr gröfum þeirra.",
   "tokens": [
     {
       "surface": "בעת",
-      "gloss": "Á þeirri tíð"
+      "gloss": "Á þeirri stundu"
     },
     {
       "surface": "ההיא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויציאו",
-      "gloss": "munu þeir bera út"
+      "gloss": "munu þeir flytja út"
     },
     {
       "surface": "את",
@@ -68,7 +47,7 @@
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "bein höfðingja hans"
+      "marks": "bein höfðingja þeirra"
     },
     {
       "surface": "עצמות",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "שריו",
-      "gloss": "höfðingja hans"
+      "gloss": "höfðingja þeirra"
     },
     {
       "surface": "ואת",
@@ -126,6 +105,6 @@
       "gloss": "úr gröfum þeirra"
     }
   ],
-  "timestamp": "2026-10-19T10:25:59.019724953Z",
+  "timestamp": "2026-10-19T14:50:31.062665786Z",
   "model": "glm-5.3"
 }

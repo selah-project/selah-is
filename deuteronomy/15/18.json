@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "tvöfalt kaup",
-      "rationale": "משנה שכר שכיר — 'tvöfald laun leigumanns': þjónustu sex ára jafngildir tvöföldum launum dagvinnumanns; sumir þýða 'hann hefur þjónað þér tvöfalt eins lengi og dagvinnumann'"
-    }
-  ],
-  "translation": "Það skulu ekki þykkja þér þungt í augum þínum að senda hann frjálsan frá þér, því að tvöfalt kaup uppgjörsla-launarðs þjónaði hann þér í sex ár, og Jahve Elóhím þinn skal blessa þig í öllu því sem þú gerir.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "64ecb1644d8796386ea1fc87c02122cdbad7d713694f384d471a6873b052a062",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/15\/17-20.1792397952555.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Það skuli ekki þykja þungt í augum þínum að senda hann ⟨את⟩ lausan frá þér, því að sem dálítið af kaupi leigumanns hefur hann þjónað þér í sex ár, og Jahve, Elóhím þinn, blessar þig í öllu því sem þú gjörir.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "יקשה",
-      "gloss": "þykkja þungt"
+      "gloss": "þykji þungt"
     },
     {
       "surface": "בעינך",
@@ -42,11 +26,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hann"
+      "marks": "hann lausan"
     },
     {
       "surface": "חפשי",
-      "gloss": "frjálsan"
+      "gloss": "lausan"
     },
     {
       "surface": "מעמך",
@@ -58,19 +42,19 @@
     },
     {
       "surface": "משנה",
-      "gloss": "tvöfalt"
+      "gloss": "dálítið (tvöfalt)"
     },
     {
       "surface": "שכר",
-      "gloss": "kaup"
+      "gloss": "kaupi"
     },
     {
       "surface": "שכיר",
-      "gloss": "launamaður"
+      "gloss": "leigumanns"
     },
     {
       "surface": "עבדך",
-      "gloss": "þjónaði hann þér"
+      "gloss": "hefur þjónað þér"
     },
     {
       "surface": "שש",
@@ -82,7 +66,7 @@
     },
     {
       "surface": "וברכך",
-      "gloss": "skal blessa þig"
+      "gloss": "blessar þig"
     },
     {
       "surface": "יהוה",
@@ -102,9 +86,9 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "þú gerir"
+      "gloss": "þú gjörir"
     }
   ],
-  "timestamp": "2026-10-19T08:19:12.556046964Z",
+  "timestamp": "2026-10-19T14:38:49.835554053Z",
   "model": "glm-5.3"
 }

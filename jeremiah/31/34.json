@@ -5,75 +5,49 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Boðið 'Kannið Jahve' hefur áheyrnandi að ráði"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אותי er aleph-tav með persónuviðskeyti ('mig') og ber ekki merkið ⟨את⟩"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Framsögnarsnið 'munu þeir' er bætt við því íslenska hefur ekki síðbúna ckvóta eins og hebreskan"
-    }
-  ],
-  "translation": "Og ekki munu þeir lengur kenna, hver náunga sínum og hver bróður sinn, svo að segja: Kannið ⟨את⟩ Jahve; því að allir munu kunna ⟨את⟩ mig, frá minnsta þeirra og til stærsta þeirra, segir Jahve; því að ég fyrirgeyj misgjörð þeirra, og synd þeirra mun ég ekki minnast lengur.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "ccf2afa66805eb47ab5c163fc6b1dbb22ee1cf128f43ce729cd702c3cf6f6db8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/31\/33-36.1792406063146.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir munu ekki lengur kenna hver mann ⟨את⟩ náunga sínum og hver mann ⟨את⟩ bróður sínum og segja: Kannið Jahve, því að þeir munu allir kunna mig ⟨את⟩, frá minnsta þeirra og til stærsta þeirra, segir Jahve, því að ég fyrirgeyf misgjörð þeirra, og synd þeirra mun ég ekki minnast lengur.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Og ekki"
+      "gloss": "Og ... ekki"
     },
     {
       "surface": "ילמדו",
-      "gloss": "munu þeir kenna"
+      "gloss": "munu kenna"
     },
     {
       "surface": "עוד",
-      "gloss": "lengur"
+      "gloss": "lenger"
     },
     {
       "surface": "איש",
-      "gloss": "hver"
+      "gloss": "hver mann"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "náunga sinn"
+      "marks": "náunga sínum"
     },
     {
       "surface": "רעהו",
-      "gloss": "náunga sinn"
+      "gloss": "náunga sínum"
     },
     {
       "surface": "ואיש",
-      "gloss": "og hver"
+      "gloss": "og hver mann"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bróður sinn"
+      "marks": "bróður sínum"
     },
     {
       "surface": "אחיו",
-      "gloss": "bróður sinn"
+      "gloss": "bróður sínum"
     },
     {
       "surface": "לאמר",
-      "gloss": "svo að segja"
+      "gloss": "og segja"
     },
     {
       "surface": "דעו",
@@ -94,7 +68,7 @@
     },
     {
       "surface": "כולם",
-      "gloss": "allir"
+      "gloss": "þeir allir"
     },
     {
       "surface": "ידעו",
@@ -102,7 +76,8 @@
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mig"
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig (frá minnsta þeirra)"
     },
     {
       "surface": "למקטנם",
@@ -130,7 +105,7 @@
     },
     {
       "surface": "אסלח",
-      "gloss": "ég fyrirgeyj"
+      "gloss": "fyrirgeyf ég"
     },
     {
       "surface": "לעונם",
@@ -146,13 +121,13 @@
     },
     {
       "surface": "אזכר",
-      "gloss": "mun ég minnast"
+      "gloss": "minnast"
     },
     {
       "surface": "עוד",
-      "gloss": "lengur"
+      "gloss": "lenger"
     }
   ],
-  "timestamp": "2026-10-19T10:34:23.148121961Z",
+  "timestamp": "2026-10-19T14:49:15.377317785Z",
   "model": "glm-5.3"
 }

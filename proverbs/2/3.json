@@ -5,33 +5,7 @@
   "book": "proverbs",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebreska parið כי־אם er hér sterkt skilyrði ('já, ef' \/ 'aðeins ef'), ekki tvennt aðskilin orð"
-    },
-    {
-      "kind": "idiom",
-      "subject": "תתן קולך",
-      "rationale": "Bókstaflega 'gefurðu rödd þína' — myndast um að kalla hátt; 'lyfta röddu' á íslensku"
-    },
-    {
-      "kind": "you",
-      "subject": "sonur",
-      "rationale": "Beint ákvörðun til sonarins frá 2:1 — annað skilyrði keðjunnar"
-    }
-  ],
-  "translation": "Já, ef þú kallar eftir greind, og lyftir röddu þinni ⟨upp⟩ fyrir skilning —",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "191818fd3b9fb4a1e414ca5506885dcff4a813246d84cec359918bd8ed1d8f83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/2\/2-3.1792416973280.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Já, ef þú kallar eftir skilningi og lyftir röddu þinni til innsæis,",
   "tokens": [
     {
       "surface": "כי",
@@ -39,29 +13,29 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ef"
     },
     {
       "surface": "לבינה",
-      "gloss": "eftir greind"
+      "gloss": "skilningi"
     },
     {
       "surface": "תקרא",
-      "gloss": "kallar þú"
+      "gloss": "þú kallar eftir"
     },
     {
       "surface": "לתבונה",
-      "gloss": "fyrir skilning"
+      "gloss": "til innsæis"
     },
     {
       "surface": "תתן",
-      "gloss": "og lyftir"
+      "gloss": "lyftir"
     },
     {
       "surface": "קולך",
-      "gloss": "röddu þinni upp"
+      "gloss": "röddu þinni"
     }
   ],
-  "timestamp": "2026-10-19T13:36:13.281122120Z",
+  "timestamp": "2026-10-19T14:56:46.696342498Z",
   "model": "glm-5.3"
 }

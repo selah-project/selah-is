@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גבולן",
-      "rationale": "„Landamæri þeirra“ fleirtölu — KJV „the coasts thereof“; sumir lesa það sem borganna landsvæði, aðrir um allan landamæra Pelesíta"
-    },
-    {
-      "kind": "addition",
-      "subject": "áður",
-      "rationale": "Íslenska þarf „áður“ til að gera tímatengingu greinilega; hebreskan hefur aðeins sögnina"
-    }
-  ],
-  "translation": "Og borgirnar sem Pelesítar höfðu tekið ⟨áður⟩ af Ísrael sneru aftur til Ísrael, frá Ekron og allt til Gat; og landamæri þeirra frelsaði Ísrael úr hendi Pelesíta. Og friður var milli Ísraels og Emoríta.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/7\/13-16.1792400246484.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og borgirnar sem Filistísku höfðu tekið frá ⟨את⟩ Ísrael snerust aftur til Ísrael, frá Ekron og allt að Gat, og ⟨את⟩ landamæri þeirra ísraelsmenn úr hendi Filistísku; og friður var milli Ísrael og Amoríta.",
   "tokens": [
     {
       "surface": "ותשבנה",
-      "gloss": "sneru aftur"
+      "gloss": "snerust aftur"
     },
     {
       "surface": "הערים",
@@ -46,11 +25,12 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelesítar"
+      "gloss": "Filistísku"
     },
     {
       "surface": "מאת",
-      "gloss": "af ⟨את⟩"
+      "gloss": "frá ⟨את⟩",
+      "marks": "Ísrael"
     },
     {
       "surface": "ישראל",
@@ -58,7 +38,7 @@
     },
     {
       "surface": "לישראל",
-      "gloss": "til Ísraels"
+      "gloss": "til Ísrael"
     },
     {
       "surface": "מעקרון",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "og allt til"
+      "gloss": "og allt að"
     },
     {
       "surface": "גת",
@@ -83,11 +63,11 @@
     },
     {
       "surface": "הציל",
-      "gloss": "frelsaði"
+      "gloss": "ísræntu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísrael"
+      "gloss": "ísraelsmenn"
     },
     {
       "surface": "מיד",
@@ -95,7 +75,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelesíta"
+      "gloss": "Filistísku"
     },
     {
       "surface": "ויהי",
@@ -111,7 +91,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels"
+      "gloss": "Ísrael"
     },
     {
       "surface": "ובין",
@@ -119,9 +99,9 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emorítanna"
+      "gloss": "Amoríta"
     }
   ],
-  "timestamp": "2026-10-19T08:57:26.485626453Z",
+  "timestamp": "2026-10-19T14:33:51.094366479Z",
   "model": "glm-5.3"
 }

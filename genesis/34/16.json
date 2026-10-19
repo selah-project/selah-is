@@ -5,85 +5,63 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "þá",
-      "rationale": "Íslenska þarf tengingu við 'ef' í fyrra versi; hebreska byrjar á 'og gefum'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "þjóðfélag",
-      "rationale": "עם er 'þjóð, fólk sem ein heild' — 'einn עם' merkir sameinað fólk"
-    }
-  ],
-  "translation": "þá gefum vér ykkur ⟨את⟩ dætur vorar, og ⟨את⟩ dætur ykkar tökum vér til okkar, og búum vér ⟨með⟩ ykkur, og verðum eitt þjóðfélag.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "48ee8be64a6bfe91abe09221571ee01a9d29ea9e599cb0366df7dcfc714f1334",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/34\/13-16.1792393530791.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þá gefum vér yður ⟨את⟩ dætur vorar, og ⟨את⟩ dætur yðvar takum vér oss, og búum vér ⟨את⟩ með yður, og verðum vér að einu fólki.",
   "tokens": [
     {
-      "surface": "ונתנו",
+      "surface": "וְנָתַנּוּ",
       "gloss": "gefum vér"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "dætur vorar"
     },
     {
-      "surface": "בנתינו",
+      "surface": "בְּנֹתֵינוּ",
       "gloss": "dætur vorar"
     },
     {
-      "surface": "לכם",
-      "gloss": "ykkur"
+      "surface": "לָכֶם",
+      "gloss": "yður"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "og ⟨את⟩",
-      "marks": "dætur ykkar"
+      "marks": "dætur yðvar"
     },
     {
-      "surface": "בנתיכם",
-      "gloss": "dætur ykkar"
+      "surface": "בְּנֹתֵיכֶם",
+      "gloss": "dætur yðvar"
     },
     {
-      "surface": "נקח",
-      "gloss": "tökum vér"
+      "surface": "נִקַּח",
+      "gloss": "takum vér oss"
     },
     {
-      "surface": "לנו",
-      "gloss": "til okkar"
+      "surface": "לָנוּ",
+      "gloss": "oss"
     },
     {
-      "surface": "וישבנו",
-      "gloss": "og búum vér"
+      "surface": "וְיָשַׁבְנוּ",
+      "gloss": "búum vér"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur",
-      "marks": "ykkur (með-forsetning)"
+      "surface": "אִתְּכֶם",
+      "gloss": "með yður ⟨את⟩"
     },
     {
-      "surface": "והיינו",
-      "gloss": "og verðum"
+      "surface": "וְהָיִינוּ",
+      "gloss": "verðum vér"
     },
     {
-      "surface": "לעם",
-      "gloss": "eitt þjóðfélag"
+      "surface": "לְעַם",
+      "gloss": "að fólki"
     },
     {
-      "surface": "אחד",
-      "gloss": "eitt"
+      "surface": "אֶחָד",
+      "gloss": "einu"
     }
   ],
-  "timestamp": "2026-10-19T07:05:30.792856280Z",
+  "timestamp": "2026-10-19T14:45:56.277436173Z",
   "model": "glm-5.3"
 }

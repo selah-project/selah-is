@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "בה",
-      "rationale": "Lokafornafnið 'hana' er tekið inn í setninguna, ekki sérstakt orð á íslensku."
-    },
-    {
-      "kind": "addition",
-      "subject": "er",
-      "rationale": "Hebresku skortir sagnlið við הוא; íslenskan krefst hans."
-    },
-    {
-      "kind": "you",
-      "subject": "til Ísraels",
-      "rationale": "Fólkið talar sjálft og segir sögu sína við Jósúa."
-    }
-  ],
-  "translation": "Því að Jahve, Elóhím vor, ⟨er⟩ sá sem férr ⟨את⟩ oss og ⟨את⟩ feður vora upp úr landi Mitsrajím, úr húsi ánauðar, og hann ⟨er⟩ sá er gjörði fyrir augum vorum ⟨את⟩ merkin, hin miklu, þessi, og varðveitti oss á allri þeirri leið er við fórum, og meðal allra þjóðanna er við fórum í gegnum í miðju þeirra.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/24\/17-20.1792399481634.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að Jahve Elóhím okkar, ⟨það er⟩ hann sem færði ⟨את⟩ okkur og ⟨את⟩ feður okkar upp úr landi Mitsrajím, úr húsi ánauðar, og sá sem gerði fyrir augum okkar ⟨את⟩ þessi merki hin miklu, og gætti okkar á allri leiðinni sem við fórum hana, og meðal allra þjóðanna sem við fórum í gegnum ⟨meðal⟩ þeirra.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,29 +17,29 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elóhím vor"
+      "gloss": "Elóhím okkar"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨er⟩ sá"
+      "gloss": "hann"
     },
     {
       "surface": "המעלה",
-      "gloss": "sem férr"
+      "gloss": "sem færði upp"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "oss"
+      "marks": "okkur"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "feður vora"
+      "gloss": "og ⟨את⟩",
+      "marks": "feður okkar"
     },
     {
       "surface": "אבותינו",
-      "gloss": "feður vora"
+      "gloss": "feður okkar"
     },
     {
       "surface": "מארץ",
@@ -85,24 +59,24 @@
     },
     {
       "surface": "ואשר",
-      "gloss": "og hann ⟨er⟩ sá er"
+      "gloss": "og sá sem"
     },
     {
       "surface": "עשה",
-      "gloss": "gjörði"
+      "gloss": "gerði"
     },
     {
       "surface": "לעינינו",
-      "gloss": "fyrir augum vorum"
+      "gloss": "fyrir augum okkar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "merkin"
+      "marks": "merki hin miklu"
     },
     {
       "surface": "האתות",
-      "gloss": "merkin"
+      "gloss": "merki"
     },
     {
       "surface": "הגדלות",
@@ -114,7 +88,7 @@
     },
     {
       "surface": "וישמרנו",
-      "gloss": "og varðveitti oss"
+      "gloss": "og gætti okkar"
     },
     {
       "surface": "בכל",
@@ -126,7 +100,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "הלכנו",
@@ -134,7 +108,7 @@
     },
     {
       "surface": "בה",
-      "gloss": ""
+      "gloss": "hana"
     },
     {
       "surface": "ובכל",
@@ -146,7 +120,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "עברנו",
@@ -154,9 +128,9 @@
     },
     {
       "surface": "בקרבם",
-      "gloss": "í miðju þeirra"
+      "gloss": "meðal þeirra"
     }
   ],
-  "timestamp": "2026-10-19T08:44:41.635639235Z",
+  "timestamp": "2026-10-19T14:52:02.270057328Z",
   "model": "glm-5.3"
 }

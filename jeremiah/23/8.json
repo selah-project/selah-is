@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "„ki im“ — samsett neitun, „heldur“ heldur saman báðum orðum"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אדמתם",
-      "rationale": "„jarðvegur þeirra“ — adamá er jarðvegur, rautt mould, nákvæmara en „land“"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "העלה\/הביא",
-      "rationale": "tveir sagnir í samstöðu við v. 7 — nýja útleggingin veldur þeirri gömlu að hverfa"
-    }
-  ],
-  "translation": "heldur: Svo lifi Jahve, er létti upp og flutti ⟨את⟩ sáði húss Ísraels úr norðurlandinu og úr öllum löndunum er ég hafði rekizt þangað; og þeir munu búa á jarðvegi sínum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/5-8.1792405891644.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "heldur svo: Svo lengi sem Jahve lifir, sá er flutti upp og sá er leiddi af stað ⟨את⟩ saeði húss Ísraels frá landi norðurs og frá öllum löndunum sem ég hafði rek þá út í — og þeir skulu búa á eigin jörð sinni.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "heldur"
+      "gloss": "svo lengi sem"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "heldur svo"
     },
     {
       "surface": "חי",
-      "gloss": "Svo lifi"
+      "gloss": "lifir"
     },
     {
       "surface": "יהוה",
@@ -51,28 +25,28 @@
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sá er"
     },
     {
       "surface": "העלה",
-      "gloss": "létti upp"
+      "gloss": "flutti upp"
     },
     {
       "surface": "ואשר",
-      "gloss": "og"
+      "gloss": "og sá er"
     },
     {
       "surface": "הביא",
-      "gloss": "flutti"
+      "gloss": "leiddi af stað"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sáði húss Ísraels"
+      "marks": "saeði húss Ísraels"
     },
     {
       "surface": "זרע",
-      "gloss": "sáði"
+      "gloss": "saeði"
     },
     {
       "surface": "בית",
@@ -84,15 +58,15 @@
     },
     {
       "surface": "מארץ",
-      "gloss": "úr"
+      "gloss": "frá landi"
     },
     {
       "surface": "צפונה",
-      "gloss": "norðurlandinu"
+      "gloss": "norðurs"
     },
     {
       "surface": "ומכל",
-      "gloss": "og úr öllum"
+      "gloss": "og frá öllum"
     },
     {
       "surface": "הארצות",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "הדחתים",
-      "gloss": "ég hafði rekizt"
+      "gloss": "hafði rek þá út"
     },
     {
       "surface": "שם",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "og þeir munu búa"
+      "gloss": "og þeir skulu búa"
     },
     {
       "surface": "על",
@@ -120,9 +94,9 @@
     },
     {
       "surface": "אדמתם",
-      "gloss": "jarðvegi sínum"
+      "gloss": "eigin jörð sinni"
     }
   ],
-  "timestamp": "2026-10-19T10:31:31.645812387Z",
+  "timestamp": "2026-10-19T14:49:17.714052069Z",
   "model": "glm-5.3"
 }

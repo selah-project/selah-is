@@ -5,37 +5,11 @@
   "book": "micah",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "'Mannur' — ávarp til hvers einstaklings manns, ekki aðeins Ísraels."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Samsettan 'נema aðeins' — latneska 'aðeins' fallið niður, 'כי' borið ⟨að⟩."
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "Partíkulan 'אם' gengur upp í 'כי אם'-tákningunni og fær eiginlega glósu."
-    }
-  ],
-  "translation": "Hann hefur sagt þér, mannur, hvað gott er; og hvað Jahve krefst af þér: að gera dóm og elska khesed og auðmjúkt ganga með Elóhím þínum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "dc496f949c71ee693c20fa9167001a0e4d13552e18c0a3a5077de089ee6d3871",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/6\/5-8.1792408759717.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hann hefur sagt þér, maður, hvað er gott, og hvað Jahve leitar eftir af þér: ekkert nema að gera dóm og elska khesed og hægja gang þinn með Elóhím þínum.",
   "tokens": [
     {
       "surface": "הגיד",
-      "gloss": "Hann hefur sagt"
+      "gloss": "hefur sagt"
     },
     {
       "surface": "לך",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "mannur"
+      "gloss": "maður"
     },
     {
       "surface": "מה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "דורש",
-      "gloss": "krefst"
+      "gloss": "leitar eftir"
     },
     {
       "surface": "ממך",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨að⟩"
+      "gloss": "⟨ekkert⟩"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "nema"
     },
     {
       "surface": "עשות",
@@ -95,11 +69,11 @@
     },
     {
       "surface": "והצנע",
-      "gloss": "og auðmjúkt"
+      "gloss": "og hægja"
     },
     {
       "surface": "לכת",
-      "gloss": "gangа"
+      "gloss": "gang þinn"
     },
     {
       "surface": "עם",
@@ -110,6 +84,6 @@
       "gloss": "Elóhím þínum"
     }
   ],
-  "timestamp": "2026-10-19T11:19:19.718869423Z",
+  "timestamp": "2026-10-19T14:54:53.851679226Z",
   "model": "glm-5.3"
 }

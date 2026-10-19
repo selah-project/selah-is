@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ברך",
-      "rationale": "'blessaði' er hið bókstaflega; um er að ræða óvirkja (eufemisma) fyrir 'bannaði\/þakkaði illa' — K\/JPS þýða 'cursed', YLT heldur 'blessed'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בני בליעל",
-      "rationale": "'synir Belíal' — 'Belíal' hér sem nafn á gölsku, ekki þýtt sem 'ónýtingar'"
-    }
-  ],
-  "translation": "Og tveir mennirnir, synir Belíal, komu og sátu gagnvart honum, og Belíal-mennirnir báru vitni gegn Nabot, gegn honum, frammi fyrir þjóðinni og sögðu: Nabot hefur blessað Elóhím og konunginn. Þá fluttu hann út fyrir borgina og grýttu hann með steinum, og hann dó.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "4b295cc58904c013fa74a7e7866dbe4e076558ea9194638bfd22c73a981b6adf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/21\/13-16.1792402637707.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og tveir mennirnir, synir Belíal, komu inn og settust gagnstætt honum, og Belíalsmennirnir báru vitni gegn ⟨את⟩ Nabot, fyrir augliti þjóðarinnar, og sögðu: Nabot hafði blessað Elóhím og konunginn. Þá færðu þannig hann út fyrir borgina og grýttu hann með steinum, og hann dó.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "og komu"
+      "gloss": "Og komu inn"
     },
     {
       "surface": "שני",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "og sátu"
+      "gloss": "og settust"
     },
     {
       "surface": "נגדו",
-      "gloss": "gagnvart honum"
+      "gloss": "gagnstætt honum"
     },
     {
       "surface": "ויעדהו",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "הבליעל",
-      "gloss": "Belíal-"
+      "gloss": "Belíals"
     },
     {
       "surface": "את",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "נגד",
-      "gloss": "gegn"
+      "gloss": "fyrir augliti"
     },
     {
       "surface": "העם",
-      "gloss": "frammi fyrir þjóðinni"
+      "gloss": "þjóðarinnar"
     },
     {
       "surface": "לאמר",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "ברך",
-      "gloss": "hefur blessað"
+      "gloss": "hafði blessað"
     },
     {
       "surface": "נבות",
@@ -107,7 +86,7 @@
     },
     {
       "surface": "ויצאהו",
-      "gloss": "Þá fluttu hann út"
+      "gloss": "Þá færðu hann út"
     },
     {
       "surface": "מחוץ",
@@ -130,6 +109,6 @@
       "gloss": "og hann dó"
     }
   ],
-  "timestamp": "2026-10-19T09:37:17.708076849Z",
+  "timestamp": "2026-10-19T14:32:30.217887298Z",
   "model": "glm-5.3"
 }

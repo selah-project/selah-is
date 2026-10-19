@@ -5,54 +5,28 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Pésach",
-      "rationale": "הפסח er nafn hátíðar, Pésach, ekki þýtt ‚framhjáganga'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨degi⟩",
-      "rationale": "Hebreskan segir aðeins ‚á fjórtánda mánaðarins fyrsta'; orðið ‚degi' er bætt við á íslensku."
-    },
-    {
-      "kind": "substitution",
-      "subject": "landnemarnir af hernumindinu",
-      "rationale": "בני הגולה er orðrétt ‚synir útlegðarinnar'; íslenskan þarf samsett nafnasamband."
-    }
-  ],
-  "translation": "Og landnemarnir af hernumindinu höldu ⟨את⟩ Pésach, á fjórtánda degi mánaðarins fyrsta ⟨degi⟩.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/6\/17-20.1792413857119.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og útlegðingarnir gjörðu ⟨את⟩ pésakhbjóðuna, á fjórtánda degi mánaðarins hins fyrsta.",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "Og ... höldu"
+      "gloss": "gjörðu"
     },
     {
       "surface": "בני",
-      "gloss": ""
+      "gloss": "⟨synir⟩"
     },
     {
       "surface": "הגולה",
-      "gloss": "landnemarnir af hernumindinu"
+      "gloss": "útlegðingarnir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Pésach"
+      "marks": "pésakhbjóðuna"
     },
     {
       "surface": "הפסח",
-      "gloss": "Pésach"
+      "gloss": "pésakhbjóðuna"
     },
     {
       "surface": "בארבעה",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "fjórtánda"
     },
     {
       "surface": "לחדש",
@@ -68,9 +42,9 @@
     },
     {
       "surface": "הראשון",
-      "gloss": "fyrsta"
+      "gloss": "hins fyrsta"
     }
   ],
-  "timestamp": "2026-10-19T12:44:17.120509935Z",
+  "timestamp": "2026-10-19T14:44:47.621552703Z",
   "model": "glm-5.3"
 }

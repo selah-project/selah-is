@@ -5,31 +5,15 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Ísbóset",
-      "rationale": "frásögnin um að hann þorði ekki að svara — ótti Ísbósets gagnvart Abner er kjarni frásagnarinnar."
-    }
-  ],
-  "translation": "Og hann gat ekkert lengur svarað Abner orð, af ótta sínum við ⟨את⟩ hann.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "310cc5d93efec93e8936256316913592c0c8d1b3acd996b53030dfca13a57ab5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/3\/9-12.1792401089724.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann mátti ekki lengur svara Avnér ⟨את⟩ orði, af ótta sínum við ⟨את⟩ hann.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "Og ... ekkert"
+      "gloss": "og ekki"
     },
     {
       "surface": "יכל",
-      "gloss": "gat"
+      "gloss": "mátti"
     },
     {
       "surface": "עוד",
@@ -37,31 +21,31 @@
     },
     {
       "surface": "להשיב",
-      "gloss": "svarað"
+      "gloss": "svara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Abner"
+      "marks": "Avnér"
     },
     {
       "surface": "אבנר",
-      "gloss": "Abner"
+      "gloss": "Avnér"
     },
     {
       "surface": "דבר",
-      "gloss": "orð"
+      "gloss": "orði"
     },
     {
       "surface": "מיראתו",
-      "gloss": "af ótta sínum"
+      "gloss": "af ótta sínum við"
     },
     {
       "surface": "אתו",
-      "gloss": "við ⟨את⟩ hann",
+      "gloss": "⟨את⟩",
       "marks": "hann"
     }
   ],
-  "timestamp": "2026-10-19T09:11:29.725765827Z",
+  "timestamp": "2026-10-19T14:36:51.940364090Z",
   "model": "glm-5.3"
 }

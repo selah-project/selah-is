@@ -5,40 +5,24 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "האפר",
-      "rationale": "Orðið merkir höfuðband\/turban en KJV les 'ashes' (ryk) — 'bandið' er rétt."
-    }
-  ],
-  "translation": "Og hann flýtti sér og tók ⟨את⟩ bandið af augum sínum, og konungur Ísraels þekkti hann, að hann var af spámönnunum.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/20\/41-43.1792402605692.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann bráskar við og tók ⟨את⟩ höfuðbindið af augum sínúm, og konungur Ísraels þekkti ⟨את⟩ hann, að hann var af spámönnunum.",
   "tokens": [
     {
       "surface": "וימהר",
-      "gloss": "flýtti sér"
+      "gloss": "bráskar við"
     },
     {
       "surface": "ויסר",
-      "gloss": "tók"
+      "gloss": "tók... af"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bandið"
+      "marks": "höfuðbindið"
     },
     {
       "surface": "האפר",
-      "gloss": "bandið"
+      "gloss": "höfuðbindið"
     },
     {
       "surface": "מעל",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "עיניו",
-      "gloss": "augum sínum"
+      "gloss": "augum sínúm"
     },
     {
       "surface": "ויכר",
@@ -54,7 +38,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "מלך",
@@ -74,9 +59,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "hann"
+      "gloss": "hann var"
     }
   ],
-  "timestamp": "2026-10-19T09:36:45.693622134Z",
+  "timestamp": "2026-10-19T14:32:00.205711341Z",
   "model": "glm-5.3"
 }

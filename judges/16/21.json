@@ -5,33 +5,7 @@
   "book": "judges",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "טוחן er þátttökusagnmynd: ‚hann var að mala‘ — Simson sjálfur malur, ekki ‚lét malast‘"
-    },
-    {
-      "kind": "alternative",
-      "subject": "בנחשתים",
-      "rationale": "tvenn tala: ‚tveimur keðjum af kopar\/eir‘ — YLT heldur tvenninni, flestar þýðingar ekki"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "þriðja persónu frásögn um Simson, engin bein áttun"
-    }
-  ],
-  "translation": "Og Filistear gripu hann og stungu út ⟨את⟩ augu hans, og færðu hann niður til Azzu og bundu hann með tveimur koparkeðjum, og hann varð að mala í húsi fanganna.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "4f57d571f0059f300ee8b159067a876405318c62ebf9ccdfeb89f9eb410e5790",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/16\/21-24.1792399968144.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Filistímenn gripu hann og stungu úr ⟨את⟩ augum hans, og færðu hann ⟨את⟩ ofan í Aza, og bundu hann með tveimur koparjárnúm, og varð hann að malandi í húsi fanganna.",
   "tokens": [
     {
       "surface": "ויאחזוהו",
@@ -39,32 +13,33 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistear"
+      "gloss": "Filistímenn"
     },
     {
       "surface": "וינקרו",
-      "gloss": "og stungu út"
+      "gloss": "og stungu úr"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "augu hans"
+      "marks": "augum hans"
     },
     {
       "surface": "עיניו",
-      "gloss": "augu hans"
+      "gloss": "augum hans"
     },
     {
       "surface": "ויורידו",
-      "gloss": "og færðu niður"
+      "gloss": "og færðu ofan"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "ofan í Aza"
     },
     {
       "surface": "עזתה",
-      "gloss": "til Azzu"
+      "gloss": "í Aza"
     },
     {
       "surface": "ויאסרוהו",
@@ -72,7 +47,7 @@
     },
     {
       "surface": "בנחשתים",
-      "gloss": "með tveimur koparkeðjum"
+      "gloss": "með tveimur koparjárnúm"
     },
     {
       "surface": "ויהי",
@@ -80,7 +55,7 @@
     },
     {
       "surface": "טוחן",
-      "gloss": "að mala"
+      "gloss": "að malandi"
     },
     {
       "surface": "בבית",
@@ -91,6 +66,6 @@
       "gloss": "fanganna"
     }
   ],
-  "timestamp": "2026-10-19T08:52:48.145505813Z",
+  "timestamp": "2026-10-19T14:53:10.208134268Z",
   "model": "glm-5.3"
 }

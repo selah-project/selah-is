@@ -5,95 +5,74 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Parasambindingin 'heldur' fær ein orðmynd; אם fellur saman við כי."
-    },
-    {
-      "kind": "substitution",
-      "subject": "guðir",
-      "rationale": "guðanna þjóðanna er ritað með litlum staf — Elóhím um hinn sanna er ritað Elóhím."
-    }
-  ],
-  "translation": "og gáfu ⟨את⟩ guði þeirra í eld, því að þeir eru ekki guðir, heldur verk handa manns, tré og steinn — og þeir útrýmtu þeim.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/37\/17-20.1792404499899.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "og settu ⟨את⟩ guði þeirra í eldinn, því að þeir eru ekki guðir, heldur verk mannsins handa, viður og steinn, og þeir eyððu ⟨þeim⟩.",
   "tokens": [
     {
-      "surface": "ונתן",
-      "gloss": "og gáfu"
+      "surface": "וְנָתֹן",
+      "gloss": "og settu"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "guði þeirra"
     },
     {
-      "surface": "אלהיהם",
+      "surface": "אֱלֹהֵיהֶם",
       "gloss": "guði þeirra"
     },
     {
-      "surface": "באש",
-      "gloss": "í eld"
+      "surface": "בָּאֵשׁ",
+      "gloss": "í eldinn"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "því að"
     },
     {
-      "surface": "לא",
+      "surface": "לֹא",
       "gloss": "ekki"
     },
     {
-      "surface": "אלהים",
+      "surface": "אֱלֹהִים",
       "gloss": "guðir"
     },
     {
-      "surface": "המה",
+      "surface": "הֵמָּה",
       "gloss": "þeir"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "heldur"
     },
     {
-      "surface": "אם",
-      "gloss": ""
+      "surface": "אִם",
+      "gloss": "⟨heldur⟩"
     },
     {
-      "surface": "מעשה",
+      "surface": "מַעֲשֶׂה",
       "gloss": "verk"
     },
     {
-      "surface": "ידי",
+      "surface": "יְדֵי",
       "gloss": "handa"
     },
     {
-      "surface": "אדם",
-      "gloss": "mans"
+      "surface": "אָדָם",
+      "gloss": "mannsins"
     },
     {
-      "surface": "עץ",
-      "gloss": "tré"
+      "surface": "עֵץ",
+      "gloss": "viður"
     },
     {
-      "surface": "ואבן",
+      "surface": "וָאֶבֶן",
       "gloss": "og steinn"
     },
     {
-      "surface": "ויאבדום",
-      "gloss": "og þeir útrýmtu þeim"
+      "surface": "וַיְאַבְּדֻם",
+      "gloss": "og þeir eyððu ⟨þeim⟩"
     }
   ],
-  "timestamp": "2026-10-19T10:08:19.900760907Z",
+  "timestamp": "2026-10-19T14:47:56.876968116Z",
   "model": "glm-5.3"
 }

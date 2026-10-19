@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "מַעַל בִּי מָעַל — sömu rót tvísinnum, óþýðanlegt á íslensku; „brutu í míngað“ reynir að halda áherslunni."
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Boð til Esekíels manns sonar að tala við hús Ísraels."
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "גָּדַף er að „högga með orðum“ — „hóta“ tekur aðeins til hlutar myndarinnar."
-    }
-  ],
-  "translation": "Þess vegna talar þú við hús Ísraels, mannssonur, og þú segir við þá: Þannig hefur Adónaí Jahve sagt: Enn þessu hótu feður ykkar mig, með svívirðingu brutu þeir í míngað.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "bb7c1943b67fa9d013ec401b68a9674d52f2e3084286182fa1abdeaa64fe683e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/20\/25-28.1792407287176.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þess vegna talaðu, mannasonur, við Ísraels hús og þú skalt segja við ⟨þá⟩: Svá segir Adónaí Jahve: Enn í þessu smáðu feður yðar mig, ⟨את⟩, þegar þeir brutu svik á mig, svik.",
   "tokens": [
     {
       "surface": "לכן",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "talar þú"
+      "gloss": "talaðu"
     },
     {
       "surface": "אל",
@@ -55,27 +29,27 @@
     },
     {
       "surface": "בן",
-      "gloss": "manns"
-    },
-    {
-      "surface": "אדם",
       "gloss": "sonur"
     },
     {
+      "surface": "אדם",
+      "gloss": "mann"
+    },
+    {
       "surface": "ואמרת",
-      "gloss": "og þú segir"
+      "gloss": "og þú skalt segja"
     },
     {
       "surface": "אליהם",
-      "gloss": "við þá"
+      "gloss": "við ⟨þá⟩"
     },
     {
       "surface": "כה",
-      "gloss": "Þannig"
+      "gloss": "Svá"
     },
     {
       "surface": "אמר",
-      "gloss": "hefur sagt"
+      "gloss": "segir"
     },
     {
       "surface": "אדני",
@@ -91,34 +65,34 @@
     },
     {
       "surface": "זאת",
-      "gloss": "þetta"
+      "gloss": "í þessu"
     },
     {
       "surface": "גדפו",
-      "gloss": "hótu"
+      "gloss": "smáðu"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩",
-      "marks": "mig"
+      "marks": "mig (feður yðar smáðu mig)"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "feður ykkar"
+      "gloss": "feður yðar"
     },
     {
       "surface": "במעלם",
-      "gloss": "með svívirðingu"
+      "gloss": "þegar þeir brutu svik"
     },
     {
       "surface": "בי",
-      "gloss": "í míngað"
+      "gloss": "á mig"
     },
     {
       "surface": "מעל",
-      "gloss": "brutu ⟨trúnað⟩"
+      "gloss": "svik"
     }
   ],
-  "timestamp": "2026-10-19T10:54:47.177309542Z",
+  "timestamp": "2026-10-19T14:42:56.623584103Z",
   "model": "glm-5.3"
 }

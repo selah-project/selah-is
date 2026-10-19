@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "אתו er H854 'með', ekki markðýr H853; glosan ber ⟨את⟩ samkvæmt reglu en merkingin er 'með honum'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "is",
-      "rationale": "שפות kemur aðeins fyrir hér í Tanakh — ost (síaður úr mysu)"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'þeir' bætt við — hebreskan hefur ekki sagnfornafn með הגישו"
-    }
-  ],
-  "translation": "Og hunang og ost og sauðfé og nauta-ost báru þeir fram Davíð og fólkinu sem ⟨með⟩ honum var, til að éta, því að fólkið var, sögðu þeir, svangt og þreytt og þyrst í eyðimörkinni.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "ad80ee17e5ed0af436d794e08767f346f10d018b304876747af69c815cd1646b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/17\/29-29.1792401442019.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hunang og skyr og sauðfé og ost úr nautgripum — þetta báru þeir Davíð og fólkinu sem ⟨með honum⟩ var, að éta; því að fólkið, sögðu þeir, er svangt og þreytt og þyrst í eyðimörkinni.",
   "tokens": [
     {
       "surface": "ודבש",
-      "gloss": "Og hunang"
+      "gloss": "og hunang"
     },
     {
       "surface": "וחמאה",
-      "gloss": "og ost"
+      "gloss": "og skyr"
     },
     {
       "surface": "וצאן",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "ושפות",
-      "gloss": "og nauta-ost"
+      "gloss": "ost"
     },
     {
       "surface": "בקר",
-      "gloss": "nauta"
+      "gloss": "úr nautgripum"
     },
     {
       "surface": "הגישו",
-      "gloss": "báru þeir fram"
+      "gloss": "þetta báru þeir nær"
     },
     {
       "surface": "לדוד",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "לאכול",
-      "gloss": "til að éta"
+      "gloss": "að éta"
     },
     {
       "surface": "כי",
@@ -107,6 +81,6 @@
       "gloss": "í eyðimörkinni"
     }
   ],
-  "timestamp": "2026-10-19T09:17:22.019443827Z",
+  "timestamp": "2026-10-19T14:37:21.462520755Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "nafn er kallað",
-      "rationale": "נקרא שם שם — tvöföld שם: „nafn er kallað nafn“; flestir þýða „kallaður er nafn Jahve“ en orðaröðin er umdeild."
-    },
-    {
-      "kind": "substitution",
-      "subject": "arka",
-      "rationale": "ארון er bókstaflega kista eða örk; „arki“ er hafnara orð í íslensku."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "⟨er er⟩ bætt við til að tengja setninguna — hebreskan segir aðeins עליו."
-    }
-  ],
-  "translation": "Og Davíð reis og fór, og allur lýðurinn sem með honum var, frá Baale-Júda, til að flytja þaðan upp ⟨את⟩ arka Elóhím, sem nafn er kallað yfir: nafn Jahve Tsevaót, sá sem situr yfir kerúbunum, ⟨er er⟩ á honum.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "359a5f524f678f68d9e1f44c7cd945b98c6ab923c5849e89cc027e3642c5941b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/6\/1-4.1792401310355.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Davíð réist upp og fór, og allt fólkið sem ⟨את⟩ með honum var, frá Baale-Jehúda, til að flytja þaðan upp ⟨את⟩ örk Elóhím, sem kallað er nafn, nafn Jahve Tsevaót, sá sem situr yfir kerúbunum, yfir henni.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "reis"
+      "gloss": "réist upp"
     },
     {
       "surface": "וילך",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "וכל",
-      "gloss": "og allur"
+      "gloss": "og allt"
     },
     {
       "surface": "העם",
-      "gloss": "lýðurinn"
+      "gloss": "fólkið"
     },
     {
       "surface": "אשר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "með ⟨את⟩ honum"
+      "gloss": "⟨את⟩ með honum"
     },
     {
       "surface": "מבעלי",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Júda"
+      "gloss": "Jehúda"
     },
     {
       "surface": "להעלות",
@@ -80,11 +54,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arka Elóhím"
+      "marks": "örk"
     },
     {
       "surface": "ארון",
-      "gloss": "arka"
+      "gloss": "örk"
     },
     {
       "surface": "האלהים",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "נקרא",
-      "gloss": "kallað"
+      "gloss": "kallað er"
     },
     {
       "surface": "שם",
@@ -120,13 +94,13 @@
     },
     {
       "surface": "הכרבים",
-      "gloss": "kerúbunum"
+      "gloss": "yfir kerúbunum"
     },
     {
       "surface": "עליו",
-      "gloss": "yfir honum"
+      "gloss": "yfir henni"
     }
   ],
-  "timestamp": "2026-10-19T09:15:10.356753138Z",
+  "timestamp": "2026-10-19T14:37:13.181040502Z",
   "model": "glm-5.3"
 }

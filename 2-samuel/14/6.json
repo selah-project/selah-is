@@ -5,47 +5,31 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "skilja þá að",
-      "rationale": "מַצִּיל er 'sá sem bjargar\/rykkur burt'; samhengið er að enginn gripi inn til að skilja þá."
-    }
-  ],
-  "translation": "Og þín ambátt átti tvo sonu, og þeir báðir deildust á akurinum, og enginn var til að skilja þá að, og hinn einn laut hinn og ⟨את⟩ hann lést.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/14\/5-8.1792401437863.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þín þerná hafði tvo sonu, og þeir áttust hvor við annan á akrynum, og enginn var til að skilja þá að, og ⟨את⟩ hitt lauk hitt, og ⟨את⟩ hann lést.",
   "tokens": [
     {
       "surface": "ולשפחתך",
-      "gloss": "Og þín ambátt"
+      "gloss": "Og þín þerná"
     },
     {
       "surface": "שני",
-      "gloss": "tvö"
+      "gloss": "tó"
     },
     {
       "surface": "בנים",
-      "gloss": "syni"
+      "gloss": "sonu"
     },
     {
       "surface": "וינצו",
-      "gloss": "og þeir deildust"
+      "gloss": "og þeir áttust"
     },
     {
       "surface": "שניהם",
-      "gloss": "þeir báðir"
+      "gloss": "hvor við annan"
     },
     {
       "surface": "בשדה",
-      "gloss": "á akurinum"
+      "gloss": "á akrynum"
     },
     {
       "surface": "ואין",
@@ -53,28 +37,28 @@
     },
     {
       "surface": "מציל",
-      "gloss": "til að skilja þá að"
+      "gloss": "til að skilja að"
     },
     {
       "surface": "ביניהם",
-      "gloss": "á milli þeirra"
+      "gloss": "þá"
     },
     {
       "surface": "ויכו",
-      "gloss": "og laut"
+      "gloss": "og lauk"
     },
     {
       "surface": "האחד",
-      "gloss": "hinn einn"
+      "gloss": "hitt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hinn"
+      "marks": "hitt (annan soninn)"
     },
     {
       "surface": "האחד",
-      "gloss": "hinn"
+      "gloss": "hitt"
     },
     {
       "surface": "וימת",
@@ -82,9 +66,10 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann (hinn soninn)"
     }
   ],
-  "timestamp": "2026-10-19T09:17:17.864208416Z",
+  "timestamp": "2026-10-19T14:36:39.121261878Z",
   "model": "glm-5.3"
 }

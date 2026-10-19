@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "נא",
-      "rationale": "orðið נא 'hrátt (kjöt)' kemur aðeins fyrir hér í Tanakh"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "hebresk neitunarlofað smástúkt 'heldur \/ nema' — tvö orð í einni merkingu"
-    },
-    {
-      "kind": "you",
-      "subject": "Ísrael",
-      "rationale": "boð til Ísraelsmanna um mat Pesach-lambsins"
-    }
-  ],
-  "translation": "Eigi skuluð þér eta af ⟨á₂⟩ hrátt, né soðið með suðu í vatni, heldur steikt með eldi — höfuð ⟨á₂⟩ á fótleggjunum og á ínyflunum.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/9-12.1792394330756.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eigi skuluð þér eta af því hrátt, né soðið eins og soðið er í vatni, heldur steikta yfir eldi — höfuð þess á fótleggjum þess og á innmat þess.",
   "tokens": [
     {
       "surface": "אל",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "af ⟨á₂⟩"
+      "gloss": "af því"
     },
     {
       "surface": "נא",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מבשל",
-      "gloss": "með suðu"
+      "gloss": "soðið"
     },
     {
       "surface": "במים",
@@ -67,19 +41,19 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨eins og⟩"
     },
     {
       "surface": "צלי",
-      "gloss": "steikt"
+      "gloss": "steikta"
     },
     {
       "surface": "אש",
-      "gloss": "með eldi"
+      "gloss": "eldi"
     },
     {
       "surface": "ראשו",
-      "gloss": "höfuð ⟨á₂⟩"
+      "gloss": "höfuð þess"
     },
     {
       "surface": "על",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "כרעיו",
-      "gloss": "fótleggjunum"
+      "gloss": "fótleggjum þess"
     },
     {
       "surface": "ועל",
@@ -95,9 +69,9 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "ínyflunum"
+      "gloss": "innmat þess"
     }
   ],
-  "timestamp": "2026-10-19T07:18:50.757455536Z",
+  "timestamp": "2026-10-19T14:40:54.720677526Z",
   "model": "glm-5.3"
 }

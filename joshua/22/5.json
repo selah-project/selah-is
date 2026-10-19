@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sál",
-      "rationale": "נפש er heldur lífskraftur\/andidráttur en sál í seinna skilningi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שמרו\/לשמר",
-      "rationale": "sama rót endurtekin — gæta ykkar að gera og að gæta boðorða — glatarst ekki á íslensku með sömu rót (gæta)"
-    },
-    {
-      "kind": "you",
-      "subject": "til austurkynjarðanna",
-      "rationale": "Vigur 5 beinist að Rúben, Gad og hálfa Mánaše-kyninu sem ætlað er heim"
-    }
-  ],
-  "translation": "Aðeins að gæta ykkar mjög að gjöra ⟨את⟩ boðorðið og ⟨את⟩ Tóruna, er Mósje, þjónn Jahve, bauð ⟨את⟩ ykkur: að elska Jahve, Elóhím ykkar, og að ganga alla vega hans, og að gæta boðorða hans, og að festast við hann, og að þjóna honum með öllu hjarta ykkar og með allri sál ykkar.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "461740c9fa07d3b232e62f07f58b3d79621eb8740bdd3dde3b36f64db44f5994",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/22\/5-8.1792399320491.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Aðeins að gæta yðar mjög við að gjöra ⟨את⟩ boðorðið og ⟨את⟩ Tórann, er Mósje, þjónn Jahve, gaf yðr boð: að elska Jahve, Elóhím yðar, og að ganga öllum vegum hans, og að varðveita boðorð hans, og að halda fast við hann, og að þjóna honum með öllu hjarta yðar og með allri sálu yðar.",
   "tokens": [
     {
       "surface": "רק",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "að gæta ykkar"
+      "gloss": "gæta yðar"
     },
     {
       "surface": "מאד",
@@ -61,11 +35,11 @@
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "Tóruna"
+      "marks": "Tórann"
     },
     {
       "surface": "התורה",
-      "gloss": "Tóruna"
+      "gloss": "Tórann"
     },
     {
       "surface": "אשר",
@@ -73,11 +47,12 @@
     },
     {
       "surface": "צוה",
-      "gloss": "bauð"
+      "gloss": "gaf boð"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður"
     },
     {
       "surface": "משה",
@@ -106,7 +81,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elóhím ykkar"
+      "gloss": "Elóhím yðar"
     },
     {
       "surface": "וללכת",
@@ -114,23 +89,23 @@
     },
     {
       "surface": "בכל",
-      "gloss": "alla"
+      "gloss": "öllum"
     },
     {
       "surface": "דרכיו",
-      "gloss": "vega hans"
+      "gloss": "vegum hans"
     },
     {
       "surface": "ולשמר",
-      "gloss": "og að gæta"
+      "gloss": "og að varðveita"
     },
     {
       "surface": "מצותיו",
-      "gloss": "boðorða hans"
+      "gloss": "boðorð hans"
     },
     {
       "surface": "ולדבקה",
-      "gloss": "og að festast við"
+      "gloss": "og að halda fast við"
     },
     {
       "surface": "בו",
@@ -146,7 +121,7 @@
     },
     {
       "surface": "לבבכם",
-      "gloss": "hjarta ykkar"
+      "gloss": "hjarta yðar"
     },
     {
       "surface": "ובכל",
@@ -154,9 +129,9 @@
     },
     {
       "surface": "נפשכם",
-      "gloss": "sál ykkar"
+      "gloss": "sálu yðar"
     }
   ],
-  "timestamp": "2026-10-19T08:42:00.492548496Z",
+  "timestamp": "2026-10-19T14:52:02.017242444Z",
   "model": "glm-5.3"
 }

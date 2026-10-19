@@ -5,41 +5,20 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "עלות er bókstaflega 'það sem fer upp' — brennifór; שלמים er 'þakkarfór', af sömum rót og sjálfsögn (heill)."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "לפני er 'fyrir andliti\/ásjá' — íslenskan þarf eitt nafnorð hér."
-    }
-  ],
-  "translation": "Og þeir fluttu inn ⟨את⟩ kistu Jahve og settu hana á stað sinn, inni í tjaldbúðinni er Davíð hafði breitt út fyrir hana; og Davíð lét fara upp brennifór fyrir ásjánu Jahve og þakkarfór.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "8fd54b01415e98187f2d320feb29492eb76cbf1f7a18737c714cfdf79942dac8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/6\/17-20.1792401298962.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir fluttu ⟨את⟩ örk Jahve og settu hana í sinn stað inni í tjaldinu sem Davíð hafði rétt út fyrir hana; og Davíð fór með brennifórnir upp fyrir andliti Jahve og þakkfórnir.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "Og þeir fluttu inn"
+      "gloss": "Og þeir fluttu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kistu Jahve"
+      "marks": "örk Jahve"
     },
     {
       "surface": "ארון",
-      "gloss": "kistu"
+      "gloss": "örk"
     },
     {
       "surface": "יהוה",
@@ -47,16 +26,16 @@
     },
     {
       "surface": "ויצגו",
-      "gloss": "og settu"
+      "gloss": "og settu hana"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hana",
-      "marks": "á stað sinn"
+      "gloss": "⟨את⟩",
+      "marks": "í sinn stað"
     },
     {
       "surface": "במקומו",
-      "gloss": "á stað sinn"
+      "gloss": "í sinn stað"
     },
     {
       "surface": "בתוך",
@@ -64,19 +43,19 @@
     },
     {
       "surface": "האהל",
-      "gloss": "tjaldbúðinni"
+      "gloss": "tjaldinu"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "נטה",
-      "gloss": "hafði breitt út"
+      "gloss": "hafði rétt út"
     },
     {
       "surface": "לו",
-      "gloss": "fyrir hana"
+      "gloss": "fyrir ⟨sig⟩"
     },
     {
       "surface": "דוד",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "og lét fara upp"
+      "gloss": "og fór með upp"
     },
     {
       "surface": "דוד",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "עלות",
-      "gloss": "brennifór"
+      "gloss": "brennifórnir"
     },
     {
       "surface": "לפני",
-      "gloss": "fyrir ásjánu"
+      "gloss": "fyrir andliti"
     },
     {
       "surface": "יהוה",
@@ -104,9 +83,9 @@
     },
     {
       "surface": "ושלמים",
-      "gloss": "og þakkarfór"
+      "gloss": "og þakkfórnir"
     }
   ],
-  "timestamp": "2026-10-19T09:14:58.963416432Z",
+  "timestamp": "2026-10-19T14:37:27.190818105Z",
   "model": "glm-5.3"
 }

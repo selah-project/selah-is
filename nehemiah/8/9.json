@@ -5,61 +5,35 @@
   "book": "nehemiah",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התרשתא",
-      "rationale": "Persneskt embættisnafn, 'stjórnandi\/varahöfðingi' — skilið sem titill (Tirsjata), ekki þýtt"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Bein ræða til fólksins: 'Dagurinn í dag er heilagur Jahve, Elóhím yðar'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "המבינים",
-      "rationale": "Sögnin er 'skilja\/gera skiljandi' — 'kenndu' (KJV) er túlkun á hlutverki, ekki orðmynd"
-    }
-  ],
-  "translation": "Og Nechemja — ⟨hann⟩ er hinn Tirsjata — og Esra presturinn, skrifarinn, og Levítarnir, sem gerðu fólkið skiljandi, sögðu öllu fólkinu: Dagurinn í dag er heilagur Jahve, Elóhím yðar; syrgjið ekki og gráið ekki, því að allt fólkið grét, þegar það heyrði ⟨את⟩ orð Tórunnar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "705eaf3ccd63e86b48cc2e25a2945dbfba3d39136479f9479bd373b2d3721fd2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/8\/9-12.1792414260326.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Nakhemja — hann er Tirsjata — og Ezra prestdurinn, ritarinn, og Levítarnir ⟨sem⟩ gera fólkið skiljandi, sögðu við allt fólkið: Dagurinn í dag er heilagur Jahve, Elóhím ykkar; eiðið ekki og grætið ekki, því allt fólkið grét er ⟨það⟩ heyrði ⟨את⟩ orð Tórunnar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og sagði"
+      "gloss": "Og sögðu"
     },
     {
       "surface": "נחמיה",
-      "gloss": "Nechemja"
+      "gloss": "Nakhemja"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨hann⟩"
+      "gloss": "hann er"
     },
     {
       "surface": "התרשתא",
-      "gloss": "hinn Tirsjata"
+      "gloss": "Tirsjata"
     },
     {
       "surface": "ועזרא",
-      "gloss": "og Esra"
+      "gloss": "og Ezra"
     },
     {
       "surface": "הכהן",
-      "gloss": "presturinn"
+      "gloss": "prestdurinn"
     },
     {
       "surface": "הספר",
-      "gloss": "skrifarinn"
+      "gloss": "ritarinn"
     },
     {
       "surface": "והלוים",
@@ -67,24 +41,24 @@
     },
     {
       "surface": "המבינים",
-      "gloss": "sem gerðu skiljandi"
+      "gloss": "⟨sem⟩ gera skiljandi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "folkið"
+      "marks": "fólkið"
     },
     {
       "surface": "העם",
-      "gloss": "folkið"
+      "gloss": "fólkið"
     },
     {
       "surface": "לכל",
-      "gloss": "öllu"
+      "gloss": "við allt"
     },
     {
       "surface": "העם",
-      "gloss": "fólkinu"
+      "gloss": "fólkið"
     },
     {
       "surface": "היום",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨er⟩"
+      "gloss": "er"
     },
     {
       "surface": "ליהוה",
@@ -104,27 +78,27 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elóhím yðar"
+      "gloss": "Elóhím ykkar"
     },
     {
       "surface": "אל",
-      "gloss": "ekki"
+      "gloss": "eiðið ekki"
     },
     {
       "surface": "תתאבלו",
-      "gloss": "syrgjið"
+      "gloss": "eiðið ekki"
     },
     {
       "surface": "ואל",
-      "gloss": "og ekki"
+      "gloss": "og grætið ekki"
     },
     {
       "surface": "תבכו",
-      "gloss": "gráið"
+      "gloss": "grætið ekki"
     },
     {
       "surface": "כי",
-      "gloss": "því að"
+      "gloss": "því"
     },
     {
       "surface": "בוכים",
@@ -140,7 +114,7 @@
     },
     {
       "surface": "כשמעם",
-      "gloss": "þegar það heyrði"
+      "gloss": "er heyrði"
     },
     {
       "surface": "את",
@@ -156,6 +130,6 @@
       "gloss": "Tórunnar"
     }
   ],
-  "timestamp": "2026-10-19T12:51:00.327076700Z",
+  "timestamp": "2026-10-19T14:55:14.268349903Z",
   "model": "glm-5.3"
 }

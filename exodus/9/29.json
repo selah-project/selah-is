@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨það⟩",
-      "rationale": "íslenskan þarf viðfang í setningu sem hebreskan hefur ekki"
-    },
-    {
-      "kind": "you",
-      "subject": "til Faraó",
-      "rationale": "Mósje talar beint til Faraó og fullyrðir að jörðin sé Jahves"
-    }
-  ],
-  "translation": "Og Mósje sagði við hann: Um leið og ég fer út úr borginni mun ég rétta út ⟨את⟩ lófa mína til Jahve — þrumurnar munu hætta og grélin munu ekki verða ⟨það⟩ meir, svo að þú megir vita að jörðin tilheyrir Jahve.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/29-32.1792394266115.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje sagði við hann: Þegar ég fer út ⟨את⟩ borginni mun ég rétta ⟨את⟩ lófana mína til Jahve — þá munu þrumurnar hætta, og haglé verður ekki framar, til þess að þú vitir að Jahve tilýkur jörðinni.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og sagði"
+      "gloss": "Og … sagði"
     },
     {
       "surface": "אליו",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "כצאתי",
-      "gloss": "um leið og ég fer út"
+      "gloss": "Þegar ég fer út"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "borginninn"
+      "marks": "borginni"
     },
     {
       "surface": "העיר",
-      "gloss": "borginninn"
+      "gloss": "borginni"
     },
     {
       "surface": "אפרש",
@@ -60,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lófa mína"
+      "marks": "lófana mína"
     },
     {
       "surface": "כפי",
-      "gloss": "lófa mína"
+      "gloss": "lófana mína"
     },
     {
       "surface": "אל",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "והברד",
-      "gloss": "og grélin"
+      "gloss": "og haglé"
     },
     {
       "surface": "לא",
@@ -92,19 +71,19 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "munu verða"
+      "gloss": "verður"
     },
     {
       "surface": "עוד",
-      "gloss": "meir"
+      "gloss": "framar"
     },
     {
       "surface": "למען",
-      "gloss": "svo að"
+      "gloss": "til þess að"
     },
     {
       "surface": "תדע",
-      "gloss": "þú megir vita"
+      "gloss": "þú vitir"
     },
     {
       "surface": "כי",
@@ -112,13 +91,13 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "tilheyrir Jahve"
+      "gloss": "Jahve tilýkur"
     },
     {
       "surface": "הארץ",
-      "gloss": "jörðin"
+      "gloss": "jörðinni"
     }
   ],
-  "timestamp": "2026-10-19T07:17:46.116149957Z",
+  "timestamp": "2026-10-19T14:42:15.664579160Z",
   "model": "glm-5.3"
 }

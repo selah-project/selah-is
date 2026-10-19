@@ -5,41 +5,20 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ולא מבריתך",
-      "rationale": "'en ekki samkvæmt sáttmála þínum' — sumir lesa: 'ekki af sáttmála þínum (sakek)', aðrir: 'frábrugðið sáttmála þínum'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ונכלמת",
-      "rationale": "lýsar sömu skömm og 'skömmuð' en rótin merkir uppháða smán, ekki bara innri feimn."
-    }
-  ],
-  "translation": "Og þú munt minnast leiða þinna og verða skömmuð, er þú tekur við systrum þínum, þeim eldri en þú ásamt þeim ynri en þú, og ég gef þér ⟨את⟩ þær sem dætur — en ekki samkvæmt sáttmála þínum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "2060adbec9291fb9ef3c8b60eef53e2ffd9974608992951854dd0e54dd9517e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/16\/61-63.1792407062123.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þú munt minnast ⟨את⟩ vegu þinna og verða skömmuð, þegar þú tekur ⟨את⟩ systrum þínum, hinar eldri en þig, með ⟨את⟩ ⟨þeim⟩ hinar yngri en þig, og ég gef ⟨את⟩ þær þér til dótra — en ekki samkvæmt sáttmála þínum.",
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "Og þú munt minnast"
+      "gloss": "og þú munt minnast"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "leiðir þínar"
+      "marks": "vegu þinna"
     },
     {
       "surface": "דרכיך",
-      "gloss": "leiða þinna"
+      "gloss": "vegu þinna"
     },
     {
       "surface": "ונכלמת",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "בקחתך",
-      "gloss": "er þú tekur við"
+      "gloss": "þegar þú tekur"
     },
     {
       "surface": "את",
@@ -60,23 +39,23 @@
     },
     {
       "surface": "הגדלות",
-      "gloss": "þeim eldri"
+      "gloss": "hinar eldri"
     },
     {
       "surface": "ממך",
-      "gloss": "en þú"
+      "gloss": "en þig"
     },
     {
       "surface": "אל",
-      "gloss": "ásamt"
+      "gloss": "með"
     },
     {
       "surface": "הקטנות",
-      "gloss": "þeim ynri"
+      "gloss": "hinar yngri"
     },
     {
       "surface": "ממך",
-      "gloss": "en þú"
+      "gloss": "en þig"
     },
     {
       "surface": "ונתתי",
@@ -85,7 +64,7 @@
     {
       "surface": "אתהן",
       "gloss": "⟨את⟩",
-      "marks": "þær (systrurnar)"
+      "marks": "þær"
     },
     {
       "surface": "לך",
@@ -93,7 +72,7 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "sem dætur"
+      "gloss": "til dótra"
     },
     {
       "surface": "ולא",
@@ -104,6 +83,6 @@
       "gloss": "samkvæmt sáttmála þínum"
     }
   ],
-  "timestamp": "2026-10-19T10:51:02.124789045Z",
+  "timestamp": "2026-10-19T14:42:45.852406272Z",
   "model": "glm-5.3"
 }

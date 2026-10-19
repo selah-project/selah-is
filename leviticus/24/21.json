@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "ישלמנה ber í sér viðskeytið -נה sem vísar á búféð; á íslensku þarf fornafnið ⟨því⟩."
-    },
-    {
-      "kind": "substitution",
-      "subject": "á dómnum",
-      "rationale": "יומת er lýsing það sem gerist, ekki virðingarháttur; 'skal látinn drepa' heldur formi hebreskunnar."
-    }
-  ],
-  "translation": "Og sá sem slær búfé skal bæta ⟨את⟩ því; en sá sem slær mann skal látinn drepa.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/24\/21-23.1792396106119.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og sá sem slær ⟨את⟩ búféna skal bæta henni, en sá sem slær mann skal drepast.",
   "tokens": [
     {
       "surface": "ומכה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ישלמנה",
-      "gloss": "skal bæta ⟨את⟩ því"
+      "gloss": "skal bæta henni"
     },
     {
       "surface": "ומכה",
@@ -50,9 +29,9 @@
     },
     {
       "surface": "יומת",
-      "gloss": "skal látinn drepa"
+      "gloss": "skal drepast"
     }
   ],
-  "timestamp": "2026-10-19T07:48:26.120158325Z",
+  "timestamp": "2026-10-19T14:53:58.621074061Z",
   "model": "glm-5.3"
 }

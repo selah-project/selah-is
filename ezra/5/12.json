@@ -5,44 +5,23 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Eláha",
-      "rationale": "Aramska אלה aftur ritað Eláha — sama nafn og versi 11."
-    },
-    {
-      "kind": "crux",
-      "subject": "להן מן די",
-      "rationale": "'því að' — sumir lesa 'af því að' (orsakavensl), JPS 'But because'; littorðakeðjan er gerseilagt í aramaísku."
-    }
-  ],
-  "translation": "En af því að feður vorar ógnuðu Eláha himins, gaf hann þá í hönd Nebúkadnesars, konungs Bavel, Kaldeans, og húsið þetta eyðilagði hann og fólkið flutti hann í útlegð til Bavel.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6f0194daeb0c502c78af644e055c7a686e17bb76e25cf0d29652c51c4e944966",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/5\/9-12.1792413880719.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En af því að feður vorar örgðuðu Elóhím himnanna, gaf hann ⟨את⟩ feðrunum í hönd Nevúkadnesars konungs Babel, Kasída, og þetta hús eyðilagði hann og fólkið flutti hann í brott til Babýlon.",
   "tokens": [
     {
       "surface": "להן",
-      "gloss": "En af því að"
+      "gloss": "en af því að"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "af"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "að"
     },
     {
       "surface": "הרגזו",
-      "gloss": "ógnuðu"
+      "gloss": "örgðuðu"
     },
     {
       "surface": "אבהתנא",
@@ -50,19 +29,19 @@
     },
     {
       "surface": "לאלה",
-      "gloss": "Eláha"
+      "gloss": "Elóhím"
     },
     {
       "surface": "שמיא",
-      "gloss": "himins"
+      "gloss": "himnanna"
     },
     {
       "surface": "יהב",
-      "gloss": "gaf"
+      "gloss": "gaf hann"
     },
     {
       "surface": "המו",
-      "gloss": "þá"
+      "gloss": "feðrunum"
     },
     {
       "surface": "ביד",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nebúkadnesars"
+      "gloss": "Nevúkadnesars"
     },
     {
       "surface": "מלך",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "בבל",
-      "gloss": "Bavel"
+      "gloss": "Babel"
     },
     {
       "surface": "כסדיא",
-      "gloss": "Kaldeans"
+      "gloss": "Kasída"
     },
     {
       "surface": "וביתה",
-      "gloss": "og húsið"
+      "gloss": "og þetta hús"
     },
     {
       "surface": "דנה",
@@ -102,13 +81,13 @@
     },
     {
       "surface": "הגלי",
-      "gloss": "flutti í útlegð"
+      "gloss": "flutti hann í brott"
     },
     {
       "surface": "לבבל",
-      "gloss": "til Bavel"
+      "gloss": "til Babýlon"
     }
   ],
-  "timestamp": "2026-10-19T12:44:40.721228855Z",
+  "timestamp": "2026-10-19T14:44:39.536068968Z",
   "model": "glm-5.3"
 }

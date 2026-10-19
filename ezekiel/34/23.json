@@ -5,95 +5,76 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אתהן og אתם eru hvort tveggja aleph-tav-vísar með viðskeyttu fornöfn; þau bera merkið en sjálf את-myndin fellur saman við fornafnið."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "Rótið רעה endurtekst fjórum sinnum — reisa, gæta, gæta, hyrðingi — og gerir versið að einni mynd af hirðingu; íslenskan heldur endurtekningunni með 'hyrðing\/gæta'."
-    }
-  ],
-  "translation": "Og ég mun reisa yfir þá einn hyrðing, og hann mun gæta þeirra — ⟨את⟩ þjón minn Davíð; hann mun gæta þeirra, og hann skal vera þeim að hyrðingi.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "fb65b79fda3850299acf290ec61ce6b54f6c77f3b8032a496b4533749ddb0b6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/34\/21-24.1792407607853.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég mun reisa yfir þær einn smið, og hann mun beita þær, ⟨את⟩ þjón minn Davíð; hann mun beita þær, og hann mun vera þeim að smið.",
   "tokens": [
     {
-      "surface": "והקמתי",
-      "gloss": "og ég mun reisa"
+      "surface": "וַהֲקִמֹתִ֨י",
+      "gloss": "Og ég mun reisa"
     },
     {
-      "surface": "עליהם",
-      "gloss": "yfir þá"
+      "surface": "עֲלֵיהֶ֜ם",
+      "gloss": "yfir þær"
     },
     {
-      "surface": "רעה",
-      "gloss": "einn hyrðing"
+      "surface": "רֹעֶ֤ה",
+      "gloss": "smið"
     },
     {
-      "surface": "אחד",
+      "surface": "אֶחָד֙",
       "gloss": "einn"
     },
     {
-      "surface": "ורעה",
-      "gloss": "og hann mun gæta"
+      "surface": "וְרָעָ֣ה",
+      "gloss": "og hann mun beita"
     },
     {
-      "surface": "אתהן",
-      "gloss": "⟨את⟩ þeirra"
+      "surface": "אֶתְהֶ֔ן",
+      "gloss": "⟨את⟩",
+      "marks": "þær"
     },
     {
-      "surface": "את",
+      "surface": "אֵ֖ת",
       "gloss": "⟨את⟩",
       "marks": "þjón minn Davíð"
     },
     {
-      "surface": "עבדי",
+      "surface": "עַבְדִּ֣י",
       "gloss": "þjón minn"
     },
     {
-      "surface": "דויד",
+      "surface": "דָוִ֑יד",
       "gloss": "Davíð"
     },
     {
-      "surface": "הוא",
+      "surface": "ה֚וּא",
       "gloss": "hann"
     },
     {
-      "surface": "ירעה",
-      "gloss": "mun gæta"
+      "surface": "יִרְעֶ֣ה",
+      "gloss": "mun beita"
     },
     {
-      "surface": "אתם",
-      "gloss": "⟨את⟩ þeirra"
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "þær"
     },
     {
-      "surface": "והוא",
+      "surface": "וְהֽוּא",
       "gloss": "og hann"
     },
     {
-      "surface": "יהיה",
-      "gloss": "skal vera"
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "mun vera"
     },
     {
-      "surface": "להן",
+      "surface": "לָהֶ֖ן",
       "gloss": "þeim"
     },
     {
-      "surface": "לרעה",
-      "gloss": "að hyrðingi"
+      "surface": "לְרֹעֶֽה",
+      "gloss": "að smið"
     }
   ],
-  "timestamp": "2026-10-19T11:00:07.854510934Z",
+  "timestamp": "2026-10-19T14:43:16.902258368Z",
   "model": "glm-5.3"
 }

@@ -5,151 +5,130 @@
   "book": "esther",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הפרתמים",
-      "rationale": "Persneskt lánaviðoron, 'aðalsmenn', skýrt með íslensku orði"
-    },
-    {
-      "kind": "crux",
-      "subject": "חפץ ביקרו",
-      "rationale": "'hefur leiknat við að veita honum heiður' vs. 'metur virðingu hans' — raunþýðing tekin"
-    }
-  ],
-  "translation": "Og að gefa skikkjuna og hestinn í hendi eins manns af höfðingjum konungsins, aðalsmanna hans, og þeir skreyti manninn sem konungurinn metur virðingu hans, og setji hann upp á hestinn á torgi borgarinnar, og hrópi fyrir framan hann: Svo skal gert við manninn sem konungurinn metur virðingu hans.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "cab17817ff1e14b4b86f16d7cbabc5a922309a5d4dc532f7e3a2c20a028f55ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/6\/9-12.1792413303208.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og afhenda skikkjuna og hestinn í hönd eins mann af höfðingjum konungsins, partímanna, og þeir skuli klæða ⟨את⟩ manninn sem konungurinn vill veita í vegsemd hans, og setja hann upp á hestinn á torgi borgarinnar, og kyrja fyrir framan hann: Svo skal gera manninum sem konungurinn vill veita í vegsemd hans.",
   "tokens": [
     {
-      "surface": "ונתון",
-      "gloss": "að gefa"
+      "surface": "וְנָת֨וֹן",
+      "gloss": "og afhenda"
     },
     {
-      "surface": "הלבוש",
+      "surface": "הַלְּב֜וּשׁ",
       "gloss": "skikkjuna"
     },
     {
-      "surface": "והסוס",
+      "surface": "וְהַסּ֗וּס",
       "gloss": "og hestinn"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "í"
     },
     {
-      "surface": "יד",
-      "gloss": "hendi"
+      "surface": "יַד",
+      "gloss": "hönd"
     },
     {
-      "surface": "איש",
-      "gloss": "eins manns"
+      "surface": "אִ֞ישׁ",
+      "gloss": "eins mann"
     },
     {
-      "surface": "משרי",
+      "surface": "מִשָּׂרֵ֤י",
       "gloss": "af höfðingjum"
     },
     {
-      "surface": "המלך",
+      "surface": "הַמֶּ֨לֶךְ֙",
       "gloss": "konungsins"
     },
     {
-      "surface": "הפרתמים",
-      "gloss": "aðalsmanna hans"
+      "surface": "הַפַּרְתְּמִ֔ים",
+      "gloss": "partímanna"
     },
     {
-      "surface": "והלבישו",
-      "gloss": "og þeir skreyti"
+      "surface": "וְהִלְבִּ֨ישׁוּ֙",
+      "gloss": "og þeir skuli klæða"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "manninn"
     },
     {
-      "surface": "האיש",
+      "surface": "הָאִ֔ישׁ",
       "gloss": "manninn"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֥ר",
       "gloss": "sem"
     },
     {
-      "surface": "המלך",
+      "surface": "הַמֶּ֖לֶךְ",
       "gloss": "konungurinn"
     },
     {
-      "surface": "חפץ",
-      "gloss": "metur"
+      "surface": "חָפֵ֣ץ",
+      "gloss": "vill"
     },
     {
-      "surface": "ביקרו",
-      "gloss": "virðingu hans"
+      "surface": "בִּֽיקָר֑וֹ",
+      "gloss": "veita í vegsemd hans"
     },
     {
-      "surface": "והרכיבהו",
-      "gloss": "og setji hann upp"
+      "surface": "וְהִרְכִּיבֻ֤הוּ",
+      "gloss": "og setja hann upp"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "á"
     },
     {
-      "surface": "הסוס",
+      "surface": "הַסּוּס֙",
       "gloss": "hestinn"
     },
     {
-      "surface": "ברחוב",
+      "surface": "בִּרְח֣וֹב",
       "gloss": "á torgi"
     },
     {
-      "surface": "העיר",
+      "surface": "הָעִ֔יר",
       "gloss": "borgarinnar"
     },
     {
-      "surface": "וקראו",
-      "gloss": "og hrópi"
+      "surface": "וְקָרְא֣וּ",
+      "gloss": "og kyrja"
     },
     {
-      "surface": "לפניו",
+      "surface": "לְפָנָ֔יו",
       "gloss": "fyrir framan hann"
     },
     {
-      "surface": "ככה",
-      "gloss": "Svo"
+      "surface": "כָּ֚כָה",
+      "gloss": "svo"
     },
     {
-      "surface": "יעשה",
-      "gloss": "skal gert"
+      "surface": "יֵעָשֶׂ֣ה",
+      "gloss": "skal gera"
     },
     {
-      "surface": "לאיש",
-      "gloss": "við manninn"
+      "surface": "לָאִ֔ישׁ",
+      "gloss": "manninum"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֥ר",
       "gloss": "sem"
     },
     {
-      "surface": "המלך",
+      "surface": "הַמֶּ֖לֶךְ",
       "gloss": "konungurinn"
     },
     {
-      "surface": "חפץ",
-      "gloss": "metur"
+      "surface": "חָפֵ֥ץ",
+      "gloss": "vill"
     },
     {
-      "surface": "ביקרו",
-      "gloss": "virðingu hans"
+      "surface": "בִּֽיקָרֽוֹ",
+      "gloss": "veita í vegsemd hans"
     }
   ],
-  "timestamp": "2026-10-19T12:35:03.209375203Z",
+  "timestamp": "2026-10-19T14:40:48.578594234Z",
   "model": "glm-5.3"
 }

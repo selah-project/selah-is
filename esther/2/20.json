@@ -5,33 +5,7 @@
   "book": "esther",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "בְאָמְנָה merkir ‚í forráðum\/fóstur‘ — ‚uppalin með honum‘ er skýring, ekki orðið"
-    },
-    {
-      "kind": "secret",
-      "subject": "is",
-      "rationale": "Ester felir ætt sína og fólk — þekkt leynd sem ber sögunni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מגדת\/מאמר",
-      "rationale": "endurtekin forsögn og nafnorð um að segja\/boða í sama versi endurspegla hlýðnina"
-    }
-  ],
-  "translation": "Ester sagði ekki frá ætt sinni né ⟨את⟩ fólki sínu, eins og Mordókai hafði boðið henni; og ⟨את⟩ boðorð Mordókaí hlýddi Ester, eins og þegar hún var ⟨með⟩ honum í forráðum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/2\/17-20.1792413197491.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ester sagði ekki frá ætt sinni né ⟨את⟩ fólki sínu, eins og Mordókaj hafði boðið henni, og ⟨את⟩ boðorð Mordókaj gjörði Ester, eins og hún var ⟨með⟩ ⟨את⟩ honum í fóstri.",
   "tokens": [
     {
       "surface": "אין",
@@ -72,12 +46,12 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordókai"
+      "gloss": "Mordókaj"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "boðorð Mordókaí"
+      "marks": "boðorð Mordókaj"
     },
     {
       "surface": "מאמר",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordókaí"
+      "gloss": "Mordókaj"
     },
     {
       "surface": "אסתר",
@@ -93,7 +67,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "hlýddi"
+      "gloss": "gjörði"
     },
     {
       "surface": "כאשר",
@@ -105,13 +79,13 @@
     },
     {
       "surface": "באמנה",
-      "gloss": "í forráðum"
+      "gloss": "í fóstri"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ með honum"
+      "gloss": "⟨את⟩ honum"
     }
   ],
-  "timestamp": "2026-10-19T12:33:17.492450250Z",
+  "timestamp": "2026-10-19T14:40:35.183908264Z",
   "model": "glm-5.3"
 }

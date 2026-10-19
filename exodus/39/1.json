@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "שרד",
-      "rationale": "Aðeins hér í Tanakh; merkir 'innsaumur', föt prjónuð eða saumuð með nál."
-    },
-    {
-      "kind": "substitution",
-      "subject": "תולעת השני",
-      "rationale": "Bókstaflega 'ormur skarlatsins' — litarefnið úr skarlatslús; hið sama og 'páfuglar' dýra: myndin er dýrið."
-    }
-  ],
-  "translation": "Og úr blánum og purpuranum og skarlatsrauða gerðu þeir innsaumsföt til að þjóna í helgidóminum, og þeir gerðu ⟨את⟩ helgu klæðin sem Aharon átti, eins og Jahve bauð Mósje.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/39\/1-4.1792395275805.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og úr tækélet-blánum og purpuranum og skarladsrauða gerðu þeir saumaða klæði til að þjóna í helgistöðunni, og þeir gerðu ⟨את⟩ helgu klæðin sem Aharon á að bera, eins og Jahve bauð ⟨את⟩ Mósje.",
   "tokens": [
     {
       "surface": "ומן",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "התכלת",
-      "gloss": "blánum"
+      "gloss": "tækélet-blánum"
     },
     {
       "surface": "והארגמן",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "ותולעת",
-      "gloss": "og skarlatsormi"
+      "gloss": "og skarladsrauða"
     },
     {
       "surface": "השני",
-      "gloss": "skarlatsrauða"
+      "gloss": "orma-rauðanum"
     },
     {
       "surface": "עשו",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "föt"
+      "gloss": "klæði"
     },
     {
       "surface": "שרד",
-      "gloss": "innsaums"
+      "gloss": "saumuð"
     },
     {
       "surface": "לשרת",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "בקדש",
-      "gloss": "í helgidóminum"
+      "gloss": "í helgistöðunni"
     },
     {
       "surface": "ויעשו",
-      "gloss": "og gerðu þeir"
+      "gloss": "og þeir gerðu"
     },
     {
       "surface": "את",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "לאהרן",
-      "gloss": "Aharon"
+      "gloss": "Aharon á að bera"
     },
     {
       "surface": "כאשר",
@@ -115,6 +94,6 @@
       "gloss": "Mósje"
     }
   ],
-  "timestamp": "2026-10-19T07:34:35.806026624Z",
+  "timestamp": "2026-10-19T14:41:41.204734110Z",
   "model": "glm-5.3"
 }

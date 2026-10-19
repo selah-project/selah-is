@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "כאפי",
-      "rationale": "„nef“ á hebresku — reiði; í íslensku er myndin höfð í „reiði“ (andardráttur í nefi)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נקמתי",
-      "rationale": "hefnd mín kemur tvisvar í versinu — endurtekning sem bindur setninguna saman"
-    }
-  ],
-  "translation": "Og ég legg hefnd mína á Edóm í hendi fólks míns, Ísraels, og þeir gjöra í Edóm eftir reiði minni og eftir bræði minni, og þeir skilja ⟨את⟩ hefnd mína, segir Adónaí Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "08117c328e1e4d24a56437ba6a9cf20d749aa8a6d837e438cb72697db2a88594",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/25\/13-16.1792407380310.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég mun leggja ⟨את⟩ hefnd mína á Edóm, með hendi fólks míns Ísraels, og þeir skulu gjöra í Edóm eftir reiði minni og efti áræðni minni, og þeir skulu þekkja ⟨את⟩ hefnd mína, segir Adónaí Jahve.",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "Og ég legg"
+      "gloss": "Og ég mun leggja"
     },
     {
       "surface": "את",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "í hendi"
+      "gloss": "með hendi"
     },
     {
       "surface": "עמי",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "ועשו",
-      "gloss": "og þeir gjöra"
+      "gloss": "og þeir skulu gjöra"
     },
     {
       "surface": "באדום",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "וכחמתי",
-      "gloss": "og eftir bræði minni"
+      "gloss": "og efti áræðni minni"
     },
     {
       "surface": "וידעו",
-      "gloss": "og þeir skilja"
+      "gloss": "og þeir skulu þekkja"
     },
     {
       "surface": "את",
@@ -99,6 +78,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T10:56:20.311552438Z",
+  "timestamp": "2026-10-19T14:43:29.105584491Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Boð: snúið aftur og snúið ykkur frá uppreisnum"
-    },
-    {
-      "kind": "you",
-      "subject": "to Ísrael",
-      "rationale": "Jahve talar beint til húss Ísraels"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "פשע = uppreisn (frá réttri valdsmyst), ekki 'gjörningur'"
-    }
-  ],
-  "translation": "Þess vegna mun ég dæma ykkur, hús Ísraels, hvern mann eftir vegum sínum, segir Adónaí Jahve. Snúið aftur og snúið ykkur frá öllum uppreisnum ykkar, og þá verður ógni ykkar ekki að fallgryfju.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "d01d7ec72d42433de4da5515b1d5b6a7252c4874be5e493d02814cc2ee541ee5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/18\/29-32.1792407165374.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því mun ég dæma hvern mann samkvæmt vegum hans — ⟨את⟩ yður, hús Ísraels — segir Adónaí Jahve. Snúið aftur og snúið yður frá öllum uppreisnum yðar, og misgerðin skal ekki verða yður að blindgötu.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Þess vegna"
+      "gloss": "því"
     },
     {
       "surface": "איש",
-      "gloss": "hvern mann"
+      "gloss": "hver mann"
     },
     {
       "surface": "כדרכיו",
-      "gloss": "eftir vegum sínum"
+      "gloss": "samkvæmt vegum hans"
     },
     {
       "surface": "אשפט",
@@ -52,7 +26,7 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ykkur, hús Ísraels"
+      "marks": "yður, hús Ísraels"
     },
     {
       "surface": "בית",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "שובו",
-      "gloss": "Snúið aftur"
+      "gloss": "snúið aftur"
     },
     {
       "surface": "והשיבו",
-      "gloss": "og snúið ykkur"
+      "gloss": "og snúið yður"
     },
     {
       "surface": "מכל",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "פשעיכם",
-      "gloss": "uppreisnum ykkar"
+      "gloss": "uppreisnum yðar"
     },
     {
       "surface": "ולא",
@@ -96,21 +70,21 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "verður"
+      "gloss": "skal verða"
     },
     {
       "surface": "לכם",
-      "gloss": "ykkar"
+      "gloss": "yður"
     },
     {
       "surface": "למכשול",
-      "gloss": "að fallgryfju"
+      "gloss": "að blindgötu"
     },
     {
       "surface": "עון",
-      "gloss": "óni"
+      "gloss": "misgerðin"
     }
   ],
-  "timestamp": "2026-10-19T10:52:45.375867461Z",
+  "timestamp": "2026-10-19T14:42:55.554571866Z",
   "model": "glm-5.3"
 }

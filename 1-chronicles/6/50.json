@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "hlutkesti",
-      "rationale": "Úthlutun borga með hlutkesti af þremur ættkvíslum — formleg úthlutunarskrá"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "גורל er bauströgg\/hlutarsteinn, ritað ‚hlutkesti‘"
-    }
-  ],
-  "translation": "Og þeir gáfu með hlutkesti, úr ættkvísl sona Júda og úr ættkvísl sona Símeonar og úr ættkvísl sona Benjamínar, ⟨את⟩ þessar borgir, þær sem nefndar eru með nöfnum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "d7f8203b399c7bb06e783bb6d6b6e44c5c310e466b18c4c3e05090dc60003919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/6\/49-52.1792414583002.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir gáfu með hlutkesti, úr kynkvísl sona Júda og úr kynkvísl sona Símeons og úr kynkvísl sona Benjamíns, ⟨את⟩ þessar borgir, þær sem nefna á ⟨את⟩ þær með nöfnum.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "gáfu þeir"
+      "gloss": "Og þeir gáfu"
     },
     {
       "surface": "בגורל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ממטה",
-      "gloss": "úr ættkvísl"
+      "gloss": "úr kynkvísl"
     },
     {
       "surface": "בני",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "וממטה",
-      "gloss": "og úr ættkvísl"
+      "gloss": "og úr kynkvísl"
     },
     {
       "surface": "בני",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "שמעון",
-      "gloss": "Símeonar"
+      "gloss": "Símeons"
     },
     {
       "surface": "וממטה",
-      "gloss": "og úr ættkvísl"
+      "gloss": "og úr kynkvísl"
     },
     {
       "surface": "בני",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Benjamínar"
+      "gloss": "Benjamíns"
     },
     {
       "surface": "את",
@@ -87,22 +66,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þær sem"
     },
     {
       "surface": "יקראו",
-      "gloss": "nefndar eru"
+      "gloss": "nefna á"
     },
     {
       "surface": "אתהם",
-      "gloss": "þær ⟨את⟩",
-      "marks": "með nöfnum"
+      "gloss": "⟨את⟩ þær",
+      "marks": "borgirnar"
     },
     {
       "surface": "בשמות",
       "gloss": "með nöfnum"
     }
   ],
-  "timestamp": "2026-10-19T12:56:23.003417934Z",
+  "timestamp": "2026-10-19T14:31:26.950695087Z",
   "model": "glm-5.3"
 }

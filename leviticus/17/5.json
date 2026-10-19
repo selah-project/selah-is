@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "זבח",
-      "rationale": "Þreföld notun rótarinnar z-v-kh (זבחיהם\/זבחים\/וזבחו\/זבחי) undirstrikar að allt slátrunarfórnarfærið flytjist nú til tjalsins; endurtekningin sezt ekki yfir á íslensku."
-    },
-    {
-      "kind": "crux",
-      "subject": "אותם",
-      "rationale": "Á enda vers: 'með þeim' (sjá YLT) á móti því að lesa sem aleph-tav-nafnhátt af את — flestir lesa einfaldlega 'þær fórnir' sem beint andlægur."
-    },
-    {
-      "kind": "substitution",
-      "subject": "heilóafórnir",
-      "rationale": "שלמים er 'fullnægju-\/heildarfórn', ættuð við shalom — ekki 'friðarfórn' heldur fórn samnytt með þátttakendum."
-    }
-  ],
-  "translation": "Til þess að synir Ísraels megi færa ⟨את⟩ fórnir sínar, þær er þeir slátra á velli óins vegar, og koma þeim til Jahve, að dyrum samfundatjalsins, til prestsins, og slátri þeir fórnir heilóafórna til Jahve ⟨með⟩ þeim.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/17\/5-8.1792395895860.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Til þess að sonu Ísraels bregði að færa ⟨את⟩ fórnir sínar, þær sem þeir slátra á víðavangi, og leiði þær til Jahve, að opningu samfundatjaldsins, til prestsins, og slátri þær sem shelamím-fórnir fyrir Jahve ⟨את⟩.",
   "tokens": [
     {
       "surface": "למען",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "יביאו",
-      "gloss": "megi færa"
+      "gloss": "leiði"
     },
     {
       "surface": "בני",
-      "gloss": "synir"
+      "gloss": "sonu"
     },
     {
       "surface": "ישראל",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "þær er"
+      "gloss": "þær sem"
     },
     {
       "surface": "הם",
@@ -80,15 +54,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "velli óins vegar"
+      "gloss": "víðavangi"
     },
     {
       "surface": "השדה",
-      "gloss": "velli óins vegar"
+      "gloss": "(við) völlinn"
     },
     {
       "surface": "והביאם",
-      "gloss": "og koma þeim"
+      "gloss": "og leiði þær"
     },
     {
       "surface": "ליהוה",
@@ -100,15 +74,15 @@
     },
     {
       "surface": "פתח",
-      "gloss": "dyrum"
+      "gloss": "opningu"
     },
     {
       "surface": "אהל",
-      "gloss": "samfundatjalsins"
+      "gloss": "tjalds"
     },
     {
       "surface": "מועד",
-      "gloss": "samfundatjalsins"
+      "gloss": "samfundar"
     },
     {
       "surface": "אל",
@@ -120,25 +94,26 @@
     },
     {
       "surface": "וזבחו",
-      "gloss": "og slátri þeir"
+      "gloss": "og slátri"
     },
     {
       "surface": "זבחי",
-      "gloss": "fórnir"
+      "gloss": "…-fórnir"
     },
     {
       "surface": "שלמים",
-      "gloss": "heilóafórna"
+      "gloss": "shelamím"
     },
     {
       "surface": "ליהוה",
-      "gloss": "til Jahve"
+      "gloss": "fyrir Jahve"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ með þeim"
+      "gloss": "⟨את⟩",
+      "marks": "þær (fórnirnar)"
     }
   ],
-  "timestamp": "2026-10-19T07:44:55.862714067Z",
+  "timestamp": "2026-10-19T14:53:57.460215694Z",
   "model": "glm-5.3"
 }

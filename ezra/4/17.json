@@ -5,33 +5,7 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "בעל טעם er titill, 'fengismaður dóms'; sameinað sem 'ríkisstjóri' eins og gamall arameískur embættisheiti"
-    },
-    {
-      "kind": "crux",
-      "subject": "וכעת",
-      "rationale": "'og nú' — KJV 'at such a time' les formúluna sem tímamerki en JPS sem 'and now'"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "טע׮ fallið inn í titilinn בעל טעם"
-    }
-  ],
-  "translation": "Svar sendi konungurinn til Resúms, ríkisstjóra, og Sjimsjaj, ritarans, og hinna sem í fylgd þeirra voru, þeirra sem búa í Sámaríu, og hins sem handan árinnar er: Heilsan, og nú.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "9ff77f7f146e8ed6e47554aa6333caa5c1fc691c34f4368044c610fecbbabfc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/4\/17-20.1792413883908.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Svar sendi konungurinn til Rekhum, ríkisstjóra, og til Sjimsjai skrifarans og til hinna félega þeirra sem búa í Sjamrína, og til hinna handan árinnar: Friður, og svo framvegis.",
   "tokens": [
     {
       "surface": "פתגמא",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "רחום",
-      "gloss": "Resúms"
+      "gloss": "Rekhum"
     },
     {
       "surface": "בעל",
@@ -63,23 +37,23 @@
     },
     {
       "surface": "ושמשי",
-      "gloss": "og Sjimsjaj"
+      "gloss": "og til Sjimsjai"
     },
     {
       "surface": "ספרא",
-      "gloss": "ritarans"
+      "gloss": "skrifarans"
     },
     {
       "surface": "ושאר",
-      "gloss": "og hinna"
+      "gloss": "og til hinna"
     },
     {
       "surface": "כנותהון",
-      "gloss": "sem í fylgd þeirra voru"
+      "gloss": "félega þeirra"
     },
     {
       "surface": "די",
-      "gloss": "þeirra sem"
+      "gloss": "sem"
     },
     {
       "surface": "יתבין",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "בשמרין",
-      "gloss": "í Sámaríu"
+      "gloss": "í Sjamrína"
     },
     {
       "surface": "ושאר",
-      "gloss": "og hins"
+      "gloss": "og til hinna"
     },
     {
       "surface": "עבר",
@@ -103,13 +77,13 @@
     },
     {
       "surface": "שלם",
-      "gloss": "Heilsan"
+      "gloss": "Friður"
     },
     {
       "surface": "וכעת",
-      "gloss": "og nú"
+      "gloss": "og svo framvegis"
     }
   ],
-  "timestamp": "2026-10-19T12:44:43.908540314Z",
+  "timestamp": "2026-10-19T14:44:08.685827259Z",
   "model": "glm-5.3"
 }

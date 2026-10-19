@@ -5,40 +5,19 @@
   "book": "ecclesiastes",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "Sambandið 'על דברת' hefur enga eina íslenska jafngildi; 'על' fellur inn í 'til þess að'."
-    },
-    {
-      "kind": "crux",
-      "subject": "אחריו",
-      "rationale": "'Eftir hann' – síðari hluti vers 14; KJV\/ASV 'sem kemur eftir hann' vs. lestur 'eftir að hann' (líf hans); báðir metnir."
-    }
-  ],
-  "translation": "Á degi gæfu vertu í góðu, en á degi ógæfu skoðaðu; einnig ⟨את⟩ þetta á móti hinu hefur Elóhím gert, til þess að maðurinn finni ekkert eftir sig.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/7\/13-16.1792413077331.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Á degi góðs verðu í góðu, en á degi ills sjáðu; einnig ⟨את⟩ þetta gagnvart þessu hefur Elóhím gert, til þess að maðurinn finni ekkert á eftir honum.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "Á degi"
+      "gloss": "á degi"
     },
     {
       "surface": "טובה",
-      "gloss": "gæfu"
+      "gloss": "góðs"
     },
     {
       "surface": "היה",
-      "gloss": "vertu"
+      "gloss": "verðu"
     },
     {
       "surface": "בטוב",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "רעה",
-      "gloss": "ógæfu"
+      "gloss": "ills"
     },
     {
       "surface": "ראה",
-      "gloss": "skoðaðu"
+      "gloss": "sjáðu"
     },
     {
       "surface": "גם",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "לעמת",
-      "gloss": "á móti"
+      "gloss": "gagnvart"
     },
     {
       "surface": "זה",
-      "gloss": "hinu"
+      "gloss": "þessu"
     },
     {
       "surface": "עשה",
@@ -87,15 +66,15 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "til"
     },
     {
       "surface": "דברת",
-      "gloss": "til þess"
+      "gloss": "þess"
     },
     {
       "surface": "שלא",
-      "gloss": "að ekki"
+      "gloss": "að … ekki"
     },
     {
       "surface": "ימצא",
@@ -107,13 +86,13 @@
     },
     {
       "surface": "אחריו",
-      "gloss": "eftir sig"
+      "gloss": "á eftir honum"
     },
     {
       "surface": "מאומה",
       "gloss": "ekkert"
     }
   ],
-  "timestamp": "2026-10-19T12:31:17.332791113Z",
+  "timestamp": "2026-10-19T14:40:14.403861400Z",
   "model": "glm-5.3"
 }

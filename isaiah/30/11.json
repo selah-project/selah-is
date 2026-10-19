@@ -5,52 +5,31 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "vera",
-      "rationale": "Hebreska notaðo aðeins svörnð 'låtið hætta frá' — Íslenzka þarf 'að vera' til að gera setninguna heila."
-    },
-    {
-      "kind": "you",
-      "subject": "til Ísraels",
-      "rationale": "Boðsmyndir beint að fólkinu — það biður sjálfu um að losna við hinn heilaga."
-    }
-  ],
-  "translation": "Víkið úr vegi, beygið frá stíg, látið hinn heilaga Ísraels hætta að ⟨vera⟩ fyrir augliti okkar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "d9c3cdd6e72b7018789e5998f405807fc651f453f90483d284d48343a86c376b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/30\/9-12.1792404289058.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Víkið frá vegnum, snúið af stígnum, látið hætta fyrir augnaráði vorum ⟨את⟩ hinn heilaga Ísraels.",
   "tokens": [
     {
       "surface": "סורו",
-      "gloss": "Víkið"
-    },
-    {
-      "surface": "מני",
-      "gloss": "úr"
-    },
-    {
-      "surface": "דרך",
-      "gloss": "vegi"
-    },
-    {
-      "surface": "הטו",
-      "gloss": "beygið"
+      "gloss": "Víkið frá"
     },
     {
       "surface": "מני",
       "gloss": "frá"
     },
     {
+      "surface": "דרך",
+      "gloss": "veginum"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "snúið"
+    },
+    {
+      "surface": "מני",
+      "gloss": "af"
+    },
+    {
       "surface": "ארח",
-      "gloss": "stíg"
+      "gloss": "stígnum"
     },
     {
       "surface": "השביתו",
@@ -58,22 +37,22 @@
     },
     {
       "surface": "מפנינו",
-      "gloss": "fyrir augliti okkar"
+      "gloss": "fyrir augnaráði vorum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hinn heilagi Ísraels"
+      "marks": "hinn heilaga Ísraels"
     },
     {
       "surface": "קדוש",
-      "gloss": "hinn heilagi"
+      "gloss": "hinn heilaga"
     },
     {
       "surface": "ישראל",
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T10:04:49.059470919Z",
+  "timestamp": "2026-10-19T14:48:00.164170827Z",
   "model": "glm-5.3"
 }

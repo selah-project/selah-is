@@ -5,37 +5,11 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כיד...הטובה",
-      "rationale": "'Eftir góðri hendi' — hebresk mynd fyrir velheppnaða forsjá; íslenska heldur myndinni bókstaflega."
-    },
-    {
-      "kind": "elision",
-      "subject": "שמנה עשר",
-      "rationale": "Talan 'átta-tíu' fellur saman í eitt íslenskt orð 'átján'; עשr-tókið fær enga sérstaka glósu."
-    },
-    {
-      "kind": "measurement",
-      "subject": "átján",
-      "rationale": "Mannafjöldatalning yfir Levíta sem komu."
-    }
-  ],
-  "translation": "Og þeir færðu okkur, samkvæmt góðri hendi Elóhím okkar yfir okkur, mann af skynsemi, af sonum Makhlí, sonar Leví, sonar Ísraels; og Sjerebjá og synir hans og bræður hans, átján.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6c5717d1e6f7bc7455e4001b4b13060e52efe02c4985ad84eddedd134461fa77",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/8\/17-20.1792414062247.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir færðu okkur, eftir því sem góða hönd Elóhíms ⟨guðs⟩ okkar var yfir okkur, mann skynsama af sonum Maklí, syni Leví, synar Ísraels; og Sjeravja og synir hans og bræður hans — átján.",
   "tokens": [
     {
       "surface": "ויביאו",
-      "gloss": "og þeir færðu"
+      "gloss": "Og þeir færðu"
     },
     {
       "surface": "לנו",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "כיד",
-      "gloss": "samkvæmt hendi"
+      "gloss": "eins og hönd"
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elóhím okkar"
+      "gloss": "Elóhíms okkar"
     },
     {
       "surface": "הטובה",
-      "gloss": "góðri"
+      "gloss": "góða"
     },
     {
       "surface": "עלינו",
-      "gloss": "yfir okkur"
+      "gloss": "var yfir okkur"
     },
     {
       "surface": "איש",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "שכל",
-      "gloss": "af skynsemi"
+      "gloss": "skynsama"
     },
     {
       "surface": "מבני",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "מחלי",
-      "gloss": "Makhlí"
+      "gloss": "Maklí"
     },
     {
       "surface": "בן",
-      "gloss": "sonar"
+      "gloss": "syni"
     },
     {
       "surface": "לוי",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "sonar"
+      "gloss": "synar"
     },
     {
       "surface": "ישראל",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ושרביה",
-      "gloss": "og Sjerebjá"
+      "gloss": "og Sjeravja"
     },
     {
       "surface": "ובניו",
@@ -107,9 +81,9 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "átján"
     }
   ],
-  "timestamp": "2026-10-19T12:47:42.248772716Z",
+  "timestamp": "2026-10-19T14:44:51.177306116Z",
   "model": "glm-5.3"
 }

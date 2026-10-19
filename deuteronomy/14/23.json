@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mostur",
-      "rationale": "תירוש er nýmjókin vínberjasafi — ekki 'vín' — 'mostur' heldur myndinni"
-    },
-    {
-      "kind": "elision",
-      "subject": "לשכן שמו שם",
-      "rationale": "myndlíking: nafn Jahve 'tjaldbýr' á staðnum — Íslenska notar 'láta búa' og 'tjalda' myndin glatar"
-    }
-  ],
-  "translation": "Og þú skallt eta frammi fyrir Jahve, Elóhím þínum, á þeim stað er hann velur sér að láta nafn sitt búa þar, tíund korns þíns, mosts þíns og olíu þinnar og frumgetna nautgripa þinna og sauðfjár þíns, til þess að þú lærir að óttast Jahve, Elóhím þinn, alla daga.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "9f5fa4d4e7042bf1b5b4f102bb65fea618a0615844d291d29dc1b99a1929c48d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/14\/21-24.1792397965268.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þú skalt eta á undan Jahve, Elóhím þínum, á þeim stað sem hann velur til að láta nafn hans búa þar, tíund korns þíns, víns þíns og olíu þinnar og frumgraða nautgripa þinna og sauðfjár þíns, svo að þú lærir að óttast ⟨את⟩ Jahve, Elóhím þinn, alla daga.",
   "tokens": [
     {
       "surface": "ואכלת",
-      "gloss": "Og þú skallt eta"
+      "gloss": "Og þú skalt eta"
     },
     {
       "surface": "לפני",
-      "gloss": "frammi fyrir"
+      "gloss": "á undan"
     },
     {
       "surface": "יהוה",
@@ -46,23 +25,23 @@
     },
     {
       "surface": "במקום",
-      "gloss": "á stað"
+      "gloss": "á þeim stað"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "יבחר",
-      "gloss": "hann velur sér"
+      "gloss": "hann velur"
     },
     {
       "surface": "לשכן",
-      "gloss": "að láta búa"
+      "gloss": "til að láta búa"
     },
     {
       "surface": "שמו",
-      "gloss": "nafn sitt"
+      "gloss": "nafn hans"
     },
     {
       "surface": "שם",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "תירשך",
-      "gloss": "mosts þíns"
+      "gloss": "víns þíns"
     },
     {
       "surface": "ויצהרך",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "ובכרת",
-      "gloss": "og frumgetna"
+      "gloss": "og frumgraða"
     },
     {
       "surface": "בקרך",
@@ -98,7 +77,7 @@
     },
     {
       "surface": "למען",
-      "gloss": "til þess að"
+      "gloss": "svo að"
     },
     {
       "surface": "תלמד",
@@ -111,7 +90,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve, Elóhím þinn"
+      "marks": "Jahve"
     },
     {
       "surface": "יהוה",
@@ -130,6 +109,6 @@
       "gloss": "daga"
     }
   ],
-  "timestamp": "2026-10-19T08:19:25.269176828Z",
+  "timestamp": "2026-10-19T14:38:11.245510374Z",
   "model": "glm-5.3"
 }

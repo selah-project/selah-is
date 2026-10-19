@@ -5,36 +5,16 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "tólf steinar",
-      "rationale": "Talið tólf steinar samsvarar tólf kyniþókkum Ísraels"
-    },
-    {
-      "kind": "crux",
-      "subject": "הכין",
-      "rationale": "Antin 'stóðu fast' (um fætur prestanna) eða 'voru tilbúnir' (JPS: 'steina gert tilbúna') — hvort um adgerð eða stöðu"
-    }
-  ],
-  "translation": "og boðið þeim og segið: Verpið ykkur héðan, úr miðjum Jardena, frá staðnum þar sem fætur prestanna stóðu fast, tólf steina, og berið ⟨את⟩ þeim með ykkur yfir og leggið ⟨את⟩ þeim niður á gistingarstaðnum þar sem þið gistir þessa nótt.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "302add0f9dd61a390f8ff10f9c6e7521801e07ce2c4614323c71999dbfbaea87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/4\/1-4.1792398762664.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og boðið ⟨את⟩ þeim og segið: Takiztið ykkur héðan úr miðri Jardan, af þeim stað þar sem fætur prestaanna stóðu fast, tólf steina, og færið ⟨את⟩ þeim með ykkur og leggið ⟨את⟩ þeim í náttstaðinn þar sem þið gistin í nótt.",
   "tokens": [
     {
       "surface": "וצוו",
-      "gloss": "og boðið"
+      "gloss": "Og boðið"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þeim"
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
     },
     {
       "surface": "לאמר",
@@ -42,7 +22,7 @@
     },
     {
       "surface": "שאו",
-      "gloss": "Verpið"
+      "gloss": "Takiztið"
     },
     {
       "surface": "לכם",
@@ -54,15 +34,15 @@
     },
     {
       "surface": "מתוך",
-      "gloss": "úr miðjum"
+      "gloss": "úr miðri"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jardena"
+      "gloss": "Jardan"
     },
     {
       "surface": "ממצב",
-      "gloss": "frá staðnum"
+      "gloss": "af þeim stað"
     },
     {
       "surface": "רגלי",
@@ -70,7 +50,7 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "prestanna"
+      "gloss": "prestaanna"
     },
     {
       "surface": "הכין",
@@ -82,7 +62,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "(og) tján"
+      "gloss": ""
     },
     {
       "surface": "אבנים",
@@ -90,12 +70,12 @@
     },
     {
       "surface": "והעברתם",
-      "gloss": "og berið yfir"
+      "gloss": "og færið"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "þeim (steinana)"
+      "marks": "þeim (steinarnir)"
     },
     {
       "surface": "עמכם",
@@ -103,16 +83,16 @@
     },
     {
       "surface": "והנחתם",
-      "gloss": "og leggið niður"
+      "gloss": "og leggið"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "þeim (steinana)"
+      "marks": "í náttstaðinn"
     },
     {
       "surface": "במלון",
-      "gloss": "á gistingarstaðnum"
+      "gloss": "í náttstaðinn"
     },
     {
       "surface": "אשר",
@@ -120,7 +100,7 @@
     },
     {
       "surface": "תלינו",
-      "gloss": "þið gistir"
+      "gloss": "þið gistin"
     },
     {
       "surface": "בו",
@@ -128,9 +108,9 @@
     },
     {
       "surface": "הלילה",
-      "gloss": "þessa nótt"
+      "gloss": "í nótt"
     }
   ],
-  "timestamp": "2026-10-19T08:32:42.665466603Z",
+  "timestamp": "2026-10-19T14:52:12.880321928Z",
   "model": "glm-5.3"
 }

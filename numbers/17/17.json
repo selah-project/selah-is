@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "שנים עשר er tvennt tölurorð sem Ísrent sameinar í eitt — tólf"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "tólf stafir taldir, einn fyrir hvert feðra-hús"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מטה מטה",
-      "rationale": "endurtekningin 'stafi, staf' — staf fyrir staf — hverfa að hluta í íslensku"
-    }
-  ],
-  "translation": "Talaðu við Ísraelsmenn og tak frá ⟨את⟩ þeim stafi, staf fyrir hvert feðra-hús, frá ⟨את⟩ öllum höfðingjum þeirra, fyrir feðra-hús þeirra — tólf stafi; hverjum manni skalt þú skrifa ⟨את⟩ nafn hans á staf hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "311995ed6b0b32fe61cdabbbf9bd2941a5e834f9f60b42746d99649d9a7c459f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/17\/17-20.1792396912074.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Talaðu við Ísraelsmenn og tak frá ⟨את⟩ þeim stangir, stöng fyrir hvert feðrahús, frá ⟨את⟩ öllum höfðingjum þeirra, samkvæmt feðrahúsum þeirra — tólf stangir; nafns hvers manns skalt þú skrifa á stöng hans.",
   "tokens": [
     {
       "surface": "דבר",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "synir"
+      "gloss": "menn"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísrael"
+      "gloss": "Ísraels-"
     },
     {
       "surface": "וקח",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "frá ⟨את⟩ þeim"
+      "gloss": "frá ⟨את⟩"
     },
     {
       "surface": "מטה",
-      "gloss": "stafi"
+      "gloss": "stangir"
     },
     {
       "surface": "מטה",
-      "gloss": "staf"
+      "gloss": "stöng"
     },
     {
       "surface": "לבית",
-      "gloss": "fyrir hús"
+      "gloss": "fyrir hvert hús"
     },
     {
       "surface": "אב",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "fyrir hús"
+      "gloss": "samkvæmt hús"
     },
     {
       "surface": "אבתם",
@@ -99,20 +73,20 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "מטות",
-      "gloss": "stafir"
+      "gloss": "stangir"
     },
     {
       "surface": "איש",
-      "gloss": "hverjum manni"
+      "gloss": "hvers manns"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nafn hans"
+      "marks": "nafns hans (שמו)"
     },
     {
       "surface": "שמו",
@@ -128,9 +102,9 @@
     },
     {
       "surface": "מטהו",
-      "gloss": "staf hans"
+      "gloss": "stöng hans"
     }
   ],
-  "timestamp": "2026-10-19T08:01:52.075043713Z",
+  "timestamp": "2026-10-19T14:55:41.645083890Z",
   "model": "glm-5.3"
 }

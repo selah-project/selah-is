@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "forskeytið 'Það er' — íslenskan þarf upphaf setningar sem hebreskan sleppir"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "חקות settreglur — skipanir fastar með lögformi, ekki 'athafnir'"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "beint rætt til Ísrael — boðorðin og loforðin eiga við þjóðina í fyrstu persónu"
-    }
-  ],
-  "translation": "Það er það er ég býð þér í dag: að elska Jahve, Elóhím þinn, að ganga í vegum hans og að gæta boðorða hans og settreglna hans og dóma hans — og þú skalt lifa og fjölga þér, og Jahve, Elóhím þinn, skal vegsa þig í landinu sem þú ferð inn í til að taka það í arf.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/30\/13-16.1792398415396.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þess er ég býð þig ⟨í⟩ dag: að elska Jahve, Elóhím þinn, að ganga í vegum hans og að gæta boðorða hans og fyrirmæla hans og dóma hans — og þú skalt lifa og margfaldast, og Jahve, Elóhím þinn, skal blessa þig í landinu sem þú ferð þangað að taka þér.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "Það er"
+      "gloss": "þess"
     },
     {
       "surface": "אנכי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "býð þér"
+      "gloss": "býð þig"
     },
     {
       "surface": "היום",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "וחקתיו",
-      "gloss": "og settreglna hans"
+      "gloss": "og fyrirmæla hans"
     },
     {
       "surface": "ומשפטיו",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "ורבית",
-      "gloss": "og fjölga þér"
+      "gloss": "og margfaldast"
     },
     {
       "surface": "וברכך",
-      "gloss": "og vegsa þig"
+      "gloss": "og skal blessa þig"
     },
     {
       "surface": "יהוה",
@@ -124,7 +98,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "ferð inn í"
+      "gloss": "ferð"
     },
     {
       "surface": "שמה",
@@ -132,9 +106,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "til að taka það í arf"
+      "gloss": "að taka þér"
     }
   ],
-  "timestamp": "2026-10-19T08:26:55.397683351Z",
+  "timestamp": "2026-10-19T14:39:11.342896329Z",
   "model": "glm-5.3"
 }

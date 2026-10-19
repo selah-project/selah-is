@@ -5,127 +5,107 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חנינה",
-      "rationale": "orðið er 'blíðka\/graciosity' — 'miskunn' er nálgun; gefið með litlum staf um guði annarra, ekki Elóhím"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויתר",
-      "rationale": "אלהים אחרים er 'guðir aðrir' — ritað 'guðum annars konar' til að halda merkingunni"
-    }
-  ],
-  "translation": "Og ég varp yður af þessari jörðu, á jörðina sem þið þekkið ekki, hvorki þið né feður yðar, og þið skuluð þjóna þar ⟨את⟩ guðum annars konar, degi og nóttu, því að ég mun ekki veita yður miskunn.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "717f32cedcfca17c947b974e94a00f18ad92b7e50688b1155c2cebfa0fcf60ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/16\/13-16.1792405709238.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég varpa ⟨את⟩ yður af þessari jörðu, yfir á jörð sem þér þekkið ekki, hvorki þér né feður yðar, og þér munuð þjóna þar ⟨את⟩ öðrum guðum, degi og nóttu, þar sem ég veit yður ekki miskunn.",
   "tokens": [
     {
-      "surface": "והטלתי",
-      "gloss": "Og ég varp"
+      "surface": "וְהֵטַלְתִּ֣י",
+      "gloss": "og ég varpa"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "surface": "אֶתְכֶ֗ם",
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður"
     },
     {
-      "surface": "מעל",
+      "surface": "מֵעַל֙",
       "gloss": "af"
     },
     {
-      "surface": "הארץ",
-      "gloss": "jörðu"
+      "surface": "הָאָ֣רֶץ",
+      "gloss": "jörðinni"
     },
     {
-      "surface": "הזאת",
+      "surface": "הַזֹּ֔את",
       "gloss": "þessari"
     },
     {
-      "surface": "על",
-      "gloss": "á"
+      "surface": "עַל",
+      "gloss": "yfir á"
     },
     {
-      "surface": "הארץ",
-      "gloss": "jörðina"
+      "surface": "הָאָ֕רֶץ",
+      "gloss": "jörð"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁר֙",
       "gloss": "sem"
     },
     {
-      "surface": "לא",
+      "surface": "לֹ֣א",
       "gloss": "ekki"
     },
     {
-      "surface": "ידעתם",
+      "surface": "יְדַעְתֶּ֔ם",
       "gloss": "þekkið"
     },
     {
-      "surface": "אתם",
-      "gloss": "þið"
+      "surface": "אַתֶּ֖ם",
+      "gloss": "þér"
     },
     {
-      "surface": "ואבותיכם",
-      "gloss": "né feður yðar"
+      "surface": "וַאֲבֹתֵיכֶ֑ם",
+      "gloss": "og feður yðar"
     },
     {
-      "surface": "ועבדתם",
-      "gloss": "og þið skuluð þjóna"
+      "surface": "וַעֲבַדְתֶּ֞ם",
+      "gloss": "og þér munuð þjóna"
     },
     {
-      "surface": "שם",
+      "surface": "שָׁ֗ם",
       "gloss": "þar"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "guðum annars konar"
+      "marks": "öðrum guðum"
     },
     {
-      "surface": "אלהים",
+      "surface": "אֱלֹהִ֤ים",
       "gloss": "guðum"
     },
     {
-      "surface": "אחרים",
-      "gloss": "annars konar"
+      "surface": "אֲחֵרִים֙",
+      "gloss": "aðra"
     },
     {
-      "surface": "יומם",
+      "surface": "יוֹמָ֣ם",
       "gloss": "degi"
     },
     {
-      "surface": "ולילה",
+      "surface": "וָלַ֔יְלָה",
       "gloss": "og nóttu"
     },
     {
-      "surface": "אשר",
-      "gloss": "því að"
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "þar sem"
     },
     {
-      "surface": "לא",
+      "surface": "לֹֽא",
       "gloss": "ekki"
     },
     {
-      "surface": "אתן",
-      "gloss": "mun ég veita"
+      "surface": "אֶתֵּ֥ן",
+      "gloss": "ég veit"
     },
     {
-      "surface": "לכם",
+      "surface": "לָכֶ֖ם",
       "gloss": "yður"
     },
     {
-      "surface": "חנינה",
+      "surface": "חֲנִינָֽה",
       "gloss": "miskunn"
     }
   ],
-  "timestamp": "2026-10-19T10:28:29.239626063Z",
+  "timestamp": "2026-10-19T14:48:35.995259465Z",
   "model": "glm-5.3"
 }

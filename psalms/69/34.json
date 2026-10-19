@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 69,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "hebreska frásögnin 'heyrir til' — אל merkt ekki sérstaklega á íslensku"
-    },
-    {
-      "kind": "addition",
-      "subject": "hann",
-      "rationale": "íslenska krefst frumlags í aukasetningunni, hebreskan sleppir því"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אביונים\/אסיריו",
-      "rationale": "samtvíð róf hinna fátæku og fanganna sem Jahve heyrir og fyrirlætur ekki"
-    }
-  ],
-  "translation": "Því að Jahve heyrir ⟨את⟩ fátæku, og ⟨את⟩ fanga sína hefur hann ekki fyrirlætt.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "c7591eedcccf95d2f6efc95b4cc45d9a9f45c97dd8aa782dae70ee7b4fd501bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/34-35.1792416934765.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að Jahve heyrir fátæka, og ⟨את⟩ fanga sína hefur hann ekki fyrir litinn.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Því að"
+      "gloss": "því að"
     },
     {
       "surface": "שמע",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "til"
     },
     {
       "surface": "אביונים",
-      "gloss": "fátæku"
+      "gloss": "fátæka"
     },
     {
       "surface": "יהוה",
@@ -68,9 +42,9 @@
     },
     {
       "surface": "בזה",
-      "gloss": "fyrirlætt"
+      "gloss": "hefur fyrir litinn"
     }
   ],
-  "timestamp": "2026-10-19T13:35:34.765521178Z",
+  "timestamp": "2026-10-19T14:57:48.341579058Z",
   "model": "glm-5.3"
 }

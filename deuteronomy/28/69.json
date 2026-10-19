@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "כרת ברית er myndun sáttmáls við að skera (dýr í tvennt); íslenskan sefst á 'skera sáttmál', myndin helst."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "אִתָּם stendur fyrir 'með þeim' og er bætt við sem ⟨með þeim⟩."
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Versinn telur og staðsetur sáttmálana — Móab og Kjóreb — og markar upphaf nýrrar málgreinar (hebr. 28:69 = ensk 29:1)."
-    }
-  ],
-  "translation": "Þetta eru orð sáttmálans sem Jahve bauð Mósje að skera við ⟨את⟩ Ísraelsmenn í landi Móab, að utan sáttmálann sem hann skar ⟨את⟩ ⟨með þeim⟩ í Kjóreb.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "9626b37cd429e5a89173d2f4a5c508cf86c29c941cb65c5ab24ffc614df56edf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/69-69.1792398334286.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þetta eru orð sáttmálans sem Jahve bauð Mósje að highganga ⟨את⟩ Ísraelsmenn í landi Móab, auk sáttmálans sem hann highgék ⟨את⟩ við þá á Hóreb.",
   "tokens": [
     {
       "surface": "אלה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "eru orð"
+      "gloss": "orð"
     },
     {
       "surface": "הברית",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "לכרת",
-      "gloss": "að skera"
+      "gloss": "að highganga"
     },
     {
       "surface": "את",
@@ -77,11 +51,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "menn (synir)"
+      "gloss": "synir"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels-"
+      "gloss": "Ísraels"
     },
     {
       "surface": "בארץ",
@@ -93,11 +67,11 @@
     },
     {
       "surface": "מלבד",
-      "gloss": "að utan"
+      "gloss": "auk"
     },
     {
       "surface": "הברית",
-      "gloss": "sáttmálann"
+      "gloss": "sáttmálans"
     },
     {
       "surface": "אשר",
@@ -105,18 +79,18 @@
     },
     {
       "surface": "כרת",
-      "gloss": "skar"
+      "gloss": "highgék"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "þeir (við þeim)"
+      "gloss": "⟨את⟩ við þá",
+      "marks": "sáttmál svipt Ísrael"
     },
     {
       "surface": "בחרב",
-      "gloss": "í Kjóreb"
+      "gloss": "á Hóreb"
     }
   ],
-  "timestamp": "2026-10-19T08:25:34.287220568Z",
+  "timestamp": "2026-10-19T14:58:52.298373664Z",
   "model": "glm-5.3"
 }

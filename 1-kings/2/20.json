@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שאלה\/שאלת\/שאלי",
-      "rationale": "orðaleikur: beiðni — beið — beið þú; rótin ש׳אל kemur þrisvar sinnum"
-    },
-    {
-      "kind": "idiom",
-      "subject": "את פניך",
-      "rationale": "„vísa andliti frá“ — myndmál fyrir að synja; endurtekið úr v. 17"
-    },
-    {
-      "kind": "you",
-      "subject": "to Sjelómo",
-      "rationale": "Bat-Sjeva talar beint til konungs"
-    }
-  ],
-  "translation": "Og hún sagði: Eina lítla beiðni beið ég af ⟨את⟩ þér; vísa ekki andliti mínu frá ⟨sér⟩. Og konungurinn sagði við hana: Beið, móðir mín, því að ekki mun ég vísa andliti þínu frá ⟨sér⟩.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "ded455c78e4c92c6b017b88a81b758facc2c54ecd5c15b1c65abbccbfdcd7aa2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/2\/17-20.1792401991387.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hún sagði: Eina lítla bón ég bið ⟨את⟩ þig um, snú eigi ⟨את⟩ andliti mínu. Og konungurinn sagði við hana: Biðj, móðir mín, því að ég snúi ekki ⟨את⟩ andliti þínu.",
   "tokens": [
     {
       "surface": "ותאמר",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "שאלה",
-      "gloss": "beiðni"
+      "gloss": "bón"
     },
     {
       "surface": "אחת",
@@ -55,19 +29,19 @@
     },
     {
       "surface": "שאלת",
-      "gloss": "beið"
+      "gloss": "bið"
     },
     {
       "surface": "מאתך",
-      "gloss": "af ⟨את⟩ þér"
+      "gloss": "⟨את⟩ þig um"
     },
     {
       "surface": "אל",
-      "gloss": "ekki"
+      "gloss": "eigi"
     },
     {
       "surface": "תשב",
-      "gloss": "vísa"
+      "gloss": "snú"
     },
     {
       "surface": "את",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "שאלי",
-      "gloss": "Beið"
+      "gloss": "Biðj"
     },
     {
       "surface": "אמי",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "אשיב",
-      "gloss": "mun ég vísa"
+      "gloss": "snúi"
     },
     {
       "surface": "את",
@@ -120,6 +94,6 @@
       "gloss": "andliti þínu"
     }
   ],
-  "timestamp": "2026-10-19T09:26:31.389219383Z",
+  "timestamp": "2026-10-19T14:32:07.717669965Z",
   "model": "glm-5.3"
 }

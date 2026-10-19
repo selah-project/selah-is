@@ -5,45 +5,24 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חלק",
-      "rationale": "orðrættin er 'var sléttur \/ klóf' — hér 'klauf af', sumir þýða 'tók hluta af'"
-    },
-    {
-      "kind": "addition",
-      "subject": "það",
-      "rationale": "íslenskan þarf viðfang í seinni setningunni, hebreskan bendir aðeins á með לו"
-    }
-  ],
-  "translation": "Af því að Akhas klauf af húsi Jahve og ⟨את⟩ húsi konungsins og höfðingjanna, og gaf Assýríukonungi — en það var honum ekki til hjálpar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "031377ad0499ba6ff6041194d59a2a85601f74ce06e035188c44fcec9cc68d0a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/28\/21-24.1792415826120.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að Akhaz tók hluta úr húsi Jahve og ⟨את⟩ húsi konungsins og höfðingjanna, og gaf konungi Assýríveldis — en það hjálpaði honum ekki.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "af því að"
+      "gloss": "Því að"
     },
     {
       "surface": "חלק",
-      "gloss": "klauf af"
+      "gloss": "tók hluta úr"
     },
     {
       "surface": "אחז",
-      "gloss": "Akhas"
+      "gloss": "Akhaz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "húsi Jahve"
+      "marks": "húsi"
     },
     {
       "surface": "בית",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "húsi konungsins"
     },
     {
@@ -80,7 +59,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Assýríu"
+      "gloss": "Assýríveldis"
     },
     {
       "surface": "ולא",
@@ -88,13 +67,13 @@
     },
     {
       "surface": "לעזרה",
-      "gloss": "til hjálpar"
+      "gloss": "hjálpaði"
     },
     {
       "surface": "לו",
       "gloss": "honum"
     }
   ],
-  "timestamp": "2026-10-19T13:17:06.121364319Z",
+  "timestamp": "2026-10-19T14:34:23.502555556Z",
   "model": "glm-5.3"
 }

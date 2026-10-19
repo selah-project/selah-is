@@ -5,38 +5,7 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska þarf infinitifmerki og orðatiltæki sem hebreskan heldur í einu sagnlið (יערך) — smáatkvæði bætt við."
-    },
-    {
-      "kind": "crux",
-      "subject": "מאת",
-      "rationale": "Hér er מֵאֵת (H854, 'frá') en ekki bendimörk orðsins — sumar þýðingar lesa 'fyrir hönd sona Ísraels', aðrar 'frá sonum Ísraels' (skylduskylda ljósanna)."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tímatökn",
-      "rationale": "Versið mætir þjónustuna: frá kvöldi til morguns, kynslóð um kynslóð — lögboð um alllangan tíma."
-    },
-    {
-      "kind": "hapax-adjacent",
-      "subject": "עולם",
-      "rationale": "עולם merkir bókstaflega 'forskjált' eða það sem horfnar úr sjón — hið vanishing-point; 'alllangur tíma' heldur myndinni án þess að gefa tímaendi."
-    }
-  ],
-  "translation": "Í tjaldi samfundarins, utan fyrir fortjaldið sem er yfir vitnisburðinum, skal Aharon og synir hans raða honum frá kvöldi til morguns frammi fyrir Jahve — lögboð um alllangan tíma kynslóða þeirra, frá ⟨את⟩ sonum Ísraels.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "f30aaa4d88b14b1e8fc58500f0de710ee7274dcb5ef135ef2b1596f4f231e82b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/27\/21-21.1792394784804.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Í samfundar-tjaldinu, fyrir utan forhangið, sem er yfir vitnisburðinum, skal Aharon og synir hans raða ⟨את⟩ því, frá kveldi til morguns, fyrir ásjá Jahve — eilíf ákvörðun fyrir kynslóðir þeirra, frá ⟨את⟩ sonum Ísraels.",
   "tokens": [
     {
       "surface": "באהל",
@@ -48,11 +17,11 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "utan fyrir"
+      "gloss": "fyrir utan"
     },
     {
       "surface": "לפרכת",
-      "gloss": "fortjaldið"
+      "gloss": "forhanginu"
     },
     {
       "surface": "אשר",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "על",
-      "gloss": "er yfir"
+      "gloss": "yfir"
     },
     {
       "surface": "העדת",
@@ -73,7 +42,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "honum (ljósið)"
+      "marks": "því (ljósið)"
     },
     {
       "surface": "אהרן",
@@ -85,7 +54,7 @@
     },
     {
       "surface": "מערב",
-      "gloss": "frá kvöldi"
+      "gloss": "frá kveldi"
     },
     {
       "surface": "עד",
@@ -97,7 +66,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "frammi fyrir"
+      "gloss": "fyrir ásjá"
     },
     {
       "surface": "יהוה",
@@ -105,15 +74,15 @@
     },
     {
       "surface": "חקת",
-      "gloss": "lögboð"
+      "gloss": "ákvörðun"
     },
     {
       "surface": "עולם",
-      "gloss": "um alllangan tíma"
+      "gloss": "eilíf"
     },
     {
       "surface": "לדרתם",
-      "gloss": "kynslóða þeirra"
+      "gloss": "fyrir kynslóðir þeirra"
     },
     {
       "surface": "מאת",
@@ -128,6 +97,6 @@
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T07:26:24.805509404Z",
+  "timestamp": "2026-10-19T14:41:45.575385404Z",
   "model": "glm-5.3"
 }

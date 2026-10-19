@@ -5,41 +5,15 @@
   "book": "judges",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לרוב",
-      "rationale": "Rótin merkir 'að glíma\/æsa ríf' — 'æsa mál' eða 'keppast'; suma þýðingu lesa 'til að kvarta'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ending 21:22b",
-      "rationale": "'því að þér gáfuð þeim ekki... svo að þér yrðuð sekir' — margar lesningar: 'annars yrðuð þér nú sekir' (ASV) eða 'þér eruð ekki sekir' (BSB)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חנונו אותם",
-      "rationale": "Orðleikur: 'sýnið þeim nánd' (khen) er leynileg tilvísun í khen sem gefur sig — þó ekki leikið í íslensku"
-    }
-  ],
-  "translation": "Og þá er feður þeirra eða bræður þeirra koma til okkar til að æsa mál, munum vér segja við þá: Sýnið þeim náð fyrir okkar sakir, því að vér tókum ekki hver sinn eiginkonu í stríðinu — þér gáfuð þeim ekki á þeim tíma, svo að þér yrðuð sekir.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "e568ec361d3caf590b52944048fe7697c63b18220fe87bf65668a079f421c0c2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/21\/21-24.1792400153441.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og það mun verða, þegar feður þeirra eða bræður þeirra koma til okkar að æsa deilur, munum vér segja við þá: Sýnið oss náð með ⟨את⟩ þeim, því að ekki tókum vér hvern manni konu hans í ófriði; því að ekki þér gáfuð þeim ⟨þeim⟩ — nú um þessa stund mynduð þér orðið sekir.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Og þá er"
+      "gloss": "Og það mun verða"
     },
     {
       "surface": "כי",
-      "gloss": "að"
+      "gloss": "þegar"
     },
     {
       "surface": "יבאו",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לרוב",
-      "gloss": "til að æsa mál"
+      "gloss": "að æsa deilur"
     },
     {
       "surface": "אלינו",
@@ -67,20 +41,20 @@
     },
     {
       "surface": "ואמרנו",
-      "gloss": "munum vér segja við"
+      "gloss": "munum vér segja"
     },
     {
       "surface": "אליהם",
-      "gloss": "þá"
+      "gloss": "við þá"
     },
     {
       "surface": "חנונו",
-      "gloss": "sýnið þeim nánd"
+      "gloss": "Sýnið oss náð"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "þá"
+      "marks": "þeim (konurnar sem gripnar voru)"
     },
     {
       "surface": "כי",
@@ -92,23 +66,23 @@
     },
     {
       "surface": "לקחנו",
-      "gloss": "tóum vér"
+      "gloss": "tókum vér"
     },
     {
       "surface": "איש",
-      "gloss": "hver"
+      "gloss": "hvern mann"
     },
     {
       "surface": "אשתו",
-      "gloss": "sinn eiginkonu"
+      "gloss": "konu hans"
     },
     {
       "surface": "במלחמה",
-      "gloss": "í stríðinu"
+      "gloss": "í ófriði"
     },
     {
       "surface": "כי",
-      "gloss": "því"
+      "gloss": "því að"
     },
     {
       "surface": "לא",
@@ -128,13 +102,13 @@
     },
     {
       "surface": "כעת",
-      "gloss": "á þeim tíma"
+      "gloss": "nú um þessa stund"
     },
     {
       "surface": "תאשמו",
-      "gloss": "yrðuð þér sekir"
+      "gloss": "mynduð þér orðið sekir"
     }
   ],
-  "timestamp": "2026-10-19T08:55:53.442313163Z",
+  "timestamp": "2026-10-19T14:53:02.321723465Z",
   "model": "glm-5.3"
 }

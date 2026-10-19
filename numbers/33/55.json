@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "þyrnar í augum",
-      "rationale": "לשכים בעיניכם — myndlíking: þyrnar\/broddar í augum og hliðum, varðveitt bókstaflega."
-    },
-    {
-      "kind": "you",
-      "subject": "Ísrael",
-      "rationale": "Aðvörun beint til Ísraels um afleiðingar þess að rýða ekki út íbúana."
-    }
-  ],
-  "translation": "En ef þér rýðið ekki út ⟨את⟩ íbúa landsins frá yður, þá munu þeir sem þér látið eftir af þeim verða þyrnar í augum ykkar og broddar í hliðum ykkar, og þeir munu þræta yður á því landi er þér byggjið.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "271d51b1c5efc2127a38b76c7f0b3edbb651f21fa81fb0fa4bab7239afca6321",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/33\/53-56.1792397485402.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En ef þið rýðið ekki ⟨את⟩ íbúa landsins frá ykkar augum, og skal það sem þið látið eftir af þeim verða broddar í augum ykkar og þyrnar í hliðum ykkar, og þeir skulu þrengja ⟨את⟩ ykkur á landinu sem þið búið á.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "en ef"
+      "gloss": "En ef"
     },
     {
       "surface": "לא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "תורישו",
-      "gloss": "rýðið út"
+      "gloss": "þið rýðið"
     },
     {
       "surface": "את",
@@ -55,19 +34,19 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "frá yður"
+      "gloss": "frá ykkar augum"
     },
     {
       "surface": "והיה",
-      "gloss": "þá mun"
+      "gloss": "og skal"
     },
     {
       "surface": "אשר",
-      "gloss": "þeir sem"
+      "gloss": "sem"
     },
     {
       "surface": "תותירו",
-      "gloss": "látið eftir"
+      "gloss": "þið látið eftir"
     },
     {
       "surface": "מהם",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "לשכים",
-      "gloss": "þyrnar"
+      "gloss": "verða broddar"
     },
     {
       "surface": "בעיניכם",
       "gloss": "í augum ykkar"
     },
     {
-      "surface": "ולצנינם",
-      "gloss": "og broddar"
+      "surface": "ולצנינים",
+      "gloss": "og þyrnar"
     },
     {
       "surface": "בצדיכם",
@@ -91,11 +70,12 @@
     },
     {
       "surface": "וצררו",
-      "gloss": "munu þeir þræta"
+      "gloss": "og þeir skulu þrengja"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
     },
     {
       "surface": "על",
@@ -103,25 +83,25 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "landi"
+      "gloss": "landinu"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "אתם",
-      "gloss": "þér"
+      "gloss": "þið"
     },
     {
       "surface": "ישבים",
-      "gloss": "byggjið"
+      "gloss": "búið"
     },
     {
       "surface": "בה",
-      "gloss": "því"
+      "gloss": "á"
     }
   ],
-  "timestamp": "2026-10-19T08:11:25.404519744Z",
+  "timestamp": "2026-10-19T14:56:51.931343243Z",
   "model": "glm-5.3"
 }

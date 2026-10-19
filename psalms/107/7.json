@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "וידריכם er 'lét þá troða' (דרך = troða) — 'lét ganga' varðar merkingu en ekki fótmyndina."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'til þess' bætt við fyrir ópersónulega notkun asíndarinnar ללכת."
-    }
-  ],
-  "translation": "Og hann lét ⟨את⟩ þá ganga á beinni leið, til þess að fara til borgar dvalar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/5-8.1792410657357.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann lét ⟨þá⟩ taka upp rétta leið, að ganga til borgar ⟨sem⟩ byggð er að nafni.",
   "tokens": [
     {
       "surface": "וידריכם",
-      "gloss": "Og hann lét ⟨את⟩ þá ganga"
+      "gloss": "lét þá ganga (leiða með fótum)"
     },
     {
       "surface": "בדרך",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ישרה",
-      "gloss": "beinni"
+      "gloss": "beina"
     },
     {
       "surface": "ללכת",
-      "gloss": "til þess að fara"
+      "gloss": "að ganga"
     },
     {
       "surface": "אל",
@@ -54,9 +33,9 @@
     },
     {
       "surface": "מושב",
-      "gloss": "dvalar"
+      "gloss": "byggð (seti\/bústað)"
     }
   ],
-  "timestamp": "2026-10-19T11:50:57.358275702Z",
+  "timestamp": "2026-10-19T14:57:23.548275882Z",
   "model": "glm-5.3"
 }

@@ -5,64 +5,43 @@
   "book": "ecclesiastes",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ברבות\/רבו",
-      "rationale": "sama rót רבה tvisvar — 'þegar fjölga ... fjölga' — samhljóða hróp varðveitt"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'hefur' bætt við — hebreska hefur enga sagn fyrir לבעליה"
-    }
-  ],
-  "translation": "Þegar gæturnar fjölga, fjölga þeir sem eta þær; og hvaða gagn hefur eigandinn nema að sjá þær með augum sínum?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/5\/9-12.1792413068554.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þegar gæðin fjölga, fjölgar þeim sem éta ⟨þau⟩; og hvat ysgrifn... og hverju nýtir yfirburður eigandanum þeirra, nema að sjá ⟨þau⟩ með augum hans?",
   "tokens": [
     {
       "surface": "ברבות",
-      "gloss": "þegar fjölga"
+      "gloss": "þegar ... fjölga"
     },
     {
       "surface": "הטובה",
-      "gloss": "gæturnar"
+      "gloss": "gæðin"
     },
     {
       "surface": "רבו",
-      "gloss": "fjölgast"
+      "gloss": "fjölgar"
     },
     {
       "surface": "אוכליה",
-      "gloss": "þeir sem eta þær"
+      "gloss": "þeim sem éta hana"
     },
     {
       "surface": "ומה",
-      "gloss": "og hvaða"
+      "gloss": "og hverju"
     },
     {
       "surface": "כשרון",
-      "gloss": "gagn"
+      "gloss": "yfirburður"
     },
     {
       "surface": "לבעליה",
-      "gloss": "hefur eigandinn"
+      "gloss": "eigandanum þeirra"
     },
     {
       "surface": "כי",
-      "gloss": "nema"
+      "gloss": "⟨nema⟩"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "nema"
     },
     {
       "surface": "ראית",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "עיניו",
-      "gloss": "með augum sínum"
+      "gloss": "með augum hans"
     }
   ],
-  "timestamp": "2026-10-19T12:31:08.554808800Z",
+  "timestamp": "2026-10-19T14:39:51.800472420Z",
   "model": "glm-5.3"
 }

@@ -5,62 +5,36 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "talið",
-      "rationale": "Versinn er um tölu — talning ryks og sáðkyns"
-    },
-    {
-      "kind": "addition",
-      "subject": "mun",
-      "rationale": "Hebreska notar einfaldan framtíðarform; íslenska krefst hjáspurnar"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זרע\/עפר",
-      "rationale": "Endurtekning sáðkyns og ryks myndar speglun milli lína"
-    }
-  ],
-  "translation": "Og ég mun setja ⟨את⟩ sáðkyn þitt eins og rykið á jörðinni; ef nokkur maður getur talið rykið á jörðinni, þá getur einnig sáðkyn þitt verið talið.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/13\/13-16.1792392783593.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég mun gjöra ⟨את⟩ sáði þitt sem ryk jarðarinnar — aðeins ef maður getur talið ⟨את⟩ ryk jarðarinnar, þá mun einnig sáði þitt teljast.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "Og ég mun setja"
+      "gloss": "Og ég mun gjöra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sáðkyn þitt"
+      "marks": "sáði þitt"
     },
     {
       "surface": "זרעך",
-      "gloss": "sáðkyn þitt"
+      "gloss": "sáði þitt"
     },
     {
       "surface": "כעפר",
-      "gloss": "eins og rykið"
+      "gloss": "sem ryk"
     },
     {
       "surface": "הארץ",
-      "gloss": "á jörðinni"
+      "gloss": "jarðarinnar"
     },
     {
       "surface": "אשר",
-      "gloss": "; ef"
+      "gloss": "—"
     },
     {
       "surface": "אם",
-      "gloss": "ef"
+      "gloss": "aðeins ef"
     },
     {
       "surface": "יוכל",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "nokkur maður"
+      "gloss": "maður"
     },
     {
       "surface": "למנות",
@@ -77,15 +51,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rykið"
+      "marks": "ryk jarðarinnar"
     },
     {
       "surface": "עפר",
-      "gloss": "rykið"
+      "gloss": "ryk"
     },
     {
       "surface": "הארץ",
-      "gloss": "á jörðinni"
+      "gloss": "jarðarinnar"
     },
     {
       "surface": "גם",
@@ -93,13 +67,13 @@
     },
     {
       "surface": "זרעך",
-      "gloss": "sáðkyn þitt"
+      "gloss": "sáði þitt"
     },
     {
       "surface": "ימנה",
-      "gloss": "getur verið talið"
+      "gloss": "teljast"
     }
   ],
-  "timestamp": "2026-10-19T06:53:03.595018336Z",
+  "timestamp": "2026-10-19T14:45:01.580345338Z",
   "model": "glm-5.3"
 }

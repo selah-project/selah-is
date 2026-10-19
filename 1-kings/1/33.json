@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "אשר לי er gefið með samtengingu 'sem er mitt' — hebreskan er styttri"
-    },
-    {
-      "kind": "you",
-      "subject": "to the servants",
-      "rationale": "Konungurinn beinir boðum sínum til þjóna sinna með boðshætti"
-    }
-  ],
-  "translation": "Og konungurinn sagði við þá: Takið með yður ⟨את⟩ þjóna herra yðar, og setjið Sjelómó, son minn, á múldýrið mitt, og leiðið ⟨את⟩ hann niður að Gíkhon.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/33-36.1792401903739.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og konungurinn sagði við þá: Takið með yður ⟨את⟩ þjóna herra yðar, og setjið Sjelómó son minn á múldýrið ⟨sem⟩ er mitt, og færið hann niður ⟨את⟩ að Gíkjon.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -68,7 +47,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sjelómó"
+      "marks": "Sjelómó son minn"
     },
     {
       "surface": "שלמה",
@@ -88,7 +67,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "לי",
@@ -96,11 +75,11 @@
     },
     {
       "surface": "והורדתם",
-      "gloss": "og leiðið niður"
+      "gloss": "og færið niður"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ hann"
     },
     {
       "surface": "אל",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "גחון",
-      "gloss": "Gíkhon"
+      "gloss": "Gíkjon"
     }
   ],
-  "timestamp": "2026-10-19T09:25:03.740692475Z",
+  "timestamp": "2026-10-19T14:31:30.053943008Z",
   "model": "glm-5.3"
 }

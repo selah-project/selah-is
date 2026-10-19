@@ -5,46 +5,20 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "תועבות ritað sem 'óhreinar hjátrúnaðaratófinar' — orðið þekkir bæði óhreinindi og skörun, ekki eitt íslenskt orð sem náði bæði"
-    },
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "מאחרי 'frá á eftir' — hebreskt myndefni um fylgjandi þjónustu, íslenska notar 'víxla sér frá á eftir'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "ויסר og סרו — sömu rót סור ('víkja burt') í upphafi og enda verss, rammaþáttur sem glatast á íslensku"
-    }
-  ],
-  "translation": "Og Jósía tók burt allar óhreinu hjátrúnaðaratófinar úr öllum löndunum sem Ísraelsmenn áttu, og lét alla þá sem fundust í Ísrael þjóna Jahve, Elóhím sínum; alla daga hans víxluðu þeir sér ekki frá á eftir Jahve, Elóhím feðra þeirra.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "860fba11f383ebb4fb3a8fe686de35eebedce9e7c695f125de27ff65193f4101",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/34\/33-33.1792416108362.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Joasjía tók burt allar óhreinleikana úr öllum löndunum sem tilheyrðu sonum Ísraels, og lét alla ⟨sem⟩ fundust í Ísrael þjóna ⟨את⟩ Jahve Elóhím þeirra; alla daga hans órættu þeir ekki frá eftir Jahve, Elóhím feðra þeirra.",
   "tokens": [
     {
       "surface": "ויסר",
-      "gloss": "tók burt"
+      "gloss": "Og tók burt"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Jósía"
+      "gloss": "Joasjía"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "allar óhreinu hjátrúnaðaratófinar"
+      "marks": "allar óhreinleikana"
     },
     {
       "surface": "כל",
@@ -52,7 +26,7 @@
     },
     {
       "surface": "התועבות",
-      "gloss": "óhreinu hjátrúnaðaratófinar"
+      "gloss": "óhreinleikana"
     },
     {
       "surface": "מכל",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "לבני",
-      "gloss": "Ísraelsmenn áttu"
+      "gloss": "tilheyrðu sonum"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísrael"
+      "gloss": "Ísraels"
     },
     {
       "surface": "ויעבד",
@@ -81,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alla þá sem fundust í Ísrael"
+      "marks": "allir ⟨sem⟩ fundust í Ísrael"
     },
     {
       "surface": "כל",
@@ -89,7 +63,7 @@
     },
     {
       "surface": "הנמצא",
-      "gloss": "þá sem fundust"
+      "gloss": "⟨sem⟩ fundust"
     },
     {
       "surface": "בישראל",
@@ -97,12 +71,12 @@
     },
     {
       "surface": "לעבוד",
-      "gloss": "þjóna"
+      "gloss": "að þjóna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve, Elóhím sínum"
+      "marks": "Jahve Elóhím þeirra"
     },
     {
       "surface": "יהוה",
@@ -110,7 +84,7 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "Elóhím sínum"
+      "gloss": "Elóhím þeirra"
     },
     {
       "surface": "כל",
@@ -126,11 +100,11 @@
     },
     {
       "surface": "סרו",
-      "gloss": "víxluðu þeir sér frá"
+      "gloss": "órættu þeir"
     },
     {
       "surface": "מאחרי",
-      "gloss": "á eftir"
+      "gloss": "frá eftir"
     },
     {
       "surface": "יהוה",
@@ -145,6 +119,6 @@
       "gloss": "feðra þeirra"
     }
   ],
-  "timestamp": "2026-10-19T13:21:48.363196362Z",
+  "timestamp": "2026-10-19T14:34:26.676227732Z",
   "model": "glm-5.3"
 }

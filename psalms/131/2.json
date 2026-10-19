@@ -5,79 +5,53 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 131,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אם לא",
-      "rationale": "spurning 'hef ég ekki…?' notuð sem staðfesting — KJV 'Surely', YLT les spurninguna; ég fylgi staðfestingarlésningu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sál",
-      "rationale": "נפש er önd\/lífskraftur, ekki sál í fordæmiskærum skilning"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כגמל...כגמל",
-      "rationale": "endurtekin líking um vanþektað barnið myndar speglun: búðin hjá móður — búin hjá mér sjálfum"
-    }
-  ],
-  "translation": "Já, ég jafnaði og þaggaði sálu mína, sem vanþektað barn hjá móður sinni; sem vanþektað barn er sálu mín hjá mér.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/131\/1-3.1792410897452.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ef ekki — þá hef ég stillt og þagstað sálu minni, eins og vanið barn hjá móður sinni; eins og vanið barn er sálu mín hjá mér.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Já"
+      "gloss": "ef"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "ekki"
     },
     {
       "surface": "שויתי",
-      "gloss": "jafnaði"
+      "gloss": "hef ég stillt"
     },
     {
       "surface": "ודוממתי",
-      "gloss": "og þaggaði"
+      "gloss": "og þagstað"
     },
     {
       "surface": "נפשי",
-      "gloss": "sálu mína"
+      "gloss": "sálu minni"
     },
     {
       "surface": "כגמל",
-      "gloss": "sem vanþektað barn"
+      "gloss": "eins og vanið barn"
     },
     {
       "surface": "עלי",
-      "gloss": "hjá"
+      "gloss": "hjá móður sinni"
     },
     {
       "surface": "אמו",
-      "gloss": "móður sinni"
+      "gloss": "hjá móður sinni"
     },
     {
       "surface": "כגמל",
-      "gloss": "sem vanþektað barn"
+      "gloss": "eins og vanið barn"
     },
     {
       "surface": "עלי",
-      "gloss": "hjá"
+      "gloss": "hjá mér"
     },
     {
       "surface": "נפשי",
       "gloss": "sálu mín"
     }
   ],
-  "timestamp": "2026-10-19T11:54:57.453713717Z",
+  "timestamp": "2026-10-19T14:57:18.072595359Z",
   "model": "glm-5.3"
 }

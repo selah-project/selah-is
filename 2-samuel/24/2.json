@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ופקדו",
-      "rationale": "paqad: 'telja\/skrá' eða 'heimsækja (í refsingu)' — sama sögn og um refsingu Jahve síðar í kaflanum."
-    },
-    {
-      "kind": "you",
-      "subject": "konungurinn til Jóab",
-      "rationale": "beint skipunarviðtal."
-    },
-    {
-      "kind": "measurement",
-      "subject": "manntalið",
-      "rationale": "frá Dan til Beer-Sjeva — allt landið mælt með manntali."
-    }
-  ],
-  "translation": "Og konungurinn sagði við Jóab, höfðingja hersins sem var hjá honum: Farðu nú í gegnum alla ættkvísl Ísraels, frá Dan og allt til Beer-Sjeva, og skráið þjóðina, og þá skal ég vita fjölda þjóðarinnar.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/24\/1-4.1792401843600.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og konungurinn sagði við Jóab, höfðingja hersins sem með honum var: Farðu nú ⟨את⟩ um öll kynþættir Ísraels, frá Dan og til Beer-Sjeva, og talið ⟨את⟩ fólkið, að ég megi vita ⟨את⟩ tölu fólksins.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sagði"
+      "gloss": "Og sagði"
     },
     {
       "surface": "המלך",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "hjá ⟨את⟩ honum"
+      "gloss": "með ⟨את⟩"
     },
     {
       "surface": "שוט",
-      "gloss": "farðu í gegn"
+      "gloss": "Farðu um"
     },
     {
       "surface": "נא",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "alla"
+      "gloss": "öll"
     },
     {
       "surface": "שבטי",
-      "gloss": "ættkvísl"
+      "gloss": "kynþættir"
     },
     {
       "surface": "ישראל",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "og allt til"
+      "gloss": "og til"
     },
     {
       "surface": "באר",
@@ -103,35 +77,35 @@
     },
     {
       "surface": "ופקדו",
-      "gloss": "skráið"
+      "gloss": "og talið"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þjóðina"
+      "marks": "fólkið"
     },
     {
       "surface": "העם",
-      "gloss": "þjóðina"
+      "gloss": "fólkið"
     },
     {
       "surface": "וידעתי",
-      "gloss": "skal ég vita"
+      "gloss": "að ég megi vita"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fjöldann"
+      "marks": "tölu fólksins"
     },
     {
       "surface": "מספר",
-      "gloss": "fjölda"
+      "gloss": "tölu"
     },
     {
       "surface": "העם",
-      "gloss": "þjóðarinnar"
+      "gloss": "fólksins"
     }
   ],
-  "timestamp": "2026-10-19T09:24:03.601466945Z",
+  "timestamp": "2026-10-19T14:37:12.974668812Z",
   "model": "glm-5.3"
 }

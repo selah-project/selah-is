@@ -5,67 +5,41 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "rúakh",
-      "rationale": "rúakh hér 'vindur' — orðið heldur hljóði sínu samkvæmt reglu D2, engin tvö orð"
-    },
-    {
-      "kind": "crux",
-      "subject": "על פני רוח",
-      "rationale": "'andlit rúakhs' (fyrir andblæst) eða 'fyrir vind' — myndin er sú sama: rykið sem vindurinn blæs burt"
-    },
-    {
-      "kind": "elision",
-      "subject": "כטיט",
-      "rationale": "'sem' stendur eitt; 'leir' er tautologi myndarinnar úr חוצות — klessað saman í 'götuleir'"
-    }
-  ],
-  "translation": "Ég mulda þá sem ryk andliti rúakhs, sem götuleir tæmi ég ⟨את⟩ þá út.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/41-44.1792409420409.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég muldi þá niður eins og ryk á yfirborði vinds, eins og leir götunnar tæmi ég ⟨את⟩ þá út.",
   "tokens": [
     {
       "surface": "ואשחקם",
-      "gloss": "Ég mulda þá"
+      "gloss": "og ég muldi þá niður"
     },
     {
       "surface": "כעפר",
-      "gloss": "sem ryk"
+      "gloss": "eins og ryk"
     },
     {
       "surface": "על",
-      "gloss": "andliti"
+      "gloss": "á"
     },
     {
       "surface": "פני",
-      "gloss": "andliti"
+      "gloss": "yfirborði"
     },
     {
       "surface": "רוח",
-      "gloss": "rúakhs"
+      "gloss": "vinds"
     },
     {
       "surface": "כטיט",
-      "gloss": "sem"
+      "gloss": "eins og leir"
     },
     {
       "surface": "חוצות",
-      "gloss": "götuleir"
+      "gloss": "götunnar"
     },
     {
       "surface": "אריקם",
       "gloss": "tæmi ég ⟨את⟩ þá út"
     }
   ],
-  "timestamp": "2026-10-19T11:30:20.410352524Z",
+  "timestamp": "2026-10-19T14:57:32.655565521Z",
   "model": "glm-5.3"
 }

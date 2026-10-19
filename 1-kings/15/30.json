@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "hebraiska",
-      "rationale": "þrífold rótarleikur: חטא\/החטיא og כעס\/הכעיס — sömu rætur endurtaknar í orðmyndum, glatað að hluta í íslensku"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'til reiði' bætt við — hebreskan segir aðeins 'egnda' (הכעיס), en sagnin inniheldur reiðina"
-    }
-  ],
-  "translation": "Vegna synda Jaróveams, þeirra er hann syndgaði og þeirra er hann lét Ísrael syndga, í því að hann egnda Jahve, Elóhím Ísraels, ⟨את⟩ til reiði.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "af75ddac257919acf2995c6294cf714d52f54733920620d819af96331caa0b64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/15\/29-32.1792402516953.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fyrir syndir Jaróveams, þær er hann syndgaði og þær er hann lét ⟨את⟩ Ísrael syndga, með æsingi sínum, þeim er hann æsti ⟨את⟩ Jahve, Elóhím Ísraels, til reiði.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "Vegna"
+      "gloss": "fyrir"
     },
     {
       "surface": "חטאות",
-      "gloss": "synda"
+      "gloss": "syndir"
     },
     {
       "surface": "ירבעם",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "þeirra er"
+      "gloss": "þær er"
     },
     {
       "surface": "חטא",
-      "gloss": "hann syndgaði"
+      "gloss": "syndgaði"
     },
     {
       "surface": "ואשר",
-      "gloss": "og þeirra er"
+      "gloss": "og þær er"
     },
     {
       "surface": "החטיא",
-      "gloss": "hann lét Ísrael syndga"
+      "gloss": "lét syndga"
     },
     {
       "surface": "את",
@@ -67,20 +46,20 @@
     },
     {
       "surface": "בכעסו",
-      "gloss": "í því að hann egnda"
+      "gloss": "með æsingi sínum"
     },
     {
       "surface": "אשר",
-      "gloss": "þeirra er"
+      "gloss": "þeim er"
     },
     {
       "surface": "הכעיס",
-      "gloss": "egnda"
+      "gloss": "æsti til reiði"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve, Elóhím Ísraels"
+      "marks": "Jahve"
     },
     {
       "surface": "יהוה",
@@ -95,6 +74,6 @@
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T09:35:16.954308323Z",
+  "timestamp": "2026-10-19T14:32:07.506575563Z",
   "model": "glm-5.3"
 }

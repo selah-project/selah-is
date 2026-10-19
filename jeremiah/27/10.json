@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "samhengisorð sem hebreskan sleppir, bætt við í ⟨…⟩"
-    },
-    {
-      "kind": "alternative",
-      "subject": "is",
-      "rationale": "הרחיק getur verið framsögn þeirra eða tilgangur Jahve — 'til þess að ég færi ykkur burt'"
-    }
-  ],
-  "translation": "Því að lýgum ⟨er⟩ það sem þeir spá ykkur, til þess að færa ykkur langt burt frá jörð ykkar; og ég mun rekja ykkur burt, og þið munuð farast.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "9d02d0dbadfe838e40d56a5cb38f1ffac1360935d64a8fba51c555d52e925823",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/27\/9-12.1792405965415.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að lygi er það sem þeir spá ykkur, til þess að færa ⟨את⟩ ykkur burt frá landi ykkar, og ég mun hrakast ⟨את⟩ ykkur burt og þér munuð týnast.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "שקר",
-      "gloss": "lygum"
+      "gloss": "lygi"
     },
     {
       "surface": "הם",
@@ -54,33 +33,35 @@
     },
     {
       "surface": "הרחיק",
-      "gloss": "færa langt burt"
+      "gloss": "færa burt frá"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "מעל",
-      "gloss": "burt frá"
+      "gloss": "frá"
     },
     {
       "surface": "אדמתכם",
-      "gloss": "jörð ykkar"
+      "gloss": "landi ykkar"
     },
     {
       "surface": "והדחתי",
-      "gloss": "og ég mun rekja burt"
+      "gloss": "og ég mun hrakast"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "og þið munuð farast"
+      "gloss": "og þér munuð týnast"
     }
   ],
-  "timestamp": "2026-10-19T10:32:45.416988221Z",
+  "timestamp": "2026-10-19T14:49:23.157159560Z",
   "model": "glm-5.3"
 }

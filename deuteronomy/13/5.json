@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "óttast\/þjóna\/fastа",
-      "rationale": "sex infraröð tilskipana í versinu (gang – óttast – gæta – hlusta – þjóna – fasta), endurtekningin er sjálf ræðan"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "áherslufornafnið 'hann' bætt við fyrir ואתו til að varðveita staðgengil frumlagsins"
-    }
-  ],
-  "translation": "Á eftir Jahve Elóhím ykkar skuluð þið ganga, og hann skuluð þið óttast, og ⟨את⟩ boðorð hans skuluð þið gæta, og í rödd hans skuluð þið hlusta, og hann skuluð þið þjóna, og í honum skuluð þið fasta.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/13\/5-8.1792398053009.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Á eftir Jahve, Elóhím yðar, skuluð þið ganga, og ⟨את⟩ hann skuluð þið óttast, og ⟨את⟩ boðorð hans skuluð þið varðveita, og í rödd hans skuluð þið hlýða, og ⟨את⟩ hann skuluð þið þjóna, og við hann skuluð þið halda fast.",
   "tokens": [
     {
       "surface": "אחרי",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elóhím ykkar"
+      "gloss": "Elóhím yðar"
     },
     {
       "surface": "תלכו",
@@ -46,7 +25,8 @@
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ og hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann ( Jahve)"
     },
     {
       "surface": "תיראו",
@@ -63,7 +43,7 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "skuluð þið gæta"
+      "gloss": "skuluð þið varðveita"
     },
     {
       "surface": "ובקלו",
@@ -71,11 +51,12 @@
     },
     {
       "surface": "תשמעו",
-      "gloss": "skuluð þið hlusta"
+      "gloss": "skuluð þið hlýða"
     },
     {
       "surface": "ואתו",
-      "gloss": "⟨את⟩ og hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann ( Jahve)"
     },
     {
       "surface": "תעבדו",
@@ -83,13 +64,13 @@
     },
     {
       "surface": "ובו",
-      "gloss": "og í honum"
+      "gloss": "og við hann"
     },
     {
       "surface": "תדבקון",
-      "gloss": "skuluð þið fasta"
+      "gloss": "skuluð þið halda fast"
     }
   ],
-  "timestamp": "2026-10-19T08:20:53.010023506Z",
+  "timestamp": "2026-10-19T14:38:07.519759328Z",
   "model": "glm-5.3"
 }

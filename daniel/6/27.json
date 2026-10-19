@@ -5,36 +5,15 @@
   "book": "daniel",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מן קדם",
-      "rationale": "Aramíska forsetningatvíeykið 'mín qadam' (fyrir augliti) fellur saman í eitt 'fyrir' á íslensku."
-    },
-    {
-      "kind": "you",
-      "subject": "to öll ríki konungsins",
-      "rationale": "Tilskipunin beinist til allra í ríkinu — lögboðið ávarp."
-    }
-  ],
-  "translation": "Frá mér er sett tilskipun að í öllu ríki mínu skuli skjálfa og óttast El Daniels, því að hann er lifandi El og stöðugur að eilífu, og ríki hans mun ekki tortíma og vald hans varir til enda.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6099bf22f30c54ccaacd3a817ac72037687bf545e03194fd0bf91fb911b0062a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/6\/25-28.1792413680066.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fyrir auglit mitt er sett tilskipun, að í öllu ríki mínu sé skelfingu og ótti fyrir Eláh Dáníels, því að hann er Eláhinn lifandi og ⟨sá⟩ sem stendur fást að eilífu, og ríki hans ⟨er⟩ það sem ekki mun eyðast, og vald hans allt til endans.",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "Frá"
+      "gloss": "fyrir"
     },
     {
       "surface": "קדמי",
-      "gloss": "mér"
+      "gloss": "auglit mitt"
     },
     {
       "surface": "שים",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "להון",
-      "gloss": "skulu"
+      "gloss": "sé"
     },
     {
       "surface": "זאעין",
-      "gloss": "skjálfa"
+      "gloss": "skelfingu"
     },
     {
       "surface": "ודחלין",
-      "gloss": "og óttast"
+      "gloss": "og ótti"
     },
     {
       "surface": "מן",
@@ -78,19 +57,19 @@
     },
     {
       "surface": "קדם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "אלהה",
-      "gloss": "El"
+      "gloss": "Eláh"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "Dáníels"
     },
     {
       "surface": "דניאל",
-      "gloss": "Daniels"
+      "gloss": "Dáníel"
     },
     {
       "surface": "די",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "אלהא",
-      "gloss": "El"
+      "gloss": "Eláhinn"
     },
     {
       "surface": "חיא",
@@ -110,7 +89,7 @@
     },
     {
       "surface": "וקים",
-      "gloss": "og stöðugur"
+      "gloss": "sem stendur fást"
     },
     {
       "surface": "לעלמין",
@@ -122,7 +101,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨er⟩ það sem"
     },
     {
       "surface": "לא",
@@ -130,7 +109,7 @@
     },
     {
       "surface": "תתחבל",
-      "gloss": "tortíma"
+      "gloss": "mun eyðast"
     },
     {
       "surface": "ושלטנה",
@@ -138,13 +117,13 @@
     },
     {
       "surface": "עד",
-      "gloss": "til"
+      "gloss": "allt til"
     },
     {
       "surface": "סופא",
-      "gloss": "enda"
+      "gloss": "endans"
     }
   ],
-  "timestamp": "2026-10-19T12:41:20.068006696Z",
+  "timestamp": "2026-10-19T14:38:13.963538088Z",
   "model": "glm-5.3"
 }

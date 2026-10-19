@@ -5,33 +5,7 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Araméíska tvíeykið תרי עשר merkir ‚tólf‘; glosan færst að fullu á fyrsta orðið."
-    },
-    {
-      "kind": "measurement",
-      "subject": "fórnatalan",
-      "rationale": "Versið telur fórnardýrin og kynkvíslana — tölumælt vers."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kynkvíslir",
-      "rationale": "שבטי er ‚ættkvíslir\/loyal-þjóðflokkar'; ‚kynkvíslir‘ heldur hópmyndinni frekar en ‚línuhreyfing'."
-    }
-  ],
-  "translation": "Og þeir báru fram til vígslu þessa hús Elóa: naut hundrað, hrútar tvo hundruð, lömb fjögur hundruð, og hafurstyrr úr geitum til syndarisóttar fyrir allan Ísrael, tólf, eftir tölu kynkvísla Ísraels.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "390652fcd415b9f860c70f66242fd8778ea921a533c1b5cbc1d44cd70b6baf2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/6\/17-20.1792413857119.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir báru fram við helgun ⟨את⟩ húss Elóa þessa: hundrað naut, tvö hundruð hrútar, fjögur hundruð lömb, og tólf geithafrar til sónar fyrir allt Ísrael, eftir tölu þjóðkynna Ísraels.",
   "tokens": [
     {
       "surface": "והקרבו",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "לחנכת",
-      "gloss": "til vígslu"
+      "gloss": "við helgun"
     },
     {
       "surface": "בית",
-      "gloss": "hús"
+      "gloss": "húss"
     },
     {
       "surface": "אלהא",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "מאתין",
-      "gloss": "tvo hundruð"
+      "gloss": "tvö hundruð"
     },
     {
       "surface": "אמרין",
@@ -83,15 +57,15 @@
     },
     {
       "surface": "וצפירי",
-      "gloss": "og hafurstyrr"
+      "gloss": "og geithafrar"
     },
     {
       "surface": "עזין",
-      "gloss": "úr geitum"
+      "gloss": ""
     },
     {
       "surface": "לחטיא",
-      "gloss": "til syndarisóttar"
+      "gloss": "til sónar"
     },
     {
       "surface": "על",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "allan"
+      "gloss": "allt"
     },
     {
       "surface": "ישראל",
@@ -119,13 +93,13 @@
     },
     {
       "surface": "שבטי",
-      "gloss": "kynkvísla"
+      "gloss": "þjóðkynna"
     },
     {
       "surface": "ישראל",
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T12:44:17.120072063Z",
+  "timestamp": "2026-10-19T14:44:52.476200283Z",
   "model": "glm-5.3"
 }

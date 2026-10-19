@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "האכיל אתם באפי — 'ét þá' er myndrænt um eyðingu; sumir þýða 'freymdi þá'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "endurtekning: ספם\/ספי og מזוזתם\/מזוזתי — spegilmynd nándar og óheilagleika."
-    }
-  ],
-  "translation": "Með því að setja þröskuld sinn ⟨את⟩ við þröskuld minn og dyrastafi sína hjá dyrastöfum mínum, og aðeins veggur milli mín og þeirra, óhelguðu þeir nafn heilagleika míns með ógnarvegum sínum er þeir unnu, og ég ét ⟨את⟩ þá í reiði minni.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "f5b33ade89ac26a5bbf7726d5af91ea0e4f13369b15d6ea4b69666a1a0925b40",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/43\/5-8.1792407886912.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Með því að setja þröskuld sinn við ⟨את⟩ þröskuld minn og dyrastaf sinn nær dyrastaf mínum, og mótsvegg ⟨er⟩ milli mín og þeirra, þá óhreinuðu þeir ⟨את⟩ heilaga nafni mitt með styggleik sínum, þeim er þeir gjörðu, og ég át ⟨את⟩ þá í reiði minni.",
   "tokens": [
     {
       "surface": "בתתם",
@@ -38,7 +17,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ við"
+      "gloss": "⟨את⟩",
+      "marks": "þröskuld minn"
     },
     {
       "surface": "ספי",
@@ -46,19 +26,19 @@
     },
     {
       "surface": "ומזוזתם",
-      "gloss": "og dyrastafi sína"
+      "gloss": "og dyrastaf sinn"
     },
     {
       "surface": "אצל",
-      "gloss": "hjá"
+      "gloss": "nær"
     },
     {
       "surface": "מזוזתי",
-      "gloss": "dyrastöfum mínum"
+      "gloss": "dyrastaf mínum"
     },
     {
       "surface": "והקיר",
-      "gloss": "og veggurinn"
+      "gloss": "og mótsvegg"
     },
     {
       "surface": "ביני",
@@ -70,12 +50,12 @@
     },
     {
       "surface": "וטמאו",
-      "gloss": "óhelguðu þeir"
+      "gloss": "þá óhreinuðu þeir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nafn heilagleika míns"
+      "marks": "heilaga nafni mitt"
     },
     {
       "surface": "שם",
@@ -83,23 +63,23 @@
     },
     {
       "surface": "קדשי",
-      "gloss": "heilagleika míns"
+      "gloss": "heilaga ... mitt"
     },
     {
       "surface": "בתועבותם",
-      "gloss": "með ógnarvegum sínum"
+      "gloss": "með styggleik sínum"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "þeim er"
     },
     {
       "surface": "עשו",
-      "gloss": "þeir unnu"
+      "gloss": "þeir gjörðu"
     },
     {
       "surface": "ואכל",
-      "gloss": "og ég ét"
+      "gloss": "og ég át"
     },
     {
       "surface": "אתם",
@@ -111,6 +91,6 @@
       "gloss": "í reiði minni"
     }
   ],
-  "timestamp": "2026-10-19T11:04:46.913584557Z",
+  "timestamp": "2026-10-19T14:44:28.095178543Z",
   "model": "glm-5.3"
 }

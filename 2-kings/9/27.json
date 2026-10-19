@@ -5,141 +5,115 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "' Þetta' (andlag 'sá') og 'sem er' eru ekki í hebreskunu."
-    },
-    {
-      "kind": "elision",
-      "subject": "את",
-      "rationale": " Síðara את er fornafn með 'hjá' (nálægð), ekki andlagsmerki — varðveitt sem ⟨את⟩."
-    },
-    {
-      "kind": "you",
-      "subject": "to hermenn Jehú",
-      "rationale": ": skipunin 'slíkið einnig honum' beinist til manna Jehú."
-    }
-  ],
-  "translation": "Og Akasía konungur Júda sá ⟨þetta⟩ og flúði um veg garðshússins, og Jehú elti hann og sagði: Slíkið einnig ⟨את⟩ honum, í vagninum — við uppstigninguna að Gúr, ⟨sem er⟩ hjá Jibleam; og hann flúði til Megiddó og dó þar.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/9\/25-28.1792403125495.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Akasjía, konungur Júda, sér þetta og flýði leiðina að garðhúsinu, og Jéhú elti hann og mælti: Hann einnig — ⟨את⟩ hann — sláið hann, í vagninum, í uppstigningunni að Gúr, sem er hjá Jivleam; og hann flýði til Megiddó og dó þar.",
   "tokens": [
     {
-      "surface": "ואחזיה",
-      "gloss": "Og Akasía"
+      "surface": "וַאֲחַזְיָ֤ה",
+      "gloss": "Og Akasjía"
     },
     {
-      "surface": "מלך",
+      "surface": "מֶֽלֶךְ",
       "gloss": "konungur"
     },
     {
-      "surface": "יהודה",
+      "surface": "יְהוּדָה֙",
       "gloss": "Júda"
     },
     {
-      "surface": "ראה",
-      "gloss": "sá"
+      "surface": "רָאָ֔ה",
+      "gloss": "sér þetta"
     },
     {
-      "surface": "וינס",
-      "gloss": "og flúði"
+      "surface": "וַיָּ֕נָס",
+      "gloss": "og flýði"
     },
     {
-      "surface": "דרך",
-      "gloss": "um veg"
+      "surface": "דֶּ֖רֶךְ",
+      "gloss": "leiðina"
     },
     {
-      "surface": "בית",
-      "gloss": "húss"
+      "surface": "בֵּ֣ית",
+      "gloss": "að húsi"
     },
     {
-      "surface": "הגן",
-      "gloss": "garðs"
+      "surface": "הַגָּ֑ן",
+      "gloss": "garðinum"
     },
     {
-      "surface": "וירדף",
+      "surface": "וַיִּרְדֹּ֨ף",
       "gloss": "og elti"
     },
     {
-      "surface": "אחריו",
-      "gloss": "eftir"
+      "surface": "אַחֲרָ֜יו",
+      "gloss": "hann"
     },
     {
-      "surface": "יהוא",
-      "gloss": "Jehú"
+      "surface": "יֵה֗וּא",
+      "gloss": "Jéhú"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "og sagði"
+      "surface": "וַיֹּ֖אמֶר",
+      "gloss": "og mælti"
     },
     {
-      "surface": "גם",
+      "surface": "גַּ֞ם",
       "gloss": "einnig"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹת֞וֹ",
       "gloss": "⟨את⟩",
-      "marks": "honum"
+      "marks": "hann (Akasjá)"
     },
     {
-      "surface": "הכהו",
-      "gloss": "slíkið honum"
+      "surface": "הַכֻּ֣הוּ",
+      "gloss": "sláið hann"
     },
     {
-      "surface": "אל",
+      "surface": "אֶל",
       "gloss": "í"
     },
     {
-      "surface": "המרכבה",
+      "surface": "הַמֶּרְכָּבָ֗ה",
       "gloss": "vagninum"
     },
     {
-      "surface": "במעלה",
-      "gloss": "við uppstigninguna"
+      "surface": "בְּמַֽעֲלֵה",
+      "gloss": "í uppstigningunni að"
     },
     {
-      "surface": "גור",
+      "surface": "גּוּר֙",
       "gloss": "Gúr"
     },
     {
-      "surface": "אשר",
-      "gloss": "sem er"
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "sem"
     },
     {
-      "surface": "את",
+      "surface": "אֶֽת",
       "gloss": "⟨את⟩",
-      "marks": "hjá Jibleam"
+      "marks": "Jivleam"
     },
     {
-      "surface": "יבלעם",
-      "gloss": "Jibleam"
+      "surface": "יִבְלְעָ֔ם",
+      "gloss": "er hjá Jivleam"
     },
     {
-      "surface": "וינס",
-      "gloss": "og flúði"
+      "surface": "וַיָּ֥נָס",
+      "gloss": "og flýði"
     },
     {
-      "surface": "מגדו",
+      "surface": "מְגִדּ֖וֹ",
       "gloss": "til Megiddó"
     },
     {
-      "surface": "וימת",
+      "surface": "וַיָּ֥מָת",
       "gloss": "og dó"
     },
     {
-      "surface": "שם",
+      "surface": "שָֽׁם",
       "gloss": "þar"
     }
   ],
-  "timestamp": "2026-10-19T09:45:25.496865972Z",
+  "timestamp": "2026-10-19T14:36:24.408317171Z",
   "model": "glm-5.3"
 }

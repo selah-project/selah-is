@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "ראש er 'eitur, galle' — eiturvatn, ekki 'galinn' í íslenskri biblíuþýðingarhefð"
-    },
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "חנפה: 'fásund, vanhelgi' — 'vantrú' og 'guðlast' eru einnig rétt möguleg"
-    }
-  ],
-  "translation": "Þess vegna segir Jahve Tsevaót um spámennina: Sjá, ég læt þá éta malurt og læt þá drekka eiturvatn, því frá ⟨את⟩ spámönnum Jerúsjalajím hefur fásund farið út um allt landið.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/13-16.1792405937715.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þess vegna segir Jahve Tsevaót um spámennina: Sjá, ég læt ⟨את⟩ þá eta malurt og ég læt þá drekka eitruð vötn, því að frá ⟨את⟩ spámönnum Jerúsjalajím hefur svivirðing gengið út um allan landinn.",
   "tokens": [
     {
       "surface": "לכן",
@@ -58,16 +37,16 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Sjá"
+      "gloss": "Sjá, ég"
     },
     {
       "surface": "מאכיל",
-      "gloss": "ég læt þá éta"
+      "gloss": "læt… eta"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þá",
-      "marks": "malurt"
+      "gloss": "⟨את⟩",
+      "marks": "þá"
     },
     {
       "surface": "לענה",
@@ -75,23 +54,24 @@
     },
     {
       "surface": "והשקתים",
-      "gloss": "og læt þá drekka"
+      "gloss": "og ég læt… drekka"
     },
     {
       "surface": "מי",
-      "gloss": "vatn"
+      "gloss": "vötn"
     },
     {
       "surface": "ראש",
-      "gloss": "eitur"
+      "gloss": "eitruð"
     },
     {
       "surface": "כי",
-      "gloss": "því"
+      "gloss": "því að"
     },
     {
       "surface": "מאת",
-      "gloss": "frá ⟨את⟩"
+      "gloss": "frá ⟨את⟩",
+      "marks": "spámönnum Jerúsjalajím"
     },
     {
       "surface": "נביאי",
@@ -103,21 +83,21 @@
     },
     {
       "surface": "יצאה",
-      "gloss": "hefur farið út"
+      "gloss": "hefur gengið út"
     },
     {
       "surface": "חנפה",
-      "gloss": "fásund"
+      "gloss": "svivirðing"
     },
     {
       "surface": "לכל",
-      "gloss": "um allt"
+      "gloss": "um allan"
     },
     {
       "surface": "הארץ",
-      "gloss": "landið"
+      "gloss": "landinn"
     }
   ],
-  "timestamp": "2026-10-19T10:32:17.716941556Z",
+  "timestamp": "2026-10-19T14:49:19.445381825Z",
   "model": "glm-5.3"
 }

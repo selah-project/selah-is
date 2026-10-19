@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "'Setja andlit gegn' er hebreskt myndmál um fjandskap, tekið bókstaflega til að varðveita myndina."
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "הזנים er bókstaflega 'hórkarlar' — andlegt hór með Mólek, ekki kynlíf einslega."
-    }
-  ],
-  "translation": "Þá mun ég setja ⟨את⟩ andlit mitt gegn þeim manni og gegn fjölskyldu hans, og ég mun útrýma honum og ⟨את⟩ öllum þeim sem drýgja hór eftir honum, að drýgja hór eftir Mólek, úr miðju lýðs þeirra.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/20\/5-8.1792395978469.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þá mun ég sjálfur setja andlit mitt á móti ⟨את⟩ þeim manni og ætt hans, og ég mun útþyrma hann ⟨את⟩ og ⟨את⟩ alla þeirra sem hora eftir honum, að hora eftir Mólek, úr frammi á milli lýðs þeirra.",
   "tokens": [
     {
       "surface": "ושמתי",
-      "gloss": "mun ég setja"
+      "gloss": "Þá mun ég setja"
     },
     {
       "surface": "אני",
-      "gloss": "ég"
+      "gloss": "sjálfur"
     },
     {
       "surface": "את",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "באיש",
-      "gloss": "gegn þeim manni"
+      "gloss": "á móti þeim manni"
     },
     {
       "surface": "ההוא",
@@ -55,28 +34,29 @@
     },
     {
       "surface": "ובמשפחתו",
-      "gloss": "og gegn fjölskyldu hans"
+      "gloss": "og ætt hans"
     },
     {
       "surface": "והכרתי",
-      "gloss": "og mun ég útrýma"
+      "gloss": "og ég mun útþyrma"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ honum"
+      "gloss": "⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "öllum"
+      "gloss": "⟨את⟩",
+      "marks": "alla þeirra"
     },
     {
       "surface": "כל",
-      "gloss": "öllum"
+      "gloss": "alla"
     },
     {
       "surface": "הזנים",
-      "gloss": "þeim sem drýgja hór"
+      "gloss": "þeirra sem hora"
     },
     {
       "surface": "אחריו",
@@ -84,7 +64,7 @@
     },
     {
       "surface": "לזנות",
-      "gloss": "að drýgja hór"
+      "gloss": "að hora"
     },
     {
       "surface": "אחרי",
@@ -96,13 +76,13 @@
     },
     {
       "surface": "מקרב",
-      "gloss": "úr miðju"
+      "gloss": "úr frammi á milli"
     },
     {
       "surface": "עמם",
       "gloss": "lýðs þeirra"
     }
   ],
-  "timestamp": "2026-10-19T07:46:18.470961952Z",
+  "timestamp": "2026-10-19T14:54:25.935379630Z",
   "model": "glm-5.3"
 }

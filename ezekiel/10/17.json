@@ -5,58 +5,32 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "„hjólin“ er sett inn — hebreskan leiður hlutfallssetninguna án nafnmerkis"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אותם er tómt fornafn í frumtexta og birtist aðeins sem merki"
-    },
-    {
-      "kind": "substitution",
-      "subject": "rúakh",
-      "rationale": "rúakh er haldið órýrt — vindur\/andi\/androð — en „lifandi vera“ fyrir החיה er val um skýringu"
-    }
-  ],
-  "translation": "Þegar þeir stóðu, stóðu ⟨hjólin⟩, og þegar þeir höfðu sig upp, höfðu ⟨hjólin⟩ ⟨sig⟩ einnig upp; því að rúakh lifandi verunnar var í þeim.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "ac88f0b970f06e8c998758bae41c9e3d160f47969c750fe0d7145b75842eecd6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/10\/17-20.1792406932880.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þegar þau stóðu, stóðu þessi; og þegar þau héldust uppi, héldust þessi uppi með ⟨את⟩-þeim; því að rúakh hins lifanda var í þeim.",
   "tokens": [
     {
       "surface": "בעמדם",
-      "gloss": "þegar-þeir-stóðu"
+      "gloss": "þegar þau stóðu"
     },
     {
       "surface": "יעמדו",
-      "gloss": "stóðu"
+      "gloss": "stóðu þessi"
     },
     {
       "surface": "וברומם",
-      "gloss": "og-þegar-þeir-höfðu-sig-upp"
+      "gloss": "og þegar þau héldust uppi"
     },
     {
       "surface": "ירומו",
-      "gloss": "höfðu-sig-upp"
+      "gloss": "héldust þessi uppi"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "með þeim"
+      "gloss": "⟨את⟩-þeim",
+      "marks": "með þeim (kerúbunum)"
     },
     {
       "surface": "כי",
-      "gloss": "því-að"
+      "gloss": "því að"
     },
     {
       "surface": "רוח",
@@ -64,13 +38,13 @@
     },
     {
       "surface": "החיה",
-      "gloss": "lifandi-verunnar"
+      "gloss": "hins lifanda"
     },
     {
       "surface": "בהם",
-      "gloss": "í-þeim"
+      "gloss": "í þeim"
     }
   ],
-  "timestamp": "2026-10-19T10:48:52.880700215Z",
+  "timestamp": "2026-10-19T14:42:04.919004771Z",
   "model": "glm-5.3"
 }

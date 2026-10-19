@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סחרחר",
-      "rationale": "afstöðuð mynd af 'að fara um' (söluaðuri); 'að þenslast\/klappa' — þýtt 'panteth', 'fluttereth'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אתי",
-      "rationale": "hér er forsetningin 'með' (H854), ekki viðfangsmerkið; gefið ⟨með⟩ í þýðingu"
-    }
-  ],
-  "translation": "Hjarta mitt þenslast,mátturinn yfirgaf mig,og ljós augna minna — jafnvel það er ekki ⟨með⟩ mér.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/9-12.1792409704264.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hjarta mitt bankar, mátturinn hefur yfirgefið mig, og ljósið í augum mér — jú, það ⟨er⟩ ekki ⟨את⟩ hjá mér.",
   "tokens": [
     {
       "surface": "לבי",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "סחרחר",
-      "gloss": "þenslast"
+      "gloss": "bankar"
     },
     {
       "surface": "עזבני",
-      "gloss": "yfirgaf mig"
+      "gloss": "hefur yfirgefið mig"
     },
     {
       "surface": "כחי",
@@ -46,30 +25,29 @@
     },
     {
       "surface": "ואור",
-      "gloss": "og ljós"
+      "gloss": "og ljósið"
     },
     {
       "surface": "עיני",
-      "gloss": "augna minna"
+      "gloss": "í augum mér"
     },
     {
       "surface": "גם",
-      "gloss": "jafnvel"
+      "gloss": "jú, það"
     },
     {
       "surface": "הם",
-      "gloss": "það"
+      "gloss": "⟨það⟩"
     },
     {
       "surface": "אין",
-      "gloss": "er ekki"
+      "gloss": "ekki"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ með mér",
-      "marks": "með mér"
+      "gloss": "⟨את⟩ hjá mér"
     }
   ],
-  "timestamp": "2026-10-19T11:35:04.265926192Z",
+  "timestamp": "2026-10-19T14:57:42.612461769Z",
   "model": "glm-5.3"
 }

@@ -5,39 +5,19 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 136,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ונער",
-      "rationale": "'hristi \/ lost út' (tumble) — þýðendur skiptast á 'overthrew' og 'shook out'"
-    }
-  ],
-  "translation": "Og hristi Farao og hersvein hans í haf reedsúfs, því að að eilífu varir khesed hans.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/136\/13-16.1792410960796.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og stal Paróh og hernum hans í haf Súf, því að til eilífar auðnar khesed hans.",
   "tokens": [
     {
       "surface": "ונער",
-      "gloss": "Og hristi"
+      "gloss": "og stal"
     },
     {
       "surface": "פרעה",
-      "gloss": "Farao"
+      "gloss": "Paróh"
     },
     {
-      "surface": "ו",
-      "gloss": "og"
-    },
-    {
-      "surface": "חילו",
-      "gloss": "hersvein hans"
+      "surface": "וחילו",
+      "gloss": "og hernum hans"
     },
     {
       "surface": "בים",
@@ -45,7 +25,7 @@
     },
     {
       "surface": "סוף",
-      "gloss": "reedsúfs"
+      "gloss": "Súf"
     },
     {
       "surface": "כי",
@@ -53,13 +33,13 @@
     },
     {
       "surface": "לעולם",
-      "gloss": "að eilífu"
+      "gloss": "til eilífar"
     },
     {
       "surface": "חסדו",
-      "gloss": "khesed hans varir"
+      "gloss": "khesed hans"
     }
   ],
-  "timestamp": "2026-10-19T11:56:00.796888222Z",
+  "timestamp": "2026-10-19T14:57:18.768521425Z",
   "model": "glm-5.3"
 }

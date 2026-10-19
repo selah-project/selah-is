@@ -5,46 +5,20 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בן המלך",
-      "rationale": "„sonar konungsins“ eða eigin nafnið Hammelek (KJV „son of Hammelech“); hebreskan getur verið bæði."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "„heldur“ — hebreska frasin ὅτι εἰ μή „ekki nema \/ heldur“ fléttuð í eitt íslenskt orð."
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אם fellur í frásögninni כי אם og ber ekki sérstaka glósu."
-    }
-  ],
-  "translation": "Þá tóku þeir ⟨את⟩ Jirmíjahú og köstuðu ⟨את⟩ honum í brunn Malkíjahú, sonar konungsins, sá er á hæð varðar hirðinnar; og þeir lægðu ⟨את⟩ Jirmíjahú niður með tögum. Og í brunninum var ekkert vatn heldur leir, og Jirmíjahú sökk í leirinn.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "acfc341daa1a1c241b79a57dae25c64d9ea585388bd1a8fd4abc6d03bffc7bc5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/38\/5-8.1792406324975.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir tóku ⟨את⟩ Jirmejáhu og köstuðu honum ⟨את⟩ niður í brunna Malkíahu, sonar konungsins, sá sem er á hliði varðhússins; og þeir sæktu ⟨את⟩ Jirmejáhu niður með репum — en í brunninum var ekkert vatn, heldur leir, og Jirmejáhu sökk í leirinn.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "Þá tóku þeir"
+      "gloss": "og þeir tóku"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jirmíjahú"
+      "marks": "Jirmejáhu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmíjahú"
+      "gloss": "Jirmejáhu"
     },
     {
       "surface": "וישלכו",
@@ -52,19 +26,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ honum"
+      "gloss": "⟨את⟩",
+      "marks": "honum (í brunna Malkíahu)"
     },
     {
       "surface": "אל",
-      "gloss": "í"
+      "gloss": "niður í"
     },
     {
       "surface": "הבור",
-      "gloss": "brunn"
+      "gloss": "brunninn"
     },
     {
       "surface": "מלכיהו",
-      "gloss": "Malkíjahú"
+      "gloss": "Malkíahu"
     },
     {
       "surface": "בן",
@@ -76,40 +51,40 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sá er"
+      "gloss": "sá sem"
     },
     {
       "surface": "בחצר",
-      "gloss": "á hæð"
+      "gloss": "er á hliði"
     },
     {
       "surface": "המטרה",
-      "gloss": "varðar hirðinnar"
+      "gloss": "varðhússins"
     },
     {
       "surface": "וישלחו",
-      "gloss": "og þeir lægðu niður"
+      "gloss": "og þeir sæktu niður"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jirmíjahú"
+      "marks": "Jirmejáhu"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmíjahú"
+      "gloss": "Jirmejáhu"
     },
     {
       "surface": "בחבלים",
-      "gloss": "með tögum"
+      "gloss": "með репum"
     },
     {
       "surface": "ובבור",
-      "gloss": "og í brunninum"
+      "gloss": "en í brunninum"
     },
     {
       "surface": "אין",
-      "gloss": "var ekkert"
+      "gloss": "var ekki"
     },
     {
       "surface": "מים",
@@ -121,7 +96,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "טיט",
@@ -133,13 +108,13 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmíjahú"
+      "gloss": "Jirmejáhu"
     },
     {
       "surface": "בטיט",
       "gloss": "í leirinn"
     }
   ],
-  "timestamp": "2026-10-19T10:38:44.976431878Z",
+  "timestamp": "2026-10-19T14:49:36.439756087Z",
   "model": "glm-5.3"
 }

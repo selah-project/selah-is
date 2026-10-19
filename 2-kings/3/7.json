@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כמוני\/כמוך\/כעמי\/כעמך\/כסוסי\/כסוסיך",
-      "rationale": "Sex sinnum endurtekið כ…כ… í parfyrirliggjandi mismun, lykilorð framburðar sem varðveitt er með „sem“-byggingunni"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "H854 „með“ heldur inn í ⟨את⟩-merkið en er forsetningin „with“, ekki DOM-markarið"
-    }
-  ],
-  "translation": "Og hann fór og sendi til Jósafat, konungs Júda, og sagði: Konungur Móab hefur gerst uppreisnargegn mér. Viltu ganga ⟨með⟩ mér til Móab til stríðs? Og hann sagði: Ég skal fara upp. Ég er sem þú, fólkið mitt sem fólkið þitt, hrossin mín sem hrossin þín.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/3\/5-8.1792402822085.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann fór og sendi til Jehósjafat konungs Júda og sagði: Konungur Móab hefur gert uppreisn gegn mér; vil þú fara með ⟨את⟩ mér til Móab í orrustu? Og hann sagði: Ég mun fara upp; eins og ég, svo þú; eins og fólkið mitt, svo fólkið þitt; eins og hrossin mín, svo hrossin þín.",
   "tokens": [
     {
       "surface": "וילך",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "וישלח",
-      "gloss": "sendi"
+      "gloss": "og sendi"
     },
     {
       "surface": "אל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jósafat"
+      "gloss": "Jehósjafat"
     },
     {
       "surface": "מלך",
@@ -66,19 +45,20 @@
     },
     {
       "surface": "פשע",
-      "gloss": "hefur gerst uppreisnargegn"
+      "gloss": "hefur gert uppreisn"
     },
     {
       "surface": "בי",
-      "gloss": "mér"
+      "gloss": "gegn mér"
     },
     {
       "surface": "התלך",
-      "gloss": "Viltu ganga"
+      "gloss": "vil þú fara"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ ⟨með⟩"
+      "gloss": "með ⟨את⟩ mér",
+      "marks": "mér"
     },
     {
       "surface": "אל",
@@ -90,7 +70,7 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "til stríðs"
+      "gloss": "í orrustu"
     },
     {
       "surface": "ויאמר",
@@ -98,33 +78,33 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "Ég skal fara upp"
+      "gloss": "Ég mun fara upp"
     },
     {
       "surface": "כמוני",
-      "gloss": "Ég er sem"
+      "gloss": "eins og ég"
     },
     {
       "surface": "כמוך",
-      "gloss": "þú"
+      "gloss": "svo þú"
     },
     {
       "surface": "כעמי",
-      "gloss": "fólkið mitt sem"
+      "gloss": "eins og fólkið mitt"
     },
     {
       "surface": "כעמך",
-      "gloss": "fólkið þitt"
+      "gloss": "svo fólkið þitt"
     },
     {
       "surface": "כסוסי",
-      "gloss": "hrossin mín sem"
+      "gloss": "eins og hrossin mín"
     },
     {
       "surface": "כסוסיך",
-      "gloss": "hrossin þín"
+      "gloss": "svo hrossin þín"
     }
   ],
-  "timestamp": "2026-10-19T09:40:22.086487985Z",
+  "timestamp": "2026-10-19T14:36:04.879014513Z",
   "model": "glm-5.3"
 }

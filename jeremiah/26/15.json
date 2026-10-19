@@ -5,44 +5,23 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "'leggja blód á' — hebreska ' gefa blód á ' er sömu mynd: bloodguilt verður byrði"
-    },
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "תדעו ידע — infinitivus absolutus — 'að vita skal þér vita'; formbundið endurtekning er flöt í íslensku"
-    }
-  ],
-  "translation": "Þó vitið þér vissulega: ef þér deyjið mig, þá leggið þér saklaust blód á ykkur og á þessa borg og á íbúa hennar; því að í sannleika hefur Jahve sent mig til ykkar að tala ⟨את⟩ öll þessi orð í eyrum ykkar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/26\/13-16.1792405967964.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því næst skulu þér víst vita að ef þér deyðið ⟨את⟩ mig, þá leggið þér saklaust blóð á yður sjálf og á þessa borg og á íbúa hennar; því að í sannleika hefur Jahve sent mig til yðar til að tala í eyrun yðar ⟨את⟩ alla þessi orð.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Þó"
+      "gloss": "Því næst"
     },
     {
       "surface": "ידע",
-      "gloss": "vitið"
+      "gloss": "vita"
     },
     {
       "surface": "תדעו",
-      "gloss": "vissulega"
+      "gloss": "skulu þér víst vita"
     },
     {
       "surface": "כי",
-      "gloss": ":"
+      "gloss": "að"
     },
     {
       "surface": "אם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ממתים",
-      "gloss": "þér deyjið"
+      "gloss": "deyðið"
     },
     {
       "surface": "אתם",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "דם",
-      "gloss": "blód"
+      "gloss": "blóð"
     },
     {
       "surface": "נקי",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "á ykkur"
+      "gloss": "á yður sjálf"
     },
     {
       "surface": "ואל",
@@ -123,34 +102,34 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "til ykkar"
+      "gloss": "til yðar"
     },
     {
       "surface": "לדבר",
-      "gloss": "að tala"
+      "gloss": "til að tala"
     },
     {
       "surface": "באזניכם",
-      "gloss": "í eyrum ykkar"
+      "gloss": "í eyrun yðar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "öll þessi orð"
+      "marks": "alla þessi orð"
     },
     {
       "surface": "כל",
-      "gloss": "öll"
+      "gloss": "alla"
     },
     {
       "surface": "הדברים",
-      "gloss": "orð"
+      "gloss": "þessi orð"
     },
     {
       "surface": "האלה",
       "gloss": "þessi"
     }
   ],
-  "timestamp": "2026-10-19T10:32:47.965803247Z",
+  "timestamp": "2026-10-19T14:48:59.765398129Z",
   "model": "glm-5.3"
 }

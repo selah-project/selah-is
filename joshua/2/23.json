@@ -5,27 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'yfir þá hafði komið' — íslenska þyerminn fær viðkeyti til að mynda andaðratengingu"
-    }
-  ],
-  "translation": "Og hinir tveir menn sneru aftur og stigu niður af fjallinu og fóru yfir og komu til Jósjúa sonar Nún, og sögðu honum ⟨את⟩ allt það sem yfir þá hafði komið.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "853317505c11afd20493085fbf131364fbea2a8286d178ec408cb19910c2e51a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/2\/21-24.1792398728922.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hinir tveir mennirnir sneru aftur og stigu niður af fjallinu og fóru yfir og komu til Jósúa, sonar Nún, og sögðu honum ⟨את⟩ allt það sem hafði hitt ⟨את⟩ þá.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "Og hinir sneru aftur"
+      "gloss": "sneru aftur"
     },
     {
       "surface": "שני",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "וירדו",
-      "gloss": "og stigu niður"
+      "gloss": "stigu niður"
     },
     {
       "surface": "מההר",
@@ -45,11 +29,11 @@
     },
     {
       "surface": "ויעברו",
-      "gloss": "og fóru yfir"
+      "gloss": "fóru yfir"
     },
     {
       "surface": "ויבאו",
-      "gloss": "og komu"
+      "gloss": "komu"
     },
     {
       "surface": "אל",
@@ -57,7 +41,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jósjúa"
+      "gloss": "Jósúa"
     },
     {
       "surface": "בן",
@@ -69,7 +53,7 @@
     },
     {
       "surface": "ויספרו",
-      "gloss": "og sögðu"
+      "gloss": "sögðu"
     },
     {
       "surface": "לו",
@@ -78,7 +62,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "allt það sem yfir þá hafði komið"
+      "marks": "allt það sem hafði hitt"
     },
     {
       "surface": "כל",
@@ -86,7 +70,7 @@
     },
     {
       "surface": "המצאות",
-      "gloss": "það sem yfir þá kom"
+      "gloss": "það sem hafði hitt"
     },
     {
       "surface": "אותם",
@@ -94,6 +78,6 @@
       "marks": "þá"
     }
   ],
-  "timestamp": "2026-10-19T08:32:08.923657787Z",
+  "timestamp": "2026-10-19T14:51:20.931664609Z",
   "model": "glm-5.3"
 }

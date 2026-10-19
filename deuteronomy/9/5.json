@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "כי hér fléttast við neitununa og verður ‚heldur‘ — ‚því að‘ yrði rangt við mótsögnina"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צדק\/רשע",
-      "rationale": "tsedek og ranglæti standa í andstöðu í sama versinu, rammi sem glatarst að hluta"
-    }
-  ],
-  "translation": "Ekki fyrir tsedek þinn og ekki fyrir réttvísi hjarta þins fer þú inn til að taka ⟨את⟩ land þeirra, heldur fyrir ranglæti þessara þjóða rekir Jahve Elóhím þig ⟨⟨þær⟩⟩ burt frá andliti þínu, og til að staðfesta ⟨את⟩ orðið sem Jahve sór feðrum þínum, Avraham, Jitskhak og Jaakov.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "46863c6bc441592994da4fdf1f864742047b0fcf977a2fe33a4cb8209087dc3c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/9\/5-8.1792397806864.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ekki fyrir tsedek þinn og ekki fyrir réttsemi hjarta þíns fer þú inn til að taka land þeirra ⟨את⟩, heldur fyrir ranglæti þjóðanna þessara rekur Jahve, Elóhím þinn, ⟨þau⟩ burt frá andliti þínu, og til þess að staðfesta ⟨את⟩ orðið, það sem Jahve sór feðrum þínum, Avraham, Jitskhak og Jaakov.",
   "tokens": [
     {
       "surface": "לא",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ובישר",
-      "gloss": "og ekki fyrir réttvísi"
+      "gloss": "og ekki fyrir réttsemi"
     },
     {
       "surface": "לבבך",
-      "gloss": "hjarta þins"
+      "gloss": "hjarta þíns"
     },
     {
       "surface": "אתה",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "fer þú inn"
+      "gloss": "fer inn"
     },
     {
       "surface": "לרשת",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "מורישם",
-      "gloss": "rekir þær burt"
+      "gloss": "rekur burt"
     },
     {
       "surface": "מפניך",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "ולמען",
-      "gloss": "og til að"
+      "gloss": "og til þess að"
     },
     {
       "surface": "הקים",
@@ -116,7 +95,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "נשבע",
@@ -143,6 +122,6 @@
       "gloss": "og Jaakov"
     }
   ],
-  "timestamp": "2026-10-19T08:16:46.865616020Z",
+  "timestamp": "2026-10-19T14:39:57.471016487Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 50,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "פקד יפקד — endurtekinn óþáguur (infinitive absolute) fyrir áherslu: 'mun vísa gjöranum að', örugglega heilsækja"
-    },
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "פקוד 'heilsækja\/muna\/útskyra' — KJV 'visit', JPS 'remember'; vísa gjöranum að heldur myndinni af athöfn"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Jósef talar beint til bræðra sinna um framtíðina"
-    }
-  ],
-  "translation": "Og Jósef sagði við bræður sín: Ég er að deyja, og Elóhím mun vísa gjöranum að ykkur og flytja ⟨את⟩ ykkur upp úr þessu landi, til landsins sem hann sór Avraham, Jitskhak og Jaakov.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "6343e7145f69ba2644b17f9d786797df1c9e41780e6d7862b6e1abea30edbff8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/50\/21-24.1792394075143.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jósef sagði við bræður sína: Ég er að deyja, og Elóhím mun ⟨auðvitað⟩ heimsækja ⟨את⟩ yður og færa ⟨את⟩ yður upp af þessu landi til landsins sem hann sór Avraham, Jitskhak og Jaakov.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "og sagði"
+      "gloss": "Og sagði"
     },
     {
       "surface": "יוסף",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "bræður sín"
+      "gloss": "bræður sína"
     },
     {
       "surface": "אנכי",
-      "gloss": "ég"
+      "gloss": "Ég"
     },
     {
       "surface": "מת",
@@ -62,34 +36,34 @@
       "gloss": "og Elóhím"
     },
     {
-      "surface": "פקד",
-      "gloss": "mun vísa gjöranum að"
+      "surface": "פקוד",
+      "gloss": "mun heimsækja"
     },
     {
-      "surface": "יפקד",
-      "gloss": "að ykkur"
+      "surface": "יפקוד",
+      "gloss": "auðvitað heimsækja"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "marks": "yður"
     },
     {
       "surface": "והעלה",
-      "gloss": "og flytja upp"
+      "gloss": "og færa upp"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "marks": "yður"
     },
     {
       "surface": "מן",
-      "gloss": "úr"
+      "gloss": "af"
     },
     {
       "surface": "הארץ",
-      "gloss": "landi"
+      "gloss": "landinu"
     },
     {
       "surface": "הזאת",
@@ -124,6 +98,6 @@
       "gloss": "og Jaakov"
     }
   ],
-  "timestamp": "2026-10-19T07:14:35.145407298Z",
+  "timestamp": "2026-10-19T14:47:32.222860689Z",
   "model": "glm-5.3"
 }

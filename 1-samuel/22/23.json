@@ -5,43 +5,7 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "Þetta er forsetningin את (H854, „með“), ekki marki את (H853); ⟨את⟩ er varðveitt samkvæmt reglunni en merkir nálægð."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sálu",
-      "rationale": "נפש er hér „lífi“ — sá sem leitar að lífi mínu; „sál“ er rétt orðmynd en ekki hið síðari hugtak."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יבקש את נפשי יבקש את נפשך",
-      "rationale": "Spurningarleg endurtekning í spegil: sömu orð í tvennu — Davíð og Evjatar deila öðru hvorum leitinni."
-    },
-    {
-      "kind": "you",
-      "subject": "Davíð til Evjatar",
-      "rationale": "Bein heilsun og boð til mannseins núaflótta prests."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Vertu hjá mér",
-      "rationale": "Boðsorð draga lesandann inn í verndarheit Davíðs."
-    }
-  ],
-  "translation": "Vertu hjá ⟨את⟩ mér, óttast eigi, því að sá sem leitar að sálu minni leitar að sálu þinni, því að þú ert í gæslu hjá mér.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/22\/21-23.1792400769610.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vertu ⟨את⟩ hjá mér, óttast ekki, því að sá sem leitar ⟨את⟩ lífs míns leitar ⟨את⟩ lífs þíns, því að ⟨þú ert⟩ í gæslu hjá mér.",
   "tokens": [
     {
       "surface": "שבה",
@@ -49,11 +13,11 @@
     },
     {
       "surface": "אתי",
-      "gloss": "hjá ⟨את⟩ mér"
+      "gloss": "⟨את⟩ hjá mér"
     },
     {
       "surface": "אל",
-      "gloss": "eigi"
+      "gloss": "ekki"
     },
     {
       "surface": "תירא",
@@ -74,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sálu minni"
+      "marks": "lífs míns"
     },
     {
       "surface": "נפשי",
-      "gloss": "sálu minni"
+      "gloss": "lífs míns"
     },
     {
       "surface": "יבקש",
@@ -87,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sálu þinni"
+      "marks": "lífs þíns"
     },
     {
       "surface": "נפשך",
-      "gloss": "sálu þinni"
+      "gloss": "lífs þíns"
     },
     {
       "surface": "כי",
@@ -110,6 +74,6 @@
       "gloss": "hjá mér"
     }
   ],
-  "timestamp": "2026-10-19T09:06:09.611954423Z",
+  "timestamp": "2026-10-19T14:32:50.593568120Z",
   "model": "glm-5.3"
 }

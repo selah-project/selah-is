@@ -5,57 +5,31 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "herkraftur",
-      "rationale": "Versið telur eftirstandandi her: fimmtíu riddara, tíu vagna, tíu þúsund fótgönguliða."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כעפר לדש",
-      "rationale": "„Sem ryk til þreskingar“ — myndrænt: gert að ryki undir fótum á þreskivelli."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "„Herlið“ bætt við til skýrleika; hebreskan segir aðeins „lýð“."
-    }
-  ],
-  "translation": "Því að ekkert ⟨herlið⟩ varð eftir handa Jehóakhaz af lýðnum, nema fimmtíu riddarar og tíu stríðsvagnar og tíu þúsund fótgönguliðs — því að konungur Aram eyddi þeim og gerði þá sem rifið korn eða ryk á þreskjólunni.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/13\/5-8.1792403232907.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "því að ekki varð fólk eftir fyrir Jóakhaz, nema fimmtíu riddarar og tíu vagnar og tíu þúsund fótherjar; því að konungur Aram hafði eytt þeim og gert þá sem ryk til að þreskja.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Því að"
+      "gloss": "því að"
     },
     {
       "surface": "לא",
-      "gloss": "ekkert"
+      "gloss": "ekki"
     },
     {
       "surface": "השאיר",
-      "gloss": "varð eftir handa"
+      "gloss": "varð eftir"
     },
     {
       "surface": "ליהואחז",
-      "gloss": "Jehóakhaz"
+      "gloss": "fyrir Jóakhaz"
     },
     {
       "surface": "עם",
-      "gloss": "af lýðnum"
+      "gloss": "fólk"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "nema"
     },
     {
       "surface": "אם",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "רכב",
-      "gloss": "stríðsvagnar"
+      "gloss": "vagnar"
     },
     {
       "surface": "ועשרת",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "רגלי",
-      "gloss": "fótgönguliðs"
+      "gloss": "fótherjar"
     },
     {
       "surface": "כי",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "אבדם",
-      "gloss": "eyddi þeim"
+      "gloss": "hafði eytt þeim"
     },
     {
       "surface": "מלך",
@@ -106,18 +80,18 @@
       "gloss": "Aram"
     },
     {
-      "surface": "וישמם",
-      "gloss": "og gerði þá"
+      "surface": "וישימם",
+      "gloss": "og gert þá"
     },
     {
       "surface": "כעפר",
       "gloss": "sem ryk"
     },
     {
-      "surface": "לדש",
-      "gloss": "á þreskjólunum"
+      "surface": "לדוש",
+      "gloss": "til að þreskja"
     }
   ],
-  "timestamp": "2026-10-19T09:47:12.908771890Z",
+  "timestamp": "2026-10-19T14:35:28.994729193Z",
   "model": "glm-5.3"
 }

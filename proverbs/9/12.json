@@ -5,33 +5,7 @@
   "book": "proverbs",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "חכמת חכמת — sömu orðmynd endurtekin; óviðjafnanleg endurtakan fellur brott"
-    },
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "נשא „bera“ — mynduðónska merkingin er „þola afleiðingarnar“"
-    },
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "תשא án andstæðs hlutar: „bera það“ (viðurlögin) eða „bera sjálfa sig“ — þýðendur skiptast"
-    }
-  ],
-  "translation": "Ef þú varst vis — fyrir þig sjálfa varst þú vis; en ef þú gyldir að — ein ‹þú› ber það ein.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/9\/9-12.1792411221519.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ef þú varðst vitur, þá varðst þú vitur fyrir þína eigin hönd, en ef þú girntist, þá munt þú einn bera ⟨það⟩.",
   "tokens": [
     {
       "surface": "אם",
@@ -39,29 +13,29 @@
     },
     {
       "surface": "חכמת",
-      "gloss": "þú varst vis"
+      "gloss": "þú varðst vitur"
     },
     {
       "surface": "חכמת",
-      "gloss": "varst þú vis"
+      "gloss": "varðst þú vitur"
     },
     {
       "surface": "לך",
-      "gloss": "fyrir þig"
+      "gloss": "fyrir þína eigin hönd"
     },
     {
       "surface": "ולצת",
-      "gloss": "en ef þú gyldir að"
+      "gloss": "en ef þú girntist"
     },
     {
       "surface": "לבדך",
-      "gloss": "ein"
+      "gloss": "þú einn"
     },
     {
       "surface": "תשא",
-      "gloss": "ber þú það"
+      "gloss": "munt þú bera"
     }
   ],
-  "timestamp": "2026-10-19T12:00:21.520662513Z",
+  "timestamp": "2026-10-19T14:57:01.212088516Z",
   "model": "glm-5.3"
 }

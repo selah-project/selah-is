@@ -5,61 +5,35 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "Azazel",
-      "rationale": "לעזאזel: 'hafur sem sendur er burt' eða eiginlegt nafn Azazel — eða vofa\/andi í eyðimörkinni; rótin er 'azal' (að fara burt)"
-    },
-    {
-      "kind": "crux",
-      "subject": "לכפר עליו",
-      "rationale": "'gjöra yfirbót með honum \/ yfir honum \/ fyrir hans hönd' — fornhöfðingjar deila um forsetninguna"
-    },
-    {
-      "kind": "hapax",
-      "subject": "עזאזל",
-      "rationale": "orðið kemur aðeins fyrir í þessum kafla (16:8, 10, 26) í öllum Tanakh"
-    }
-  ],
-  "translation": "Og hafrann sem hluturinn fyrir Azazel kom upp á skal standa lifandi frammi fyrir Jahve, til að gjöra yfirbót með honum, til að senda hann til Azazel út í eyðimörkina.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/16\/9-12.1792395859149.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En hafraukinn, þeim sem hlutkastinn gekk upp fyrir Asasel, skal staða lifandi fyrir Jahve, til að færa yfirbót fyrir hann, til að senda hann ⟨את⟩ frá sér til Asasel út í eyðimörkina.",
   "tokens": [
     {
       "surface": "והשעיר",
-      "gloss": "og hafrann"
+      "gloss": "En hafraukinn"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þeim sem"
     },
     {
       "surface": "עלה",
-      "gloss": "kom"
+      "gloss": "gekk upp"
     },
     {
       "surface": "עליו",
-      "gloss": "upp á"
+      "gloss": "fyrir"
     },
     {
       "surface": "הגורל",
-      "gloss": "hluturinn"
+      "gloss": "hlutkastinn"
     },
     {
       "surface": "לעזאזל",
-      "gloss": "fyrir Azazel"
+      "gloss": "Asasel"
     },
     {
       "surface": "יעמד",
-      "gloss": "skal standa"
+      "gloss": "skal staða"
     },
     {
       "surface": "חי",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "frammi fyrir"
+      "gloss": "fyrir"
     },
     {
       "surface": "יהוה",
@@ -75,30 +49,30 @@
     },
     {
       "surface": "לכפר",
-      "gloss": "til að gjöra yfirbót"
+      "gloss": "til að færa yfirbót"
     },
     {
       "surface": "עליו",
-      "gloss": "með honum"
+      "gloss": "fyrir hann"
     },
     {
       "surface": "לשלח",
-      "gloss": "til að senda"
+      "gloss": "til að senda frá sér"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hann"
+      "marks": "hann (hafraukinn, sendan til Asasel)"
     },
     {
       "surface": "לעזאזל",
-      "gloss": "til Azazel"
+      "gloss": "til Asasel"
     },
     {
       "surface": "המדברה",
       "gloss": "út í eyðimörkina"
     }
   ],
-  "timestamp": "2026-10-19T07:44:19.152972957Z",
+  "timestamp": "2026-10-19T14:53:51.193546821Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "במות העדה",
-      "rationale": "bókstæð 'í dauða söfnuðarins' — gefið sem 'þegar söfnuðurinn dó'."
-    },
-    {
-      "kind": "crux",
-      "subject": "במות העדה",
-      "rationale": "Kórak dó eldinum samkvæmt 4. Mós 16:35, en hér stendur að jörðin gleypdi hann — þýðendur deila um hvort Kórak dó með söfnuðinum eða eldinum."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tveimur hundruðum og fimmtíu",
-      "rationale": "talið mannfalli, tölvan fullyrðir einnig einkunn: 'urðu að merki'."
-    }
-  ],
-  "translation": "Og jörðin opnaði munn sinn og gleypdi ⟨את⟩ þá og ⟨את⟩ Kórak, þegar söfnuðurinn dó, er eldurinn át ⟨את⟩ tvo hundruð og fimmtíu menn, og þeir urðu að merki.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "f4014d859195ba089fabdc755c74143dfa4eeed6145f053d79143dd2a56b9923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/26\/9-12.1792397171624.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og jörðin opnaði ⟨את⟩ munn sinn og gleypdi ⟨את⟩ þá og ⟨את⟩ Kórak, með dánu safnaðarins, er eldurinn át ⟨את⟩ tvo hundruð og fimmtíu menn, og þeir urðu að vínumerki.",
   "tokens": [
     {
       "surface": "ותפתח",
-      "gloss": "Og opnaði"
+      "gloss": "og opnaði"
     },
     {
       "surface": "הארץ",
@@ -70,15 +44,15 @@
     },
     {
       "surface": "במות",
-      "gloss": "þegar ... dó"
+      "gloss": "með dánu"
     },
     {
       "surface": "העדה",
-      "gloss": "söfnuðurinn"
+      "gloss": "safnaðarins"
     },
     {
       "surface": "באכל",
-      "gloss": "er ... át"
+      "gloss": "er át"
     },
     {
       "surface": "האש",
@@ -95,7 +69,7 @@
     },
     {
       "surface": "ומאתים",
-      "gloss": "og tvo hundruð"
+      "gloss": "tvo hundruð"
     },
     {
       "surface": "איש",
@@ -107,9 +81,9 @@
     },
     {
       "surface": "לנס",
-      "gloss": "að merki"
+      "gloss": "að vínumerki"
     }
   ],
-  "timestamp": "2026-10-19T08:06:11.625467799Z",
+  "timestamp": "2026-10-19T14:56:09.489200289Z",
   "model": "glm-5.3"
 }

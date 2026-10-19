@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "skorpiónir",
-      "rationale": "עקרבים: bókstaflega 'skorpíónar', en vísa hugsanlega þæði dýrinu og þykku hnútaþræði svípi"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "על\/על",
-      "rationale": "sama orð 'ok' og forsetningin 'á' hljóma eins — óþýðanlegt orðleik"
-    }
-  ],
-  "translation": "Og nú: faðir minn相差 lagði á yður þungt ok, en eg mun bæta ofan á ok yðar; faðir minn targaði yður með svípum, en eg — með skorpiónum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/10\/9-12.1792415436555.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og nú lagði faðir minn ykkar þungt ok á yður, og ég mun bæta við ok ykkar; faðir minn targaði ⟨את⟩ yður með hörðum pískum, en ég mun targa yður með sporðdrekum.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "העמיס",
-      "gloss": "lagði á"
+      "gloss": "lagði ykkar þungt ok á"
     },
     {
       "surface": "עליכם",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "על",
-      "gloss": "þungt ok"
+      "gloss": "ok"
     },
     {
       "surface": "כבד",
@@ -54,19 +33,19 @@
     },
     {
       "surface": "ואני",
-      "gloss": "en eg"
+      "gloss": "og ég"
     },
     {
       "surface": "אסיף",
-      "gloss": "mun bæta ofan á"
+      "gloss": "mun bæta við"
     },
     {
       "surface": "על",
-      "gloss": "á"
+      "gloss": "við"
     },
     {
       "surface": "עלכם",
-      "gloss": "ok yðar"
+      "gloss": "ok ykkar"
     },
     {
       "surface": "אבי",
@@ -78,22 +57,22 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður",
-      "marks": "með svípum"
+      "gloss": "⟨את⟩",
+      "marks": "yður"
     },
     {
       "surface": "בשוטים",
-      "gloss": "með svípum"
+      "gloss": "með hörðum pískum"
     },
     {
       "surface": "ואני",
-      "gloss": "en eg"
+      "gloss": "en ég"
     },
     {
       "surface": "בעקרבים",
-      "gloss": "með skorpiónum"
+      "gloss": "með sporðdrekum"
     }
   ],
-  "timestamp": "2026-10-19T13:10:36.556286478Z",
+  "timestamp": "2026-10-19T14:34:07.826091813Z",
   "model": "glm-5.3"
 }

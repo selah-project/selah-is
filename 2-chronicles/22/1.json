@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenskan þarf hjálparsagnir ('höfðu verið drepnir') þar sem hebreskan notar lýsandi sögn í þátíð."
-    },
-    {
-      "kind": "substitution",
-      "subject": "הראשנים",
-      "rationale": "Bókstaflega 'hinir fyrri'; hér um elstu syni Jehóram."
-    },
-    {
-      "kind": "alternative",
-      "subject": "הגדוד הבא בערבים",
-      "rationale": "Líkt 'herflokksins sem réðst með Aröbum'; sambandið við 2. Konungabók 21:17 er samhliða lestur."
-    }
-  ],
-  "translation": "Og íbúar Jerúsjalajím gerðu Akhazjáhu, yngsta son hans, að konungi í sinn stað, því að allir elstu synir hans höfðu verið drepnir af herflokkinum sem kom með Aröbum til herbúðanna. Og Akhazjáhu sonur Jehóram konungs Júda varð konungur.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "bbd22f21c97c920e672bc73dad2cf3061b99f803b2d36df352e0561f6d792e9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/22\/1-4.1792415760263.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og íbúar Jerúsjalajím gerðu Akhasjáhu, ⟨את⟩ yngsta sonur hans, að konungi í stað hans, því að herflokkinum, sem kom með Aröbum að herbúðunum, hafði þá drepið alla elstu synina. Og Akhasjáhu, sonur Jehóram konungs Júda, tók konungsdómi.",
   "tokens": [
     {
       "surface": "וימליכו",
-      "gloss": "gerðu…að konungi"
+      "gloss": "gerðu… að konungi"
     },
     {
       "surface": "יושבי",
@@ -48,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Akhazjáhu"
+      "marks": "Akhasjáhu"
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Akhazjáhu"
+      "gloss": "Akhasjáhu"
     },
     {
       "surface": "בנו",
-      "gloss": "son hans"
+      "gloss": "sonur hans"
     },
     {
       "surface": "הקטן",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "í sinn stað"
+      "gloss": "í stað hans"
     },
     {
       "surface": "כי",
@@ -72,15 +46,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "allir"
+      "gloss": "alla"
     },
     {
       "surface": "הראשנים",
-      "gloss": "elstu synir hans"
+      "gloss": "elstu synina"
     },
     {
       "surface": "הרג",
-      "gloss": "höfðu verið drepnir"
+      "gloss": "hafði drepið"
     },
     {
       "surface": "הגדוד",
@@ -96,15 +70,15 @@
     },
     {
       "surface": "למחנה",
-      "gloss": "til herbúðanna"
+      "gloss": "að herbúðunum"
     },
     {
       "surface": "וימלך",
-      "gloss": "varð konungur"
+      "gloss": "tók konungsdómi"
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Akhazjáhu"
+      "gloss": "Akhasjáhu"
     },
     {
       "surface": "בן",
@@ -123,6 +97,6 @@
       "gloss": "Júda"
     }
   ],
-  "timestamp": "2026-10-19T13:16:00.263923573Z",
+  "timestamp": "2026-10-19T14:34:04.410816101Z",
   "model": "glm-5.3"
 }

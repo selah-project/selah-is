@@ -5,23 +5,7 @@
   "book": "judges",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אלהי",
-      "rationale": "Fleirtala 'guði mín' með litlum staf — líkneski Mikha, ekki Elóhím."
-    }
-  ],
-  "translation": "Og hann sagði: Guði mína, þá er ég hafði gjört, hafið þér tekið, og ⟨את⟩ prestinn, og farið — og hvað er mér þá eftir? Og hvað er þetta sem þér segið mér: Hvað að þér?",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "e6942a3e40b0169bc8eba13b2db582dd1f0670b2f9d4de45f9197d133864502e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/18\/21-24.1792399992886.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði: Guðina mína ⟨את⟩, þá er ég gerði, hafið þér tekið, og ⟨את⟩ prestinn, og farið — og hvað á ég þá enn? Og hvað er þetta sem þér segið mér: Hvað þig varðar?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -30,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "guði mína"
+      "marks": "Guðina mína"
     },
     {
       "surface": "אלהי",
-      "gloss": "guði mína"
+      "gloss": "Guðana mína"
     },
     {
       "surface": "אשר",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "ég hafði gjört"
+      "gloss": "ég gerði"
     },
     {
       "surface": "לקחתם",
@@ -50,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "prestinn"
     },
     {
@@ -67,15 +51,15 @@
     },
     {
       "surface": "לי",
-      "gloss": "mér"
+      "gloss": "á ég"
     },
     {
       "surface": "עוד",
-      "gloss": "þá eftir"
+      "gloss": "enn"
     },
     {
       "surface": "ומה",
-      "gloss": "Og hvað"
+      "gloss": "og hvað"
     },
     {
       "surface": "זה",
@@ -83,7 +67,7 @@
     },
     {
       "surface": "תאמרו",
-      "gloss": "sem þér segið"
+      "gloss": "segja þér"
     },
     {
       "surface": "אלי",
@@ -91,13 +75,13 @@
     },
     {
       "surface": "מה",
-      "gloss": "Hvað"
+      "gloss": "hvað"
     },
     {
       "surface": "לך",
-      "gloss": "að þér"
+      "gloss": "þig varðar"
     }
   ],
-  "timestamp": "2026-10-19T08:53:12.887404492Z",
+  "timestamp": "2026-10-19T14:52:39.155941485Z",
   "model": "glm-5.3"
 }

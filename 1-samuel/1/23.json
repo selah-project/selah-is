@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "orð sitt",
-      "rationale": "את דברו — 'orð sitt': annaðhvort heit Hannar (1:11) eða spádóm um Samúel; þýðendur skiptast á."
-    },
-    {
-      "kind": "substitution",
-      "subject": "vígt af brjósti",
-      "rationale": "גמל með persónufornafn: 'venja af brjósti', bókstaflega 'gjalda honum'."
-    }
-  ],
-  "translation": "Og Elkana, maður hennar, sagði við hana: Gör það sem gott er í augum þínum; sittu þar til þú hefur vígt hann af brjósti; aðeins muni Jahve reisa ⟨את⟩ orð sitt. Og konan settist og gaf syni sínum brjóst, þar til hún hafði vígt hann af brjósti.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/1\/21-24.1792400193817.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Elqana, maður hennar, sagði við hana: Gjör það sem gott er í augum þínum, sitj þar til þú hefir afvænnt ⟨את⟩ hann; aðeins megi Jahve reisa ⟨את⟩ sitt orð. Og konan sat kyrr og gaf syni sínum brjóst ⟨את⟩, þar til hún hafði afvænnt ⟨את⟩ hann.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "og sagði"
+      "gloss": "Og…sagði"
     },
     {
       "surface": "לה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אלקנה",
-      "gloss": "Elkana"
+      "gloss": "Elqana"
     },
     {
       "surface": "אישה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "עשי",
-      "gloss": "gör"
+      "gloss": "Gjör"
     },
     {
       "surface": "הטוב",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "שבי",
-      "gloss": "sittu"
+      "gloss": "sitj"
     },
     {
       "surface": "עד",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "גמלך",
-      "gloss": "þú hefur vígt"
+      "gloss": "þú hefir afvænnt"
     },
     {
       "surface": "אתו",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "יקם",
-      "gloss": "reisi"
+      "gloss": "megi reisa"
     },
     {
       "surface": "יהוה",
@@ -88,15 +67,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "orð sitt"
+      "marks": "sitt orð"
     },
     {
       "surface": "דברו",
-      "gloss": "orð sitt"
+      "gloss": "sitt orð"
     },
     {
       "surface": "ותשב",
-      "gloss": "og settist"
+      "gloss": "Og konan sat kyrr"
     },
     {
       "surface": "האשה",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "ותינק",
-      "gloss": "og gaf brjóst"
+      "gloss": "og gaf…brjóst"
     },
     {
       "surface": "את",
@@ -121,7 +100,7 @@
     },
     {
       "surface": "גמלה",
-      "gloss": "hún hafði vígt"
+      "gloss": "hún hafði afvænnt"
     },
     {
       "surface": "אתו",
@@ -129,6 +108,6 @@
       "marks": "hann"
     }
   ],
-  "timestamp": "2026-10-19T08:56:33.818843693Z",
+  "timestamp": "2026-10-19T14:33:22.951536146Z",
   "model": "glm-5.3"
 }

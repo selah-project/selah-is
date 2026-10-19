@@ -5,37 +5,11 @@
   "book": "hosea",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Áhættusagnir (munu) og fornöfn bætt við — hebreskan notar hvorugt"
-    },
-    {
-      "kind": "crux",
-      "subject": "ופחדו אל",
-      "rationale": "„óttast við“ vs. „komu skelfandi til“ (JPS) — pakhad getur verið skelfing eða ótti"
-    },
-    {
-      "kind": "mystery",
-      "subject": "Davíð konungur þeirra",
-      "rationale": "„Davíð konungur þeirra“ í framtíð — hverjum er átt við, túlkað misjafnlegra"
-    }
-  ],
-  "translation": "Eftir það munu synir Ísraels snúa aftur og leita Jahve Elóhím sínna og Davíðs konungs síns, og óttast munu þeir Jahve og gæsku hans, í endi dagnanna.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "80fda9b08ffd36378bb707dd56134da5b9d6d0e7f701bf8d01b9723885178295",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/3\/5-5.1792408025635.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eftir það munu synir Ísrael snúa aftur og leita Jahve Elóhím síns og ⟨את⟩ Davíð konungs síns, og munu óttast Jahve og gæsku hans, á eindögum.",
   "tokens": [
     {
       "surface": "אחר",
-      "gloss": "eftir það"
+      "gloss": "Eftir það"
     },
     {
       "surface": "ישבו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels"
+      "gloss": "Ísrael"
     },
     {
       "surface": "ובקשו",
@@ -56,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve Elóhím sínna"
+      "marks": "Jahve Elóhím síns"
     },
     {
       "surface": "יהוה",
@@ -64,16 +38,16 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "Elóhím sínna"
+      "gloss": "Elóhím síns"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "Davíðs konungs síns"
+      "gloss": "⟨את⟩",
+      "marks": "Davíð konungs síns"
     },
     {
       "surface": "דוד",
-      "gloss": "Davíðs"
+      "gloss": "Davíð"
     },
     {
       "surface": "מלכם",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "ופחדו",
-      "gloss": "og óttast munu þeir"
+      "gloss": "og munu óttast"
     },
     {
       "surface": "אל",
@@ -101,13 +75,13 @@
     },
     {
       "surface": "באחרית",
-      "gloss": "í endi"
+      "gloss": "á eindögum"
     },
     {
       "surface": "הימים",
-      "gloss": "dagnanna"
+      "gloss": "daganna"
     }
   ],
-  "timestamp": "2026-10-19T11:07:05.636553813Z",
+  "timestamp": "2026-10-19T14:47:05.400215533Z",
   "model": "glm-5.3"
 }

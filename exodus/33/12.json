@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Jahve",
-      "rationale": "Mósje beinist beint að Jahve í annarri persónu — ekki stjórnandi heldur ákall"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ידע\/הודעתני",
-      "rationale": "Sama rót 'að þekkja' tvisvar: 'þú kunnst mér ekki' móti 'ég þekki þig' — mótspenna Mósje"
-    }
-  ],
-  "translation": "Og Mósje sagði við Jahve: Sjá, þú segir mér: Leið þetta fólk upp — en þú hefir ekki látið mig vita ⟨את⟩ þann sem þú sendir með mér; og þú hefir sagt: Ég þekki þig eftir nafni, og þú hefir einnig fundið náð í augum mínum.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "85cbddf449aa78c5af5482a86b2200eec2a0c4010073ca9bf21eef93c97f075c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/33\/9-12.1792395146327.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje sagði við Jahve: Sjá, þú segir við mig: Leið ⟨את⟩ þetta fólkið upp, en þú hefur ekki kunngert mér ⟨את⟩ það sem þú munt senda með mér — og þú hefur sagt: Ég þekki þig eftir nafni, og þú hefur einnig fundið náð í augum mínum.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og… sagði"
+      "gloss": "Og sagði"
     },
     {
       "surface": "משה",
@@ -58,20 +37,20 @@
     },
     {
       "surface": "אלי",
-      "gloss": "mér"
+      "gloss": "við mig"
     },
     {
       "surface": "העל",
-      "gloss": "Leið… upp"
+      "gloss": "Leið upp"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þetta fólk"
+      "marks": "þetta fólkið"
     },
     {
       "surface": "העם",
-      "gloss": "fólkið"
+      "gloss": "þetta fólkið"
     },
     {
       "surface": "הזה",
@@ -87,20 +66,20 @@
     },
     {
       "surface": "הודעתני",
-      "gloss": "hefir… látið mig vita"
+      "gloss": "hefur kunngert mér"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þann sem þú sendir með mér"
+      "marks": "það sem þú munt senda með mér"
     },
     {
       "surface": "אשר",
-      "gloss": "þann sem"
+      "gloss": "það sem"
     },
     {
       "surface": "תשלח",
-      "gloss": "þú sendir"
+      "gloss": "þú munt senda"
     },
     {
       "surface": "עמי",
@@ -112,7 +91,7 @@
     },
     {
       "surface": "אמרת",
-      "gloss": "hefir sagt"
+      "gloss": "hefur sagt"
     },
     {
       "surface": "ידעתיך",
@@ -128,7 +107,7 @@
     },
     {
       "surface": "מצאת",
-      "gloss": "þú hefir fundið"
+      "gloss": "hefur fundið"
     },
     {
       "surface": "חן",
@@ -139,6 +118,6 @@
       "gloss": "í augum mínum"
     }
   ],
-  "timestamp": "2026-10-19T07:32:26.330951973Z",
+  "timestamp": "2026-10-19T14:41:20.300950836Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "גדיתיו",
-      "rationale": "Sjaldgæft orð, 'áfara-bakkar'; rótin גדה (flæða) — lítið eitt orð, þýtt 'bökkum sínum'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "ויבריחו",
-      "rationale": "Bókstaflega 'þeir létu flýja' — þ.e. hreyktu í burtu alla í dölunum; þýtt 'ógnuðu\/drýfuðu'."
-    },
-    {
-      "kind": "addition",
-      "subject": "eru",
-      "rationale": "Hebreskan segir aðeins 'þessir þeir'; samtenging greinir bætt við."
-    }
-  ],
-  "translation": "Þeir eru þeir sem fóru yfir ⟨את⟩ Jardán í fyrsta mánuðinum, og hann var fullur yfir öllum bökkum sínum, og þeir ógnuðu öllum dalunum til austurs og til vesturs.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/12\/13-16.1792414804721.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þessir eru þeir sem fóru yfir ⟨את⟩ Jardán í fyrsta mánuðinum, en hann flæddi þá yfir alla sína strendur, og þeir hröktu á flótta ⟨את⟩ alla dalbúana, í austur og í vestur.",
   "tokens": [
     {
       "surface": "אלה",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "והוא",
-      "gloss": "og hann"
+      "gloss": "en hann"
     },
     {
       "surface": "ממלא",
-      "gloss": "var fullur"
+      "gloss": "flæddi"
     },
     {
       "surface": "על",
@@ -80,38 +54,38 @@
     },
     {
       "surface": "כל",
-      "gloss": "öllum"
+      "gloss": "alla"
     },
     {
       "surface": "גדיתיו",
-      "gloss": "bökkum sínum"
+      "gloss": "strendur sínar"
     },
     {
       "surface": "ויבריחו",
-      "gloss": "ógnuðu"
+      "gloss": "og þeir hröktu á flótta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "öllum dalunum"
+      "marks": "alla dalbúana"
     },
     {
       "surface": "כל",
-      "gloss": "öllum"
+      "gloss": "alla"
     },
     {
       "surface": "העמקים",
-      "gloss": "dalunum"
+      "gloss": "dalbúana"
     },
     {
       "surface": "למזרח",
-      "gloss": "til austurs"
+      "gloss": "í austur"
     },
     {
       "surface": "ולמערב",
-      "gloss": "og til vesturs"
+      "gloss": "og í vestur"
     }
   ],
-  "timestamp": "2026-10-19T13:00:04.722171082Z",
+  "timestamp": "2026-10-19T14:30:44.540517Z",
   "model": "glm-5.3"
 }

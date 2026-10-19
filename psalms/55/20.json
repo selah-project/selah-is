@@ -5,37 +5,11 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 55,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "למו",
-      "rationale": "Forsetningarendingin -lmó („þeim“) fylgir með í orðinu á undan; ekki sérstakt orð."
-    },
-    {
-      "kind": "crux",
-      "subject": "קדם",
-      "rationale": "„sitjandi frá fornu fari“ — KJV „sá sem ver eigi til forna“; qdem tím- eða staðarmerking."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויענם",
-      "rationale": "Grunnmerking „þrýsta niður“ — KJV „þjá þá“; hér „svara“ (í rétti), báðar mögulegar."
-    }
-  ],
-  "translation": "El mun heyr⟨a⟩ og svara þeim, og ⟨hann sem⟩ sitr ⟨af⟩ fornöldu — Sela — þeir sem ekki hafa breytingar, og þeir óttast ekki Elóhím.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/55\/17-20.1792409894229.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "El mun heyra og mæta þeim, og sá er sesstitill er frá fornöld, séla, þeir sem eiga engar breytingar og óttast ekki Elóhím.",
   "tokens": [
     {
       "surface": "ישמע",
-      "gloss": "mun heyr⟨a⟩"
+      "gloss": "mun heyra"
     },
     {
       "surface": "אל",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "ויענם",
-      "gloss": "og svara þeim"
+      "gloss": "og mæta þeim"
     },
     {
       "surface": "וישב",
-      "gloss": "og ⟨hann sem⟩ sitr"
+      "gloss": "og sá er sesstitill er"
     },
     {
       "surface": "קדם",
-      "gloss": "⟨af⟩ fornöldu"
+      "gloss": "frá fornöld"
     },
     {
       "surface": "סלה",
-      "gloss": "Sela"
+      "gloss": "séla"
     },
     {
       "surface": "אשר",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "ekki hafa"
+      "gloss": "enga"
     },
     {
       "surface": "חליפות",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "למו",
-      "gloss": ""
+      "gloss": "eiga"
     },
     {
       "surface": "ולא",
@@ -86,6 +60,6 @@
       "gloss": "Elóhím"
     }
   ],
-  "timestamp": "2026-10-19T11:38:14.230266185Z",
+  "timestamp": "2026-10-19T14:59:01.455558327Z",
   "model": "glm-5.3"
 }

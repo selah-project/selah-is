@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "תבנית er „mynd\/ferill“ — snið eftir himneskri fyrirmynd, Misjkan notað sem heitið stendur"
-    },
-    {
-      "kind": "mystery",
-      "subject": "is",
-      "rationale": "Móse sér fyrirmyndina á fjallinu — myndin er sýnd, ekki lýst"
-    }
-  ],
-  "translation": "Eftir öllu því sem ég sýni þér — ⟨את⟩ mynd Misjkansins og ⟨את⟩ mynd alls áhöldanna hans — svo skuluð þér gera.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/25\/9-12.1792394807951.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eftir allt það sem ég sýni ⟨את⟩ þér — ⟨את⟩ mynd Misjkansins og ⟨את⟩ mynd allra áhalda þess — þannig skuluð þér gera ⟨það⟩.",
   "tokens": [
     {
       "surface": "ככל",
-      "gloss": "eftir öllu"
+      "gloss": "eftir allt"
     },
     {
       "surface": "אשר",
@@ -46,7 +25,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ þér"
+      "gloss": "⟨את⟩þér",
+      "marks": "þér — merkið bendir á þig, andlag sýningarinnar"
     },
     {
       "surface": "את",
@@ -59,12 +39,12 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "Misjkaninn"
+      "gloss": "Misjkansins"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "mynd alls áhöldanna hans"
+      "gloss": "og ⟨את⟩",
+      "marks": "mynd allra áhalda þess"
     },
     {
       "surface": "תבנית",
@@ -72,21 +52,21 @@
     },
     {
       "surface": "כל",
-      "gloss": "alls"
+      "gloss": "allra"
     },
     {
       "surface": "כליו",
-      "gloss": "áhöldanna hans"
+      "gloss": "áhalda þess"
     },
     {
       "surface": "וכן",
-      "gloss": "svo"
+      "gloss": "þannig"
     },
     {
       "surface": "תעשו",
       "gloss": "skuluð þér gera"
     }
   ],
-  "timestamp": "2026-10-19T07:26:47.951974388Z",
+  "timestamp": "2026-10-19T14:41:19.038769055Z",
   "model": "glm-5.3"
 }

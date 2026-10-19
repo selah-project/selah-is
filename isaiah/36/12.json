@@ -5,48 +5,27 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שיניהם",
-      "rationale": "\"þvag þeirra“ — hebreskan segir þvag; ASV\/ylt mieðja því í \"vatn“ sem eufemisma; hér er hið bókstaflega geymt."
-    },
-    {
-      "kind": "you",
-      "subject": "sendimennir Júda",
-      "rationale": "Rabsake hafnar ósk þeirra og beinir orðum sínum vísvitandi að fólkinu á múrnum."
-    }
-  ],
-  "translation": "En Rabsake sagði: Herra minn sendi mig til herra þíns og til þín til að tala ⟨את⟩ þessi orð? Er það ekki um mannana þá sem sitja á múrnum — að éta ⟨את⟩ saur sinn og drekka ⟨את⟩ þvag sitt með ykkur?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "0e2b3308d7df75c401a1e1f34c61335478373a80b1a4f7d94d91294a023447d4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/36\/9-12.1792404524155.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Ravsjaka mælti: Herra minn sendi mig til herra þíns og til þín að tala ⟨את⟩ þessi orð — er það ekki heldur um mennina sem sitja á múrinninn, að þeir skuli éta ⟨את⟩ saur sinn og drekka ⟨את⟩ þvag sitt með ykkur?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "en sagði"
+      "gloss": "og mælti"
     },
     {
       "surface": "רב",
-      "gloss": "Rab-"
+      "gloss": "Ravsjaka"
     },
     {
       "surface": "שקה",
-      "gloss": "sake"
+      "gloss": "Ravsjaka"
     },
     {
       "surface": "האל",
-      "gloss": "hvort"
+      "gloss": "til"
     },
     {
       "surface": "אדניך",
-      "gloss": "herra þinn"
+      "gloss": "herra þíns"
     },
     {
       "surface": "ואליך",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "til að tala"
+      "gloss": "að tala"
     },
     {
       "surface": "את",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "החומה",
-      "gloss": "múrnum"
+      "gloss": "múrinninn"
     },
     {
       "surface": "לאכל",
@@ -132,6 +111,6 @@
       "gloss": "með ykkur"
     }
   ],
-  "timestamp": "2026-10-19T10:08:44.156966575Z",
+  "timestamp": "2026-10-19T14:48:12.234089927Z",
   "model": "glm-5.3"
 }

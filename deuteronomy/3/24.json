@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Jahve",
-      "rationale": "Bæn Mósesar beint að Jahve; spurningin „hver er El“ er hvatningarræða innan bænar."
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Skipting tvöfalda nafnsins Adónaí Jahve er ekki endursögð; íslenskan heldur báðum nöfnunum saman eins og hebreskan."
-    }
-  ],
-  "translation": "Adónaí Jahve, þú byrjaðir að sýna þjóni þínum ⟨את⟩ stórleika þína og ⟨את⟩ hinn sterku hönd þína; því að hver er El í himnum og á jörðu, sem gjörir eins og verk þín og eins og kraftaverk þín?",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b5ada990de1836bf3691b784021a2406ca4d67bd89c68ef9402fd127bfad40e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/3\/21-24.1792397558012.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Adónaí Jahve, þú hefur byrjað að sýna þjóni þínum ⟨את⟩ dásemd þína og ⟨את⟩ hinn sterka hönd þína — því hverjist El er á himnunum og á jörðinni, sá er gjörir eins og verk þín og eins og kraftaverk þín?",
   "tokens": [
     {
       "surface": "אדני",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "החלות",
-      "gloss": "byrjaðir"
+      "gloss": "hefur byrjað"
     },
     {
       "surface": "להראות",
@@ -60,16 +39,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "stórleika þína"
+      "marks": "dásemd þína"
     },
     {
       "surface": "גדלך",
-      "gloss": "stórleika þína"
+      "gloss": "dásemd þína"
     },
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "hinn sterku hönd"
+      "marks": "hinn sterka hönd þína"
     },
     {
       "surface": "ידך",
@@ -81,11 +60,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "því að"
+      "gloss": "því"
     },
     {
       "surface": "מי",
-      "gloss": "hver"
+      "gloss": "hverjist"
     },
     {
       "surface": "אל",
@@ -93,15 +72,15 @@
     },
     {
       "surface": "בשמים",
-      "gloss": "í himnum"
+      "gloss": "á himnunum"
     },
     {
       "surface": "ובארץ",
-      "gloss": "og á jörðu"
+      "gloss": "og á jörðinni"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "sá er"
     },
     {
       "surface": "יעשה",
@@ -116,6 +95,6 @@
       "gloss": "og eins og kraftaverk þín"
     }
   ],
-  "timestamp": "2026-10-19T08:12:38.013403687Z",
+  "timestamp": "2026-10-19T14:38:51.415035048Z",
   "model": "glm-5.3"
 }

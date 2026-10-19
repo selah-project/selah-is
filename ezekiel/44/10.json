@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "כי אם hér er stílföst samstæða („heldur einungis“) á eftir neituninni í v. 9; engin sérstök íslensk orð fyrir hvort orðið fyrir sig."
-    },
-    {
-      "kind": "substitution",
-      "subject": "aflátgöður",
-      "rationale": "גלול merkir bókstaflega „hnólutrè“ (kylfa); íslenska orðið heldur myndinni af trénu en ekki aðeins „líkneski“."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תעות\/תעו",
-      "rationale": "Rótina תעה endurtekin tvisvar — „í villu Ísraels ... sem villtust“ — endurspeglað en upphaflega samhljóða."
-    }
-  ],
-  "translation": "Því að Levítarnir, ⟨þeir⟩ sem víkjaðu langt frá mér í villu Ísraels — ⟨þeir⟩ sem villtust frá mér eftir aflátgöðum sínum — skal bera missynd sína.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "2aea20f85e16ae1c8e5847244af8415692ddab60797adbddf739cc0316362d5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/44\/9-12.1792408015978.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En Levítarnir, þeir sem fjarlægðust mig í villu Ísraels, þeir sem villtust frá mér eftir skurguðum sínum — þeir skulu bera misgjörð sína.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "því að"
+      "gloss": "en"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨heldur⟩"
     },
     {
       "surface": "הלוים",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨þeir sem⟩"
+      "gloss": "þeir sem"
     },
     {
       "surface": "רחקו",
-      "gloss": "víkjaðu langt"
+      "gloss": "fjarlægðust"
     },
     {
       "surface": "מעלי",
-      "gloss": "frá mér"
+      "gloss": "mig"
     },
     {
       "surface": "בתעות",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨þeir sem⟩"
+      "gloss": "þeir sem"
     },
     {
       "surface": "תעו",
@@ -83,17 +57,17 @@
     },
     {
       "surface": "גלוליהם",
-      "gloss": "aflátgöðum sínum"
+      "gloss": "skurguðum sínum"
     },
     {
       "surface": "ונשאו",
-      "gloss": "skal bera"
+      "gloss": "þeir skulu bera"
     },
     {
       "surface": "עונם",
-      "gloss": "missynd sína"
+      "gloss": "misgjörð sína"
     }
   ],
-  "timestamp": "2026-10-19T11:06:55.979612329Z",
+  "timestamp": "2026-10-19T14:44:12.683397584Z",
   "model": "glm-5.3"
 }

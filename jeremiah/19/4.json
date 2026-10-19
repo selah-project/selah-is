@@ -5,49 +5,23 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וינכרו",
-      "rationale": "«gerðu að útlendum» (kjv: estranged) gegn «vanhelguðu» (geneva) og «görðu þekktan» (ylt) — rótin nokrí er um að kenna sem útlendan"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "fyrsta אשר eftir יען er fellt — íslenska «þar sem» nær yfir bæði orð"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יַעַן … עֲזָבֻנִי",
-      "rationale": "endurtekið sigtaksorð frá Jeremía — ekki hægt að varðveita endhrifsluna á íslensku"
-    }
-  ],
-  "translation": "Þar sem þeir yfirgáfu mig og gerðu þennan stað að útlendum og brenndu reykjandi fórnir á honum fyrir aðra guði, sem hvorki þeir né feður þeirra né konungar Júda höfðu þekkt, og hafa fyllt ⟨את⟩ þennan stað með blóð saklausa.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "d0bd1d2dd261149eddb6b17ccb915a36653cd9c456d447239f40227fc5e5cf90",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/19\/1-4.1792405854109.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vegna þess að þeir yfirgáfu mig og gerðu þennan stað að framandi og reyktu þar reykelsi fyrir öðrum guði, sem hvorki þeir né feður þeirra né konungar Júda höfðu þekkt, og fylltu ⟨את⟩ þennan stað með blóði saklausa;",
   "tokens": [
     {
       "surface": "יען",
-      "gloss": "Þar sem"
+      "gloss": "vegna þess að"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "að"
     },
     {
       "surface": "עזבני",
-      "gloss": "þeir yfirgáfu mig"
+      "gloss": "yfirgáfu mig"
     },
     {
       "surface": "וינכרו",
-      "gloss": "og gerðu að útlendum"
+      "gloss": "gerðu að framandi"
     },
     {
       "surface": "את",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "stað"
+      "gloss": "þennan stað"
     },
     {
       "surface": "הזה",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "ויקטרו",
-      "gloss": "og brenndu reykjandi fórnir"
+      "gloss": "og reyktu reykelsi"
     },
     {
       "surface": "בו",
-      "gloss": "á honum"
+      "gloss": "þar"
     },
     {
       "surface": "לאלהים",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "aðra"
+      "gloss": "öðrum"
     },
     {
       "surface": "אשר",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "ומלאו",
-      "gloss": "og hafa fyllt"
+      "gloss": "og fylltu"
     },
     {
       "surface": "את",
@@ -117,7 +91,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "stað"
+      "gloss": "þennan stað"
     },
     {
       "surface": "הזה",
@@ -125,13 +99,13 @@
     },
     {
       "surface": "דם",
-      "gloss": "með blóð"
+      "gloss": "með blóði"
     },
     {
       "surface": "נקים",
       "gloss": "saklausa"
     }
   ],
-  "timestamp": "2026-10-19T10:30:54.111036002Z",
+  "timestamp": "2026-10-19T14:48:47.252355261Z",
   "model": "glm-5.3"
 }

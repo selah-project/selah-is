@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "boðsgátt beint til Ísraelsmanna: 'heyrið ekki'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "מהבלים frá הבל 'ándardráttur, tómúð' — 'gjöra yður að engu með tómúð', bókstæð orðmynd varðveitt"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הנבאים\/הנבאים",
-      "rationale": "sama form spámanna og spá-sagnarinnar — 'the-who-prophesy' endurtakan fellur í eina íslenska aðsetningu"
-    }
-  ],
-  "translation": "Svo segir Jahve Tsevaót: Heyrið ekki á orð spámannanna sem spá yður — þeir gjöra yður að engu með tómúð; sýn hjarta síns tala þeir, ekki frá munn Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/13-16.1792405937715.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Svo segir Jahve Tsevaót: Ekki hlýðið á orð spámannanna sem spáa ykkur — þeir gera ⟨את⟩ ykkur fánýt; sýn eigin hjarta tala þeir, ekki úr munn Jahve.",
   "tokens": [
     {
       "surface": "כה",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "ekki"
+      "gloss": "Ekki"
     },
     {
       "surface": "תשמעו",
-      "gloss": "Heyrið"
+      "gloss": "hlýðið"
     },
     {
       "surface": "על",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "sem spá"
+      "gloss": "spáa"
     },
     {
       "surface": "לכם",
-      "gloss": "yður"
+      "gloss": "ykkur"
     },
     {
       "surface": "מהבלים",
-      "gloss": "gjöra yður að engu með tómúð"
+      "gloss": "gera-fánýt"
     },
     {
       "surface": "המה",
@@ -87,8 +61,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður",
-      "marks": "sýn hjarta síns"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "חזון",
@@ -96,11 +70,11 @@
     },
     {
       "surface": "לבם",
-      "gloss": "hjarta síns"
+      "gloss": "hjarta-þeirra"
     },
     {
       "surface": "ידברו",
-      "gloss": "tala þeir"
+      "gloss": "tala"
     },
     {
       "surface": "לא",
@@ -108,13 +82,13 @@
     },
     {
       "surface": "מפי",
-      "gloss": "frá munn"
+      "gloss": "úr-munn"
     },
     {
       "surface": "יהוה",
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T10:32:17.717159479Z",
+  "timestamp": "2026-10-19T14:49:18.498197084Z",
   "model": "glm-5.3"
 }

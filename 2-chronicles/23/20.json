@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שרי המאות",
-      "rationale": "'höfðingjar hundruðanna' — yfirmenn hersveita sem hver telur hundrað"
-    },
-    {
-      "kind": "measurement",
-      "subject": "hundruðanna",
-      "rationale": "teljarið herdeilda í hundruðum"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "⟨á⟩ — forsetning í íslenskri setningu fyrir hásæti"
-    }
-  ],
-  "translation": "Og hann tók ⟨את⟩ höfðingja hundruðanna og ⟨את⟩ göfguðu mennina og ⟨את⟩ valdsmennina í lýðnum og ⟨את⟩ allan lýð landsins, og fékk konungnum niður úr húsi Jahve, og þeir gengu inn um efra hliðið að húsi konungsins og settu konunginn ⟨את⟩ á hásæti konungdæmsins.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "585db9fcec29ca14deb44dce472312265fef9d8bec1c37b8a04de1879b251df4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/23\/17-20.1792415747831.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann tók ⟨את⟩ höfðingja hundruðanna og ⟨את⟩ tignararnar og ⟨את⟩ yfirvöldin yfir þjóðinni og ⟨את⟩ allan lýð landsins, og hann færði ⟨את⟩ konunginn niður úr húsi Jahve, og þeir gengu inn um hlið ⟨hið⟩ efra, að húsi konungsins, og þeir settu ⟨את⟩ konunginn á hásæti konungdómsins.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -52,29 +26,29 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "göfguðu mennina"
+      "gloss": "og ⟨את⟩",
+      "marks": "tignararnar"
     },
     {
       "surface": "האדירים",
-      "gloss": "göfguðu mennina"
+      "gloss": "tignararnar"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "valdsmennina"
+      "gloss": "og ⟨את⟩",
+      "marks": "yfirvöldin yfir þjóðinni"
     },
     {
       "surface": "המושלים",
-      "gloss": "valdsmennina"
+      "gloss": "yfirvöldin"
     },
     {
       "surface": "בעם",
-      "gloss": "í lýðnum"
+      "gloss": "yfir þjóðinni"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "allan lýð landsins"
     },
     {
@@ -91,16 +65,16 @@
     },
     {
       "surface": "ויורד",
-      "gloss": "og fékk niður"
+      "gloss": "og hann færði niður"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "konungnum"
+      "marks": "konunginn"
     },
     {
       "surface": "המלך",
-      "gloss": "konungnum"
+      "gloss": "konunginn"
     },
     {
       "surface": "מבית",
@@ -120,11 +94,11 @@
     },
     {
       "surface": "שער",
-      "gloss": "hliðið"
+      "gloss": "hlið"
     },
     {
       "surface": "העליון",
-      "gloss": "efra"
+      "gloss": "⟨hið⟩ efra"
     },
     {
       "surface": "בית",
@@ -136,7 +110,7 @@
     },
     {
       "surface": "ויושיבו",
-      "gloss": "og settu"
+      "gloss": "og þeir settu"
     },
     {
       "surface": "את",
@@ -157,9 +131,9 @@
     },
     {
       "surface": "הממלכה",
-      "gloss": "konungdæmsins"
+      "gloss": "konungdómsins"
     }
   ],
-  "timestamp": "2026-10-19T13:15:47.832824498Z",
+  "timestamp": "2026-10-19T14:33:53.798302856Z",
   "model": "glm-5.3"
 }

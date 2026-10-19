@@ -5,23 +5,7 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 46,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "משגב",
-      "rationale": "„Skjólberg“ — hrökk eða hátt eyði; KJV „refuge“, JPS „high tower“."
-    }
-  ],
-  "translation": "Jahve Tsevaót er með oss, skjól伯格 fyrir oss er Elóhím Jaakov. Sela.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/46\/9-12.1792409779295.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve Tsevaót er ⟨með⟩ okkur; Misjkan-hár vígi fyrir okkur — Elóhím Jaakofs. Sela.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "עמנו",
-      "gloss": "er með oss"
+      "gloss": "er með okkur"
     },
     {
       "surface": "משגב",
-      "gloss": "skjólberg"
+      "gloss": "hátt víggi"
     },
     {
       "surface": "לנו",
-      "gloss": "fyrir oss"
+      "gloss": "fyrir okkur"
     },
     {
       "surface": "אלהי",
@@ -49,13 +33,13 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Jaakov"
+      "gloss": "Jaakofs"
     },
     {
       "surface": "סלה",
       "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-10-19T11:36:19.296597213Z",
+  "timestamp": "2026-10-19T14:57:40.890681297Z",
   "model": "glm-5.3"
 }

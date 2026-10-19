@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Mælingar versins: átján álnir hæð, tólf álna víða, fjórar fingurbreiddir þykkt."
-    },
-    {
-      "kind": "substitution",
-      "subject": "eir",
-      "rationale": "נחשת er eir\/málmur; 'brons' í ýmsum þýðingum er sögulega víðtækara."
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Tvítyggi tölurnar (átján, tólf) eru á íslensku eitt orð; annað táknið fellur í glósu."
-    }
-  ],
-  "translation": "Og súlurnar — átján álnir var hæð súlunnar einnar, og snæri tólf álna umkringdi hana, og þykkt hennar var fjórar fingurbreiddir; hún var hol.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e5311180b94c362b84f8c838ccca97e3d238df78b5029224c3c372977f53dc72",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/52\/21-24.1792406740674.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og súlurnar — átján áma hæð ⟨var⟩ hinn eini súlunnar, og snæri tólf áma nam umhverfis hana, og þykkt hennar ⟨var⟩ fjórar fingur — hann er holur.",
   "tokens": [
     {
       "surface": "והעמודים",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "שמנה",
-      "gloss": "átt-"
+      "gloss": "átján"
     },
     {
       "surface": "עשרה",
-      "gloss": "-tján"
+      "gloss": "—"
     },
     {
       "surface": "אמה",
-      "gloss": "álnir"
+      "gloss": "áma"
     },
     {
       "surface": "קומה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "einnar"
+      "gloss": "hinn eini"
     },
     {
       "surface": "וחוט",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "אמה",
-      "gloss": "álna"
+      "gloss": "áma"
     },
     {
       "surface": "יסבנו",
-      "gloss": "umkringdi hana"
+      "gloss": "nam umhverfis hana"
     },
     {
       "surface": "ועביו",
@@ -91,13 +65,13 @@
     },
     {
       "surface": "אצבעות",
-      "gloss": "fingurbreiddir"
+      "gloss": "fingur"
     },
     {
       "surface": "נבוב",
-      "gloss": "hol"
+      "gloss": "hann er holur"
     }
   ],
-  "timestamp": "2026-10-19T10:45:40.675292149Z",
+  "timestamp": "2026-10-19T14:50:36.986742223Z",
   "model": "glm-5.3"
 }

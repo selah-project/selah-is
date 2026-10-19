@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Davíð",
-      "rationale": "Davíð er færður beint fyrir augnablik Sjáúls konungs."
-    }
-  ],
-  "translation": "Og er Davíð sneri aftur eftir að hafa slegið ⟨את⟩ Pelisítann, tók Avnér hann og færði hann fyrir framan Sjáúl, og höfuð Pelisítans í hönd hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/57-58.1792400617733.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þegar Davíð sneri aftur eftir að hafa slegið ⟨את⟩ Filisteann, þá tók Abner ⟨את⟩ hann og leiddi hann fyrir framliga Sjául, og höfuð Filisteansins í hendi hans.",
   "tokens": [
     {
       "surface": "וכשוב",
-      "gloss": "Og er…sneri aftur"
+      "gloss": "Og þegar ... sneri aftur"
     },
     {
       "surface": "דוד",
@@ -38,36 +22,36 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Pelisítann"
+      "marks": "Filisteann"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Pelisítann"
+      "gloss": "Filisteann"
     },
     {
       "surface": "ויקח",
-      "gloss": "tók"
+      "gloss": "þá tók"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "hann (Avnér tók hann)"
+      "marks": "hann (Davíð)"
     },
     {
       "surface": "אבנר",
-      "gloss": "Avnér"
+      "gloss": "Abner"
     },
     {
       "surface": "ויבאהו",
-      "gloss": "færði hann"
+      "gloss": "og leiddi hann"
     },
     {
       "surface": "לפני",
-      "gloss": "fyrir framan"
+      "gloss": "fyrir framliga"
     },
     {
       "surface": "שאול",
-      "gloss": "Sjáúl"
+      "gloss": "Sjául"
     },
     {
       "surface": "וראש",
@@ -75,13 +59,13 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Pelisítans"
+      "gloss": "Filisteansins"
     },
     {
       "surface": "בידו",
-      "gloss": "í hönd hans"
+      "gloss": "í hendi hans"
     }
   ],
-  "timestamp": "2026-10-19T09:03:37.734557395Z",
+  "timestamp": "2026-10-19T14:32:45.437518030Z",
   "model": "glm-5.3"
 }

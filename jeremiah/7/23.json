@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "tvö orð, 'heldur' einnig til íslensku — אל ekki gefið eigin glósu"
-    },
-    {
-      "kind": "invitation",
-      "subject": "שמעו בקולי",
-      "rationale": "boðunarháttur, hlýðni á ráð?? nei — hlýðið á rödd mína, kallað til hlýðni"
-    }
-  ],
-  "translation": "heldur ⟨את⟩ þetta orð bauð ég ⟨את⟩ þeim, svo sagði: Hlýðið á rödd mína, og ég verð ykkar að Elóhím og þér verðið mér að þjóð, og gangið á alla þá leið er ég byð ykkur, til þess að vel fari ykkur.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "8a803c1d405f5b1d7a019403cebc581b1361f7aeda2e06d93631bdaae9d60753",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/7\/21-24.1792405499859.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Heldur ⟨את⟩ þetta orð bauð ég ⟨את⟩ þeim, og sagði: Hljóðið á rödd minni, og ég verð ykkur að Elóhím, og þér verðið mér að þjóð, og gangið á allri þeirri leið sem ég býð ⟨את⟩ ykkur, til þess að ykkur fari vel.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "heldur"
     },
     {
       "surface": "את",
@@ -55,19 +34,20 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þeim"
+      "gloss": "⟨את⟩ þeim",
+      "marks": "þeim (feðurnar)"
     },
     {
       "surface": "לאמר",
-      "gloss": "svo sagði"
+      "gloss": "og sagði"
     },
     {
       "surface": "שמעו",
-      "gloss": "Hlýðið"
+      "gloss": "Hljóðið"
     },
     {
       "surface": "בקולי",
-      "gloss": "á rödd mína"
+      "gloss": "á rödd minni"
     },
     {
       "surface": "והייתי",
@@ -75,7 +55,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "ykkar"
+      "gloss": "ykkur"
     },
     {
       "surface": "לאלהים",
@@ -103,23 +83,24 @@
     },
     {
       "surface": "בכל",
-      "gloss": "á alla"
+      "gloss": "á allri"
     },
     {
       "surface": "הדרך",
-      "gloss": "þá leið"
+      "gloss": "þeirri leið"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "אצוה",
-      "gloss": "ég byð"
+      "gloss": "ég býð"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
     },
     {
       "surface": "למען",
@@ -127,13 +108,13 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "vel fari"
+      "gloss": "fari vel"
     },
     {
       "surface": "לכם",
       "gloss": "ykkur"
     }
   ],
-  "timestamp": "2026-10-19T10:24:59.860851584Z",
+  "timestamp": "2026-10-19T14:50:24.439682705Z",
   "model": "glm-5.3"
 }

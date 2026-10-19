@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "לין 'liggja yfir nótt' — raunveruleg mynd um að halda launum inni um nóttina."
-    }
-  ],
-  "translation": "Þú skalt ekki kúga náunga þinn ⟨את⟩ og ekki ræna; laun verkamanns sem hjá þér er skal ekki liggja hjá þér yfir nótt þar til morguns.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/13-16.1792396036564.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þú skalt ekki kúga ⟨את⟩ náunga þinn, né ræna hann; laun leigumanns skulu ekki liggja ⟨את⟩ hjá þér um nóttina ⟨fram⟩ til morguns.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "תעשק",
-      "gloss": "kúga"
+      "gloss": "skalt kúga"
     },
     {
       "surface": "את",
@@ -42,7 +26,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "og ekki"
+      "gloss": "né"
     },
     {
       "surface": "תגזל",
@@ -54,29 +38,29 @@
     },
     {
       "surface": "תלין",
-      "gloss": "liggja yfir nótt"
+      "gloss": "skulu liggja um nóttina"
     },
     {
       "surface": "פעלת",
-      "gloss": "laun verkamanns"
+      "gloss": "laun"
     },
     {
       "surface": "שכיר",
-      "gloss": "verkamanni"
+      "gloss": "leigumanns"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ hjá þér"
+      "gloss": "hjá þér ⟨את⟩"
     },
     {
       "surface": "עד",
-      "gloss": "þar til"
+      "gloss": "⟨fram⟩ til"
     },
     {
       "surface": "בקר",
       "gloss": "morguns"
     }
   ],
-  "timestamp": "2026-10-19T07:47:16.565704326Z",
+  "timestamp": "2026-10-19T14:54:28.874012016Z",
   "model": "glm-5.3"
 }

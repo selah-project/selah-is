@@ -5,33 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "גורל\/מנה\/מד",
-      "rationale": "Lota- og mælitáknmál: hlutskipti, málmi og mál — það sem vegið er upp og mælt,"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בשקר",
-      "rationale": "Orðið er 'lygi\/skyndiverk', ekki 'ómönn' — þýtt 'lygi'"
-    },
-    {
-      "kind": "elision",
-      "subject": "מאתי",
-      "rationale": "Forsetningin 'má' (frá) merkir 'frá mínum hendi' — ⟨mér⟩ bætt við í íslensku"
-    }
-  ],
-  "translation": "Þetta er hlutskipti þitt, málmi hlutar þíns frá ⟨mér⟩, segir Jahve, því að þú gleymdir ⟨את⟩ mér og treystir í lygi.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "ca8c1ed7db494c8d88084d6e18d5d07ac5ad522494543ce890fd9f6c7a65372c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/13\/25-27.1792405635953.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þetta er hlutskipti þitt, mælt afgerð þín frá mér, segir Jahve, vegna þess að þú gleymdir ⟨את⟩ mér og treystir lyginu.",
   "tokens": [
     {
       "surface": "זה",
@@ -43,16 +17,15 @@
     },
     {
       "surface": "מנת",
-      "gloss": "málmi"
+      "gloss": "afgerð"
     },
     {
       "surface": "מדיך",
-      "gloss": "hlutar þíns"
+      "gloss": "mælt af þér"
     },
     {
       "surface": "מאתי",
-      "gloss": "frá ⟨את⟩ mér",
-      "marks": "hlutar þíns"
+      "gloss": "⟨את⟩ frá mér"
     },
     {
       "surface": "נאם",
@@ -64,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "því að"
+      "gloss": "vegna þess að"
     },
     {
       "surface": "שכחת",
-      "gloss": "gleymdir"
+      "gloss": "þú gleymdir"
     },
     {
       "surface": "אותי",
@@ -81,9 +54,9 @@
     },
     {
       "surface": "בשקר",
-      "gloss": "í lygi"
+      "gloss": "lyginu"
     }
   ],
-  "timestamp": "2026-10-19T10:27:15.954282881Z",
+  "timestamp": "2026-10-19T14:48:04.897121847Z",
   "model": "glm-5.3"
 }

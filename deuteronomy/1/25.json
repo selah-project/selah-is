@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "עתנו er samfell mynd af את + súffiks; ⟨את⟩ merkið er varðveitt og marks tilgreinir andlagið 'orð'"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Móse vitnar í rannsóknarmennina gagnvart Ísrael; beint til Ísraels"
-    }
-  ],
-  "translation": "Og þeir tóku í höndum sér af ávöxtum landsins og fóru niður til okkar og földu okkur orð og sögðu: Gott er landið sem Jahve Elóhím vor gefur okkur.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/25-28.1792397619536.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og tóku með höndum sér af ávöxtum landsins og færðu það niður til okkar, og báru ⟨את⟩ okkur orð og sögðu: Gott er landið sem Jahve Elóhím vor gefur okkur.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "Og þeir tóku"
+      "gloss": "og tóku"
     },
     {
       "surface": "בידם",
-      "gloss": "í höndum sér"
+      "gloss": "með höndum sér"
     },
     {
       "surface": "מפרי",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויורדו",
-      "gloss": "og fóru niður"
+      "gloss": "og færðu niður"
     },
     {
       "surface": "אלינו",
@@ -54,12 +33,12 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "og földu"
+      "gloss": "og báru"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "okkur"
+      "marks": "okkur (orðið)"
     },
     {
       "surface": "דבר",
@@ -71,11 +50,11 @@
     },
     {
       "surface": "טובה",
-      "gloss": "Gott"
+      "gloss": "gott"
     },
     {
       "surface": "הארץ",
-      "gloss": "er landið"
+      "gloss": "landið"
     },
     {
       "surface": "אשר",
@@ -91,13 +70,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "gefir"
+      "gloss": "gefur"
     },
     {
       "surface": "לנו",
       "gloss": "okkur"
     }
   ],
-  "timestamp": "2026-10-19T08:13:39.537580355Z",
+  "timestamp": "2026-10-19T14:37:34.906839634Z",
   "model": "glm-5.3"
 }

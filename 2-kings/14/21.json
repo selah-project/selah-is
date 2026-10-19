@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska þarf sagnirnar „var“ og „gamall“ sem hebreskan tilgreinir aðeins með tölunni „sextán ára“."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Orðið á sér enga samsvarandi íslenska málmynd og fellur saman við „hann“."
-    },
-    {
-      "kind": "measurement",
-      "subject": "sextán ára",
-      "rationale": "Aldur konungsins talinn í árum."
-    }
-  ],
-  "translation": "Og allt fólkið Júda tók Azarja — hann var sextán ára gamall — og gerðu hann að konungi í stað föður hans, Amatsja.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "7e0516ed2931750e800642a522e7600a86b6a2e97a63deb1defb8d4343a43479",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/14\/21-24.1792403183652.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og allt fólkið í Júda tók ⟨את⟩ Asaríju, og hann var sextán ára gamall, og gerðu hann að konungi í stað föður hans, Amatsíju.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "tók"
+      "gloss": "Og ... tóku"
     },
     {
       "surface": "כל",
@@ -47,44 +21,45 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Júda"
+      "gloss": "í Júda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Azarja"
+      "marks": "Asaríju"
     },
     {
       "surface": "עזריה",
-      "gloss": "Azarja"
+      "gloss": "Asaríju"
     },
     {
       "surface": "והוא",
-      "gloss": "hann"
+      "gloss": "og hann"
     },
     {
       "surface": "בן",
-      "gloss": "var"
+      "gloss": "sonur"
     },
     {
       "surface": "שש",
-      "gloss": "sex"
+      "gloss": "sextán"
     },
     {
       "surface": "עשרה",
-      "gloss": "tán"
+      "gloss": "sextán"
     },
     {
       "surface": "שנה",
-      "gloss": "ára gamall"
+      "gloss": "ára"
     },
     {
       "surface": "וימלכו",
-      "gloss": "gerðu hann að konungi"
+      "gloss": "og gerðu ... að konungi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "hann ⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "תחת",
@@ -96,9 +71,9 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amatsja"
+      "gloss": "Amatsíju"
     }
   ],
-  "timestamp": "2026-10-19T09:46:23.652785919Z",
+  "timestamp": "2026-10-19T14:35:09.985668746Z",
   "model": "glm-5.3"
 }

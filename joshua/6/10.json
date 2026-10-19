@@ -5,37 +5,16 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רוע",
-      "rationale": "Rótinn kemur fyrir þrisvar í versinu (תריעו \/ הריעו \/ והריעתם) — bannið og boðið nota sömu sögn; endurtekningin kemst ekki jafn skýrt fram á íslensku."
-    },
-    {
-      "kind": "you",
-      "subject": "til Ísraelsmanna",
-      "rationale": "Jehósúa talar beint til fólksins með boðshætti í fleirtölu."
-    }
-  ],
-  "translation": "Og Jehósúa baud ⟨את⟩ fólkinu og sagði: Þér skuluð ekki hrópa né láta rödd ykkar heyrast, og ekki skal orð fara út úr munni ykkar, þar til á þann dag sem ég segi ykkur: Hrópið — þá skuluð þér hrópa.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "394fc078a3e4aedf636a5f5ce1cfef312692e2f6f9914fc4cf641908e055cffb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/6\/9-12.1792398757629.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ lýðsins bauð Jósjúa ⟨að segja⟩: Þér skuluð ekki öskra, né láta rödd yðar heyrast, ⟨את⟩, og enginn orð skal fara út úr munni yðar, þangað til þann dag sem ég segi yður: Öskrið! Þá skuluð þér öskra.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "fólkið"
+      "marks": "lýðsins"
     },
     {
       "surface": "העם",
-      "gloss": "fólkið"
+      "gloss": "lýðsins"
     },
     {
       "surface": "צוה",
@@ -43,11 +22,11 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jehósúa"
+      "gloss": "Jósjúa"
     },
     {
       "surface": "לאמר",
-      "gloss": "og sagði"
+      "gloss": "⟨að segja⟩"
     },
     {
       "surface": "לא",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "תריעו",
-      "gloss": "hrópið"
+      "gloss": "öskrið þér"
     },
     {
       "surface": "ולא",
@@ -63,16 +42,16 @@
     },
     {
       "surface": "תשמיעו",
-      "gloss": "látið heyrast"
+      "gloss": "látið heyra"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rödd ykkar"
+      "marks": "rödd yðar"
     },
     {
       "surface": "קולכם",
-      "gloss": "rödd ykkar"
+      "gloss": "rödd yðar"
     },
     {
       "surface": "ולא",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "יצא",
-      "gloss": "skal fara"
+      "gloss": "skal fara út"
     },
     {
       "surface": "מפיכם",
-      "gloss": "út úr munni ykkar"
+      "gloss": "úr munni yðar"
     },
     {
       "surface": "דבר",
@@ -92,29 +71,29 @@
     },
     {
       "surface": "עד",
-      "gloss": "þar til"
+      "gloss": "þangað til"
     },
     {
       "surface": "יום",
-      "gloss": "á þann dag"
+      "gloss": "dag"
     },
     {
       "surface": "אמרי",
-      "gloss": "sem ég segi"
+      "gloss": "segir"
     },
     {
       "surface": "אליכם",
-      "gloss": "ykkur"
+      "gloss": "yður"
     },
     {
       "surface": "הריעו",
-      "gloss": "Hrópið"
+      "gloss": "Öskrið!"
     },
     {
       "surface": "והריעתם",
-      "gloss": "þá skuluð þér hrópa"
+      "gloss": "þá skuluð þér öskra"
     }
   ],
-  "timestamp": "2026-10-19T08:32:37.630756140Z",
+  "timestamp": "2026-10-19T14:52:16.717898860Z",
   "model": "glm-5.3"
 }

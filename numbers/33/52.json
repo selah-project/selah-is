@@ -5,40 +5,24 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "משכיות",
-      "rationale": "„Útskornar skrautmyndir“ (KJZ „pictures“, JPS „figured stones“) — annars vegar skornar myndir á stein eða vegg, hins vegar hugarmyndir."
-    }
-  ],
-  "translation": "þá skuluð þið reka burt alla íbúendur landsins fyrir andlit yðar, og eyða öllum útskornum skrautmyndum þeirra, og alla steyptu líkneski þeirra skuluð þið eyða, og alla hæðarhelgistaði þeirra skuluð þið níða.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "e4ef8efc134e5aca57d3aefdb178cb9c9fb6449423ac0a58af4c6b96690143ce",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/33\/49-52.1792397463414.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þér skuluð reka burt alla íbúa landsins frá yðar andliti, og þér skuluð eyða ⟨את⟩ öllum höggmyndum þeirra, og ⟨את⟩ alla stálmyndir þeirra skuluð þér eyða, og ⟨את⟩ öllum hæðirnar þeirra skuluð þér leggja í eyði.",
   "tokens": [
     {
       "surface": "והורשתם",
-      "gloss": "þá skuluð þið reka burt"
+      "gloss": "Og þér skuluð reka burt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alla íbúendur landsins"
+      "marks": "alla íbúa"
     },
     {
       "surface": "כל",
-      "gloss": "alla"
+      "gloss": "all"
     },
     {
       "surface": "ישבי",
-      "gloss": "íbúendur"
+      "gloss": "íbúar"
     },
     {
       "surface": "הארץ",
@@ -46,16 +30,16 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "fyrir andlit yðar"
+      "gloss": "frá yðar andliti"
     },
     {
       "surface": "ואבדתם",
-      "gloss": "og eyða"
+      "gloss": "og þér skuluð eyða"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "öllum útskornum skrautmyndum þeirra"
+      "marks": "öllum höggmyndum þeirra"
     },
     {
       "surface": "כל",
@@ -63,12 +47,12 @@
     },
     {
       "surface": "משכיתם",
-      "gloss": "útskornum skrautmyndum þeirra"
+      "gloss": "höggmyndir þeirra"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "alla steyptu líkneski þeirra"
+      "gloss": "⟨את⟩",
+      "marks": "alla stálmyndir þeirra"
     },
     {
       "surface": "כל",
@@ -76,34 +60,34 @@
     },
     {
       "surface": "צלמי",
-      "gloss": "líkneski"
+      "gloss": "myndir"
     },
     {
       "surface": "מסכתם",
-      "gloss": "steyptu"
+      "gloss": "stálmyndir þeirra"
     },
     {
       "surface": "תאבדו",
-      "gloss": "skuluð þið eyða"
+      "gloss": "skuluð þér eyða"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "alla hæðarhelgistaði þeirra"
+      "gloss": "⟨את⟩",
+      "marks": "öllum hæðirnar þeirra"
     },
     {
       "surface": "כל",
-      "gloss": "alla"
+      "gloss": "öllum"
     },
     {
       "surface": "במתם",
-      "gloss": "hæðarhelgistaði þeirra"
+      "gloss": "hæðir þeirra"
     },
     {
       "surface": "תשמידו",
-      "gloss": "skuluð þið níða"
+      "gloss": "skuluð þér leggja í eyði"
     }
   ],
-  "timestamp": "2026-10-19T08:11:03.416003174Z",
+  "timestamp": "2026-10-19T14:56:24.369220410Z",
   "model": "glm-5.3"
 }

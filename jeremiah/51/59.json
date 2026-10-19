@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 51,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שר מנוחה",
-      "rationale": "„kyrrðarhöfðingi“ (KJV, orðrétt) á móti „kamarþjónn\/hirðstjóri“ (ASV, JPS frá lxx tamias); hebreskan sjálf segir „höfðingi kyrrðar\/dvalar“"
-    },
-    {
-      "kind": "substitution",
-      "subject": "את (með Tsidkijahu)",
-      "rationale": "fyrri את er merki beins oglunar, en það síðara er samtenging „með“ — sömu stafir, tvö orð"
-    }
-  ],
-  "translation": "Orðið sem Jirmejahu spámaður bauð Seraju, syni Neriju, syni Makhseju, er hann fór ⟨את⟩ með Tsidkijahu, konung Júda, til Babels, í fjórða ári valdatíðar hans; og Seraja var kyrrðarhöfðingi.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "eea8ee844a05b94ffa89ee7d5b917b6de9bf40a974f84664db2d441b91c82ee1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/51\/57-60.1792406727610.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Það orð sem Jirmejahu spámaðurinn bauð Serajahu, syni Nerijahu, syni Machsejahu, er hann fór ⟨את⟩ með Tsidkijahu, konung Júda, til Babel, í fjórða ári konungsstigs hans; og Serajahu var hvíldarhöfðingi.",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "Orðið"
+      "gloss": "Það orð"
     },
     {
       "surface": "אשר",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "spámaður"
+      "gloss": "spámaðurinn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Seraju"
+      "marks": "Serajahu, syni Nerijahu, syni Machsejahu"
     },
     {
       "surface": "שריה",
-      "gloss": "Seraju"
+      "gloss": "Serajahu"
     },
     {
       "surface": "בן",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "נריה",
-      "gloss": "Neriju"
+      "gloss": "Nerijahu"
     },
     {
       "surface": "בן",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "מחסיה",
-      "gloss": "Makhseju"
+      "gloss": "Machsejahu"
     },
     {
       "surface": "בלכתו",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "בבל",
-      "gloss": "til Babels"
+      "gloss": "til Babel"
     },
     {
       "surface": "בשנת",
@@ -103,25 +82,25 @@
     },
     {
       "surface": "הרבעית",
-      "gloss": "valdatíðar hans"
+      "gloss": "fjórða"
     },
     {
       "surface": "למלכו",
-      "gloss": "valdatíðar hans"
+      "gloss": "konungsstigs hans"
     },
     {
       "surface": "ושריה",
-      "gloss": "og Seraja"
+      "gloss": "og Serajahu"
     },
     {
       "surface": "שר",
-      "gloss": "var höfðingi"
+      "gloss": "höfðingi"
     },
     {
       "surface": "מנוחה",
-      "gloss": "kyrrðar"
+      "gloss": "hvíldar-"
     }
   ],
-  "timestamp": "2026-10-19T10:45:27.612073176Z",
+  "timestamp": "2026-10-19T14:50:30.711745183Z",
   "model": "glm-5.3"
 }

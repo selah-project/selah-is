@@ -5,35 +5,19 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 95,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "עשהו hefur viðskeytt aftengt fornafn (־הו); ⟨את⟩-merkið merkir beint hlutinn 'það' (hafið)."
-    }
-  ],
-  "translation": "Hjá honum er hafið, og hann gerði ⟨את⟩ það, og þurrlendið mótuðu hendur hans.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/95\/5-8.1792410466526.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sjá er hans ⟨er⟩ hið mikla haf, og hann gjörði ⟨את⟩ það, og þurrlendið mótuðu hendur hans.",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "sjá er"
     },
     {
       "surface": "לו",
-      "gloss": "hjá honum"
+      "gloss": "hans"
     },
     {
       "surface": "הים",
-      "gloss": "hafið"
+      "gloss": "hið mikla haf"
     },
     {
       "surface": "והוא",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "עשהו",
-      "gloss": "gerði ⟨את⟩ það"
+      "gloss": "gjörði ⟨את⟩ það"
     },
     {
       "surface": "ויבשת",
@@ -56,6 +40,6 @@
       "gloss": "mótuðu"
     }
   ],
-  "timestamp": "2026-10-19T11:47:46.527272228Z",
+  "timestamp": "2026-10-19T14:57:39.734682561Z",
   "model": "glm-5.3"
 }

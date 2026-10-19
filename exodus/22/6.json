@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "forsetnin fellur saman við þágufallið í íslensku"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כלים",
-      "rationale": "orðið er „áhöld\/föng“ almennt; „óðagripi“ þröng merking en náttúruleg í samhengi gæslu"
-    },
-    {
-      "kind": "measurement",
-      "subject": "שנים",
-      "rationale": "tvöfaldur bóti — lagamæling"
-    }
-  ],
-  "translation": "Þegar maður gefur náunga sínum silfur eða óðagripi til gæslu og stolið er úr húsi mannins — ef þjófinn finnst, skal hann greiða tvöfalt.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/5-8.1792394765705.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ef maður gefur náunga sínum silfur eða áhöld til geymslu og það er stolið úr húsi mannins — ef þjófurinn finnst, skal hann greiða ⟨את⟩ tveggja[fold]?",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Þegar"
+      "gloss": "Ef"
     },
     {
       "surface": "יתן",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "náunga"
     },
     {
       "surface": "רעהו",
-      "gloss": "náunga sínum"
+      "gloss": "sínum"
     },
     {
       "surface": "כסף",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "כלים",
-      "gloss": "óðagripi"
+      "gloss": "áhöld"
     },
     {
       "surface": "לשמר",
-      "gloss": "til gæslu"
+      "gloss": "til geymslu"
     },
     {
       "surface": "וגנב",
-      "gloss": "og stolið er"
+      "gloss": "og það er stolið"
     },
     {
       "surface": "מבית",
@@ -91,17 +65,17 @@
     },
     {
       "surface": "הגנב",
-      "gloss": "þjófinn"
+      "gloss": "þjófurinn"
     },
     {
       "surface": "ישלם",
-      "gloss": "skal greiða"
+      "gloss": "skal hann greiða"
     },
     {
       "surface": "שנים",
-      "gloss": "tvöfalt"
+      "gloss": "tveggja[fold]"
     }
   ],
-  "timestamp": "2026-10-19T07:26:05.706917741Z",
+  "timestamp": "2026-10-19T14:41:28.861797611Z",
   "model": "glm-5.3"
 }

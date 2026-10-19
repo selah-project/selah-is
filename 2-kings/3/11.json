@@ -5,45 +5,19 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "דרש את יהוה — 'að leita Jahve', tæknið orðatiltæki um að spyrja Guð til ráðs gegnum spámann"
-    },
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "'hellti vatni á hendur Elía' — þjónustumerki lærisveinans við meistarann, tekið bókstaflega"
-    },
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Spurning Jehósjafats vekur söguna — 'Er hér enginn spámaður Jahve?'"
-    }
-  ],
-  "translation": "Og Jehósjafat sagði: Er hér enginn spámaður Jahve, svo að vérulum ⟨את⟩ Jahve af honum? Og einn af þjónum konungs Ísraels svaraði og sagði: Hér er Elísa sonur Sjafat, sem hellti vatni á hendur Elía.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "858259e49cdb4caad24f2b628b9fd189bca89096455c2c8f68deca18e6a385ac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/3\/9-12.1792402828653.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jósafat sagði: Er þá engi spámaður Jahve hér, svo að vér megum leita Jahve ⟨את⟩ með honum? Og einn af þjónum konungs Ísraels svaraði og sagði: Hér er Elísa, sonur Sjafat, sá er hellti vatni á hendur Elía.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sagði"
+      "gloss": "Og … sagði"
     },
     {
       "surface": "יהושפט",
-      "gloss": "Jehósjafat"
+      "gloss": "Jósafat"
     },
     {
       "surface": "האין",
-      "gloss": "Er enginn"
+      "gloss": "Er þá engi"
     },
     {
       "surface": "פה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "ונדרשה",
-      "gloss": "svo að vérulum"
+      "gloss": "svo að vér megum leita"
     },
     {
       "surface": "את",
@@ -72,12 +46,11 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "af ⟨את⟩-honum",
-      "marks": "Elísa"
+      "gloss": "⟨את⟩ með honum"
     },
     {
       "surface": "ויען",
-      "gloss": "svaraði"
+      "gloss": "Og … svaraði"
     },
     {
       "surface": "אחד",
@@ -105,7 +78,7 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "er Elísa"
+      "gloss": "Elísa"
     },
     {
       "surface": "בן",
@@ -117,7 +90,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "sá er"
     },
     {
       "surface": "יצק",
@@ -140,6 +113,6 @@
       "gloss": "Elía"
     }
   ],
-  "timestamp": "2026-10-19T09:40:28.654852974Z",
+  "timestamp": "2026-10-19T14:36:18.194017305Z",
   "model": "glm-5.3"
 }

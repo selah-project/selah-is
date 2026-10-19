@@ -5,87 +5,68 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "hebreska 'ekki er veggurinn og ekki þeir sem kvá yfir' — íslenska bætir við 'til' til málfræðilegrar fullkomnar"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אין...ואין",
-      "rationale": "tvöföld neitun í stuttum fullyrðingum, hnyttin endurtökusnið"
-    }
-  ],
-  "translation": "Og ég fullkomna ⟨את⟩ heift mína á vegginum og á þeim er kvá yfir hann með ótemjuðum kalki, og ég segi ykkur: Vegggurinn er ekki til, og þeir er kvá yfir hann eru ekki til, segir Adónaí Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6f915cd1ddd834bc3742177b888654d6785d0782ef5b6cc575c933924d69516d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/13\/13-16.1792406945820.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og eg skal fullkomna reiði mína ⟨á⟩ ⟨את⟩ glæðina mína ⟨á⟩ vegginn og á þeim sem kálka hann, og eg skal segja yður: Veggurinn er ekki, og þeir sem kálka hann eru ekki.",
   "tokens": [
     {
       "surface": "וכליתי",
-      "gloss": "Og ég fullkomna"
+      "gloss": "Og eg skal fullkomna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "heift mína"
+      "marks": "glæði mín (reiði mín)"
     },
     {
       "surface": "חמתי",
-      "gloss": "heift mína"
+      "gloss": "glæði mín"
     },
     {
       "surface": "בקיר",
-      "gloss": "á vegginum"
+      "gloss": "á vegginn"
     },
     {
       "surface": "ובטחים",
-      "gloss": "og á þeim er kvá yfir"
+      "gloss": "og á þeim sem kálka"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yfir hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann (vegginn)"
     },
     {
       "surface": "תפל",
-      "gloss": "með ótemjuðum kalki"
+      "gloss": "með óblönduðum kálki"
     },
     {
       "surface": "ואמר",
-      "gloss": "og ég segi"
+      "gloss": "og eg skal segja"
     },
     {
       "surface": "לכם",
-      "gloss": "ykkur"
+      "gloss": "yður"
     },
     {
       "surface": "אין",
-      "gloss": "er ekki til"
+      "gloss": "er ekki"
     },
     {
       "surface": "הקיר",
-      "gloss": "veggurinn"
+      "gloss": "Veggurinn"
     },
     {
       "surface": "ואין",
-      "gloss": "og ekki til eru"
+      "gloss": "og eru ekki"
     },
     {
       "surface": "הטחים",
-      "gloss": "þeir er kvá yfir"
+      "gloss": "þeir sem kálka"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann (vegginn)"
     }
   ],
-  "timestamp": "2026-10-19T10:49:05.821361472Z",
+  "timestamp": "2026-10-19T14:41:57.954966654Z",
   "model": "glm-5.3"
 }

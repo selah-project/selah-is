@@ -5,41 +5,16 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'⟨þeirra⟩' bætt við til að binda samstæðuna við 'land Emorrítanna'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבר",
-      "rationale": "בעבר הירדט 'handan Jórdan' deilar rót with Ivrí (Hebrei); orðmynd tapast á íslensku"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Jahve heldur áfram beinni ræðu til Ísraels: 'ég leiddi ykkur inn'"
-    }
-  ],
-  "translation": "Og ég leiddi ykkur inn í land Emorríta, ⟨þeirra⟩ sem bjuggu handan Jórdan; og þeir börðust gegn ⟨את⟩ ykkur, og ég gaf ⟨את⟩ þá í hönd ykkar, og þið tókuð ⟨את⟩ land þeirra í eign, og ég eyddi þeim fyrir auglit ykkar.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/24\/5-8.1792399433075.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég leiddi ⟨את⟩ ykkur í land Emoríanna, ⟨sem⟩ bjuggu handan Jórdan; og þeir börðust við ⟨את⟩ ykkur, og ég gaf ⟨את⟩ þá í hendi yðar, og þér tókuð ⟨את⟩ land þeirra í eign, og ég eyddi þeim fyrir auglit yðar.",
   "tokens": [
     {
       "surface": "ואבאה",
-      "gloss": "Og ég leiddi inn"
+      "gloss": "og ég leiddi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "אל",
@@ -51,11 +26,11 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emorrítanna"
+      "gloss": "Emoríanna"
     },
     {
       "surface": "היושב",
-      "gloss": "sem bjuggu"
+      "gloss": "⟨sem⟩ bjuggu"
     },
     {
       "surface": "בעבר",
@@ -71,7 +46,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ gegn ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "ואתן",
@@ -79,16 +55,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þá",
-      "marks": "í hönd ykkar"
+      "gloss": "⟨את⟩",
+      "marks": "þá"
     },
     {
       "surface": "בידכם",
-      "gloss": "í hönd ykkar"
+      "gloss": "í hendi yðar"
     },
     {
       "surface": "ותירשו",
-      "gloss": "og þið tókuð í eign"
+      "gloss": "og þér tókuð í eign"
     },
     {
       "surface": "את",
@@ -105,9 +81,9 @@
     },
     {
       "surface": "מפניכם",
-      "gloss": "fyrir auglit ykkar"
+      "gloss": "fyrir auglit yðar"
     }
   ],
-  "timestamp": "2026-10-19T08:43:53.076745301Z",
+  "timestamp": "2026-10-19T14:52:08.912815594Z",
   "model": "glm-5.3"
 }

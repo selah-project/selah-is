@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אף אני ... גם אני",
-      "rationale": "Tvöföld áhersla á 'ég' — Jahve svarar spegilmynd sínu gegn þeim sem fóru kerí gegn honum."
-    },
-    {
-      "kind": "measurement",
-      "subject": "שבע",
-      "rationale": "Sjöfalt aftur — fjórða sjöfalltsloforðið í kaflanum (26:18, 21, 24, 28)."
-    }
-  ],
-  "translation": "þá mun einnig ég ganga gegn yður í óvinættu og slá yður — heldur ég — sjöfalt, fyrir syndir yðar.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/21-24.1792396249350.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þá mun ég líka ganga gegn ykkur með kærulausum hug, og ég mun ljósta ⟨את⟩ ykkur, einnig ég, sjö sinnum fyrir syndir ykkar.",
   "tokens": [
     {
       "surface": "והלכתי",
-      "gloss": "þá mun ganga"
+      "gloss": "þá mun ég ganga"
     },
     {
       "surface": "אף",
-      "gloss": "einnig"
+      "gloss": "líka"
     },
     {
       "surface": "אני",
@@ -42,23 +21,24 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "gegn yður"
+      "gloss": "gegn ykkur"
     },
     {
       "surface": "בקרי",
-      "gloss": "í óvinættu"
+      "gloss": "með kærulausum hug"
     },
     {
       "surface": "והכיתי",
-      "gloss": "og slá"
+      "gloss": "og ég mun ljósta"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "גם",
-      "gloss": "heldur"
+      "gloss": "einnig"
     },
     {
       "surface": "אני",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "sjöfalt"
+      "gloss": "sjö sinnum"
     },
     {
       "surface": "על",
@@ -74,9 +54,9 @@
     },
     {
       "surface": "חטאתיכם",
-      "gloss": "syndir yðar"
+      "gloss": "syndir ykkar"
     }
   ],
-  "timestamp": "2026-10-19T07:50:49.351815815Z",
+  "timestamp": "2026-10-19T14:54:08.875580507Z",
   "model": "glm-5.3"
 }

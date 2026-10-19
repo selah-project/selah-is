@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "reyr í vatni",
-      "rationale": "Myndhetja: Ísrael hrakið sem reyr sem svifar í vatni — rótarbundið en ekki orðrétt."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Asjerur",
-      "rationale": "אשרים er Asjera-stoðarnar\/gyðjulíkneskin, ekki almenn 'lunda' eða 'garðar'."
-    }
-  ],
-  "translation": "Og Jahve mun slá ⟨את⟩ Ísrael eins og reyrinn svifar í vatninu, og hann mun rífa ⟨את⟩ Ísrael upp af þessari góðu jörðu sem hann gaf feðrum þeirra, og útstrýja þá handan árinnar, því að þeir gerðu ⟨את⟩ sínar Asjerur, þær sem reita Jahve til reiði.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/14\/13-16.1792402488186.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jahve mun slá ⟨את⟩ Ísrael eins og reyrið svifur í vatninu, og hann mun rísa ⟨את⟩ Ísrael upp af þessari góðu jörð, sem hann gaf feðrum þeirra, og dreifa þeim handan árinnar, því að þeir gerðu ⟨את⟩ Aséra-styttur sínar, þeir sem reiða Jahve.",
   "tokens": [
     {
       "surface": "והכה",
-      "gloss": "mun slá"
+      "gloss": "Og mun slá"
     },
     {
       "surface": "יהוה",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "ינוד",
-      "gloss": "svifar"
+      "gloss": "svifur"
     },
     {
       "surface": "הקנה",
-      "gloss": "reyrinn"
+      "gloss": "reyrið"
     },
     {
       "surface": "במים",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "ונתש",
-      "gloss": "mun rífa upp"
+      "gloss": "og mun rísa upp"
     },
     {
       "surface": "את",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "jörðunni"
+      "gloss": "jörðinni"
     },
     {
       "surface": "הטובה",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "וזרם",
-      "gloss": "og útstrýja"
+      "gloss": "og dreifa þeim"
     },
     {
       "surface": "מעבר",
@@ -120,7 +99,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "þær sem"
+      "gloss": "að"
     },
     {
       "surface": "עשו",
@@ -129,15 +108,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sínar Asjerur"
+      "marks": "Aséra-styttur sínar"
     },
     {
       "surface": "אשריהם",
-      "gloss": "sínar Asjerur"
+      "gloss": "Aséra-styttur sínar"
     },
     {
       "surface": "מכעיסים",
-      "gloss": "reita til reiði"
+      "gloss": "þeir sem reiða"
     },
     {
       "surface": "את",
@@ -149,6 +128,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T09:34:48.187948031Z",
+  "timestamp": "2026-10-19T14:32:30.227980942Z",
   "model": "glm-5.3"
 }

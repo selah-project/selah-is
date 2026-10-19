@@ -5,35 +5,20 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sáttmálsformúlan",
-      "rationale": "„mun vera ykkur að Elóhím“ — l-medformúlan (til að vera) er lögð fram með íslensku hjálparsögn en hebreska notar eingöngu forskeytið l-"
-    }
-  ],
-  "translation": "Og ég mun taka ykkur mér að fólki, og ég mun vera ykkur að Elóhím, og þér skuluð vita að ég er Jahve, Elóhím ykkar, sá sem leiðir ykkur út undan byrðum Mitsrajím.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/6\/5-8.1792394202795.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Ég mun taka ⟨את⟩ ykkur til mín að fólki, og Ég mun verða ykkur að Elóhím, og þér munuð þekkjast að Ég er Jahve Elóhím ykkar, sá sem fer með ⟨את⟩ ykkur út undan byrðum Mitsrajím.",
   "tokens": [
     {
       "surface": "ולקחתי",
-      "gloss": "Og ég mun taka"
+      "gloss": "Og Ég mun taka"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "לי",
-      "gloss": "mér"
+      "gloss": "til mín"
     },
     {
       "surface": "לעם",
@@ -41,7 +26,7 @@
     },
     {
       "surface": "והייתי",
-      "gloss": "og ég mun vera"
+      "gloss": "og Ég mun verða"
     },
     {
       "surface": "לכם",
@@ -53,7 +38,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "og þér skuluð vita"
+      "gloss": "og þér munuð þekkjast"
     },
     {
       "surface": "כי",
@@ -61,7 +46,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ég"
+      "gloss": "Ég"
     },
     {
       "surface": "יהוה",
@@ -73,11 +58,12 @@
     },
     {
       "surface": "המוציא",
-      "gloss": "sá sem leiðir út"
+      "gloss": "sá sem fer með út"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "מתחת",
@@ -92,6 +78,6 @@
       "gloss": "Mitsrajím"
     }
   ],
-  "timestamp": "2026-10-19T07:16:42.797911495Z",
+  "timestamp": "2026-10-19T14:42:23.752655364Z",
   "model": "glm-5.3"
 }

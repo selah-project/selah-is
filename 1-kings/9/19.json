@@ -5,33 +5,12 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חשק\/חשק",
-      "rationale": "Nafnorðið og sagnorðið eru sama rótin — „langhaldið sem hann hafði langhald að uppfylla“; endurtekningin glatar í þýðingu."
-    },
-    {
-      "kind": "addition",
-      "subject": "það sem",
-      "rationale": "Íslenskan þyrfti tengiorð til að gera חשק að viðfangi; hebreskan setur nafnorðið beint."
-    }
-  ],
-  "translation": "og ⟨את⟩ allar birgðaborgirnar, sem Sjælómó átti, og ⟨את⟩ borgir reiðhestanna, og ⟨את⟩ það sem Sjælómó hafði löngun til að byggja í Jerúsjalajím og í Levanon og í öllu landsvæði ríkis síns.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/9\/17-20.1792402226171.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ allar borgirnar hábirganna sem Sjelómó átti, og ⟨את⟩ borgir vagnanna og ⟨את⟩ borgir riddaranna, og ⟨את⟩ það sem Sjelómó girrtist að byggja í Jerúsjalajím og í Levanon og í allri landi ríkis síns.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "allar birgðaborgirnar"
+      "gloss": "⟨את⟩",
+      "marks": "allar borgirnar hábirganna"
     },
     {
       "surface": "כל",
@@ -39,11 +18,11 @@
     },
     {
       "surface": "ערי",
-      "gloss": "borgir"
+      "gloss": "borgirnar"
     },
     {
       "surface": "המסכנות",
-      "gloss": "birgða-"
+      "gloss": "hábirganna"
     },
     {
       "surface": "אשר",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "לשלמה",
-      "gloss": "Sjælómó"
+      "gloss": "Sjelómó"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "borgir hraðvagnanna"
+      "gloss": "⟨את⟩",
+      "marks": "borgir vagnanna"
     },
     {
       "surface": "ערי",
@@ -68,11 +47,11 @@
     },
     {
       "surface": "הרכב",
-      "gloss": "hraðvagna"
+      "gloss": "vagnanna"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "borgir riddaranna"
     },
     {
@@ -81,20 +60,20 @@
     },
     {
       "surface": "הפרשים",
-      "gloss": "reiðhesta"
+      "gloss": "riddaranna"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "langhaldi Sjælómó"
+      "gloss": "⟨את⟩",
+      "marks": "það sem Sjelómó girrtist að byggja"
     },
     {
       "surface": "חשק",
-      "gloss": "langhald"
+      "gloss": "það sem ... girrtist"
     },
     {
       "surface": "שלמה",
-      "gloss": "Sjælómó"
+      "gloss": "Sjelómó"
     },
     {
       "surface": "אשר",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "חשק",
-      "gloss": "hafði löngun"
+      "gloss": "girrtist"
     },
     {
       "surface": "לבנות",
@@ -118,17 +97,17 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "og í öllu"
+      "gloss": "og í allri"
     },
     {
       "surface": "ארץ",
-      "gloss": "landsvæði"
+      "gloss": "landi"
     },
     {
       "surface": "ממשלתו",
       "gloss": "ríkis síns"
     }
   ],
-  "timestamp": "2026-10-19T09:30:26.172181256Z",
+  "timestamp": "2026-10-19T14:32:30.136592572Z",
   "model": "glm-5.3"
 }

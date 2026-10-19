@@ -5,40 +5,19 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Hebreska upphafssambandið אל undir bæn er fallið brott; Ísrael myndar sambandið með forsetningu."
-    },
-    {
-      "kind": "you",
-      "subject": "Salómon til Jahve",
-      "rationale": "Bænarávarp beint til Guðs frá helgðum templi Salómons."
-    }
-  ],
-  "translation": "Og þú skalt heyra bænir þjóns þíns og þjóðar þinnar Ísraels, er þær biðja ‹til› þessa staðar, og þú skalt heyra frá stað seturs þíns, frá himnunum, og heyra og fyrirgefa.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "1743845ebee4d2a33fae10f1646de824c15cb5fd09f6bdcfd476f621bd22b62a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/6\/21-24.1792415271068.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þú skalt hlýða á bænabænarorð þjóns þíns og lýðs þíns Ísraels, þegar þeir biðja til ⟨ess⟩ staðar ⟨þessa⟩; og þú skalt heyra frá staðnum þar sem þú situr, frá himninum, og þú skalt heyra og fyrirgefa.",
   "tokens": [
     {
       "surface": "ושמעת",
-      "gloss": "Og þú skalt heyra"
+      "gloss": "Og þú skalt hlýða"
     },
     {
       "surface": "אל",
-      "gloss": "(til)"
+      "gloss": "á"
     },
     {
       "surface": "תחנוני",
-      "gloss": "bænir"
+      "gloss": "bænabænarorð"
     },
     {
       "surface": "עבדך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ועמך",
-      "gloss": "og þjóðar þinnar"
+      "gloss": "og lýðs þíns"
     },
     {
       "surface": "ישראל",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "þegar"
     },
     {
       "surface": "יתפללו",
-      "gloss": "þær biðja"
+      "gloss": "þeir biðja"
     },
     {
       "surface": "אל",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "þessa"
+      "gloss": "⟨þessa⟩"
     },
     {
       "surface": "ואתה",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "ממקום",
-      "gloss": "frá stað"
+      "gloss": "frá staðnum"
     },
     {
       "surface": "שבתך",
-      "gloss": "seturs þíns"
+      "gloss": "þar sem þú situr"
     },
     {
       "surface": "מן",
@@ -94,17 +73,17 @@
     },
     {
       "surface": "השמים",
-      "gloss": "himnunum"
+      "gloss": "himninum"
     },
     {
       "surface": "ושמעת",
-      "gloss": "og heyra"
+      "gloss": "og þú skalt heyra"
     },
     {
       "surface": "וסלחת",
       "gloss": "og fyrirgefa"
     }
   ],
-  "timestamp": "2026-10-19T13:07:51.069477016Z",
+  "timestamp": "2026-10-19T14:34:57.485087015Z",
   "model": "glm-5.3"
 }

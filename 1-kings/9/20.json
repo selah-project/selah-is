@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "voru",
-      "rationale": "Hebreskan segir aðeins „ekki af sonum Ísraels þeir“ — án sögnar; íslenskan krefst sögnar."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "gloss": "Tengiorðið אשר fellur í íslenskri orðröð — merkingu þess ber „sem eftir var“ og þvingunin saman."
-    },
-    {
-      "kind": "measurement",
-      "subject": "þjóðflokkalistinn",
-      "rationale": "Fimm kanaanískir þjóðflokkar taldir upp í fastri röð — hefðbundin skrá."
-    }
-  ],
-  "translation": "Allt fólkið sem eftir var af Emorítunum, Khittítunum, Perizzítunum, Khivvítunum og Jebúsítunum — ⟨þeir› voru ekki af sonum Ísraels —",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/9\/17-20.1792402226171.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Allt ⟨það⟩ fólkið sem eftir var af Emorítem, Hetítum, Perisítum, Hivítum og Jevusítum, þeir sem ekki voru af Ísraelsmönnnum —",
   "tokens": [
     {
       "surface": "כל",
@@ -51,27 +25,27 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "Emorítunum"
+      "gloss": "Emorítum"
     },
     {
       "surface": "החתי",
-      "gloss": "Khittítunum"
+      "gloss": "Hetítum"
     },
     {
       "surface": "הפרזי",
-      "gloss": "Perizzítunum"
+      "gloss": "Perisítum"
     },
     {
       "surface": "החוי",
-      "gloss": "Khivvítunum"
+      "gloss": "Hivítum"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "og Jebúsítunum"
+      "gloss": "og Jevusítum"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "sem"
     },
     {
       "surface": "לא",
@@ -79,17 +53,17 @@
     },
     {
       "surface": "מבני",
-      "gloss": "af sonum"
+      "gloss": "voru af Ísraelsmönnnum"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels"
+      "gloss": "Ísrael"
     },
     {
       "surface": "המה",
       "gloss": "þeir"
     }
   ],
-  "timestamp": "2026-10-19T09:30:26.172367888Z",
+  "timestamp": "2026-10-19T14:32:53.744893458Z",
   "model": "glm-5.3"
 }

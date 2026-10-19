@@ -5,36 +5,15 @@
   "book": "judges",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "האריכו ימים",
-      "rationale": "Orðrétt 'lengdu daga' — íslenska notar 'lengdu lífi sitt'."
-    },
-    {
-      "kind": "addition",
-      "subject": "þeirra",
-      "rationale": "Íslenska þarf afturvísandi fornafn fyrir hið sama tvennt, hebreskan notar aðeins אשר."
-    }
-  ],
-  "translation": "Og lýðurinn þjónaði Jahve alla daga Jósjúa og alla daga hinna elltu, ⟨þeirra⟩ sem lengðu lífi sitt eftir Jósjúa, ⟨þeirra⟩ sem sáu ⟨את⟩ allt hið mikla verk Jahve, sem hann gjörði fyrir Ísrael.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c12529aa5ffa8cb5530be64c22e0e44dc0a87fb9b0be368a4fd2301ce81987c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/2\/5-8.1792399412376.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og fólkið þjónaði ⟨את⟩ Jahve alla daga Jósúa, og alla daga öldunganna sem lifðu lengi eftir Jósúa, þeir sem sáu ⟨את⟩ allt ⟨það⟩ stóra verk Jahve sem hann gjörði fyrir Ísrael.",
   "tokens": [
     {
       "surface": "ויעבדו",
-      "gloss": "Og lýðurinn þjónaði"
+      "gloss": "og þjónaði"
     },
     {
       "surface": "העם",
-      "gloss": "lýðurinn"
+      "gloss": "fólkið"
     },
     {
       "surface": "את",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jósjúa"
+      "gloss": "Jósúa"
     },
     {
       "surface": "וכל",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "הזקנים",
-      "gloss": "hinna elltu"
+      "gloss": "öldunganna"
     },
     {
       "surface": "אשר",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "האריכו",
-      "gloss": "lengðu"
+      "gloss": "lifðu lengi"
     },
     {
       "surface": "ימים",
-      "gloss": "lífi sitt"
+      "gloss": "daga"
     },
     {
       "surface": "אחרי",
@@ -87,11 +66,11 @@
     },
     {
       "surface": "יהושוע",
-      "gloss": "Jósjúa"
+      "gloss": "Jósúa"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þeir sem"
     },
     {
       "surface": "ראו",
@@ -100,7 +79,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "allt hið mikla verk"
+      "marks": "allt stóra verk Jahve"
     },
     {
       "surface": "כל",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "verk"
+      "gloss": "stóra verk"
     },
     {
       "surface": "יהוה",
@@ -116,7 +95,7 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "hið mikla"
+      "gloss": "stóra"
     },
     {
       "surface": "אשר",
@@ -131,6 +110,6 @@
       "gloss": "fyrir Ísrael"
     }
   ],
-  "timestamp": "2026-10-19T08:43:32.377323234Z",
+  "timestamp": "2026-10-19T14:52:53.260778636Z",
   "model": "glm-5.3"
 }

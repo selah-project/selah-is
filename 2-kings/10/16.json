@@ -5,28 +5,7 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "to Jehonadab",
-      "rationale": "Boðið 'Komdu með mér og sjáðu' dregur Jónadab inn í ferðina"
-    },
-    {
-      "kind": "crux",
-      "subject": "afbrýðsemi",
-      "rationale": "קנאה: 'afbrýðemi\/næmi' fyrir Jahve — 'hvöt' eða 'losti' einn möguleg"
-    }
-  ],
-  "translation": "Og hann sagði: Komdu ⟨את⟩ með mér og sjáðu afbrýðsemi mína fyrir Jahve. Og þeir létu hann ríða í vagni hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/10\/13-16.1792403084468.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði: Komdu með ⟨את⟩ mér og sjándu kæmí mína fyrir Jahve. Og þeir létu hann ríða í vagni sínum.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "וראה",
-      "gloss": "og sjáðu"
+      "gloss": "og sjándu"
     },
     {
       "surface": "בקנאתי",
-      "gloss": "afbrýðsemi mína"
+      "gloss": "kæmí mína"
     },
     {
       "surface": "ליהוה",
@@ -58,13 +37,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann (í vagni sínum)"
     },
     {
       "surface": "ברכבו",
-      "gloss": "í vagni hans"
+      "gloss": "í vagni sínum"
     }
   ],
-  "timestamp": "2026-10-19T09:44:44.470067057Z",
+  "timestamp": "2026-10-19T14:34:36.231434304Z",
   "model": "glm-5.3"
 }

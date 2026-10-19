@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "parinn כי אם er ein neitun, 'nema', og כí hefur ekkert sérstakt íslenskt orð"
-    },
-    {
-      "kind": "hapax",
-      "subject": "שעשגז",
-      "rationale": "nafn Sjaasjgaz kemur aðeins fyrir hér í Tanakh"
-    }
-  ],
-  "translation": "Um kveldið kom hún, og um morguninn sneri hún aftur til hins síðari konuhúss, undir hendi Sjaasjgaz, rýri konungsins, gæcismanns hjákonanna; hún kom ekki aftur til konungsins, nema konunginum líkaði við hana og hún var kölluð með nafni.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/2\/13-16.1792413252299.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Um kveldið kom hún, og um morguninn snéri hún aftur til annars kvennahúss, til hends Sjaasjgaz, hirðmanns konungsins, varðveislupekildysisjúklinga — til varðar hjákonum konungsins; hún kom ekki aftur til konungsins, nema konungnum fyndist geðjast á henni og hún væri nefnd með nafni.",
   "tokens": [
     {
       "surface": "בערב",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "שבה",
-      "gloss": "sneri aftur"
+      "gloss": "snéri aftur"
     },
     {
       "surface": "אל",
@@ -62,19 +41,19 @@
     },
     {
       "surface": "הנשים",
-      "gloss": "konanna"
+      "gloss": "kvenna"
     },
     {
       "surface": "שני",
-      "gloss": "hins síðari"
+      "gloss": "annars"
     },
     {
       "surface": "אל",
-      "gloss": "undir"
+      "gloss": "til"
     },
     {
       "surface": "יד",
-      "gloss": "hendi"
+      "gloss": "hends"
     },
     {
       "surface": "שעשגז",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "סריס",
-      "gloss": "rýri"
+      "gloss": "hirðmanns"
     },
     {
       "surface": "המלך",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "שמר",
-      "gloss": "gæcismaður"
+      "gloss": "til varðar"
     },
     {
       "surface": "הפילגשים",
@@ -118,19 +97,19 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
-    },
-    {
-      "surface": "אם",
       "gloss": "nema"
     },
     {
+      "surface": "אם",
+      "gloss": "⟨að⟩"
+    },
+    {
       "surface": "חפץ",
-      "gloss": "líkaði við"
+      "gloss": "fyndist geðjast"
     },
     {
       "surface": "בה",
-      "gloss": "hana"
+      "gloss": "á henni"
     },
     {
       "surface": "המלך",
@@ -138,13 +117,13 @@
     },
     {
       "surface": "ונקראה",
-      "gloss": "og hún var kölluð"
+      "gloss": "og hún væri nefnd"
     },
     {
       "surface": "בשם",
       "gloss": "með nafni"
     }
   ],
-  "timestamp": "2026-10-19T12:34:12.300827059Z",
+  "timestamp": "2026-10-19T14:40:29.988834344Z",
   "model": "glm-5.3"
 }

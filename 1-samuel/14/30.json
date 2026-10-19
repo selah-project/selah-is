@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אף כי לוא",
-      "rationale": "Hebreskt 'hversu meira ef' — stigbeyging sem markar innrætti; þýtt sem eitt íslenskt frasisamband."
-    },
-    {
-      "kind": "crux",
-      "subject": "רבתה מכה",
-      "rationale": "Sagnfrægt ósamkomulag: KJV og JPS gera þetta að spurningu í nútíð ('hefði þá ekki orðið miklu meiri víg?'), YLT les það sem fullyrðingu í þátíð — 'höggvérið varð ekki mikið'."
-    }
-  ],
-  "translation": "Hversu meira, ef fólkið hefði látinn þennan dag af óvinum sínum, herfang það sem það fann — því hefði nú höggvérið ekki orðið mikið á Filistímenn.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/29-32.1792400526533.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hversu meira, ef lýðurinn hefði í dag étið af herfangi óvina sinna, sem hann fann — því hefði nú höggið á Filistum ekki aukizt.",
   "tokens": [
     {
       "surface": "אף",
-      "gloss": "Hversu meira"
+      "gloss": "hversu"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "meira"
     },
     {
       "surface": "לוא",
@@ -42,35 +21,35 @@
     },
     {
       "surface": "אכל",
-      "gloss": "látinn étinn"
+      "gloss": "hefði"
     },
     {
       "surface": "אכל",
-      "gloss": "hefði étið"
+      "gloss": "étið"
     },
     {
       "surface": "היום",
-      "gloss": "þennan dag"
+      "gloss": "í dag"
     },
     {
       "surface": "העם",
-      "gloss": "fólkið"
+      "gloss": "lýðurinn"
     },
     {
       "surface": "משלל",
-      "gloss": "herfang"
+      "gloss": "herfangi"
     },
     {
       "surface": "איביו",
-      "gloss": "af óvinum sínum"
+      "gloss": "óvina sinna"
     },
     {
       "surface": "אשר",
-      "gloss": "það sem"
+      "gloss": "sem"
     },
     {
       "surface": "מצא",
-      "gloss": "það fann"
+      "gloss": "fann"
     },
     {
       "surface": "כי",
@@ -86,17 +65,17 @@
     },
     {
       "surface": "רבתה",
-      "gloss": "hefði orðið"
+      "gloss": "aukizt"
     },
     {
       "surface": "מכה",
-      "gloss": "höggvérið"
+      "gloss": "höggið"
     },
     {
       "surface": "בפלשתים",
-      "gloss": "á Filistímenn"
+      "gloss": "á Filistum"
     }
   ],
-  "timestamp": "2026-10-19T09:02:06.534608319Z",
+  "timestamp": "2026-10-19T14:33:18.923621331Z",
   "model": "glm-5.3"
 }

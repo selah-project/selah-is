@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sál",
-      "rationale": "נפש er öndandi vera, lífskraftur — „sál“ er íslensku nær en hebreskuna."
-    },
-    {
-      "kind": "idiom",
-      "subject": "munn sverðsins",
-      "rationale": "לפי חרב er myndræn venja: „munn sverðsins“ = oddur sverðsins; bókstæð mynd varðveitt."
-    }
-  ],
-  "translation": "Og Jahve gaf hana einnig, og konung hennar, í hönd Ísraels; og hann laust hana munn sverðsins, og ⟨את⟩ alla þá sál sem í henni var — hann skildi eftir í henni engan sem lifði — og hann gjörði konungi hennar eins og hann gjörði konungi Jerikó.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c17f947eba72f35fcdd535f44e8d4db02b5235738980d3292d353fc9b8b212fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/10\/29-32.1792399104343.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jahve gaf líka ⟨את⟩ henni í hond Ísraels, og ⟨את⟩ konung hennar, og hann lamdi hana að munnvið sverðsins og ⟨את⟩ alla þá sálu sem í henni var; hann skildi eftir í henni engan sem lifði, og hann gjörði konungi hennar eins og hann gjörði konungi Jeríkhó.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "Og gjörði"
+      "gloss": "gaf"
     },
     {
       "surface": "יהוה",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "גם",
-      "gloss": "einnig"
+      "gloss": "líka"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ hana",
-      "marks": "hana (Livna)"
+      "gloss": "⟨את⟩",
+      "marks": "henni"
     },
     {
       "surface": "ביד",
-      "gloss": "í hönd"
+      "gloss": "í hond"
     },
     {
       "surface": "ישראל",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "konung hennar"
     },
     {
@@ -64,11 +43,11 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "og laust"
+      "gloss": "og hann lamdi"
     },
     {
       "surface": "לפי",
-      "gloss": "munn"
+      "gloss": "að munnvið"
     },
     {
       "surface": "חרב",
@@ -76,8 +55,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "alla þá sál"
+      "gloss": "og ⟨את⟩",
+      "marks": "alla þá sálu"
     },
     {
       "surface": "כל",
@@ -85,7 +64,7 @@
     },
     {
       "surface": "הנפש",
-      "gloss": "þá sál"
+      "gloss": "þá sálu"
     },
     {
       "surface": "אשר",
@@ -101,7 +80,7 @@
     },
     {
       "surface": "השאיר",
-      "gloss": "skildi eftir"
+      "gloss": "hann skildi eftir"
     },
     {
       "surface": "בה",
@@ -133,9 +112,9 @@
     },
     {
       "surface": "יריחו",
-      "gloss": "Jerikó"
+      "gloss": "Jeríkhó"
     }
   ],
-  "timestamp": "2026-10-19T08:38:24.344541747Z",
+  "timestamp": "2026-10-19T14:51:07.150700089Z",
   "model": "glm-5.3"
 }

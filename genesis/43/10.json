@@ -5,48 +5,27 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Tvöfalt כי (upphaflega 'því að' og 'víst') fellur niður í íslenska setningafræði."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "פעמים",
-      "rationale": "Fleirtala פעם 'sinn' — 'þetta tvisvar'; töluminningin er í orðmyndinni sjálfri."
-    }
-  ],
-  "translation": "Ef við hefðum ekki drigið okkur, hefðum við nú þegar snúið aftur þetta annað sinn.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "9a796b3950205bbb30a1eb477fa235c07c0a35b40e685a0a64b8863d039aeecf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/9-12.1792393839361.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að ef við hefðum ekki drægt okkur, hefðum við nú þegar snúið aftur ⟨þetta⟩ sinni tveimur.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "Því að"
     },
     {
       "surface": "לולא",
-      "gloss": "Ef ekki"
+      "gloss": "ef ekki"
     },
     {
       "surface": "התמהמהנו",
-      "gloss": "hefðum við drigið okkur"
+      "gloss": "hefðum við drægt okkur"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "nú"
     },
     {
       "surface": "עתה",
-      "gloss": "nú þegar"
+      "gloss": "þegar"
     },
     {
       "surface": "שבנו",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "פעמים",
-      "gloss": "sinn (tvöfalt)"
+      "gloss": "sinni tveimur"
     }
   ],
-  "timestamp": "2026-10-19T07:10:39.362594539Z",
+  "timestamp": "2026-10-19T14:46:22.850364216Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Hebreska forsetnin אל ('að, að því er varðar') gengur upp í sagnmyndina 'nálgist' og fær eiginlega glósu."
-    }
-  ],
-  "translation": "Og það skal verða, þegar þið nálgist orrustuna, að presturinn skal ganga fram og tala til lýðsins.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/20\/1-4.1792398148491.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og það skal verða, þegar þér nálgist orustuna, að presturinn skal ganga fram og tala til lýðsins.",
   "tokens": [
     {
       "surface": "והיה",
@@ -29,15 +13,15 @@
     },
     {
       "surface": "כקרבכם",
-      "gloss": "þegar þið nálgist"
+      "gloss": "þegar þér nálgist"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "að"
     },
     {
       "surface": "המלחמה",
-      "gloss": "orrustuna"
+      "gloss": "orustuna"
     },
     {
       "surface": "ונגש",
@@ -60,6 +44,6 @@
       "gloss": "lýðsins"
     }
   ],
-  "timestamp": "2026-10-19T08:22:28.492560392Z",
+  "timestamp": "2026-10-19T14:38:37.945673997Z",
   "model": "glm-5.3"
 }

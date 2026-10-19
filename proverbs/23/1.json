@@ -5,33 +5,7 @@
   "book": "proverbs",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בין תבין",
-      "rationale": "Infinitive absolute with finite verb of same root בין: 'skilðu skilja' — intensity, flattens to 'skilðu vel'"
-    },
-    {
-      "kind": "you",
-      "subject": "to reader",
-      "rationale": "Direct second-person address, instruction at the ruler's table"
-    },
-    {
-      "kind": "invitation",
-      "subject": "imperatives",
-      "rationale": "Verse opens a series of imperatives commanding the reader's discernment"
-    }
-  ],
-  "translation": "Þegar þú situr til að éta með ráðamanni, skilðu vel ⟨את⟩ það sem er fyrir framan þig.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/1-4.1792411594556.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þegar þú situr að borða með ⟨את⟩ ráðamanni, skilðu vel ⟨את⟩ það sem er fyrir framan þig.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "ללחום",
-      "gloss": "til að éta"
+      "gloss": "að borða"
     },
     {
       "surface": "את",
@@ -73,9 +47,9 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "er fyrir framan þig"
+      "gloss": "fyrir framan þig"
     }
   ],
-  "timestamp": "2026-10-19T12:06:34.557701343Z",
+  "timestamp": "2026-10-19T14:57:03.704633353Z",
   "model": "glm-5.3"
 }

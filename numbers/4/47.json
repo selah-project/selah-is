@@ -5,49 +5,23 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בן שלשים שנה",
-      "rationale": "Bókstaflega „sonur þrítíu ára“ — aldursorðatiltæki, ekki ættfræði."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עבדת עבדה ועבדת משא",
-      "rationale": "Þreföld endurtekning rótarinnar עבד markar mismunandi þjónustuhætti; þýðingin heldur samsetningunni en tapar hrifningunni."
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Aldursmörk manntalsins: þrjátíu til fimmtíu ára."
-    }
-  ],
-  "translation": "frá þrítugs aldri og upp frá, allt til fimmtugs aldurs, allir þeir sem gengu til að vinna þjónustu-vinnu og burðarþjónustu í samningstjaldinu —",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "ff32fa2d04076142827b4f7fe37682a9543f445e7921716c78088bd3497e63e5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/4\/45-48.1792396451247.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Frá þrítugasta aldri og uppundir fimmtugasta aldri, hvern þess sem kom til að inna af hendi þjónustu-þjónustu og burðarþjónustu í tjaldbúð fundarins.",
   "tokens": [
     {
       "surface": "מבן",
-      "gloss": "frá þrítugs aldri"
+      "gloss": "frá"
     },
     {
       "surface": "שלשים",
-      "gloss": "þrjátíu"
+      "gloss": "þrítugasta"
     },
     {
       "surface": "שנה",
-      "gloss": "ára"
+      "gloss": "aldri"
     },
     {
       "surface": "ומעלה",
-      "gloss": "og upp frá"
+      "gloss": "og uppundir"
     },
     {
       "surface": "ועד",
@@ -55,31 +29,31 @@
     },
     {
       "surface": "בן",
-      "gloss": "aldur"
+      "gloss": ""
     },
     {
       "surface": "חמשים",
-      "gloss": "fimmtíu"
+      "gloss": "fimmtugasta"
     },
     {
       "surface": "שנה",
-      "gloss": "ára"
+      "gloss": "aldri"
     },
     {
       "surface": "כל",
-      "gloss": "allir"
+      "gloss": "hvern"
     },
     {
       "surface": "הבא",
-      "gloss": "þeir sem gengu"
+      "gloss": "þess sem kom"
     },
     {
       "surface": "לעבד",
-      "gloss": "til að vinna"
+      "gloss": "til að inna af hendi"
     },
     {
       "surface": "עבדת",
-      "gloss": "þjónustu-vinnu"
+      "gloss": "þjónustu-"
     },
     {
       "surface": "עבדה",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "ועבדת",
-      "gloss": "og vinnu"
+      "gloss": "og burðarþjónustu"
     },
     {
       "surface": "משא",
@@ -95,13 +69,13 @@
     },
     {
       "surface": "באהל",
-      "gloss": "í tjaldi"
+      "gloss": "í tjaldbúð"
     },
     {
       "surface": "מועד",
-      "gloss": "samningstjaldinu"
+      "gloss": "fundarins"
     }
   ],
-  "timestamp": "2026-10-19T07:54:11.248482103Z",
+  "timestamp": "2026-10-19T14:56:35.573598271Z",
   "model": "glm-5.3"
 }

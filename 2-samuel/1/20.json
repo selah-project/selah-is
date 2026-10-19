@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "פן",
-      "rationale": "'lest' — kveðinn sem 'að … ekki' eftir banni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תגידו\/תבשרו",
-      "rationale": "tvö bönin í spegilröð um að segja frá, svo tvö 'að'-atvik um gleði óvina"
-    }
-  ],
-  "translation": "Kunnið það ekki í Gat, boðið það ekki í götum Asjkelon, að dætur Pelisttima fagni ekki, að dætur ósnorra hrósi sér.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "845876f381a87efc6f2700bd4bdf2403f0e678f7fb4045ee817a1158b244f83f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/1\/17-20.1792401094002.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Segið það ekki í Gat, boðið það ekki í útihverfi Asjkelon, að eigi fagni dætur Pelishtíma, að eigi gleðjist dætur hinna óumskornu.",
   "tokens": [
     {
       "surface": "אל",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "תגידו",
-      "gloss": "kunnið"
+      "gloss": "Segið"
     },
     {
       "surface": "בגת",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "בחוצת",
-      "gloss": "í götum"
+      "gloss": "í útihverfi"
     },
     {
       "surface": "אשקלון",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "פן",
-      "gloss": "að … ekki"
+      "gloss": "að eigi"
     },
     {
       "surface": "תשמחנה",
@@ -70,16 +49,16 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelisttima"
+      "gloss": "Pelishtíma"
     },
     {
       "surface": "פן",
-      "gloss": "",
-      "-": ""
+      "gloss": "að eigi"
     },
     {
       "surface": "תעלזנה",
-      "gloss": "hrósi sér"
+      "loss": "",
+      "gloss": "gleðjist"
     },
     {
       "surface": "בנות",
@@ -87,9 +66,9 @@
     },
     {
       "surface": "הערלים",
-      "gloss": "óranna"
+      "gloss": "hinna óumskornu"
     }
   ],
-  "timestamp": "2026-10-19T09:11:34.003057916Z",
+  "timestamp": "2026-10-19T14:36:10.352797879Z",
   "model": "glm-5.3"
 }

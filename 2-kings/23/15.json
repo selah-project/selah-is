@@ -5,64 +5,48 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Tvö söguleg tíðarsvið í hebreskri raðsetningu (עשה\/נתץ) jafnaðar í íslenzka frásögn"
-    }
-  ],
-  "translation": "Og jafnvel ⟨את⟩ altarinu í Bet-El, hæðina er Jaróveam sonur Nevat hafði gert, sá er lét Ísrael synda — jafnvel ⟨את⟩ það altari og ⟨את⟩ hæðina rífnaði hann, og hann kveykti ⟨את⟩ hæðina, kramdi hana niður í duft og brenndi Asjeruna.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c7181d931840394dcd83a87bd06ca5d981d933ea47b0b9bb94f7c1ccd29bf53f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/23\/13-16.1792403568470.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og einnig ⟨את⟩ altarið í Beit-El, hástaðinn sem Jarovam sonur Nevat gerði, sá er lét Ísrael syndga — einnig ⟨את⟩ það altari og ⟨את⟩ hástaðinn rifði hann niður, og brenndi ⟨את⟩ hástaðinn, knaði hann til ryks og brenndi Aséruna.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "Og jafnvel"
+      "gloss": "Og einnig"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "altarinu"
+      "marks": "altarið"
     },
     {
       "surface": "המזבח",
-      "gloss": "altarinu"
+      "gloss": "altarið"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "בבית",
-      "gloss": "í Bet-"
+      "gloss": "í Beit-"
     },
     {
       "surface": "אל",
-      "gloss": "El"
+      "gloss": "-El"
     },
     {
       "surface": "הבמה",
-      "gloss": "hæðina"
+      "gloss": "hástaðinn"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "עשה",
-      "gloss": "hafði gert"
+      "gloss": "gerði"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Jaróveam"
+      "gloss": "Jarovam"
     },
     {
       "surface": "בן",
@@ -78,7 +62,7 @@
     },
     {
       "surface": "החטיא",
-      "gloss": "lét synda"
+      "gloss": "lét syndga"
     },
     {
       "surface": "את",
@@ -91,12 +75,12 @@
     },
     {
       "surface": "גם",
-      "gloss": "jafnvel"
+      "gloss": "einnig"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "altari"
+      "marks": "það altari"
     },
     {
       "surface": "המזבח",
@@ -109,36 +93,36 @@
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "hæðina"
+      "marks": "hástaðinn"
     },
     {
       "surface": "הבמה",
-      "gloss": "hæðina"
+      "gloss": "hástaðinn"
     },
     {
       "surface": "נתץ",
-      "gloss": "rífnaði"
+      "gloss": "rifði niður"
     },
     {
       "surface": "וישרף",
-      "gloss": "kveykti"
+      "gloss": "og brenndi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hæðina"
+      "marks": "hástaðinn"
     },
     {
       "surface": "הבמה",
-      "gloss": "hæðina"
+      "gloss": "hástaðinn"
     },
     {
       "surface": "הדק",
-      "gloss": "kramdi niður"
+      "gloss": "knaði"
     },
     {
       "surface": "לעפר",
-      "gloss": "í duft"
+      "gloss": "til ryks"
     },
     {
       "surface": "ושרף",
@@ -146,9 +130,9 @@
     },
     {
       "surface": "אשרה",
-      "gloss": "Asjeruna"
+      "gloss": "Aséruna"
     }
   ],
-  "timestamp": "2026-10-19T09:52:48.471676079Z",
+  "timestamp": "2026-10-19T14:35:54.467782590Z",
   "model": "glm-5.3"
 }

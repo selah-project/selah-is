@@ -5,29 +5,7 @@
   "book": "proverbs",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "fornafnið 'hann' bætt við fyrir ópersónulegt íslenskt sögnlið"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יריב\/ריבם",
-      "rationale": "sögn og nafn sömu rótar (ריב) endurtekið — 'mun reisa málaferli málaferli þeirra'",
-      "rationale_short": "sögn og nafn af sömu rót"
-    }
-  ],
-  "translation": "Því að endurkaupari þeirra er sterkan; ⟨hann⟩ mun reisa málaferli þeirra ⟨את⟩ ⟨á móti⟩ þér.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/9-12.1792411551484.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að endurlausnari þeirra er sterkur; hann mun reisa ⟨את⟩ málsókn þeirra ⟨את⟩ gegn þér.",
   "tokens": [
     {
       "surface": "כי",
@@ -35,34 +13,34 @@
     },
     {
       "surface": "גאלם",
-      "gloss": "endurkaupari þeirra"
+      "gloss": "endurlausnari þeirra"
     },
     {
       "surface": "חזק",
-      "gloss": "er sterkan"
+      "gloss": "sterkur"
     },
     {
       "surface": "הוא",
-      "gloss": "⟨hann⟩"
+      "gloss": "hann"
     },
     {
       "surface": "יריב",
-      "gloss": "mun reisa málaferli"
+      "gloss": "mun reisa málsókn"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "málaferli þeirra"
+      "marks": "málsókn þeirra"
     },
     {
       "surface": "ריבם",
-      "gloss": "málaferli þeirra"
+      "gloss": "málsókn þeirra"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ ⟨á móti⟩ þér"
+      "gloss": "gegn þér ⟨את⟩"
     }
   ],
-  "timestamp": "2026-10-19T12:05:51.486001114Z",
+  "timestamp": "2026-10-19T14:57:07.228407803Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Ísrael",
-      "rationale": "Móses talar beint til Ísraels — þúformið í öllum versinu."
-    },
-    {
-      "kind": "alternative",
-      "subject": "is",
-      "rationale": "אתכם er fornafnið 'yður', ekki aleph-tav-merki; engin ⟨את⟩ í þessu versi."
-    }
-  ],
-  "translation": "Og ég sá, og sjá, þið höfðuð syndgað gegn Jahve, Elóhím yðar — þið gerðuð yður kálfa steypta — þið snerið brátt af þeirri leið sem Jahve hafði boðið yður.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/9\/13-16.1792397846970.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég sá, og sjá, þér höfðu syndgað gegn Jahve, Elóhím ykkar — þér gerðuð ykkur mótskúfuð kálfa, þér snuðust hratt frá ⟨את⟩ veginum sem Jahve hafði boðið ⟨את⟩ ykkur.",
   "tokens": [
     {
       "surface": "וארא",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "חטאתם",
-      "gloss": "þið höfðuð syndgað"
+      "gloss": "þér höfðu syndgað"
     },
     {
       "surface": "ליהוה",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elóhím yðar"
+      "gloss": "Elóhím ykkar"
     },
     {
       "surface": "עשיתם",
-      "gloss": "þið gerðuð"
+      "gloss": "þér gerðuð"
     },
     {
       "surface": "לכם",
-      "gloss": "yður"
+      "gloss": "ykkur"
     },
     {
       "surface": "עגל",
@@ -62,23 +41,23 @@
     },
     {
       "surface": "מסכה",
-      "gloss": "steypta"
+      "gloss": "mótskúfuð"
     },
     {
       "surface": "סרתם",
-      "gloss": "þið snerið"
+      "gloss": "þér snuðust"
     },
     {
       "surface": "מהר",
-      "gloss": "brátt"
+      "gloss": "hratt"
     },
     {
       "surface": "מן",
-      "gloss": "af"
+      "gloss": "frá"
     },
     {
       "surface": "הדרך",
-      "gloss": "þeirri leið"
+      "gloss": "⟨את⟩ veginum"
     },
     {
       "surface": "אשר",
@@ -94,9 +73,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     }
   ],
-  "timestamp": "2026-10-19T08:17:26.971529067Z",
+  "timestamp": "2026-10-19T14:40:01.034957092Z",
   "model": "glm-5.3"
 }

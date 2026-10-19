@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ופנו",
-      "rationale": "'Fruða\/tylda' — rótin er snúa; efni hússins er borið út svo ekkert verði óhreint, áður en presturinn dæmir."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska þarf aðsótt framsögn í ópersónulegu skipuninni; hebreskan notar ópersónulega nafnháttarsetningu."
-    }
-  ],
-  "translation": "Og presturinn skal bjóða að húsið sé tæmt áður en presturinn kemur inn til að skoða ⟨את⟩ áverkann, svo að allt það sem í húsinu er verði ekki óhreint; og eftir það skal presturinn koma inn til að skoða ⟨את⟩ húsið.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "2bc33c49f60222c2f9155f6d75cdc4c065febcafe95794c1e3bac46c7b65feec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/14\/33-36.1792395773570.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og presturinn skal skipa, og ⟨þeir⟩ rými húsið, áður en presturinn kemur inn til að skoða ⟨את⟩ pláguna, svo að eigi verði óhreint allt það sem í húsinu er; og eftir það kemur presturinn inn til að skoða ⟨את⟩ húsið.",
   "tokens": [
     {
       "surface": "וצוה",
-      "gloss": "Og presturinn skal bjóða"
+      "gloss": "Og presturinn skal skipa"
     },
     {
       "surface": "הכהן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ופנו",
-      "gloss": "að tæmt sé"
+      "gloss": "rými"
     },
     {
       "surface": "את",
@@ -68,15 +47,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "áverkann"
+      "marks": "pláguna"
     },
     {
       "surface": "הנגע",
-      "gloss": "áverkann"
+      "gloss": "pláguna"
     },
     {
       "surface": "ולא",
-      "gloss": "svo að ekki"
+      "gloss": "svo að eigi"
     },
     {
       "surface": "יטמא",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "בבית",
-      "gloss": "í húsinu er"
+      "gloss": "í húsinu"
     },
     {
       "surface": "ואחר",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "יבא",
-      "gloss": "skal koma inn"
+      "gloss": "kemur"
     },
     {
       "surface": "הכהן",
@@ -124,6 +103,6 @@
       "gloss": "húsið"
     }
   ],
-  "timestamp": "2026-10-19T07:42:53.571470011Z",
+  "timestamp": "2026-10-19T14:53:34.635388637Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הכרתי והפלתי",
-      "rationale": "þýðast ýmist sem þjóðflokkar (Kretum og Peletum) eða lífvarðar konungs; hér sem heiti höfðuvarðarliðsins"
-    },
-    {
-      "kind": "measurement",
-      "subject": "enumeration",
-      "rationale": "nafnaskrá sendihópsins — prestur, spámaður, herforingi og varðarlið — telur upp opinbera viðurkenningu Shelómó"
-    }
-  ],
-  "translation": "Og konungurinn hefur sent ⟨את⟩ með honum ⟨את⟩ Tsadok prestinn og ⟨את⟩ Natán spámanninn og Benajahu son Jehójada og Keretítana og Peletítana, og þeir létu hann ríða á meri konungsins.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "4ca43b0ba9238ec91b49c99242d574dc12c866bacaca837f02421d0338adfde8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/41-44.1792401889973.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og konungurinn sendi ⟨את⟩ með honum ⟨את⟩ Tsadok prestinn og ⟨את⟩ Natan spámanninn og Benjahú, son Jehójadá, og Kretharnir og Pletharnir, og þeir létu ⟨את⟩ hann ríða á merar konungsins.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Og…hefur sent"
+      "gloss": "sendi"
     },
     {
       "surface": "אתו",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Natán spámanninn"
+      "gloss": "og ⟨את⟩",
+      "marks": "Natan spámanninn"
     },
     {
       "surface": "נתן",
-      "gloss": "Natán"
+      "gloss": "Natan"
     },
     {
       "surface": "הנביא",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "ובניהו",
-      "gloss": "og Benajahu"
+      "gloss": "og Benjahú"
     },
     {
       "surface": "בן",
@@ -76,24 +55,24 @@
     },
     {
       "surface": "יהוידע",
-      "gloss": "Jehójada"
+      "gloss": "Jehójadá"
     },
     {
       "surface": "והכרתי",
-      "gloss": "og Keretítana"
+      "gloss": "og Kretharnir"
     },
     {
       "surface": "והפלתי",
-      "gloss": "og Peletítana"
+      "gloss": "og Pletharnir"
     },
     {
       "surface": "וירכבו",
-      "gloss": "og þeir létu…ríða"
+      "gloss": "og þeir létu ríða"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "hann"
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann (Sjólómón, ónefndur hér)"
     },
     {
       "surface": "על",
@@ -101,13 +80,13 @@
     },
     {
       "surface": "פרדת",
-      "gloss": "meri"
+      "gloss": "merar"
     },
     {
       "surface": "המלך",
       "gloss": "konungsins"
     }
   ],
-  "timestamp": "2026-10-19T09:24:49.975241178Z",
+  "timestamp": "2026-10-19T14:31:28.621572811Z",
   "model": "glm-5.3"
 }

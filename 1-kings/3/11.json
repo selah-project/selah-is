@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lífs",
-      "rationale": "נפש er 'köfnun\/lífskraftur', ekki sál í grískri merkingu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שאל",
-      "rationale": "sögnin 'að biðja' endurtekin fimm sinnum í versinu — endurtökinn glatar í þýðingu"
-    },
-    {
-      "kind": "you",
-      "subject": "to Sjelómó",
-      "rationale": "Elóhím talar beint til Sjelómó í svarorakinu"
-    }
-  ],
-  "translation": "Og Elóhím sagði við hann: Af því að þú baðst ⟨את⟩ málið þetta, og baðst þér ekki marga daga, og baðst þér ekki auð, og baðst ekki líf óvina þinna, heldur baðst þér skilning til að heyra dóm —",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/3\/9-12.1792401967128.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Elóhím sagði við hann: Af því að þú baðst um ⟨את⟩ þetta mál, og baðst ekki fyrir þér mörg daga, og baðst ekki fyrir þér ríkdæmi, og baðst ekki um líf óvina þinna, heldur baðst þú fyrir þér skilning til að hlusta á dóm —",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -51,20 +25,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "að"
     },
     {
       "surface": "שאלת",
-      "gloss": "þú baðst"
+      "gloss": "þú baðst um"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "málið þetta"
+      "marks": "þetta mál"
     },
     {
       "surface": "הדבר",
-      "gloss": "málið"
+      "gloss": "mál"
     },
     {
       "surface": "הזה",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "þér"
+      "gloss": "fyrir þér"
     },
     {
       "surface": "ימים",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "רבים",
-      "gloss": "marga"
+      "gloss": "mörg"
     },
     {
       "surface": "ולא",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "þér"
+      "gloss": "fyrir þér"
     },
     {
       "surface": "עשר",
-      "gloss": "auð"
+      "gloss": "ríkdæmi"
     },
     {
       "surface": "ולא",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "שאלת",
-      "gloss": "baðst"
+      "gloss": "baðst um"
     },
     {
       "surface": "נפש",
@@ -124,11 +98,11 @@
     },
     {
       "surface": "ושאלת",
-      "gloss": "heldur baðst"
+      "gloss": "heldur baðst þú"
     },
     {
       "surface": "לך",
-      "gloss": "þér"
+      "gloss": "fyrir þér"
     },
     {
       "surface": "הבין",
@@ -136,13 +110,13 @@
     },
     {
       "surface": "לשמע",
-      "gloss": "til að heyra"
+      "gloss": "til að hlusta á"
     },
     {
       "surface": "משפט",
       "gloss": "dóm"
     }
   ],
-  "timestamp": "2026-10-19T09:26:07.129608564Z",
+  "timestamp": "2026-10-19T14:32:02.488328563Z",
   "model": "glm-5.3"
 }

@@ -5,48 +5,27 @@
   "book": "daniel",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "הוית",
-      "rationale": "Arameísk hjálparsögn 'þú varst' fellur saman við 'sáðst' á íslensku."
-    },
-    {
-      "kind": "mystery",
-      "subject": "steinn",
-      "rationale": "Steinn skorinn út 'ekki með höndum' — lokað, dulið þáttur draumsins sem túlkun hans opinberar síðar."
-    }
-  ],
-  "translation": "Þú sáðst, uns steinn var skorinn út, sá er ekki með höndum var skorinn, og hann hjó á myndina, á fætur hennar, þær er af járni og leir, og kyrndi þau allt.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "b3f21a18aa858514cdc96612dd693c8aa06e58184b79854e048b5865cb22d966",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/2\/33-36.1792413440830.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þú sást, þar til að steinn var hoggin út, ekki með höndum, og hann lamdi í myndina á fótum hennar, þeim er járninni og leirinni eru, og krossaði ⟨þá⟩ smán.",
   "tokens": [
     {
       "surface": "חזה",
-      "gloss": "þú sáðst"
+      "gloss": "Þú sást"
     },
     {
       "surface": "הוית",
-      "gloss": ""
+      "gloss": "þú varst að skoða"
     },
     {
       "surface": "עד",
-      "gloss": "uns"
+      "gloss": "þar til"
     },
     {
       "surface": "די",
-      "gloss": "sá er"
+      "gloss": "að"
     },
     {
       "surface": "התגזרת",
-      "gloss": "var skorinn út"
+      "gloss": "var hoggin út"
     },
     {
       "surface": "אבן",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "די",
-      "gloss": "sá er"
+      "gloss": "er"
     },
     {
       "surface": "לא",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "ומחת",
-      "gloss": "og hjó"
+      "gloss": "og lamdi í"
     },
     {
       "surface": "לצלמא",
-      "gloss": "á myndina"
+      "gloss": "myndina"
     },
     {
       "surface": "על",
@@ -78,29 +57,29 @@
     },
     {
       "surface": "רגלוהי",
-      "gloss": "fætur hennar"
+      "gloss": "fótum hennar"
     },
     {
       "surface": "די",
-      "gloss": "þær er"
+      "gloss": "er"
     },
     {
       "surface": "פרזלא",
-      "gloss": "af járni"
+      "gloss": "járninni"
     },
     {
       "surface": "וחספא",
-      "gloss": "og leir"
+      "gloss": "og leirinni"
     },
     {
       "surface": "והדקת",
-      "gloss": "og kyrndi"
+      "gloss": "og krossaði"
     },
     {
       "surface": "המון",
-      "gloss": "þau"
+      "gloss": "⟨þá⟩"
     }
   ],
-  "timestamp": "2026-10-19T12:37:20.830844853Z",
+  "timestamp": "2026-10-19T14:37:28.818167685Z",
   "model": "glm-5.3"
 }

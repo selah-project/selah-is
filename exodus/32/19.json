@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "אף er nef\/nös — reiðin 'kviknar í nefi' Mósje; íslenska notar abstrakt 'reiði kviknaði'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "עגל er ungur nautgripur (kálfur); 'kálfshálsinn' heldur myndinni frekar en 'kálfinn'"
-    }
-  ],
-  "translation": "Og ⟨það⟩ varð, er hann kom að herbúðunum, að hann sá ⟨את⟩ kálfshálsinn og dansinn, og reiði Mósje kviknaði, og hann kastaði ⟨את⟩ töflunum úr hendi sér og braut þær neðan við fjallið.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/32\/17-20.1792395121992.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og svo varð, þegar hann kom nálægt herbúðunum, að hann sá ⟨את⟩ kálfinn og dansinn; og reiði Mósje kviknaði, og hann varp úr hendi sér ⟨את⟩ taflunum og braut þær neðan við fjallið.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og varð"
+      "gloss": "Og svo varð"
     },
     {
       "surface": "כאשר",
-      "gloss": "er"
+      "gloss": "þegar"
     },
     {
       "surface": "קרב",
-      "gloss": "hann kom að"
+      "gloss": "hann kom nálægt"
     },
     {
       "surface": "אל",
@@ -55,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kálfshálsinn"
+      "marks": "kálfinn"
     },
     {
       "surface": "העגל",
-      "gloss": "kálfshálsinn"
+      "gloss": "kálfinn"
     },
     {
       "surface": "ומחלת",
@@ -79,7 +58,7 @@
     },
     {
       "surface": "וישלך",
-      "gloss": "hann kastaði"
+      "gloss": "og hann varp"
     },
     {
       "surface": "מידו",
@@ -88,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "töflunum"
+      "marks": "taflunum"
     },
     {
       "surface": "הלחת",
-      "gloss": "töflunum"
+      "gloss": "taflunum"
     },
     {
       "surface": "וישבר",
@@ -112,6 +91,6 @@
       "gloss": "fjallið"
     }
   ],
-  "timestamp": "2026-10-19T07:32:01.993903279Z",
+  "timestamp": "2026-10-19T14:41:25.222431290Z",
   "model": "glm-5.3"
 }

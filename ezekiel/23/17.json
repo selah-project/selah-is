@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "נפש er kynlífsvilji og lífskraftur, ekki ólíkamleg sál; 'sál' er nálgun."
-    },
-    {
-      "kind": "crux",
-      "subject": "ותקע",
-      "rationale": "'slitaðist frá' (sbr. KJV 'alienated') eða 'mettaðist' (sbr. LXX); rótin þýðir að slitna úr lið."
-    }
-  ],
-  "translation": "Og Babelsynir komu til hennar á rúm ástarinnar, og þeir óhreinkuðu hana með hórkunst sinni, og hún varð óhrein með þeim, og sál hennar slitaðist frá þeim.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/23\/17-20.1792407374193.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Babelsynir komu til hennar í rúm elskenda, og óhrelluðu hana ⟨את⟩ með hórkunft sinni, og hún óhrelnaði með þeim, og sálin slitrót frá þeim.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "komu"
+      "gloss": "og komu"
     },
     {
       "surface": "אליה",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "למשכב",
-      "gloss": "á rúm"
+      "gloss": "í rúm"
     },
     {
       "surface": "דדים",
-      "gloss": "ástarinnar"
+      "gloss": "elskenda"
     },
     {
       "surface": "ויטמאו",
-      "gloss": "óhreinkuðu"
+      "gloss": "og óhrelluðu"
     },
     {
       "surface": "אותה",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "בתזנותם",
-      "gloss": "með hórkunst sinni"
+      "gloss": "með hórkunft sinni"
     },
     {
       "surface": "ותטמא",
-      "gloss": "varð óhrein"
+      "gloss": "og hún óhrelnaði"
     },
     {
       "surface": "בם",
@@ -75,17 +54,17 @@
     },
     {
       "surface": "ותקע",
-      "gloss": "slitaðist"
+      "gloss": "og slitrót"
     },
     {
       "surface": "נפשה",
-      "gloss": "sál hennar"
+      "gloss": "sálin"
     },
     {
       "surface": "מהם",
       "gloss": "frá þeim"
     }
   ],
-  "timestamp": "2026-10-19T10:56:14.193842687Z",
+  "timestamp": "2026-10-19T14:42:54.241064350Z",
   "model": "glm-5.3"
 }

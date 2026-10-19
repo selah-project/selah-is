@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "אתי",
-      "rationale": "hér er אתי H854, forsetningin 'með mér' — ekki beint nafnsháttarmerki H853 — þess vegna berað ⟨את⟩ en 'með'"
-    },
-    {
-      "kind": "you",
-      "subject": "Davíð konungur svarar Barzillaí",
-      "rationale": "konungur lofar beint gömlum manni að uppfylla allt val hans"
-    }
-  ],
-  "translation": "Og konungurinn sagði: Með mér skal Kímham fara yfir, og ég gjöra honum ⟨את⟩ gæskuna sem góð er í augum þínum, og allt sem þú kýs á mér gjöra ég þér.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "8d3f5052bdf20f9c72f4ac94cd521f1275c4cae853c8d9d03a50a90675f49602",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/19\/37-40.1792401633829.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og konungurinn sagði: Kímham skal fara yfir með ⟨את⟩ mér, og ég mun gera honum ⟨את⟩ hið góða í augum þínum, og allt sem þú kýst af mér mun ég gera þér.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "og sagði"
+      "gloss": "Og … sagði"
     },
     {
       "surface": "המלך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ með mér"
+      "gloss": "með ⟨את⟩ mér"
     },
     {
       "surface": "יעבר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אעשה",
-      "gloss": "gjöra"
+      "gloss": "mun gera"
     },
     {
       "surface": "לו",
@@ -63,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gæskuna"
+      "marks": "hið góða"
     },
     {
       "surface": "הטוב",
-      "gloss": "gæskuna"
+      "gloss": "hið góða"
     },
     {
       "surface": "בעיניך",
@@ -83,21 +62,21 @@
     },
     {
       "surface": "תבחר",
-      "gloss": "þú kýs"
+      "gloss": "þú kýst"
     },
     {
       "surface": "עלי",
-      "gloss": "á mér"
+      "gloss": "af mér"
     },
     {
       "surface": "אעשה",
-      "gloss": "gjöra ég"
+      "gloss": "mun ég gera"
     },
     {
       "surface": "לך",
       "gloss": "þér"
     }
   ],
-  "timestamp": "2026-10-19T09:20:33.831027170Z",
+  "timestamp": "2026-10-19T14:36:57.704194979Z",
   "model": "glm-5.3"
 }

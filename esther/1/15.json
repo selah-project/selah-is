@@ -5,39 +5,11 @@
   "book": "esther",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "spurningin til vitringanna",
-      "rationale": "konungurinn beinir spurningunni til ráðgjafanna — bein áletrun.",
-      "language": "is"
-    },
-    {
-      "kind": "substitution",
-      "subject": "הסריסים",
-      "rationale": "'geldingum\/hirðvördum' — orðið þekkir bæði geldinga og hirðverði konungs.",
-      "language": "is"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "tengiorðið fellur í íslenskri setningsskipan eftir 'þar sem'."
-    }
-  ],
-  "translation": "Eftir lögunum: hvað er að gjöra við drottninguna Vasjtí, þar sem hún gjörði ekki ⟨את⟩ boðorð Akhashverósh konungs með hendi hirðvördunum?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/1\/13-16.1792413197923.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eftir lögum — hvað á að gera við drottninguna Vastí, þar sem hún gjörði ekki ⟨את⟩ boði konungsins Akasverosj með hendi kerlinganna <hírðmanna>?",
   "tokens": [
     {
       "surface": "כדת",
-      "gloss": "Eftir lögunum"
+      "gloss": "eftir lögum"
     },
     {
       "surface": "מה",
@@ -45,7 +17,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "er að gjöra"
+      "gloss": "á að gera"
     },
     {
       "surface": "במלכה",
@@ -53,7 +25,7 @@
     },
     {
       "surface": "ושתי",
-      "gloss": "Vasjtí"
+      "gloss": "Vastí"
     },
     {
       "surface": "על",
@@ -61,7 +33,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "לא",
@@ -74,19 +46,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "boðorð"
+      "marks": "boði konungsins"
     },
     {
       "surface": "מאמר",
-      "gloss": "boðorð"
+      "gloss": "boð"
     },
     {
       "surface": "המלך",
-      "gloss": "konungs"
+      "gloss": "konungsins"
     },
     {
       "surface": "אחשורוש",
-      "gloss": "Akhashverósh"
+      "gloss": "Akasverosj"
     },
     {
       "surface": "ביד",
@@ -94,9 +66,9 @@
     },
     {
       "surface": "הסריסים",
-      "gloss": "hirðvördunum"
+      "gloss": "kerlinganna"
     }
   ],
-  "timestamp": "2026-10-19T12:33:17.924983176Z",
+  "timestamp": "2026-10-19T14:40:36.249700708Z",
   "model": "glm-5.3"
 }

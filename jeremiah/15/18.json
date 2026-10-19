@@ -5,46 +5,15 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "היו תהיה",
-      "rationale": "tvö sögn í sömu línu — 'verður þú (sannarlega)' vs. 'hefur þú orðið'; jafnan séð sem spurning til Jahve"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אכזב",
-      "rationale": "orðatiltæki frá lind sem svíkur í eyðimörk — 'sviksamur brunnur', ekki 'lygari'"
-    },
-    {
-      "kind": "you",
-      "subject": "til Jahve",
-      "rationale": "Jeremía beinir spurningunni að Jahve sjálfum"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "annar tvítökarsagnarinnar (תהיה) fellur í íslensku"
-    }
-  ],
-  "translation": "Hví var sársauki minn eilífur og bundið mitt ólæknandi? Það neitaði að græðast. Verður þú mér sem sviksamur lindarbrunnur, vatn sem ekki má treysta?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "4d6762db090bba57df542359c1e0d0c153868e94fbd0325d845bb26e27350f76",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/15\/17-20.1792405689226.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hvers vegna er sársauki minn endalaus, og sár mitt ólæknanlegt, það neitar að lækna⟨st⟩? Er þú⟨sem⟩ orðinn mér eins og tryggðarbrestur, vatn sem ekki má treysta?",
   "tokens": [
     {
       "surface": "למה",
-      "gloss": "Hví"
+      "gloss": "Hvers vegna"
     },
     {
       "surface": "היה",
-      "gloss": "var"
+      "gloss": "er"
     },
     {
       "surface": "כאבי",
@@ -52,7 +21,7 @@
     },
     {
       "surface": "נצח",
-      "gloss": "eilífur"
+      "gloss": "endalaus"
     },
     {
       "surface": "ומכתי",
@@ -60,23 +29,23 @@
     },
     {
       "surface": "אנושה",
-      "gloss": "ólæknandi"
+      "gloss": "ólæknanlegt"
     },
     {
       "surface": "מאנה",
-      "gloss": "Það neitaði"
+      "gloss": "það neitar"
     },
     {
       "surface": "הרפא",
-      "gloss": "að græðast"
+      "gloss": "að lækna"
     },
     {
       "surface": "היו",
-      "gloss": "Verður"
+      "gloss": "orðinn"
     },
     {
       "surface": "תהיה",
-      "gloss": ""
+      "gloss": "ert þú"
     },
     {
       "surface": "לי",
@@ -84,11 +53,11 @@
     },
     {
       "surface": "כמו",
-      "gloss": "sem"
+      "gloss": "eins og"
     },
     {
       "surface": "אכזב",
-      "gloss": "sviksamur"
+      "gloss": "tryggðarbrestur"
     },
     {
       "surface": "מים",
@@ -103,6 +72,6 @@
       "gloss": "má treysta"
     }
   ],
-  "timestamp": "2026-10-19T10:28:09.228076721Z",
+  "timestamp": "2026-10-19T14:48:15.303769509Z",
   "model": "glm-5.3"
 }

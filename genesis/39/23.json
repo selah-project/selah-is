@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אתו\/את",
-      "rationale": "Samstöfun endar söguna sömu leið og hún hófst (39:2–3): ‚Jahve með honum‘ og ‚Jahve lét honum takast‘ — endurtekningin er stjórnumál frásagnarinnar."
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "אתו er forsetningin ‚með honum‘ (H854), ekki DOM; borið ⟨את⟩ samkvæmt reglu."
-    }
-  ],
-  "translation": "Ekki sá yfirmaður fangahússins ⟨את⟩ neitt af því sem í hendi hans var, af því að Jahve var ⟨með⟩ honum; og það sem hann gjörði — Jahve lét það heppnast.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/39\/21-23.1792393647652.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Höfuðsmáður fangaklefunnar sá ekki ⟨את⟩ neitt því sem var í hendi hans, því að Jahve var ⟨את⟩ ⟨með⟩ honum, og það sem hann gjörði það lét Jahve takast.",
   "tokens": [
     {
       "surface": "אין",
@@ -34,15 +13,15 @@
     },
     {
       "surface": "שר",
-      "gloss": "yfirmaður"
+      "gloss": "höfuðsmáður"
     },
     {
       "surface": "בית",
-      "gloss": "fangahúss"
+      "gloss": "fangaklefar"
     },
     {
       "surface": "הסהר",
-      "gloss": "fangahússins"
+      "gloss": "klefunnar"
     },
     {
       "surface": "ראה",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "af því"
+      "gloss": "neitt"
     },
     {
       "surface": "מאומה",
-      "gloss": "neitt"
+      "gloss": "því"
     },
     {
       "surface": "בידו",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "באשר",
-      "gloss": "af því að"
+      "gloss": "því að"
     },
     {
       "surface": "יהוה",
@@ -75,8 +54,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "honum"
+      "gloss": "⟨את⟩ ⟨með⟩ honum"
     },
     {
       "surface": "ואשר",
@@ -96,9 +74,9 @@
     },
     {
       "surface": "מצליח",
-      "gloss": "lét heppnast"
+      "gloss": "lét takast"
     }
   ],
-  "timestamp": "2026-10-19T07:07:27.653282811Z",
+  "timestamp": "2026-10-19T14:46:29.375404675Z",
   "model": "glm-5.3"
 }

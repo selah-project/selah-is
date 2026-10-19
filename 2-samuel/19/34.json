@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "„skalt“ og „mun“ bætt við; hebreska þátíðin ber ekki boðarendingu sjálfa"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אתי er H854 forsetningin „með“, sett ⟨með⟩ í sviga; ‏את־ er ekki tvennt í sömu atkvæðum"
-    }
-  ],
-  "translation": "Og konungurinn sagði við Barsillaj: Þú skalt fara yfir ⟨með⟩ mér, og ég mun fæða ⟨את⟩ þig hjá mér í Jerúsjalajím.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "7b925f76e84cde42df805c3a49f65f753c2320b63650704c172507b8db7c5672",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/19\/33-36.1792401730062.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og konungurinn sagði við Barzillaj: Þú skalt fara yfir ⟨את⟩ með mér, og ég mun framfæra ⟨את⟩ þig hjá mér í Jerúsjalajím.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og sagði"
+      "gloss": "Og … sagði"
     },
     {
       "surface": "המלך",
@@ -42,24 +21,24 @@
     },
     {
       "surface": "ברזלי",
-      "gloss": "Barsillaj"
+      "gloss": "Barzillaj"
     },
     {
       "surface": "אתה",
-      "gloss": "þú"
+      "gloss": "Þú"
     },
     {
       "surface": "עבר",
-      "gloss": "farðu yfir"
+      "gloss": "skalt fara yfir"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ með",
-      "marks": "mér"
+      "gloss": "⟨את⟩ með mér",
+      "marks": "farðu yfir með mér"
     },
     {
       "surface": "וכלכלתי",
-      "gloss": "og ég mun fæða"
+      "gloss": "og ég mun framfæra"
     },
     {
       "surface": "אתך",
@@ -75,6 +54,6 @@
       "gloss": "í Jerúsjalajím"
     }
   ],
-  "timestamp": "2026-10-19T09:22:10.063646486Z",
+  "timestamp": "2026-10-19T14:36:56.186583935Z",
   "model": "glm-5.3"
 }

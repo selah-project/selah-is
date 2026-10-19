@@ -5,101 +5,75 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מדי שנה בשנה",
-      "rationale": "Bókstaflega „samkvæmt ári í ári“; þýtt „ár frá ári“"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וסבב",
-      "rationale": "„Sneri í kringum“ — þýtt „í hringferð“ til að gera ferðamynstrið ljóst"
-    },
-    {
-      "kind": "measurement",
-      "subject": "בית אל והגלגל והמצפה",
-      "rationale": "Staðarlisti — dómhring Sámúels talinn upp"
-    }
-  ],
-  "translation": "Og hann ferdist ár frá ári í hringferð til Bet-El og Gilgal og Mitspa, og dæmdi Ísrael ⟨את⟩ á öllum þessum stöðum.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/7\/13-16.1792400246484.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann fór ár eftir ár og gekk umhverfis Bet-El og Gilgal og Mitspa, og dæmdi hann ⟨את⟩ Ísrael ⟨את⟩ alla þessa staði.",
   "tokens": [
     {
-      "surface": "והלך",
-      "gloss": "ferdist"
+      "surface": "וְהָלַךְ",
+      "gloss": "Og hann fór"
     },
     {
-      "surface": "מדי",
-      "gloss": "frá"
+      "surface": "מִדֵּי",
+      "gloss": "ár eftir"
     },
     {
-      "surface": "שנה",
-      "gloss": "ári"
-    },
-    {
-      "surface": "בשנה",
+      "surface": "שָׁנָה",
       "gloss": "ár"
     },
     {
-      "surface": "וסבב",
-      "gloss": "í hringferð"
+      "surface": "בְּשָׁנָה",
+      "gloss": "eftir ár"
     },
     {
-      "surface": "בית",
+      "surface": "וְסָבַב",
+      "gloss": "og gekk umhverfis"
+    },
+    {
+      "surface": "בֵּית",
       "gloss": "Bet-"
     },
     {
-      "surface": "אל",
+      "surface": "אֵל",
       "gloss": "El"
     },
     {
-      "surface": "והגלגל",
+      "surface": "וְהַגִּלְגָּל",
       "gloss": "og Gilgal"
     },
     {
-      "surface": "והמצפה",
+      "surface": "וְהַמִּצְפָּה",
       "gloss": "og Mitspa"
     },
     {
-      "surface": "ושפט",
-      "gloss": "dæmdi"
+      "surface": "וְשָׁפַט",
+      "gloss": "og dæmdi"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "Ísrael"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵל",
       "gloss": "Ísrael"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "öllum þessum stöðum"
+      "marks": "alla þessa staði"
     },
     {
-      "surface": "כל",
-      "gloss": "öllum"
+      "surface": "כָּל",
+      "gloss": "alla"
     },
     {
-      "surface": "המקומות",
-      "gloss": "stöðum"
+      "surface": "הַמְּקֹמוֹת",
+      "gloss": "staði"
     },
     {
-      "surface": "האלה",
-      "gloss": "þessum"
+      "surface": "הָאֵלֶּה",
+      "gloss": "þessa"
     }
   ],
-  "timestamp": "2026-10-19T08:57:26.486119853Z",
+  "timestamp": "2026-10-19T14:33:33.030951636Z",
   "model": "glm-5.3"
 }

@@ -5,74 +5,54 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כן...וכן יפרץ",
-      "rationale": "'Því meira... því meira' — spegluð samsetning: þrælkunin veldur því sem hún á að koma í veg."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויקצו",
-      "rationale": "KJV 'grieved', JPS 'adread' — orðið getur bæði 'urðu leiðir\/hryggir' og 'óttuðust'; haft 'urðu hryggir' sem samsvarar קוץ."
-    }
-  ],
-  "translation": "En því meira sem þeir kúfuðu það, því meira margfoldist það og braust út; og þeir urðu hryggir fyrir andliti sona Ísraels.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/1\/9-12.1792394048885.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En þegar þeir þjáðu ⟨את⟩ þá, þá margfölduðust þeir og þá brutust þeir fram — og Egyptarnir klukkuðu í kvíða fyrir auglitinu á Ísraelsmönnum.",
   "tokens": [
     {
       "surface": "וכאשר",
-      "gloss": "En því meira sem"
+      "gloss": "En þegar"
     },
     {
       "surface": "יענו",
-      "gloss": "þeir kúfuðu"
+      "gloss": "þjáðu þeir"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ það"
+      "gloss": "⟨את⟩",
+      "marks": "þá (Ísraelsmenn)"
     },
     {
       "surface": "כן",
-      "gloss": "því meira"
+      "gloss": "þá"
     },
     {
       "surface": "ירבה",
-      "gloss": "margfoldist það"
+      "gloss": "margfölduðust þeir"
     },
     {
       "surface": "וכן",
-      "gloss": "og því meira"
+      "gloss": "og þá"
     },
     {
       "surface": "יפרץ",
-      "gloss": "braust það út"
+      "gloss": "brutust þeir fram"
     },
     {
       "surface": "ויקצו",
-      "gloss": "og þeir urðu hryggir"
+      "gloss": "og þeir klukkuðu í kvíða"
     },
     {
       "surface": "מפני",
-      "gloss": "fyrir andliti"
+      "gloss": "fyrir auglitinu á"
     },
     {
       "surface": "בני",
-      "gloss": "sona"
+      "gloss": "mönnum"
     },
     {
       "surface": "ישראל",
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T07:14:08.886742542Z",
+  "timestamp": "2026-10-19T14:40:46.616362533Z",
   "model": "glm-5.3"
 }

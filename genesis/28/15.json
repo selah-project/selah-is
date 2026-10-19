@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "עד אשר אם",
-      "rationale": "'fyrr en (það) að ef' — tvöföld atviksorð (ki-aser-im) renna saman í einn íslenskan tengingu 'fyrr en'"
-    },
-    {
-      "kind": "addition",
-      "subject": "það",
-      "rationale": "ávísnarorð bætt við sem andlag 'gert'"
-    }
-  ],
-  "translation": "Og sjá, ég er með þér, og ég mun gæta þí hvert sem þú ferð, og ég mun leiða þig aftur til þessa jarðvegs, því að ég yfirgefi þig ekki fyrr en ég hef ⟨את⟩ gert það sem ég hef talað við þig.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "998aeb40b208083ed9ca7d0fb722c3421ed3d448234643884e8b5b7d49242619",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/28\/13-16.1792393258926.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og sjá, ég er með þér, og mun gæta þér hvert sem þú ferð, og mun færa þig aftur til þessarar jarðvegs; því að ég yfirgefi þig ekki, fyrr en ég hef gjört ⟨את⟩ það sem ég hef talað við þig.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "og sjá"
+      "gloss": "Og sjá"
     },
     {
       "surface": "אנכי",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "עמך",
-      "gloss": "er með þér"
+      "gloss": "með þér"
     },
     {
       "surface": "ושמרתיך",
-      "gloss": "og ég mun gæta þí"
+      "gloss": "og mun gæta þér"
     },
     {
       "surface": "בכל",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "והשבתיך",
-      "gloss": "og ég mun leiða þig aftur"
+      "gloss": "og mun færa þig aftur"
     },
     {
       "surface": "אל",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "jarðvegs"
+      "gloss": "þessarar jarðvegs"
     },
     {
       "surface": "הזאת",
-      "gloss": "þessa"
+      "gloss": "þessarar"
     },
     {
       "surface": "כי",
@@ -90,15 +69,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "sem"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨það⟩"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ég hef gert"
+      "gloss": "ég hef gjört"
     },
     {
       "surface": "את",
@@ -118,6 +97,6 @@
       "gloss": "við þig"
     }
   ],
-  "timestamp": "2026-10-19T07:00:58.927790453Z",
+  "timestamp": "2026-10-19T14:45:45.140831648Z",
   "model": "glm-5.3"
 }

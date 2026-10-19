@@ -5,49 +5,28 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "fimm álnir",
-      "rationale": "Hæð viðbyggingar gefin í álnum, mælieiningu undanhorns"
-    },
-    {
-      "kind": "alternative",
-      "subject": "היצוע",
-      "rationale": "Lesið sem 'viðbygging\/útskoti'; grunngerð orðsins er 'breidd\/rúm í rúm' — gæti líka verið sæng eða hæð"
-    }
-  ],
-  "translation": "Og hann byggði ⟨את⟩ viðbygginguna umhverfis allt húsið, fimm álnir hæð hennar, og hún festist við húsið með sedrustré.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/6\/9-12.1792402039133.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann bygði ⟨את⟩ yfihúsbygginguna á allan húsið, fimm álnir hæð hennar, og hún greip ⟨את⟩ húsið með sedrusviði.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "Og hann byggði"
+      "gloss": "bygði"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "viðbygginguna"
+      "marks": "yfihúsbygginguna"
     },
     {
       "surface": "היצוע",
-      "gloss": "viðbygginguna"
+      "gloss": "yfihúsbyggingina"
     },
     {
       "surface": "על",
-      "gloss": "umhverfis"
+      "gloss": "á"
     },
     {
       "surface": "כל",
-      "gloss": "allt"
+      "gloss": "allan"
     },
     {
       "surface": "הבית",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "ויאחז",
-      "gloss": "og hún festist við"
+      "gloss": "og hún greip"
     },
     {
       "surface": "את",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "בעצי",
-      "gloss": "með tré"
+      "gloss": "með viði"
     },
     {
       "surface": "ארזים",
-      "gloss": "sedru"
+      "gloss": "sedrus"
     }
   ],
-  "timestamp": "2026-10-19T09:27:19.133951720Z",
+  "timestamp": "2026-10-19T14:31:47.968593923Z",
   "model": "glm-5.3"
 }

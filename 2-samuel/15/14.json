@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מהרו\/ימהר",
-      "rationale": "Sömu rót tvísin: „hjalið ... svo að hann hjali ekki“ — orðaleikur varðveittur."
-    },
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "„Að munní sverðs“ = „oddi sverðs“; myndmálið varðveitt í orðum."
-    },
-    {
-      "kind": "idiom",
-      "subject": "מפני",
-      "rationale": "„Úr andliti“ er hebresk frásögn; „ frá“ einu ella líti."
-    }
-  ],
-  "translation": "Og Davíð sagði til allra þjóna sinna sem ⟨með honum⟩ voru í Jerúsjalajím: Rísið upp, og vér flýjum, því að engin undankomust verður okkur úr andliti Avsjalóms; hjalið ykkar að fara, svo að hann hjali ekki og nái okkur og dynji yfir oss ⟨את⟩ hinu illa og slái borgina að munní sverðs.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/15\/13-16.1792401466840.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Davíð sagði við alla þjóna sina sem ⟨את⟩ með honum voru í Jerúsjalajím: Rísið upp og flýjum, því að oss mun verða engin undankomst undan andliti Avsjalóms; hætið ykkur að fara, svo að hann hæti sér ekki og nái okkur og ýti út yfir oss ⟨את⟩ óhamrinum og slíki borgina með munni sverðs.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og Davíð sagði"
+      "gloss": "Og sagði"
     },
     {
       "surface": "דוד",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "לכל",
-      "gloss": "til allra"
+      "gloss": "við alla"
     },
     {
       "surface": "עבדיו",
-      "gloss": "þjóna sinna"
+      "gloss": "þjóna sina"
     },
     {
       "surface": "אשר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨með honum⟩"
+      "gloss": "⟨את⟩ með honum voru"
     },
     {
       "surface": "בירושלם",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "ונברחה",
-      "gloss": "og vér flýjum"
+      "gloss": "og flýjum"
     },
     {
       "surface": "כי",
@@ -83,15 +57,15 @@
     },
     {
       "surface": "לנו",
-      "gloss": "okkur"
+      "gloss": "oss"
     },
     {
       "surface": "פליטה",
-      "gloss": "undankomust"
+      "gloss": "undankomst"
     },
     {
       "surface": "מפני",
-      "gloss": "úr andliti"
+      "gloss": "undan andliti"
     },
     {
       "surface": "אבשלום",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "מהרו",
-      "gloss": "hjalið ykkar"
+      "gloss": "hætið ykkur"
     },
     {
       "surface": "ללכת",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "ימהר",
-      "gloss": "hann hjali"
+      "gloss": "hæti sér"
     },
     {
       "surface": "והשגנו",
@@ -119,24 +93,24 @@
     },
     {
       "surface": "והדיח",
-      "gloss": "og dynji"
+      "gloss": "og ýti út yfir"
     },
     {
       "surface": "עלינו",
-      "gloss": "yfir oss"
+      "gloss": "oss"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hinu illa"
+      "marks": "óhamrinum"
     },
     {
       "surface": "הרעה",
-      "gloss": "hinu illa"
+      "gloss": "óhamrinum"
     },
     {
       "surface": "והכה",
-      "gloss": "og slái"
+      "gloss": "og slíki"
     },
     {
       "surface": "העיר",
@@ -144,13 +118,13 @@
     },
     {
       "surface": "לפי",
-      "gloss": "að munní"
+      "gloss": "með munni"
     },
     {
       "surface": "חרב",
       "gloss": "sverðs"
     }
   ],
-  "timestamp": "2026-10-19T09:17:46.841692630Z",
+  "timestamp": "2026-10-19T14:36:44.572405222Z",
   "model": "glm-5.3"
 }

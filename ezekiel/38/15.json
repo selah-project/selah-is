@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "מירכתי",
-      "rationale": "orðatiltækið er bókstaflega 'úr lendum\/bak-hliðum norðurs'; 'úr jaðri norðurs' heldur myndinni en ekki líkamsmyndinni."
-    }
-  ],
-  "translation": "Og þú kemur frá stað þínum, úr jaðri norðurs, þú og margar þjóðir ⟨með⟩ þér, allir þeirra hestamenn, mikill söfnuður og mikið herlið.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "86f0521bff11b4761125e6a73f9ce395c38d62b526b924be74da3304be97706b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/38\/13-16.1792407766745.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þú kemur frá stað þínum, úr djúpustu hlutum norðurs, þú og mörg þjóðflokkar ⟨את⟩ með þér, riddarar á hestum, allir ⟨saman⟩, mikill samkundur og ⟨her⟩ mikill.",
   "tokens": [
     {
       "surface": "ובאת",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "מירכתי",
-      "gloss": "úr jaðri"
+      "gloss": "úr djúpustu hlutum"
     },
     {
       "surface": "צפון",
@@ -45,31 +29,32 @@
     },
     {
       "surface": "ועמים",
-      "gloss": "og margar þjóðir"
+      "gloss": "og mörg þjóðflokkar"
     },
     {
       "surface": "רבים",
-      "gloss": "margar"
+      "gloss": "mörg"
     },
     {
       "surface": "אתך",
-      "gloss": "með ⟨את⟩ þér"
+      "gloss": "⟨את⟩",
+      "marks": "með þér"
     },
     {
       "surface": "רכבי",
-      "gloss": "hestamenn"
+      "gloss": "riddarar"
     },
     {
       "surface": "סוסים",
-      "gloss": "hesta"
+      "gloss": "á hestum"
     },
     {
       "surface": "כלם",
-      "gloss": "allir þeirra"
+      "gloss": "allir"
     },
     {
       "surface": "קהל",
-      "gloss": "söfnuður"
+      "gloss": "samkundur"
     },
     {
       "surface": "גדול",
@@ -77,13 +62,13 @@
     },
     {
       "surface": "וחיל",
-      "gloss": "og herlið"
+      "gloss": "og ⟨her⟩"
     },
     {
       "surface": "רב",
-      "gloss": "mikið"
+      "gloss": "mikill"
     }
   ],
-  "timestamp": "2026-10-19T11:02:46.747229666Z",
+  "timestamp": "2026-10-19T14:43:58.417785711Z",
   "model": "glm-5.3"
 }

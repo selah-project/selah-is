@@ -5,35 +5,20 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "H854 «með mér» (ásamt mér) eða H853 ávísnunarsjöndeildarmerki — gjörnin er sú síðari; ⟨með⟩ er sett í hornklofa sem á viðeigandi þýðingu á staðnum"
-    }
-  ],
-  "translation": "Þér skulið ekki gjöra ⟨með⟩ mér guði úr silfri, og guði úr gulli skulið þér ekki gjöra yður.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/21-24.1792394539963.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eigi skuluð þér gjöra ⟨með mér⟩ ⟨את⟩ guði úr silfri, og guði úr gulli — eigi skuluð þér gjöra yður ⟨את⟩.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ekki"
+      "gloss": "eigi"
     },
     {
       "surface": "תעשון",
-      "gloss": "skulið þér gjöra"
+      "gloss": "skuluð þér gjöra"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "með mér — guði úr silfri"
     },
     {
       "surface": "אלהי",
@@ -53,17 +38,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "ekki"
+      "gloss": "eigi"
     },
     {
       "surface": "תעשו",
-      "gloss": "skulið þér gjöra"
+      "gloss": "skuluð þér gjöra"
     },
     {
       "surface": "לכם",
-      "gloss": "yður"
+      "gloss": "yður ⟨את⟩"
     }
   ],
-  "timestamp": "2026-10-19T07:22:19.966073219Z",
+  "timestamp": "2026-10-19T14:41:26.959660755Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפי חרב",
-      "rationale": "'munnur sverðsins' = eggjárns; bókstæð mynd haldin"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נשמה",
-      "rationale": "נשמה er andardráttur, 'sá sem andar' — ekki sál"
-    }
-  ],
-  "translation": "Og alla herfang þessara borga og búfénu rændu Ísraelsmenn sér; aðeins allt mannkynið höggvu þeir með munninum á sverðinu, uns þeir höfðu eytt ⟨את⟩ ⟨þeim⟩; enga anda skildu þeir eftir.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "e3e651da7280cfd9bec002f34131f9d0c8a8304544f4f8ffc44f5fd6a7dbaa51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/11\/13-16.1792399121886.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og allt herfang þessara borga og búfénaðinn rændu synir Ísraels sér; aðeins ⟨את⟩ allt mannkynið höggvu þeir að mun sverðsins, þar til þeir höfðu gjörlega eytt ⟨את⟩ þeim — engan með andardrátt skildu þeir eftir.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "og allan"
+      "gloss": "Og allt"
     },
     {
       "surface": "שלל",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "והבהמה",
-      "gloss": "og búfénu"
+      "gloss": "og búfénaðurinn"
     },
     {
       "surface": "בזזו",
-      "gloss": "réndu"
+      "gloss": "rændu"
     },
     {
       "surface": "להם",
@@ -71,7 +50,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": " allt mannkynið"
+      "marks": "allt mannkynið"
     },
     {
       "surface": "כל",
@@ -83,27 +62,28 @@
     },
     {
       "surface": "הכו",
-      "gloss": "höggvu"
+      "gloss": "höggvu þeir"
     },
     {
       "surface": "לפי",
-      "gloss": "með munninum á"
+      "gloss": "að mun"
     },
     {
       "surface": "חרב",
-      "gloss": "sverðinu"
+      "gloss": "sverðsins"
     },
     {
       "surface": "עד",
-      "gloss": "uns"
+      "gloss": "þar til"
     },
     {
       "surface": "השמדם",
-      "gloss": "höfðu eytt"
+      "gloss": "höfðu gjörlega eytt"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨þeim⟩"
+      "gloss": "⟨את⟩ þeim",
+      "marks": "þeim"
     },
     {
       "surface": "לא",
@@ -115,13 +95,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "nokkra"
+      "gloss": "engan"
     },
     {
       "surface": "נשמה",
-      "gloss": "anda"
+      "gloss": "með andardrátt"
     }
   ],
-  "timestamp": "2026-10-19T08:38:41.887351259Z",
+  "timestamp": "2026-10-19T14:51:24.626073429Z",
   "model": "glm-5.3"
 }

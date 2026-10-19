@@ -5,44 +5,23 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ימים",
-      "rationale": "Fleirtala 'dagar' án tölu — KJV\/ASV\/JPS lesa 'fullt ár' (táknræn tala), YLT heldur bókstæðu 'daga og fjóra mánuði'."
-    },
-    {
-      "kind": "measurement",
-      "subject": "dagar og fjórir mánuðir",
-      "rationale": "Versið telur uppgert dvalartíma Davíðs hjá Peliststum."
-    }
-  ],
-  "translation": "Og fjöldi daganna sem Davíð bjó í landi Peliststa, var ⟨⟨einu]] ár og fjórir mánuðir.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "330c4cecc3ddf6716d9ae76e156eab7bbc703802a62c228482bd526a150e96ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/27\/5-8.1792401012070.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og tölunni daga er Davíð bjó í sveit Filistimanna varð dagar og fjórir mánuðir.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og var"
+      "gloss": "Og varð"
     },
     {
       "surface": "מספר",
-      "gloss": "fjöldi"
+      "gloss": "tölunni"
     },
     {
       "surface": "הימים",
-      "gloss": "daganna"
+      "gloss": "daga"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "er"
     },
     {
       "surface": "ישב",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "í landi"
+      "gloss": "í sveit"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Peliststa"
+      "gloss": "Filistimanna"
     },
     {
       "surface": "ימים",
@@ -73,6 +52,6 @@
       "gloss": "mánuðir"
     }
   ],
-  "timestamp": "2026-10-19T09:10:12.071656085Z",
+  "timestamp": "2026-10-19T14:32:58.005223439Z",
   "model": "glm-5.3"
 }

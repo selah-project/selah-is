@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "date",
-      "rationale": "Versið tímasetur atburðinn nákvæmlega: fimmtán dögum í annarri mánuðinum eftir útgönguna."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Hebreska talar af „eyðimörk Sín“; „Sín-eyðimörkin“ gerir nafnið að eigin nafni á íslensku."
-    }
-  ],
-  "translation": "Og þeir tóku upp frá Eilím, og allur söfnuður Ísraelsmanna kom í Sín-eyðimörkina, sem er milli Eilím og Sínaí, fimmtán dögum í annarri mánuðinum, eftir útgöngu þeirra úr landi Mitsrajím.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "8af8f9c3a55ffaf8b44f5422e406409016e09f97bbeb1e2aba11aa076425aec6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/16\/1-4.1792394521818.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir brutu upp frá Eilím, og öll söfnuður Ísraelsmanna kom í eyðimörk Sín, ⟨sem⟩ er milli Eilím og Sínaí, fimmtánda daginn í öðrum mánuðinum, eftir ⟨að⟩ þeir fóru út úr landi Mitsrajím.",
   "tokens": [
     {
       "surface": "ויסעו",
-      "gloss": "tóku upp"
+      "gloss": "Og þeir brutu upp"
     },
     {
       "surface": "מאילם",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "kom"
+      "gloss": "og kom"
     },
     {
       "surface": "כל",
-      "gloss": "allur"
+      "gloss": "öll"
     },
     {
       "surface": "עדת",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "בין",
@@ -90,23 +69,27 @@
     },
     {
       "surface": "בחמשה",
-      "gloss": "fimmtán"
+      "gloss": "fimmtánda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "daginn"
     },
     {
       "surface": "יום",
-      "gloss": "dögum"
+      "gloss": "daginn"
     },
     {
       "surface": "לחדש",
-      "gloss": "í mánuðinum"
+      "gloss": "í öðrum mánuðinum"
     },
     {
       "surface": "השני",
-      "gloss": "annarri"
+      "gloss": "öðrum"
     },
     {
       "surface": "לצאתם",
-      "gloss": "útgöngu þeirra"
+      "gloss": "eftir að þeir fóru út"
     },
     {
       "surface": "מארץ",
@@ -117,6 +100,6 @@
       "gloss": "Mitsrajím"
     }
   ],
-  "timestamp": "2026-10-19T07:22:01.819816976Z",
+  "timestamp": "2026-10-19T14:40:47.204264278Z",
   "model": "glm-5.3"
 }

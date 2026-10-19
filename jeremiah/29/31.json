@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Boðið beint til Jeremía: „Senda til allrar útlegðarinnar“ — boð til að flytja skilaboðin útlegðarfólkinu í Babel."
-    },
-    {
-      "kind": "alternative",
-      "subject": "ויבטח אתכם",
-      "rationale": "„Lét ykkur treysta“ — líka lesanlegt sem „veyttist ykkur“ (hörundsbundið refhverft hugtak)."
-    }
-  ],
-  "translation": "Senda til allrar útlegðarinnar og segja: Þannig segir Jahve um Shemajá Nechlamítann: Af því að Shemajá spáði ykkur — og ég sendi hann ekki — og hann lét ykkur treysta á lygi,",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "9c0e99efdee61a06ba1af5821c3d742018a9566170c6f43f81cdbc2c6a58f4f0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/29\/29-32.1792406105089.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sendaðu til allrar hernámsflytjanna ⟨að⟩ segja: Þannig segir Jahve um Shemajáhu hann Nechlamíta: Af því að Shemajáh spáði ⟨spámaður-texta⟩ ykkur — en ég sendi hann ekki — og hann lét ⟨את⟩ ykkur treysta á lygi.",
   "tokens": [
     {
       "surface": "שלח",
-      "gloss": "Senda"
+      "gloss": "Sendaðu"
     },
     {
       "surface": "על",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "הגולה",
-      "gloss": "útlegðarinnar"
+      "gloss": "hernámsflytjanna"
     },
     {
       "surface": "לאמר",
-      "gloss": "og segja:"
+      "gloss": "að segja"
     },
     {
       "surface": "כה",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "שמעיה",
-      "gloss": "Shemajá"
+      "gloss": "Shemajáhu"
     },
     {
       "surface": "הנחלמי",
-      "gloss": "Nechlamítann"
+      "gloss": "hann Nechlamíta"
     },
     {
       "surface": "יען",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "að"
+      "gloss": "—"
     },
     {
       "surface": "נבא",
@@ -90,11 +69,11 @@
     },
     {
       "surface": "שמעיה",
-      "gloss": "Shemajá"
+      "gloss": "Shemajáh"
     },
     {
       "surface": "ואני",
-      "gloss": "og ég"
+      "gloss": "en ég"
     },
     {
       "surface": "לא",
@@ -110,7 +89,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "על",
@@ -121,6 +101,6 @@
       "gloss": "lygi"
     }
   ],
-  "timestamp": "2026-10-19T10:35:05.090091785Z",
+  "timestamp": "2026-10-19T14:48:48.541581916Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "til Rakaknar",
-      "rationale": "Skilyrði leyniltanna sett fram sem bein fyrirsögn í annarri persónu."
-    },
-    {
-      "kind": "crux",
-      "subject": "skarrauði þráðurinn",
-      "rationale": "תקות חוט השני: 'snið skarrauða þráðar' — sumir lesa תקוה sem 'von' í myndsamhengi, en hér er orðið bókstaflega snæri."
-    }
-  ],
-  "translation": "Sjá, þegar vér komum í landið, ⟨את⟩ snæri þessa skarrauða þráð skaltu binda í gluggann, er þú létst okkur niður með, og ⟨את⟩ föður þinn og ⟨את〉 móður þína og ⟨את〉 bræður þína og ⟨את〉 allt föðurhús þitt skaltu safna til þín inn í húsið.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "3bf79038383a1b8df82cf196a9b51832a16726ee9dc5cd6270c3e47eca5edc64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/2\/17-20.1792398900546.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sjá, þegar vér komum í landið, þá skalt þú binda ⟨את⟩ snöri þessa skarla-rauða þráð í gluggann, er þú létir okkur niður um, og ⟨את⟩ föður þinn og ⟨את⟩ móður þína og ⟨את⟩ bræður þína og ⟨את⟩ allt hús föður þins skalt þú safna til þín inn í húsið.",
   "tokens": [
     {
       "surface": "הנה",
@@ -47,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "snæri þenna skarrauða þráð"
+      "marks": "snöri þessa skarla-rauða þráð"
     },
     {
       "surface": "תקות",
-      "gloss": "snæri"
+      "gloss": "snöri"
     },
     {
       "surface": "חוט",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "השני",
-      "gloss": "skarrauða"
+      "gloss": "skarla-rauð"
     },
     {
       "surface": "הזה",
-      "gloss": "þenna"
+      "gloss": "þessa"
     },
     {
       "surface": "תקשרי",
-      "gloss": "skaltu binda"
+      "gloss": "skalt þú binda"
     },
     {
       "surface": "בחלון",
@@ -79,15 +58,15 @@
     },
     {
       "surface": "הורדתנו",
-      "gloss": "þú létst okkur niður"
+      "gloss": "þú létir okkur niður"
     },
     {
       "surface": "בו",
-      "gloss": "með"
+      "gloss": "um"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "föður þinn"
     },
     {
@@ -96,7 +75,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "móður þína"
     },
     {
@@ -105,7 +84,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "bræður þína"
     },
     {
@@ -114,8 +93,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "allt föðurhús þitt"
+      "gloss": "⟨את⟩",
+      "marks": "allt hús föður þins"
     },
     {
       "surface": "כל",
@@ -127,11 +106,11 @@
     },
     {
       "surface": "אביך",
-      "gloss": "föður þitt"
+      "gloss": "föður þins"
     },
     {
       "surface": "תאספי",
-      "gloss": "skaltu safna"
+      "gloss": "skalt þú safna"
     },
     {
       "surface": "אליך",
@@ -142,6 +121,6 @@
       "gloss": "inn í húsið"
     }
   ],
-  "timestamp": "2026-10-19T08:35:00.547506345Z",
+  "timestamp": "2026-10-19T14:51:38.995696968Z",
   "model": "glm-5.3"
 }

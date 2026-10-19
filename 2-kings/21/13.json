@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "קו og משקלת eru málitaumur og lóðnál — myndmál lagningar og dóms, ekki bara 'lína'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מחה ... ימחה ... מחה",
-      "rationale": "sama rót þrisvar sinnum (þurrka\/eyða), stílbundin endurtekning sem glatast að hluta til"
-    }
-  ],
-  "translation": "Og ég mun rétta yfir Jerúsjalajím ⟨את⟩ málísnu Sjemarón og ⟨את⟩ lóðsjá húss Akavs, og ég mun þurrka út Jerúsjalajím eins og maður þurrkar ⟨את⟩ diskinn — hann þurrkar og snýr honum á andlitið.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/21\/13-16.1792403503285.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég legg yfir Jerúsjalajím ⟨את⟩ málísnu Sjamjarím og ⟨את⟩ lóð Býts Akhabs, og ég þerra Jerúsjalajím ⟨את⟩ eins og maður þerrer skál — hann þerrer hana og snýr henni á víð á kinnina.",
   "tokens": [
     {
       "surface": "ונטיתי",
-      "gloss": "og ég mun rétta"
+      "gloss": "Og ég legg yfir"
     },
     {
       "surface": "על",
@@ -43,36 +22,36 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "málísnu Sjemarón"
+      "marks": "málísnu Sjamjarím"
     },
     {
       "surface": "קו",
-      "gloss": "málísnu"
+      "gloss": "málísna"
     },
     {
       "surface": "שמרון",
-      "gloss": "Sjemarón"
+      "gloss": "Sjamjarím"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "lóðsjá húss Akavs"
+      "gloss": "og ⟨את⟩",
+      "marks": "lóð Býts Akhabs"
     },
     {
       "surface": "משקלת",
-      "gloss": "lóðsjá"
+      "gloss": "lóð"
     },
     {
       "surface": "בית",
-      "gloss": "húss"
+      "gloss": "Býts"
     },
     {
       "surface": "אחאב",
-      "gloss": "Akavs"
+      "gloss": "Akhabs"
     },
     {
       "surface": "ומחיתי",
-      "gloss": "og ég mun þurrka út"
+      "gloss": "og ég þerra"
     },
     {
       "surface": "את",
@@ -89,20 +68,20 @@
     },
     {
       "surface": "ימחה",
-      "gloss": "maður þurrkar"
+      "gloss": "maður þerrer"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diskinn"
+      "marks": "skálina"
     },
     {
       "surface": "הצלחת",
-      "gloss": "diskinn"
+      "gloss": "skál"
     },
     {
       "surface": "מחה",
-      "gloss": "hann þurrkar"
+      "gloss": "hann þerrer hana"
     },
     {
       "surface": "והפך",
@@ -110,13 +89,13 @@
     },
     {
       "surface": "על",
-      "gloss": "á"
+      "gloss": "á víð á"
     },
     {
       "surface": "פניה",
-      "gloss": "andlitið"
+      "gloss": "kinnina"
     }
   ],
-  "timestamp": "2026-10-19T09:51:43.285945646Z",
+  "timestamp": "2026-10-19T14:35:24.767548760Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "veisla",
-      "rationale": "משתה er „drykkur“ eða „drykkjaveisla“ — rótin er שתה (að drekka), ekki matræði."
-    },
-    {
-      "kind": "addition",
-      "subject": "<voru>",
-      "rationale": "Aukasetningin אשר אתו er á hebresku án sögnar; íslenska krefst tögu."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tuttugu menn",
-      "rationale": "Nákvæm tala fylgir leiðangri Avners — tækin til að mæla traust hans."
-    }
-  ],
-  "translation": "Og Avner kom til Davíðs í Khevron og ⟨með⟩ honum tuttugu menn, og Davíð gjörði Avner og mönnunum sem ⟨voru⟩ með honum veislu.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/3\/17-20.1792401148381.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Avnér kom til Davíð í Khebrón, og með honum ⟨את⟩ tuttugu menn, og Davíð gjörði Avnér og mönnunum sem ⟨את⟩ með honum voru veislu.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Og kom"
+      "gloss": "og kom"
     },
     {
       "surface": "אבנר",
-      "gloss": "Avner"
+      "gloss": "Avnér"
     },
     {
       "surface": "אל",
@@ -47,15 +21,16 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Davíðs"
+      "gloss": "Davíð"
     },
     {
       "surface": "חברון",
-      "gloss": "í Khevron"
+      "gloss": "í Khebrón"
     },
     {
       "surface": "ואתו",
-      "gloss": "og ⟨את⟩ með honum"
+      "gloss": "⟨את⟩ og með honum",
+      "marks": "tuttugu menn"
     },
     {
       "surface": "עשרים",
@@ -75,7 +50,7 @@
     },
     {
       "surface": "לאבנר",
-      "gloss": "Avner"
+      "gloss": "Avnér"
     },
     {
       "surface": "ולאנשים",
@@ -87,13 +62,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ með honum"
+      "gloss": "⟨את⟩ með honum voru",
+      "marks": "mennirnir sem með honum voru"
     },
     {
       "surface": "משתה",
       "gloss": "veislu"
     }
   ],
-  "timestamp": "2026-10-19T09:12:28.383244345Z",
+  "timestamp": "2026-10-19T14:37:08.336316265Z",
   "model": "glm-5.3"
 }

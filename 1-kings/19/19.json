@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "'Og hann var með tólfta' — tvennt lesið: Elísha sjálfur með tólfta pari, eða (Targúm) aðeins tólf pör hjá öllum mönnum."
-    },
-    {
-      "kind": "hapax",
-      "subject": "is",
-      "rationale": "אדרת — belgur eða feldur spámannsins; orðið heldur sínu myndefni í íslenskun: feldur, ekki 'skikkja'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "Kast feldinum er táknmynd köllunar — sama feldur kemur aftur í 2. Konungabók 2:8, 13-14."
-    }
-  ],
-  "translation": "Og hann fór þaðan og fann ⟨את⟩ Elísha son Sjafat, er var að plægja með tólf nautapörum fyrir framan sig, og hann var með ⟨því⟩ tólfta; og Elía gekk framhjá honum og kastaði feldinum sínum yfir hann.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "443e89d8bb7451f94f12a0c7ea4cf933e574a4525abd4f069d24891f5e0ac907",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/19\/17-20.1792402691719.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann fór þaðan og fann ⟨את⟩ Elísa, son Sjafats, og hann var að plægja með tólf tungum fyrir framan sig, og hann var með hinum tólfta; og Elía fór til hans og kastaði skikkju sinni yfir hann.",
   "tokens": [
     {
       "surface": "וילך",
@@ -48,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elísha son Sjafat"
+      "marks": "Elísa"
     },
     {
       "surface": "אלישע",
-      "gloss": "Elísha"
+      "gloss": "Elísa"
     },
     {
       "surface": "בן",
@@ -60,43 +34,39 @@
     },
     {
       "surface": "שפט",
-      "gloss": "Sjafat"
+      "gloss": "Sjafats"
     },
     {
       "surface": "והוא",
-      "gloss": "er"
+      "gloss": "og hann var"
     },
     {
       "surface": "חרש",
-      "gloss": "var að plægja"
+      "gloss": "að plægja"
     },
     {
       "surface": "שנים",
-      "gloss": "tólf (tveir)"
+      "gloss": "tólf"
     },
     {
       "surface": "עשר",
-      "gloss": "tolftu (-tíu)"
+      "gloss": "(hluti af tólf)"
     },
     {
       "surface": "צמדים",
-      "gloss": "nautapörum"
+      "gloss": "tungum"
     },
     {
       "surface": "לפניו",
       "gloss": "fyrir framan sig"
     },
     {
-      "surface": "ו",
-      "gloss": "og"
-    },
-    {
       "surface": "והוא",
-      "gloss": "hann"
+      "gloss": "og hann var"
     },
     {
       "surface": "בשנים",
-      "gloss": "með ⟨því⟩ tveim"
+      "gloss": "með hinum"
     },
     {
       "surface": "העשר",
@@ -104,7 +74,7 @@
     },
     {
       "surface": "ויעבר",
-      "gloss": "og gekk framhjá"
+      "gloss": "og fór"
     },
     {
       "surface": "אליהו",
@@ -112,7 +82,7 @@
     },
     {
       "surface": "אליו",
-      "gloss": "hjá honum"
+      "gloss": "til hans"
     },
     {
       "surface": "וישלך",
@@ -120,13 +90,13 @@
     },
     {
       "surface": "אדרתו",
-      "gloss": "feldinum sínum"
+      "gloss": "skikkju sinni"
     },
     {
       "surface": "אליו",
       "gloss": "yfir hann"
     }
   ],
-  "timestamp": "2026-10-19T09:38:11.720972718Z",
+  "timestamp": "2026-10-19T14:32:00.395069458Z",
   "model": "glm-5.3"
 }

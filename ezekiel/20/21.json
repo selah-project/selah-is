@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "חמה og אף eru bæði hiti\/reiði — úthella reiði og fullgera bræði heldur sundur tveim orðum sem enska sameinar sem 'wrath'."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Sögulegt viðtengingarháttarsnið ('sagði ég að úthella') í stað óbeinnar óskhyggju ítækni hebreskunnar."
-    }
-  ],
-  "translation": "Og börnin óguðust gegn mér; í skipunum mínum gengu þau ekki, og ⟨את⟩ dóma mína vörðu þau ekki, að gera þá — þau sem maðurinn gerir og lifir við þau — ⟨את⟩ Sjabbatina mína vanhelguðu þau, og sagði ég að úthella reiði minni yfir þá, til að fullgera bræði mína á þeim í eyðimörkinni.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/20\/21-24.1792407229340.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og synirnir óhlýðnuðust mér: í skipunum mínum géngu þeir ekki, og ⟨את⟩ dóma mína gættu þeir ekki, að gera ⟨את⟩ þau — þau sem maðurinn gerir og lifir við ⟨את⟩ þau — ⟨את⟩ Sjabbat mína vanhelguðu þeir. Og ég sagði að úthella reiði minni yfir þá, til að fullnega bræði minni gegn þeim í eyðimörkinni.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "óguðust"
+      "gloss": "óhlýðnuðust"
     },
     {
       "surface": "בי",
-      "gloss": "gegn mér"
+      "gloss": "mér"
     },
     {
       "surface": "הבנים",
-      "gloss": "börnin"
+      "gloss": "synirnir"
     },
     {
       "surface": "בחקותי",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "הלכו",
-      "gloss": "gengu"
+      "gloss": "géngu þeir"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "dóma mína"
     },
     {
@@ -67,7 +46,7 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "vörðu"
+      "gloss": "gættu þeir"
     },
     {
       "surface": "לעשות",
@@ -75,7 +54,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þá"
+      "gloss": "⟨את⟩ þau",
+      "marks": "þau (skipunir og dóma)"
     },
     {
       "surface": "אשר",
@@ -87,7 +67,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þau"
+      "gloss": "⟨את⟩ þau",
+      "marks": "þau"
     },
     {
       "surface": "האדם",
@@ -104,19 +85,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sjabbatina mína"
+      "marks": "Sjabbat mína"
     },
     {
       "surface": "שבתותי",
-      "gloss": "Sjabbatina mína"
+      "gloss": "Sjabbat mína"
     },
     {
       "surface": "חללו",
-      "gloss": "vanhelguðu"
+      "gloss": "vanhelguðu þeir"
     },
     {
       "surface": "ואמר",
-      "gloss": "og sagði ég"
+      "gloss": "Og ég sagði"
     },
     {
       "surface": "לשפך",
@@ -132,21 +113,21 @@
     },
     {
       "surface": "לכלות",
-      "gloss": "til að fullgera"
+      "gloss": "til að fullnega"
     },
     {
       "surface": "אפי",
-      "gloss": "bræði mína"
+      "gloss": "bræði minni"
     },
     {
       "surface": "בם",
-      "gloss": "á þeim"
+      "gloss": "gegn þeim"
     },
     {
       "surface": "במדבר",
       "gloss": "í eyðimörkinni"
     }
   ],
-  "timestamp": "2026-10-19T10:53:49.341024603Z",
+  "timestamp": "2026-10-19T14:43:13.256834816Z",
   "model": "glm-5.3"
 }

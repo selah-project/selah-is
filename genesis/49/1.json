@@ -5,23 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "באחרית הימים er fast yfirlýsing: 'endir daganna \/ síðustu dagar', ekki bókstafleg töluð áttund."
-    }
-  ],
-  "translation": "Og Jaakov kallaði til sona sinna og sagði: Safnist saman, og mun ég segja yður ⟨את⟩ það sem yður mun hitta í enda dagnanna.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/49\/1-4.1792394026035.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jaakov kallaði til sona sinna og sagði: Safnist saman, og mun ég kunngjöra yður ⟨את⟩ það sem mun hitta ⟨את⟩ yður í síðustu dögunum.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "sagði"
+      "gloss": "og sagði"
     },
     {
       "surface": "האספו",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "ואגידה",
-      "gloss": "mun ég segja"
+      "gloss": "mun ég kunngjöra"
     },
     {
       "surface": "לכם",
@@ -58,11 +42,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "það sem (אשר)"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "יקרא",
@@ -70,17 +54,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ yður",
+      "marks": "í síðustu dögunum (באחרית)"
     },
     {
       "surface": "באחרית",
-      "gloss": "í enda"
+      "gloss": "í síðustu"
     },
     {
       "surface": "הימים",
-      "gloss": "dagnanna"
+      "gloss": "dögunum"
     }
   ],
-  "timestamp": "2026-10-19T07:13:46.036375579Z",
+  "timestamp": "2026-10-19T14:47:32.459544114Z",
   "model": "glm-5.3"
 }

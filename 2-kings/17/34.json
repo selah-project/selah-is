@@ -5,40 +5,19 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "setningum hans",
-      "rationale": "כחקתם\/וכמשפטם — fleirtölu-áhrifirnir ('their') geta vísað til Ísraels eða þjóðanna; orðið 'hans' heldur Ísrael sem viðmiði."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ישראל",
-      "rationale": "Nafnaskiptin Jaakov→Ísrael í verslok gefu til kynna hverjir sáttmálanum var ætlaður, í mótfalls við landnemarnir."
-    }
-  ],
-  "translation": "Þar til þess daga gera þeir eftir fyrstu siðunum; þeir óttast ekki Jahve ⟨את⟩ og gjöra ekki eftir setningum hans og dómi hans, og Tóru og boði því er Jahve bauð sonum Jaakov, þeim er hann setti nafn hans Ísrael.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/33-36.1792403308406.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Út þennan dag gera þeir eftir fornum siðum; þeir óttast ekki Jahve og gera ekki eftir lögum þeirra né dómi þeirra, né eftir Tórunni og boðorðinu, sem Jahve bauð ⟨את⟩ sonum Jaakobs, sem hann gaf nafn sitt Ísrael.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "þar til"
+      "gloss": "Út"
     },
     {
       "surface": "היום",
-      "gloss": "dags"
+      "gloss": "þennan dag"
     },
     {
       "surface": "הזה",
-      "gloss": "þess"
+      "gloss": "þennan"
     },
     {
       "surface": "הם",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "כמשפטים",
-      "gloss": "eftir siðunum"
+      "gloss": "eftir fornum siðum"
     },
     {
       "surface": "הראשנים",
-      "gloss": "fyrstu"
+      "gloss": "fornum"
     },
     {
       "surface": "אינם",
@@ -79,27 +58,27 @@
     },
     {
       "surface": "עשים",
-      "gloss": "gjöra"
+      "gloss": "gera"
     },
     {
       "surface": "כחקתם",
-      "gloss": "eftir setningum hans"
+      "gloss": "eftir lögum þeirra"
     },
     {
       "surface": "וכמשפטם",
-      "gloss": "og dómi hans"
+      "gloss": "né dómi þeirra"
     },
     {
       "surface": "וכתורה",
-      "gloss": "og Tóru"
+      "gloss": "né eftir Tórunni"
     },
     {
       "surface": "וכמצוה",
-      "gloss": "og boði"
+      "gloss": "og boðorðinu"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "צוה",
@@ -112,7 +91,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sonum Jaakob"
+      "marks": "sonum Jaakobs"
     },
     {
       "surface": "בני",
@@ -120,25 +99,25 @@
     },
     {
       "surface": "יעקב",
-      "gloss": "Jaakob"
+      "gloss": "Jaakobs"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "שם",
-      "gloss": "setti"
+      "gloss": "gaf"
     },
     {
       "surface": "שמו",
-      "gloss": "nafn hans"
+      "gloss": "nafn sitt"
     },
     {
       "surface": "ישראל",
       "gloss": "Ísrael"
     }
   ],
-  "timestamp": "2026-10-19T09:48:28.407648335Z",
+  "timestamp": "2026-10-19T14:35:50.973171195Z",
   "model": "glm-5.3"
 }

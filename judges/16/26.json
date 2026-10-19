@@ -5,41 +5,15 @@
   "book": "judges",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "úttengd frásögn 'að ég megi' er ekki í hebreskunni, <ו> stingur áfram á ófullkomnum hætti"
-    },
-    {
-      "kind": "crux",
-      "subject": "והימשני",
-      "rationale": "lærdómar skiptast á 'lát mig snerta' (af ימש, snerta) og 'leið mig' (af נהג); formið er óvenjulegt og myndið"
-    },
-    {
-      "kind": "you",
-      "subject": "til piltssins",
-      "rationale": "Símson talar beint til piltssins er heldur í hönd hans — óbeint kall um hjálp"
-    }
-  ],
-  "translation": "Og Símson sagði við piltinn er hélt í hönd hans: Láttu mig í friði og lát mig snerta ⟨את⟩ stoðirnar ⟨sem⟩ húsið er reist stendur á, að ég megi halla mér að þeim.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "5dfd476ea9391c1a83837383f23401b1f5b37661737ab40f6c8042d654e52803",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/16\/26-27.1792416579271.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Sjimson sagði við piltninn er hélt í hönd hans: Láttu mig ⟪eiga⟫ ⟨את⟩ og láttu mig snerta ⟨את⟩ suldurnar sem húsið stendur á, svo að ég megi styðjast við þær.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og Símson sagði"
+      "gloss": "Og … sagði"
     },
     {
       "surface": "שמשון",
-      "gloss": "Símson"
+      "gloss": "Sjimson"
     },
     {
       "surface": "אל",
@@ -47,41 +21,41 @@
     },
     {
       "surface": "הנער",
-      "gloss": "piltinn"
+      "gloss": "piltninn"
     },
     {
       "surface": "המחזיק",
-      "gloss": "er hélt"
+      "gloss": "er hélt í"
     },
     {
       "surface": "בידו",
-      "gloss": "í hönd hans"
+      "gloss": "hönd hans"
     },
     {
       "surface": "הניחה",
-      "gloss": "Láttu mig í friði"
+      "gloss": "Láttu"
     },
     {
       "surface": "אותי",
       "gloss": "⟨את⟩",
-      "marks": "mig"
+      "marks": "mig (orðið 'láttu mig' — merkir mig sem hlut)"
     },
     {
       "surface": "והימשני",
-      "gloss": "og lát mig snerta"
+      "gloss": "og láttu mig snerta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "stoðirnar"
+      "marks": "suldurnar"
     },
     {
       "surface": "העמדים",
-      "gloss": "stoðirnar"
+      "gloss": "suldurnar"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨sem⟩"
+      "gloss": "sem"
     },
     {
       "surface": "הבית",
@@ -89,21 +63,21 @@
     },
     {
       "surface": "נכון",
-      "gloss": "er reist stendur"
+      "gloss": "stendur"
     },
     {
       "surface": "עליהם",
-      "gloss": "á þeim"
+      "gloss": "á"
     },
     {
       "surface": "ואשען",
-      "gloss": "að ég megi halla mér að þeim"
+      "gloss": "svo að ég megi styðjast"
     },
     {
       "surface": "עליהם",
-      "gloss": "að þeim"
+      "gloss": "við þær"
     }
   ],
-  "timestamp": "2026-10-19T13:29:39.271734683Z",
+  "timestamp": "2026-10-19T14:52:49.103024339Z",
   "model": "glm-5.3"
 }

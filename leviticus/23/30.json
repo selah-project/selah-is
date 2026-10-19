@@ -5,37 +5,15 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sálm",
-      "rationale": "נפש er öndandi lífsmáttur, ekki 'sál'",
-      "is": "נפש"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בעצם היום",
-      "rationale": "'í beinum dagsins' — 'sjálfum deginum'"
-    }
-  ],
-  "translation": "Og hver sálm, sem vinur nokkurs konar verk á sjálfum deginum þessum, þann sálm mun ég gjöreyða úr miði lýðs síns.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/23\/29-32.1792396167615.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hver sá sálu sem framkvæmir alltögur á ⟨þessum sama⟩ degi — þá mun ég eyða ⟨את⟩ þeirri sálu úr þjöð sinni.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "Og hver"
+      "gloss": "og hver"
     },
     {
       "surface": "הנפש",
-      "gloss": "sálm"
+      "gloss": "sálu"
     },
     {
       "surface": "אשר",
@@ -43,23 +21,23 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "vinur"
+      "gloss": "framkvæmir"
     },
     {
       "surface": "כל",
-      "gloss": "nokkurs konar"
+      "gloss": "alltögur"
     },
     {
       "surface": "מלאכה",
-      "gloss": "verk"
+      "gloss": "tögur"
     },
     {
       "surface": "בעצם",
-      "gloss": "⟨á⟩ sjálfum"
+      "gloss": "á ⟨þessum sama⟩ degi"
     },
     {
       "surface": "היום",
-      "gloss": "degínum"
+      "gloss": "degi"
     },
     {
       "surface": "הזה",
@@ -67,30 +45,30 @@
     },
     {
       "surface": "והאבדתי",
-      "gloss": "mun ég gjöreyða"
+      "gloss": "þá mun ég eyða"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þann sálm"
+      "marks": "þeirri sálu"
     },
     {
       "surface": "הנפש",
-      "gloss": "sálm"
+      "gloss": "sálu"
     },
     {
       "surface": "ההוא",
-      "gloss": "þann"
+      "gloss": "þeirri"
     },
     {
       "surface": "מקרב",
-      "gloss": "úr miði"
+      "gloss": "úr"
     },
     {
       "surface": "עמה",
-      "gloss": "lýðs síns"
+      "gloss": "þjöð sinni"
     }
   ],
-  "timestamp": "2026-10-19T07:49:27.617814519Z",
+  "timestamp": "2026-10-19T14:53:59.057976935Z",
   "model": "glm-5.3"
 }

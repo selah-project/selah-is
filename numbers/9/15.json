@@ -5,44 +5,28 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'er' og 'þá' bætt við til íslenskrar setningarskipunar; hebreskan segir 'á deginum þess að reisa'"
-    }
-  ],
-  "translation": "Og á deginum er Misjkaninu var reist, þá huldi skýin ⟨את⟩ Misjkaninu, tjaldi vitnisburðarins; og að kveldi var yfir Misjkaninu sem útlit elds, allt til morguns.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "107642ca5dee90ccb1b9725a0fa3826d2c7ad0883183103c79151034008da2c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/9\/13-16.1792396671094.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og á þeim degi er Misjkaninn var reistur þekti skýin ⟨את⟩ Misjkaninn, ⟨את⟩ tjaldbúð vitnisburðarins, og um kveldið var yfir Misjkaninum sem útlit elds, allt til morguns.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "Og á deginum"
+      "gloss": "Og á þeim degi"
     },
     {
       "surface": "הקים",
-      "gloss": "var reist"
+      "gloss": "var reistur"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Misjkaninu"
+      "marks": "Misjkaninn"
     },
     {
       "surface": "המשכן",
-      "gloss": "Misjkaninu"
+      "gloss": "Misjkaninn"
     },
     {
       "surface": "כסה",
-      "gloss": "huldi"
+      "gloss": "þekti"
     },
     {
       "surface": "הענן",
@@ -51,15 +35,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Misjkaninu"
+      "marks": "Misjkaninn"
     },
     {
       "surface": "המשכן",
-      "gloss": "Misjkaninu"
+      "gloss": "Misjkaninn"
     },
     {
       "surface": "לאהל",
-      "gloss": "tjaldi"
+      "gloss": "tjaldbúð"
     },
     {
       "surface": "העדת",
@@ -67,7 +51,7 @@
     },
     {
       "surface": "ובערב",
-      "gloss": "og að kveldi"
+      "gloss": "og um kveldið"
     },
     {
       "surface": "יהיה",
@@ -79,7 +63,7 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "Misjkaninu"
+      "gloss": "Misjkaninum"
     },
     {
       "surface": "כמראה",
@@ -98,6 +82,6 @@
       "gloss": "morguns"
     }
   ],
-  "timestamp": "2026-10-19T07:57:51.095455416Z",
+  "timestamp": "2026-10-19T14:56:45.012724052Z",
   "model": "glm-5.3"
 }

@@ -5,112 +5,91 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שלח\/משחית\/שחתכם",
-      "rationale": "Rótin שחת endurtekin (eyðingar\/eyða) umkringd sendingu — sending-spor eyðingar; þetta fellur að hluta til í íslensku."
-    },
-    {
-      "kind": "idiom",
-      "subject": "מטה לחם",
-      "rationale": "'Brauðstöng' — stöngin sem brauð hangir við; myndlíking um grunnföng lífsins, ekki bókstafleg stöng."
-    }
-  ],
-  "translation": "Þegar ég sendi ⟨את⟩ hinum illu sultarörum meðal þeirra — þeim er til eyðingar eru, þeim er ég sendi til að eyða ykkur — mun ég heldur leiða sult fram yfir ykkur og braut brauðstöng ykkar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "8ccfe23b3d5a6a02451a89799e5558989965e652ad4456ff330c6874932eec00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/5\/13-16.1792406825351.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þegar ég sendi ⟨את⟩ örvana hungursins, þá illu, yfir þá — þeir er til eyðingar, þá er ég sendi til að eyða yður — og ég bæti hungri ofan á yður og brýtur brauðsstaffa yðar.",
   "tokens": [
     {
-      "surface": "בשלחי",
+      "surface": "בְּשַׁלְּחִי",
       "gloss": "Þegar ég sendi"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "hinum illu sultarörum"
+      "marks": "örvana"
     },
     {
-      "surface": "חצי",
-      "gloss": "sultar-örum"
+      "surface": "חִצֵּי",
+      "gloss": "örvana"
     },
     {
-      "surface": "הרעב",
-      "gloss": "sultar"
+      "surface": "הָרָעָב",
+      "gloss": "hungursins"
     },
     {
-      "surface": "הרעים",
-      "gloss": "hinum illu"
+      "surface": "הָרָעִים",
+      "gloss": "þá illu"
     },
     {
-      "surface": "בהם",
-      "gloss": "meðal þeirra"
+      "surface": "בָּהֶם",
+      "gloss": "yfir þá"
     },
     {
-      "surface": "אשר",
-      "gloss": "er"
+      "surface": "אֲשֶׁר",
+      "gloss": "þeir er"
     },
     {
-      "surface": "היו",
+      "surface": "הָיוּ",
       "gloss": "eru"
     },
     {
-      "surface": "למשחית",
+      "surface": "לְמַשְׁחִית",
       "gloss": "til eyðingar"
     },
     {
-      "surface": "אשר",
-      "gloss": "er"
+      "surface": "אֲשֶׁר",
+      "gloss": "þá"
     },
     {
-      "surface": "אשלח",
+      "surface": "אֲשַׁלַּח",
       "gloss": "ég sendi"
     },
     {
-      "surface": "אותם",
+      "surface": "אוֹתָם",
       "gloss": "⟨את⟩",
-      "marks": "þá (örina)"
+      "marks": "til að eyða yður"
     },
     {
-      "surface": "לשחתכם",
-      "gloss": "til að eyða ykkur"
+      "surface": "לְשַׁחֶתְכֶם",
+      "gloss": "til að eyða yður"
     },
     {
-      "surface": "ורעב",
-      "gloss": "og sult"
+      "surface": "וְרָעָב",
+      "gloss": "og hungur"
     },
     {
-      "surface": "אסף",
-      "gloss": "held ég fram"
+      "surface": "אוֹסֵף",
+      "gloss": "bæti"
     },
     {
-      "surface": "עליכם",
-      "gloss": "yfir ykkur"
+      "surface": "עֲלֵיכֶם",
+      "gloss": "ofan á yður"
     },
     {
-      "surface": "ושברתי",
-      "gloss": "og braut ég"
+      "surface": "וְשָׁבַרְתִּי",
+      "gloss": "og ég brýtur"
     },
     {
-      "surface": "לכם",
-      "gloss": "ykkar"
+      "surface": "לָכֶם",
+      "gloss": "yðar"
     },
     {
-      "surface": "מטה",
-      "gloss": "stöng"
+      "surface": "מַטֵּה",
+      "gloss": "staffa"
     },
     {
-      "surface": "לחם",
-      "gloss": "brauð"
+      "surface": "לָחֶם",
+      "gloss": "brauðs"
     }
   ],
-  "timestamp": "2026-10-19T10:47:05.352461944Z",
+  "timestamp": "2026-10-19T14:44:30.019198707Z",
   "model": "glm-5.3"
 }

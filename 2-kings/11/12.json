@@ -5,36 +5,10 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "העדות",
-      "rationale": " 'vottorðið' — líklega afrit sáttmálans (2. Mós 25:16), en sumir lesa 'konunglegt insignia'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "slógu höndum",
-      "rationale": " ויכו כף 'slógu lófa' — köll handklapp sem krýningarfögnuður."
-    },
-    {
-      "kind": "addition",
-      "subject": "saman",
-      "rationale": " Íslenskan krefst 'saman' í handklappmyndinni; hebreskan hefur aðeins 'lófa'."
-    }
-  ],
-  "translation": "Og hann leiddi út ⟨את⟩ son konungsins og setti á hann ⟨את⟩ kórónuna og ⟨את⟩ vottorðið, og þeir gerðu hann að konungi og smuruðu hann, og þeir slógu ⟨saman⟩ höndum og sögðu: Lifi konungurinn!",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "ff8e7e442f8e4a0f09177127b412e769bcb7d3900ae6b43d8cb9ed4634246e89",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/11\/9-12.1792403174675.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann leiddi út ⟨את⟩ son konungsins og setti á hann ⟨את⟩ kórónuna og ⟨את⟩ vottkvæðina, og þeir gerðu ⟨את⟩ hann að konungi og smuru hann, og þeir slógu höndum saman og sögðu: Lengi lifi konungurinn!",
   "tokens": [
     {
-      "surface": "ויוצא",
+      "surface": "ויוציא",
       "gloss": "leiddi út"
     },
     {
@@ -70,11 +44,11 @@
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "vottorðið"
+      "marks": "vottkvæðina"
     },
     {
       "surface": "העדות",
-      "gloss": "vottorðið"
+      "gloss": "vottkvæðina"
     },
     {
       "surface": "וימלכו",
@@ -82,11 +56,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann (son konungsins)"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "smuruðu hann"
+      "gloss": "smuru hann"
     },
     {
       "surface": "ויכו",
@@ -94,7 +69,7 @@
     },
     {
       "surface": "כף",
-      "gloss": "höndum"
+      "gloss": "höndum saman"
     },
     {
       "surface": "ויאמרו",
@@ -102,13 +77,13 @@
     },
     {
       "surface": "יחי",
-      "gloss": "Lifi"
+      "gloss": "Lengi lifi"
     },
     {
       "surface": "המלך",
       "gloss": "konungurinn"
     }
   ],
-  "timestamp": "2026-10-19T09:46:14.676821281Z",
+  "timestamp": "2026-10-19T14:34:56.942643179Z",
   "model": "glm-5.3"
 }

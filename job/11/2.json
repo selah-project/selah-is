@@ -5,33 +5,7 @@
   "book": "job",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Framsögunarháttar spurningar orðbúnaður (þarf\/mun) bætt við — hebreska hefur einfaldaða spurnarmynd"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דברים\/יענה",
-      "rationale": "Svar (ענה) gegn orðaflaumi — andstæðan tapast ekki alveg á íslensku"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Sófar beinir spurningunum að Jóbi með óbeinni róður"
-    }
-  ],
-  "translation": "Þarf fjöldi orða ekki svars, og mun maður tveggja varra réttlætur?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "31ae1a681698ef5e1c64f27632933ddc069c224af69af52fc2ad4c44aecc464c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/11\/2-3.1792416991390.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Á að fjöldi orða verði ekki svaraður, og verður manni tveggja varra rétt lýst?",
   "tokens": [
     {
       "surface": "הרב",
@@ -47,19 +21,15 @@
     },
     {
       "surface": "יענה",
-      "gloss": "svars"
+      "gloss": "verði svaraður"
     },
     {
-      "surface": "ו",
+      "surface": "ואם",
       "gloss": "og"
     },
     {
-      "surface": "אם",
-      "gloss": "mun"
-    },
-    {
       "surface": "איש",
-      "gloss": "maður"
+      "gloss": "manni"
     },
     {
       "surface": "שפתים",
@@ -67,9 +37,9 @@
     },
     {
       "surface": "יצדק",
-      "gloss": "réttlætur"
+      "gloss": "rétt lýst"
     }
   ],
-  "timestamp": "2026-10-19T13:36:31.391384080Z",
+  "timestamp": "2026-10-19T14:50:26.628426680Z",
   "model": "glm-5.3"
 }

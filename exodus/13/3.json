@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "to Israel",
-      "rationale": "ópersónulegt boð: Minnist þessa dags — áminning til lýðsins"
-    },
-    {
-      "kind": "substitution",
-      "subject": "súrt brauð",
-      "rationale": "חמץ er fiðrað deig; íslenskan þarf nafnlið 'brauð'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ánauðarhúsi",
-      "rationale": "מבית עבדים orðrétt 'úr húsi þræla' — ánauðarhús er fast íslenskt myndmál"
-    }
-  ],
-  "translation": "Og Mósje sagði við lýðinn: Minnist þessa dags, þess er þér fóruð úr Mitsrajím, úr ánauðarhúsi, því að með sterkri hendi leiddi Jahve ⟨את⟩ ykkur héðan; og súrt brauð skal ekki etið.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "8cfaa083276e493d83eaeef57f6f56548a84ff7ef53d067ae85b75ae855d5efc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/13\/1-4.1792394481074.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje sagði við fólkið: Minnist þessa dags, þess er þér fóruð úr Mitsrajím, úr þrælahúsi, því að með sterka hendi leiddi Jahve ⟨את⟩ yður héðan, og eigi má eta brennt sykrað ⟨deig⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "lýðinn"
+      "gloss": "fólkið"
     },
     {
       "surface": "זכור",
@@ -56,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þennan dag"
+      "marks": "þenna dag"
     },
     {
       "surface": "היום",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "עבדים",
-      "gloss": "ánauðar"
+      "gloss": "þræla"
     },
     {
       "surface": "כי",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "בחזק",
-      "gloss": "með sterkri"
+      "gloss": "með sterka"
     },
     {
       "surface": "יד",
@@ -108,8 +82,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur",
-      "marks": "ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "yður"
     },
     {
       "surface": "מזה",
@@ -117,17 +91,17 @@
     },
     {
       "surface": "ולא",
-      "gloss": "og ekki"
+      "gloss": "og eigi"
     },
     {
       "surface": "יאכל",
-      "gloss": "skal etið"
+      "gloss": "má eta"
     },
     {
       "surface": "חמץ",
-      "gloss": "súrt brauð"
+      "gloss": "sykrað deig"
     }
   ],
-  "timestamp": "2026-10-19T07:21:21.076773449Z",
+  "timestamp": "2026-10-19T14:40:40.990712378Z",
   "model": "glm-5.3"
 }

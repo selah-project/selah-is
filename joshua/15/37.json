@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Borgarlisti í landamerkjum Júda; nöfn töld upp."
-    }
-  ],
-  "translation": "Tsenan og Khadasja og Migdal-Gad,",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c8d989f5f52383d3bf42387a3d0d688c471e4f53d79af103b68ceed6e9685342",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/15\/37-40.1792399150213.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tsenan og Khadasha og Migdal-Gad,",
   "tokens": [
     {
       "surface": "צנן",
@@ -29,13 +13,17 @@
     },
     {
       "surface": "וחדשה",
-      "gloss": "og Khadasja"
+      "gloss": "og Khadasha"
     },
     {
-      "surface": "ומגדל גד",
-      "gloss": "og Migdal-Gad"
+      "surface": "ומגדל",
+      "gloss": "og Migdal-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "-Gad"
     }
   ],
-  "timestamp": "2026-10-19T08:39:10.213631480Z",
+  "timestamp": "2026-10-19T14:51:00.102998118Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אל ('til') fallið saman við sögnina 'sagði öllum lýð' — orðið hefur eigið gildi en íslenskan þarf það ekki"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ציון שדה תחרש",
-      "rationale": "þríverknaður ofsagnanna — Tsjion\/rústir\/fjallið — með stakri fyrirsögn 'Þannig segir Jahve Tsevaót'; stígandi hrynjandi varðveitt með sambærilegri þrískipan"
-    },
-    {
-      "kind": "crux",
-      "subject": "עיים",
-      "rationale": "fleirtala 'rústir' (sbr. ylt 'heaps') á móti eintölu 'rústahrúga' — fleirtalan hér valin vegna hebresku myndarinnar"
-    }
-  ],
-  "translation": "Míkha mórastíinn var spámaður á dögum Khizkijáhu, konungs í Júda, og sagði öllum lýð Júda svo: Þannig segir Jahve Tsevaót: Tsjion — akur verður hún plægð, og Jerúsjalajím verður að rústum, og fjallið hússins verður hárunga skógar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "ef7e6037dc8473860b5b015ab157bed5020022900f7bd16b93acb258bf26092f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/26\/17-20.1792405987835.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Míka landinn af Morasjét spáði í dögum Khiskíjáhu konungs Júda, og hann sagði við allt fólkið í Júda og sagði: Þannig segir Jahve Tsevaót: Tsíon verður plægt sem akur, og Jerúsjalajím verður að rústhaugum, og fjallið hússins verður hæðum skógar.",
   "tokens": [
     {
       "surface": "מיכיה",
-      "gloss": "Míkha"
+      "gloss": "Míka"
     },
     {
       "surface": "המורשתי",
-      "gloss": "mórastíinn"
+      "gloss": "landinn af Morasjét"
     },
     {
       "surface": "היה",
@@ -47,15 +21,15 @@
     },
     {
       "surface": "נבא",
-      "gloss": "spámaður"
+      "gloss": "spáði"
     },
     {
       "surface": "בימי",
-      "gloss": "á dögum"
+      "gloss": "í dögum"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Khizkijáhu"
+      "gloss": "Khiskíjáhu"
     },
     {
       "surface": "מלך",
@@ -63,31 +37,31 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "í Júda"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": "og sagði"
-    },
-    {
-      "surface": "אל",
-      "gloss": ""
-    },
-    {
-      "surface": "כל",
-      "gloss": "öllum"
-    },
-    {
-      "surface": "עם",
-      "gloss": "lýð"
-    },
-    {
-      "surface": "יהודה",
       "gloss": "Júda"
     },
     {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "í Júda"
+    },
+    {
       "surface": "לאמר",
-      "gloss": "svo"
+      "gloss": "og sagði"
     },
     {
       "surface": "כה",
@@ -107,15 +81,15 @@
     },
     {
       "surface": "ציון",
-      "gloss": "Tsjion"
+      "gloss": "Tsíon"
     },
     {
       "surface": "שדה",
-      "gloss": "akur"
+      "gloss": "sem akur"
     },
     {
       "surface": "תחרש",
-      "gloss": "verður hún plægð"
+      "gloss": "verður plægt"
     },
     {
       "surface": "וירושלים",
@@ -123,11 +97,11 @@
     },
     {
       "surface": "עיים",
-      "gloss": "rústum"
+      "gloss": "að rústhaugum"
     },
     {
       "surface": "תהיה",
-      "gloss": "verður að"
+      "gloss": "verður"
     },
     {
       "surface": "והר",
@@ -139,13 +113,13 @@
     },
     {
       "surface": "לבמות",
-      "gloss": "hárunga"
+      "gloss": "hæðum"
     },
     {
       "surface": "יער",
       "gloss": "skógar"
     }
   ],
-  "timestamp": "2026-10-19T10:33:07.836503529Z",
+  "timestamp": "2026-10-19T14:49:12.792860617Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "ויך לב — hjartað sló\/ómarði hann: samviskubit, hið bókstaflega myndmál varðveitt."
-    }
-  ],
-  "translation": "Og eftir það ómarði hjarta Davíðs hann, því að hann hafði sneitt af jaðar ⟨את⟩ þess er Sjaúl var klæddur.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c5079000283f3c087f6cb50e8a8294767bbf070e33d5533b6263b31ae2150c53",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/24\/5-8.1792400795028.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og eftir þetta bar að hjartað sló Davíð ⟨את⟩, fyrir því að hann hafði skorið ⟨את⟩ jaðarinn sem var í möttli Sjáuls.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og varð"
+      "gloss": "Og bar að"
     },
     {
       "surface": "אחרי",
@@ -33,54 +17,55 @@
     },
     {
       "surface": "כן",
-      "gloss": "það"
+      "gloss": "þetta"
     },
     {
       "surface": "ויך",
-      "gloss": "ómarði"
+      "gloss": "sló"
     },
     {
       "surface": "לב",
-      "gloss": "hjarta"
+      "gloss": "hjartað"
     },
     {
       "surface": "דוד",
-      "gloss": "Davíðs"
+      "gloss": "Davíð"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann (Davíð)"
     },
     {
       "surface": "על",
-      "gloss": "því að"
+      "gloss": "fyrir"
     },
     {
       "surface": "אשר",
-      "gloss": "það"
+      "gloss": "því að"
     },
     {
       "surface": "כרת",
-      "gloss": "hafði sneitt af"
+      "gloss": "hann hafði skorið"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "jaðar þess er Sjaúl var klæddur"
+      "marks": "jaðarinn"
     },
     {
       "surface": "כנף",
-      "gloss": "jaðar"
+      "gloss": "jaðarinn"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "sem var í"
     },
     {
       "surface": "לשאול",
-      "gloss": "Sjaúl var klæddur"
+      "gloss": "möttli Sjáuls"
     }
   ],
-  "timestamp": "2026-10-19T09:06:35.029042544Z",
+  "timestamp": "2026-10-19T14:33:08.878017652Z",
   "model": "glm-5.3"
 }

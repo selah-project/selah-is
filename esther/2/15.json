@@ -5,27 +5,11 @@
   "book": "esther",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "parinn כי אם er ein neitun, 'nema'"
-    }
-  ],
-  "translation": "Og er röð Ester, dóttur Avíkhajils, frænda Mordókais, sem hann hafði tekið sér að dóttur, var komin að ganga inn til konungsins, þá bað hún ekki um neitt nema ⟨את⟩ því sem Hegaj, rýrir konungsins, gæcismaður kvennanna, sagði; og Ester fann náð í augum allra sem sáu hana.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "774462fe2ef7f86b405ecd797bc666c11cf6e6ff14eb85e8b8e88f98c1f844a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/2\/13-16.1792413252299.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þegar kom röð Ester, dóttur Avíkhajael, frænda Mordókaj, sem hann hafði tekið sér að dóttur, að koma inn til konungsins, þá bað hún ekki um neitt, nema ⟨את⟩ það sem Hegaj, ríkisvarðar konungsins, gæslumaður konungsnánanna, sagði. Og Ester fann náð í augum allra þeirra sem sáu hana.",
   "tokens": [
     {
       "surface": "ובהגיע",
-      "gloss": "og er ... var komin"
+      "gloss": "Og þegar kom"
     },
     {
       "surface": "תר",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "אביחיל",
-      "gloss": "Avíkhajils"
+      "gloss": "Avíkhajael"
     },
     {
       "surface": "דד",
@@ -49,7 +33,7 @@
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordókais"
+      "gloss": "Mordókaj"
     },
     {
       "surface": "אשר",
@@ -69,11 +53,11 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "að ganga inn"
+      "gloss": "að koma"
     },
     {
       "surface": "אל",
-      "gloss": "til"
+      "gloss": "inn til"
     },
     {
       "surface": "המלך",
@@ -93,16 +77,16 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "nema"
     },
     {
       "surface": "אם",
-      "gloss": "nema"
+      "gloss": "⟨það⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "því sem Hegaj sagði"
+      "marks": "það sem Hegaj sagði"
     },
     {
       "surface": "אשר",
@@ -118,7 +102,7 @@
     },
     {
       "surface": "סריס",
-      "gloss": "rýrir"
+      "gloss": "ríkisvarðar"
     },
     {
       "surface": "המלך",
@@ -126,15 +110,15 @@
     },
     {
       "surface": "שמר",
-      "gloss": "gæcismaður"
+      "gloss": "gæslumaður"
     },
     {
       "surface": "הנשים",
-      "gloss": "kvennanna"
+      "gloss": "konungsnánanna"
     },
     {
       "surface": "ותהי",
-      "gloss": "og var"
+      "gloss": "Og … var"
     },
     {
       "surface": "אסתר",
@@ -158,9 +142,9 @@
     },
     {
       "surface": "ראיה",
-      "gloss": "sem sáu hana"
+      "gloss": "þeirra sem sáu hana"
     }
   ],
-  "timestamp": "2026-10-19T12:34:12.301077112Z",
+  "timestamp": "2026-10-19T14:40:37.757516055Z",
   "model": "glm-5.3"
 }

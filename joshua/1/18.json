@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "ימרה את פיך er bókstaflega 'gerir munn þinn bitur' — myndmjög merking um uppreisn"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'skal' bætt við — íslensk framtíðarþörf fyrir boðháttarsettninga"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Lokaorð til Jósúa: 'vertu sterkur og hugrakkur' — endurtekið hvetjandi boð"
-    }
-  ],
-  "translation": "Hver sá maður sem óhlýðir munni þínum og hlýðir ekki ⟨את⟩ orðum þínum, í öllu því sem þú býður honum, skal deyja; aðeins vertu sterkur og hugrakkur.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "1424ec9bbd0116028b3a87ac960ed74f61349e11ba6a129914832263980a22c2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/1\/17-18.1792398678740.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hver sá maður sem mótmælir ⟨את⟩ munninum þínum og hlýðir ekki ⟨את⟩ orðum þínum í öllu því sem þú býður honum, skal líflátinn; einungis vertu sterkur og þorlegrar huga.",
   "tokens": [
     {
       "surface": "כל",
@@ -47,16 +21,16 @@
     },
     {
       "surface": "ימרה",
-      "gloss": "óhlýðir"
+      "gloss": "mótmælir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "munni þínum"
+      "marks": "munninum þínum"
     },
     {
       "surface": "פיך",
-      "gloss": "munn þinn"
+      "gloss": "munninum þínum"
     },
     {
       "surface": "ולא",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "דבריך",
-      "gloss": "orð þín"
+      "gloss": "orðum þínum"
     },
     {
       "surface": "לכל",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "því sem"
     },
     {
       "surface": "תצונו",
@@ -89,11 +63,11 @@
     },
     {
       "surface": "יומת",
-      "gloss": "skal deyja"
+      "gloss": "skal líflátinn"
     },
     {
       "surface": "רק",
-      "gloss": "aðeins"
+      "gloss": "einungis"
     },
     {
       "surface": "חזק",
@@ -101,9 +75,9 @@
     },
     {
       "surface": "ואמץ",
-      "gloss": "og hugrakkur"
+      "gloss": "og þorlegrar huga"
     }
   ],
-  "timestamp": "2026-10-19T08:31:18.740834990Z",
+  "timestamp": "2026-10-19T14:51:17.869795124Z",
   "model": "glm-5.3"
 }

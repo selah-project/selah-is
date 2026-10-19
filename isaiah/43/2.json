@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "með",
-      "rationale": "ítöld 'með' bætt við fyrir אתך אני — hebreskan segir einfaldlega 'ég ⟨með⟩ þér'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "vötn\/eld",
-      "rationale": "samhverf myndun: vatn og eld í tveimur samskonar umsögnum, varðveitt í íslensku"
-    }
-  ],
-  "translation": "Því að þegar þú ferð í gegnum vötnin er ég ⟨með⟩ þér, og í ámunnunum — þær flæma þig ekki; þegar þú gengur um eld sviðnar þú ekki, og logi kviknar ekki á þér.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/43\/1-4.1792404649708.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að þegar þú ferð í gegnum vötnin, er ég ⟨með⟩ þér, og þegar ⟨þú ferð⟩ í ám, skulu þau ekki flæma yfir þig; því að þegar þú gengur í gegnum eld, skalt þú ekki sviðna, og loginn skal ekki kýna í þér.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Því að"
+      "gloss": "því að"
     },
     {
       "surface": "תעבר",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "þér"
+      "gloss": "⟨את⟩ þér",
+      "marks": "með þér"
     },
     {
       "surface": "אני",
-      "gloss": "ég"
+      "gloss": "er ég"
     },
     {
       "surface": "ובנהרות",
-      "gloss": "og í ámunnunum"
+      "gloss": "og í ám"
     },
     {
       "surface": "לא",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "ישטפוך",
-      "gloss": "þær flæma þig"
+      "gloss": "skulu þau flæma yfir þig"
     },
     {
       "surface": "כי",
-      "gloss": "þegar"
+      "gloss": "því að"
     },
     {
       "surface": "תלך",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "במו",
-      "gloss": "um"
+      "gloss": "í gegnum"
     },
     {
       "surface": "אש",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "תכוה",
-      "gloss": "sviðnar þú"
+      "gloss": "skalt þú sviðna"
     },
     {
       "surface": "ולהבה",
-      "gloss": "og logi"
+      "gloss": "og loginn"
     },
     {
       "surface": "לא",
@@ -95,13 +74,13 @@
     },
     {
       "surface": "תבער",
-      "gloss": "kviknar"
+      "gloss": "skal kýna"
     },
     {
       "surface": "בך",
-      "gloss": "á þér"
+      "gloss": "í þér"
     }
   ],
-  "timestamp": "2026-10-19T10:10:49.709836300Z",
+  "timestamp": "2026-10-19T14:48:07.808418466Z",
   "model": "glm-5.3"
 }

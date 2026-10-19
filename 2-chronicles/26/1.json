@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בן שש עשרה שנה",
-      "rationale": "bókstaflega 'sonur sextán ára' — íslenska notar aldur beint: 'sextán ára'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "aldur Ússíja talinn: sextán ár"
-    }
-  ],
-  "translation": "Og allt fólkið í Júda tók Ússíja — hann var sextán ára — og gerðu hann að konungi í stað föður hans Amasíaju.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/26\/1-4.1792415805957.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og allt fólkið í Júda tók Ussíja — hann var sextán ára gamall — og gerðu hann að konungi í stað föður hans, Amasíju.",
   "tokens": [
     {
       "surface": "ויקחו",
-      "gloss": "Og tók"
+      "gloss": "tók"
     },
     {
       "surface": "כל",
@@ -47,19 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ússíja"
+      "marks": "Ussíja"
     },
     {
       "surface": "עזיהו",
-      "gloss": "Ússíja"
+      "gloss": "Ussíja"
     },
     {
       "surface": "והוא",
-      "gloss": "hann"
+      "gloss": "hann var"
     },
     {
       "surface": "בן",
-      "gloss": "var sextán ára"
+      "gloss": "gamall"
     },
     {
       "surface": "שש",
@@ -75,12 +54,12 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "og gerðu hann að konungi"
+      "gloss": "gerðu hann að konungi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann",
-      "marks": "hann (Ússíja)"
+      "gloss": "⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "תחת",
@@ -92,9 +71,9 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amasíaju"
+      "gloss": "Amasíju"
     }
   ],
-  "timestamp": "2026-10-19T13:16:45.958275278Z",
+  "timestamp": "2026-10-19T14:33:39.495409239Z",
   "model": "glm-5.3"
 }

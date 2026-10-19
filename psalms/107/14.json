@@ -5,31 +5,15 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 107,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "צלמות",
-      "rationale": "orðið er 'skuggi-dauðans' (tsal-mavet), samsett mynd — 'dauðaskuggi' heldur myndinni heldur en 'dauðans skuggi'"
-    }
-  ],
-  "translation": "Hann leiddi ⟨את⟩ þá út úr myrkri og dauðaskugga, og fjötra þeirra reif hann sundur.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/13-16.1792410641923.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hann leiðir þá úr myrkri og dauðaskugga, og bönd þeirra sleit hann sundur.",
   "tokens": [
     {
       "surface": "יוציאם",
-      "gloss": "Hann leiddi ⟨את⟩ þá út"
+      "gloss": "leiðir þá úr"
     },
     {
       "surface": "מחשך",
-      "gloss": "úr myrkri"
+      "gloss": "myrkri"
     },
     {
       "surface": "וצלמות",
@@ -37,13 +21,13 @@
     },
     {
       "surface": "ומוסרותיהם",
-      "gloss": "og fjötra þeirra"
+      "gloss": "og bönd þeirra"
     },
     {
       "surface": "ינתק",
-      "gloss": "reif hann sundur"
+      "gloss": "sleit hann sundur"
     }
   ],
-  "timestamp": "2026-10-19T11:50:41.924209535Z",
+  "timestamp": "2026-10-19T14:57:13.230639519Z",
   "model": "glm-5.3"
 }

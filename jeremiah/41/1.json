@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ורבי המלך",
-      "rationale": "'höfðingjar konungsins' (fleirtala, með Jishmael í víst tengda tagi) á móti 'einn af höfðingjum konungsins' (JPS\/BSB les eintölu um Jishmael sjálfan)."
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Sjöundi mánuður og tíu menn taldir — atvikin föst með tölum."
-    }
-  ],
-  "translation": "Og svo varð í sjöunda mánuðinum að Jishmael sonur Netanja, sonar Elishama, af konungsættinni, og höfðingjar konungsins og tíu menn með sér, komu til Gedalja sonar Akhikam í Mitspa; og þá átust þeir þar brauð saman í Mitspa.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/41\/1-4.1792406370504.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og það varð í mánuðinum sjöunda, að Jishmael sonur Netanja, sonar Elishama, af sáði konungsdómsins, og höfðingjar konungsins, og tíu menn ⟨með honum⟩, komu til Gedalja sonar Achikam í Mitspa; og þeir átu þar brauð saman í Mitspa.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og svo varð"
+      "gloss": "Og það varð"
     },
     {
       "surface": "בחדש",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "מזרע",
-      "gloss": "af ætt"
+      "gloss": "af sáði"
     },
     {
       "surface": "המלוכה",
-      "gloss": "konungdæmsins"
+      "gloss": "konungsdómsins"
     },
     {
       "surface": "ורבי",
@@ -90,7 +69,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "með ⟨את⟩ honum"
+      "gloss": "⟨את⟩",
+      "marks": "tíu menn"
     },
     {
       "surface": "אל",
@@ -106,7 +86,7 @@
     },
     {
       "surface": "אחיקם",
-      "gloss": "Akhikam"
+      "gloss": "Achikam"
     },
     {
       "surface": "המצפתה",
@@ -114,7 +94,7 @@
     },
     {
       "surface": "ויאכלו",
-      "gloss": "og þá átust"
+      "gloss": "og þeir átu"
     },
     {
       "surface": "שם",
@@ -133,6 +113,6 @@
       "gloss": "í Mitspa"
     }
   ],
-  "timestamp": "2026-10-19T10:39:30.505073994Z",
+  "timestamp": "2026-10-19T14:50:20.520187203Z",
   "model": "glm-5.3"
 }

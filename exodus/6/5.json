@@ -5,23 +5,7 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska þarf hjálparSORÐ í samsetningunni „lætur þjóna sér“ fyrir málsmynd afarlegar gerðar"
-    }
-  ],
-  "translation": "Og einnig hefi ég heyrt ⟨את⟩ stynjunarskrik Ísraelsmanna, sem Mitsrajím lætur þjóna sér, og ég manst sáttmála minn.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/6\/5-8.1792394202795.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og einnig hef ég heyrt ⟨את⟩ stynjun sona Ísraels, sem Mitsrajím láta þjóna ⟨את⟩ ⟨þeim⟩, og hef ég minnst ⟨את⟩ sáttmála míns.",
   "tokens": [
     {
       "surface": "וגם",
@@ -33,24 +17,24 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "hefi ég heyrt"
+      "gloss": "hef ég heyrt"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "stynjunarskrik"
+      "marks": "stynjun"
     },
     {
       "surface": "נאקת",
-      "gloss": "stynjunarskrik"
+      "gloss": "stynjun"
     },
     {
       "surface": "בני",
-      "gloss": "manna"
+      "gloss": "sona"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels-"
+      "gloss": "Ísraels"
     },
     {
       "surface": "אשר",
@@ -62,26 +46,27 @@
     },
     {
       "surface": "מעבדים",
-      "gloss": "lætur þjóna sér"
+      "gloss": "láta þjóna"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ þá"
+      "gloss": "⟨את⟩ ⟨þeim⟩",
+      "marks": "sona Ísraels — afturbeygður vísisbendir á hnepptu fólkið"
     },
     {
       "surface": "ואזכר",
-      "gloss": "og ég manst"
+      "gloss": "og hef ég minnst"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sáttmála minn"
+      "marks": "sáttmála míns"
     },
     {
       "surface": "בריתי",
-      "gloss": "sáttmála minn"
+      "gloss": "sáttmála míns"
     }
   ],
-  "timestamp": "2026-10-19T07:16:42.796788071Z",
+  "timestamp": "2026-10-19T14:42:37.465783866Z",
   "model": "glm-5.3"
 }

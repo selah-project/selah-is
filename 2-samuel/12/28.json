@@ -5,53 +5,32 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "gloss": "Þú — hebreskan notar nær-framvísandi boðhátt án fornafns, íslenskan bætir við „þú“"
-    },
-    {
-      "kind": "you",
-      "subject": "Davíð",
-      "rationale": "Boð Jóabs til Davíðar konungs — herforinginn víkur sigurinn konungi"
-    }
-  ],
-  "translation": "Og nú skalt þú safna saman afgangi lýðsins og herbúða við borgina og taka hana, svo að ekki ég taki borgina og nafn mitt sé kallað yfir hana.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/25-28.1792401331519.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og nú skalt þú safna ⟨את⟩ leif fólksins og leggjast með herbúðum við borgina og takna hana, því að ekki skal svo að ég takni borgina og nafn mitt sé kallað yfir hana.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Og nú"
+      "gloss": "og nú"
     },
     {
       "surface": "אסף",
-      "gloss": "skalt þú safna saman"
+      "gloss": "skalt þú safna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "afgangi lýðsins"
+      "marks": "leif fólksins"
     },
     {
       "surface": "יתר",
-      "gloss": "afgangi"
+      "gloss": "leif"
     },
     {
       "surface": "העם",
-      "gloss": "lýðsins"
+      "gloss": "fólksins"
     },
     {
       "surface": "וחנה",
-      "gloss": "og herbúða"
+      "gloss": "og leggjast með herbúðum við"
     },
     {
       "surface": "על",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "ולכדה",
-      "gloss": "og taka hana"
+      "gloss": "og takna hana"
     },
     {
       "surface": "פן",
-      "gloss": "svo að ekki"
+      "gloss": "því að ekki skal svo að"
     },
     {
       "surface": "אלכד",
-      "gloss": "ég taki"
+      "gloss": "takni"
     },
     {
       "surface": "אני",
@@ -99,6 +78,6 @@
       "gloss": "yfir hana"
     }
   ],
-  "timestamp": "2026-10-19T09:15:31.520354880Z",
+  "timestamp": "2026-10-19T14:36:34.184239090Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "Fyrsta את hér er forsetningin 'með' (nálægð), ekki grundvísir andlags — þess gefið ⟨með⟩ í textanum"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ושכבת את אבתיך",
-      "rationale": "Hebreska myndin 'leggjast með feðrum sínum' merkir að deyja — lát tekið í anda orðtaksins"
-    },
-    {
-      "kind": "substitution",
-      "subject": "afkvæmi",
-      "rationale": "זרעך er bókstaflega 'fræ þitt' — myndin af sáðkorni sem heldur kynslóðinni"
-    }
-  ],
-  "translation": "Þegar dagar þínir eru fullnaddir og þú hefur legið ⟨með⟩ feðrum þínum, þá mun ég reisa afkvæmi þitt eftir þér — ⟨את⟩ það sem gengur ú úr kviði þínum — og ég mun staðfesta ríki hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/7\/9-12.1792401254743.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þegar dagar þínir eru fullnæmdir og þú hefur lagst ⟨את⟩ hjá feðrum þínum, mun ég reisa ⟨את⟩ afkvæmi þitt eftir þig, sem mun fara út úr kviði þínum, og ég mun staðfesta ⟨את⟩ konungdóm þess.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "ימלאו",
-      "gloss": "eru fullnaddir"
+      "gloss": "eru fullnæmdir"
     },
     {
       "surface": "ימיך",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "ושכבת",
-      "gloss": "og þú hefur legið"
+      "gloss": "og þú hefur lagst"
     },
     {
       "surface": "את",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "אבתיך",
-      "gloss": "feðrum þínum"
+      "gloss": "hjá feðrum þínum"
     },
     {
       "surface": "והקימתי",
-      "gloss": "þá mun ég reisa"
+      "gloss": "og mun ég reisa"
     },
     {
       "surface": "את",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "אחריך",
-      "gloss": "eftir þér"
+      "gloss": "eftir þig"
     },
     {
       "surface": "אשר",
@@ -81,7 +55,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "gengur ú"
+      "gloss": "mun fara út"
     },
     {
       "surface": "ממעיך",
@@ -94,13 +68,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ríki hans"
+      "marks": "konungdóm þess"
     },
     {
       "surface": "ממלכתו",
-      "gloss": "ríki hans"
+      "gloss": "konungdóm þess"
     }
   ],
-  "timestamp": "2026-10-19T09:14:14.744825525Z",
+  "timestamp": "2026-10-19T14:37:21.481260616Z",
   "model": "glm-5.3"
 }

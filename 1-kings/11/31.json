@@ -5,28 +5,7 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "שבט er kynþáttur\/þjóðflokkur, 'stafur' einn myndi glípa myndinni"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "tölurnar tíu og tólf bera skiptingu ríkisins — talning er kjarni versins"
-    }
-  ],
-  "translation": "Og hann sagði við Jaróveam: Tak þér tíu bikföng, því að svo segir Jahve, Elóhím Ísraels: Sjá, ég ref konungsríkið úr hendi Sólómó, og ég gef þér ⟨את⟩ þau tíu kynþættina.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "094791c3ee33d9a485b7998621e338ad3efa91490159d57c225f7fe932792c01",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/11\/29-32.1792402402357.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði við Jaróveam: Taktu þér tíu flök, því að svo segir Jahve, Elóhím Ísraels: Sjá, ég er að rífa ⟨את⟩ konungdæmið af hendi Sjlómó, og ég mun gefa þér ⟨את⟩ tíu kynnin.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "קח",
-      "gloss": "Tak"
+      "gloss": "Taktu"
     },
     {
       "surface": "לך",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "קרעים",
-      "gloss": "bikföng"
+      "gloss": "flök"
     },
     {
       "surface": "כי",
@@ -82,28 +61,28 @@
     },
     {
       "surface": "קרע",
-      "gloss": "ref"
+      "gloss": "er að rífa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "konungsríkið"
+      "marks": "konungdæmið"
     },
     {
       "surface": "הממלכה",
-      "gloss": "konungsríkið"
+      "gloss": "konungdæmið"
     },
     {
       "surface": "מיד",
-      "gloss": "úr hendi"
+      "gloss": "af hendi"
     },
     {
       "surface": "שלמה",
-      "gloss": "Sólómó"
+      "gloss": "Sjlómó"
     },
     {
       "surface": "ונתתי",
-      "gloss": "og ég gef"
+      "gloss": "og ég mun gefa"
     },
     {
       "surface": "לך",
@@ -112,7 +91,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þau tíu kynþættina"
+      "marks": "tíu kynnin"
     },
     {
       "surface": "עשרה",
@@ -120,9 +99,9 @@
     },
     {
       "surface": "השבטים",
-      "gloss": "kynþættina"
+      "gloss": "kynnin"
     }
   ],
-  "timestamp": "2026-10-19T09:33:22.358423968Z",
+  "timestamp": "2026-10-19T14:31:11.900874956Z",
   "model": "glm-5.3"
 }

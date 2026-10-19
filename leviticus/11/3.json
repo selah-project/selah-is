@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "פרס\/פרסה\/פרסות",
-      "rationale": "endurtekin rót 'klauf' þrisvar sinnum; fjöldi orða í íslensku gleymir samhljóðanum"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "hebreska hefur enga sögn í 'það megið þér eta'; íslenskan bætir við 'mega'"
-    }
-  ],
-  "translation": "Allt það sem klofar klauf og er skakað klaufinn í klöfum, og fær upp jôgurð — af búfénu — það megið þér eta.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/1-4.1792395625482.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Allt sem klofar hófin og er skorið í sundur í hófum, skakkostur flær upp meðal búfésins — ⟨את⟩ þess megið þið éta.",
   "tokens": [
     {
       "surface": "כל",
@@ -38,42 +17,42 @@
     },
     {
       "surface": "פרסה",
-      "gloss": "klauf"
+      "gloss": "hófin"
     },
     {
       "surface": "ושסעת",
-      "gloss": "og er skakað"
+      "gloss": "og er skorið í sundur"
     },
     {
       "surface": "שסע",
-      "gloss": "klof"
+      "gloss": "ska"
     },
     {
       "surface": "פרסת",
-      "gloss": "í klöfum"
+      "gloss": "í hófum"
     },
     {
       "surface": "מעלת",
-      "gloss": "og fær upp"
+      "gloss": "flær upp"
     },
     {
       "surface": "גרה",
-      "gloss": "jôgurð"
+      "gloss": "skakkost"
     },
     {
       "surface": "בבהמה",
-      "gloss": "af búfénu"
+      "gloss": "meðal búfésins"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "þess"
     },
     {
       "surface": "תאכלו",
-      "gloss": "megið þér eta"
+      "gloss": "megið þið éta"
     }
   ],
-  "timestamp": "2026-10-19T07:40:25.484128278Z",
+  "timestamp": "2026-10-19T14:53:37.497533738Z",
   "model": "glm-5.3"
 }

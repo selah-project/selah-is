@@ -5,31 +5,15 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בית האסור",
-      "rationale": "bókstælega 'hús fjötranna' — 'fangelsið' gefur myndina en tapar fjötrum."
-    }
-  ],
-  "translation": "Þá reiddust höfðingjarnir við Jirmejáhu og höfðu ⟨את⟩ honum högg, og settu hann í fangelsið, í hús Jónatanar ritarans, því að þeir höfðu gert ⟨את⟩ því að fangelsi.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6f54195d2cc6f60e689c53b6ae9762ffddb6ed69828e816b72a9dd838ebf3b1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/37\/13-16.1792406286398.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og höfðingjarnir reiðust við Jermía og þeir höggvu ⟨את⟩ hann og settu ⟨את⟩ hann í hús fjötrarins, í hús Jónatanar ritarans, því að ⟨את⟩ það höfðu þeir gert að fangelsi.",
   "tokens": [
     {
       "surface": "ויקצפו",
-      "gloss": "Þá reiddust"
+      "gloss": "reiðust"
     },
     {
       "surface": "השרים",
-      "gloss": "höfðingjarnir"
+      "gloss": "höhöfðingjarnir"
     },
     {
       "surface": "על",
@@ -37,16 +21,16 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejáhu"
+      "gloss": "Jermía"
     },
     {
       "surface": "והכו",
-      "gloss": "og höfðu högg"
+      "gloss": "og þeir höggvu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "honum"
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann (Jermía)"
     },
     {
       "surface": "ונתנו",
@@ -54,8 +38,8 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩",
-      "marks": "hann"
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann í hús fjötrarins"
     },
     {
       "surface": "בית",
@@ -63,11 +47,11 @@
     },
     {
       "surface": "האסור",
-      "gloss": "fangelsis"
+      "gloss": "fjötarins"
     },
     {
       "surface": "בית",
-      "gloss": "í hús"
+      "gloss": "hús"
     },
     {
       "surface": "יהונתן",
@@ -83,22 +67,22 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "því"
+      "gloss": "⟨את⟩ það",
+      "marks": "það (húsið)"
     },
     {
       "surface": "עשו",
-      "gloss": "höfðu gert"
+      "gloss": "höfðu þeir gert"
     },
     {
       "surface": "לבית",
-      "gloss": "að húsi"
+      "gloss": "að"
     },
     {
       "surface": "הכלא",
       "gloss": "fangelsi"
     }
   ],
-  "timestamp": "2026-10-19T10:38:06.400012817Z",
+  "timestamp": "2026-10-19T14:49:37.582923743Z",
   "model": "glm-5.3"
 }

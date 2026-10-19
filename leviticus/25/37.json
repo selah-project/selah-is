@@ -5,37 +5,16 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "נשך þýtt „vöxtur“ — orðið merkir bókstaflega „bit“, eins og bjagaður peningur bítur lántakanda."
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Boð beint til Ísraels um máldaga við bróður í neyð."
-    }
-  ],
-  "translation": "Silveri þínu skalt þú ekki gefa honum ⟨á vöxtum⟩, og ⟨fyrir⟩ ávöxt skalt þú ekki gefa mat þinn.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/25\/37-40.1792396145529.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ silfri þínu skalt þú ekki gefa honum í vaxta, og fyrir ávöxtun skalt þú ekki gefa mat þinn.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "silveri þínu"
+      "marks": "silfri þínu"
     },
     {
       "surface": "כספך",
-      "gloss": "silveri þínu"
+      "gloss": "silfri þínu"
     },
     {
       "surface": "לא",
@@ -51,11 +30,11 @@
     },
     {
       "surface": "בנשך",
-      "gloss": "á vöxtum"
+      "gloss": "í vaxta"
     },
     {
       "surface": "ובמרבית",
-      "gloss": "og ⟨fyrir⟩ ávöxt"
+      "gloss": "og fyrir ávöxtun"
     },
     {
       "surface": "לא",
@@ -70,6 +49,6 @@
       "gloss": "mat þinn"
     }
   ],
-  "timestamp": "2026-10-19T07:49:05.531532720Z",
+  "timestamp": "2026-10-19T14:53:57.050635210Z",
   "model": "glm-5.3"
 }

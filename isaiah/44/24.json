@@ -5,37 +5,11 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "מי אתי: YLT\/ASV lesa spurningu 'hver er með mér?' (אֵת H854, 'með'), en KJV\/JPS lesa yfirlýsingu 'ég einn'; hebreska stendur sem opinn spurning."
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Jahve talar til Ísraels: 'endurleysir þinn … mótaði þig frá móðurkviði'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "גאלך og ויצרך endurtaka rætur úr 44:21–22 (móta, endurleysa) og binda kaflann saman."
-    }
-  ],
-  "translation": "Svo segir Jahve, endurleysir þinn og sá er mótaði þig frá móðurkviði: Ég er Jahve, sá er gerir allt, þréttir út himnana einn saman, breiðir út jörðina — hver er ⟨með⟩ mér?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "9bbce83601a6c1ef4d4e2a5fad2000ed029a3995d92e0f95cc470a58d266240f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/44\/21-24.1792404712969.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þannig segir Jahve, endurleysari þinn og sá sem mótaði þig frá móðurkviði: Ég er Jahve, sá sem gerir allt, þeim sem mönnum tępir — ég breiði út himnana einn, hamra út jörðina — hver er ⟨את⟩ með mér?",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Svo"
+      "gloss": "Þannig"
     },
     {
       "surface": "אמר",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "גאלך",
-      "gloss": "endurleysir þinn"
+      "gloss": "endurleysari þinn"
     },
     {
       "surface": "ויצרך",
-      "gloss": "og sá er mótaði þig"
+      "gloss": "og sá sem mótaði þig"
     },
     {
       "surface": "מבטן",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "sá er gerir"
+      "gloss": "sá sem gerir"
     },
     {
       "surface": "כל",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "þréttir út"
+      "gloss": "breiði út"
     },
     {
       "surface": "שמים",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "לבדי",
-      "gloss": "einn saman"
+      "gloss": "einn"
     },
     {
       "surface": "רקע",
-      "gloss": "breiðir út"
+      "gloss": "hamra út"
     },
     {
       "surface": "הארץ",
@@ -100,9 +74,9 @@
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mér — 'hver er með mér?'"
+      "marks": "með mér"
     }
   ],
-  "timestamp": "2026-10-19T10:11:52.971353157Z",
+  "timestamp": "2026-10-19T14:48:28.952199109Z",
   "model": "glm-5.3"
 }

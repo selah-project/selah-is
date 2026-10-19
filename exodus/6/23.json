@@ -5,68 +5,83 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "eiginkona",
-      "rationale": "לאשה er bókstaflega ‚til konu‘; ‚eiginkona‘ gerir tengslin skýr á íslensku"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Ættartala — kynntar fjórar synir Aharons"
-    }
-  ],
-  "translation": "Og Aharon tók ⟨את⟩ Elísheva, dóttur Ammínadavs, systur Nakhshons, sér eiginkonu, og hann ól ⟨את⟩ Nádab og ⟨את⟩ Avíhú, ⟨את⟩ Elazar og ⟨את⟩ Itamar.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "6e4aa2116007e9e3b839b1acc90bbc30aa80774b5703d0654ca0e53ee0cfc1e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/6\/21-24.1792394119118.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Aharon tók ⟨את⟩ Elísjeva, dóttur Amminadabs, systur Nakhshons, sér að eiginkonu, og hún fæddi honum ⟨את⟩ Nadav og ⟨את⟩ Avíhu, ⟨את⟩ Elásar og ⟨את⟩ Itamar.",
   "tokens": [
     {
-      "surface": "ותלד",
-      "gloss": "Og hann ól",
-      "variant": "ותלד",
-      "alt": "Og hún ól",
-      "note": "K4518 (tóka) — Levg 27:29 og 4Mos 18:15-17: mannvekta helgun. Ex 6:20 notar óbeina frásögn (בלדה-Piel, H3205), þannig að ותלד hér (H3205 qal-pref) er aðeins „hún ól“ — en Qal-þátttökinn er vanalegur og miðlar vel kvenhelgun Jókebedar; „hann ól“ samsvarar hálfparti Ekka.",
-      "elision": "einföldun: aðeins qal-túlkun",
-      "adjust": "aðlaga: vinna úr aukamyndum með aðalmerkingu"
+      "surface": "ויקח",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elísjeva"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elísjeva"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttur"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadabs"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "systur"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshons"
     },
     {
       "surface": "לו",
       "gloss": "sér"
     },
     {
+      "surface": "לאשה",
+      "gloss": "að eiginkonu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og hún fæddi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nádab"
+      "marks": "Nadav"
     },
     {
       "surface": "נדב",
-      "gloss": "Nádab"
+      "gloss": "Nadav"
     },
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "Avíhú"
+      "marks": "Avíhu"
     },
     {
       "surface": "אביהוא",
-      "gloss": "Avíhú"
+      "gloss": "Avíhu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Elazar"
+      "marks": "Elásar"
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazar"
+      "gloss": "Elásar"
     },
     {
       "surface": "ואת",
@@ -78,6 +93,6 @@
       "gloss": "Itamar"
     }
   ],
-  "timestamp": "2026-10-19T07:15:19.120164020Z",
+  "timestamp": "2026-10-19T14:42:39.018806414Z",
   "model": "glm-5.3"
 }

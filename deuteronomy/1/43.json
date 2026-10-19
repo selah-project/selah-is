@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "ותזדו er bókstaflega 'suðuð' (að sjóða) og þá 'þóttuð yður' — offorsi og eigingirni."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ותמרו \/ את פי יהוה",
-      "rationale": "'Gerðuð uppreisn gegn munní Jahve' — uppreisn beint að munninum sjálfum, þeirri rödd sem talaði."
-    }
-  ],
-  "translation": "Og ég talaði til yðar, en þér hlýdduð ekki, heldur gerðuð þér uppreisn gegn munní Jahve, og þóktuð yður, og fóruð upp í fjallið.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "44f53345cdaabfbc8209d279cd2e4fb1382db032652a05e1db828a68791e358e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/41-44.1792397559737.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég talaði til ykkar, en þið hlýððuð ekki; og þið óhlýðnuðust ⟨את⟩ munn Jahve, og þið fóruð ofdjarfhlega, og þið fóruð upp í fjallið.",
   "tokens": [
     {
       "surface": "ואדבר",
-      "gloss": "og ég talaði"
+      "gloss": "Og ég talaði"
     },
     {
       "surface": "אליכם",
-      "gloss": "til yðar"
+      "gloss": "til ykkar"
     },
     {
       "surface": "ולא",
@@ -42,16 +21,16 @@
     },
     {
       "surface": "שמעתם",
-      "gloss": "hlýdduð þér"
+      "gloss": "þið hlýððuð"
     },
     {
       "surface": "ותמרו",
-      "gloss": "gerðuð þér uppreisn"
+      "gloss": "og þið óhlýðnuðust"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "munn Jahve"
+      "marks": "munn"
     },
     {
       "surface": "פי",
@@ -63,17 +42,17 @@
     },
     {
       "surface": "ותזדו",
-      "gloss": "og þóktuð yður"
+      "gloss": "og þið fóruð ofdjarfhlega"
     },
     {
       "surface": "ותעלו",
-      "gloss": "og fóruð upp"
+      "gloss": "og þið fóruð upp"
     },
     {
       "surface": "ההרה",
       "gloss": "í fjallið"
     }
   ],
-  "timestamp": "2026-10-19T08:12:39.739075956Z",
+  "timestamp": "2026-10-19T14:37:39.484168909Z",
   "model": "glm-5.3"
 }

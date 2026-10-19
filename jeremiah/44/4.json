@@ -5,38 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "עבדי 'þjónar' — gefið sem 'þrælar' til að halda mynd þrælsins sem sendur er"
-    },
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "השכים — 'rísa snemma' bókstaflega; JPS 'betimes and often' les það sem iðulega endurtekningu"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "נא — biðjarmyndin '⟨biðjast⟩' sleppt í sniðinu en hebreskan hefur hana; á íslensku til 'Gjörið það ekki' loftstigsins"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Bein bön til Júðamannanna — 'Gjörið það ekki' — í gegnum spámennina"
-    }
-  ],
-  "translation": "Og ég sendi til yðar alla þræla mina, spámennina, að rísa snemma og senda, og segja: Gjörið það ekki, ⟨את⟩ þetta viðurstyggðarverka, sem ég hata.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "5042dcbe78e1f0e87495c8bfc6012e011c02c044eae62e6c5a3f1d64714bf568",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/44\/1-4.1792406482702.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég sendi til ykkar ⟨את⟩ alla þjóna mína, spámennina, ⟨að⟩ fara fyrrum á fætur og senda, og segja: Gjörðu svo vel, gjörið ekki ⟨את⟩ þetta undraverka verk sem ég hata.",
   "tokens": [
     {
       "surface": "ואשלח",
@@ -44,12 +13,12 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "til yðar"
+      "gloss": "til ykkar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alla þræla mina, spámennina"
+      "marks": "alla þjóna mína, spámennina"
     },
     {
       "surface": "כל",
@@ -57,7 +26,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "þræla mina"
+      "gloss": "þjóna mína"
     },
     {
       "surface": "הנביאים",
@@ -65,7 +34,7 @@
     },
     {
       "surface": "השכים",
-      "gloss": "að rísa snemma"
+      "gloss": "að fara fyrrum á fætur"
     },
     {
       "surface": "ושלח",
@@ -77,20 +46,20 @@
     },
     {
       "surface": "אל",
-      "gloss": "Gjörið...ekki"
+      "gloss": "ekki"
     },
     {
       "surface": "נא",
-      "gloss": "⟨biðjast⟩"
+      "gloss": "Gjörðu svo vel"
     },
     {
       "surface": "תעשו",
-      "gloss": "það gjörið"
+      "gloss": "gjörið"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þetta viðurstyggðarverka"
+      "marks": "þetta undraverka verk"
     },
     {
       "surface": "דבר",
@@ -98,7 +67,7 @@
     },
     {
       "surface": "התעבה",
-      "gloss": "viðurstyggðar-"
+      "gloss": "undraverka"
     },
     {
       "surface": "הזאת",
@@ -113,6 +82,6 @@
       "gloss": "ég hata"
     }
   ],
-  "timestamp": "2026-10-19T10:41:22.704488945Z",
+  "timestamp": "2026-10-19T14:49:42.579884460Z",
   "model": "glm-5.3"
 }

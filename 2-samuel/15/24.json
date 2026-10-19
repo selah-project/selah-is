@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויציקו",
-      "rationale": "Hiphil af יצק:『settu niður \/ lágu』 (KJV, JPS) á móti『gerðu stöðuga \/ festu』 (YLT, út frá צוק) — form er óvíst."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ארון ברית",
-      "rationale": "ארון er『kista』 og ברית『sáttmáli』; íslenska他 sameinar í eitt samsettur orð『sáttmálsörk』."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Forsetningin את (H854)『með』 merkt ⟨את⟩ en fellur brot sem sérstakt orð."
-    }
-  ],
-  "translation": "Og sjá, einnig Tsadok og allir levítarnir með honum, bera ⟨את⟩ sáttmálsörk Elóhím, og þeir settu niður ⟨את⟩ örk Elóhím; og Evjatar steig upp, þar til allt fólkið hafði farið yfir út úr borginni.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/15\/21-24.1792401556018.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og sjá, einnig Tsadok og allir levítarnir ⟨את⟩ með honum, borandi ⟨את⟩ kistu sáttmála Elóhím, og þeir settu niður ⟨את⟩ kistu Elóhím, og Evjatar fór upp, þar til allur lýðurinn hafði farið yfir úr borginni.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "og sjá"
+      "gloss": "Og sjá"
     },
     {
       "surface": "גם",
@@ -55,24 +29,24 @@
     },
     {
       "surface": "אתו",
-      "gloss": "með ⟨את⟩honum"
+      "gloss": "⟨את⟩ með honum"
     },
     {
       "surface": "נשאים",
-      "gloss": "bera"
+      "gloss": "borandi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sáttmálsörk Elóhím"
+      "marks": "kistu sáttmála Elóhím"
     },
     {
       "surface": "ארון",
-      "gloss": "örk"
+      "gloss": "kistu"
     },
     {
       "surface": "ברית",
-      "gloss": "sáttmáls-"
+      "gloss": "sáttmála"
     },
     {
       "surface": "האלהים",
@@ -80,16 +54,16 @@
     },
     {
       "surface": "ויצקו",
-      "gloss": "settu niður"
+      "gloss": "og þeir settu niður"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "örk Elóhím"
+      "marks": "kistu Elóhím"
     },
     {
       "surface": "ארון",
-      "gloss": "örk"
+      "gloss": "kistu"
     },
     {
       "surface": "האלהים",
@@ -97,7 +71,7 @@
     },
     {
       "surface": "ויעל",
-      "gloss": "steig upp"
+      "gloss": "og fór upp"
     },
     {
       "surface": "אביתר",
@@ -109,15 +83,15 @@
     },
     {
       "surface": "תם",
-      "gloss": "hafði lokið"
+      "gloss": "lauk"
     },
     {
       "surface": "כל",
-      "gloss": "allt"
+      "gloss": "allur"
     },
     {
       "surface": "העם",
-      "gloss": "fólkið"
+      "gloss": "lýðurinn"
     },
     {
       "surface": "לעבור",
@@ -125,13 +99,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "út úr"
+      "gloss": "úr"
     },
     {
       "surface": "העיר",
       "gloss": "borginni"
     }
   ],
-  "timestamp": "2026-10-19T09:19:16.020400136Z",
+  "timestamp": "2026-10-19T14:36:09.287643850Z",
   "model": "glm-5.3"
 }

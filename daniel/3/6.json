@@ -5,28 +5,7 @@
   "book": "daniel",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "eldfang",
-      "rationale": "אתון er eldastaður\/ofi; „eldfang“ heldur mynd hins arameiska orðs betur en „ofn“."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Ópersónuleg smíð í arameísku („verður varpað“) krefst tilgreindar eða ótilgreindrar persónu ekki; íslenskan bætir engu — en stundarþátturinn „í sömu stund“ er bókstæður."
-    }
-  ],
-  "translation": "Og hver sem fellur ekki niður og tilbiður, verður í sömu stund kastaður í miðju brennandi eldfangsins.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "0c2d861dc09834698150ca6c0722c90defe73c889d1f681646dd10456f69a0e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/3\/5-8.1792413478598.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hver sem fellur ekki niður og tilbiður ⟨hana⟩, á þeirri stundu skal honum varpa í miðjum ofni brennandi elds.",
   "tokens": [
     {
       "surface": "ומן",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "sem"
     },
     {
       "surface": "לא",
@@ -50,33 +29,33 @@
     },
     {
       "surface": "בה",
-      "gloss": "í"
+      "gloss": "á"
     },
     {
       "surface": "שעתא",
-      "gloss": "sömu stund"
+      "gloss": "þeirri stundu"
     },
     {
       "surface": "יתרמא",
-      "gloss": "verður kastaður"
+      "gloss": "skal varpa"
     },
     {
       "surface": "לגוא",
-      "gloss": "í miðju"
+      "gloss": "í miðjum"
     },
     {
       "surface": "אתון",
-      "gloss": "eldfangsins"
+      "gloss": "ofni"
     },
     {
       "surface": "נורא",
-      "gloss": "eld-"
+      "gloss": "elds"
     },
     {
       "surface": "יקדתא",
       "gloss": "brennandi"
     }
   ],
-  "timestamp": "2026-10-19T12:37:58.599928369Z",
+  "timestamp": "2026-10-19T14:37:35.099261851Z",
   "model": "glm-5.3"
 }

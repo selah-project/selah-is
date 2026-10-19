@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sálir",
-      "rationale": "הנפש er 'andvara, lífskraftur' — 'sál' í hebreskum skilningi er lifandi vera, ekki ódauðleg sál."
-    },
-    {
-      "kind": "substitution",
-      "subject": "að munní sverðs",
-      "rationale": "לפי חרב er bókstaflega 'að munn sverðsins'; íslenska 'sverðsoddur' er vænleg en myndin er munnur."
-    },
-    {
-      "kind": "crux",
-      "subject": "החרם",
-      "rationale": "'Lét í banni' (kherem — helgað til eyðingar) gegn 'útrýmti'; kherem er tæknilegt hugtak, ekki bara dráp."
-    }
-  ],
-  "translation": "Og ⟨את⟩ Makkeda tók Jósúа á þeim degi og sló hana að munní ⟨את⟩ sverðs, og ⟨את⟩ konung hennar lét hann í banni, ⟨את⟩ þá, og ⟨את⟩ allar sálirnar sem í henni voru; hann skildi engan eftir; og hann gjörði konunginum í Makkeda eins og hann gjörði konunginum í Jeríkó.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "0b2b385a6609ab46ebaa07ede73683bb4312d566f9c6e3034dc47c3734906946",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/10\/25-28.1792399060110.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ Makkeda handsamaði Jósúa á þeim degi, og sló hana að mun sverðsins, og ⟨את⟩ konung hennar helgaði hann til eyðingar — ⟨את⟩ hana og ⟨את⟩ alla sálina sem í henni var; hann lét engan eftir lifandi. Og konungi Makkeda gjörði hann eins og hann hafði gjört konungi Jeríkó.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Makkeda"
     },
     {
@@ -44,15 +18,15 @@
     },
     {
       "surface": "לכד",
-      "gloss": "tók"
+      "gloss": "handsamaði"
     },
     {
       "surface": "יהושע",
-      "gloss": "Jósúа"
+      "gloss": "Jósúa"
     },
     {
       "surface": "ביום",
-      "gloss": "á degi"
+      "gloss": "á þeim degi"
     },
     {
       "surface": "ההוא",
@@ -60,23 +34,19 @@
     },
     {
       "surface": "ויכה",
-      "gloss": "og sló"
-    },
-    {
-      "surface": "היא",
-      "gloss": "hana"
+      "gloss": "sló"
     },
     {
       "surface": "לפי",
-      "gloss": "að munní"
+      "gloss": "að mun"
     },
     {
       "surface": "חרב",
-      "gloss": "⟨את⟩ sverðs"
+      "gloss": "sverðsins"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "konung hennar"
     },
     {
@@ -85,25 +55,25 @@
     },
     {
       "surface": "החרם",
-      "gloss": "⟨את⟩ lét í banni"
+      "gloss": "helgaði til eyðingar"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "þá"
+      "gloss": "⟨את⟩ hana",
+      "marks": "hana (borgina og konunginn)"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "allar sálirnar"
+      "gloss": "⟨את⟩",
+      "marks": "alla sálina"
     },
     {
       "surface": "כל",
-      "gloss": "allar"
+      "gloss": "alla"
     },
     {
       "surface": "הנפש",
-      "gloss": "sálirnar"
+      "gloss": "sálina"
     },
     {
       "surface": "אשר",
@@ -111,31 +81,31 @@
     },
     {
       "surface": "בה",
-      "gloss": "í henni voru"
+      "gloss": "í henni"
     },
     {
       "surface": "לא",
-      "gloss": "ekkert"
+      "gloss": "ekki"
     },
     {
       "surface": "השאיר",
-      "gloss": "skildi eftir"
+      "gloss": "lét eftir"
     },
     {
       "surface": "שריד",
-      "gloss": "enginn"
+      "gloss": "lifandi"
     },
     {
       "surface": "ויעש",
-      "gloss": "og hann gjörði"
+      "gloss": "gjörði hann"
     },
     {
       "surface": "למלך",
-      "gloss": "konunginum"
+      "gloss": "konungi"
     },
     {
       "surface": "מקדה",
-      "gloss": "í Makkeda"
+      "gloss": "Makkeda"
     },
     {
       "surface": "כאשר",
@@ -143,17 +113,17 @@
     },
     {
       "surface": "עשה",
-      "gloss": "hann gjörði"
+      "gloss": "hafði gjört"
     },
     {
       "surface": "למלך",
-      "gloss": "konunginum"
+      "gloss": "konungi"
     },
     {
       "surface": "יריחו",
-      "gloss": "í Jeríkó"
+      "gloss": "Jeríkó"
     }
   ],
-  "timestamp": "2026-10-19T08:37:40.111660032Z",
+  "timestamp": "2026-10-19T14:51:18.089649499Z",
   "model": "glm-5.3"
 }

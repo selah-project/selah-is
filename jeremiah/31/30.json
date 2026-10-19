@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "כי אם myndar saman 'heldur'; אם fær ekki eigin glósu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בעונו",
-      "rationale": "עון er 'misgerð\/afvegavírkun', ekki almennt 'synd'"
-    }
-  ],
-  "translation": "heldur skal hver maður deyja fyrir eigin misgerð sína; öllum mönnum sem éta súru berin munu tennur ⟨hans⟩ dálar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "f8347211550c452b111ef1858de2d53240464265c492fd2d1f7523dcf423cc64",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/31\/29-32.1792406092818.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Því að hver maður skal deyja fyrir eigin misgerð sína; sá maður sem etur súru berjabjörguna, tennur hans munu þau dofnast.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "heldur"
+      "gloss": "því að"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "heldur"
     },
     {
       "surface": "איש",
@@ -50,29 +29,29 @@
     },
     {
       "surface": "כל",
-      "gloss": "öllum"
+      "gloss": "sá"
     },
     {
       "surface": "האדם",
-      "gloss": "mönnum"
+      "gloss": "maður"
     },
     {
       "surface": "האכל",
-      "gloss": "sem éta"
+      "gloss": "sem etur"
     },
     {
       "surface": "הבסר",
-      "gloss": "súru berin"
+      "gloss": "súru berjabjörguna"
     },
     {
       "surface": "תקהינה",
-      "gloss": "dálar"
+      "gloss": "munu dofnast"
     },
     {
       "surface": "שניו",
       "gloss": "tennur hans"
     }
   ],
-  "timestamp": "2026-10-19T10:34:52.819363261Z",
+  "timestamp": "2026-10-19T14:48:44.040929674Z",
   "model": "glm-5.3"
 }

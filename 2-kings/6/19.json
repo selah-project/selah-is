@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "til hers Aram",
-      "rationale": "Elísja talar beint til blindu hermannanna með boðihætti: „farið eftir mér“."
-    },
-    {
-      "kind": "idiom",
-      "subject": "שמרונה",
-      "rationale": "Endingin -óh („Shomeron-á“) er stefna\/áttarviðbót: „í átt að Shomeron“."
-    }
-  ],
-  "translation": "Og Elísja sagði við þá: Ekki er þetta vegurinn og ekki er þetta borgin; farið eftir mér og ég mun leiða ⟨את⟩ ykkur til mannnsins sem þér leitið. Og hann leiddi þá í Shomeron.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "677dd9e7162bd760a52af816469ff67cad88492fb583f9e63928584f72bf634a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/6\/17-20.1792402944083.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Elísha sagði við þá: Ekki er þetta vegurinn og ekki er þetta borgin; farið eftir mér og ég mun leiða ⟨את⟩ ykkur til mannsins sem þið leitið að. Og hann leiddi ⟨את⟩ þá til Shomron.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "og sagði"
+      "gloss": "sagði"
     },
     {
       "surface": "אלהם",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Elísja"
+      "gloss": "Elísha"
     },
     {
       "surface": "לא",
@@ -78,8 +57,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur",
-      "marks": "til mannnsins"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "אל",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "תבקשון",
-      "gloss": "þér leitið"
+      "gloss": "þið leitið að"
     },
     {
       "surface": "וילך",
@@ -103,14 +82,14 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ þá",
-      "marks": "í Shomeron"
+      "gloss": "⟨את⟩",
+      "marks": "þá"
     },
     {
       "surface": "שמרונה",
-      "gloss": "í Shomeron"
+      "gloss": "til Shomron"
     }
   ],
-  "timestamp": "2026-10-19T09:42:24.084326058Z",
+  "timestamp": "2026-10-19T14:36:14.849198086Z",
   "model": "glm-5.3"
 }

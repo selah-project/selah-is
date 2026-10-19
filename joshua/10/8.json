@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Jósjúa",
-      "rationale": "Jahve talar beint til Jósjúa og lofar honum sigur"
-    },
-    {
-      "kind": "elision",
-      "subject": "בפניך",
-      "rationale": "„Fyrir andlit þitt“ — orðrétt „áður en andlit þitt“, brugðið sem „þig“"
-    }
-  ],
-  "translation": "Og Jahve sagði við Jósjúa: Óttast þá ekki, því að í hönd þína hef ég gefið ⟨את⟩ þá; enginn maður af þeim mun standast þig.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "1e74cfe1b550b7e57f9a04c7bd4fdb7dffe80dba1e8250f52c2697332bf47c0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/10\/5-8.1792399049125.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jahve sagði við Jósúa: Óttast þú ekki ⟨þá⟩, því að í hönd þinni hef ég gefið ⟨þá⟩; enginn maður af ⟨þeim⟩ mun standa andspænis þér.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "og sagði"
+      "gloss": "Og sagði"
     },
     {
       "surface": "יהוה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jósjúa"
+      "gloss": "Jósúa"
     },
     {
       "surface": "אל",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "מהם",
-      "gloss": "þá"
+      "gloss": "⟨þá⟩"
     },
     {
       "surface": "כי",
@@ -62,38 +41,33 @@
     },
     {
       "surface": "בידך",
-      "gloss": "í hönd þína"
+      "gloss": "í hönd þinni"
     },
     {
       "surface": "נתתים",
-      "gloss": "hef ég gefið"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "þá (konungana og hersveitir þeirra)"
+      "gloss": "hef ég gefið ⟨þá⟩"
     },
     {
       "surface": "לא",
-      "gloss": "enginn"
+      "gloss": "ekki"
     },
     {
       "surface": "יעמד",
-      "gloss": "mun standast"
+      "gloss": "mun standa"
     },
     {
       "surface": "איש",
-      "gloss": "maður"
+      "gloss": "enginn maður"
     },
     {
       "surface": "מהם",
-      "gloss": "af þeim"
+      "gloss": "af ⟨þeim⟩"
     },
     {
       "surface": "בפניך",
-      "gloss": "þig"
+      "gloss": "andspænis þér"
     }
   ],
-  "timestamp": "2026-10-19T08:37:29.126505081Z",
+  "timestamp": "2026-10-19T14:51:04.755118745Z",
   "model": "glm-5.3"
 }

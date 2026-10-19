@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Annað מאד (mjög) við miskunnir fellur niður í íslensku — hebreskan segir 'margar mjög'."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Framhaldsháttur 'má eg' bætt við נפל til að mynda bæn Davíðs."
-    },
-    {
-      "kind": "you",
-      "subject": "to Gad",
-      "rationale": "Davíð talar beint til spámannsins Gad og svarar boði hans."
-    }
-  ],
-  "translation": "Og Davíð sagði við Gad: Mjög þrengt er fyrir mér; má eg falla nú í hönd Jahve, því að margar eru miskunnir hans, og í hönd mannsins má eg ekki falla.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6622344e411bed2f75dcdf45edb198fb3409d98dc2e8e2bc5adfd420d64f78cd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/21\/13-16.1792414953566.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Davíð sagði við Gad: Mjög þrengt er fyrir mér; ég vil falla, bið ég, í hendi Jahve, því að miskunn hans eru margar, mjög, og í hendi mannsins skal ég ekki falla.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "אפלה",
-      "gloss": "má eg falla"
+      "gloss": "vil ég falla"
     },
     {
       "surface": "נא",
-      "gloss": "nú"
+      "gloss": "bið ég"
     },
     {
       "surface": "ביד",
-      "gloss": "í hönd"
+      "gloss": "í hendi"
     },
     {
       "surface": "יהוה",
@@ -87,15 +61,15 @@
     },
     {
       "surface": "רחמיו",
-      "gloss": "miskunnir hans"
+      "gloss": "miskunn hans"
     },
     {
       "surface": "מאד",
-      "gloss": ""
+      "gloss": "mjög"
     },
     {
       "surface": "וביד",
-      "gloss": "og í hönd"
+      "gloss": "og í hendi"
     },
     {
       "surface": "אדם",
@@ -107,9 +81,9 @@
     },
     {
       "surface": "אפל",
-      "gloss": "falla"
+      "gloss": "skal ég falla"
     }
   ],
-  "timestamp": "2026-10-19T13:02:33.567503063Z",
+  "timestamp": "2026-10-19T14:30:46.012045330Z",
   "model": "glm-5.3"
 }

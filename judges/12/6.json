@@ -5,41 +5,15 @@
   "book": "judges",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "Sjibbólet\/Sibbólet",
-      "rationale": "ׂש\/ׂס-víxin er allur maðurinn í þessu versi; upprunalegt framburðarpróf, glatast að hluta í íslensku"
-    },
-    {
-      "kind": "measurement",
-      "subject": "fjörutíu og tvö þúsund",
-      "rationale": "fallnir taldir með heilum tölum"
-    },
-    {
-      "kind": "crux",
-      "subject": "אלף",
-      "rationale": "אֶלֶף getur líka verið 'höfðingi\/ættflokkur'; sumir lesa 'fjörutíu og tveir höfðingjar'"
-    }
-  ],
-  "translation": "Þá sögðu þeir við hann: Segðu nú Sjibbólet, en hann sagði Sibbólet, því að hann gekk ekki að segja það rétt — þá gripu þeir hann og höggvu hann við vaðin í Jarden; og féllu á þeirri tíð af Efrajím fjörutíu og tvö þúsund.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b55309e0f4a6a9313fada43e61bf5b5c7acf0a0bfd63b84bf0a46dee5409b862",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/12\/5-8.1792399868546.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þá sögðu þeir honum: Segðu nú Sjíbbólet; en hann sagði Síbbólet — hann kunni ekki að tala svona rétt. Þá gripu þeir ⟨את⟩ hann og höggvu hann við vaðin í Jardæn; og féllu á þeim tíma af Efraím fjörutíu og tvö þúsund.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "sögðu"
+      "gloss": "Þá sögðu þeir"
     },
     {
       "surface": "לו",
-      "gloss": "við hann"
+      "gloss": "honum"
     },
     {
       "surface": "אמר",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "שבלת",
-      "gloss": "Sjibbólet"
+      "gloss": "Sjíbbólet"
     },
     {
       "surface": "ויאמר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "סבלת",
-      "gloss": "Sibbólet"
+      "gloss": "Síbbólet"
     },
     {
       "surface": "ולא",
@@ -67,27 +41,28 @@
     },
     {
       "surface": "יכין",
-      "gloss": "gekk að"
+      "gloss": "kunni"
     },
     {
       "surface": "לדבר",
-      "gloss": "að segja"
+      "gloss": "að tala"
     },
     {
       "surface": "כן",
-      "gloss": "það rétt"
+      "gloss": "svona rétt"
     },
     {
       "surface": "ויאחזו",
-      "gloss": "gripu"
+      "gloss": "Þá gripu þeir"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann"
     },
     {
       "surface": "וישחטוהו",
-      "gloss": "höggvu hann"
+      "gloss": "og höggvu hann"
     },
     {
       "surface": "אל",
@@ -99,23 +74,23 @@
     },
     {
       "surface": "הירדן",
-      "gloss": "í Jarden"
+      "gloss": "í Jardæn"
     },
     {
       "surface": "ויפל",
-      "gloss": "féllu"
+      "gloss": "og féllu"
     },
     {
       "surface": "בעת",
-      "gloss": "á þeirri tíð"
+      "gloss": "á þeim tíma"
     },
     {
       "surface": "ההיא",
-      "gloss": "þeirri"
+      "gloss": "á þeim tíma"
     },
     {
       "surface": "מאפרים",
-      "gloss": "af Efrajím"
+      "gloss": "af Efraím"
     },
     {
       "surface": "ארבעים",
@@ -130,6 +105,6 @@
       "gloss": "þúsund"
     }
   ],
-  "timestamp": "2026-10-19T08:51:08.547597722Z",
+  "timestamp": "2026-10-19T14:53:11.593337676Z",
   "model": "glm-5.3"
 }

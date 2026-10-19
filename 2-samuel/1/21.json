@@ -5,49 +5,23 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שדי תרומת",
-      "rationale": "'Akra til fórna' eða 'akra sætra afrétta' — er本市 óvissa um merkingu תרומות hér."
-    },
-    {
-      "kind": "substitution",
-      "subject": "נגעל",
-      "rationale": "Orðið er 'var afskýst\/andskotað' — skjöldurinn var svirtur, ekki aðeins 'færður burt'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אל...ואל",
-      "rationale": "Tvítekin neitun 'ekki dögg og ekki rigning' — formálingin á fjöllin heldur hrynjandinni."
-    }
-  ],
-  "translation": "Fjöll Gílboа, enginn dögg og engin rigning yfir yður, og engin akra til fórna — því að þar var skjöldur kappa smánarfullega færður burt, skjöldur Sjáls, án þess að vera smurður með olíu.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "0f7b3690449e7acd07e1e0e594299a6dfa5c15c829cbb3896dda1e4a514c49d8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/1\/21-24.1792401087252.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fjöllin í Gílboa — enginn daggur og engin rigning á yður, og engir akreitir túrúma-gjafa — því þar varð skjöldurinn hetjanna andstyggður, skjöldur Sjaúls, án þess að vera smurður með olíu.",
   "tokens": [
     {
       "surface": "הרי",
-      "gloss": "fjöll"
+      "gloss": "Fjöllin"
     },
     {
       "surface": "בגלבע",
-      "gloss": "Gílboa"
+      "gloss": "í Gílboa"
     },
     {
       "surface": "אל",
-      "gloss": "enginn"
+      "gloss": "engin"
     },
     {
       "surface": "טל",
-      "gloss": "dögg"
+      "gloss": "daggur"
     },
     {
       "surface": "ואל",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "yfir yður"
+      "gloss": "á yður"
     },
     {
       "surface": "ושדי",
-      "gloss": "og akra"
+      "gloss": "og akreitir"
     },
     {
       "surface": "תרומת",
-      "gloss": "til fórna"
+      "gloss": "túrúma-gjafa"
     },
     {
       "surface": "כי",
-      "gloss": "því að"
+      "gloss": "því"
     },
     {
       "surface": "שם",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "נגעל",
-      "gloss": "var smánarfulllega færður burt"
+      "gloss": "varð andstyggður"
     },
     {
       "surface": "מגן",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "גבורים",
-      "gloss": "kappa"
+      "gloss": "hetjanna"
     },
     {
       "surface": "מגן",
@@ -95,21 +69,21 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sjáls"
+      "gloss": "Sjaúls"
     },
     {
       "surface": "בלי",
-      "gloss": "án þess að"
+      "gloss": "án"
     },
     {
       "surface": "משיח",
-      "gloss": "vera smurður"
+      "gloss": "smurður"
     },
     {
       "surface": "בשמן",
       "gloss": "með olíu"
     }
   ],
-  "timestamp": "2026-10-19T09:11:27.253538562Z",
+  "timestamp": "2026-10-19T14:36:27.790391743Z",
   "model": "glm-5.3"
 }

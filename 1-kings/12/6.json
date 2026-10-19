@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "er",
-      "rationale": "Íslenskan þarf eða-uppbyggingu í viðtengingu sem hebreskan ‘אשר’ segir einfaldlega."
-    }
-  ],
-  "translation": "Og konungurinn Rehavam réðst af ⟨את⟩ öldungunum, sem stöðu fyrir andliti Sjólómo, föður síns, meðan hann var enn á lifandi, og sagði: Hvé ráðið þér að svara ⟨את⟩ þessu fólki orð?",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/12\/5-8.1792402379792.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og konungurinn Rekhavam réð ráð sitt við ⟨את⟩ öldungana, þá er höfðu staðið fyrir ⟨את⟩ andliti Sjelómó föður síns, meðan hann var enn á lífi, og sagði: Hvernig ráðið þér að svara ⟨את⟩ þessu fólki orð?",
   "tokens": [
     {
       "surface": "ויועץ",
-      "gloss": "Og réðst af"
+      "gloss": "réð ráð sitt"
     },
     {
       "surface": "המלך",
@@ -33,41 +17,41 @@
     },
     {
       "surface": "רחבעם",
-      "gloss": "Rehavam"
+      "gloss": "Rekhavam"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "öldungunum"
+      "marks": "öldungana"
     },
     {
       "surface": "הזקנים",
-      "gloss": "öldungunum"
+      "gloss": "öldungana"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þá er"
     },
     {
       "surface": "היו",
-      "gloss": "voru"
+      "gloss": "höfðu"
     },
     {
       "surface": "עמדים",
-      "gloss": "stæðu"
+      "gloss": "staðið"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "andliti Sjólómo"
+      "marks": "andliti Sjelómó"
     },
     {
       "surface": "פני",
-      "gloss": "fyrir andliti"
+      "gloss": "andliti"
     },
     {
       "surface": "שלמה",
-      "gloss": "Sjólómo"
+      "gloss": "Sjelómó"
     },
     {
       "surface": "אביו",
@@ -79,7 +63,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "á lifandi"
+      "gloss": "á lífi"
     },
     {
       "surface": "לאמר",
@@ -87,7 +71,7 @@
     },
     {
       "surface": "איך",
-      "gloss": "Hvé"
+      "gloss": "Hvernig"
     },
     {
       "surface": "אתם",
@@ -119,6 +103,6 @@
       "gloss": "orð"
     }
   ],
-  "timestamp": "2026-10-19T09:32:59.793069921Z",
+  "timestamp": "2026-10-19T14:31:37.413866286Z",
   "model": "glm-5.3"
 }

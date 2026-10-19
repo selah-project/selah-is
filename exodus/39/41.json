@@ -5,45 +5,24 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "השרד merkir „saumað“ (prjónað\/stofað með nál); Kirkjubókin skilur oft „að þjóna“ — hér er mynd saumaðra klæða"
-    },
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "השרד: „saumuð klæðin“ (ASV\/JPS) gegn „klæði til þjónustu“ (KJV) — rótin er sögn að prjóna"
-    }
-  ],
-  "translation": "Saumuð klæðin til að þjóna í helgidóminum, heilögu klæðin fyrir Aharon prestinn, og klæði sona hans til að gegna embætti prests.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "696a491457e03c16faa0801637556b0304715a12c59ddc983248e348d290098a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/39\/41-43.1792395312642.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ hin saumuðu klæði til að þjónusta í helgidóminum, ⟨את⟩ heilögu klæðin fyrir Aharon prestinn, og ⟨את⟩ klæði sona hans til að þjóna sem prestar.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "saumuð klæðin"
+      "marks": "hin saumuðu klæði"
     },
     {
       "surface": "בגדי",
-      "gloss": "klæðin"
+      "gloss": "klæði"
     },
     {
       "surface": "השרד",
-      "gloss": "saumuð"
+      "gloss": "hin saumuðu"
     },
     {
       "surface": "לשרת",
-      "gloss": "til að þjóna"
+      "gloss": "til að þjónusta"
     },
     {
       "surface": "בקדש",
@@ -56,11 +35,11 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "klæðin"
+      "gloss": "klæði"
     },
     {
       "surface": "הקדש",
-      "gloss": "heilög"
+      "gloss": "heilögu"
     },
     {
       "surface": "לאהרן",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "presturinn"
+      "gloss": "prestinn"
     },
     {
       "surface": "ואת",
@@ -85,9 +64,9 @@
     },
     {
       "surface": "לכהן",
-      "gloss": "til að gegna embætti prests"
+      "gloss": "til að þjóna sem prestar"
     }
   ],
-  "timestamp": "2026-10-19T07:35:12.643318170Z",
+  "timestamp": "2026-10-19T14:42:17.409290704Z",
   "model": "glm-5.3"
 }

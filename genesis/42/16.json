@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "אִתְּכֶם er forsetningin 'með' (H854), enda ritað með jód; ⟨את⟩ varðveitt sem tákn"
-    },
-    {
-      "kind": "idiom",
-      "subject": "חֵי פַרְעֹה",
-      "rationale": "heit eiðsvari: 'svo lifi Paró'"
-    }
-  ],
-  "translation": "Sendið einn af ykkur, og hann skal fara eftir ⟨את⟩ bróður ykkar; en þið skuluð vera fjötraðir, og orð ykkar skulu verða prófuð, hvort ⟨את⟩ sannleikurinn er ⟨את⟩ með ykkur; en ef ekki — svo lifi Paró — þá eruð þið njósnamenn.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/42\/13-16.1792393798666.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sendið einn af yður, og hann taki ⟨את⟩ bróður yðar; en þér verðið settir í varðhald, og orð yðar verði könnuð, hvort sannleikurinn er ⟨את⟩ með yður; en ef ekki — svo sannarlega sem Faró lifir — þér eruð njósnamenn.",
   "tokens": [
     {
       "surface": "שלחו",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "מכם",
-      "gloss": "af ykkur"
+      "gloss": "af yður"
     },
     {
       "surface": "אחד",
@@ -42,45 +21,40 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "og hann skal fara eftir"
+      "gloss": "og hann taki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bróður ykkar"
+      "marks": "bróður yðar"
     },
     {
       "surface": "אחיכם",
-      "gloss": "bróður ykkar"
-    },
-    {
-      "surface": "ויקח...",
-      "gloss": ""
+      "gloss": "bróður yðar"
     },
     {
       "surface": "ואתם",
-      "gloss": "en þið"
+      "gloss": "en þér"
     },
     {
       "surface": "האסרו",
-      "gloss": "skuluð vera fjötraðir"
+      "gloss": "verðið settir í varðhald"
     },
     {
-      "surface": "ויבחנו",
-      "gloss": "skulu verða prófuð"
+      "surface": "ויבחנu",
+      "gloss": "og verði könnuð"
     },
     {
       "surface": "דבריכם",
-      "gloss": "orð ykkar"
+      "gloss": "orð yðar"
     },
     {
       "surface": "האמת",
-      "gloss": "⟨את⟩ sannleikurinn"
+      "gloss": "sannleikurinn"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ með ykkur",
-      "marks": "með ykkur"
+      "gloss": "⟨את⟩ með yður"
     },
     {
       "surface": "ואם",
@@ -92,15 +66,15 @@
     },
     {
       "surface": "חי",
-      "gloss": "svo lifi"
+      "gloss": "lifir"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paró"
+      "gloss": "Faró"
     },
     {
       "surface": "כי",
-      "gloss": "þá"
+      "gloss": "að"
     },
     {
       "surface": "מרגלים",
@@ -108,9 +82,9 @@
     },
     {
       "surface": "אתם",
-      "gloss": "þið"
+      "gloss": "þér"
     }
   ],
-  "timestamp": "2026-10-19T07:09:58.667744743Z",
+  "timestamp": "2026-10-19T14:46:27.398703220Z",
   "model": "glm-5.3"
 }

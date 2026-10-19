@@ -5,33 +5,7 @@
   "book": "nahum",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ארך אפים",
-      "rationale": "orðrétt 'lang-nös' — langþolinmóður; אפים fellur saman við myndina"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ונקה לא ינקה",
-      "rationale": "sömu rót tvíteknu með neitun — 'saklausum mun hann eigi saklýsa'"
-    },
-    {
-      "kind": "crux",
-      "subject": "ונקה לא ינקה",
-      "rationale": "'mun alls ekki hlýða sekum ósékum' — sumir þýða 'mun eigi algjörlega hjá à sækja seka'"
-    }
-  ],
-  "translation": "Jahve er langþolinmóður og mikill mætti, og saklausum mun hann eigi saklýsa; Jahve — í fellibyl og í stormi er vegur hans, og skýin eru ryk fótspora hans.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nahum\/1\/1-4.1792408735272.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve er lang líðandi í reiði og mikill afls, og hann ⟨er⟩ alls ekki ánauðugur; Jahve — í fellibyli og stormi er vegur hans, og skýin eru ryk fótanna hans.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "ארך",
-      "gloss": "langþolinmóður"
+      "gloss": "langur"
     },
     {
       "surface": "אפים",
-      "gloss": ""
+      "gloss": "í reiði"
     },
     {
       "surface": "וגדול",
@@ -51,19 +25,19 @@
     },
     {
       "surface": "כח",
-      "gloss": "mætti"
+      "gloss": "afls"
     },
     {
       "surface": "ונקה",
-      "gloss": "saklausum"
+      "gloss": "og ánauðugur"
     },
     {
       "surface": "לא",
-      "gloss": "eigi"
+      "gloss": "alls ekki"
     },
     {
       "surface": "ינקה",
-      "gloss": "saklýsa"
+      "gloss": "hann lætur óséktan"
     },
     {
       "surface": "יהוה",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "בסופה",
-      "gloss": "í fellibyl"
+      "gloss": "í fellibyli"
     },
     {
       "surface": "ובשערה",
-      "gloss": "og í stormi"
+      "gloss": "og stormi"
     },
     {
       "surface": "דרכו",
-      "gloss": "er vegur hans"
+      "gloss": "vegur hans"
     },
     {
       "surface": "וענן",
@@ -91,9 +65,9 @@
     },
     {
       "surface": "רגליו",
-      "gloss": "fótspora hans"
+      "gloss": "fótanna hans"
     }
   ],
-  "timestamp": "2026-10-19T11:18:55.273285264Z",
+  "timestamp": "2026-10-19T14:54:49.979950836Z",
   "model": "glm-5.3"
 }

@@ -5,43 +5,27 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "בנותיה",
-      "rationale": "„dætur hennar“ — um smábæirnega; hebreska myndin er „dætur“ borgarinnar"
-    }
-  ],
-  "translation": "Og Filisteir gjörðu innrás í borgir Sléttulands og Negeb í Júda, og þeir náðu ⟨את⟩ Bet-Sjemesj og ⟨את⟩ Ajjalon og ⟨את⟩ Gederot og ⟨את⟩ Sokó og dætur hennar, og ⟨את⟩ Timna og dætur hennar, og ⟨את⟩ Gimzó og dætur hennar, og þeir bjuggu þar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "73d22c05fe5e9f0669888074dafbc64fc05d5c2f9558be243587cbc8fb7d1e2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/28\/17-20.1792415823327.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Pelistarnir réðust á bæi láglendisins og suðurlandsins, í Júda, og þeir unnu ⟨את⟩ Beit Shemesh og ⟨את⟩ Ajalon og ⟨את⟩ Gederot og ⟨את⟩ Soko og þorpin þess, og ⟨את⟩ Timna og þorpin þess, og ⟨את⟩ Gimzo og ⟨את⟩ þorpin þess, og þeir bjuggu þar.",
   "tokens": [
     {
       "surface": "ופלשתים",
-      "gloss": "Og Filisteir"
+      "gloss": "Og Pelistarnir"
     },
     {
       "surface": "פשטו",
-      "gloss": "gjörðu innrás"
+      "gloss": "réðust á"
     },
     {
       "surface": "בערי",
-      "gloss": "í borgir"
+      "gloss": "bæi"
     },
     {
       "surface": "השפלה",
-      "gloss": "Sléttulands"
+      "gloss": "láglendisins"
     },
     {
       "surface": "והנגב",
-      "gloss": "og Negeb"
+      "gloss": "og suðurlandsins"
     },
     {
       "surface": "ליהודה",
@@ -49,29 +33,29 @@
     },
     {
       "surface": "וילכדו",
-      "gloss": "og þeir náðu"
+      "gloss": "og þeir unnu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bet-Sjemesj"
+      "marks": "Beit Shemesh"
     },
     {
       "surface": "בית",
-      "gloss": "Bet"
+      "gloss": "Beit"
     },
     {
       "surface": "שמש",
-      "gloss": "-Sjemesj"
+      "gloss": "Shemesh"
     },
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "Ajjalon"
+      "marks": "Ajalon"
     },
     {
       "surface": "אילון",
-      "gloss": "Ajjalon"
+      "gloss": "Ajalon"
     },
     {
       "surface": "ואת",
@@ -85,15 +69,15 @@
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "Sokó"
+      "marks": "Soko"
     },
     {
       "surface": "שוכו",
-      "gloss": "Sokó"
+      "gloss": "Soko"
     },
     {
       "surface": "ובנותיה",
-      "gloss": "og dætur hennar"
+      "gloss": "og þorpin þess"
     },
     {
       "surface": "ואת",
@@ -106,25 +90,25 @@
     },
     {
       "surface": "ובנותיה",
-      "gloss": "og dætur hennar"
+      "gloss": "og þorpin þess"
     },
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "Gimzó"
+      "marks": "Gimzo"
     },
     {
       "surface": "גמזו",
-      "gloss": "Gimzó"
+      "gloss": "Gimzo"
     },
     {
       "surface": "ואת",
       "gloss": "og ⟨את⟩",
-      "marks": "dætur hennar (Gimzó)"
+      "marks": "þorpin þess"
     },
     {
       "surface": "בנתיה",
-      "gloss": "dætur hennar"
+      "gloss": "þorpin þess"
     },
     {
       "surface": "וישבו",
@@ -135,6 +119,6 @@
       "gloss": "þar"
     }
   ],
-  "timestamp": "2026-10-19T13:17:03.328072840Z",
+  "timestamp": "2026-10-19T14:35:02.685813980Z",
   "model": "glm-5.3"
 }

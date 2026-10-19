@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויחמל",
-      "rationale": "'sparði' (að bjarga eigin fé) ella 'aumðist við' — bæði lögð fram; hér 'víxjað við' í skyðingsmerkingu"
-    },
-    {
-      "kind": "substitution",
-      "subject": "vegfarendi",
-      "rationale": "הארח הבא er 'farandmaðurinn sem kemur'; sömu manni lýst tvisvar með tveim orðum"
-    }
-  ],
-  "translation": "Og farandmaður kom til ríka mannins, en honum var víxjað við að taka af sauðfé sínu og nautum sínum til að búa til fyrir vegfarendann sem kominn var til hans, og hann tók ⟨את⟩ kýrlambið — fátæka mannins — og gjörði það fyrir manninn sem kom til hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "10369e67e5c87d0220cfd6cca86b3de8221fdd08c3838de87efcffa785c9ca79",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/1-4.1792401431185.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og vegumaður kom til hins ríka manns, en hann sparði að taka af eigin sauðfé og eigin nautgripum til að búa til fyrir vegumanninn sem kominn var til hans, og tók ⟨את⟩ leglambið hjá hinum fátæka manni og bjó það til fyrir manninum sem kom til hans.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "הלך",
-      "gloss": "farandmaður"
+      "gloss": "vegumaður"
     },
     {
       "surface": "לאיש",
-      "gloss": "til mannins"
+      "gloss": "til mannsins"
     },
     {
       "surface": "העשיר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ויחמל",
-      "gloss": "en honum var víxjað við"
+      "gloss": "en hann sparði"
     },
     {
       "surface": "לקחת",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "מצאנו",
-      "gloss": "af sauðfé sínu"
+      "gloss": "af eigin sauðfé"
     },
     {
       "surface": "ומבקרו",
-      "gloss": "og nautum sínum"
+      "gloss": "og eigin nautgripum"
     },
     {
       "surface": "לעשות",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "לארח",
-      "gloss": "fyrir vegfarendann"
+      "gloss": "fyrir vegumanninn"
     },
     {
       "surface": "הבא",
@@ -78,20 +57,20 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "og hann tók"
+      "gloss": "og tók"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kýrlambið"
+      "marks": "leglambið"
     },
     {
       "surface": "כבשת",
-      "gloss": "kýrlambið"
+      "gloss": "leglambið"
     },
     {
       "surface": "האיש",
-      "gloss": "— mannins"
+      "gloss": "hjá manninum"
     },
     {
       "surface": "הראש",
@@ -99,15 +78,11 @@
     },
     {
       "surface": "ויעשה",
-      "gloss": "og gjörði"
-    },
-    {
-      "surface": "לה",
-      "gloss": "það"
+      "gloss": "og bjó það til"
     },
     {
       "surface": "לאיש",
-      "gloss": "fyrir manninn"
+      "gloss": "fyrir manninum"
     },
     {
       "surface": "הבא",
@@ -118,6 +93,6 @@
       "gloss": "til hans"
     }
   ],
-  "timestamp": "2026-10-19T09:17:11.186414374Z",
+  "timestamp": "2026-10-19T14:36:03.580224987Z",
   "model": "glm-5.3"
 }

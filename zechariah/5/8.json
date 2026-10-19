@@ -5,28 +5,7 @@
   "book": "zechariah",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Ódæðið",
-      "rationale": "הרשעה er kvenkyns nafnorð „ósæmjan\/vondæmð“ og er persónugerð sem konan í efunni — „Ódæðið“ heldur persónugerðinni ekki kyninu"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל תוך",
-      "rationale": "„inn í“ og „í miðjunni“ — tvö hebresk orð falla saman í eitt íslenskt framburðarorð"
-    }
-  ],
-  "translation": "Og hann sagði: Þetta er Ódæðið. Og hann varp ⟨את⟩ henni inn í efunna og varp ⟨את⟩ blýsteininum yfir munn hennar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/5\/5-8.1792409000869.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði: Þetta er ⟨er⟩ hin ranglátan. Og hann kastaði ⟨את⟩ henni inn í miðjuna á efunni, og hann kastaði ⟨את⟩ blýsteini yfir munn hennar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "הרשעה",
-      "gloss": "er Ódæðið"
+      "gloss": "hin ranglátan"
     },
     {
       "surface": "וישלך",
-      "gloss": "Og hann varp"
+      "gloss": "Og hann kastaði"
     },
     {
       "surface": "אתה",
@@ -55,24 +34,24 @@
     },
     {
       "surface": "תוך",
-      "gloss": ""
+      "gloss": "miðjuna á"
     },
     {
       "surface": "האיפה",
-      "gloss": "efunna"
+      "gloss": "efunni"
     },
     {
       "surface": "וישלך",
-      "gloss": "og varp"
+      "gloss": "og hann kastaði"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "blýsteininum"
+      "marks": "blýsteini"
     },
     {
       "surface": "אבן",
-      "gloss": "steininum"
+      "gloss": "steini"
     },
     {
       "surface": "העפרת",
@@ -87,6 +66,6 @@
       "gloss": "munn hennar"
     }
   ],
-  "timestamp": "2026-10-19T11:23:20.870320451Z",
+  "timestamp": "2026-10-19T14:58:14.078684825Z",
   "model": "glm-5.3"
 }

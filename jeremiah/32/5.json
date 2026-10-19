@@ -5,50 +5,24 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פקדי",
-      "rationale": "'heimsæki' er bæði gjafa- og refsivitjun; JPS: 'I remember him', aðrir: 'visit\/attend to him'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Samsettur aleph-tav með fornafnsendir, varðveittur sem ⟨את⟩ hann."
-    },
-    {
-      "kind": "you",
-      "subject": "til ísraelsmanna í Júda",
-      "rationale": "Fleirtölufyrirmæli þeirra sem berjast: 'þér berjist… munuð þér ekki heppnast'."
-    }
-  ],
-  "translation": "Og Babel skal leiða ⟨את⟩ Tsídkía, og þar skal hann vera þar til eg heimsæki hann, segir Jahve; þó að þér berjist ⟨את⟩ við Kaldíana, munuð þér ekki heppnast.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/32\/5-8.1792406216296.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og til Babel skal hann færa ⟨את⟩ Tsidkíjahu, og þar skal hann vera uns ég heimsæki hann ⟨אתו⟩, segir Jahve; þó að þér berjist við ⟨את⟩ Kaldíingi, munuð þér eigi takast.",
   "tokens": [
     {
       "surface": "ובבל",
-      "gloss": "Og Babel"
+      "gloss": "og til Babel"
     },
     {
       "surface": "יולך",
-      "gloss": "skal leiða"
+      "gloss": "skal hann færa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Tsídkía"
+      "marks": "Tsidkíjahu"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsídkía"
+      "gloss": "Tsidkíjahu"
     },
     {
       "surface": "ושם",
@@ -60,16 +34,16 @@
     },
     {
       "surface": "עד",
-      "gloss": "þar til"
+      "gloss": "uns"
     },
     {
       "surface": "פקדי",
-      "gloss": "eg heimsæki"
+      "gloss": "ég heimsæki"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann",
-      "marks": "hann (Tsídkía)"
+      "gloss": "⟨אתו⟩",
+      "marks": "hann"
     },
     {
       "surface": "נאם",
@@ -89,21 +63,22 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ við"
+      "gloss": "við ⟨את⟩",
+      "marks": "Kaldíingi"
     },
     {
       "surface": "הכשדים",
-      "gloss": "Kaldíana"
+      "gloss": "Kaldíingi"
     },
     {
       "surface": "לא",
-      "gloss": "ekki"
+      "gloss": "eigi"
     },
     {
       "surface": "תצליחו",
-      "gloss": "munuð þér heppnast"
+      "gloss": "munuð þér takast"
     }
   ],
-  "timestamp": "2026-10-19T10:36:56.296811387Z",
+  "timestamp": "2026-10-19T14:49:13.589514873Z",
   "model": "glm-5.3"
 }

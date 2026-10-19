@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ותשמעו בקולי",
-      "rationale": "Bókstaflega 'og þér heyrðuð í rödd minni' — að heyra í rödd merkir að hlýða."
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Jehóshúa talar beint til Rúbeníta, Gadíta og hálfs ættbálks Menashe."
-    }
-  ],
-  "translation": "Og hann sagði við þá: Þér hafið varðveitt ⟨את⟩ allt það sem Mósje, þjónn Jahve, bauð yður, og þér hlýddnrödd minni í öllu því sem ég bauð yður.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "ca54f9ab1978407f5adefa5fe4c96feb1e825526a2f5c1b2fcc8ccef35879936",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/22\/1-4.1792399341750.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og sagði við þá: Þér hafið varið ⟨את⟩ allt það sem Mósje, þjónn Jahve, bau ⟨את⟩ yður, og þér hlýddu röddu minni í öllu því sem ég bau yður ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og hann sagði"
+      "gloss": "Og sagði"
     },
     {
       "surface": "אליהם",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "שמרתם",
-      "gloss": "hafið varðveitt"
+      "gloss": "hafið varið"
     },
     {
       "surface": "את",
@@ -59,11 +38,12 @@
     },
     {
       "surface": "צוה",
-      "gloss": "bauð"
+      "gloss": "bau"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ yður",
+      "marks": "Mósje"
     },
     {
       "surface": "משה",
@@ -79,11 +59,11 @@
     },
     {
       "surface": "ותשמעו",
-      "gloss": "og þér hlýdduð"
+      "gloss": "og þér hlýddu"
     },
     {
       "surface": "בקולי",
-      "gloss": "rödd minni"
+      "gloss": "röddu minni"
     },
     {
       "surface": "לכל",
@@ -95,13 +75,14 @@
     },
     {
       "surface": "צויתי",
-      "gloss": "ég bauð"
+      "gloss": "ég bau"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ yður",
+      "marks": "það sem ég bau yður"
     }
   ],
-  "timestamp": "2026-10-19T08:42:21.751691787Z",
+  "timestamp": "2026-10-19T14:51:57.069996919Z",
   "model": "glm-5.3"
 }

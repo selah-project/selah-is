@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "lengur",
-      "rationale": "„ekki er yður byrði“ — orðið ‚lengur‘ er ekki í hebreskunni en andinn liggur þannig"
-    },
-    {
-      "kind": "you",
-      "subject": "levítarnir",
-      "rationale": "Jósía talar beint til levítanna með boðshætti"
-    },
-    {
-      "kind": "crux",
-      "subject": "המבונים",
-      "rationale": "„þeir sem skilja\/kennda“ — rót בין, aðgreina; sumir lesa ‚kennendum alls Ísraels‘"
-    }
-  ],
-  "translation": "Og hann sagði levítunum, þeim sem kenndu öllum Ísrael, þeim sem helgaðir voru Jahve: Setjið ⟨את⟩ arka helgisdómsins í húsið sem Sjelómó sonur Davíðs konungs Ísraels reisti; ekki er yður lengur byrði á axlableðnum. Nú þjónið Jahve Elóhím yðar og ⟨את⟩ lýð hans Ísrael.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/35\/1-4.1792416099086.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði við Levítana, þá er kenndu öllum Ísrael, ⟨þeim⟩ sem helgaðir voru Jahve: Setjið ⟨את⟩ sáttmálsörkjuna í hús því, er Sjólómó ben Davíð, konungur Ísraels, reisti. Þér eigið ekki lengur byrði á axlunum. Nú þjónið ⟨את⟩ Jahve, Elóhím ykkar, og ⟨את⟩ folki hans, Ísrael.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "ללוים",
-      "gloss": "levítunum"
+      "gloss": "við Levítana"
     },
     {
       "surface": "המבונים",
-      "gloss": "þeim sem kenndu"
+      "gloss": "þá er kenndu"
     },
     {
       "surface": "לכל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "הקדושים",
-      "gloss": "þeim sem helgaðir voru"
+      "gloss": "sem helgaðir voru"
     },
     {
       "surface": "ליהוה",
@@ -68,23 +42,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arka helgisdómsins"
+      "marks": "sáttmálsörkjuna"
     },
     {
       "surface": "ארון",
-      "gloss": "arka"
+      "gloss": "örkjuna"
     },
     {
       "surface": "הקדש",
-      "gloss": "helgisdómsins"
+      "gloss": "helga"
     },
     {
       "surface": "בבית",
-      "gloss": "í húsið"
+      "gloss": "í hús"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "því, er"
     },
     {
       "surface": "בנה",
@@ -92,19 +66,19 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Sjelómó"
+      "gloss": "Sjólómó"
     },
     {
       "surface": "בן",
-      "gloss": "sonur"
+      "gloss": "ben"
     },
     {
       "surface": "דויד",
-      "gloss": "Davíðs"
+      "gloss": "Davíð"
     },
     {
       "surface": "מלך",
-      "gloss": "konungs"
+      "gloss": "konungur"
     },
     {
       "surface": "ישראל",
@@ -112,11 +86,11 @@
     },
     {
       "surface": "אין",
-      "gloss": "ekki er"
+      "gloss": "ekki"
     },
     {
       "surface": "לכם",
-      "gloss": "yður"
+      "gloss": "ykkur"
     },
     {
       "surface": "משא",
@@ -124,11 +98,11 @@
     },
     {
       "surface": "בכתף",
-      "gloss": "á axlableðnum"
+      "gloss": "á axlunum"
     },
     {
       "surface": "עתה",
-      "gloss": "Nú"
+      "gloss": "nú"
     },
     {
       "surface": "עבדו",
@@ -137,7 +111,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jahve Elóhím yðar"
+      "marks": "Jahve"
     },
     {
       "surface": "יהוה",
@@ -145,22 +119,22 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elóhím yðar"
+      "gloss": "Elóhím ykkar"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "lýð hans Ísrael"
+      "gloss": "og ⟨את⟩",
+      "marks": "folki hans, Ísrael"
     },
     {
       "surface": "עמו",
-      "gloss": "lýð hans"
+      "gloss": "folki hans"
     },
     {
       "surface": "ישראל",
       "gloss": "Ísrael"
     }
   ],
-  "timestamp": "2026-10-19T13:21:39.087580279Z",
+  "timestamp": "2026-10-19T14:34:51.677382474Z",
   "model": "glm-5.3"
 }

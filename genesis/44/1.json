@@ -5,32 +5,16 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "אמתחת er ‚útpressað keri‘ — sekkur; ‚sekkur‘ heldur myndinni"
-    }
-  ],
-  "translation": "Og hann bauð ⟨את⟩ honum er yfir húsi hans var, og sagði: Fylltu sekkina hjá mönnununum með mat, eins og þeir geta borið, og settu silfur hvers manns í munninn á sekki hans.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/44\/1-4.1792393866371.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann bauð ⟨את⟩ þeim er yfir húsi hans stóð, og sagði: Fylldu ⟨את⟩ sekkina manna með mat, eins mikið og þeir geta borið, og settu silfur hvers manns í munninn á sekki hans.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "og hann bauð"
+      "gloss": "bauð"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "honom er yfir húsi hans var"
+      "marks": "þeim er yfir húsi hans stóð"
     },
     {
       "surface": "אשר",
@@ -50,12 +34,12 @@
     },
     {
       "surface": "מלא",
-      "gloss": "fylltu"
+      "gloss": "Fylldu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sekkina hjá mönnununum"
+      "marks": "sekkina"
     },
     {
       "surface": "אמתחת",
@@ -63,7 +47,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "hjá mönnununum"
+      "gloss": "manna"
     },
     {
       "surface": "אכל",
@@ -71,7 +55,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "eins og"
+      "gloss": "eins mikið og"
     },
     {
       "surface": "יוכלון",
@@ -102,6 +86,6 @@
       "gloss": "sekki hans"
     }
   ],
-  "timestamp": "2026-10-19T07:11:06.372238863Z",
+  "timestamp": "2026-10-19T14:46:34.018074741Z",
   "model": "glm-5.3"
 }

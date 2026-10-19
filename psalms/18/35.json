@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "ונחתה קשת — „boginn sveigður niður af móti“ (KJV) eða „boginn látinn falla niður“ (YL T): handleggi mína búa boga af kopar"
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "נחושה er kopar (eða brons), ekki „stál“"
-    }
-  ],
-  "translation": "Hann kennir höndum mínumقبáttinn, og mæki koparinn lætur handleggi mínir niður.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "0c6f52b1643deb31ea4f32fb386e9b4bb7cdf6d29e43f81f4e24840cc80a4e2d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/33-36.1792409410052.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hann kennir höndum mínum að berjast, og niður lagði hann ⟨את⟩ bogann af eiri með armleggjum mínum.",
   "tokens": [
     {
       "surface": "מלמד",
@@ -38,25 +17,25 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "áttina"
+      "gloss": "að berjast"
     },
     {
-      "surface": "ונחתה",
-      "gloss": "og lætur niður"
+      "surface": "וונחתה",
+      "gloss": "og niður lagði"
     },
     {
       "surface": "קשת",
-      "gloss": "örbogann"
+      "gloss": "bogann"
     },
     {
       "surface": "נחושה",
-      "gloss": "koparins"
+      "gloss": "af eiri"
     },
     {
       "surface": "זרועתי",
-      "gloss": "handleggi mínir"
+      "gloss": "með armleggjum mínum"
     }
   ],
-  "timestamp": "2026-10-19T11:30:10.053550770Z",
+  "timestamp": "2026-10-19T14:57:34.338001051Z",
   "model": "glm-5.3"
 }

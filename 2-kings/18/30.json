@@ -5,45 +5,24 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הצל יצילנו",
-      "rationale": "Infinitive absolute plus finite verb — 'bjargandi mun bjarga' — intensifies the promise, echoing the same verb the Rabshakeh denies in v. 29."
-    },
-    {
-      "kind": "addition",
-      "subject": "þegar hann",
-      "rationale": "Icelandic needs an explicit subject for לאמר; Hebrew has none."
-    }
-  ],
-  "translation": "Og eigi láti Hizkíjahu ykkur treysta á Jahve, þegar hann segir: Bjargandi mun Jahve bjarga okkur, og þessi borg mun ekki gefin í hendi konungs Assýrlands.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/18\/29-32.1792403419018.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ekki skuli Khiskía láta ⟨את⟩ ykkur treysta á Jahve og segja: Bjargandi mun Jahve bjarga okkur, og þessari borg verður ekki ⟨את⟩ falið í hönd Assýríukonungs.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "Og eigi"
+      "gloss": "Og ekki"
     },
     {
       "surface": "יבטח",
-      "gloss": "treysta"
+      "gloss": "láta treysta"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "marks": "ykkur (vísar á Khiskía)"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Hizkíjahu"
+      "gloss": "Khiskía"
     },
     {
       "surface": "אל",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "þegar hann segir"
+      "gloss": "og segja"
     },
     {
       "surface": "הצל",
@@ -75,12 +54,12 @@
     },
     {
       "surface": "תנתן",
-      "gloss": "mun gefin"
+      "gloss": "verður falið"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þessi borg"
+      "marks": "þessari borg"
     },
     {
       "surface": "העיר",
@@ -88,11 +67,11 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "þessi"
+      "gloss": "þessari"
     },
     {
       "surface": "ביד",
-      "gloss": "í hendi"
+      "gloss": "í hönd"
     },
     {
       "surface": "מלך",
@@ -100,9 +79,9 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Assýrlands"
+      "gloss": "Assýríu"
     }
   ],
-  "timestamp": "2026-10-19T09:50:19.019817250Z",
+  "timestamp": "2026-10-19T14:35:42.737480409Z",
   "model": "glm-5.3"
 }

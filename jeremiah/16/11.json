@@ -5,44 +5,23 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Boð til Jeremía um svar við fólkinu — bein málsgagn áréttun."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "Endurtekning sögnarinnar עזבו (yfirgáfu) tvisvar rammar klósuna: feðurnir yfirgáfu Jahve og yfirgáfu hann aftur."
-    }
-  ],
-  "translation": "Þá munt þú segja við þá: Af því að feður yðar yfirgáfu mig, segir Jahve, og gengu eftir öðrum guðum og þjónuðu þeim og brutu niður fyrir þeim, ⟨את⟩ og mig hafa þeir yfirgefið, og ⟨את⟩ Tóru minni héldu þeir ekki.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "c027ec1b02b6fd75110537842e89146a64ee7b956f6cfff536b3c61cb2284e51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/16\/9-12.1792405721301.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þú skalt segja þeim: Af því að feður ykkar yfirgáfu ⟨את⟩ mig, segir Jahve, og fóru á eftir öðrum guðum og þjónuðu þeim og féllu til jarðar fyrir þeim, og ⟨את⟩ mig hafa þeir yfirgefið, og ⟨את⟩ Tóru mína hafa þeir ekki gætt.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "þá munt þú segja"
+      "gloss": "Og þú skalt segja"
     },
     {
       "surface": "אליהם",
-      "gloss": "við þá"
+      "gloss": "þeim"
     },
     {
       "surface": "על",
-      "gloss": "af"
+      "gloss": "Af því að"
     },
     {
       "surface": "אשר",
-      "gloss": "því að"
+      "gloss": "⟨að⟩"
     },
     {
       "surface": "עזבו",
@@ -50,11 +29,12 @@
     },
     {
       "surface": "אבותיכם",
-      "gloss": "feður yðar"
+      "gloss": "feður ykkar"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mig"
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig — beint á Jahve sjálfan (fyrsta andlag)"
     },
     {
       "surface": "נאם",
@@ -66,11 +46,11 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "og gengu"
+      "gloss": "og fóru"
     },
     {
       "surface": "אחרי",
-      "gloss": "eftir"
+      "gloss": "á eftir"
     },
     {
       "surface": "אלהים",
@@ -86,7 +66,7 @@
     },
     {
       "surface": "וישתחוו",
-      "gloss": "og brutu niður fyrir þeim"
+      "gloss": "og féllu til jarðar"
     },
     {
       "surface": "להם",
@@ -94,7 +74,8 @@
     },
     {
       "surface": "ואתי",
-      "gloss": "⟨את⟩ og mig"
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig — andlag í 'mig hafa þeir yfirgefið'"
     },
     {
       "surface": "עזבו",
@@ -103,11 +84,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Tóru minni"
+      "marks": "Tóru mína"
     },
     {
       "surface": "תורתי",
-      "gloss": "Tóru minni"
+      "gloss": "Tóru mína"
     },
     {
       "surface": "לא",
@@ -115,9 +96,9 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "héldu þeir"
+      "gloss": "hafa þeir gætt"
     }
   ],
-  "timestamp": "2026-10-19T10:28:41.303183830Z",
+  "timestamp": "2026-10-19T14:48:37.268178943Z",
   "model": "glm-5.3"
 }

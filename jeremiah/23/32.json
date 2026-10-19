@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פחזות",
-      "rationale": "'léttvísi' gagnvart 'flattering' (Geneva), 'lightness' (KJV), 'wantonness' (JPS) — orðið merkir óstöðugleika og hégóma"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "samtengingin 'þess vegna' í KJV er ekki í hebreskri textanum"
-    }
-  ],
-  "translation": "Sjá, ég er gegn þeim sem spá drauma lygans, segir Jahve, og hafa sagt ⟨את⟩ þeim og látið fólki mitt villast með lygum sínum og léttvísi sinni; en ég sendi þá ekki og bauð þeim ekki — og gagn munu þeir alls ekki gjöra þessu fólki, segir Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6660dd67a58b6377991c135ba0d27191c7595027f923e74f33be93e439a06e2d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/31-32.1792416815670.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sjá, ég er gegn spámönnum faldraums, segir Jahve, og þeir segja ⟨þau⟩ frá og leiða ⟨את⟩ fólki mitt af vegi með lygum sínum og fláttuskap sínum — en ég sendi ⟨þá⟩ ekki og bauð ⟨þeim⟩ ekki, og gagn ⟨þeir⟩ gagna ekki þessu fólki, segir Jahve.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "Sjá, ég er"
+      "gloss": "Sjá, ég"
     },
     {
       "surface": "על",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "נבאי",
-      "gloss": "þeim sem spá"
+      "gloss": "spámönnum"
     },
     {
       "surface": "חלמות",
-      "gloss": "drauma"
+      "gloss": "falddrauma"
     },
     {
       "surface": "שקר",
-      "gloss": "lygans"
+      "gloss": "faldröm"
     },
     {
       "surface": "נאם",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "ויספרום",
-      "gloss": "og hafa sagt"
+      "gloss": "og þeir segja ⟨þau⟩ frá"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "og leiða af vegi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þeim"
+      "marks": "fólki mitt (עמי)"
     },
     {
-      "surface": "ועמי",
-      "gloss": "⟨את⟩ þeim"
-    },
-    {
-      "surface": "ועמי",
+      "surface": "עמי",
       "gloss": "fólki mitt"
     },
     {
@@ -79,7 +58,7 @@
     },
     {
       "surface": "ובפחזותם",
-      "gloss": "og léttvísi sinni"
+      "gloss": "og með fláttuskap sínum"
     },
     {
       "surface": "ואנכי",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "שלחתים",
-      "gloss": "sendi þá"
+      "gloss": "sendi ⟨þá⟩"
     },
     {
       "surface": "ולא",
@@ -99,7 +78,7 @@
     },
     {
       "surface": "צויתים",
-      "gloss": "bauð þeim"
+      "gloss": "bauð ⟨þeim⟩"
     },
     {
       "surface": "והועיל",
@@ -107,11 +86,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "alls ekki"
+      "gloss": "ekki"
     },
     {
       "surface": "יועילו",
-      "gloss": "munu þeir gjöra"
+      "gloss": "gagna ⟨þeir⟩"
     },
     {
       "surface": "לעם",
@@ -130,6 +109,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T13:33:35.671325988Z",
+  "timestamp": "2026-10-19T14:49:01.693680326Z",
   "model": "glm-5.3"
 }

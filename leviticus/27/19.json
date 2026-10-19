@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גאל יגאל",
-      "rationale": "Ögnun með endurtekinni rót — 'ef endurleysa endurleysir hann' — glatast í íslensku."
-    },
-    {
-      "kind": "measurement",
-      "subject": "vers 19",
-      "rationale": "Endurkaup með viðbót fimmtungs á metmáti silfurs."
-    }
-  ],
-  "translation": "Og ef sá sem helgaði hann endurleysir ⟨את⟩ akurinn, þá bætir hann við fimmtungi silfursins, mats þíns, og stendur hann honum.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "c202af0f32b682b1bd8d2c4546fe97d260143a8af2f6609ec89e6d7ce79c965f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/27\/17-20.1792396325624.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ef sá sem helgaði akurinn leysir hann sannarlega, þá skal hann bæta við fimmta hluta silfurs mats þíns ofan á, og það skal standa honum.",
   "tokens": [
     {
       "surface": "ואם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "גאל",
-      "gloss": "endurleysir"
+      "gloss": "að leysa"
     },
     {
       "surface": "יגאל",
-      "gloss": "endurleysir"
+      "gloss": "leysir"
     },
     {
       "surface": "את",
@@ -55,20 +34,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "hann"
+      "gloss": "⟨את⟩ hann",
+      "marks": "akurinn"
     },
     {
       "surface": "ויסף",
-      "gloss": "bætir við"
+      "gloss": "þá skal hann bæta við"
     },
     {
       "surface": "חמשית",
-      "gloss": "fimmtungi"
+      "gloss": "fimmta hluta"
     },
     {
       "surface": "כסף",
-      "gloss": "silfursins"
+      "gloss": "silfurs"
     },
     {
       "surface": "ערכך",
@@ -76,17 +55,17 @@
     },
     {
       "surface": "עליו",
-      "gloss": "við"
+      "gloss": "ofan á"
     },
     {
       "surface": "וקם",
-      "gloss": "stendur"
+      "gloss": "og það skal standa"
     },
     {
       "surface": "לו",
       "gloss": "honum"
     }
   ],
-  "timestamp": "2026-10-19T07:52:05.625891400Z",
+  "timestamp": "2026-10-19T14:54:18.129219590Z",
   "model": "glm-5.3"
 }

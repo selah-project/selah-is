@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אחרי גוך",
-      "rationale": "Hebreskt síðorðasamband 'á bak af baki þínu' = að gefa guði gaum, flætt sem 'á bak við þig'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "זמה",
-      "rationale": "Bókstaflega 'vont áform' — flætt 'lasti' sem þekkt hvöt syndarinnar"
-    }
-  ],
-  "translation": "Þess vegna segir Adónaí Jahve: Af því að þú gleymdir mér og varpst mér á bak við þig, þú einnig — ber lasta þína og ⟨את⟩ hórdóma þína.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "852751afbcddca23cfac2dfbf11e2e676cc248c145a3baa36d0f146b89d3d8e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/23\/33-36.1792407353187.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þess vegna segir Adónaí Jahve: Af því að þú gleymdir ⟨את⟩ mér og kastaðir ⟨את⟩ mér á bak við bakið þitt, þá skalt og þú bera spellustverk þín og ⟨את⟩ hórkost þinn.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "þess vegna"
+      "gloss": "Þess vegna"
     },
     {
       "surface": "כה",
@@ -50,23 +29,25 @@
     },
     {
       "surface": "יען",
-      "gloss": "af því að"
+      "gloss": "Af því að"
     },
     {
       "surface": "שכחת",
-      "gloss": "þú gleymdir"
+      "gloss": "gleymdir"
     },
     {
       "surface": "אותי",
-      "gloss": "mér ⟨את⟩"
+      "gloss": "⟨את⟩ mér",
+      "marks": "gleymdir — þú gleymdir mér"
     },
     {
       "surface": "ותשליכי",
-      "gloss": "og varpst"
+      "gloss": "og kastaðir"
     },
     {
       "surface": "אותי",
-      "gloss": "mér ⟨את⟩"
+      "gloss": "⟨את⟩ mér",
+      "marks": "kastaðir — kastaðir mér"
     },
     {
       "surface": "אחרי",
@@ -74,11 +55,11 @@
     },
     {
       "surface": "גוך",
-      "gloss": "þig"
+      "gloss": "bakið þitt"
     },
     {
       "surface": "וגם",
-      "gloss": "einnig"
+      "gloss": "og einnig"
     },
     {
       "surface": "את",
@@ -90,18 +71,18 @@
     },
     {
       "surface": "זמתך",
-      "gloss": "lasta þína"
+      "gloss": "spellustverk þín"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "hórdóma þína"
+      "gloss": "og ⟨את⟩",
+      "marks": "hórkost þinn"
     },
     {
       "surface": "תזנותיך",
-      "gloss": "hórdóma þína"
+      "gloss": "hórkost þinn"
     }
   ],
-  "timestamp": "2026-10-19T10:55:53.188863081Z",
+  "timestamp": "2026-10-19T14:43:10.444705765Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "טרפי er bókstaflega 'sleitublöð', nýgrænu; 'blöð' heldur myndinni en tapar samsetningunni."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Forsaga 'hún' bætt við — hebreskan lætur spurningarnar standa án frumlags."
-    },
-    {
-      "kind": "you",
-      "subject": "to Ezekiel",
-      "rationale": "Orðið 'Segðu' beinist til spámannsins sjálfs."
-    }
-  ],
-  "translation": "Segðu: Þannig segir Adónaí Jahve: Mun ⟨hún⟩ heppnast? Munu ekki ⟨את⟩ rætur hennar slitnar og ⟨את⟩ ávöxtur hennar skorninn burt, svo að hún visni? Öll blöð sprotanna hennar munu visna — og ekki með miklum armlegg né með miklu fólki mun hún verða rifuð upp af rótum sínum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "3146f8cbb5d6ea7a10523034962168cac8cba2e237bbe9b156261e8533af8234",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/17\/9-12.1792407043942.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Segðu: Þannig segir Adónaí Jahve: Mun hún dafna? Mun hann ekki slíta ⟨את⟩ ræturnar hennar og hoggva af ⟨את⟩ ávöxtinn hennar, svo að hún visni? Allir nýju laufblöð sprotanna hennar visna, og ⟨það⟩ er ekki með mikilli armleggjarkrafti né með miklu föngi sem ⟨את⟩ henni er lyft frá rótum hennar.",
   "tokens": [
     {
       "surface": "אמר",
@@ -55,37 +29,37 @@
     },
     {
       "surface": "תצלח",
-      "gloss": "mun ⟨hún⟩ heppnast"
+      "gloss": "Mun hún dafna?"
     },
     {
       "surface": "הלוא",
-      "gloss": "Munu ekki"
+      "gloss": "ekki"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rætur hennar"
+      "marks": "ræturnar hennar"
     },
     {
       "surface": "שרשיה",
-      "gloss": "rætur hennar"
+      "gloss": "ræturnar hennar"
     },
     {
       "surface": "ינתק",
-      "gloss": "slitnar"
+      "gloss": "slíta"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "ávöxtur hennar"
+      "gloss": "⟨את⟩",
+      "marks": "ávöxtinn hennar"
     },
     {
       "surface": "פריה",
-      "gloss": "ávöxtur hennar"
+      "gloss": "ávöxtinn hennar"
     },
     {
       "surface": "יקוסס",
-      "gloss": "skorninn burt"
+      "gloss": "hoggva af"
     },
     {
       "surface": "ויבש",
@@ -93,11 +67,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "Öll"
+      "gloss": "Allir"
     },
     {
       "surface": "טרפי",
-      "gloss": "blöð"
+      "gloss": "nýju laufblöð"
     },
     {
       "surface": "צמחה",
@@ -105,15 +79,15 @@
     },
     {
       "surface": "תיבש",
-      "gloss": "munu visna"
+      "gloss": "visna"
     },
     {
       "surface": "ולא",
-      "gloss": "og ekki"
+      "gloss": "og er ekki"
     },
     {
       "surface": "בזרע",
-      "gloss": "með miklum armleggi"
+      "gloss": "með armleggjarkrafti"
     },
     {
       "surface": "גדולה",
@@ -121,7 +95,7 @@
     },
     {
       "surface": "ובעם",
-      "gloss": "né með miklu fólki"
+      "gloss": "né með föngi"
     },
     {
       "surface": "רב",
@@ -129,18 +103,18 @@
     },
     {
       "surface": "למשאות",
-      "gloss": "mun hún verða rifuð upp"
+      "gloss": "að lyfta"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ hana",
-      "marks": "hana (vínviðarinn)"
+      "gloss": "⟨את⟩ henni",
+      "marks": "frá rótum hennar"
     },
     {
       "surface": "משרשיה",
-      "gloss": "af rótum sínum"
+      "gloss": "frá rótum hennar"
     }
   ],
-  "timestamp": "2026-10-19T10:50:43.943375329Z",
+  "timestamp": "2026-10-19T14:43:19.078045911Z",
   "model": "glm-5.3"
 }

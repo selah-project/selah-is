@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "כי אם — sambandið 'heldur' gleypir hvorja þáttinn"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "המשל\/ימשלו",
-      "rationale": "sama rót máltækis og máltækinu — orðaleikur varðveitt með 'máltæki\/færa máltæki'"
-    }
-  ],
-  "translation": "Því skalt þú segja við þá: Þannig segir Adónaí Jahve: Ég hef gert þessu máltæki ⟨את⟩ enda, og þér munuð ekki frekar færa það ⟨það⟩ á Ísrael; heldur skalt þú tala við þá: Nálgast hafa dagarnir og orð hvers sýnar.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6633a1096d99c11dc194918c996dc931aeea44ce6c75286aadc0d90a1c33109b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/12\/21-24.1792406933887.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þess vegna skalt þú segja þeim: Svá segir Adónaí Jahve: Ég hef lagt ⟨את⟩ málsháttinn þenna niður, og þeir munu ekki segja ⟨את⟩ hann lengur í Ísrael; heldur tala við þá: Nálgast hafa dagarnir og orð allrar sýnar.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Því"
+      "gloss": "Þess vegna"
     },
     {
       "surface": "אמר",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אליהם",
-      "gloss": "við þá"
+      "gloss": "þeim"
     },
     {
       "surface": "כה",
-      "gloss": "Þannig"
+      "gloss": "Svá"
     },
     {
       "surface": "אמר",
@@ -58,20 +37,20 @@
     },
     {
       "surface": "השבתי",
-      "gloss": "hef ég gert enda"
+      "gloss": "hef ég lagt niður"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þessu máltæki"
+      "marks": "málsháttinn þenna"
     },
     {
       "surface": "המשל",
-      "gloss": "máltæki"
+      "gloss": "málsháttinn"
     },
     {
       "surface": "הזה",
-      "gloss": "þessu"
+      "gloss": "þenna"
     },
     {
       "surface": "ולא",
@@ -79,20 +58,20 @@
     },
     {
       "surface": "ימשלו",
-      "gloss": "munuð færa"
+      "gloss": "munu þeir segja"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "það (máltækið)"
+      "marks": "hann (málsháttinn)"
     },
     {
       "surface": "עוד",
-      "gloss": "frekar"
+      "gloss": "lenger"
     },
     {
       "surface": "בישראל",
-      "gloss": "á Ísrael"
+      "gloss": "í Ísrael"
     },
     {
       "surface": "כי",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "דבר",
@@ -112,25 +91,25 @@
     },
     {
       "surface": "קרבו",
-      "gloss": "nálgast hafa"
+      "gloss": "Nálgast"
     },
     {
       "surface": "הימים",
-      "gloss": "dagarnir"
+      "gloss": "hafa dagarnir"
     },
     {
       "surface": "ודבר",
-      "gloss": "og orð"
+      "gloss": "orð"
     },
     {
       "surface": "כל",
-      "gloss": "hvers"
+      "gloss": "allrar"
     },
     {
       "surface": "חזון",
       "gloss": "sýnar"
     }
   ],
-  "timestamp": "2026-10-19T10:48:53.888203864Z",
+  "timestamp": "2026-10-19T14:42:23.055619174Z",
   "model": "glm-5.3"
 }

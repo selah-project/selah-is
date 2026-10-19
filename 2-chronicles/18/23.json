@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אי זה",
-      "rationale": "bókstaflega 'hvar er þetta' — spurningin merkir 'hvert fór' og er þýdd sem slík"
-    },
-    {
-      "kind": "crux",
-      "subject": "מאתי",
-      "rationale": "עם-את 'með\/frá mér' — Tsidkíjahú telur sig eina Ísraels-spámanninn; spurningin er háð eða ógn"
-    },
-    {
-      "kind": "you",
-      "subject": "to Micaiah",
-      "rationale": "Tsidkíjahú talar beint til Míkajahúar eftir að hafa slegið hann"
-    }
-  ],
-  "translation": "Þá gekk Tsidkíjahú sonur Kenaana nálægt og slaó Míkajahú ⟨את⟩ á kinnina og sagði: Hví í hvora áttina fór rúakh Jahve frá mér til að tala við þig?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "fae8c2c7076a31189d2533d0f2f1f735342ae7467796b68617a00dae8fa13fbe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/18\/21-24.1792415566369.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þá gekk Tsídkíjahú, sonur Kenaná, nær og sló ⟨את⟩ Míkajáhú á kinnina og sagði: Hvert fór rúakh Jahve frá mér ⟨את⟩ til að tala við þig?",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "Þá-gekk-nálægt"
+      "gloss": "gekk nær"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkíjahú"
+      "gloss": "Tsídkíjahú"
     },
     {
       "surface": "בן",
@@ -47,20 +21,20 @@
     },
     {
       "surface": "כנענה",
-      "gloss": "Kenaana"
+      "gloss": "Kenaná"
     },
     {
       "surface": "ויך",
-      "gloss": "og-slaó"
+      "gloss": "og sló"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Míkajahú"
+      "marks": "Míkajáhú"
     },
     {
       "surface": "מיכיהו",
-      "gloss": "Míkajahú"
+      "gloss": "Míkajáhú"
     },
     {
       "surface": "על",
@@ -72,19 +46,19 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "og-sagði"
+      "gloss": "og sagði"
     },
     {
       "surface": "אי",
-      "gloss": "Hví"
+      "gloss": "hvert"
     },
     {
       "surface": "זה",
-      "gloss": "þetta"
+      "gloss": "⟨það⟩"
     },
     {
       "surface": "הדרך",
-      "gloss": "leiðin"
+      "gloss": "fór leiðin"
     },
     {
       "surface": "עבר",
@@ -100,17 +74,18 @@
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨את⟩ frá-mér"
+      "gloss": "frá mér ⟨את⟩"
     },
     {
       "surface": "לדבר",
-      "gloss": "til-að-tala"
+      "gloss": "til að tala"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ við-þig"
+      "gloss": "við ⟨את⟩ þig",
+      "marks": "þig"
     }
   ],
-  "timestamp": "2026-10-19T13:12:46.370694375Z",
+  "timestamp": "2026-10-19T14:33:51.276458962Z",
   "model": "glm-5.3"
 }

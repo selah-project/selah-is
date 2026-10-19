@@ -5,33 +5,7 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "fyrstaþroska",
-      "rationale": "בכורה er „fyrstaávöxtur“ — „fíkja fyrir sumar“ er túlkun flestra þýðanda; myndin er ávöxtur sem horfinn er áður en hann nýst"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "fornöfnin „hana“ í tvígang eru bætt við til að gera þolmynd skýra"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יראה\/הראה",
-      "rationale": "sömu stafir í þessum tveimur orðum (sjá\/sá-er-sér) — endursögnin tapast í íslensku"
-    }
-  ],
-  "translation": "Og blómið sem visnar, prýði dýrðar hans, sem stendur á höfði frjósamrar dalverpar, verður eins og fyrstaþroska fyrir sumar, sem sá er lúrir á eftir sé ⟨hana⟩, meðan hún er enn í hólfshönd hans, gleypir hann ⟨hana⟩.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/28\/1-4.1792404226438.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og fallna blómið, prýði skrauts hans, sem er á höfði ríka dalnum, verður eins og fyrstaaldin fyrir sumar — þá er sá, sem fyrir sér, sér hana, og á meðan hún er enn í hólfa hendi hans, gleypir hann ⟨את⟩ henni.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "נבל",
-      "gloss": "sem visnar"
+      "gloss": "fallna"
     },
     {
       "surface": "צבי",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "תפארתו",
-      "gloss": "dýrðar hans"
+      "gloss": "skrauts hans"
     },
     {
       "surface": "אשר",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "גיא",
-      "gloss": "dalverpar"
+      "gloss": "dalnum"
     },
     {
       "surface": "שמנים",
-      "gloss": "frjósamrar"
+      "gloss": "ríka"
     },
     {
       "surface": "כבכורה",
-      "gloss": "eins og fyrstaþroska"
+      "gloss": "eins og fyrstaaldin"
     },
     {
       "surface": "בטרם",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "קיץ",
-      "gloss": "sumar"
+      "gloss": "sumri"
     },
     {
       "surface": "אשר",
@@ -91,30 +65,30 @@
     },
     {
       "surface": "יראה",
-      "gloss": "sé"
+      "gloss": "sér"
     },
     {
       "surface": "הראה",
-      "gloss": "sá er lúrir á eftir"
+      "gloss": "sá sem sér"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ hana",
-      "marks": "hana — fyrstaþroskan"
+      "gloss": "⟨את⟩",
+      "marks": "hana (fyrstaaldina)"
     },
     {
       "surface": "בעודה",
-      "gloss": "meðan hún er enn"
+      "gloss": "á meðan hún er enn"
     },
     {
       "surface": "בכפו",
-      "gloss": "í hólfshönd hans"
+      "gloss": "í hólfa hendi hans"
     },
     {
       "surface": "יבלענה",
-      "gloss": "gleypir hann hana"
+      "gloss": "gleypir hana"
     }
   ],
-  "timestamp": "2026-10-19T10:03:46.439995181Z",
+  "timestamp": "2026-10-19T14:48:16.116708428Z",
   "model": "glm-5.3"
 }

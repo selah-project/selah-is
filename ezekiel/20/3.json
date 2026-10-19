@@ -5,41 +5,15 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי אני אם",
-      "rationale": "Hebreska eiðsformúlan 'sá sem ég lifi' rituð sem íslenskt eiðsorð, 'svo sannarlega sem ég lifi'."
-    },
-    {
-      "kind": "you",
-      "subject": "Esekíel",
-      "rationale": "Jahve beinist beint að Esekíel með boðnu 'talaðu'."
-    },
-    {
-      "kind": "crux",
-      "subject": "הלדרש",
-      "rationale": "Spurnin getur verið raunspurning eða hornaugn fullyrðing — 'er það til að leita mín?' gegn 'þið komið einungis til að leita mín'."
-    }
-  ],
-  "translation": "Mannesson, talaðu til ⟨את⟩ öldinganna Ísraels og segðu þeim: Þannig segir Adónaí Jahve: Er það til að leita mín sem þið komið? Svo sannarlega sem ég lifi, skal ég eigi leitað yðar, segir Adónaí Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/20\/1-4.1792407252833.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mannasonn, talaðu ⟨את⟩ við öldungum Ísraels og segðu þeim: Þannig segir Adónaí Jahve: Er það til að leita að ⟨את⟩ mér ⟨þið⟩ sem þið komið? Sannarlega, eins lengi sem ég lifi, ég verð ekki leitaður af ykkur, orð Adónaí Jahve.",
   "tokens": [
     {
       "surface": "בן",
-      "gloss": "Mannesson"
+      "gloss": "sonn"
     },
     {
       "surface": "אדם",
-      "gloss": "(mannesarsonur)"
+      "gloss": "mann"
     },
     {
       "surface": "דבר",
@@ -47,12 +21,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "öldinganna Ísraels"
+      "gloss": "⟨את⟩ við",
+      "marks": "öldungum Ísraels"
     },
     {
       "surface": "זקני",
-      "gloss": "öldinganna"
+      "gloss": "öldungum"
     },
     {
       "surface": "ישראל",
@@ -84,12 +58,12 @@
     },
     {
       "surface": "הלדרש",
-      "gloss": "Er það til að leita"
+      "gloss": "að leita að"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "mín"
+      "marks": "mér (þið sem komið)"
     },
     {
       "surface": "אתם",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "lifi"
+      "gloss": "Sannarlega, eins lengi"
     },
     {
       "surface": "אני",
@@ -109,19 +83,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "sannarlega sem"
+      "gloss": "lifi"
     },
     {
       "surface": "אדרש",
-      "gloss": "skal ég leitað"
+      "gloss": "verð ekki leitaður"
     },
     {
       "surface": "לכם",
-      "gloss": "yðar"
+      "gloss": "af ykkur"
     },
     {
       "surface": "נאם",
-      "gloss": "segir"
+      "gloss": "orð"
     },
     {
       "surface": "אדני",
@@ -132,6 +106,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T10:54:12.834164355Z",
+  "timestamp": "2026-10-19T14:42:54.807810355Z",
   "model": "glm-5.3"
 }

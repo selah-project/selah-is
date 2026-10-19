@@ -5,45 +5,19 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מגורי",
-      "rationale": "'uppgjör\/viðskiptavandræði' — lesið sem 'steyptir undir' eða 'hryllingur'; JPS 'thrust down', aðrir 'terrors'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "is",
-      "rationale": "Boðsform í átt að mannssyninum: hrópa, gridla, slá á lær"
-    },
-    {
-      "kind": "idiom",
-      "subject": "ספק אל ירך",
-      "rationale": "Að slá á lær er hebreskt sorgarjárn, ekki tilviljun"
-    }
-  ],
-  "translation": "Hrópaðu og gridli, mannssonur, því að hún er komin yfir mínu fólki, hún yfir alla höfðingja Ísraels; þeir eru steyptir undir sverð ⟨með⟩ mínu fólki — sláðu því á lærið.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "83ba2eedc9bed15e4e15df4906c6c21660dc2b51137016e33515024d7ca4316b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/21\/17-20.1792407261549.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Öskraðu og hrópstu, mannsson, því að hún hefur komið yfir mitt fólk, yfir alla höfðingja Ísraels; ⟨את⟩ mitt fólk var látið falla fyrir sverðinu; því sláttu á lærina.",
   "tokens": [
     {
       "surface": "זעק",
-      "gloss": "Hrópaðu"
+      "gloss": "Öskraðu"
     },
     {
       "surface": "והילל",
-      "gloss": "og gridli"
+      "gloss": "og hrópstu"
     },
     {
       "surface": "בן",
-      "gloss": "sonur"
+      "gloss": "son"
     },
     {
       "surface": "אדם",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "היתה",
-      "gloss": "er komin"
+      "gloss": "hefur komið"
     },
     {
       "surface": "בעמי",
-      "gloss": "yfir mínu fólki"
+      "gloss": "yfir mitt fólk"
     },
     {
       "surface": "היא",
@@ -83,28 +57,28 @@
     },
     {
       "surface": "מגורי",
-      "gloss": "þeir eru steyptir"
+      "gloss": "var látið falla"
     },
     {
       "surface": "אל",
-      "gloss": "undir"
+      "gloss": "fyrir"
     },
     {
       "surface": "חרב",
-      "gloss": "sverð"
+      "gloss": "sverðinu"
     },
     {
       "surface": "היו",
-      "gloss": "eru"
+      "gloss": "⟨voru⟩"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mínu fólki"
+      "marks": "mitt fólk"
     },
     {
       "surface": "עמי",
-      "gloss": "mínu fólki"
+      "gloss": "mitt fólk"
     },
     {
       "surface": "לכן",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "ספק",
-      "gloss": "sláðu"
+      "gloss": "sláttu"
     },
     {
       "surface": "אל",
@@ -120,9 +94,9 @@
     },
     {
       "surface": "ירך",
-      "gloss": "lærið"
+      "gloss": "lærina"
     }
   ],
-  "timestamp": "2026-10-19T10:54:21.550328164Z",
+  "timestamp": "2026-10-19T14:43:00.354968746Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "smíði",
-      "rationale": "התעלל הוא að gjöra að gríni, þjást leikinn — „leika sér að“ eða „niðurlægja“, ekki einungis hæna"
-    },
-    {
-      "kind": "addition",
-      "subject": "mig",
-      "rationale": "Íslenzka þarf andlag eftir smíða; hebreskan hefur aðeins בִּי"
-    }
-  ],
-  "translation": "Og konungurinn Tsidkijáhu sagði við Jirmejáhu: Ég er hræddur um Júdamennina sem féllu til Kasdímanna, svo að þeir gefi mig ⟨את⟩ ekki í þeirra hönd og smíði mig.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "ad864c5a764678757aef7ff12ca985729c524e187c501bc1b1ebbdbbc7b4d9b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/38\/17-20.1792406333790.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Tsidkija konungur sagði við Jirmeja: Ég óttast ⟨את⟩ Júda-mennina sem féllu til kasdíanna, svo að þeir gefi mig ⟨את⟩ ⟨mig⟩ í hönd þeirra og níðist á mér.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "konungurinn"
+      "gloss": "konungur"
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkijáhu"
+      "gloss": "Tsidkija"
     },
     {
       "surface": "אל",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Jirmejáhu"
+      "gloss": "Jirmeja"
     },
     {
       "surface": "אני",
@@ -54,16 +33,16 @@
     },
     {
       "surface": "דאג",
-      "gloss": "er hræddur"
+      "gloss": "óttast"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Júdamennina"
+      "marks": "Júda-mennina"
     },
     {
       "surface": "היהודים",
-      "gloss": "Júdamennina"
+      "gloss": "Júda-mennina"
     },
     {
       "surface": "אשר",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "הכשדים",
-      "gloss": "Kasdímanna"
+      "gloss": "kasdíanna"
     },
     {
       "surface": "פן",
-      "gloss": "svo að... ekki"
+      "gloss": "svo að"
     },
     {
       "surface": "יתנו",
@@ -91,22 +70,22 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ mig",
-      "marks": "í þeirra hönd"
+      "gloss": "⟨את⟩",
+      "marks": "í hönd þeirra"
     },
     {
       "surface": "בידם",
-      "gloss": "í þeirra hönd"
+      "gloss": "í hönd þeirra"
     },
     {
       "surface": "והתעללו",
-      "gloss": "og smíði mig"
+      "gloss": "og níðist"
     },
     {
       "surface": "בי",
-      "gloss": "mig"
+      "gloss": "á mér"
     }
   ],
-  "timestamp": "2026-10-19T10:38:53.791641755Z",
+  "timestamp": "2026-10-19T14:49:35.493790100Z",
   "model": "glm-5.3"
 }

@@ -5,58 +5,37 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "spýi ykkur út",
-      "rationale": "קוֹא 'æja, spýja' — landið gegr út íbúa sína; myndlínt haft bókstaflega"
-    },
-    {
-      "kind": "you",
-      "subject": "to Ísrael",
-      "rationale": "beint ávarp til Ísraels í fleirtölu — skrefvís boðsending"
-    }
-  ],
-  "translation": "Og þér skuluð varðveita ⟨את⟩ allar settningar mínar og ⟨את⟩ allar dóma mína og gjöra ⟨את⟩ þær, og landið, sem ég er að leiða ykkur á, til að búa í því, spýi ykkur ekki út.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/20\/21-24.1792396085149.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þér skuluð gæta ⟨את⟩ allra laga minna og ⟨את⟩ allra dóma minna og gjöra ⟨את⟩ þau, svo að landið sem ég færi ykkur til að búa þar óþægi ykkur ekki út.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "Og þér skuluð varðveita"
+      "gloss": "Og þér skuluð gæta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "allar settningar mínar"
+      "marks": "allra laga minna"
     },
     {
       "surface": "כל",
-      "gloss": "allar"
+      "gloss": "allra"
     },
     {
       "surface": "חקתי",
-      "gloss": "settningar mínar"
+      "gloss": "laga minna"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "allar dóma mína"
+      "gloss": "⟨את⟩",
+      "marks": "allra dóma minna"
     },
     {
       "surface": "כל",
-      "gloss": "allar"
+      "gloss": "allra"
     },
     {
       "surface": "משפטי",
-      "gloss": "dóma mína"
+      "gloss": "dóma minna"
     },
     {
       "surface": "ועשיתם",
@@ -64,21 +43,21 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "þær"
+      "gloss": "⟨את⟩ þau",
+      "marks": "lögin og dómana"
     },
     {
       "surface": "ולא",
-      "gloss": "ekki"
+      "gloss": "svo að … ekki"
     },
     {
       "surface": "תקיא",
-      "gloss": "spýi út"
+      "gloss": "óþægi út (ælist upp)"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "⟨את⟩ ykkur"
     },
     {
       "surface": "הארץ",
@@ -94,16 +73,16 @@
     },
     {
       "surface": "מביא",
-      "gloss": "er að leiða"
+      "gloss": "færi"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "⟨את⟩ ykkur"
     },
     {
       "surface": "שמה",
-      "gloss": "á"
+      "gloss": "þangað"
     },
     {
       "surface": "לשבת",
@@ -111,9 +90,9 @@
     },
     {
       "surface": "בה",
-      "gloss": "í því"
+      "gloss": "þar"
     }
   ],
-  "timestamp": "2026-10-19T07:48:05.149989213Z",
+  "timestamp": "2026-10-19T14:54:38.523326767Z",
   "model": "glm-5.3"
 }

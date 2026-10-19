@@ -5,44 +5,23 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חי חי",
-      "rationale": "Endurtekning 'lifandi, lifandi' — lykilatriði í lofgjöfn hinna lifandi."
-    },
-    {
-      "kind": "alternative",
-      "subject": "אל",
-      "rationale": "'אל אמתך' getur einnig verið 'til sannleika þíns' — tenging við von og trúfesti."
-    }
-  ],
-  "translation": "Lifandi, lifandi, sá þakkar þér, eins og ég í dag; faðir kunngerir sonum sannleika þíns.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/38\/17-20.1792404484945.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Sá sem lifir, sá sem lifir, hann lofar þig, eins og ég gjöri í dag; faðir ⟨er⟩ að kenna sonum sínum sannleika þinn.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "Lifandi"
+      "gloss": "sá sem lifir"
     },
     {
       "surface": "חי",
-      "gloss": "lifandi"
+      "gloss": "sá sem lifir"
     },
     {
       "surface": "הוא",
-      "gloss": "sá"
+      "gloss": "hann"
     },
     {
       "surface": "יודך",
-      "gloss": "þakkar þér"
+      "gloss": "lofar þig"
     },
     {
       "surface": "כמוני",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "לבנים",
-      "gloss": "sonum"
+      "gloss": "sonum sínum"
     },
     {
       "surface": "יודיע",
-      "gloss": "kunngerir"
+      "gloss": "að kenna"
     },
     {
       "surface": "אל",
@@ -70,9 +49,9 @@
     },
     {
       "surface": "אמתך",
-      "gloss": "sannleika þíns"
+      "gloss": "sannleika þinn"
     }
   ],
-  "timestamp": "2026-10-19T10:08:04.946089907Z",
+  "timestamp": "2026-10-19T14:47:56.132854517Z",
   "model": "glm-5.3"
 }

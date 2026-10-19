@@ -5,45 +5,19 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מספר",
-      "rationale": "'tölur\/fáir' — óákveðið: sumir lesa 'fáa daga' (KJV 'a few days'), aðrir bara 'daga nokkra, taldaga'; gríska og tungumál þýðingsins bæta oft við 'fáa'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר יהיה",
-      "gloss-rationale": "hlutfallarsetningin 'það sem væri' fellur saman við 'stundum var' — 'ויש אשר יהיה' er málmyndin 'og það gerðist að'."
-    },
-    {
-      "kind": "idiom",
-      "subject": "על פי יהוה",
-      "rationale": "'að mun Jahve' — bókstafleg 'munn' (pé) varðveitt í íslensku máltæki."
-    }
-  ],
-  "translation": "Og stundum var skýið daga talda yfir Misjkaninu; að mun Jahve tölduðu, og að mun Jahve fóru á braut.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "5b4317e2f11da8bf2ae02187120cc6d963ae5268a285d5e209b5bf492733aa5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/9\/17-20.1792396674324.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og stundum var skýið nokkra daga yfir Misjkan; eftir munni Jahve hélu þeir í búðum, og eftir munni Jahve héldu þeir á brott.",
   "tokens": [
     {
       "surface": "ויש",
-      "gloss": "og stundum var"
+      "gloss": "Og stundum er"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "sem"
     },
     {
       "surface": "יהיה",
-      "gloss": ""
+      "gloss": "gerist"
     },
     {
       "surface": "הענן",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "מספר",
-      "gloss": "talda"
+      "gloss": "nokkra"
     },
     {
       "surface": "על",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "Misjkaninu"
+      "gloss": "Misjkan"
     },
     {
       "surface": "על",
-      "gloss": "að"
+      "gloss": "eftir"
     },
     {
       "surface": "פי",
-      "gloss": "mun"
+      "gloss": "munni"
     },
     {
       "surface": "יהוה",
@@ -79,15 +53,15 @@
     },
     {
       "surface": "יחנו",
-      "gloss": "tjölduðu"
+      "gloss": "hélu þeir í búðum"
     },
     {
       "surface": "ועל",
-      "gloss": "og að"
+      "gloss": "og eftir"
     },
     {
       "surface": "פי",
-      "gloss": "mun"
+      "gloss": "munni"
     },
     {
       "surface": "יהוה",
@@ -95,9 +69,9 @@
     },
     {
       "surface": "יסעו",
-      "gloss": "fóru á braut"
+      "gloss": "héldu þeir á brott"
     }
   ],
-  "timestamp": "2026-10-19T07:57:54.326243585Z",
+  "timestamp": "2026-10-19T14:56:25.131142642Z",
   "model": "glm-5.3"
 }

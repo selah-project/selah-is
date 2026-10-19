@@ -5,37 +5,11 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "נפש er „sál“ — nær „kok\/lífskrafti“ en íslenzkan hefur ekki betra orð hér"
-    },
-    {
-      "kind": "crux",
-      "subject": "בצרור החיים",
-      "rationale": "'bundin í bundinni lífsins' — sumir lesa 'með Jahve' sem stað bundningarinnar, aðrir sem handrit geymir enda 'את' sem 'með'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "לפוקה",
-      "rationale": "sjá v. 31"
-    }
-  ],
-  "translation": "Og maður sé riðið upp til að elta þig og leita sálar þinnar, en sál herra míns verði bundin í bundinni lífsins ⟨את⟩ með Jahve, Elóhím þínum; en sál óvina þinna mun hann slöngva út úr miðju lófa slöngunnar.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "0c16585058096f9ade3cf6a0d22da2d8640ed86b5deb1b70a325eb552fd8aa9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/25\/29-32.1792400910190.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og maður rís upp til að elta þig og leita ⟨את⟩ sálu þinnar, en sála herra míns verður bundin í bundningi lífsins ⟨את⟩ Jahve, Elóhím þínum, og ⟨את⟩ sálu óvina þinna slengir hann út úr miðju lófa sleggjunnar.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "og sé riðið upp"
+      "gloss": "Og rís"
     },
     {
       "surface": "אדם",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "לרדפך",
-      "gloss": "til að elta þig"
+      "gloss": "upp til að elta þig"
     },
     {
       "surface": "ולבקש",
@@ -52,19 +26,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sálar þinnar"
+      "marks": "sálu þinnar"
     },
     {
       "surface": "נפשך",
-      "gloss": "sálar þinnar"
+      "gloss": "sálu þinnar"
     },
     {
       "surface": "והיתה",
-      "gloss": "en verði"
+      "gloss": "en verður"
     },
     {
       "surface": "נפש",
-      "gloss": "sál"
+      "gloss": "sála"
     },
     {
       "surface": "אדני",
@@ -76,7 +50,7 @@
     },
     {
       "surface": "בצרור",
-      "gloss": "í bundinni"
+      "gloss": "í bundningi"
     },
     {
       "surface": "החיים",
@@ -84,7 +58,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ með"
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
     },
     {
       "surface": "יהוה",
@@ -96,12 +71,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "en ⟨את⟩",
-      "marks": "sál óvina þinna"
+      "gloss": "og ⟨את⟩",
+      "marks": "sálu óvina þinna"
     },
     {
       "surface": "נפש",
-      "gloss": "sál"
+      "gloss": "sálu"
     },
     {
       "surface": "איביך",
@@ -109,11 +84,11 @@
     },
     {
       "surface": "יקלענה",
-      "gloss": "mun hann slöngva út"
+      "gloss": "slengir hann út"
     },
     {
       "surface": "בתוך",
-      "gloss": "úr miðju"
+      "gloss": "út úr miðju"
     },
     {
       "surface": "כף",
@@ -121,9 +96,9 @@
     },
     {
       "surface": "הקלע",
-      "gloss": "slöngunnar"
+      "gloss": "sleggjunnar"
     }
   ],
-  "timestamp": "2026-10-19T09:08:30.191045870Z",
+  "timestamp": "2026-10-19T14:33:20.688695830Z",
   "model": "glm-5.3"
 }

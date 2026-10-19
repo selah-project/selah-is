@@ -5,36 +5,20 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "צלעת er bókstaflega 'rif', hér um hliðar altarisins — 'hliðum' í stað myndarinnar."
-    }
-  ],
-  "translation": "Og stöngum þess skal verða komið í hringina, og stangirnar skulu vera á tveimur hliðum altarisins, þegar ⟨את⟩ það er borið.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/27\/5-8.1792394843999.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ stöngvunum skal stungið í hringina, og stöngvarnar skulu vera á tveimur hliðum altarisins, til að bera ⟨את⟩ það.",
   "tokens": [
     {
       "surface": "והובא",
-      "gloss": "Og skal verða komið"
+      "gloss": "skal stungið"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "stöngum þess"
+      "marks": "stöngvunum"
     },
     {
       "surface": "בדיו",
-      "gloss": "stöngum þess"
+      "gloss": "stöngvunum"
     },
     {
       "surface": "בטבעת",
@@ -46,7 +30,7 @@
     },
     {
       "surface": "הבדים",
-      "gloss": "stangirnar"
+      "gloss": "stöngvarnar"
     },
     {
       "surface": "על",
@@ -66,14 +50,14 @@
     },
     {
       "surface": "בשאת",
-      "gloss": "þegar borið er"
+      "gloss": "til að bera"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "það (altarið)"
     }
   ],
-  "timestamp": "2026-10-19T07:27:24.000876519Z",
+  "timestamp": "2026-10-19T14:41:30.430456080Z",
   "model": "glm-5.3"
 }

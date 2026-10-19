@@ -5,28 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 42,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "תמית er þágufallsmynd: 'sonur minn tveir er dáið' eða ópersónuleg 'þú deyrir' — flestar þýðingar lesa dómshugsun: 'deyðtu sonu mína tvo ef...'"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אם לא er hebresk eiðsformúla án 'ef', merkin ⟨ef⟩ og ⟨ekki⟩ flétta hana inn í íslenska setningu"
-    }
-  ],
-  "translation": "Og Reúven sagði við föður sinn og mælti: ⟨את⟩ sonu mína tvo skaltu deyða ef ég fæ hann ekki til þín; gef hann í hönd mína, og ég mun skila honum til þín.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "b31651cb5aac6bb6f10945f832d4aa4ce50fc304c9f24e0682358303e0430a95",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/42\/37-38.1792393759902.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Reúben sagði við föður sinn, með þessum orðum: ⟨את⟩ sonu minna tveggja skaltu deyða, ef ég færi hann ekki til þín; gefðu ⟨את⟩- hann ⟨þér⟩ í hönd mér, og ég mun flytja hann aftur til þín.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ראובן",
-      "gloss": "Reúven"
+      "gloss": "Reúben"
     },
     {
       "surface": "אל",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "og mælti"
+      "gloss": "með þessum orðum"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sonu mína tvo"
+      "marks": "sonu minna tveggja"
     },
     {
       "surface": "שני",
-      "gloss": "tvo"
+      "gloss": "tveggja"
     },
     {
       "surface": "בני",
-      "gloss": "sonu mína"
+      "gloss": "sonu minna"
     },
     {
       "surface": "תמית",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "אביאנו",
-      "gloss": "fæ hann"
+      "gloss": "færi hann"
     },
     {
       "surface": "אליך",
@@ -83,11 +62,11 @@
     },
     {
       "surface": "תנה",
-      "gloss": "gef"
+      "gloss": "gefðu"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩- hann",
       "marks": "hann"
     },
     {
@@ -96,11 +75,7 @@
     },
     {
       "surface": "ידי",
-      "gloss": "hönd mína"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
+      "gloss": "hönd mér"
     },
     {
       "surface": "ואני",
@@ -108,13 +83,13 @@
     },
     {
       "surface": "אשיבנו",
-      "gloss": "mun skila honum"
+      "gloss": "mun flytja hann aftur"
     },
     {
       "surface": "אליך",
       "gloss": "til þín"
     }
   ],
-  "timestamp": "2026-10-19T07:09:19.904076050Z",
+  "timestamp": "2026-10-19T14:46:31.645579111Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "Sögnin אכל (eta) endurtekin fimm sinnum í versinu — uppspretta endurtekningar tapast ekki alveg á íslensku en hröðullinn minnkar."
-    },
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "ערי מבצריך er smátt bundið („borgir víggörða þinna“) — á íslensku orðið að tvennst."
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "Fortaktsorð (áspekt) í hebreskum sagnmyndum (יאכל, ירשש) hafa ekki íslenska samsvarandi og eru mér gefin í samtengingu."
-    }
-  ],
-  "translation": "Og það mun eta uppskeru þína og brauð þitt; þeir munu eta syni þína og dætur þínar; það mun eta sauðfé þitt og geitur og naut þín; það mun eta vínvið þinn og fikutré þitt; það mun rífa niður borgir ⟨⟨ víggörðar ⟩⟩ þínar, þær sem þú treystir í, með sverðinu.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "09047a980c5e0ef1a4dce9a51a4367c9ef280b558364842e09168b513c100499",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/5\/17-20.1792405434637.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨hann⟩ mun éta ⟨את⟩ uppskeru þína og ⟨את⟩ brauð þitt; eta munu synir þínir og dætur þínar; hann mun éta ⟨את⟩ sauðfé þitt og ⟨את⟩ nautgripi þína; hann mun éta ⟨את⟩ vínvið þinn og ⟨את⟩ fíkjutré þitt; hann mun rjúfa borgir víggirða þinna, þær sem þú treystir, með sverði.",
   "tokens": [
     {
       "surface": "ואכל",
-      "gloss": "Og það mun eta"
+      "gloss": "Og mun éta"
     },
     {
       "surface": "קצירך",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "יאכלו",
-      "gloss": "þeir munu eta"
+      "gloss": "eta munu"
     },
     {
       "surface": "בניך",
-      "gloss": "syni þína"
+      "gloss": "synir þínir"
     },
     {
       "surface": "ובנותיך",
@@ -59,19 +33,19 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "það mun eta"
+      "gloss": "hann mun éta"
     },
     {
       "surface": "צאנך",
-      "gloss": "sauðfé þitt og geitur"
+      "gloss": "sauðfé þitt"
     },
     {
       "surface": "ובקרך",
-      "gloss": "og naut þín"
+      "gloss": "og nautgripi þína"
     },
     {
       "surface": "יאכל",
-      "gloss": "það mun eta"
+      "gloss": "hann mun éta"
     },
     {
       "surface": "גפנך",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ותאנתך",
-      "gloss": "og fikutré þitt"
+      "gloss": "og fíkjutré þitt"
     },
     {
       "surface": "ירשש",
-      "gloss": "mun rífa niður"
+      "gloss": "hann mun rjúfa"
     },
     {
       "surface": "ערי",
@@ -91,11 +65,11 @@
     },
     {
       "surface": "מבצריך",
-      "gloss": "víggörðar þínar"
+      "gloss": "víggirða þinna"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þær sem"
     },
     {
       "surface": "אתה",
@@ -107,13 +81,13 @@
     },
     {
       "surface": "בהנה",
-      "gloss": "í þær"
+      "gloss": "þeim"
     },
     {
       "surface": "בחרב",
       "gloss": "með sverði"
     }
   ],
-  "timestamp": "2026-10-19T10:23:54.638424732Z",
+  "timestamp": "2026-10-19T14:50:09.622483803Z",
   "model": "glm-5.3"
 }

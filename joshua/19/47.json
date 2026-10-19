@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "וַיֵּצֵא גְּבוּל בְּנֵי דָן מֵהֶם — KJS\/JPS les „var of litill fyrir þá“; ASV „gekk út fyrir þá“; YLT hálfgreinilega „gekk frá þeim“ — hebreska segir aðeins að landamærið færist frá þeim."
-    },
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "לְפִי חֶרֶב — bókstaflega „að munni sverðs“, mynduð sem „með munn sverðsins“ til að geyma myndina."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "þrífalt ⟨את⟩ á Lesjem — וילכדו… ויכו… וירשו — endurtekin athöfn við hana, rétt eins og í dómsbók 18."
-    }
-  ],
-  "translation": "Og landamæri sona Dana gekk frá þeim, og sonir Dana fóru upp og áttu í slag við Lesjem og náðu ⟨את⟩ henni og lögðu ⟨את⟩ hana með munn sverðsins og tóku hana í eign og bjuggu í henni, og kölluðu Lesjem, Dan, eftir nafni Dana föður þeirra.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "87e6e9cc4c07de4e9481099eaf34f38b3cb0c496596fd11f38cb17c04d1bba96",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/19\/46-47.1792416450629.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og landamæri Dansmanna gengu út ⟨frá⟩ þeim, og Dansmenn fóru upp og börðust við Lesjem og námu ⟨את⟩ því og höggvust að ⟨את⟩ því með munn sverðsins og tóku það að arfi og bjuggu þar, og kölluðu Lesjem, Dan, eftir nafni Dans, föður þeirra.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Og gekk frá þeim"
+      "gloss": "og gengu út"
     },
     {
       "surface": "גבול",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "בני",
-      "gloss": "sona"
+      "gloss": "manna"
     },
     {
       "surface": "דן",
-      "gloss": "Dana"
+      "gloss": "Dan"
     },
     {
       "surface": "מהם",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "sonir"
+      "gloss": "menn"
     },
     {
       "surface": "דן",
-      "gloss": "Dana"
+      "gloss": "Dan"
     },
     {
       "surface": "וילחמו",
-      "gloss": "og áttu í slag"
+      "gloss": "og börðust"
     },
     {
       "surface": "עם",
@@ -79,21 +53,21 @@
     },
     {
       "surface": "וילכדו",
-      "gloss": "og náðu"
+      "gloss": "og námu"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "henni"
+      "marks": "því (Lesjem)"
     },
     {
       "surface": "ויכו",
-      "gloss": "og lögðu"
+      "gloss": "og höggvust að"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "hana"
+      "marks": "því (Lesjem)"
     },
     {
       "surface": "לפי",
@@ -105,12 +79,12 @@
     },
     {
       "surface": "וירשו",
-      "gloss": "og tóku í eign"
+      "gloss": "og tóku að arfi"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "hana"
+      "marks": "því (Lesjem)"
     },
     {
       "surface": "וישבו",
@@ -118,7 +92,7 @@
     },
     {
       "surface": "בה",
-      "gloss": "í henni"
+      "gloss": "þar"
     },
     {
       "surface": "ויקראו",
@@ -138,13 +112,13 @@
     },
     {
       "surface": "דן",
-      "gloss": "Dana"
+      "gloss": "Dan"
     },
     {
       "surface": "אביהם",
       "gloss": "föður þeirra"
     }
   ],
-  "timestamp": "2026-10-19T13:27:30.630157698Z",
+  "timestamp": "2026-10-19T14:51:17.956770318Z",
   "model": "glm-5.3"
 }

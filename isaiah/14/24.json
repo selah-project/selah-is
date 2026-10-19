@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם לא",
-      "rationale": "Eiðmyndin 'ef ekki' merkir 'sannarlega' — bókstafleg þýðing myndi villast"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דמיתי\/יעצתי",
-      "rationale": "Tvenn samstilling: 'hugsaði\/skeði' og 'áætlaði\/standa' — tveir samhverfir para í hebresku"
-    }
-  ],
-  "translation": "Jahve Tsevaót hefur svarið og sagt: Sannarlega, eins og ég hugsaði, svo skeði, og eins og ég áætlaði, það mun standa.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "59667e0982093202e389629c90fd1afbe790e077df09e4fcfcdd4ce70855ba52",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/14\/21-24.1792403863856.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Jahve Tsevaót hefur svarið og sagt: Sannarlega, eins og ég hugsaði, svona varð ⟨það⟩, og eins og ég ákvað, svona mun ⟨það⟩ standa.",
   "tokens": [
     {
       "surface": "נשבע",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "og sagði"
+      "gloss": "og sagt"
     },
     {
       "surface": "אם",
-      "gloss": "Sannarlega"
+      "gloss": "sannarlega"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "ei"
     },
     {
       "surface": "כאשר",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "svo"
+      "gloss": "svona"
     },
     {
       "surface": "היתה",
-      "gloss": "skeði"
+      "gloss": "varð"
     },
     {
       "surface": "וכאשר",
@@ -74,17 +53,17 @@
     },
     {
       "surface": "יעצתי",
-      "gloss": "ég áætlaði"
+      "gloss": "ég ákvað"
     },
     {
       "surface": "היא",
-      "gloss": "það"
+      "gloss": "⟨það⟩"
     },
     {
       "surface": "תקום",
       "gloss": "mun standa"
     }
   ],
-  "timestamp": "2026-10-19T09:57:43.857834507Z",
+  "timestamp": "2026-10-19T14:47:04.485512126Z",
   "model": "glm-5.3"
 }

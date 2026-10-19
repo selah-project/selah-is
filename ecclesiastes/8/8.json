@@ -5,38 +5,7 @@
   "book": "ecclesiastes",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "á — forsetning nauðsynleg í íslensku, hebreska notar ב með ríkisvaldi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "רוח",
-      "gloss": "rúakh — vindur\/önd\/andanáð, engin eitt orð nær bæði vind og lífsanda"
-    },
-    {
-      "kind": "crux",
-      "subject": "משלחת",
-      "rationale": "'slitun\/lausanáms' — KJV 'discharge' (lausanám úr herþjónustu), en orðið getur líka verið vopn (lesst: 'slepping')"
-    },
-    {
-      "kind": "crux",
-      "subject": "ולא ימלט רשע",
-      "rationale": "'løst verður ekki flutt' — röm lesning YLT\/ASV 'wickedness delivereth not' vs. KJV 'wicked shall not be delivered' — hvor er möguleg"
-    }
-  ],
-  "translation": "Enginn maður ræður rúakh ⟨á⟩ að halda rúakh niðri, og engin yfirráð á degi dauðans, og engin slitun í stríði, og løst verður ekki flutt ⟨frá⟩ eiganda sínum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/8\/5-8.1792413114083.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Enginn maður er valdherra yfir rúakh, til að halda ⟨את⟩ rúakhnum, og engin yfirráð á degi dauðans, og engin lausn í stríðinu, og ranglæti mun ekki frelsa ⟨את⟩ eigendur sína.",
   "tokens": [
     {
       "surface": "אין",
@@ -48,24 +17,24 @@
     },
     {
       "surface": "שליט",
-      "gloss": "ræður"
+      "gloss": "valdherra"
     },
     {
       "surface": "ברוח",
-      "gloss": "rúakh"
+      "gloss": "yfir rúakh"
     },
     {
       "surface": "לכלוא",
-      "gloss": "að halda niðri"
+      "gloss": "til að halda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "rúakh"
+      "marks": "rúakhnum"
     },
     {
       "surface": "הרוח",
-      "gloss": "rúakh"
+      "gloss": "rúakhnum"
     },
     {
       "surface": "ואין",
@@ -89,11 +58,11 @@
     },
     {
       "surface": "משלחת",
-      "gloss": "slitun"
+      "gloss": "lausn"
     },
     {
       "surface": "במלחמה",
-      "gloss": "í stríði"
+      "gloss": "í stríðinu"
     },
     {
       "surface": "ולא",
@@ -101,22 +70,22 @@
     },
     {
       "surface": "ימלט",
-      "gloss": "verður flutt"
+      "gloss": "mun frelsa"
     },
     {
       "surface": "רשע",
-      "gloss": "løst"
+      "gloss": "ranglæti"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eiganda sínum"
+      "marks": "eigendur sína"
     },
     {
       "surface": "בעליו",
-      "gloss": "eiganda sínum"
+      "gloss": "eigendur sína"
     }
   ],
-  "timestamp": "2026-10-19T12:31:54.084372076Z",
+  "timestamp": "2026-10-19T14:39:53.663669500Z",
   "model": "glm-5.3"
 }

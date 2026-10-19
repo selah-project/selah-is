@@ -5,58 +5,37 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמרו\/משמרתו\/משמרת",
-      "rationale": "Þrífelld rót שמר — gæta gæslu hans og gæslu — varðveitt með endurtekningu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "אהל מועד",
-      "rationale": "Bókstaflega „tjald fundarins\/ásetnings“; „tjald samkomunnar“ er einnig gott."
-    }
-  ],
-  "translation": "Og þeir skulu gæta gæslu hans og gæslu allrar söfnuðarins frammi fyrir tjaldi fundarins, til að vinna ⟨את⟩ þjónustu Misjkans.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/3\/5-8.1792396397950.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir skulu gæta ⟨את⟩ varðhalds hans og ⟨את⟩ varðhald alls safnaðarins frammi fyrir tjaldfundatjaldinu, til að inna ⟨את⟩ hagmaði Misjkanins.",
   "tokens": [
     {
       "surface": "ושמרו",
-      "gloss": "skulu gæta"
+      "gloss": "Og þeir skulu gæta"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gæslu hans"
+      "marks": "varðhalds hans"
     },
     {
       "surface": "משמרתו",
-      "gloss": "gæslu hans"
+      "gloss": "varðhalds hans"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "gæslu allrar söfnuðarins"
+      "gloss": "og ⟨את⟩",
+      "marks": "varðhald alls safnaðarins"
     },
     {
       "surface": "משמרת",
-      "gloss": "gæslu"
+      "gloss": "varðhald"
     },
     {
       "surface": "כל",
-      "gloss": "allrar"
+      "gloss": "alls"
     },
     {
       "surface": "העדה",
-      "gloss": "söfnuðarins"
+      "gloss": "safnaðarins"
     },
     {
       "surface": "לפני",
@@ -64,30 +43,30 @@
     },
     {
       "surface": "אהל",
-      "gloss": "tjaldi"
+      "gloss": "tjaldfundatjaldinu"
     },
     {
       "surface": "מועד",
-      "gloss": "fundar"
+      "gloss": "tjaldfundatjaldinu"
     },
     {
       "surface": "לעבד",
-      "gloss": "til að vinna"
+      "gloss": "til að inna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þjónustu Misjkans"
+      "marks": "hagmaði Misjkanins"
     },
     {
       "surface": "עבדת",
-      "gloss": "þjónustu"
+      "gloss": "hagmaði"
     },
     {
       "surface": "המשכן",
-      "gloss": "Misjkans"
+      "gloss": "Misjkanins"
     }
   ],
-  "timestamp": "2026-10-19T07:53:17.951946024Z",
+  "timestamp": "2026-10-19T14:56:15.364564703Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,20 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "ארגז",
-      "rationale": "'kista' (argaz) kemur aðeins fyrir hér í Tanakh."
-    },
-    {
-      "kind": "elision",
-      "subject": "והלך",
-      "rationale": "'og hún fór' — framsöguleg framtíð; 'látið hana fara' gerir vilja Filistía að ráðandi, hebreskan lætur arkinn ganga sjálf."
-    }
-  ],
-  "translation": "Og takið ⟨את⟩ ark Jahve og setjið hana á vögnuna, og ⟨את⟩ gullmunina sem þér gangið honum að sektargjöf setjið í kistu við hlið hennar, og sendið hana burt og látið hana fara.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "eae2bdd19ec772dc1ec49484de4c269d53b22b6ef5e5e6cd30dd0435cb4116c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/6\/5-8.1792400325750.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þér skuluð taka ⟨את⟩ örkina Jahve og setja hana á vöguna, og ⟨את⟩ gullílátin, þau er þér endurgreiðið honum sem sektargjöf, skuluð þér setja í kistuna við hlið hennar, og sendið hana á brott, og hún skal fara.",
   "tokens": [
     {
       "surface": "ולקחתם",
-      "gloss": "og takið"
+      "gloss": "Og þér skuluð taka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ark Jahve"
+      "marks": "örkina"
     },
     {
       "surface": "ארון",
-      "gloss": "ark"
+      "gloss": "örkina"
     },
     {
       "surface": "יהוה",
@@ -47,12 +26,12 @@
     },
     {
       "surface": "ונתתם",
-      "gloss": "og setjið"
+      "gloss": "og setja"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "hana"
+      "gloss": "⟨את⟩ hana",
+      "marks": "á vöguna"
     },
     {
       "surface": "אל",
@@ -60,28 +39,28 @@
     },
     {
       "surface": "העגלה",
-      "gloss": "vögnuna"
+      "gloss": "vöguna"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "gullmunina"
+      "gloss": "⟨את⟩",
+      "marks": "gullílátin"
     },
     {
       "surface": "כלי",
-      "gloss": "munina"
+      "gloss": "ílátin"
     },
     {
       "surface": "הזהב",
-      "gloss": "gull"
+      "gloss": "gull-"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "þau er"
     },
     {
       "surface": "השבתם",
-      "gloss": "þér gangið"
+      "gloss": "þér endurgreiðið"
     },
     {
       "surface": "לו",
@@ -89,15 +68,15 @@
     },
     {
       "surface": "אשם",
-      "gloss": "að sektargjöf"
+      "gloss": "sektargjöf"
     },
     {
       "surface": "תשימו",
-      "gloss": "setjið"
+      "gloss": "skuluð þér setja"
     },
     {
       "surface": "בארגז",
-      "gloss": "í kistu"
+      "gloss": "í kistuna"
     },
     {
       "surface": "מצדו",
@@ -109,14 +88,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "hana"
+      "gloss": "⟨את⟩ hana",
+      "marks": "á brott"
     },
     {
       "surface": "והלך",
-      "gloss": "og látið hana fara"
+      "gloss": "og hún skal fara"
     }
   ],
-  "timestamp": "2026-10-19T08:58:45.752277667Z",
+  "timestamp": "2026-10-19T14:33:44.407672911Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "malachi",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "tsedek",
-      "rationale": "מישור er 'sléttlæti, beina veginum' — 'réttlæti' er nálgun"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתי",
-      "rationale": "אתי er forsetningin 'með', ekki marki ⟨את⟩ (H854), og bera grys­ti ekki"
-    }
-  ],
-  "translation": "Tóra sannleika var í munni hans, og óréttlæti fannst ekki á vörum hans; í sátt og í réttlæti gekk hann ⟨⟨את⟩ með⟩ mér, og marga hjálpaði hann að snúa frá illsku.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "1957617f5cc802cd5a36ff3b4d3acfc5a6b91f3bc8668bdb1274c3ace15128d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/malachi\/2\/5-8.1792409119968.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tóra sannleikans var í munni hans, og óréttlæti fannst ekki á vörum hans; í friði og réttvísi gekk hann með ⟨את⟩-mér, og marga huggedi hann frá ranglæti.",
   "tokens": [
     {
       "surface": "תורת",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אמת",
-      "gloss": "sannleika"
+      "gloss": "sannleikans"
     },
     {
       "surface": "היתה",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "בשלום",
-      "gloss": "í sátt"
+      "gloss": "í friði"
     },
     {
       "surface": "ובמישור",
-      "gloss": "og í réttlæti"
+      "gloss": "og í réttvísi"
     },
     {
       "surface": "הלך",
@@ -74,7 +53,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ með"
+      "gloss": "með ⟨את⟩",
+      "marks": "mér"
     },
     {
       "surface": "ורבים",
@@ -82,13 +62,13 @@
     },
     {
       "surface": "השיב",
-      "gloss": "hjálpaði að snúa"
+      "gloss": "huggedi hann"
     },
     {
       "surface": "מעון",
-      "gloss": "frá illsku"
+      "gloss": "frá ranglæti"
     }
   ],
-  "timestamp": "2026-10-19T11:25:19.969075650Z",
+  "timestamp": "2026-10-19T14:54:49.241060028Z",
   "model": "glm-5.3"
 }

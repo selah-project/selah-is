@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "öðrum guðum",
-      "rationale": "„Aðrir guðir“ — hebreskan notar Elóhím um alla guði; Elóhím er haft um Jahve en guðir með litlum staf um þjóðanna guði."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אחרי \/ אחרים",
-      "rationale": "Endurtekning á rót אחר: „gengu eftir (aḥerí) öðrum (aḥerím) guðum“ — orðaleikur sem hélst að hluta í íslensku með „eftir\/öðrum“."
-    }
-  ],
-  "translation": "Og þeir yfirgáfu ⟨את⟩ Jahve, Elóhím feðra þeirra, sá er leiddi þá ⟨את⟩ út úr landi Mitsrajím, og gengu eftir öðrum guðum, af guðum þjóðanna sem í kringum þá voru, og lautu fyrir þeim, og ögruðu Jahve.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "75e02dcdbb430d8c4d2e9f22d8d535ab897b6bf23b6bd1ccc9c282f3864efbf7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/2\/9-12.1792399420463.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir yfirgáfu ⟨את⟩ Jahve, Elóhím feðra sinna, sá er leiddi þá út úr landi Mitsrajím, og gengu til handa öðrum guðum, guðum þjóðanna í kringum þá, og bágu fyrir þá, og reistu ⟨את⟩ Jahve til reiði.",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "gloss": "Og þeir yfirgáfu"
+      "gloss": "yfirgáfu"
     },
     {
       "surface": "את",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "אבותם",
-      "gloss": "feðra þeirra"
+      "gloss": "feðra sinna"
     },
     {
       "surface": "המוציא",
@@ -55,12 +34,11 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "þá"
+      "gloss": "⟨את⟩ þá"
     },
     {
       "surface": "מארץ",
-      "gloss": "úr landi"
+      "gloss": "út úr landi"
     },
     {
       "surface": "מצרים",
@@ -68,11 +46,11 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "og gengu"
+      "gloss": "gengu"
     },
     {
       "surface": "אחרי",
-      "gloss": "eftir"
+      "gloss": "til handa"
     },
     {
       "surface": "אלהים",
@@ -84,7 +62,7 @@
     },
     {
       "surface": "מאלהי",
-      "gloss": "af guðum"
+      "gloss": "guðum"
     },
     {
       "surface": "העמים",
@@ -92,23 +70,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "er"
     },
     {
       "surface": "סביבותיהם",
-      "gloss": "í kringum þá voru"
+      "gloss": "í kringum þá"
     },
     {
       "surface": "וישתחוו",
-      "gloss": "og lautu fyrir"
+      "gloss": "bágu fyrir"
     },
     {
       "surface": "להם",
-      "gloss": "þeim"
+      "gloss": "þá"
     },
     {
       "surface": "ויכעסו",
-      "gloss": "og ögruðu"
+      "gloss": "reistu til reiði"
     },
     {
       "surface": "את",
@@ -120,6 +98,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T08:43:40.465184875Z",
+  "timestamp": "2026-10-19T14:52:34.290239949Z",
   "model": "glm-5.3"
 }

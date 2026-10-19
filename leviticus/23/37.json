@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אתם er aleph-tav frumform með samstöðuendingu; varðveitt sem merki."
-    },
-    {
-      "kind": "substitution",
-      "subject": "דבר יום ביומו",
-      "rationale": "Bókstaflega 'orð dags, á degi hans' — átt við fórn hvers dags á sínum degi."
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Versið telur fórnir dags á dag — kerfisbundin upptalning hátíðarhalda."
-    }
-  ],
-  "translation": "Þetta eru ásetartímar Jahve, sem þér skuluð útkalla ⟨sem⟩ heilagar samkallanir, til að færa nálægt eldfórn Jahve, brennifórn og minkha, slátur og drykkjafórnir, hverja á degi hennar:",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "fff561ee11a582f0c6fd2992dbed47a6f6fcfa90a18fcdeda042eecd3d8d835e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/23\/37-40.1792396216996.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þetta eru ásetningartímar Jahve, sem þér skuluð boða ⟨את⟩ þeim sem helga samkoma, til að færa elsfórn Jahve, brennifórn og minkha, slátrun og drykkjafórnir — málefni hvers dags á degi hans:",
   "tokens": [
     {
       "surface": "אלה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "מועדי",
-      "gloss": "eru ásetartímar"
+      "gloss": "ásetningartímar"
     },
     {
       "surface": "יהוה",
@@ -51,28 +25,28 @@
     },
     {
       "surface": "תקראו",
-      "gloss": "skuluð þér útkalla"
+      "gloss": "þér skuluð boða"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "heilagar samkallanir"
+      "marks": "helga samkoma"
     },
     {
       "surface": "מקראי",
-      "gloss": "samkallanir"
+      "gloss": "helga samkoma"
     },
     {
       "surface": "קדש",
-      "gloss": "heilagar"
+      "gloss": "heilagleiki"
     },
     {
       "surface": "להקריב",
-      "gloss": "til að færa nálægt"
+      "gloss": "til að færa"
     },
     {
       "surface": "אשה",
-      "gloss": "eldfórn"
+      "gloss": "elsfórn"
     },
     {
       "surface": "ליהוה",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "זבח",
-      "gloss": "slátur"
+      "gloss": "slátrun"
     },
     {
       "surface": "ונסכים",
@@ -96,17 +70,17 @@
     },
     {
       "surface": "דבר",
-      "gloss": "hverja"
+      "gloss": "málefni"
     },
     {
       "surface": "יום",
-      "gloss": "á degi"
+      "gloss": "dags"
     },
     {
       "surface": "ביומו",
-      "gloss": "degis hennar"
+      "gloss": "á degi hans"
     }
   ],
-  "timestamp": "2026-10-19T07:50:16.997575676Z",
+  "timestamp": "2026-10-19T14:54:09.378211828Z",
   "model": "glm-5.3"
 }

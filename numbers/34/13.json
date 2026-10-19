@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "Seinni את-markið vísar aftur til landins; borið fram sem ⟨את⟩ með merkinu 'það'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Skipting lands með hlutkesti til níu og hálfs kynþáttar — talning arfs"
-    }
-  ],
-  "translation": "Og Mósje bauð sonum Ísraels að segja: Þetta er landið sem þér skuluð erfa ⟨את⟩ það með hlutkesti, það sem Jahve bauð að gefa níu kynþáttum og hálfu kynþættinum.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "830569e4aaacb35d5c969e1e19d1a6c3976e2862d8517dea517f7381f7e05a07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/34\/13-16.1792397442558.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje bauð ⟨את⟩ sonum Ísraels og sagði: Þetta er landið sem þér skuluð öðlast að arfi ⟨את⟩ þess, hverju með hlutkesti, það er sem Jahve hefur boðið að gefa níu kynkvíslum og hálfu kynkvíslinni.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "og bauð"
+      "gloss": "Og Mósje bauð"
     },
     {
       "surface": "משה",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sonum"
+      "marks": "sonum Ísraels"
     },
     {
       "surface": "בני",
@@ -51,15 +30,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "að segja"
+      "gloss": "og sagði"
     },
     {
       "surface": "זאת",
-      "gloss": "þetta"
+      "gloss": "Þetta"
     },
     {
       "surface": "הארץ",
-      "gloss": "landið"
+      "gloss": "er landið"
     },
     {
       "surface": "אשר",
@@ -67,12 +46,12 @@
     },
     {
       "surface": "תתנחלו",
-      "gloss": "skuluð þér erfa"
+      "gloss": "þér skuluð öðlast að arfi"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "hverju með hlutkesti"
     },
     {
       "surface": "בגורל",
@@ -80,11 +59,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "það sem"
+      "gloss": "það er sem"
     },
     {
       "surface": "צוה",
-      "gloss": "bauð"
+      "gloss": "hefur boðið"
     },
     {
       "surface": "יהוה",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "המטות",
-      "gloss": "kynþáttum"
+      "gloss": "kynkvíslum"
     },
     {
       "surface": "וחצי",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "המטה",
-      "gloss": "kynþættinum"
+      "gloss": "kynkvíslinni"
     }
   ],
-  "timestamp": "2026-10-19T08:10:42.559023252Z",
+  "timestamp": "2026-10-19T14:56:46.599014371Z",
   "model": "glm-5.3"
 }

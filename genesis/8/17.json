@@ -5,54 +5,24 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "הרמש הרמש",
-      "rationale": "Sama rót tvísinnum — nafnorð og sögn: „því sem skríður, sem skríður“; endurtekin rót glatarst ekki alveg á íslensku"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ושרצו ופרו ורבו",
-      "rationale": "Þrenning blessunarinnar endarvarpar 1. Mós 1:28 — „berið ávöxt og fjölgið ykkur“"
-    },
-    {
-      "kind": "you",
-      "subject": "til Nóaks",
-      "rationale": "Boðleið beint að Nóaki: skalt þú leiða út"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתך",
-      "rationale": "Hér er את H854 forsetningin „með“, ekki markör beins falls; hún stendur sem ⟨את⟩ með þér"
-    }
-  ],
-  "translation": "Allar lifandi skepnur, hverja sem ⟨את⟩ með þér er, af öllu holdi, í fuglum og í búfénaði og í öllu því sem skríður — sem skríður á jörðina — skalt þú leiða út með þér, og ⟨þau⟩ munu fyllast á jörðinni og bera ávöxt og margfaldast á jörðinni.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/17-20.1792392712045.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Allt ⟨את⟩ lifandi sem er með þér, af öllu kjöti, í fugli og búfénu og í öllu ⟨את⟩ skriðdýrinu sem skríður á jörðinni — leið það út með þér, og það ⟨er⟩ swarmer á jörðinni og ber ávöxt og margfaldast á jörðinni.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "Allar"
+      "gloss": "Allt"
     },
     {
       "surface": "החיה",
-      "gloss": "lifandi skepnur"
+      "gloss": "lifandi"
     },
     {
       "surface": "אשר",
-      "gloss": "hverja sem"
+      "gloss": "sem"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ með þér"
+      "gloss": "⟨את⟩ með þér",
+      "marks": "lifandi"
     },
     {
       "surface": "מכל",
@@ -60,15 +30,15 @@
     },
     {
       "surface": "בשר",
-      "gloss": "holdi"
+      "gloss": "kjöti"
     },
     {
       "surface": "בעוף",
-      "gloss": "í fuglum"
+      "gloss": "í fugli"
     },
     {
       "surface": "ובבהמה",
-      "gloss": "og í búfénaði"
+      "gloss": "og búfénu"
     },
     {
       "surface": "ובכל",
@@ -76,7 +46,7 @@
     },
     {
       "surface": "הרמש",
-      "gloss": "því sem skríður"
+      "gloss": "skriðdýrinu"
     },
     {
       "surface": "הרמש",
@@ -88,19 +58,20 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "jörðina"
+      "gloss": "jörðinni"
     },
     {
       "surface": "הוצא",
-      "gloss": "skalt þú leiða út"
+      "gloss": "leið út"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ með þér"
+      "gloss": "⟨את⟩ með þér",
+      "marks": "það"
     },
     {
       "surface": "ושרצו",
-      "gloss": "og munu fyllast"
+      "gloss": "og swarmer"
     },
     {
       "surface": "בארץ",
@@ -108,7 +79,7 @@
     },
     {
       "surface": "ופרו",
-      "gloss": "og bera ávöxt"
+      "gloss": "og ber ávöxt"
     },
     {
       "surface": "ורבו",
@@ -123,6 +94,6 @@
       "gloss": "jörðinni"
     }
   ],
-  "timestamp": "2026-10-19T06:51:52.045743436Z",
+  "timestamp": "2026-10-19T15:28:34.062111004Z",
   "model": "glm-5.3"
 }

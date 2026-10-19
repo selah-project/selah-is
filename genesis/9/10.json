@@ -5,40 +5,20 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "andvérp",
-      "rationale": "נפש er andardráttur\/lífskraftur, ekki 'sál' í hefðbundnum skilning"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חית הארץ",
-      "rationale": "'dýr jarðarinnar' endurtekið tvisvar — innihaldsmunstur versins"
-    }
-  ],
-  "translation": "Og við ⟨את⟩ hvert lifandi andvérp sem með ykkur er, í fuglinum, í búfénu og í hvert dýr jarðarinnar með ykkur, af öllum þeim sem fara út örkinni, til hvers dýrs jarðarinnar.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/9\/9-12.1792392695509.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨með⟩ ⟨את⟩ allri lifandi sálu sem er hjá yður, með fuglinum, með búfénu og með öllu dýri jarðarinnar hjá yður, úr öllum þeim er fara út ór örkinni, til alls dýrs jarðarinnar.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Og við ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "allri lifandi sálu"
     },
     {
       "surface": "כל",
-      "gloss": "hvert"
+      "gloss": "alli"
     },
     {
       "surface": "נפש",
-      "gloss": "andvérp"
+      "gloss": "sálu"
     },
     {
       "surface": "החיה",
@@ -50,23 +30,23 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ með ykkur"
+      "gloss": "⟨את⟩ hjá yður"
     },
     {
       "surface": "בעוף",
-      "gloss": "í fuglinum"
+      "gloss": "með fuglinum"
     },
     {
       "surface": "בבהמה",
-      "gloss": "í búfénu"
+      "gloss": "með búfénu"
     },
     {
       "surface": "ובכל",
-      "gloss": "og í hvert"
+      "gloss": "og með öllu"
     },
     {
       "surface": "חית",
-      "gloss": "dýr"
+      "gloss": "dýri"
     },
     {
       "surface": "הארץ",
@@ -74,15 +54,15 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ með ykkur"
+      "gloss": "⟨את⟩ hjá yður"
     },
     {
       "surface": "מכל",
-      "gloss": "af öllum"
+      "gloss": "úr öllum"
     },
     {
       "surface": "יצאי",
-      "gloss": "þeim sem fara út"
+      "gloss": "þeim er fara út"
     },
     {
       "surface": "התבה",
@@ -90,7 +70,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "til hvers"
+      "gloss": "til alls"
     },
     {
       "surface": "חית",
@@ -101,6 +81,6 @@
       "gloss": "jarðarinnar"
     }
   ],
-  "timestamp": "2026-10-19T06:51:35.510108511Z",
+  "timestamp": "2026-10-19T14:47:24.738141397Z",
   "model": "glm-5.3"
 }

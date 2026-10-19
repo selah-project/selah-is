@@ -5,50 +5,19 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "השליש",
-      "rationale": "orðið merkir bókstaflega „hinn þriðji“ (t-vísitala); „höfuðsmaður“ er hlutverk, ekki mynd orðsins"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "„ef“ er bætt við — hebreskan segir „Sjá, Jahve gjörir glugga…“ og spurningin ber óvirða efa höfuðsmannsins"
-    },
-    {
-      "kind": "crux",
-      "subject": "gluggar á himnunum",
-      "rationale": "ארבות — ristgluggar; myndlíking um fæðu sem fellur ofan af himni, þekkt í 近austurlenskum textum"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨það⟩",
-      "rationale": "fornafnið er ekki í hebresku textanum en þarf til að gera hlutinn skýran"
-    }
-  ],
-  "translation": "Og sá höfuðsmaður er konungurinn studdist við hönd hans svaraði manninum Elóhím og sagði: Sjá, ef Jahve gjörir glugga á himnunum, má þetta orð vera? Og hann sagði: Sjá, með augum þínum munt þú sjá ⟨það⟩, en þaðan skalt þú ⟨það⟩ ekki eta.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "149c3ed007a4994889e77ab11013f3c835bac35071e6b5510e4e06c3a94a4db2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/7\/1-4.1792402990748.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þriðjungsmaðurinn sem konungurinn studdist við á hendi hans svaraði ⟨את⟩ manni Elóhím og sagði: Sjá, ef Jahve gjörir glugga á himnunum, má þetta verða? Og hann sagði: Sjá, þú munt sjá ⟨það⟩ með augum þínum, en þaðan af muntu ekki eta.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "svaraði"
+      "gloss": "og svaraði"
     },
     {
       "surface": "השליש",
-      "gloss": "sá höfuðsmaður"
+      "gloss": "þriðjungsmaðurinn"
     },
     {
       "surface": "אשר",
-      "gloss": "er"
+      "gloss": "sem"
     },
     {
       "surface": "למלך",
@@ -60,16 +29,16 @@
     },
     {
       "surface": "על",
-      "gloss": "við"
+      "gloss": "á"
     },
     {
       "surface": "ידו",
-      "gloss": "hönd hans"
+      "gloss": "hendi hans"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "manninum Elóhím"
+      "marks": "manni Elóhím"
     },
     {
       "surface": "איש",
@@ -105,19 +74,19 @@
     },
     {
       "surface": "היהיה",
-      "gloss": "má vera"
+      "gloss": "má verða"
     },
     {
       "surface": "הדבר",
-      "gloss": "þetta orð"
-    },
-    {
-      "surface": "הזה",
       "gloss": "þetta"
     },
     {
+      "surface": "הזה",
+      "gloss": "orð"
+    },
+    {
       "surface": "ויאמר",
-      "gloss": "og sagði"
+      "gloss": "og hann sagði"
     },
     {
       "surface": "הנכה",
@@ -125,7 +94,7 @@
     },
     {
       "surface": "ראה",
-      "gloss": "sjá"
+      "gloss": "þú munt sjá"
     },
     {
       "surface": "בעיניך",
@@ -133,7 +102,7 @@
     },
     {
       "surface": "ומשם",
-      "gloss": "þaðan"
+      "gloss": "þaðan af"
     },
     {
       "surface": "לא",
@@ -141,9 +110,9 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "eta"
+      "gloss": "muntu eta"
     }
   ],
-  "timestamp": "2026-10-19T09:43:10.749484939Z",
+  "timestamp": "2026-10-19T14:36:03.489650783Z",
   "model": "glm-5.3"
 }

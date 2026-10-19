@@ -5,44 +5,23 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Copula 'er' skotuð inn; hebreskan segir bara 'og þetta boðorðið'"
-    },
-    {
-      "kind": "addition",
-      "subject": "þær",
-      "rationale": "Fornafn bætt við til að gera hlut á-netrar sýnilegan"
-    }
-  ],
-  "translation": "Og þetta er boðorðið, fyrirmælin og dórnir, sem Jahve Elóhím ykkar hefur boðið að kenna ykkur, að gera ⟨þær⟩ í landinu sem þið eruð að fara yfir þangað til að taka það í eign.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/1-4.1792397721803.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þetta er boðið, settningarnar og dómar-nir, sem Jahve, Elóhím yðar, bauð að kenna ⟨את⟩ yður, til að gera ⟨þau⟩ í landinu sem þér eruð að fara yfir þangað, að erfða það.",
   "tokens": [
     {
       "surface": "וזאת",
-      "gloss": "Og þetta er"
+      "gloss": "Og þetta"
     },
     {
       "surface": "המצוה",
-      "gloss": "boðorðið"
+      "gloss": "er boðið"
     },
     {
       "surface": "החקים",
-      "gloss": "fyrirmælin"
+      "gloss": "settningarnar"
     },
     {
       "surface": "והמשפטים",
-      "gloss": "og dórnir"
+      "gloss": "og dómar-nir"
     },
     {
       "surface": "אשר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "hefur boðið"
+      "gloss": "bauð"
     },
     {
       "surface": "יהוה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elóhím ykkar"
+      "gloss": "Elóhím yðar"
     },
     {
       "surface": "ללמד",
@@ -67,11 +46,11 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "marks": "yður"
     },
     {
       "surface": "לעשות",
-      "gloss": "að gera"
+      "gloss": "til að gera"
     },
     {
       "surface": "בארץ",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "þið"
+      "gloss": "þér"
     },
     {
       "surface": "עברים",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "til að taka það í eign"
+      "gloss": "að erfða það"
     }
   ],
-  "timestamp": "2026-10-19T08:15:21.804157811Z",
+  "timestamp": "2026-10-19T14:40:07.992842893Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "אהל מועד er gefið sem „tjaldbúð fundarinnar“; Misjkan-heitið er ekki í textanum heldur אהל"
-    },
-    {
-      "kind": "crux",
-      "subject": "וזרקו",
-      "rationale": "זרק: „syna\/blöðra“ (KJV, ASV) eða „þyrla\/henda blóðinu gegn“ (JPS); íslenska notar „syna“"
-    }
-  ],
-  "translation": "Og hann skal leggja hönd sína á höfuð þess og slátra því fyrir framan tjaldbúðina — ⟨Misjkan⟩ fundarinnar — og syna synir Ahrons ⟨את⟩ blóði þess á altarið alls kringum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "0b22d73d42bb62a6533c6beb29f5a3d2c6e69eff472b978ff726a96075e6c572",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/3\/13-14.1792416297099.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann skal leggja ⟨את⟩ hönd sína á höfuð þess og slátra því ⟨אתו⟩ fyrir framan tjaldbúð fundarinnar, og synir Aharons skulu stöðva ⟨את⟩ blóð þess á altarinu hringinn kringum.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "og hann skal leggja"
+      "gloss": "Og hann skal leggja"
     },
     {
       "surface": "את",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "ושחט",
-      "gloss": "og slátra"
+      "gloss": "og slátra því"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ það",
-      "marks": "því"
+      "gloss": "⟨אתו⟩",
+      "marks": "því (geitinnar)"
     },
     {
       "surface": "לפני",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "tjaldbúðina — ⟨Misjkan⟩"
+      "gloss": "tjaldbúð"
     },
     {
       "surface": "מועד",
@@ -72,7 +51,7 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "og syna"
+      "gloss": "og skulu stöðva"
     },
     {
       "surface": "בני",
@@ -80,16 +59,16 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Ahrons"
+      "gloss": "Aharons"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "blóði þess"
+      "marks": "blóð þess"
     },
     {
       "surface": "דמו",
-      "gloss": "blóði þess"
+      "gloss": "blóð þess"
     },
     {
       "surface": "על",
@@ -97,13 +76,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "altarið"
+      "gloss": "altarinu"
     },
     {
       "surface": "סביב",
-      "gloss": "alls kringum"
+      "gloss": "hringinn kringum"
     }
   ],
-  "timestamp": "2026-10-19T13:24:57.100382486Z",
+  "timestamp": "2026-10-19T14:54:02.351190189Z",
   "model": "glm-5.3"
 }

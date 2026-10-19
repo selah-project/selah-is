@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Ísraelsmenn",
-      "rationale": "Móse boðaður að miðla ávarpi Jahve til Ísraelsmanna"
-    },
-    {
-      "kind": "crux",
-      "subject": "גאל",
-      "rationale": "orðið merkir frelsun í tengslum skyldmenni — „leysa“ heldur myndinni en „leysa út“ væri líka mögulegt"
-    }
-  ],
-  "translation": "Þess vegna skalt þú segja Ísraelsmönnum: Ég er Jahve, og ég mun leiða ykkur út undan byrðum Mitsrajím og frelsa ykkur úr ánauð þeirra, og leysa ykkur með útréttu armi og með miklum dórum.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/6\/5-8.1792394202795.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þess vegna skalt þú segja sonu Ísraels: Ég er Jahve, og ég mun leiða ⟨את⟩ ykkur út undan byrðum Mitsrajím, og ég mun frelsa ⟨את⟩ ykkur úr ánauð þeirra, og ég mun leysa ⟨את⟩ ykkur með útstrjált armlegg og með dónum mögnuðum.",
   "tokens": [
     {
       "surface": "לכן",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "לבני",
-      "gloss": "mönnum"
+      "gloss": "sonu"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísraels-"
+      "gloss": "Ísraels"
     },
     {
       "surface": "אני",
@@ -58,7 +37,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "מתחת",
@@ -74,11 +54,12 @@
     },
     {
       "surface": "והצלתי",
-      "gloss": "og frelsa"
+      "gloss": "og ég mun frelsa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "מעבדתם",
@@ -86,29 +67,30 @@
     },
     {
       "surface": "וגאלתי",
-      "gloss": "og leysa"
+      "gloss": "og ég mun leysa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "בזרוע",
-      "gloss": "með armi"
+      "gloss": "með armleggi"
     },
     {
       "surface": "נטויה",
-      "gloss": "útréttu"
+      "gloss": "útstrjált"
     },
     {
       "surface": "ובשפטים",
-      "gloss": "og með dórum"
+      "gloss": "og með dónum"
     },
     {
       "surface": "גדלים",
-      "gloss": "miklum"
+      "gloss": "mögnuðum"
     }
   ],
-  "timestamp": "2026-10-19T07:16:42.797517277Z",
+  "timestamp": "2026-10-19T14:42:33.566385935Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 39,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אֹתָהּ og אֹתָם eru ávísismerki með persónufornöfn („hana“, „þá“) — varðveitt sem ⟨את⟩ með fornafni"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "Endurtekningin „þannig höfðu þeir gjört“ endar mundin í עשו…כן…עשו — spegil um framkvæmd boðorðsins"
-    }
-  ],
-  "translation": "Og Mósje sá ⟨את⟩ allt verkið, og sjá, þeir höfðu gjört hana ⟨את⟩ eins og Jahve hafði boðið — þannig höfðu þeir gjört — og Mósje blessaði þá.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "696a491457e03c16faa0801637556b0304715a12c59ddc983248e348d290098a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/39\/41-43.1792395312642.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje sá ⟨את⟩ allt verkið, og sjá, þeir höfðu gert ⟨את⟩ það eins og Jahve hafði boðið — svo gjörðu þeir — og Mósje blessaði ⟨את⟩ þá.",
   "tokens": [
     {
       "surface": "וירא",
-      "gloss": "Og sá"
+      "gloss": "sá"
     },
     {
       "surface": "משה",
@@ -55,12 +34,12 @@
     },
     {
       "surface": "עשו",
-      "gloss": "þeir höfðu gjört"
+      "gloss": "höfðu þeir gert"
     },
     {
       "surface": "אתה",
-      "gloss": "hana ⟨את⟩",
-      "marks": "verkið"
+      "gloss": "⟨את⟩",
+      "marks": "það"
     },
     {
       "surface": "כאשר",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "þannig"
+      "gloss": "svo"
     },
     {
       "surface": "עשו",
-      "gloss": "höfðu þeir gjört"
+      "gloss": "gjörðu þeir"
     },
     {
       "surface": "ויברך",
@@ -88,14 +67,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "þá ⟨את⟩",
-      "marks": "þeir (Ísraelsmennirnir)"
+      "gloss": "⟨את⟩",
+      "marks": "þá"
     },
     {
       "surface": "משה",
       "gloss": "Mósje"
     }
   ],
-  "timestamp": "2026-10-19T07:35:12.643884345Z",
+  "timestamp": "2026-10-19T14:42:37.679937975Z",
   "model": "glm-5.3"
 }

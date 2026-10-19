@@ -5,33 +5,7 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 49,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "עירה ולשרקה בני אתנו",
-      "rationale": "Orðröð gloppótt: 'folaldi-vínviðar og ungleyu-vals-vínviðar-sinnar' — hvort folaldi eða eyja er bundið er rísið; lesmál hér skiptir tveimur dýrum á milli tveggja víða"
-    },
-    {
-      "kind": "hapax",
-      "subject": "סותה",
-      "rationale": "סות kemur aðeins fyrir hér í Tanakh — fatnaður, hulstruð"
-    },
-    {
-      "kind": "substitution",
-      "subject": "blóð þrúna",
-      "rationale": "'Blóð þrúna' er vín — myndlýsing, ekki raunverulegt blóð"
-    }
-  ],
-  "translation": "Bindur hann folaldina við vínviðinn, og ungleyuna við valbaru-vínviðinn; þvær hann föt sín í víni og í blóði þrúna fatnað sinn.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/49\/9-12.1792394006071.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hann bindur folaldið sitt við vínviðinn og ungeykinn við úrvalsvínviðinn; hann þvær klæði sín í víni og yfirhöfnina í blóði þrúgna.",
   "tokens": [
     {
       "surface": "אסרי",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "עירה",
-      "gloss": "folaldina"
+      "gloss": "folaldið"
     },
     {
       "surface": "ולשרקה",
-      "gloss": "og við valbaru-vínviðinn"
+      "gloss": "og við úrvalsvínviðinn"
     },
     {
       "surface": "בני",
-      "gloss": "ungleyuna"
+      "gloss": "ung-"
     },
     {
       "surface": "אתנו",
-      "gloss": ""
+      "gloss": "eykis hans"
     },
     {
       "surface": "כבס",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "לבשו",
-      "gloss": "föt sín"
+      "gloss": "klæði sín"
     },
     {
       "surface": "ובדם",
@@ -75,13 +49,13 @@
     },
     {
       "surface": "ענבים",
-      "gloss": "þrúna"
+      "gloss": "þrúgna"
     },
     {
       "surface": "סותה",
-      "gloss": "fatnað sinn"
+      "gloss": "yfirhöfnina"
     }
   ],
-  "timestamp": "2026-10-19T07:13:26.073407257Z",
+  "timestamp": "2026-10-19T14:47:33.368922609Z",
   "model": "glm-5.3"
 }

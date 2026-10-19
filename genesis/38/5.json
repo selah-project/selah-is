@@ -5,27 +5,11 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אתו er beint hlutarmerki fram undir 'hann' og birt sem ⟨את⟩."
-    }
-  ],
-  "translation": "Og hún jók enn við og gat son, og hún kallaði ⟨את⟩ nafn hans Sjela, og hann var í Kesív þegar hún fæddi hann.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/38\/5-8.1792393613938.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hún hélt áfram og ól son, og kallaði ⟨את⟩ nafn hans Sjela; og ⟨hann⟩ var í Ketsív þegar hún ól ⟨את⟩ hann.",
   "tokens": [
     {
       "surface": "ותסף",
-      "gloss": "jók enn við"
+      "gloss": "hélt hún áfram"
     },
     {
       "surface": "עוד",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "gat"
+      "gloss": "ól"
     },
     {
       "surface": "בן",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "ותקרא",
-      "gloss": "kallaði"
+      "gloss": "og kallaði"
     },
     {
       "surface": "את",
@@ -58,15 +42,15 @@
     },
     {
       "surface": "והיה",
-      "gloss": "var"
+      "gloss": "og var ⟨hann⟩"
     },
     {
       "surface": "בכזיב",
-      "gloss": "í Kesív"
+      "gloss": "í Ketsív"
     },
     {
       "surface": "בלדתה",
-      "gloss": "þegar hún fæddi"
+      "gloss": "þegar hún ól"
     },
     {
       "surface": "אתו",
@@ -74,6 +58,6 @@
       "marks": "hann"
     }
   ],
-  "timestamp": "2026-10-19T07:06:53.939552175Z",
+  "timestamp": "2026-10-19T14:45:29.261717952Z",
   "model": "glm-5.3"
 }

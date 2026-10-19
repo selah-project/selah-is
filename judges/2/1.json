@@ -5,37 +5,11 @@
   "book": "judges",
   "lang": "is",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתכם",
-      "rationale": "síðasta אִתְּכֶם er forsetningin 'með ykkur' (H854), ekki markkeri beins hugtaks; ritað ⟨með⟩"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הבכים",
-      "rationale": "nafnið Bókím ('grátendur') leikur við ויבכו 'og þeir gréto' í v. 4"
-    },
-    {
-      "kind": "you",
-      "subject": "til Ísraels",
-      "rationale": "engillinn talar beint til Ísraels í öllu málflutningnum"
-    }
-  ],
-  "translation": "Og engill Jahve steig upp frá Gilgal til Bókím og sagði: Ég létt ykkur upp úr Mitsrajím og ég flutti ykkur inn í landið sem ég sór föður ykkar, og ég sagði: Ég mun ekki brjóta sáttmála minn ⟨את⟩ ⟨með⟩ ykkur að eilífu.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/2\/1-4.1792399487066.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og engill Jahve fór upp frá Gilgal til Bókím og sagði: Ég leiddi ⟨את⟩ yður upp úr Mitsrajím og brá ⟨את⟩ yður inn í landið sem ég sór feðrum yðar, og ég sagði: Ég skal aldrei brjóta sáttmála minn ⟨את⟩ með yður, að eilífu.",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "og steig upp"
+      "gloss": "fór upp"
     },
     {
       "surface": "מלאך",
@@ -67,25 +41,25 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "ég létt upp"
+      "gloss": "leiddi upp"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur",
-      "marks": "ykkur (út úr Mitsrajím)"
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður úr Mitsrajím"
     },
     {
       "surface": "ממצרים",
-      "gloss": "út úr Mitsrajím"
+      "gloss": "úr Mitsrajím"
     },
     {
-      "surface": "ואביא",
-      "gloss": "og ég flutti"
+      "surface": "ויביא",
+      "gloss": "og brá"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur",
-      "marks": "ykkur (inn í landið)"
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður inn í landið"
     },
     {
       "surface": "אל",
@@ -105,19 +79,19 @@
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "föður ykkar"
+      "gloss": "feðrum yðar"
     },
     {
       "surface": "ואמר",
-      "gloss": "og sagði"
+      "gloss": "og ég sagði"
     },
     {
       "surface": "לא",
-      "gloss": "ekki"
+      "gloss": "aldrei"
     },
     {
       "surface": "אפר",
-      "gloss": "mun ég brjóta"
+      "gloss": "brjóta"
     },
     {
       "surface": "בריתי",
@@ -125,13 +99,13 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ⟨með⟩ ykkur"
+      "gloss": "⟨את⟩ með yður"
     },
     {
       "surface": "לעולם",
       "gloss": "að eilífu"
     }
   ],
-  "timestamp": "2026-10-19T08:44:47.067199814Z",
+  "timestamp": "2026-10-19T14:53:13.599263653Z",
   "model": "glm-5.3"
 }

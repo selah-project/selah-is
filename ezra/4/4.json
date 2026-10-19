@@ -5,36 +5,15 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מרפים ידי",
-      "rationale": "'Að slökva hendur' — hebreskt myndmál um að bæla kjark; hér heldt bókstæð myndinni 'slösuðu höndum'."
-    },
-    {
-      "kind": "crux",
-      "subject": "ומבלהים",
-      "rationale": "Rótin בלה ('að blikka\/lettast') lesin annað hvort 'gerðu máttvana' eða 'skuðuðu\/skelfdu'; 'skelfdu' valið."
-    }
-  ],
-  "translation": "Og fólkið landsins slösuðu höndum fólks Júda og skelfdu það frá því að byggja.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/4\/1-4.1792413911622.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þá gerðist það að fólki landsins slökuðu höndum fólksins í Júda og ógnuðu þeim ⟨את⟩ í að byggja.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og varð"
+      "gloss": "Þá gerðist það"
     },
     {
       "surface": "עם",
-      "gloss": "fólkið"
+      "gloss": "fólki"
     },
     {
       "surface": "הארץ",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מרפים",
-      "gloss": "slösuðu"
+      "gloss": "slökuðu"
     },
     {
       "surface": "ידי",
@@ -50,26 +29,26 @@
     },
     {
       "surface": "עם",
-      "gloss": "fólks"
+      "gloss": "fólksins"
     },
     {
       "surface": "יהודה",
-      "gloss": "Júda"
+      "gloss": "í Júda"
     },
     {
       "surface": "ומבלהים",
-      "gloss": "og skelfdu"
+      "gloss": "og ógnuðu"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "þeim — í að byggja"
     },
     {
       "surface": "לבנות",
-      "gloss": "frá því að byggja"
+      "gloss": "í að byggja"
     }
   ],
-  "timestamp": "2026-10-19T12:45:11.623413Z",
+  "timestamp": "2026-10-19T14:44:13.666233679Z",
   "model": "glm-5.3"
 }

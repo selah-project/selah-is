@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "וכחש בה",
-      "rationale": "Orðrétt 'lygar í því' — 'lætur sem ekki um hann' gefur athæfið en ekki stafgerðina."
-    },
-    {
-      "kind": "elision",
-      "subject": "על שקר",
-      "rationale": "Fyrri על fellur í íslensku; 'sver ósannindi' setur liðinn í eitt orðasamband."
-    }
-  ],
-  "translation": "eða fann tapaðan hlut og lætur sem ekki um hann og sver ósannindi — um eitt hvað af öllu því sem maðurinn gerir til að syndga í því.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/5\/21-24.1792395559523.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eða fann ⟨את⟩ glataðan hlut og lýgur um hann og sver á lygi — um eitt af öllu því sem maðurinn gjörir, svo að hann fari að gjöra synd þar í.",
   "tokens": [
     {
       "surface": "או",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "אבדה",
-      "gloss": "tapaðan hlut"
+      "gloss": "glataðan hlut"
     },
     {
       "surface": "וכחש",
-      "gloss": "og lætur sem ekki"
+      "gloss": "og lýgur"
     },
     {
       "surface": "בה",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "á"
     },
     {
       "surface": "שקר",
-      "gloss": "ósannindi"
+      "gloss": "lygi"
     },
     {
       "surface": "על",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "אחת",
-      "gloss": "eitt hvað"
+      "gloss": "eitt"
     },
     {
       "surface": "מכל",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "gerir"
+      "gloss": "gjörir"
     },
     {
       "surface": "האדם",
@@ -86,13 +65,13 @@
     },
     {
       "surface": "לחטא",
-      "gloss": "til að syndga"
+      "gloss": "til að gjöra synd"
     },
     {
       "surface": "בהנה",
-      "gloss": "í því"
+      "gloss": "þar í"
     }
   ],
-  "timestamp": "2026-10-19T07:39:19.524351978Z",
+  "timestamp": "2026-10-19T14:54:39.622275091Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "isaiah",
   "lang": "is",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "יבצע",
-      "rationale": "Bókstaflega 'brotinn af \/ rænd' — hér 'lokið', um það að ljúka verkverki með afrétti."
-    },
-    {
-      "kind": "crux",
-      "subject": "אפקד",
-      "rationale": "פקד getur verið 'heimsækja (í refsingu)' eða 'fara yfir\/nytsama' — KJ 'punish', YLT 'see concerning'."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenskan þarf 'mun verða' og 'að' þar sem hebreskan hefur einfaldlega והיה כי."
-    }
-  ],
-  "translation": "Og það mun verða, að þegar Adónaí hefur lokið ⟨את⟩ öllu verki sínu á Síonarfjalli og í Jerúsjalajím, mun ég heimsækja ávext hins stórmerka hjarta Assýríukonungs og prýði hæðar augna hans.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/10\/9-12.1792403847274.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og það mun gerast, að þegar Adónaí hefur lokið ⟨את⟩ öllu verki sínu á fjalli Síon og í Jerúsjalajím, mun ég heimsækja ávöxt stórhyggju hjarta konungs Assýr og prýði háséðu augna hans.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Og það mun verða"
+      "gloss": "Og það mun gerast"
     },
     {
       "surface": "כי",
-      "gloss": "að"
+      "gloss": "að þegar"
     },
     {
       "surface": "יבצע",
@@ -56,11 +30,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "öllu"
+      "gloss": "allt"
     },
     {
       "surface": "מעשהו",
-      "gloss": "verki sínu"
+      "gloss": "verk sitt"
     },
     {
       "surface": "בהר",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "ציון",
-      "gloss": "Síonar"
+      "gloss": "Síon"
     },
     {
       "surface": "ובירושלם",
@@ -80,15 +54,15 @@
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "yfir"
     },
     {
       "surface": "פרי",
-      "gloss": "ávext"
+      "gloss": "ávöxt"
     },
     {
       "surface": "גדל",
-      "gloss": "hins stórmerka"
+      "gloss": "stórhyggju"
     },
     {
       "surface": "לבב",
@@ -100,11 +74,11 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Assýríu"
+      "gloss": "Assýr"
     },
     {
       "surface": "ועל",
-      "gloss": "og"
+      "gloss": "og yfir"
     },
     {
       "surface": "תפארת",
@@ -112,13 +86,13 @@
     },
     {
       "surface": "רום",
-      "gloss": "hæðar"
+      "gloss": "háséðu"
     },
     {
       "surface": "עיניו",
       "gloss": "augna hans"
     }
   ],
-  "timestamp": "2026-10-19T09:57:27.275251322Z",
+  "timestamp": "2026-10-19T14:47:13.982118324Z",
   "model": "glm-5.3"
 }

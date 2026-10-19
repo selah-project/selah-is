@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "תירשו\/לרשת",
-      "rationale": "sama rót ירש endurtekin — 'erfa' og 'til að eiga' — endurspeglar áhersluna í hebresku"
-    },
-    {
-      "kind": "idiom",
-      "subject": "land flæðandi af mjólk og hunangi",
-      "rationale": "זבת חלב ודבש 'land þar sem mjólk og hunang flæða' — fastur titill landsins"
-    }
-  ],
-  "translation": "Og ég sagði ykkur: Þér skuluð taka í arf ⟨את⟩ land þeirra, og ég mun gefa ykkur það til að eiga — land flæðandi af mjólk og hunangi; ég er Jahve, Elóhím ykkar, sá er aðskildi ⟨את⟩ ykkur frá þjóðunum.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/20\/21-24.1792396085149.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég sagði ykkur: Þér skuluð taka ⟨את⟩ jörð þeirra í arf, og ég mun gefa ykkur hana til að erfa hana, land sem flæðir af mjólk og hunangi. Ég er Jahve, Elóhím ykkar, sá er ⟨את⟩ ykkur hefr aðskilið frá þjóðunum.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "Þér"
+      "gloss": "þér"
     },
     {
       "surface": "תירשו",
@@ -47,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "land þeirra"
+      "marks": "jörð þeirra"
     },
     {
       "surface": "אדמתם",
-      "gloss": "land þeirra"
+      "gloss": "jörð þeirra"
     },
     {
       "surface": "ואני",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "אתננה",
-      "gloss": "mun gefa"
+      "gloss": "mun gefa hana"
     },
     {
       "surface": "לכם",
@@ -67,12 +46,12 @@
     },
     {
       "surface": "לרשת",
-      "gloss": "til að eiga"
+      "gloss": "til að erfa"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "það"
+      "marks": "hana (landið)"
     },
     {
       "surface": "ארץ",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "flæðandi"
+      "gloss": "sem flæðir"
     },
     {
       "surface": "חלב",
@@ -92,7 +71,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ég"
+      "gloss": "Ég er"
     },
     {
       "surface": "יהוה",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "הבדלתי",
-      "gloss": "aðskildi"
+      "gloss": "hefr aðskilið"
     },
     {
       "surface": "אתכם",
@@ -124,6 +103,6 @@
       "gloss": "þjóðunum"
     }
   ],
-  "timestamp": "2026-10-19T07:48:05.150676226Z",
+  "timestamp": "2026-10-19T14:54:26.107648109Z",
   "model": "glm-5.3"
 }

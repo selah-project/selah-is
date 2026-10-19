@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "með",
-      "rationale": "אתם hér er forsetningin 'með', ekki aleph-tav markmiðið; 'með' er bætt við merkingu en stendur í hebresku orðinu sjálfu."
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "beint til húss Ísraels: 'þeir eru þjóð mín'."
-    }
-  ],
-  "translation": "Og þeir skulu vita að ég er Jahve, Elóhím þeirra, ⟨með⟩ þeim, og þeir eru þjóð mín, hús Ísraels, segir Adónaí Jahve.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "90c6e1b91d0bdf78768a7abc01dced1d94d35a526e78298aa63217f9291f427a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/34\/29-31.1792407577146.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir skulu vita að ég er Jahve, Elóhím þeirra, ⟨með⟩ þeim, og þeir eru fólkið mitt, húss Ísraels, segir Adónaí Jahve.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "og þeir skulu vita"
+      "gloss": "skulu vita"
     },
     {
       "surface": "כי",
@@ -50,8 +29,8 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "þeim"
+      "gloss": "⟨את⟩ með þeim",
+      "marks": "þeim (fólkinu)"
     },
     {
       "surface": "והמה",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "עמי",
-      "gloss": "þjóð mín"
+      "gloss": "fólkið mitt"
     },
     {
       "surface": "בית",
-      "gloss": "hús"
+      "gloss": "húss"
     },
     {
       "surface": "ישראל",
@@ -82,6 +61,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T10:59:37.147505441Z",
+  "timestamp": "2026-10-19T14:43:09.606757022Z",
   "model": "glm-5.3"
 }

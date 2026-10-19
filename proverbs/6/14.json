@@ -5,32 +5,11 @@
   "book": "proverbs",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "חרש",
-      "rationale": "Orðið þýðir 'plóga\/grafa' — myndin er að rækta illu eins og akur"
-    },
-    {
-      "kind": "substitution",
-      "subject": "tíma",
-      "rationale": "FIX: 'tíma' á ö í stað doll ('tíma' stafsett rangt) — á að vera 'tíma'"
-    }
-  ],
-  "translation": "Þverbunga er í hjarta hans, hann gróðursetur illu á alla tímа, ásigur sendir hann frá sér.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "338fb5966275f100afab75125c5f7f6a09d557dced00fefb7507f391693bf6cb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/6\/13-16.1792411224986.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þverræði er í hjarta hans, hann græðir illt á öllum tímum, deilur sendir hann frá sér.",
   "tokens": [
     {
       "surface": "תהפכות",
-      "gloss": "þverbunga"
+      "gloss": "þverræði"
     },
     {
       "surface": "בלבו",
@@ -38,29 +17,29 @@
     },
     {
       "surface": "חרש",
-      "gloss": "gróðursetur"
+      "gloss": "græðir"
     },
     {
       "surface": "רע",
-      "gloss": "illu"
+      "gloss": "illt"
     },
     {
       "surface": "בכל",
-      "gloss": "á alla"
+      "gloss": "á öllum"
     },
     {
       "surface": "עת",
-      "gloss": "tíma"
+      "gloss": "tímum"
     },
     {
       "surface": "מדנים",
-      "gloss": "ásigur"
+      "gloss": "deilur"
     },
     {
       "surface": "ישלח",
-      "gloss": "sendir hann frá sér"
+      "gloss": "sendir frá sér"
     }
   ],
-  "timestamp": "2026-10-19T12:00:24.987295068Z",
+  "timestamp": "2026-10-19T14:57:11.502648401Z",
   "model": "glm-5.3"
 }

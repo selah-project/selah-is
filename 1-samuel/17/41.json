@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "הלך וקרב — infinitive 'going and drawing near' rendered as 'gekk og nálgast'"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Icelandic requires relative 'sem' in 'maðurinn sem bar skjöldinn'"
-    }
-  ],
-  "translation": "Og Filisteinn fór, gekk og nálgast Davíð, og maðurinn sem bar skjöldinn gekk fyrir honum.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "89b451cf4c78c8112e53eb22c64d8df8cf73f2ef168c05ac3796b2370ae12e83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/41-44.1792400634692.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Pelisítinn fór, gangandi og nálgast Davíð, og maðurinn sem bar skjöldinn geng fyrir framan hann.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "fór"
+      "gloss": "og fór"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Filisteinn"
+      "gloss": "Pelisítinn"
     },
     {
       "surface": "הלך",
-      "gloss": "gekk"
+      "gloss": "gangandi"
     },
     {
       "surface": "וקרב",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "<-towards Davíð->"
+      "gloss": ""
     },
     {
       "surface": "דוד",
@@ -66,9 +45,9 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "fyrir honum"
+      "gloss": "fyrir framan hann"
     }
   ],
-  "timestamp": "2026-10-19T09:03:54.694046137Z",
+  "timestamp": "2026-10-19T14:32:57.832602146Z",
   "model": "glm-5.3"
 }

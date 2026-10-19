@@ -5,39 +5,20 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חיה תחיה",
-      "rationale": "Nafnháttar\tmynd + persónuháttar mynd af sömu rót — „lifa skalt þú lifa” — endurtekning sem eyst í íslensku."
-    },
-    {
-      "kind": "elision",
-      "subject": "orð Elísha",
-      "rationale": "Khazaél vitnar aðeins til læknisorðsins og leynir því sem Elísha sýndi honum um víggöngu sína — atburðarásin umlykur hlutleysi orðsins."
-    }
-  ],
-  "translation": "Og hann fór frá ⟨את⟩ Elísha og kom til herra síns, og hann sagði við hann: Hvað sagði Elísha við þig? Og hann sagði: Hann sagði við mig: Lifa skalt þú lifa.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "dd52a22c15197bf0adff6a9645bba51046d3a9445c0319a12b41584e44107654",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/8\/13-16.1792403030278.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann gekk frá Elísa og kom til herra síns, og hann sagði honum: Hvað sagði Elísa við þig? Og hann sagði: Hann sagði við mig: Þú mun ⟨sannarlega⟩ lifa.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "Og hann fór"
+      "gloss": "Og hann gekk"
     },
     {
       "surface": "מאת",
-      "gloss": "frá ⟨את⟩"
+      "gloss": "frá ⟨את⟩",
+      "marks": "Elísa"
     },
     {
-      "surface": "אלישע"
+      "surface": "אלישע",
+      "gloss": "Elísa"
     },
     {
       "surface": "ויבא",
@@ -57,11 +38,11 @@
     },
     {
       "surface": "לו",
-      "gloss": "við hann"
+      "gloss": "honum"
     },
     {
       "surface": "מה",
-      "gloss": "hvað"
+      "gloss": "Hvað"
     },
     {
       "surface": "אמר",
@@ -73,7 +54,7 @@
     },
     {
       "surface": "אלישע",
-      "gloss": "Elísha"
+      "gloss": "Elísa"
     },
     {
       "surface": "ויאמר",
@@ -93,9 +74,9 @@
     },
     {
       "surface": "תחיה",
-      "gloss": "skalt þú lifa"
+      "gloss": "þú mun lifa"
     }
   ],
-  "timestamp": "2026-10-19T09:43:50.279178717Z",
+  "timestamp": "2026-10-19T14:36:00.557385554Z",
   "model": "glm-5.3"
 }

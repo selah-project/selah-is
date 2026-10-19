@@ -5,23 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Ísrael",
-      "rationale": "Beint boð til Ísraels: hvorki bæta við né draga frá orði boðsins"
-    }
-  ],
-  "translation": "Þér skuluð ekki bæta við orðið sem ég boði ykkur, og ekki skuluð þér draga frá því, til þess að geyma ⟨את⟩ boðorð Jahve, Elóhím ykkar, sem ég boði ykkur.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c7e54bc6beed9fa6486c8601d81f6e4d1635d5bded0325dc3b5a63b5abec15be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/4\/1-4.1792397691325.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þér skuluð ekki bæta við orðið, sem ég býð ⟨את⟩ ykkur, og ekki draga frá því — að halda ⟨את⟩ boðorðum Jahve Elóhím ykkar, sem ég býð ⟨את⟩ ykkur.",
   "tokens": [
     {
       "surface": "לא",
@@ -29,7 +13,7 @@
     },
     {
       "surface": "תספו",
-      "gloss": "Þér skuluð ekki bæta við"
+      "gloss": "skuluð bæta við"
     },
     {
       "surface": "על",
@@ -49,11 +33,12 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "boði"
+      "gloss": "býð"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
     },
     {
       "surface": "ולא",
@@ -61,7 +46,7 @@
     },
     {
       "surface": "תגרעו",
-      "gloss": "skuluð þér draga frá"
+      "gloss": "draga frá"
     },
     {
       "surface": "ממנו",
@@ -69,16 +54,16 @@
     },
     {
       "surface": "לשמר",
-      "gloss": "til þess að geyma"
+      "gloss": "að halda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "boðorð Jahve"
+      "marks": "boðorðum"
     },
     {
       "surface": "מצות",
-      "gloss": "boðorð"
+      "gloss": "boðorðum"
     },
     {
       "surface": "יהוה",
@@ -98,13 +83,14 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "boði"
+      "gloss": "býð"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
     }
   ],
-  "timestamp": "2026-10-19T08:14:51.326858953Z",
+  "timestamp": "2026-10-19T14:39:38.077639521Z",
   "model": "glm-5.3"
 }

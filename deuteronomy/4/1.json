@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska þarf aðsetur við Ó-þágufall sem hebreskan myndar með orðatiltæki"
-    },
-    {
-      "kind": "invitation",
-      "subject": "shema",
-      "rationale": "„Hlýddu, Ísrael“ — bein ávarptilningur sem dregur lesandann inn"
-    }
-  ],
-  "translation": "Og nú, Ísrael, hlýddu á settningarnar og á dómana sem ég kenningi ykkur að gera, til þess að þér megið lifa, og að þér komið og takið yfir ⟨את⟩ landið sem Jahve, Elóhím feðra ykkar, gefur ykkur.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "c7e54bc6beed9fa6486c8601d81f6e4d1635d5bded0325dc3b5a63b5abec15be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/4\/1-4.1792397691325.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og nú, Ísrael, hlýddu á settningarnar og dómanna, sem ég kenner ykkur að gera, til þess að þér megið lifa og komist inn og arfasta ⟨את⟩ landið, sem Jahve, Elóhím feðra ykkar, gefur ykkur.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "המשפטים",
-      "gloss": "dómana"
+      "gloss": "dómanna"
     },
     {
       "surface": "אשר",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "מלמד",
-      "gloss": "kenningi"
+      "gloss": "kenner"
     },
     {
       "surface": "אתכם",
@@ -86,11 +65,11 @@
     },
     {
       "surface": "ובאתם",
-      "gloss": "og að þér komið"
+      "gloss": "og komist inn"
     },
     {
       "surface": "וירשתם",
-      "gloss": "og takið yfir"
+      "gloss": "og arfasta"
     },
     {
       "surface": "את",
@@ -126,6 +105,6 @@
       "gloss": "ykkur"
     }
   ],
-  "timestamp": "2026-10-19T08:14:51.326575164Z",
+  "timestamp": "2026-10-19T14:39:48.340797898Z",
   "model": "glm-5.3"
 }

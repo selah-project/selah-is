@@ -5,27 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "אשר (tengiorð) fellur niður — íslenska setur 'af því að' í stað מפני אשר sem eina heild"
-    }
-  ],
-  "translation": "Og fjall Sínaí reykti allt, af því að Jahve steig niður á það í eldi, og reykurinn steig upp eins og reykur bræðsluofns, og allt fjallið skalf með aflí.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/19\/17-20.1792394563465.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Sínaífjallið reykti allt, sakast þess að Jahve steig niður á það í eldi; og reykurinn steig upp eins og reykur af bræðsluofni, og allt fjallið skalf mikið.",
   "tokens": [
     {
       "surface": "והר",
-      "gloss": "Og fjall"
+      "gloss": "Og fjallið"
     },
     {
       "surface": "סיני",
@@ -41,11 +25,11 @@
     },
     {
       "surface": "מפני",
-      "gloss": "af því að"
+      "gloss": "sakast"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "þess að"
     },
     {
       "surface": "ירד",
@@ -77,7 +61,7 @@
     },
     {
       "surface": "הכבשן",
-      "gloss": "bræðsluofns"
+      "gloss": "af bræðsluofni"
     },
     {
       "surface": "ויחרד",
@@ -93,9 +77,9 @@
     },
     {
       "surface": "מאד",
-      "gloss": "með aflí"
+      "gloss": "mikið"
     }
   ],
-  "timestamp": "2026-10-19T07:22:43.466272005Z",
+  "timestamp": "2026-10-19T14:40:59.675733991Z",
   "model": "glm-5.3"
 }

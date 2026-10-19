@@ -5,45 +5,24 @@
   "book": "leviticus",
   "lang": "is",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שני התולעת",
-      "rationale": "orðrétt 'skarlatsormurinn' — litarefni úr kermes-ormi; 'skarlatsrauða' heldur litnum en missir ormyndina."
-    },
-    {
-      "kind": "crux",
-      "subject": "על המים החיים",
-      "rationale": "'yfir vatninu lifanda' — blóðið og þettan yfir vatnið, eða 'í nánd við' vatnið."
-    }
-  ],
-  "translation": "⟨את⟩ fuglinum lifanda skal hann taka ⟨את⟩ hann, og ⟨את⟩ sedrusviðinn og ⟨את⟩ skarlatsrauða og ⟨את⟩ isópinn, og þefa þau og ⟨את⟩ fuglinum lifanda í blóði fuglsins ⟨ sem⟩ var slátrað, yfir vatninu lifanda.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "3b31a4af5fb13bcaaf605e55ab21b12256f911fcb87f960d000f12bae10fb9ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/14\/5-8.1792395769906.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "En livandi fuglinn skal hann taka ⟨את⟩ hann og ⟨את⟩ sedrusviðinn og ⟨את⟩ skarlaþráðinn og ⟨את⟩ hysopinn, og skal hann synda ⟨את⟩ þau og ⟨את⟩ livandi fuglinn í blóði fuglsins sem slátrud var, yfir livandi vatninu.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "fuglinum lifanda"
+      "marks": "livandi fuglinn"
     },
     {
       "surface": "הצפר",
-      "gloss": "fuglinum"
+      "gloss": "fuglinn"
     },
     {
       "surface": "החיה",
-      "gloss": "lifanda"
+      "gloss": "livandi"
     },
     {
       "surface": "יקח",
-      "gloss": "skal taka"
+      "gloss": "skal hann taka"
     },
     {
       "surface": "אתה",
@@ -51,42 +30,39 @@
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "sedrusviðinn"
+      "gloss": "og ⟨את⟩"
     },
     {
       "surface": "עץ",
-      "gloss": "við"
+      "gloss": "viðinn"
     },
     {
       "surface": "הארז",
-      "gloss": "sedrus-"
+      "gloss": "sedrus"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "skarlatsrauða"
+      "gloss": "og ⟨את⟩"
     },
     {
       "surface": "שני",
-      "gloss": "skarlats-"
+      "gloss": "skarla"
     },
     {
       "surface": "התולעת",
-      "gloss": "rauða"
+      "gloss": "þráðurinn"
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "isópinn"
+      "gloss": "og ⟨את⟩"
     },
     {
       "surface": "האזב",
-      "gloss": "isópinn"
+      "gloss": "hysopinn"
     },
     {
       "surface": "וטבל",
-      "gloss": "og þefa"
+      "gloss": "og skal hann synda"
     },
     {
       "surface": "אותם",
@@ -94,8 +70,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "og ⟨את⟩",
-      "marks": "fuglinum lifanda"
+      "gloss": "og ⟨את⟩"
     },
     {
       "surface": "הצפר",
@@ -103,7 +78,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "lifanda"
+      "gloss": "livandi"
     },
     {
       "surface": "בדם",
@@ -115,7 +90,7 @@
     },
     {
       "surface": "השחטה",
-      "gloss": "slátraða"
+      "gloss": "sem slátrud var"
     },
     {
       "surface": "על",
@@ -127,9 +102,9 @@
     },
     {
       "surface": "החיים",
-      "gloss": "lifanda"
+      "gloss": "livandi"
     }
   ],
-  "timestamp": "2026-10-19T07:42:49.907640288Z",
+  "timestamp": "2026-10-19T14:54:02.269443457Z",
   "model": "glm-5.3"
 }

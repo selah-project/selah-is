@@ -5,33 +5,7 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "léft hönd mína",
-      "rationale": "נשא יד — „lyfta hönd“ er heitandi eiðsyrn; bókstafleg mynd haldin en „sverja“ útilokað."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "נשאתי\/ונשאו",
-      "rationale": "Sama rót נשא tvisvar: Jahve „lyfti“ hönd en Levítarnir „bera“ missynd sína — endurspeglað en ekki samhljóða á íslensku."
-    },
-    {
-      "kind": "substitution",
-      "subject": "hnílbjarg",
-      "rationale": "מכשול merkir „það sem veldur því að fótur snýst“ — hnílbjarg heldur myndinni af hnénu sem þverstöðum."
-    }
-  ],
-  "translation": "Vegna þess að þeir þjónuðu ⟨את⟩ ⟨þeim⟩ fyrir framan aflátgöðum þeirra, og urðu húsi Ísraels að hnílbjargi missyndar — þess vegna léft ég hönd mína yfir þeim, segir Adónaí Jahve, og þeir skulu bera missynd sína.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "2aea20f85e16ae1c8e5847244af8415692ddab60797adbddf739cc0316362d5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/44\/9-12.1792408015978.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Vegna þess að þeir þjónuðu ⟨את⟩ þeim fyrir auglitgervilgyrninganna sinna, urðu þeir húsi Ísraels að hindrun aðhvarfa; þess vegna hélt ég hönd minni upp gegn þeim, segir Adónaí Jahve, og þeir skulu bera aðhvarf sín.",
   "tokens": [
     {
       "surface": "יען",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "þess að"
     },
     {
       "surface": "ישרתו",
@@ -47,15 +21,16 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ⟨þeim⟩"
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
     },
     {
       "surface": "לפני",
-      "gloss": "fyrir framan"
+      "gloss": "fyrir"
     },
     {
       "surface": "גלוליהם",
-      "gloss": "aflátgöðum þeirra"
+      "gloss": "gervilgyrninganna sinna"
     },
     {
       "surface": "והיו",
@@ -71,31 +46,31 @@
     },
     {
       "surface": "למכשול",
-      "gloss": "að hnílbjargi"
+      "gloss": "að hindrun"
     },
     {
       "surface": "עון",
-      "gloss": "missyndar"
+      "gloss": "aðhvarfa"
     },
     {
       "surface": "על",
-      "gloss": "þess vegna yfir"
+      "gloss": "þess"
     },
     {
       "surface": "כן",
-      "gloss": "þess vegna"
+      "gloss": "vegna"
     },
     {
       "surface": "נשאתי",
-      "gloss": "léft ég"
+      "gloss": "hélt ég"
     },
     {
       "surface": "ידי",
-      "gloss": "hönd mína"
+      "gloss": "hönd minni"
     },
     {
       "surface": "עליהם",
-      "gloss": "yfir þeim"
+      "gloss": "gegn þeim"
     },
     {
       "surface": "נאם",
@@ -111,13 +86,13 @@
     },
     {
       "surface": "ונשאו",
-      "gloss": "skulu bera"
+      "gloss": "og þeir skulu bera"
     },
     {
       "surface": "עונם",
-      "gloss": "missynd sína"
+      "gloss": "aðhvarf sín"
     }
   ],
-  "timestamp": "2026-10-19T11:06:55.980074226Z",
+  "timestamp": "2026-10-19T14:44:11.988685078Z",
   "model": "glm-5.3"
 }

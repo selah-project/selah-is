@@ -5,36 +5,15 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חלום\/חלמתי",
-      "rationale": "sömu rót endurtekin; einnig שמע\/תשמע — veltan er vönduð í hebresku"
-    },
-    {
-      "kind": "you",
-      "subject": "Paró til Jósefs",
-      "rationale": "bein ræða, Paró talar til Jósefs um túlkunaráð hans"
-    }
-  ],
-  "translation": "Og Paró sagði við Jósef: Draum hef ég dreymt, og enginn er sem túlkar hann; en ég heyrði um þig að því láði: þú heyrir draum til að túlka hann.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "d13e41665b7a15d489fa6a2016279d4b62b74f725a072d3c6e033bad8ee491b0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/41\/13-16.1792393745677.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Paraó sagði við Jósef: Draum hef ég dreymt, og enginn er til að túlkast ⟨את⟩ hann; og ég heyrði um þig, að þú hlýðir á draum til að túlkast ⟨את⟩ hann.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "sagði"
+      "gloss": "Og … sagði"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paró"
+      "gloss": "Paraó"
     },
     {
       "surface": "אל",
@@ -54,19 +33,20 @@
     },
     {
       "surface": "ופתר",
-      "gloss": "að túlka"
+      "gloss": "og að túlkast"
     },
     {
       "surface": "אין",
-      "gloss": "enginn er"
+      "gloss": "enginn er til"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann (drauminn)"
     },
     {
       "surface": "ואני",
-      "gloss": "en ég"
+      "gloss": "og ég"
     },
     {
       "surface": "שמעתי",
@@ -78,11 +58,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "að því láði"
+      "gloss": "að"
     },
     {
       "surface": "תשמע",
-      "gloss": "þú heyrir"
+      "gloss": "þú hlýðir á"
     },
     {
       "surface": "חלום",
@@ -90,13 +70,14 @@
     },
     {
       "surface": "לפתר",
-      "gloss": "til að túlka"
+      "gloss": "til að túlkast"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ hann"
+      "gloss": "⟨את⟩",
+      "marks": "hann (drauminn)"
     }
   ],
-  "timestamp": "2026-10-19T07:09:05.678649912Z",
+  "timestamp": "2026-10-19T14:46:15.957777469Z",
   "model": "glm-5.3"
 }

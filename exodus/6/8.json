@@ -5,40 +5,20 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "נשאתי את ידי",
-      "rationale": "„hélt hönd mina upp“ — myndrænt eiðsorð; sumir þýða „sver ég“ en myndin er varðveitt"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וְהֵבֵאתִי \/ וְנָתַתִּי",
-      "rationale": "endurtekin ég-mun-gera svörin í v. 6–8 mynda keðju sjö loforða (fjögur í v. 6, eitt í v. 7, tvö í v. 8), ekki sýnileg á íslensku"
-    }
-  ],
-  "translation": "Og ég mun færa ykkur inn í landið, sem ég hélt hönd mina upp í eið um að gefa Avraham, Jitskhak og Jaakov, og ég mun gefa ykkur það að eign; ég er Jahve.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/6\/5-8.1792394202795.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ég mun leiða ykkur ⟨את⟩ inn í landið sem ég hélt hendi minni upp í að ég myndi gefa ⟨את⟩ það Avraham, Jitskhak og Jaakov; og ég mun gefa ⟨את⟩ það ykkur til eignar — ég er Jahve.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "Og ég mun færa inn"
+      "gloss": "og ég mun leiða"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ ykkur"
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
     },
     {
       "surface": "אל",
-      "gloss": "í"
+      "gloss": "inn í"
     },
     {
       "surface": "הארץ",
@@ -50,25 +30,25 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "hélt ég upp"
+      "gloss": "ég hélt upp"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hönd mina"
+      "marks": "hendi minni"
     },
     {
       "surface": "ידי",
-      "gloss": "hönd mina"
+      "gloss": "hendi minni"
     },
     {
       "surface": "לתת",
-      "gloss": "um að gefa"
+      "gloss": "að gefa"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "Avraham"
+      "marks": "það"
     },
     {
       "surface": "לאברהם",
@@ -89,7 +69,7 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "ykkur"
+      "marks": "það"
     },
     {
       "surface": "לכם",
@@ -97,7 +77,7 @@
     },
     {
       "surface": "מורשה",
-      "gloss": "að eign"
+      "gloss": "til eignar"
     },
     {
       "surface": "אני",
@@ -108,6 +88,6 @@
       "gloss": "Jahve"
     }
   ],
-  "timestamp": "2026-10-19T07:16:42.798393023Z",
+  "timestamp": "2026-10-19T14:42:26.106290413Z",
   "model": "glm-5.3"
 }

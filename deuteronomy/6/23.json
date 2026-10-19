@@ -5,32 +5,16 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "hann",
-      "rationale": "Frumlag 'hann' bætt við á íslensku; hebreska hefur enginn sagnbút — Jahve er óritaður."
-    }
-  ],
-  "translation": "Og ⟨את⟩ okkar leiddi hann þaðan, til þess að færa okkur inn, til að gefa okkur ⟨את⟩ landið það er hann sór feðrum vorum.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "ce9b49351a73e9bdeef410d886571be476648e183811742638424001e4b5364c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/21-24.1792397661632.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨את⟩ oss leiddi hann út þaðan, til þess að færa okkur inn og gefa okkur ⟨את⟩ landið, sem hann sór feðrum vorum.",
   "tokens": [
     {
       "surface": "ואותנו",
-      "gloss": "⟨את⟩ okkar",
-      "marks": "okkar — hlutur lýsingarháttarins í הוציא"
+      "gloss": "⟨את⟩ oss",
+      "marks": "leiddi út"
     },
     {
       "surface": "הוציא",
-      "gloss": "leiddi hann út"
+      "gloss": "leiddi út"
     },
     {
       "surface": "משם",
@@ -47,11 +31,11 @@
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩ okkur",
-      "marks": "okkur — hlutur הביא"
+      "marks": "færa inn"
     },
     {
       "surface": "לתת",
-      "gloss": "til að gefa"
+      "gloss": "gefa"
     },
     {
       "surface": "לנו",
@@ -68,17 +52,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "það er"
+      "gloss": "sem"
     },
     {
       "surface": "נשבע",
-      "gloss": "hann sór"
+      "gloss": "sór"
     },
     {
       "surface": "לאבתינו",
       "gloss": "feðrum vorum"
     }
   ],
-  "timestamp": "2026-10-19T08:14:21.633352338Z",
+  "timestamp": "2026-10-19T14:39:43.306709276Z",
   "model": "glm-5.3"
 }

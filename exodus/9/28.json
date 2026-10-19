@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "קלת אלהים",
-      "rationale": "'raunir Elóhím' — spegunarmynd af 'guðsdúnur'; KJV 'mighty thunderings of God', YLT 'voices of God'"
-    },
-    {
-      "kind": "you",
-      "subject": "Paró til Mósje og Aharon",
-      "rationale": "beint ávarp með boðum"
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "gloss": "forsagan 'til' er innifalin í 'Biðjið Jahve'"
-    }
-  ],
-  "translation": "Biðjið Jahve, og ⟨það⟩ er nóg, að hætt séu raunarnar frá Elóhím og haglétt; þá læt ég ⟨את⟩ yður fara, og þér skuluð ekki lengur vera ⟨þar⟩.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "981bf1191d93a45a86dd276518515ef6f8a065498da4d962aaef2955eab9bb0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/25-28.1792394248904.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Biðjið til Jahve, og ⟨það⟩ er nóg af röddum Elóhím og hagli, og ég mun senda ⟨את⟩ yður, og þér skuluð ekki fremur vera staddir.",
   "tokens": [
     {
       "surface": "העתירו",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "til"
     },
     {
       "surface": "יהוה",
@@ -47,31 +21,32 @@
     },
     {
       "surface": "ורב",
-      "gloss": "og nóg"
+      "gloss": "er nóg"
     },
     {
       "surface": "מהית",
-      "gloss": "að hætt séu"
+      "gloss": "af"
     },
     {
       "surface": "קלת",
-      "gloss": "raunarnar"
+      "gloss": "röddum"
     },
     {
       "surface": "אלהים",
-      "gloss": "frá Elóhím"
+      "gloss": "Elóhím"
     },
     {
       "surface": "וברד",
-      "gloss": "og haglétt"
+      "gloss": "og hagli"
     },
     {
       "surface": "ואשלחה",
-      "gloss": "þá læt ég yður fara"
+      "gloss": "og ég mun senda"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩",
+      "marks": "yður"
     },
     {
       "surface": "ולא",
@@ -79,13 +54,13 @@
     },
     {
       "surface": "תספון",
-      "gloss": "skuluð lengur"
+      "gloss": "fremur"
     },
     {
       "surface": "לעמד",
-      "gloss": "vera ⟨þar⟩"
+      "gloss": "að vera staddir"
     }
   ],
-  "timestamp": "2026-10-19T07:17:28.905373203Z",
+  "timestamp": "2026-10-19T14:42:38.770644661Z",
   "model": "glm-5.3"
 }

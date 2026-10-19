@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תרעה",
-      "rationale": "'gæta sem hirðir' bókstaflega 'þú munt beita' — ráðning orðsins er hirðismynd; margar þýðingar segja einfaldlega 'leiða'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גם ... גם ... גם",
-      "rationale": "þreföld endurtekning 'einnig' undirstrikar Davíðs forystu allt frá Sjáúlstíð — íslenska nær henni með 'bæði\/og\/einnig'"
-    }
-  ],
-  "translation": "Bæði í gær og fyrr, og einnig meðan Sjáúl var konungur, var það þú sem leiddir Ísrael út og inn, og Jahve, Elóhím þinn, sagði til þín: Þú munt ganga sem hirðir með fólki mínu, Ísrael, og þú munt vera höfðingi yfir fólki mínu, Ísrael.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/11\/1-4.1792414702696.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Já í gær og fyrr í gær, já meðan Saul var konungur, það varst þú sem færðir Út og inn Ísrael; og Jahve, Elóhím þinn, sagði við þig: Þú skalt gedda ⟨את⟩ fólki mínu, ⟨את⟩ Ísrael, og þú skalt vera höfðingi yfir fólki mínu, Ísrael.",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "bæði"
+      "gloss": "já"
     },
     {
       "surface": "תמול",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "גם",
-      "gloss": "og"
+      "gloss": "já"
     },
     {
       "surface": "שלשום",
-      "gloss": "fyrr"
+      "gloss": "fyrr í gær"
     },
     {
       "surface": "גם",
-      "gloss": "einnig"
+      "gloss": "já"
     },
     {
       "surface": "בהיות",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "Sjáúl"
+      "gloss": "Saul"
     },
     {
       "surface": "מלך",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "המוציא",
-      "gloss": "leiddir út"
+      "gloss": "færðir út"
     },
     {
       "surface": "והמביא",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "לך",
-      "gloss": "til þín"
+      "gloss": "við þig"
     },
     {
       "surface": "אתה",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "תרעה",
-      "gloss": "munt gæta sem hirðir"
+      "gloss": "skalt gedda"
     },
     {
       "surface": "את",
@@ -129,7 +108,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "munt vera"
+      "gloss": "skalt vera"
     },
     {
       "surface": "נגיד",
@@ -148,6 +127,6 @@
       "gloss": "Ísrael"
     }
   ],
-  "timestamp": "2026-10-19T12:58:22.697028088Z",
+  "timestamp": "2026-10-19T14:30:46.802955453Z",
   "model": "glm-5.3"
 }

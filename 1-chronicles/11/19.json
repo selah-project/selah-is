@@ -5,38 +5,7 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sál",
-      "rationale": "נפש er andardráttur\/lífsmáttur, ‚sálm‘ í íslensku heldur orðmyndinni án sálartúlkunar"
-    },
-    {
-      "kind": "idiom",
-      "subject": "חלילה לי",
-      "rationale": "hlutlægt ‚neyðarleg óhelgun‘; orðatiltæki sem ‚fjarri veri það mér‘"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "בנפשותם … בנפשותם",
-      "rationale": "endurtekning í spurningunni og svarinu myndir lykkju sem íslenskan heldur með sömu orðum"
-    },
-    {
-      "kind": "elision",
-      "subject": "is",
-      "rationale": "nafnháttarmerki מעשות fellur saman við ‚að gera‘"
-    }
-  ],
-  "translation": "Og hann sagði: Fjarri veri það mér frá Elóa mínum að gera þetta — skyldi ég drekka blóð þessara manna með sálmunum þeirra? Því að með sálmunum þeirra báru ⟨את⟩ því. Og hann vildi ekki drekka því. Þetta gjörðu þrír kapparnir.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "d06c681df034431934f61b681cf762dc4b8285148ed3e58a2a579b32a46c7402",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/11\/17-20.1792414696425.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og hann sagði: Fjarri sé því frá mér, frá El mínum, að gjöra þetta — blóði þessara manna, með sálum þeirra, skal ég drekka? því að með sálum sínum boruðu þeir ⟨את⟩ því. Og hann vildi ekki drekka ⟨את⟩ því. Þetta gjörðu þrír kapparnir.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -44,19 +13,19 @@
     },
     {
       "surface": "חלילה",
-      "gloss": "Fjarri veri"
+      "gloss": "Fjarri sé því"
     },
     {
       "surface": "לי",
-      "gloss": "mér"
+      "gloss": "frá mér"
     },
     {
       "surface": "מאלהי",
-      "gloss": "frá Elóa mínum"
+      "gloss": "frá El mínum"
     },
     {
       "surface": "מעשות",
-      "gloss": "að gera"
+      "gloss": "að gjöra"
     },
     {
       "surface": "זאת",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "הדם",
-      "gloss": "blóð"
+      "gloss": "blóði"
     },
     {
       "surface": "האנשים",
@@ -76,23 +45,24 @@
     },
     {
       "surface": "אשתה",
-      "gloss": "skyldi ég drekka"
+      "gloss": "skal ég drekka"
     },
     {
       "surface": "בנפשותם",
-      "gloss": "með sálmunum þeirra"
+      "gloss": "með sálum þeirra"
     },
     {
       "surface": "כי",
-      "gloss": "Því að"
+      "gloss": "því að"
     },
     {
       "surface": "בנפשותם",
-      "gloss": "með sálmunum þeirra"
+      "gloss": "með sálum sínum"
     },
     {
       "surface": "הביאום",
-      "gloss": "báru ⟨את⟩ því"
+      "gloss": "boruðu þeir",
+      "marks": "því"
     },
     {
       "surface": "ולא",
@@ -100,7 +70,7 @@
     },
     {
       "surface": "אבה",
-      "gloss": "vildi"
+      "gloss": "vildi hann"
     },
     {
       "surface": "לשתותם",
@@ -123,6 +93,6 @@
       "gloss": "kapparnir"
     }
   ],
-  "timestamp": "2026-10-19T12:58:16.426842452Z",
+  "timestamp": "2026-10-19T14:30:40.165311083Z",
   "model": "glm-5.3"
 }

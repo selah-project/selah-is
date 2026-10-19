@@ -5,33 +5,7 @@
   "book": "2-chronicles",
   "lang": "is",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to the king's messengers",
-      "rationale": "Jósía bindur óbeint boð sendimönnum sínum: 'Farið, leitið Jahve fyrir mig'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "grimmd",
-      "rationale": "חמת er bókstaflega 'hiti', myndlega reiði\/grimmd — varðveitt sem hitamynd með 'úthellt'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דברי\/דבר",
-      "rationale": "Sömu rót tvívegis í versinu: 'orðanna í bókinni' og 'orð Jahve' — samsvörunin missist ekki á íslensku."
-    }
-  ],
-  "translation": "Farið, leitið Jahve fyrir mig og fyrir hinn eftirveranda í Ísrael og í Júda, vegna orðanna í bókinni sem fundin var, því mikil er grimmd Jahve sem úthellt hefur verið yfir oss, af því að feður vorar vörðu ekki orð Jahve ⟨את⟩ að gjöra eftir öllu því sem ritað er á þessari bók.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "3ef4e8d171edb17148a8056a187317150f64be6cbf29e4c1282866484c01d801",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/34\/21-24.1792416158776.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Farið og leitið til Jahve fyrir mig og fyrir þá sem eftir eru í Ísrael og í Júda, vegna orða bókarinnar sem fundin var, því mikil er reiði Jahve sem þúst hefur yfir oss, því að feður vorar héldu ekki orð Jahve, að gera allt sem ritað er í þessari bók.",
   "tokens": [
     {
       "surface": "לכו",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "הנשאר",
-      "gloss": "hinn eftirveranda"
+      "gloss": "þá sem eftir eru"
     },
     {
       "surface": "בישראל",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "דברי",
-      "gloss": "orðanna"
+      "gloss": "orða"
     },
     {
       "surface": "הספר",
-      "gloss": "í bókinni"
+      "gloss": "bókarinnar"
     },
     {
       "surface": "אשר",
@@ -100,7 +74,7 @@
     },
     {
       "surface": "חמת",
-      "gloss": "grimmd"
+      "gloss": "reiði"
     },
     {
       "surface": "יהוה",
@@ -112,7 +86,7 @@
     },
     {
       "surface": "נתכה",
-      "gloss": "úthellt hefur verið"
+      "gloss": "þúst hefur"
     },
     {
       "surface": "בנו",
@@ -120,7 +94,7 @@
     },
     {
       "surface": "על",
-      "gloss": "af því að"
+      "gloss": "því að"
     },
     {
       "surface": "אשר",
@@ -132,7 +106,7 @@
     },
     {
       "surface": "שמרו",
-      "gloss": "vörðu"
+      "gloss": "héldu"
     },
     {
       "surface": "אבותינו",
@@ -141,7 +115,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "orð"
+      "marks": "orð Jahve"
     },
     {
       "surface": "דבר",
@@ -153,29 +127,29 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "að gjöra"
+      "gloss": "að gera"
     },
     {
       "surface": "ככל",
-      "gloss": "eftir öllu"
+      "gloss": "allt"
     },
     {
       "surface": "הכתוב",
-      "gloss": "sem ritað er"
+      "gloss": "ritað er"
     },
     {
       "surface": "על",
-      "gloss": "á"
+      "gloss": "í"
     },
     {
       "surface": "הספר",
-      "gloss": "bók"
+      "gloss": "þessari bók"
     },
     {
       "surface": "הזה",
-      "gloss": "þessari"
+      "gloss": "þessari bók"
     }
   ],
-  "timestamp": "2026-10-19T13:22:38.777311998Z",
+  "timestamp": "2026-10-19T14:34:24.468898565Z",
   "model": "glm-5.3"
 }

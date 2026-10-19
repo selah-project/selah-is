@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "orið ósgátt 'nema' — bókstaflega 'að ef', íslenska notar 'nema'"
-    },
-    {
-      "kind": "alternative",
-      "subject": "אף",
-      "rationale": "'já, meira' sem versti réttindisatmelsh OR 'því að' sem tenging"
-    }
-  ],
-  "translation": "Og Haman sagði: Því að drottningin Ester kallaði enga mann með konungnum til veislunnar sem hún hafði gert, nema ⟨את⟩ mig; og einnig til morguns er ég boðinn til hennar með konunginum.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "964c362621328d27e1b7522057a2923b364edbd630df8974a75b44526831871b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/5\/9-12.1792413209763.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Haman sagði: Þó fékk Ester drottningin engum manni leyfi til að koma með konunginum að veislunni sem hún hafði gjört, nema ⟨את⟩ mig — og jafnvel til morguns er ég boðinn til hennar með konunginum.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og sagði"
+      "gloss": "Og … sagði"
     },
     {
       "surface": "המן",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "אף",
-      "gloss": "Því að"
+      "gloss": "Þó"
     },
     {
       "surface": "לא",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הביאה",
-      "gloss": "kallaði"
+      "gloss": "fékk … leyfi til að koma"
     },
     {
       "surface": "אסתר",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "המלך",
-      "gloss": "konungnum"
+      "gloss": "konunginum"
     },
     {
       "surface": "אל",
-      "gloss": "til"
+      "gloss": "að"
     },
     {
       "surface": "המשתה",
-      "gloss": "veislunnar"
+      "gloss": "veislunni"
     },
     {
       "surface": "אשר",
@@ -78,23 +57,24 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "hún hafði gert"
+      "gloss": "hún hafði gjört"
     },
     {
       "surface": "כי",
-      "gloss": "nema"
-    },
-    {
-      "surface": "אם",
       "gloss": ""
     },
     {
+      "surface": "אם",
+      "gloss": "nema"
+    },
+    {
       "surface": "אותי",
-      "gloss": "⟨את⟩ mig"
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
     },
     {
       "surface": "וגם",
-      "gloss": "og einnig"
+      "gloss": "og jafnvel"
     },
     {
       "surface": "למחר",
@@ -121,6 +101,6 @@
       "gloss": "konunginum"
     }
   ],
-  "timestamp": "2026-10-19T12:33:29.764396817Z",
+  "timestamp": "2026-10-19T14:40:32.373872482Z",
   "model": "glm-5.3"
 }

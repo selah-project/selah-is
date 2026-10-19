@@ -5,28 +5,7 @@
   "book": "daniel",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "פסא",
-      "rationale": "Merkir lófi (útbreitt flat); KJV 'part of the hand' — 'lófi' heldur myndinni."
-    },
-    {
-      "kind": "mystery",
-      "subject": "is",
-      "rationale": "Ritið sjálft er ólesið og útskýrt ekki fyrr en í versi 25 — textinn heldur innihaldi sínu leyndu."
-    }
-  ],
-  "translation": "Þá var lófi hendar send frá fyrir honum, og þetta rit var ritað.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "aed8ce4b0d66142f5ea25f1f43524182b70176576f71af7bb9c9ed762c260b8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/5\/21-24.1792413470757.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Þá var frá honum send ⟨את⟩ lóf ⟨את⟩ hendarinnar, og þetta letur var ritað.",
   "tokens": [
     {
       "surface": "באדין",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "קדמוהי",
-      "gloss": "fyrir honum"
+      "gloss": "honum"
     },
     {
       "surface": "שליח",
@@ -46,19 +25,20 @@
     },
     {
       "surface": "פסא",
-      "gloss": "lófi"
+      "gloss": "⟨את⟩ lóf",
+      "marks": "lóf hendarinnar"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨sem⟩"
     },
     {
       "surface": "ידא",
-      "gloss": "hendar"
+      "gloss": "hendarinnar"
     },
     {
       "surface": "וכתבא",
-      "gloss": "og rit"
+      "gloss": "letur"
     },
     {
       "surface": "דנה",
@@ -66,9 +46,9 @@
     },
     {
       "surface": "רשים",
-      "gloss": "var ritað"
+      "gloss": "ritað"
     }
   ],
-  "timestamp": "2026-10-19T12:37:50.758945766Z",
+  "timestamp": "2026-10-19T14:37:27.828172667Z",
   "model": "glm-5.3"
 }

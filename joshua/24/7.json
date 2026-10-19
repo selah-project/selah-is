@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "מאפל er 'eitthvað ógagnsætt, þétt myrkur'; einfaldra 'myrkur' glatar þykkt orðsins"
-    },
-    {
-      "kind": "you",
-      "subject": "is",
-      "rationale": "Jahve talar beint til Ísraels gegnum versið: 'augu ykkar sáu'"
-    }
-  ],
-  "translation": "Og þeir öskuðu til Jahve, og hann setti myrkur milli ykkar og Mitsmanna, og færði hafið yfir þá og þakti þá; og augu ykkar sáu ⟨את⟩ það sem ég gjörði í Mitsrajím; og þið dvölduð í eyðimörkinni marga daga.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/24\/5-8.1792399433075.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir öskruðu til Jahve, og hann setti myrkur milli ykkar og Mitsráímítanna, og kom ⟨את⟩ sjónvarfi yfir þá, og huldi þá; og augu ykkar sáu ⟨את⟩ það sem ég gjörði í Mitsrajím, og þér dvölduð í eyðimörkinni marga daga.",
   "tokens": [
     {
       "surface": "ויצעקו",
-      "gloss": "Og þeir öskuðu"
+      "gloss": "Og þeir öskruðu"
     },
     {
       "surface": "אל",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "המצרים",
-      "gloss": "Mitsmannanna"
+      "gloss": "Mitsráímítanna"
     },
     {
       "surface": "ויבא",
-      "gloss": "og færði"
+      "gloss": "og kom"
     },
     {
       "surface": "עליו",
@@ -71,15 +50,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hafið"
+      "marks": "sjónvarfi (sjórinn)"
     },
     {
       "surface": "הים",
-      "gloss": "hafið"
+      "gloss": "sjónvarfi"
     },
     {
       "surface": "ויכסהו",
-      "gloss": "og þakti þá"
+      "gloss": "og huldi þá"
     },
     {
       "surface": "ותראינה",
@@ -92,11 +71,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "það sem ég gjörði"
+      "marks": "það sem ég gjörði í Mitsrajím"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "עשיתי",
@@ -108,7 +87,7 @@
     },
     {
       "surface": "ותשבו",
-      "gloss": "og þið dvölduð"
+      "gloss": "og þér dvölduð"
     },
     {
       "surface": "במדבר",
@@ -123,6 +102,6 @@
       "gloss": "marga"
     }
   ],
-  "timestamp": "2026-10-19T08:43:53.076545888Z",
+  "timestamp": "2026-10-19T14:52:00.019860811Z",
   "model": "glm-5.3"
 }

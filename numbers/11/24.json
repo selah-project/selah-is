@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "þá",
-      "rationale": "אתם bendir á andlagið 'þá' sem íslenska setningin tekur fram"
-    }
-  ],
-  "translation": "Og Mósje fór út og talaði við fólkið ⟨את⟩ orð Jahve, og hann safnaði sjötíu körlum af öldungum fólksins og lét þá standa í kringum tjaldið.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "9d5267a531f32f3e2aa8176723160c46e69f7b62e9a81990cfbd9c60a0a88e62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/11\/21-24.1792396720602.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje fór út og talaði til lýðsins ⟨את⟩ orð Jahve, og safnaði sjötíu mönnum af öldungum lýðsins og lét ⟨את⟩ þá standa í kring um tjaldbúðina — Misjkan.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Og fór út"
+      "gloss": "fór út"
     },
     {
       "surface": "משה",
@@ -37,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "við"
+      "gloss": "til"
     },
     {
       "surface": "העם",
-      "gloss": "fólkið"
+      "gloss": "lýðsins"
     },
     {
       "surface": "את",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "ויאסף",
-      "gloss": "og hann safnaði"
+      "gloss": "og safnaði"
     },
     {
       "surface": "שבעים",
@@ -66,7 +50,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "körlum"
+      "gloss": "mönnum"
     },
     {
       "surface": "מזקני",
@@ -74,7 +58,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "fólksins"
+      "gloss": "lýðsins"
     },
     {
       "surface": "ויעמד",
@@ -83,17 +67,17 @@
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "þá (sjötíu karlana)"
+      "marks": "þá"
     },
     {
       "surface": "סביבת",
-      "gloss": "í kringum"
+      "gloss": "í kring um"
     },
     {
       "surface": "האהל",
-      "gloss": "tjaldið"
+      "gloss": "tjaldbúðina — Misjkan"
     }
   ],
-  "timestamp": "2026-10-19T07:58:40.603528526Z",
+  "timestamp": "2026-10-19T14:55:05.816258391Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "is",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "is",
-      "rationale": "העץ (trjáviðið) í 'járnið losnar af skaftinu' er sömu orðið og tréð — haft um tréskaft öxarinnar"
-    },
-    {
-      "kind": "crux",
-      "subject": "skaftið",
-      "rationale": "מן העץ 'frá viðnum': suma þýðendinga lesa 'öxarhöfuð af skafti', aðrar 'járnblöð af handfanginu'"
-    }
-  ],
-  "translation": "Og sá er fer ⟨את⟩ með náunga sínum í skóginn til að hægga tré, og hönd hans hrekst við öxina að fella tréð, og járnið losnar af skaftinu, og hittir náunga hans, og hann deyr — hann skal flýja til einnar af þessum borgum og lifa.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "af648f85f7503a185dc4d6de2d818085a391e30d70cc50edf2e10e22967e8205",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/5-8.1792398138348.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og sá er fer með nágrenna sínum ⟨את⟩ í skóg til að hggva við, og hönd hans er hrakin með öxinni til að fella tréð, og járnbúðinni sleppur af skaftinu, og hún hittir ⟨את⟩ nágrenna hans, og hann deyr — hann skal flýja til einnar af þessum borgum og lifa.",
   "tokens": [
     {
       "surface": "ואשר",
@@ -38,28 +17,28 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ með",
-      "marks": "náunga sinn"
+      "gloss": "⟨את⟩",
+      "marks": "nágrenna sínum"
     },
     {
       "surface": "רעהו",
-      "gloss": "náunga sínum"
+      "gloss": "nágrenna sínum"
     },
     {
       "surface": "ביער",
-      "gloss": "í skóginn"
+      "gloss": "í skóg"
     },
     {
       "surface": "לחטב",
-      "gloss": "til að hægga"
+      "gloss": "til að hggva"
     },
     {
       "surface": "עצים",
-      "gloss": "tré"
+      "gloss": "við"
     },
     {
       "surface": "ונדחה",
-      "gloss": "og hrekst"
+      "gloss": "er hrakin"
     },
     {
       "surface": "ידו",
@@ -67,11 +46,11 @@
     },
     {
       "surface": "בגרזן",
-      "gloss": "við öxina"
+      "gloss": "með öxinni"
     },
     {
       "surface": "לכרת",
-      "gloss": "að fella"
+      "gloss": "til að fella"
     },
     {
       "surface": "העץ",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "ונשל",
-      "gloss": "og losnar"
+      "gloss": "sleppur"
     },
     {
       "surface": "הברזל",
-      "gloss": "járnið"
+      "gloss": "járnbitinn"
     },
     {
       "surface": "מן",
@@ -95,20 +74,20 @@
     },
     {
       "surface": "ומצא",
-      "gloss": "og hittir"
+      "gloss": "og hún hittir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "náunga hans"
+      "marks": "nágrenna hans"
     },
     {
       "surface": "רעהו",
-      "gloss": "náunga hans"
+      "gloss": "nágrenna hans"
     },
     {
       "surface": "ומת",
-      "gloss": "og hann deyr"
+      "gloss": "og deyr"
     },
     {
       "surface": "הוא",
@@ -139,6 +118,6 @@
       "gloss": "og lifa"
     }
   ],
-  "timestamp": "2026-10-19T08:22:18.348751367Z",
+  "timestamp": "2026-10-19T14:39:03.697780925Z",
   "model": "glm-5.3"
 }

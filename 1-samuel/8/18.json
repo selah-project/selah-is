@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "מלפני 'frá andliti' er íslensk('fyrir átjá', undan)"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "Endurtekning 'á þeim degi' í upphafi og enda vers gerir innréttingu; hún helst"
-    }
-  ],
-  "translation": "Og þér munuð öskra á þeim degi fyrir átjá konungs ykkar, þann er þér hafðið valið ykkar, en Jahve mun ekki svara ykkur á þeim degi.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "9db9c251df353233c2242dd569ea4f8d7081413830894ed2f15b5432def2974a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/8\/17-20.1792400219163.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þér munuð öskra á þeim degi undan andliti konungs ykkar, þann sem þér völduð ykkur, en Jahve mun ekki svara ⟨את⟩ ykkur á þeim degi.",
   "tokens": [
     {
       "surface": "וזעקתם",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "á degi"
+      "gloss": "á þeim degi"
     },
     {
       "surface": "ההוא",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מלפני",
-      "gloss": "fyrir átjá"
+      "gloss": "undand andliti"
     },
     {
       "surface": "מלככם",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "þann er"
+      "gloss": "þann sem"
     },
     {
       "surface": "בחרתם",
-      "gloss": "þér hafðið valið"
+      "gloss": "þér völduð"
     },
     {
       "surface": "לכם",
-      "gloss": "ykkar"
+      "gloss": "ykkur"
     },
     {
       "surface": "ולא",
@@ -86,6 +65,6 @@
       "gloss": "þeim"
     }
   ],
-  "timestamp": "2026-10-19T08:56:59.164040314Z",
+  "timestamp": "2026-10-19T14:33:30.972563133Z",
   "model": "glm-5.3"
 }

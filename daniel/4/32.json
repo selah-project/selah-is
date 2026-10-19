@@ -5,36 +5,15 @@
   "book": "daniel",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בחיל שמיא",
-      "rationale": "'herbúð\/her vegna himinsins' — sumir þýða 'vilja himinsins' eða 'hershöfðingja himins'; 'herbúð' helst við myndina."
-    },
-    {
-      "kind": "mystery",
-      "subject": "Hvað gjörðir þú?",
-      "rationale": "Enginn má spyrja Guð til svars — lokuð spurning sem vísar ósvaranlegu."
-    }
-  ],
-  "translation": "Og allir íbúar jarðarinnar eru taldir sem ekkert, og eftir vilja sínum gjörir hann með herbúð himinsins og íbúum jarðarinnar, og enginn er til sem má slá hönd hans niður og segja honum: Hvað gjörðir þú?",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "156a992b1f65104b118a6db8fc648c1a93988b9f5ea0de2564b85f63880cb15f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/4\/29-32.1792413562750.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og alla íbúa jarðarinnar telst sem ekkert, og eftir vilja hans gjörir hann í hersveit himinsins og í íbúum jarðarinnar, og enginn er ⟨sá⟩ sem hemur hönd hans og segir honum: Hvað gjörðir þú?",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "og allir"
+      "gloss": "og alla"
     },
     {
       "surface": "דארי",
-      "gloss": "íbúar"
+      "gloss": "íbúa"
     },
     {
       "surface": "ארעא",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "חשיבין",
-      "gloss": "eru taldir"
+      "gloss": "telst"
     },
     {
       "surface": "וכמצביה",
-      "gloss": "eftir vilja sínum"
+      "gloss": "og eftir vilja hans"
     },
     {
       "surface": "עבד",
-      "gloss": "gjörir"
+      "gloss": "gjörir hann"
     },
     {
       "surface": "בחיל",
-      "gloss": "með herbúð"
+      "gloss": "í hersveit"
     },
     {
       "surface": "שמיא",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "ודארי",
-      "gloss": "og íbúum"
+      "gloss": "og í íbúum"
     },
     {
       "surface": "ארעא",
@@ -74,19 +53,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "og ekki"
+      "gloss": "og enginn"
     },
     {
       "surface": "איתי",
-      "gloss": "er til"
+      "gloss": "er"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "⟨sá⟩ sem"
     },
     {
       "surface": "ימחא",
-      "gloss": "má slá niður"
+      "gloss": "hemur"
     },
     {
       "surface": "בידה",
@@ -94,7 +73,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "og segja"
+      "gloss": "og segir"
     },
     {
       "surface": "לה",
@@ -109,6 +88,6 @@
       "gloss": "gjörðir þú"
     }
   ],
-  "timestamp": "2026-10-19T12:39:22.752003767Z",
+  "timestamp": "2026-10-19T14:38:01.280258106Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "1-samuel",
   "lang": "is",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "סגרני",
-      "rationale": "bókstaflega „lokaði mig inn“; „gaf mig í hendi þínar“ er skýringarmynd"
-    },
-    {
-      "kind": "crux",
-      "subject": "אתי",
-      "rationale": "H854 „við mig“, en ritað eins og aleph-tav-mörkið; þess vegan ⟨את⟩ í glósunni"
-    }
-  ],
-  "translation": "Og þú hefir birt í dag ⟨את⟩ það sem þú gjörðir við mig — gott; ⟨את⟩ það sem Jahve gaf mig í hendi þínar, og þú drápst mig ekki.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/24\/17-20.1792400800269.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og ⟨þú⟩ sagðir mér í dag ⟨את⟩ það sem þú gerðir ⟨את⟩ við mig — gott; ⟨את⟩ það að Jahve lokaði mig í hendi þína og þú drapt mig ekki.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Og þú"
+      "gloss": "Og ⟨þú⟩"
     },
     {
       "surface": "הגדת",
-      "gloss": "hefir birt"
+      "gloss": "sagðir"
     },
     {
       "surface": "היום",
@@ -43,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "það sem"
+      "marks": "það sem þú gerðir við mig"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það sem"
     },
     {
       "surface": "עשיתה",
-      "gloss": "þú gjörðir"
+      "gloss": "þú gerðir"
     },
     {
       "surface": "אתי",
@@ -64,15 +43,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "það sem"
+      "marks": "það að Jahve lokaði mér í hendi þína"
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "það að"
     },
     {
       "surface": "סגרני",
-      "gloss": "gaf mig"
+      "gloss": "lokaði mig"
     },
     {
       "surface": "יהוה",
@@ -80,7 +59,7 @@
     },
     {
       "surface": "בידך",
-      "gloss": "í hendi þínar"
+      "gloss": "í hendi þína"
     },
     {
       "surface": "ולא",
@@ -88,9 +67,9 @@
     },
     {
       "surface": "הרגתני",
-      "gloss": "drápst mig"
+      "gloss": "drapt mig"
     }
   ],
-  "timestamp": "2026-10-19T09:06:40.270212684Z",
+  "timestamp": "2026-10-19T14:33:01.124682095Z",
   "model": "glm-5.3"
 }

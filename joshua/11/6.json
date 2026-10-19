@@ -5,33 +5,7 @@
   "book": "joshua",
   "lang": "is",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "לama á sinnum",
-      "rationale": "עקר er að lesa sýna eða rófa hesta — orðið 'lamar á sinnum' heldur myndinni af að gera þá ónothæfa"
-    },
-    {
-      "kind": "you",
-      "subject": "til Jósjúa",
-      "rationale": "Jahve talar beint til Jósjúa og hvetur hann og segir honum fyrir"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Íslenska setur framvegar við afterforgjöf í 'frammi fyrir'"
-    }
-  ],
-  "translation": "Og Jahve sagði við Jósjúa: Óttast þá ekki, því að á morgun, um þetta leyti, gef ég ⟨את⟩ alla þá fallna frammi fyrir Ísrael. Hesta þeirra skaltu lama á sinnum, og vagna þeirra skaltu brenna með eldi.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "b9a6acd5bcf88750ff216a45da301d8c052f1cef7bdab7f72de0bfd9e14fee4e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/11\/5-8.1792399131955.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jahve sagði við Jehósjúa: Óttast þá ekki, því á morgun um þessa sömu stund gef ég ⟨את⟩ alla þeirra fellda fyrir auglit Ísraels; ⟨את⟩ hesta þeirra skalt þú hjálfa og ⟨את⟩ vagna þeirra skalt þú brenna í eldi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Jósjúa"
+      "gloss": "Jehósjúa"
     },
     {
       "surface": "אל",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "ótta"
+      "gloss": "Óttast"
     },
     {
       "surface": "מפניהם",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "því að"
+      "gloss": "því"
     },
     {
       "surface": "מחר",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "כעת",
-      "gloss": "um þetta leyti"
+      "gloss": "um þessa sömu stund"
     },
     {
       "surface": "הזאת",
-      "gloss": "þetta"
+      "gloss": "þessa"
     },
     {
       "surface": "אנכי",
@@ -83,28 +57,28 @@
     },
     {
       "surface": "נתן",
-      "gloss": "gefi"
+      "gloss": "gef"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alla þá"
+      "marks": "alla þeirra fellda"
     },
     {
       "surface": "כלם",
-      "gloss": "alla"
+      "gloss": "alla þeirra"
     },
     {
       "surface": "חללים",
-      "gloss": "fallna"
+      "gloss": "fellda"
     },
     {
       "surface": "לפני",
-      "gloss": "frammi fyrir"
+      "gloss": "fyrir auglit"
     },
     {
       "surface": "ישראל",
-      "gloss": "Ísrael"
+      "gloss": "Ísraels"
     },
     {
       "surface": "את",
@@ -117,11 +91,11 @@
     },
     {
       "surface": "תעקר",
-      "gloss": "skaltu lama á sinnum"
+      "gloss": "skalt þú hjálfa"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "og ⟨את⟩",
       "marks": "vagna þeirra"
     },
     {
@@ -130,13 +104,13 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "skaltu brenna"
+      "gloss": "skalt þú brenna"
     },
     {
       "surface": "באש",
-      "gloss": "með eldi"
+      "gloss": "í eldi"
     }
   ],
-  "timestamp": "2026-10-19T08:38:51.956528315Z",
+  "timestamp": "2026-10-19T14:51:27.722945611Z",
   "model": "glm-5.3"
 }

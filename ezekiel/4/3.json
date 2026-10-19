@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "is",
-      "rationale": "מחבת: 'bökunarpotta' — flat járnföt eða panna; 'járnplata' (BSB) og 'járnpönnu' (JPS) báðar mögulegar"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'skal' — íslensk framtíðarmerking sem hebreska heldur í sagnarótinni"
-    }
-  ],
-  "translation": "Og þú, tak þér járnplötu og set hana sem járnvegg milli þín og borgarinnar, og beittu andliti þínu að henni, og hún skal vera í umsátri, og þú leggur um hana. Hún er tákn fyrir hús Ísraels.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "66c11e2a07e7aafcb7720c7cbcc031436c9fa9934da7cbb06fcfc64e6130be4f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/4\/1-4.1792406838363.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þú, tak til þín járnbaka, og gjörðu hana að járnvegg milli þín og borgarinnar, og gjörðu ⟨את⟩ andlit þitt varp að henni, og hún verður í umsátri, og þú leggur umsátur um hana — tákn er hún fyrir hús Ísraels.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "þér"
+      "gloss": "til þín"
     },
     {
       "surface": "מחבת",
-      "gloss": "járnpönnu"
+      "gloss": "járnbaka"
     },
     {
       "surface": "ברזל",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "ונתתה",
-      "gloss": "og set"
+      "gloss": "og gjörðu"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "hana (járnplötuna)"
+      "marks": "hana (jarðvegginn — קיר)"
     },
     {
       "surface": "קיר",
@@ -79,24 +58,24 @@
     },
     {
       "surface": "והכינתה",
-      "gloss": "og beittu"
+      "gloss": "og gjörðu"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "andliti þínu"
+      "marks": "andlit þitt (פניך)"
     },
     {
       "surface": "פניך",
-      "gloss": "andliti þínu"
+      "gloss": "andlit þitt"
     },
     {
       "surface": "אליה",
-      "gloss": "að henni"
+      "gloss": "varp að henni"
     },
     {
       "surface": "והיתה",
-      "gloss": "og hún skal vera"
+      "gloss": "og hún verður"
     },
     {
       "surface": "במצור",
@@ -104,11 +83,11 @@
     },
     {
       "surface": "וצרת",
-      "gloss": "og þú leggur um"
+      "gloss": "og þú leggur umsátur"
     },
     {
       "surface": "עליה",
-      "gloss": "hana"
+      "gloss": "um hana"
     },
     {
       "surface": "אות",
@@ -116,7 +95,7 @@
     },
     {
       "surface": "היא",
-      "gloss": "Hún er"
+      "gloss": "er hún"
     },
     {
       "surface": "לבית",
@@ -127,6 +106,6 @@
       "gloss": "Ísraels"
     }
   ],
-  "timestamp": "2026-10-19T10:47:18.364259971Z",
+  "timestamp": "2026-10-19T14:44:01.401172258Z",
   "model": "glm-5.3"
 }

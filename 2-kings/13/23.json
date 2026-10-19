@@ -5,37 +5,11 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אתם",
-      "rationale": "אוֹתָם er fornafn 'þá' (viðfang Jahve), ekki táknið את í hreinri mynd; geymt sem ⟨את⟩ þá."
-    },
-    {
-      "kind": "crux",
-      "subject": "בריתו את אברהם",
-      "rationale": "את hér er forsetningin 'með\/við' um sáttmálann, ekki viðfangsmerki; geymt sem 'við ⟨את⟩'."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "'þennan dag' fyrir עַתָּה — tvennt: 'fram að nú' eða 'fram á þennan dag'; hebreskan segir 'þá, nú'."
-    }
-  ],
-  "translation": "Og Jahve sýndi þeim náð og miskunnaði þeim og leit til þeirra vegna sáttmála síns við Avraham, Jitskhak og Jaakov, og vildi eyða þeim ekki og kastaði þeim ekki frá ásjónu sinni fram á þennan dag.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/13\/21-24.1792403180586.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Jahve sýndi ⟨את⟩ þeim miskunn og harmaði þá og sneri sér að þeim, fyrir sakir sáttmála síns við ⟨את⟩ Avraham, Jitskhak og Jaakov, og vildi ekki eyða þeim og hefur ekki varpað þeim frá andliti sínu fram að þessari stundu.",
   "tokens": [
     {
       "surface": "ויחן",
-      "gloss": "Og Jahve sýndi þeim náð"
+      "gloss": "sýndi miskunn"
     },
     {
       "surface": "יהוה",
@@ -43,24 +17,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ þá",
-      "marks": "Ísrael"
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
     },
     {
       "surface": "וירחמם",
-      "gloss": "og miskunnaði þeim"
+      "gloss": "harmaði þá"
     },
     {
       "surface": "ויפן",
-      "gloss": "og leit til"
+      "gloss": "sneri sér"
     },
     {
       "surface": "אליהם",
-      "gloss": "þeirra"
+      "gloss": "að þeim"
     },
     {
       "surface": "למען",
-      "gloss": "vegna"
+      "gloss": "fyrir sakir"
     },
     {
       "surface": "בריתו",
@@ -68,8 +42,8 @@
     },
     {
       "surface": "את",
-      "gloss": "við ⟨את⟩",
-      "marks": "Avraham"
+      "gloss": "⟨את⟩",
+      "marks": "Avraham, Jitskhak og Jaakov"
     },
     {
       "surface": "אברהם",
@@ -85,7 +59,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "og ... ekki"
+      "gloss": "og ekki"
     },
     {
       "surface": "אבה",
@@ -101,7 +75,7 @@
     },
     {
       "surface": "השליכם",
-      "gloss": "kastaði þeim"
+      "gloss": "varpað þeim"
     },
     {
       "surface": "מעל",
@@ -109,17 +83,17 @@
     },
     {
       "surface": "פניו",
-      "gloss": "ásjónu sinni"
+      "gloss": "andliti sínu"
     },
     {
       "surface": "עד",
-      "gloss": "fram á"
+      "gloss": "fram að"
     },
     {
       "surface": "עתה",
-      "gloss": "þennan dag"
+      "gloss": "þessari stundu"
     }
   ],
-  "timestamp": "2026-10-19T09:46:20.587507482Z",
+  "timestamp": "2026-10-19T14:34:58.832790670Z",
   "model": "glm-5.3"
 }

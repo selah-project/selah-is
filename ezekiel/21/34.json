@@ -5,48 +5,27 @@
   "book": "ezekiel",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אותך",
-      "rationale": "þetta er fornafnið „þig“ (אֹתָךְ), ekki viðmarkið ⟨את⟩"
-    },
-    {
-      "kind": "crux",
-      "subject": "בחזות לך שוא",
-      "rationale": "„þær sjá fyrir þér órökt“ — hver sjá? sverðsspámennirnir; íslenskan notar ópersónna mynd"
-    }
-  ],
-  "translation": "Því að séð er fyrir þig það er ósatt, og vélspáð er fyrir þig lygi, til að leggja þig á hálsa sára ranglátra, þeirra er dagur þeirra er kominn, á tímasetningu misgerða endaloksins.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6786dcd0107e9a4ccead9d696ea3bfdd1b10ff1c29958d6821fa7d933f1aff1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/21\/33-36.1792407292941.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Með sjónir að sjá þér fals, með galdur að spá þér lygi — til að leggja ⟨את⟩ þig á háls hinna felldu ranglátu, þeirra er dagur ⟨þeirra⟩ er kominn, á tíma afnstöðu, endinn.",
   "tokens": [
     {
       "surface": "בחזות",
-      "gloss": "séð er"
+      "gloss": "með sjónir að sjá"
     },
     {
       "surface": "לך",
-      "gloss": "fyrir þig"
+      "gloss": "þér"
     },
     {
       "surface": "שוא",
-      "gloss": "það er ósatt"
+      "gloss": "fals"
     },
     {
       "surface": "בקסם",
-      "gloss": "vélspáð er"
+      "gloss": "með galdur að spá"
     },
     {
       "surface": "לך",
-      "gloss": "fyrir þig"
+      "gloss": "þér"
     },
     {
       "surface": "כזב",
@@ -58,7 +37,8 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ þig"
+      "gloss": "⟨את⟩ þig",
+      "marks": "á háls hinna felldu ranglátu"
     },
     {
       "surface": "אל",
@@ -66,15 +46,15 @@
     },
     {
       "surface": "צוארי",
-      "gloss": "hálsa"
+      "gloss": "háls"
     },
     {
       "surface": "חללי",
-      "gloss": "sára"
+      "gloss": "hinna felldu"
     },
     {
       "surface": "רשעים",
-      "gloss": "ranglátra"
+      "gloss": "ranglátu"
     },
     {
       "surface": "אשר",
@@ -86,21 +66,21 @@
     },
     {
       "surface": "יומם",
-      "gloss": "dagur þeirra"
+      "gloss": "dagur"
     },
     {
       "surface": "בעת",
-      "gloss": "á tímasetningu"
+      "gloss": "á tíma"
     },
     {
       "surface": "עון",
-      "gloss": "misgerða"
+      "gloss": "afnstöðu"
     },
     {
       "surface": "קץ",
-      "gloss": "endaloksins"
+      "gloss": "endinn"
     }
   ],
-  "timestamp": "2026-10-19T10:54:52.942945349Z",
+  "timestamp": "2026-10-19T14:43:11.582434984Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "exodus",
   "lang": "is",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ómer",
-      "rationale": "Mælieiningin ómer varðveitt eftir hljóði — sbr. D3."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "Tvenn אתכם-merki (fellismerki beinar setningar) runnin saman við fornöfn í íslensku."
-    }
-  ],
-  "translation": "Og Mósje sagði: Þetta er orðið sem Jahve hefir boðið: Fyllið ómer af því til varðveitingar fyrir kynslóðir yðar, til þess að þeir sjái ⟨את⟩ brauðið sem ég lét yður eta í eyðimörkinni, er ég leiddi yður út af landi Mitsrajím.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/16\/29-32.1792394532512.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Mósje sagði: Þetta er það orð sem Jahve hefur boðið: Fyllið ómer af því til varðveislu fyrir kynslóðir yðar, til þess að þær megi sjá ⟨את⟩ brauðið sem ég gaf yður að borða ⟨את⟩ yður í eyðimörkinni, þegar ég leiddi ⟨את⟩ yður út úr landi Mitsrajím.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Og sagði"
+      "gloss": "Og Mósje sagði"
     },
     {
       "surface": "משה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "er orðið"
+      "gloss": "orðið"
     },
     {
       "surface": "אשר",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "hefir boðið"
+      "gloss": "hefur boðið"
     },
     {
       "surface": "יהוה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "למשמרת",
-      "gloss": "til varðveitingar"
+      "gloss": "til varðveislu"
     },
     {
       "surface": "לדרתיכם",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "יראו",
-      "gloss": "þeir sjái"
+      "gloss": "þær megi sjá"
     },
     {
       "surface": "את",
@@ -99,11 +78,12 @@
     },
     {
       "surface": "האכלתי",
-      "gloss": "ég lét eta"
+      "gloss": "ég gaf yður að borða"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ yður",
+      "marks": "í eyðimörkinni"
     },
     {
       "surface": "במדבר",
@@ -111,21 +91,22 @@
     },
     {
       "surface": "בהוציאי",
-      "gloss": "er ég leiddi út"
+      "gloss": "þegar ég leiddi út"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður"
+      "gloss": "⟨את⟩ yður",
+      "marks": "út úr landi Mitsrajím"
     },
     {
       "surface": "מארץ",
-      "gloss": "af landi"
+      "gloss": "úrk landi"
     },
     {
       "surface": "מצרים",
       "gloss": "Mitsrajím"
     }
   ],
-  "timestamp": "2026-10-19T07:22:12.513320635Z",
+  "timestamp": "2026-10-19T14:41:00.165435895Z",
   "model": "glm-5.3"
 }

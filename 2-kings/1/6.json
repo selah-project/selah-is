@@ -5,43 +5,7 @@
   "book": "2-kings",
   "lang": "is",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "שם",
-      "rationale": "Atviksorðið „þar“ fellur niður — æðan er nú þegar í setningunni"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כי מות תמות",
-      "rationale": "Óendanleg form í hebresku („deyja skalt þú deyja“) — gefið sem „víst deyja“"
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Spurningarforsmiðinn „Er það af því að…“ — המבלי er aðeins forsmið með ofverki, ekki fullt sögn"
-    },
-    {
-      "kind": "you",
-      "subject": "Achazja konungur",
-      "rationale": "Skilaboð Jahve gegn konungnum í munn sendiboðanna"
-    },
-    {
-      "kind": "substitution",
-      "subject": "אלהי עקרון",
-      "rationale": "„Elóhím Ekrons“ — heiti guðs Ekrons, ekki guð Ísraels"
-    }
-  ],
-  "translation": "Og þeir sögðu við hann: Maður ók til okkar og sagði við okkur: Farið, snúið aftur til konungsins sem sendi ⟨את⟩ yður, og talið við hann: Þannig segir Jahve: Er það af því að enginn Elóhím er í Ísrael, að þú sendir að spyrja Baal-sevúv, Elóhím Ekrons, til? Fyrir því skalt þú ekki stíga niður af rúminu sem þú hefur stigið upp á, heldur skalt þú víst deyja.",
-  "provenance": {
-    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
-    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/1\/5-8.1792402828991.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og þeir sögðu honum: Maður ók upp til móts við okkur og sagði okkur: Farið, snúið aftur til konungsins er sendi ⟨את⟩ yður, og talið við hann: Svo segir Jahve: Er það af því að það er enginn Elóhím í Ísrael, að þú sendir að spyrja í Baal-Sebúb, Elóhím Ekrons? Þess vegna mun þú ekki stíga niður af rúminu sem þú steigst á þar, nei, þú munt vissulega deyja.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -49,19 +13,19 @@
     },
     {
       "surface": "אליו",
-      "gloss": "við hann"
+      "gloss": "honum"
     },
     {
       "surface": "איש",
-      "gloss": "Maður"
+      "gloss": "maður"
     },
     {
       "surface": "עלה",
-      "gloss": "ók"
+      "gloss": "ók upp"
     },
     {
       "surface": "לקראתנו",
-      "gloss": "til okkar"
+      "gloss": "til móts við okkur"
     },
     {
       "surface": "ויאמר",
@@ -69,7 +33,7 @@
     },
     {
       "surface": "אלינו",
-      "gloss": "við okkur"
+      "gloss": "okkur"
     },
     {
       "surface": "לכו",
@@ -89,7 +53,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sem"
+      "gloss": "er"
     },
     {
       "surface": "שלח",
@@ -97,8 +61,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ yður",
-      "marks": "yður"
+      "gloss": "⟨את⟩",
+      "marks": "yður (sendiherrana)"
     },
     {
       "surface": "ודברתם",
@@ -110,7 +74,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "Þannig"
+      "gloss": "Svo"
     },
     {
       "surface": "אמר",
@@ -122,11 +86,11 @@
     },
     {
       "surface": "המבלי",
-      "gloss": "Er það af því að"
+      "gloss": "af því að"
     },
     {
       "surface": "אין",
-      "gloss": "enginn"
+      "gloss": "það er enginn"
     },
     {
       "surface": "אלהים",
@@ -150,11 +114,11 @@
     },
     {
       "surface": "בבעל",
-      "gloss": "Baal"
+      "gloss": "í Baal-"
     },
     {
       "surface": "זבוב",
-      "gloss": "sevúv"
+      "gloss": "Sebúb"
     },
     {
       "surface": "אלהי",
@@ -166,7 +130,7 @@
     },
     {
       "surface": "לכן",
-      "gloss": "Fyrir því"
+      "gloss": "Þess vegna"
     },
     {
       "surface": "המטה",
@@ -178,11 +142,11 @@
     },
     {
       "surface": "עלית",
-      "gloss": "þú hefur stigið upp á"
+      "gloss": "þú steigst á"
     },
     {
       "surface": "שם",
-      "gloss": ""
+      "gloss": "þar"
     },
     {
       "surface": "לא",
@@ -190,25 +154,25 @@
     },
     {
       "surface": "תרד",
-      "gloss": "skalt þú stíga niður"
+      "gloss": "stíga niður"
     },
     {
       "surface": "ממנה",
-      "gloss": "af"
+      "gloss": "af því"
     },
     {
       "surface": "כי",
-      "gloss": "heldur"
+      "gloss": "nei, þú munt vissulega"
     },
     {
       "surface": "מות",
-      "gloss": "víst"
+      "gloss": "deyja"
     },
     {
       "surface": "תמות",
       "gloss": "deyja"
     }
   ],
-  "timestamp": "2026-10-19T09:40:28.991988834Z",
+  "timestamp": "2026-10-19T14:35:12.878986238Z",
   "model": "glm-5.3"
 }

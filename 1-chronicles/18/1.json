@@ -5,27 +5,11 @@
   "book": "1-chronicles",
   "lang": "is",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "מיד, 'af hendi', hebreskt myndmál um vald, tekið bókstaflega."
-    }
-  ],
-  "translation": "Og eftir þetta lagði Davíð ‹את› ⟨את⟩ Filistímenn að velli og hafði þá undir sér, og tók ‹את› ⟨את⟩ Gath og bæi hennar af hendi Filistímann.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/18\/1-4.1792414886909.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og eftir þetta gerðist það að Davíð laust Filistíumenn og lágði ⟨את⟩ þá niður, og hann tók ⟨את⟩ Gat og dætur borgarinnar úr hönd Filistímanna.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Og eftir þetta"
+      "gloss": "gerðist"
     },
     {
       "surface": "אחרי",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "ויך",
-      "gloss": "lagði að velli"
+      "gloss": "laust"
     },
     {
       "surface": "דויד",
@@ -46,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Filistímenn"
+      "marks": "Filistíumenn"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistímenn"
+      "gloss": "Filistíumenn"
     },
     {
       "surface": "ויכניעם",
-      "gloss": "hafði þá undir sér"
+      "gloss": "lágði ⟨את⟩ þá niður"
     },
     {
       "surface": "ויקח",
@@ -63,25 +47,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gath"
+      "marks": "Gat"
     },
     {
       "surface": "גת",
-      "gloss": "Gath"
+      "gloss": "Gat"
     },
     {
       "surface": "ובנתיה",
-      "gloss": "og bæi hennar"
+      "gloss": "og dætur borgarinnar"
     },
     {
       "surface": "מיד",
-      "gloss": "af hendi"
+      "gloss": "úr hönd"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filistímann"
+      "gloss": "Filistímanna"
     }
   ],
-  "timestamp": "2026-10-19T13:01:26.910075176Z",
+  "timestamp": "2026-10-19T14:30:34.045120102Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "is",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "is",
-      "rationale": "כפי 'samkvæmt munninum' er hebreskt myndmál fyrir 'samkvæmt þörf eða mæti'"
-    },
-    {
-      "kind": "addition",
-      "subject": "þau",
-      "rationale": "Forsagðir hlutir (vagnarnir og nautin) bætt við sem frumlag"
-    }
-  ],
-  "translation": "Taktu frá þeim, og ⟨þau⟩ skulu til að gegna ⟨את⟩ þjónustu fundatjaldsins, og þú skalt gefa þau Levítum, hverjum eftir munni þjónustu hans.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/7\/5-8.1792396475285.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taktu ⟨את⟩ þeirra fyrir hendur, og skal þau til að inna ⟨את⟩ þjónustu samfundatjaldsins, og þú skalt gefa ⟨את⟩ þau Levítunum, hvern samkvæmt þjónustu sinni.",
   "tokens": [
     {
       "surface": "קח",
@@ -34,20 +13,21 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "frá ⟨את⟩ þeim"
+      "gloss": "⟨את⟩ þeirra fyrir hendur",
+      "marks": "þeirra (gjafirnar)"
     },
     {
       "surface": "והיו",
-      "gloss": "og ⟨þau⟩ skulu"
+      "gloss": "og skal þau"
     },
     {
       "surface": "לעבד",
-      "gloss": "til að gegna"
+      "gloss": "til að inna"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "þjónustu"
+      "marks": "þjónustu samfundatjaldsins"
     },
     {
       "surface": "עבדת",
@@ -55,11 +35,11 @@
     },
     {
       "surface": "אהל",
-      "gloss": "tjaldbúð"
+      "gloss": "tjalds"
     },
     {
       "surface": "מועד",
-      "gloss": "fundar"
+      "gloss": "samfundar"
     },
     {
       "surface": "ונתתה",
@@ -68,7 +48,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ þau",
-      "marks": "Levítum"
+      "marks": "Levítunum"
     },
     {
       "surface": "אל",
@@ -80,17 +60,17 @@
     },
     {
       "surface": "איש",
-      "gloss": "hverjum"
+      "gloss": "hvern"
     },
     {
       "surface": "כפי",
-      "gloss": "eftir munni"
+      "gloss": "samkvæmt munnháttu"
     },
     {
       "surface": "עבדתו",
-      "gloss": "þjónustu hans"
+      "gloss": "þjónustu sinni"
     }
   ],
-  "timestamp": "2026-10-19T07:54:35.285634122Z",
+  "timestamp": "2026-10-19T14:56:45.953801961Z",
   "model": "glm-5.3"
 }

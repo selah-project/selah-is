@@ -5,38 +5,11 @@
   "book": "ezra",
   "lang": "is",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Eláha",
-      "rationale": "Aramska אלה ritað eftir hljóði (Eláha), ekki skipt út fyrir 'Guð'."
-    },
-    {
-      "kind": "addition",
-      "subject": "is",
-      "gloss-ok": true,
-      "rationale": "'það' bætt við í annarri setningu; hebreskan klárar með sögn einni."
-    },
-    {
-      "kind": "measurement",
-      "subject": "is",
-      "rationale": "Aldur hússins talinn: 'mörgum árum' — mæling á tíma til að sýna rétt smíðarétt."
-    }
-  ],
-  "translation": "Og svo svarið skiluðu þeir okkur, segjandi: Vér erum þjónar Eláha himins og jarðar og erum að byggja húsið sem byggt var fyrir mörgum árum, og mikill konungur Ísraels byggði það og fullkomnaði það.",
-  "provenance": {
-    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
-    "user-sha256": "6f0194daeb0c502c78af644e055c7a686e17bb76e25cf0d29652c51c4e944966",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/5\/9-12.1792413880719.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og svo urðu þeir svari náðir og sögðu: Vér erum ⟨þeir⟩ þjónar Elóhím himnanna og jarðar, og vér erum að byggja húsið ⟨𝑡𝑕𝑎𝑡⟩ var byggt mörgum árum fyrr, og mikill konungur Ísraels byggingaði ⟨þ𝑎𝑡⟩ og fullkomnaði.",
   "tokens": [
     {
       "surface": "וכנמא",
-      "gloss": "Og svo"
+      "gloss": "og svo"
     },
     {
       "surface": "פתגמא",
@@ -44,19 +17,19 @@
     },
     {
       "surface": "התיבונא",
-      "gloss": "skiluðu"
+      "gloss": "urðu… náðir"
     },
     {
       "surface": "לממר",
-      "gloss": "segjandi"
+      "gloss": "og sögðu"
     },
     {
       "surface": "אנחנא",
-      "gloss": "Vér"
+      "gloss": "vér"
     },
     {
       "surface": "המו",
-      "gloss": "þeir"
+      "gloss": "⟨þeir⟩"
     },
     {
       "surface": "עבדוהי",
@@ -64,15 +37,15 @@
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "erum"
     },
     {
       "surface": "אלה",
-      "gloss": "Eláha"
+      "gloss": "Elóhím"
     },
     {
       "surface": "שמיא",
-      "gloss": "himins"
+      "gloss": "himnanna"
     },
     {
       "surface": "וארעא",
@@ -80,7 +53,7 @@
     },
     {
       "surface": "ובנין",
-      "gloss": "og erum að byggja"
+      "gloss": "og byggingum"
     },
     {
       "surface": "ביתא",
@@ -88,7 +61,7 @@
     },
     {
       "surface": "די",
-      "gloss": "sem"
+      "gloss": "⟨𝑡𝑕𝑎𝑡⟩"
     },
     {
       "surface": "הוא",
@@ -100,7 +73,7 @@
     },
     {
       "surface": "מקדמת",
-      "gloss": "fyrir"
+      "gloss": "fyrr"
     },
     {
       "surface": "דנה",
@@ -112,7 +85,7 @@
     },
     {
       "surface": "שגיאן",
-      "gloss": "morgum"
+      "gloss": "margfeldis"
     },
     {
       "surface": "ומלך",
@@ -128,13 +101,13 @@
     },
     {
       "surface": "בנהי",
-      "gloss": "byggði"
+      "gloss": "byggingaði ⟨þ𝑎𝑡⟩"
     },
     {
       "surface": "ושכללה",
       "gloss": "og fullkomnaði"
     }
   ],
-  "timestamp": "2026-10-19T12:44:40.720946393Z",
+  "timestamp": "2026-10-19T14:44:29.803252866Z",
   "model": "glm-5.3"
 }
