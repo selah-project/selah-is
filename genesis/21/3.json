@@ -5,32 +5,11 @@
   "book": "genesis",
   "lang": "is",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "is",
-      "rationale": "Sagnbótin 'er' í aftengda setningunni — hebreska þáttunum hennar er skotið inn í íslensku."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "is",
-      "rationale": "Jitskhak ('hann hlær') vísar til hlátrar Söru í 1. Mós 18:12; nafngiftin lokar þeirri þráð."
-    }
-  ],
-  "translation": "Og Avraham kallaði ⟨את⟩ nafn sonar síns, ⟨ה⟩⟨er⟩ fæddist honum, þann sem Sara fæddi honum, Jitskhak.",
-  "provenance": {
-    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
-    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/21\/1-4.1792393040103.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Og Avraham gaf syni sínum ⟨את⟩ nafn — þeim sem fæddur var honum, þeim er Sára hafði alið honum — Jitskhak.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "Og kallaði"
+      "gloss": "gaf nafn"
     },
     {
       "surface": "אברהם",
@@ -39,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nafn sonar síns"
+      "marks": "nafn"
     },
     {
       "surface": "שם",
@@ -47,11 +26,11 @@
     },
     {
       "surface": "בנו",
-      "gloss": "sonar síns"
+      "gloss": "syni sínum"
     },
     {
       "surface": "הנולד",
-      "gloss": "⟨er⟩ fæddist"
+      "gloss": "þeim sem fæddur var"
     },
     {
       "surface": "לו",
@@ -59,11 +38,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "þann sem"
+      "gloss": "þeim er"
     },
     {
       "surface": "ילדה",
-      "gloss": "fæddi"
+      "gloss": "hafði alið"
     },
     {
       "surface": "לו",
@@ -71,13 +50,13 @@
     },
     {
       "surface": "שרה",
-      "gloss": "Sara"
+      "gloss": "Sára"
     },
     {
       "surface": "יצחק",
       "gloss": "Jitskhak"
     }
   ],
-  "timestamp": "2026-10-19T06:57:20.104644942Z",
+  "timestamp": "2026-10-19T15:45:51.266657876Z",
   "model": "glm-5.3"
 }
