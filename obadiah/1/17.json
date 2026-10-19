@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "obadiah 1:17",
+  "book": "obadiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פליטה er „það sem slopp“ — „björgun“ eða „leifa“; flókið orð, ýmsar þýðingar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "פליטה má líka skilja samkvæmt: „þeir sem komast undan“ (JPS)"
+    }
+  ],
+  "translation": "En á fjalli Tsíjon mun björgun vera, og það mun vera heilagt, og hús Jaakobs mun erfðfá ⟨את⟩ erfðaland sitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a5f4f887ba967b26c1bd44adcde380c4937493ecf94d78ffb00ecb06cc7af6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/obadiah\/1\/17-20.1792408494613.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "en á fjalli"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsíjon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mun vera"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "björgun"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og það mun vera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilagt"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "mun erfðfá"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erfðaland sitt"
+    },
+    {
+      "surface": "מורשיהם",
+      "gloss": "erfðaland sitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:14:54.614392251Z",
+  "model": "glm-5.3"
+}

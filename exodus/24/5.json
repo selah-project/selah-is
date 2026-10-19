@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עלה merkir „það sem fer upp“ — fluttu upp heldur glöggvara en „bárðu“."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "שלמים: heildar-fórnir (samstofna שלום) — „þakkarfórnir“ eða „friðarfórnir“ hjá öðrum."
+    }
+  ],
+  "translation": "Og hann sendi ⟨את⟩ ungmenni Ísraelsmanna, og þeir fluttu upp brennifórnir og slátruðu slátrun-fórnir, heildar-fórnir, fyrir Jahve, nautunga.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/24\/5-8.1792394769854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og hann sendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ungmenni Ísraelsmanna"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ungmenni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "manna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "og þeir fluttu upp"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brennifórnir"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "og slátruðu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slátrun-fórnir"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "heildar-fórnir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "nautunga"
+    }
+  ],
+  "timestamp": "2026-10-19T07:26:09.855376850Z",
+  "model": "glm-5.3"
+}

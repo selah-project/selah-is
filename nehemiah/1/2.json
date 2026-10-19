@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 1:2",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הפליטה er nafnorð, 'hin undan sluppa' — þýtt sem lýsingarsetning."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'mínum' bætt við — hebreskan segir aðeins 'af bræðrum'."
+    }
+  ],
+  "translation": "þá kom Hanani, einn af bræðrum mínum, hann og menn frá Júda; og ég spurði um Gyðingana, ⟨þá⟩ sem sleppt höfðu undan, þá sem eftir höfðu verið af hernumnum, og um Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4d487a4e1c62f57474de3b334f9eae225fa2412ea2f0c6ce0e4812639bc0e52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/1\/1-4.1792414054995.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "þá kom"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "af bræðrum mínum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "og menn"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "frá Júda"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "og ég spurði"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Gyðingana"
+    },
+    {
+      "surface": "הפליטה",
+      "gloss": "⟨þá⟩ sem sleppt höfðu undan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "eftir höfðu verið"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "hernumnum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og um"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T12:47:34.996557079Z",
+  "model": "glm-5.3"
+}

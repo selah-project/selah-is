@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 32:13",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תדלחם",
+      "rationale": "orðið דלח (að grugga upp vatni) endurtekið tvisvar — speglandi tómi og kyrrð vatnanna — glatarst ekki í íslenskunni með 'grugga'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "framtíðarhjálpáttan 'mun\/munu' bætt við; hebreskan hefur hjátt sagnmynd"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דָּלַח",
+      "rationale": "sagnorðið 'að grugga upp vatni' afar sjaldgæft í Tanakh"
+    }
+  ],
+  "translation": "Og ég mun eyða ⟨את⟩ öllu búfénu hennar, frá vötnum mörgu; og fótur manns mun ekki grugga þau meira, og klaufir skepna munu ekki grugga þau.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ea43647c18cfa8272363a7be921856d06ffb4585a8ec045dde12c071902d76fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/32\/13-16.1792407623360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאבדתי",
+      "gloss": "og mun ég eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu búfénu hennar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "búfénu hennar"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "frá"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötnum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mörgu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תדלחם",
+      "gloss": "mun grugga þau"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fótur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manns"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meira"
+    },
+    {
+      "surface": "ופרסות",
+      "gloss": "og klaufir"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "skepna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תדלחם",
+      "gloss": "munu grugga þau"
+    }
+  ],
+  "timestamp": "2026-10-19T11:00:23.361442581Z",
+  "model": "glm-5.3"
+}

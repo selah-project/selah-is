@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סמוכים",
+      "rationale": "Nafnháttarþátturinn án nafnorðs tekur fram á 'skipanirnar' úr 7. versi — íslenskan heldur fleirtölu 'studdar' en lesandinn þarf samhengið."
+    },
+    {
+      "kind": "measurement",
+      "subject": "לעד לעולם",
+      "rationale": "Tvítöld tímatákna: 'að eilífu, til aldur langan' — hebreskur hrynjandi í varanleikanum."
+    }
+  ],
+  "translation": "Studdar að eilífu, til aldur langan, gjörðar í sannleika og réttvísi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ac6105171b3cc244d57c5875fc5bb9ca82c2c5f9d24bd5aea6be085fb81f9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/111\/5-8.1792410700557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "studdar"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til aldur langan"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gjörðar"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "í sannleika"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og réttvísi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:40.558835673Z",
+  "model": "glm-5.3"
+}

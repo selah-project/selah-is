@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Jökull fyndi ekki — ítalska 'siate' vantar; hebreska hefur enga spendingarþáttu, hún er óbein."
+    },
+    {
+      "kind": "substitution",
+      "subject": "björgun",
+      "rationale": "תשועה er „útkoma, frelsun, hjálp í vanda“ — ekki kirkjuleg „sál“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישישו\/ישמחו",
+      "rationale": "Tvenn rót sama gamanorðs (שוש\/שמח) í samtengingu — hrynjandi sem glatist á íslensku."
+    }
+  ],
+  "translation": "Gleðjist og fagni í þér allir þeir sem leita þín; þeir sem elska björgun þína segi eitt og alltaf: Jahve sé stóraður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/40\/17-18.1792409699637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "Gleðjist"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "og fagni"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "þeir sem leita þín"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "segi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "eitt og alltaf"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "sé stóraður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "þeir sem elska"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "björgun þína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:59.638022407Z",
+  "model": "glm-5.3"
+}

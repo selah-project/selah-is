@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח ritað eftir hljóði — vindur, andi og reiði í einu orði, ekki skipt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefs hans",
+      "rationale": "אפו er bókstaflega 'nefið hans' — reiðin er í myndinni, ekki í orðinu"
+    }
+  ],
+  "translation": "Af blástri Elóa fara þeir undir, og af rúakh nefs hans eru þeir uppurðir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/4\/9-12.1792411751096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "af blástri"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elóa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "fara þeir undir"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "og af rúakh"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "nefs hans"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "eru þeir uppurðir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:11.097140984Z",
+  "model": "glm-5.3"
+}

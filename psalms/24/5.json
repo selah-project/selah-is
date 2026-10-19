@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקה er gefið sem tsedek samkvæmt reglu D2, ekki „réttlæti“."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„sinnar“ bætt við til að tengja hjálpina við manninn í 24:4."
+    }
+  ],
+  "translation": "Hann skal bera blessun frá ⟨את⟩ Jahve og tsedek frá Elóhím hjálpar sinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/24\/5-8.1792409519393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "skal bera"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "blessun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "frá ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "og tsedek"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "frá Elóhím"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "hjálpar sinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:59.393897296Z",
+  "model": "glm-5.3"
+}

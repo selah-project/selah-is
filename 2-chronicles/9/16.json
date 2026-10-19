@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "300 skjalda, 300 (sikla) gulls hvern."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨þau⟩",
+      "rationale": "Fornafnið er ekki í hebreskunni, bætt við til skýrleika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skjöldur",
+      "rationale": "מגלן er minni skjöldur en צנה (stórskjöldur) í v. 15."
+    }
+  ],
+  "translation": "Og þrjú hundruð skjalda af slegnu gulli; þrjú hundruð gulls fóru á hvern einasta skjöld, og konungurinn setti ⟨þau⟩ í skógarhus Líbanons.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/9\/13-16.1792415376190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "Og þrjú"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "skjalda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulls"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "slegnu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "þrjú"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulls"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "fóru"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "skjöldinn"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "einasta"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "og setti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í hús"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skógar"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Líbanons"
+    }
+  ],
+  "timestamp": "2026-10-19T13:09:36.191712361Z",
+  "model": "glm-5.3"
+}

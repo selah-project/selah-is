@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חרב er rót 'þurrkur' en merkir hér vígtækið — 'sverð' rétt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "'Ransom' ella 'greiðir fyrir' fyrir פדך — 'leysa lausan' heldur mynd lausnargjaldsins"
+    }
+  ],
+  "translation": "Í hungri leysir hann þig lausan frá dauðanum, og í stríði frá höndum sverðsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "427affed229b5bac39a9b491848528afae2021d0c6c465fa74b26aefc45bdc9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/5\/17-20.1792411870632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Í hungri"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "leysir hann þig lausan"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "frá dauðanum"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "og í stríði"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "frá höndum"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðsins"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:10.633950554Z",
+  "model": "glm-5.3"
+}

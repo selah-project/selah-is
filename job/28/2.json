@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'að' bætt við — hebreskan segir aðeins 'steinn er steypt kopar'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עפר er 'ryk' eða 'mold', ekki 'jörð' almennt."
+    }
+  ],
+  "translation": "Járn er tekið úr ryki, og steinn er bræddur ⟨að⟩ kopar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "52dae17b43d3f36ab5283c0c1e3c298701dda8eeb7cf35161e78385598fda6ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/28\/1-4.1792412277732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Járn"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "úr ryki"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "er tekið"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og steinn"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "er bræddur"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "kopar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:57.732846081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טרף",
+      "rationale": "Orðið er hið sama og 'terefah' — dýr sem rifið hefur verið; merkir að slíta í mola."
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Sambandsorð bætt við til að tengja ljónsmyndina við óvinina."
+    }
+  ],
+  "translation": "Munnur þeirra opnast gegn mér, sem ljón sem slítur sundur og rýtr.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/22\/13-16.1792409442478.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "opnast"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "munnur þeirra"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ljón"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "slítur sundur"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "og rýtr"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:42.479445456Z",
+  "model": "glm-5.3"
+}

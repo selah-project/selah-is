@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "strykur út",
+      "rationale": "מחה er 'að strjúka\/þvo af' — ritingin skoluð af í vatnið; 'blot out' er ensk mynd"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרים \/ המאררים",
+      "rationale": "beiska vatnið (מר) ber sama rót-anda og bölvunin (ארר); þuluna og vatnið eru eitt"
+    }
+  ],
+  "translation": "Og presturinn skrifar ⟨את⟩ þessar bölvanir í bók og strýkur þær út í beiskuvatninu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "abd4e00e9a3e73fb3b1f7352c1a192c2bd388d68ae7736deebaa97ab69d52d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/5\/22-23.1792416401573.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "og skrifar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessar bölvanir"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "bölvanirnar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "í bók"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "og strýkur út"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "beisku"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:41.574276417Z",
+  "model": "glm-5.3"
+}

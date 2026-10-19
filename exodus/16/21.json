@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "כפי אכלו 'eftir munni éta sinni' — hebreska myndin um munn sem mál matur; íslenskan segir 'eftir neyslu' eða 'eftir munni'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ונמס 'bráðnaði' er bætt við 'það' — hebreskan segir aðeins 'og það bráðnaði (af sólarhita)'."
+    }
+  ],
+  "translation": "Og þeir söfnuðu ⟨את⟩ því morgun eftir morgun, hver maður eftir munni sinni til að eta, en er sólin hló, bráðnaði það.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/16\/21-24.1792394524961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "söfnuðu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "því"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "eftir morgun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver maður"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "eftir munni sinni"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "til að eta"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "hló"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólin"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "bráðnaði það"
+    }
+  ],
+  "timestamp": "2026-10-19T07:22:04.962593259Z",
+  "model": "glm-5.3"
+}

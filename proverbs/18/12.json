@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "brot",
+      "rationale": "שבר er beinbrot, brot — mynd hruns; 'hrun' eða 'falls' er víðtækari valkostur"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לפני ... ולפני",
+      "rationale": "Endurtekið 'fyrir\/að undirlagi' gerir kíasma hæð—lækjun; geymist í íslensku"
+    }
+  ],
+  "translation": "Fyrir brot hækkar hjarta manns, en fyrir framdýrkun komi lækjun.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eddb02db82d8ac86c48ed94bdfd03d31448b8a6062c564d01485dd56172109e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/18\/9-12.1792411436940.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Fyrir"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "brot"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "hækkar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en fyrir"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "framdýrkun"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "lækjun"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:56.941981151Z",
+  "model": "glm-5.3"
+}

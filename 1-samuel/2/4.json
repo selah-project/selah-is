@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨þeir⟩ bætt við — íslenskan þarf furnöfn við hlutfallarsmíðinni"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכשלים",
+      "rationale": "„Þeir sem sagt upp hafa sig“ eða „þeir sem hrísa“ — bókstaflega að velta eða stapast"
+    }
+  ],
+  "translation": "Bogar kjenna eru brotnir, og ⟨þeir⟩ sem sagt upp hafa sig hafa gyrt sig með mátt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "de876f4b77ed6ae946f0fbcb09ebde86173e2e0da637a189c61241495c1bd821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/1-4.1792400148845.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "Bogar"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "kjenna"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "eru brotnir"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "og ⟨þeir⟩ sem sagt upp hafa sig"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "hafa gyrt sig"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "með mátt"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:48.846454229Z",
+  "model": "glm-5.3"
+}

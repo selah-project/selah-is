@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨degi⟩ bætt við — hebreskan segir aðeins 'á níunda mánaðarins'."
+    },
+    {
+      "kind": "crux",
+      "subject": "fjórði mánuður",
+      "rationale": "KJV\/ASV bæta við 'fjórða' mánuðinum út frá Jeremía 52:6 — hebreskan hér nefnir hann ekki."
+    }
+  ],
+  "translation": "á níunda ⟨degi⟩ mánaðarins, og harðnaði sveltið í borginni, og varð ekkert brauð fyrir lýð landsins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/25\/1-4.1792403667559.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "á níunda"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mánaðarins"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "og harðnaði"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "sveltið"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borginni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og varð ekki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "neitt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fyrir lýð"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landsins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:54:27.560689874Z",
+  "model": "glm-5.3"
+}

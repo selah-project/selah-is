@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מאד 'af krafti' fellur saman við samanburðinn 'meira en' — hebreskan segir 'lítillátur, mjög' og samanburðurinn kemur út samruni."
+    },
+    {
+      "kind": "crux",
+      "subject": "er þetta Mósje-rit?",
+      "rationale": "Hver ritar þetta — Mósje sjálfur? Hið rabbínska svar (Mósebók Rabba) segir að Heilagi Andi hafi ritað það; sumir telja setninguna seinni innskot."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על־פני האדמה",
+      "rationale": "'Á andliti jarðarinnar' — tekið sem 'á yfirborði jarðarinnar' til að halda myndinni."
+    }
+  ],
+  "translation": "Og maðurinn Mósje var lítillátur meira en allir mennirnir sem á yfirborði jarðarinnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "435b65bc1f297010d79e0e39b0e4fc7154eb0e7eade173b68263d77f6fe9906d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/12\/1-4.1792396789373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Og maðurinn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "lítillátur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "meira en (mjög)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mennirnir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yfirborði"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jarðarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:59:49.374330210Z",
+  "model": "glm-5.3"
+}

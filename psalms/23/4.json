@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "skugga dauðans",
+      "rationale": "צלמות — ' skuggi dauðans' eða 'myrkur' (tvennt rót); ' gjá myrkursins' er önnur lesing"
+    },
+    {
+      "kind": "addition",
+      "subject": "ert",
+      "rationale": "Sagnliður ' ert' bætt við — hebreskan segir aðeins 'þú með mér'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעי\/רע",
+      "rationale": "Í versi 1 er ' hirðir minn' (רעה) en hér ' illt' (רע) — samhljóða tveggja orða í sömu kvæði, glatast á íslensku"
+    }
+  ],
+  "translation": "Jafnvel þótt ég gangi í gjá skugga dauðans, óttast ég ekkert illt, því að þú ert með mér; vöndur þinn og stafur þinn, þeir hugga mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/23\/1-4.1792409472264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Jafnvel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ég gangi"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "í gjá"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "skugga dauðans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "óttast ég"
+    },
+    {
+      "surface": "רע",
+      "gloss": "illt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ert með mér"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "vöndur þinn"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "og stafur þinn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "hugga mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:12.265224082Z",
+  "model": "glm-5.3"
+}

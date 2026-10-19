@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מצודה getur merkt net eða vígi; 'vígi' heldur skýtingarvirkinu, en netmyndin glatast"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סלעי\/צורי\/משגבי",
+      "rationale": "þrjú mismunandi klettaorð í einni vers — hrjóstrugt uppröðun sem engin þýðing heldur í einu orði"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קרן ישעי — horn þess að verða víðaður; horn er frelsismerki máttar, ekki hljóðfæri"
+    }
+  ],
+  "translation": "Jahve, klettur minn og vígi mitt og frelsari minn, El minn, hamra minn — ég leita skjóls hjá honum — skjöldur minn og horn bjargningar minnar, háborg mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/1-4.1792409358658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "klettur minn"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og vígi mitt"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og frelsari minn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El minn"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "hamra minn"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ég leita skjóls"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hjá honum"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "skjöldur minn"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "og horn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "bjargningar minnar"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "háborg mín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:18.659597147Z",
+  "model": "glm-5.3"
+}

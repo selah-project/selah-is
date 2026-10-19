@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הידד",
+      "rationale": "sama orð og v. 9 — 'kallið' sem nú er látið hljóða sem fagnaðaróp sem Jahve sjálfur steðvar."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "afturbeyging og ópersónuleg smíð ('er safnað burt') bætt við; hebreskan hefur ekki slagssögn."
+    }
+  ],
+  "translation": "Og gleðin er safnað burt og fagn af aldingarðinum, og í vínegjunum syngur enginn, hrópar enginn; vínið trosar trosari ekki í vinlátrum; fagnaðarópinu hef ég stöðvað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/16\/9-12.1792403983561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "Og ... er safnað burt"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gleðin"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "og fagn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "aldingarðinum"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "og í vínegjunum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "syngur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "hrópar"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vínið"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "í vinlátrum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "trosar"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "trosari"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "fagnaðarópinu"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "hef ég stöðvað"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:43.562191951Z",
+  "model": "glm-5.3"
+}

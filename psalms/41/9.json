@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Belíal",
+      "rationale": "בליעל er höfuðnafn gömlu íslensku Biblíunnar; her er það haft óþýtt sem heiti (einnig 'gagnslausi')"
+    },
+    {
+      "kind": "addition",
+      "subject": "Það sem sagt er",
+      "rationale": "Hebreskan hefur ekki inngangsorðin; KJV bætir 'say they' — þýðandi bætir inngangi til skýringar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "orð Belíal",
+      "rationale": "YLT: 'a thing of Belial'; JPS: 'an evil thing' — hér haft sem orð eða mál frá Belíal"
+    }
+  ],
+  "translation": "Það sem sagt er — orð Belíal er úthellt yfir hann, og sá sem lagðist mun ekki bætast við að rísa upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/41\/9-12.1792409703932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belíal"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "er úthellt"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yfir hann"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og sá sem"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lagðist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "bætast við að"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "rísa upp"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:03.933018236Z",
+  "model": "glm-5.3"
+}

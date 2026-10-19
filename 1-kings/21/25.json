@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "התמכר er hitpael af מכר — 'seldi sjálfan sig' — myndin af seljandi varðveitt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הסתה אתו איזבל",
+      "rationale": "orðröðin setur Ísevel frammi fyrir akkusativ-markinu; áhrifamáttur hennar undirstrikaður, glataður í þýðingu"
+    }
+  ],
+  "translation": "Aðeins var enginn sem Akhab jafnaðist við, sá er seldi sig til að gjöra hinu illa í augum Jahve, því að Ísevel kona hans eggjaði hann ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "977dcc9e3f4d10df9d2f858a83d3cf8d6755b0eaf067c115eb69c1bee39f6f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/21\/25-28.1792402743173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "sem Akhab jafnaðist við"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "seldi sig"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að gjöra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hinu illa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "eggjaði"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ísevel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "kona hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:39:03.173769985Z",
+  "model": "glm-5.3"
+}

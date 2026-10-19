@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf sagnir og snið sem hebreskan sleppir („það varð“, „sem ríkti“, „yfir“)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "127 ríki",
+      "rationale": "Vers telur landsvæði konungsins — sjö og tuttugu og hundrað ríki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מדינה",
+      "rationale": "Orðið merkir „dómsveldi, hérað“; „ríki“ er nálgun."
+    }
+  ],
+  "translation": "Og það varð á dögum Akhasverósj — hann er Akhasverósj sem ríkti frá Hodú og allt til Kús, yfir sjö og tuttugu og hundrað ríkjum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/1\/1-4.1792413231075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og það varð"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "á dögum"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhasverósj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann er"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhasverósj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sem ríkti"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "frá Hodú"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og allt til"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tuttugu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "og hundrað"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ríkjum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:33:51.076355573Z",
+  "model": "glm-5.3"
+}

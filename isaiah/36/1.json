@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 36:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska talar ekki orð; íslenska þarf flokk árum"
+    },
+    {
+      "kind": "elision",
+      "subject": "עשרה",
+      "rationale": "fjórtán fangar töluna fjögur-tíu í einu íslensku orði"
+    },
+    {
+      "kind": "measurement",
+      "subject": "fjórtánda ári",
+      "rationale": "ári ríkis Khiskíjahu skráð til ársins"
+    }
+  ],
+  "translation": "Og það varð í fjórtánda ári Khiskíjahu konungs að Sankherív, konungur Assír, óx upp gegn öllum víggörðu borgum Júda og nam ⟨את⟩ þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e93bfabcacaed44afb51b2c585121209dcecf37fd0038a1f8ec1b98501c0ee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/36\/1-4.1792404514822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "í fjórtánda"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ári"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khiskíjahu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "óx upp"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sankherív"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assír"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borgum"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "víggörðu"
+    },
+    {
+      "surface": "ויתפשם",
+      "gloss": "og nam ⟨את⟩ þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:08:34.823407870Z",
+  "model": "glm-5.3"
+}

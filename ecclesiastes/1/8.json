@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan á sagnina ekki; íslenskan þarf háttorð."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדברים",
+      "rationale": "'Orðin' eða 'hlutirnir\/málin' — דברים getur verið hvort tveggja; YLT 'all these things'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "enginn maður",
+      "rationale": "לא יוכל איש — 'maður getur ekki'; 'enginn' er örlítið sterkara en hebreskan segir beint."
+    }
+  ],
+  "translation": "Öll orðin eru þreytandi; enginn maður getur talað ⟨þau⟩; augað mettast ekki af að sjá, og eyrað fyllist ekki af að heyra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/1\/5-8.1792413001881.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orðin"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "þreytandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "getur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "að tala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mettast"
+    },
+    {
+      "surface": "עין",
+      "gloss": "auga"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "af að sjá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "fyllist"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "eyra"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "af að heyra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:30:01.882509900Z",
+  "model": "glm-5.3"
+}

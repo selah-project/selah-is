@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלק",
+      "rationale": "sérnotuð um að kreista háls fugls án þess að skilja höfuðið alveg frá — aðeins hér og 3. Mós 5:8"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'af henni' bætt við til að gera hlut sýningar grein"
+    }
+  ],
+  "translation": "Og presturinn skal færa hana að altarinu og kremja ⟨את⟩ höfuðið af henni, og láta reykja á altarinu, og blóð hennar skal kreist út á vegg altarisins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/1\/13-16.1792395413223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "og skal færa hana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarinu"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "og kremja af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "höfuðið"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "höfuðið hennar"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og láta reykja"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "á altarinu"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "og skal kreista út"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blóðið hennar"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "vegg"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarisins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:53.224789952Z",
+  "model": "glm-5.3"
+}

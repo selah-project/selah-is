@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenzka setningin bætir við 'hefði' til að mynda óskosetningu sem לולי gefur til kynna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפם",
+      "rationale": "orðrétt 'nef þeirra' — reiðin sem brýst út um nasir; 'reiði' týnir líkamamyndinni"
+    }
+  ],
+  "translation": "Ef Jahve hefði ekki verið fyrir oss, er maður rís upp gegn oss,",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "658341c03d66423cfb1a962a8256865e84d5c0cf7bb56bf7567f8b45687a7d20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/124\/2-3.1792416977445.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ef ekki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "hefði verið"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir oss"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "er ... rís upp"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "gegn oss"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maður"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:17.445718493Z",
+  "model": "glm-5.3"
+}

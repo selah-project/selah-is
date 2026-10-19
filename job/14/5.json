@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרוצים",
+      "rationale": "Frá rót sem þýðir 'að skorpa skarpt'; hér tekið um 'ákveðnir\/fastir' — aðrir lesa 'stuttir'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Það' bætt við á íslensku, hebreskan segir aðeins 'ekki mun hann fara yfir'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "את hér er H854 (með), ekki H853; borið 'hjá þér'."
+    }
+  ],
+  "translation": "Ef dagar hans eru ákveðnir, tal mánaða hans er ⟨את⟩ hjá þér, ⟨את⟩ fyrirmæli hans hefur þú gert, og hann má ekki fara yfir það.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0567bcd96432815e398025937a113cc887fd2dd731f1709a5882a13d8fa8a902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/14\/5-8.1792411997135.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ákveðnir"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dagar hans"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tal"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "mánaða hans"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hjá þér"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "fyrirmæli hans"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "hefur þú gert"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "má fara yfir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:17.136600534Z",
+  "model": "glm-5.3"
+}

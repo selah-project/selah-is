@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 17:10",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח הקדים er 'austan-rúakh'; rúakh heldur bæði vindinum og andardrættinum í einu orði."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תיבש\/יבש",
+      "rationale": "Rótin יבש endurtekin þrisvar — 'visna … algerlega … visna' — stílstæð endurtekning sem fellur nokkru út á íslensku."
+    }
+  ],
+  "translation": "Og sjá, ⟨hún er⟩ gróðursett — mun hún heppnast? Mun hún ekki algerlega visna um leið og austan rúakh snertir hana? Á gróðurbeðum sprotna hennar mun hún visna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3146f8cbb5d6ea7a10523034962168cac8cba2e237bbe9b156261e8533af8234",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/17\/9-12.1792407043942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Og sjá"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "⟨hún er⟩ gróðursett"
+    },
+    {
+      "surface": "התצלח",
+      "gloss": "mun hún heppnast"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Mun hún ekki"
+    },
+    {
+      "surface": "כגעת",
+      "gloss": "um leið og … snertir"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "austan"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "visna"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "algerlega"
+    },
+    {
+      "surface": "על",
+      "gloss": "Á"
+    },
+    {
+      "surface": "ערגת",
+      "gloss": "gróðurbeðum"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "sprotna hennar"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "mun hún visna"
+    }
+  ],
+  "timestamp": "2026-10-19T10:50:43.943628106Z",
+  "model": "glm-5.3"
+}

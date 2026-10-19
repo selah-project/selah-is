@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan er setninglaust hróp án sögnar; íslenskan bætir við lýsingar sögn."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה ... קול יהוה",
+      "rationale": "Endurtekningin 'rödd Jahve' ganga í gegnum allan sáminn og byggja hrópþemuna; endurtekningin er haldin."
+    }
+  ],
+  "translation": "Rödd Jahve er með krafti, rödd Jahve er með dýrð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/29\/1-4.1792409527562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Rödd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "með krafti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "með dýrð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:07.563072095Z",
+  "model": "glm-5.3"
+}

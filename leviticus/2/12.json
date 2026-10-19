@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "frumgræða",
+      "rationale": "ראשית er 'fyrsta' — fyrstu ávextirnir; valdið 'frumgræði' sem nær yfir fyrstu afurðirnar."
+    },
+    {
+      "kind": "alternative",
+      "subject": "megið þér færa",
+      "rationale": "Hebreskan er ópersónuleg framvísun ('korbán frumgræða skuluð þér færa'); lesturinn er heimild, ekki boð."
+    }
+  ],
+  "translation": "Sem korbán frumgræða megið þér færa ⟨את⟩ þau Jahve, en á altarið skulu þau ekki fara upp til ilmar huggunar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/2\/9-12.1792395359337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korbán"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "frumgræða"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "megið þér færa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þau (frumgræðurnar)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en á"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "skulu þau fara upp"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "til ilmar"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "huggunar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:59.338524850Z",
+  "model": "glm-5.3"
+}

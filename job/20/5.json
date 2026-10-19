@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקרוב",
+      "rationale": "Orðrétt 'frá nánd' — merkingin 'stutt, skammt' borið saman við 'að eilífu' í v.7; sumir lesa 'frá örfjarlægð' sem tíðargildishækkun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חנף",
+      "rationale": "Orðrétt 'sólaður (með synd)', vígður óhreinn — 'liesari' fangar guðræknishykið en ekki mynd óhreinkunnar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רגע",
+      "rationale": "Bókstaflega 'blik í auga' — mynd þess að gleðin vara ekki nema augnablik; 'augnablik' varðar þessa mynd að hluta."
+    }
+  ],
+  "translation": "að fögnuðaróp ranglátra er skammt, og gleði liesara ⟨varir⟩ aðeins til augnabliks.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/20\/5-8.1792412136810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "fögnuðaróp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ranglátra"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "skammt"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "og gleði"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "liesara"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "til"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "augnabliks"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:36.810720056Z",
+  "model": "glm-5.3"
+}

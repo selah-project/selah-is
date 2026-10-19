@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 1:9",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Passívgerð í íslensku krefst hjáverbs — hebreskan hefur aðeins pasív sagnmyndina."
+    },
+    {
+      "kind": "elision",
+      "subject": "libation",
+      "rationale": "נסך er helgi-drykkjafórnan; orðið 'libation' haldið sem lánorð þar sem íslenska hefur ekkert eintýrt samsvarandi."
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests",
+      "rationale": "Versinn lýsir prestunum en beinir harmlæti þeirra að þeim sjálfum — kjör þeirra í þjónustu Jahve."
+    }
+  ],
+  "translation": "Skorið hefur verið ⟨er⟩ minkha og libation frá húsi Jahve; prestarnir syrgja, þjónar Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/1\/9-12.1792408301723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכרת",
+      "gloss": "skorið hefur verið"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "og libation"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "frá húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבלו",
+      "gloss": "syrgja"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "þjónar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:41.723890880Z",
+  "model": "glm-5.3"
+}

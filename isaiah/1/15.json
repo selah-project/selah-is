@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בפרשכם כפיכם",
+      "rationale": "\"breiða út lófa\" — bænarholdtúmur; orðrétt væri \"þegar þið breiðið lófa ykkar\"."
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan vantar sagnir — \"hendur ykkar … fullar\" án er-söngs."
+    }
+  ],
+  "translation": "Og þegar þið breiðið út lófa ykkar, læk ég augum mínum frá ykkur; jafnvel þótt þið margfaldið bæn, heyr ég ekki — hendur ykkar eru fullar af blóði.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/1\/13-16.1792403614704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "og þegar þið breiðið út"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "lófa ykkar"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "læk ég"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augum mínum"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "frá ykkur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jafnvel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "þið margfaldið"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bæn"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ég ekki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyr"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "hendur ykkar"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "af blóði"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "fullar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:53:34.705586579Z",
+  "model": "glm-5.3"
+}

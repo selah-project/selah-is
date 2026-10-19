@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 24:8",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "aldur og ríkisár",
+      "rationale": "Versinn telur aldur konungs (átján ár) og lengd ríkisára (þrír mánuðir) eftir föstum formúlu konungaannála"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחשתא",
+      "rationale": "Nafn móðurinnar Nekhushta er skytt orðinu „nekhhóshet“ (kopar\/málmur), tengt málmgyllum Jerúsjalajím"
+    }
+  ],
+  "translation": "Átján ára að aldri var Jehojakín þegar hann varð konungur, og þrjá mánuði réð hann fyrir í Jerúsjalajím; og nafn móður hans var Nekhushta, dóttir Elnatans, frá Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/24\/5-8.1792403600805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "að aldri"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "átján"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "átján"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ára"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Jehojakín"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "þegar hann varð konungur"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "og þrjá"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "mánuði"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "réð hann fyrir"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og nafn"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "móður hans"
+    },
+    {
+      "surface": "נחשתא",
+      "gloss": "Nekhushta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttir"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatans"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "frá Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T09:53:20.806263694Z",
+  "model": "glm-5.3"
+}

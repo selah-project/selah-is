@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joel 2:16",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עצרה\/קהל",
+      "rationale": "Söfnuður skipulagt eftir helgaða samkomu — 'söfnuður' fyrir קהל heldur samhengi við v. 15."
+    },
+    {
+      "kind": "elision",
+      "subject": "שדים",
+      "gloss": "fært í sviga því 'brjóstbörn' nær merkingunni; hebreskan segir 'sögulbörn brjóstanna'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אספו...קבצו...אספu",
+      "rationale": "Endurtekið 'safnið' aðskilið af 'heimtuð' — íslenskan heldur endurtekninguna með sömu orðmynd."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðsformur framhalds — enginn undanskilinn, hvorki öldungar né brjóstbörn né brúðpar."
+    }
+  ],
+  "translation": "Safnið fólkinu, helgið söfnuðinn, heimtuð öldungana, safnið smábörnunum og brjóstbörnunum; brúðguminn gangi út úr klefa sínum og brúðurin úr brúðarklefja sinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6055bc80e4d242b6a0afe396b2182a52064b985e2cc18710ee82734019282086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/2\/13-16.1792408355408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Safnið"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkinu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "helgið"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "söfnuðinn"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "heimtuð"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "öldungana"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "safnið"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "smábörnunum"
+    },
+    {
+      "surface": "וינקי",
+      "gloss": "og brjóstbörnunum"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "(brjóstanna)"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gangi út"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "brúðguminn"
+    },
+    {
+      "surface": "מחדרו",
+      "gloss": "úr klefa sínum"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "og brúðurin"
+    },
+    {
+      "surface": "מחפתה",
+      "gloss": "úr brúðarklefja sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:12:35.409861039Z",
+  "model": "glm-5.3"
+}

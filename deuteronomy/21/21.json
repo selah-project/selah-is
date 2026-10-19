@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf hjálagninguna 'skulu' og fallanda sagnfyllingu sem hebreska frumlagssniðið sleppir."
+    },
+    {
+      "kind": "elision",
+      "subject": "ובערת",
+      "rationale": "Sagnorðið er mynduð frá 'að kveikja\/brenna' — 'útrýma' fyrir 'בער' er rót sem þekkt er úr Tanakh, en myndlíkingunum er eytt."
+    }
+  ],
+  "translation": "Og allir menn borgar hans skulu grýta hann með steinum, og hann deyr; og þú skalt útrýma hinu illa úr meðal þín, og allur Ísrael skal heyra og óttast.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/21\/21-23.1792398094159.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "og grýta hann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "menn"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "borgar hans"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "með steinum"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og hann deyr"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "og þú skalt útrýma"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hinu illa"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "úr meðal þín"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "skal heyra"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "og óttast"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:34.160454574Z",
+  "model": "glm-5.3"
+}

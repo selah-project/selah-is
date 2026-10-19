@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "halda",
+      "rationale": "עשׂה er 'gera\/make' — 'halda' er sátmynd fyrir að fremja Pésach."
+    }
+  ],
+  "translation": "Allur söfnuður Ísraels skal halda ⟨את⟩ því.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/45-48.1792394375018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "söfnuður"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skal halda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "því"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:35.018953715Z",
+  "model": "glm-5.3"
+}

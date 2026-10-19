@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "friður",
+      "rationale": "שלום er heild — velferð, heilleiki, ósk bilu — ekki aðeins 'friður' sem andstæða stríðs."
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Lokatálsalmsins snýr röddinni að þjóðinni — Jahve gefur mátt og blessun."
+    }
+  ],
+  "translation": "Jahve gefur mátt þjóð sinni; Jahve blessar ⟨את⟩ þjóð sína með friði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/29\/9-11.1792409484728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mátt"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "þjóð sinni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blessar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóð sína"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "þjóð sína"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "með friði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:24.729190928Z",
+  "model": "glm-5.3"
+}

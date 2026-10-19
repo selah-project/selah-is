@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "stela hjarta",
+      "rationale": "גָּנַב אֶת לֵב: 'stela hjarta' — að fara í laumi án vitneskju hins; bókstæð mynd haldið."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנב",
+      "rationale": "Endurtekning rótarinnar frá v. 19 — Rakhel stal terafímana, Jaakov stal hjarta Lavans."
+    }
+  ],
+  "translation": "Og Jaakov stal ⟨את⟩ hjarta Lavans aramíamannsins, þannig að hann sagði honum ekki að hann var á flótta.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/31\/17-20.1792393390258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Og stal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjarta Lavans"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavans"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramíamannsins"
+    },
+    {
+      "surface": "על",
+      "gloss": "þannig að"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "var á flótta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:03:10.259719127Z",
+  "model": "glm-5.3"
+}

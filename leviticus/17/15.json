@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נבלה",
+      "rationale": "„selfada“ fyrir נבלה — dýr sem dó af sjálfu sér, fall „selfast“ heldur myndlíkingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש hér um mann — „lífshugi“ heldur orðmynd hebreskunnar frekar en „sála\""
+    }
+  ],
+  "translation": "Og hver lífshugi ⟨sem⟩ etr selfada eða ásópt af dýrum, meðal innfæddra eða meðal landnema — hann skal þvo föt sín og baða sig í vatni og verður óhreinn til kvölds; þá verður hann hreinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/17\/13-16.1792395873845.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og hver"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lífshugi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sem⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "etr"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "selfada"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "eða ásópt af dýrum"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "meðal innfæddra"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "eða meðal landnema"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "skal þvo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "föt sín"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og baða sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vatni"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og verður óhreinn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvölds"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "þá verður hann hreinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:33.848160774Z",
+  "model": "glm-5.3"
+}

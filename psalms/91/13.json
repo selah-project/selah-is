@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פתן er naðra samkvæmt D2; תנין er 'dreki\/sjáógn', sjávar- eða landódýr, ekki höggormur"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפיר",
+      "rationale": "'ungt ljón' (rödd ljónsins) — sömu stafir og 'þorp', tulkunin 'ungljón' er ríkjandi"
+    }
+  ],
+  "translation": "Á ljón og naðru skalt þú stíga, ungum ljóni og dreka skalt þú trampa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/91\/13-16.1792410447048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Á"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ljón"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "og naðru"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "skalt þú stíga"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "skalt þú trampa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ungum ljóni"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "og dreka"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:27.048532421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רדה",
+      "rationale": "'stýrðu' fyrir róð — orðið þýðir bókstaflega 'trampi niður, legg undir', mynd þjáningar í stjórn"
+    },
+    {
+      "kind": "you",
+      "subject": "boðorð til konungsins",
+      "rationale": "beint boð til 'herra míns' úr v. 1"
+    }
+  ],
+  "translation": "Stöng máttar þíns sendir Jahve frá Tsjíon: stýrðu í hjarta óvina þinna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/110\/1-4.1792410720700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "stöng"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "máttar þíns"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sendir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "frá Tsjíon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "stýrðu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "í hjarta"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "óvina þinna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:00.701157041Z",
+  "model": "glm-5.3"
+}

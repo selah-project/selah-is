@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שלמים — 'friðarfórnir' — merkir fórn til heildar\/fullnægingar, ekki friðar í pólitískum skilningi"
+    },
+    {
+      "kind": "crux",
+      "subject": "לרצנכם",
+      "rationale": "'til yðar velþóknunar' — KJV 'at your own will' vs. samhengi 'að þér verðið tekin' (sbr. 1. Mós 7:18)"
+    }
+  ],
+  "translation": "Og ef þér slátraðið ⟨את⟩ sláturfórn ⟨er⟩ friðarfórnir til Jahve, skuluð þér slátra henni til yðar velþóknunar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/5-8.1792395937784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "þér slátraðið"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sláturfórn"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "friðarfórnir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "til yðar velþóknunar"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "skuluð þér slátra henni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:37.784578466Z",
+  "model": "glm-5.3"
+}

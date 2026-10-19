@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "munu lykta",
+      "rationale": "Í hebresku er 'óþefurinn' sagnorðið (באשם יעלה — 'stiggur upp'); íslenskan snýr þessu við í 'lykta' með óþef sem andlag."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framtíðarhjálparsögn 'munu' bætt við — hebreskaþráin er fullkomin í sögninni sjálfri."
+    }
+  ],
+  "translation": "Og þeirra fellda munu varpa út, og hræ þeirra munu lykta, og fjöllin munu bráðna af blóði þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d8f45b3900e259ba86a508dc047b78886e00c0c8918568f5d218f775186c69f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/34\/1-4.1792404451679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Og þeirra fellda"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "munu varpa út"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "og hræ þeirra"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "munu lykta"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "óþef"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "og munu bráðna"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fjöllin"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "af blóði þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:07:31.680950298Z",
+  "model": "glm-5.3"
+}

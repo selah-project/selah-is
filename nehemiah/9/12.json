@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 9:12",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עמוד ענן",
+      "rationale": "'skýssúla' — bein orðmynd; 'skýjastytta' yrði lausari."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'skyldu' — íslenskan þarf skuluð mynd; hebreska sögð 'sem þeir fara á'."
+    }
+  ],
+  "translation": "Og í skýssúlu leiddir þú þá um daga, og í eldsúlu um nótt, til að lýsa fyrir þeim ⟨את⟩ veginn sem þeir skyldu fara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/9\/9-12.1792414239204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעמוד",
+      "gloss": "Og í súlu"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "skýs"
+    },
+    {
+      "surface": "הנחיתם",
+      "gloss": "leiddir þú þá"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "um daga"
+    },
+    {
+      "surface": "ובעמוד",
+      "gloss": "og í súlu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "elds"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "um nótt"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "til að lýsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veginum"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vegin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "þeir skyldu fara"
+    },
+    {
+      "surface": "בה",
+      "gloss": "á"
+    }
+  ],
+  "timestamp": "2026-10-19T12:50:39.205689365Z",
+  "model": "glm-5.3"
+}

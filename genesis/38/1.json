@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenzka þarf 'svo' eða skyldt tengiorð þar sem hebreska 'wayhí' er atburðatenging"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאת",
+      "rationale": "מאת er forsetningin 'frá\/near' með את — varðveitt sem ⟨את⟩ merki með 'frá' í glósu"
+    }
+  ],
+  "translation": "Og ⟨svo⟩ varð á þeirri tíð, að Júda fór niður frá ⟨með⟩ bræðrum sínum ⟨את⟩ og sneri til manns frá Adúlam, og hét hann Khíra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b2ec8a3f0783383dbf76f05b0576657ea541207c96c2c8a39049f2bbab938dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/38\/1-4.1792393654748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "varð"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "á þeirri tíð"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeirri"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "fór niður"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "frá bræðrum sínum"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bræðrum sínum"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "sneri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "frá Adúlam"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "og hét hann"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Khíra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:07:34.749954443Z",
+  "model": "glm-5.3"
+}

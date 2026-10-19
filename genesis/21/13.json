@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זרע er í eintölu í hebreskunni; 'sáðkorn þitt' heldur myndinni fremur en 'afkvæmi'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "'legg ég hann' fyrir אשימנו; 'gjöra að þjóð' er skýrara"
+    }
+  ],
+  "translation": "Og einnig ⟨את⟩ son þernunnar mun ég gjöra að þjóð, því að hann er sáðkorn þitt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "47537aded77a26b6c29d767c438a3a72f6ffea0deda3794f46038f255ec953fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/21\/13-16.1792393044853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Og einnig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son þernunnar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "þernunnar"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "að þjóð"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "mun ég gjöra hann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sáðkorn þitt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann er"
+    }
+  ],
+  "timestamp": "2026-10-19T06:57:24.853941073Z",
+  "model": "glm-5.3"
+}

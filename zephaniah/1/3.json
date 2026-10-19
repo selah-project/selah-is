@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המכשלות",
+      "rationale": "„Tiltrúðir\/steinar sem enginn stöðvast við“ — endursögnin flökt: „afturföllin með rönguðum“ (KJV), „skuggamyndirnar“ (LXX) eða „ábúðargripirnir“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכהנים vs הכמרים í v.4",
+      "rationale": "Ekki við þetta vers; sleppt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אסף",
+      "rationale": "Sama sögn endurtekin í v.2–3 — uppsöfnunarmynd eyðingar."
+    }
+  ],
+  "translation": "Ég mun uppsafna mann og búfé; ég mun uppsafna fugla himnanna og fiska sjávarins, og tiltruðina með öllum ⟨את⟩ rönguðum; og ég mun afskera ⟨את⟩ manninn af andliti jarðarinnar, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4021e183a6dc0a69f24944a07976629ba197901745dce7f6e923394dc1b655cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zephaniah\/1\/1-4.1792408882457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "uppsafna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mann"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "og búfé"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "uppsafna"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugla"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "og fiska"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sjávarins"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "og tiltruðina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rönguðum"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "rönguðum"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "og ég mun afskera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manninn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:21:22.458553485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Þótt“ flytur úr hebreska skilyrðingnum אם…לא („ef… ekki“) í íslenska óskilyrtu neitun."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Maður Elóhíms svarar konunginum beint og neitar boðinu."
+    }
+  ],
+  "translation": "Og maður Elóhíms sagði við konunginn: Þótt þú gérir mér ⟨את⟩ helming húss þíns, kem ég ekki með þér, og ég ét ekki brauð og drekk ekki vatn á þessum stað.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e81e978b712aea6ec6a87baba0706afdd52c164a2876acefb9ace8402ba9e457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/13\/5-8.1792402412860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhíms"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Þótt"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "þú gérir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helming"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "helming"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "húss þíns"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "kem ég"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ét"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "drekk"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "á stað"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:33:32.861773840Z",
+  "model": "glm-5.3"
+}

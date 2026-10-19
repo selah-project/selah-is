@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 8:12",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Setningin er þekkt þýðingavandi: 'hersveit var gefin yfir hið stöðuga' (KJV) á móti 'hersveit var gefin upp ásamt hið stöðuga' (ASV\/JPS)."
+    },
+    {
+      "kind": "addition",
+      "subject": "upp",
+      "rationale": "Sagnsmyndin 'gefin upp' til að greina frá einfaldri gjöf; hebreskan segir aðeins 'var gefin'."
+    }
+  ],
+  "translation": "Og hersveit var gefin ⟨upp⟩ á móti hið stöðuga í uppreisninni, og sannleikanum var hent niður á jörðu, og það framdi og fór vel.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/8\/9-12.1792413594182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבא",
+      "gloss": "og hersveit"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "var gefin"
+    },
+    {
+      "surface": "על",
+      "gloss": "á móti"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "hið stöðuga"
+    },
+    {
+      "surface": "בפשע",
+      "gloss": "í uppreisninni"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "og var hent"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleikanum"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "á jörðu"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "og það framdi"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "og fór vel"
+    }
+  ],
+  "timestamp": "2026-10-19T12:39:54.183176789Z",
+  "model": "glm-5.3"
+}

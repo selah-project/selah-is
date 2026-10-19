@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גבר",
+      "rationale": "Gabvern er orðið 'kraftaverkamaður, karlmaður'; 'mannbarn' heldur myndinni án sessmótunar."
+    },
+    {
+      "kind": "you",
+      "subject": "to the day and night",
+      "rationale": "Íjóv ávarpar daginn og nóttina beint í óbeinni þvm — formálig banns."
+    }
+  ],
+  "translation": "Farist dagurinn sem ég var fæddur í, og nóttin sem sagði: mannbarn hefur verið getið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/3\/1-4.1792411766666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "farist"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagurinn"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "var fæddur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "og nóttin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "getið"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mannbarn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:26.667047004Z",
+  "model": "glm-5.3"
+}

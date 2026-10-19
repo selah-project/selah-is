@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קש er agnir og stráaleifar — sama orð og ‚strá‘ hér, en ‚strá‘ er notað um bæði til að halda orðmyndinni; לתבמ lesið ‚í stað strásins‘ (kubbstráinu sem gefið var)"
+    }
+  ],
+  "translation": "Og fólkið dreifist um allt land Mitsrajím til að safna strái í stað strás.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "761631a4fb3f1e22986352d8dd52e1fd4b0b782916c544f872671756e2a180a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/5\/9-12.1792394142698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "dreifist"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "um allt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "að safna"
+    },
+    {
+      "surface": "קש",
+      "gloss": "strái"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "í stað strás"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:42.700943963Z",
+  "model": "glm-5.3"
+}

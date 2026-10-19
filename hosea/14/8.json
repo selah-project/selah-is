@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישבו ישבי",
+      "rationale": "orðröð: 'snúa aftur munu íbúar skugga hans' — sumir lesa שׁוּב sem 'búa aftur' með שׁבת, en rótin er sú sama og í afturhvarfi bókarinnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב",
+      "rationale": "snúingin endurtekur þema Hósea — allt bókin snýst um שׁוּב, afturhvarf og snúaftur"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'við' bætt við 'lifna' — hebreska sögnin 'lifa' tekur heldur beint viðfang"
+    }
+  ],
+  "translation": "Þeir snúast aftur, þeir sem búa í skugga hans; þeir lifna við korni og blómstra sem vínviðurinn — minning hans er sem vín Líbanons.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/14\/5-8.1792408206405.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "þeir snúast aftur"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "þeir sem búa"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "í skugga hans"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "lifna við"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "korni"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "og blómstra"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "sem vínviðurinn"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "minning hans"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "sem vín"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Líbanons"
+    }
+  ],
+  "timestamp": "2026-10-19T11:10:06.405896558Z",
+  "model": "glm-5.3"
+}

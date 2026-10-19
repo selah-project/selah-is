@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Fornafnið 'það' er sett inn til að gera beint andlag skýrt."
+    }
+  ],
+  "translation": "Og Naómí tók ⟨את⟩ barnið og lagði það í fað sér, og hún varð honum að fóstru.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "74b037ff52ec3203f9f2992878e3a2ae3e68d7cc88ba64ad214b7c9b6f428b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/4\/13-16.1792412714698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naómí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barnið"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnið"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "og lagði það"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "í fað sér"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og hún varð"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "að fóstru"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:14.699958769Z",
+  "model": "glm-5.3"
+}

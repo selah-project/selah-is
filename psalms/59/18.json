@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אזמרה",
+      "rationale": "Rótin זמר merkir bókstaflega 'að grafa í strengi' — að spila á hljóðfæri; 'að lofsyngja' er túlkan."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזך\/עזי",
+      "rationale": "Vers 17 og 18 endurtaka 'mátt' og 'hár klettaborg' — lofgjörðin tvístrúðar ljóðlínuna, endar sálmurinn á sama máttarorði."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Á íslensku bætast við segð 'að' og 'því' við כי sem hebreskan ber í einu orði."
+    }
+  ],
+  "translation": "Máttur minn, til þín vil ég spinna strengi, því að Elóhím er hár klettaborg mín, Elóhím khesed míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/17-18.1792409930538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Máttur minn"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "vil ég spinna strengi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "hár klettaborg mín"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesed míns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:50.538919970Z",
+  "model": "glm-5.3"
+}

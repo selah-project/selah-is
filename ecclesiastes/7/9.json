@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רוח ritað eftir hljóði sem 'rúakh', ekki 'andi'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðunarform: neitunarátalk til lesandans, 'vertu ekki'"
+    }
+  ],
+  "translation": "Vertu ekki hraðbráður í rúakh-þínum til að reiðast, því reiði hvílist í barmi fára.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ad77871e5be5f099165824c9a33a57bdd351680d26b38bc1ed1c0d76f964092a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/7\/9-12.1792413036194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "vertu hraðbráður"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "í rúakh-þínum"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "til að reiðast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "í barmi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "fára"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "hvílist"
+    }
+  ],
+  "timestamp": "2026-10-19T12:30:36.194840790Z",
+  "model": "glm-5.3"
+}

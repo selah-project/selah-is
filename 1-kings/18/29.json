@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "המנחha er minkha — fórnargjöf, ekki 'kvöldfórn' eins og gömlu þýðingarnar bæta við"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואין ×3",
+      "rationale": "þreföld neitun í safni — engin rödd, enginn svari, enginn hlýðir — stífskað í íslensku með 'engin\/enginn' þrisvar"
+    }
+  ],
+  "translation": "Og þegar hádegið var liðið spáðu þeir uns minkhan óx upp, en engin rödd var og enginn svaraði og enginn hlýddi.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/18\/29-32.1792402628701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og þegar var"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "liðið"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "hádegið"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "spáðu þeir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uns"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "óx upp"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkhan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en engin"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "svaraði"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "hlýddi"
+    }
+  ],
+  "timestamp": "2026-10-19T09:37:08.702553040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "talið",
+      "rationale": "Versinn er um tölu — talning ryks og sáðkyns"
+    },
+    {
+      "kind": "addition",
+      "subject": "mun",
+      "rationale": "Hebreska notar einfaldan framtíðarform; íslenska krefst hjáspurnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרע\/עפר",
+      "rationale": "Endurtekning sáðkyns og ryks myndar speglun milli lína"
+    }
+  ],
+  "translation": "Og ég mun setja ⟨את⟩ sáðkyn þitt eins og rykið á jörðinni; ef nokkur maður getur talið rykið á jörðinni, þá getur einnig sáðkyn þitt verið talið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/13\/13-16.1792392783593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Og ég mun setja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáðkyn þitt"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sáðkyn þitt"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "eins og rykið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "; ef"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "getur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nokkur maður"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "talið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rykið"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "rykið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sáðkyn þitt"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "getur verið talið"
+    }
+  ],
+  "timestamp": "2026-10-19T06:53:03.595018336Z",
+  "model": "glm-5.3"
+}

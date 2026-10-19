@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פני er „andlit“; „ásikt“ er nákvæmasta íslenska mynd af því að andlit snýst gegn einhverjum"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "כתמול שלשום — „í gær og fyrradag“ — hebresk tvennd um fyrndina, látin nákvæmleika hérlendis"
+    }
+  ],
+  "translation": "Og Jaakov sá ⟨את⟩ ásikt Lavans, og sjá, hún var ekki við hann eins og í gær og fyrradag.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/31\/1-4.1792393390316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "sá"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ásikt"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ásikt"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavans"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hún var ekki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "eins og í gær"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "og fyrradag"
+    }
+  ],
+  "timestamp": "2026-10-19T07:03:10.317789179Z",
+  "model": "glm-5.3"
+}

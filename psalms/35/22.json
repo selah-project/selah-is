@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨það⟩ — viðfang bætt við á íslensku, hebreskan segir aðeins 'þú hefur séð'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Bein ábön til Jahve með tveimur nöfnum, Jahve og Adónaí, í ljóðrænnri þvágingu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Nægðarháttur kallar á Guð að grípa inn — boðsorðin 'vertu ekki þögull' og 'fjarlægðu þig ekki'"
+    }
+  ],
+  "translation": "Þú hefur séð ⟨það⟩, Jahve; vertu ekki þögull; Adónaí, fjarlægðu þig ekki frá mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "62a9386b2fa9834f237bbb5a747f8a9d777c61801934371a508b20b182a65367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/21-24.1792409608973.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "þú hefur séð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "vertu þögull"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "fjarlægðu þig"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "frá mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:28.974448654Z",
+  "model": "glm-5.3"
+}

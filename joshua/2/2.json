@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'því' — ópersónulegt frumlag sem íslenskan þarf; hebreskan segir aðeins 'og var sagt'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "לחפר",
+      "rationale": "sögnin 'að grafa upp, kanna' er sjaldgæf í Tanakh og myndar stílmerkt orðaval kaflans."
+    }
+  ],
+  "translation": "Og ⟨því⟩ var sagt konungi Jeríkó, svo segjandi: Sjá, menn hafa komið hingað í nótt, af sonum Ísraels, til að kanna ⟨את⟩ landið.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0b0f666e3f034b920a791ad8224672373cb196a26dcc4d442d7247d5dd77e35a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/2\/1-4.1792398787747.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og var sagt"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konungi"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeríkó"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "svo segjandi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hafa komið"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hingað"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "í nótt"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "af sonum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "að kanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landið"
+    }
+  ],
+  "timestamp": "2026-10-19T08:33:07.748456880Z",
+  "model": "glm-5.3"
+}

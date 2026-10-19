@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עולם er 'fornur\/fyrir löngu', ekki tímalegt 'að eilífu'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "tvö bann í áttalang til lesandans"
+    }
+  ],
+  "translation": "Ekki skaltu færja fornan landsvörð, og ekki skal þú ganga í akra munaðarlausra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/9-12.1792411551484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "skaltu færja"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "landsvörð"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fornan"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "og í akra"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "munaðarlausra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "skal þú ganga"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:51.485760002Z",
+  "model": "glm-5.3"
+}

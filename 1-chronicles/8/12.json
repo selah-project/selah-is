@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreska hefur enga fyrirmyrnd í upptalningu; sagnaraðgerð bætist við í efni setningar."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובנתיה",
+      "rationale": "„Dætur hennar“ — borgirnar smábyggðir Lodar; sumir þýða „dreifbýli hennar“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Ættartöla og staðarnöfn talin."
+    }
+  ],
+  "translation": "Og synir Elpaals: Ever og Misham og Shemed — hann reisti ⟨את⟩ Onó og ⟨את⟩ Lod og dætur hennar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/8\/9-12.1792414559750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaals"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Shemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "reisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onó"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Onó"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "dætur hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:55:59.751888574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חיל er 'kraftur, herskápur, máttur'; 'drengskap' er hluti myndarinnar en ekki allt orðið"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "צר og צרינו endurtaka rót מצר í 60:13 — sama orð um þrenginguna og óvininn, tapast á íslensku"
+    }
+  ],
+  "translation": "Með Elóhím gjörum ⟨er⟩ drengskap, og ⟨hann⟩ er sá sem troður niður óvini okkar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/60\/13-14.1792409950022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Með Elóhím"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gjörum"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "drengskap"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "troður niður"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "óvini okkar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:10.023349048Z",
+  "model": "glm-5.3"
+}

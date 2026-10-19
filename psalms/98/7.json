@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "þeyti",
+      "rationale": "רעם er að skella eða æsta — hið sama og þrumuhvellur; „þeyta“ heldur ofsanum en ekki óveðurmyndina."
+    },
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Hebreskan segir aðeins „íbúar“ — fornafnið er sett í hornklofum til að gera fyrirsögnina skýra."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בה",
+      "rationale": "Fornafnið er kvenkyns (heimurinn = תבל), en „í honum“ gerir samhengið skýrt á íslensku."
+    }
+  ],
+  "translation": "Þeyti hafið og fyllingu þess, heimurinn og ⟨þeir⟩ sem í honum búa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "33b4bb28e6b2a96085e66135eb8b56a4ceb013eedb672d80b0585bbc053d635b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/98\/6-7.1792416984924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "þeyti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "og fyllingu þess"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heimurinn"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "og ⟨þeir⟩ sem búa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:24.925156978Z",
+  "model": "glm-5.3"
+}

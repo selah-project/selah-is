@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Feminínt atvinnuheiti (rakhot, tavakhot, afot) höfð sem nafnháttarsetningar á íslensku; hebreskan segir bókstaflega 'sem ilmsmyrslagerðarmeyjar, slátrarameyjar og bakarar'."
+    }
+  ],
+  "translation": "Og ⟨את⟩ dætur yðar mun hann taka til að búa ilmsmyrsli og til að slátra og til að baka.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/8\/13-16.1792400236234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dætur yðar"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "dætur yðar"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mun hann taka"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "til að búa ilmsmyrsli"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "og til að slátra"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "og til að baka"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:16.235226270Z",
+  "model": "glm-5.3"
+}

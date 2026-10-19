@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint til Jahve — sálmurinn snýr að Guði í öðru persónu"
+    },
+    {
+      "kind": "crux",
+      "subject": "boðið til að varðveita",
+      "rationale": "KJV\/ylt bæta við ‚us‘; hebreskan segir aðeins ‚Þú hefur boðið að varðveita boðorð þín‘"
+    }
+  ],
+  "translation": "Þú hefur boðið að varðveita boðorð þín með alla alúð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/1-4.1792410782607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "hefur boðið"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "boðorð þín"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "að varðveita"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "með alla alúð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:02.608619268Z",
+  "model": "glm-5.3"
+}

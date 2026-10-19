@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "Beint ávarp til Ísraels: þér skuluð gæta og ekki víkja"
+    },
+    {
+      "kind": "idiom",
+      "subject": "víkja til hægri né vinstri",
+      "rationale": "Myndrænt kljað um að halda sig við boðorðin — bókstafleg merking varðveitin á íslensku"
+    }
+  ],
+  "translation": "Og þér skuluð gæta þess að gera eins og Jahve Elóhím ykkar hefur boðið ⟨את⟩ ykkur; þér skuluð ekki víkja til hægri né til vinstri.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c9bc3ccc57b618854b98d44444d57d267375f009a111e98104de7b6bedf364ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/5\/29-32.1792397710396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og þér skuluð gæta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hefur boðið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "þér skuluð víkja"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "til hægri"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "né til vinstri"
+    }
+  ],
+  "timestamp": "2026-10-19T08:15:10.397425025Z",
+  "model": "glm-5.3"
+}

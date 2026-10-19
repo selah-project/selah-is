@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צרופה er myndsamlegt smáorð — 'brennt\/skellt saman til hreinsunar' — og játar að orðið hafi staðist eldinn."
+    },
+    {
+      "kind": "crux",
+      "subject": "málgangur",
+      "rationale": "אמרת er stokk-ið eintala af אמר — sumir lesa 'allur málgangur', aðrir 'allur boðskapur'; töflurnar fara hvora veganna."
+    }
+  ],
+  "translation": "Allur málgangur Elóa er hreinsaður í smiðju; skjöldur er hann þeim sem leita skjóls hjá honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e1cf376e432d0aa6f16c1746730b119b74a6a3c4ad09995311c8329af21d926a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/30\/5-8.1792411690243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "málgangur"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elóa"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "hreinsaður í smiðju"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skjöldur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "þeim sem leita skjóls"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hjá honum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:10.243679536Z",
+  "model": "glm-5.3"
+}

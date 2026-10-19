@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רפאים",
+      "rationale": "rafaím — skuggar\/dauðir; 'skugganna' í stað þjóðarheitis eða risanna"
+    },
+    {
+      "kind": "irony",
+      "subject": "ינוח",
+      "rationale": "hvíla — orðið er mikið í guðrækni, hér er hvíldin í dauðanum, í skyndi"
+    }
+  ],
+  "translation": "Maður sem villst af vegi skilnings mun hvíla í söfnuði skugganna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/21\/13-16.1792411489626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Maður"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "villst"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "af vegi"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "skilnings"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "í söfnuði"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "skugganna"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "mun hvíla"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:49.627904125Z",
+  "model": "glm-5.3"
+}

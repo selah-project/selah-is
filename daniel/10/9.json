@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נרדם er að verða slæmt af svefni; 'steyptur í djúpan svefn' heldur myndinni en ekki 'trance'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'niður' bætt við — ארצה merkir 'jörðu' sem stefnu, ekki 'niður' eitt."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sjáyn",
+      "rationale": "Sjónin fellur Daniél í helpundarlotu — feymin atburðarás."
+    }
+  ],
+  "translation": "Og ég heyrði ⟨את⟩ rödd orða hans, og er ég heyrði ⟨את⟩ rödd orða hans, þá var ég steyptur í djúpan svefn á andliti mínu, og andlit mitt var snúið ⟨niður⟩ að jörðu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "587eabe128b1bd583d88dcf7b5ea24bd8595405efeb5594c1e293eb45fd001ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/10\/9-12.1792413630764.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Og ég heyrði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rödd"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "orða hans"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "og er ég heyrði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rödd"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "orða hans"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "steyptur í djúpan svefn"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti mínu"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "og andlit mitt"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "að jörðu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:40:30.765665674Z",
+  "model": "glm-5.3"
+}

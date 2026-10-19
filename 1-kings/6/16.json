@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tuttugu alnar",
+      "rationale": "Mál innsta helgidómsins: tuttugu alna (um níu metra)."
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Fornafnið 'það' er bætt við á íslensku; hebreskan segir aðeins 'byggði honum að innan'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "debír",
+      "rationale": "לדביר er haldið eftir hljóði — 'aftasta rým helgistaðarins'."
+    }
+  ],
+  "translation": "Og hann byggði ⟨את⟩ tuttugu alnar á afturhluta hússins með ribbum af sedrusvið, frá gólfinu og að veggjunum; og hann byggði ⟨það⟩ honum að innan, að debír, að heilagleika heilagleikanna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2b8e43b1c7d8b0bc353c62dec6397dcb630c902d9c5afdfe274a3533cdc1f2bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/6\/13-16.1792402092179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "byggði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuttugu alnar"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "alnar"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "á afturhluta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "með ribbum"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedrusvið"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "gólfinu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "og að"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "veggjunum"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "byggði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "að innan"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "að debír"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "að heilagleika"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "heilagleikanna"
+    }
+  ],
+  "timestamp": "2026-10-19T09:28:12.180758958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשיא",
+      "rationale": "Hebreska orðið er hinn upphækkaði — konungshöfðingja; 'höfðingi' heldur ekki valdastiginu en er næsta íslenska orð."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ættartala",
+      "rationale": "Nafnaskrá — kynslóðarskrá."
+    }
+  ],
+  "translation": "Og Ram gat ⟨את⟩ Amminadav, og Amminadav gat ⟨את⟩ Nakhshon, höfðingja sona Júda.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/2\/9-12.1792414422979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Og Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "gat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadav"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "og Amminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "gat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "höfðingja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T12:53:42.980515931Z",
+  "model": "glm-5.3"
+}

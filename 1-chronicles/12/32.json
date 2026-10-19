@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Töluskráning: átján þúsund frá helmingi kynþáttar Menashe, hver og einn nefndur með nafni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נקבו",
+      "rationale": "נקב bókstaflega 'að gera gat í', það eitt að búa til nafn — 'útnefndir' heldur athöfninni en myndin af að 'stimpla' nafn glatast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "להמליך",
+      "gloss": "",
+      "rationale": "Orðið er orðmynd sem gerir að konungi — 'konungsgera' heldur valdingerningnum í einu orði."
+    }
+  ],
+  "translation": "Og af helmingi kynþáttar Menashe átján þúsund, þeir sem útnefndir voru með nöfnum til að koma og konungsgera ⟨את⟩ Davíð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "721468fea0e62d791f5415c9137fe995e84cddddca962d41856c50249c760be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/12\/29-32.1792414770251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "Og af helmingi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kynþáttar"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "át"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tján"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir sem"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "útnefndir voru"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "með nöfnum"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "til að koma"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "og konungsgera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    }
+  ],
+  "timestamp": "2026-10-19T12:59:30.252785205Z",
+  "model": "glm-5.3"
+}

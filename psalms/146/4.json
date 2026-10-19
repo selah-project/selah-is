@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עשתנות — hugsanir\/ætlunar; „áform“ heldur merkingu frekar en „hugsanir\""
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„allar“ bætt við fyrir ljóssetningu; hebreskan segir aðeins „hverfa áform hans\""
+    }
+  ],
+  "translation": "Rúakh hans fer út, hann snýr aftur til jarðvegar síns; á þeim degi hverfa allar áform hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/146\/1-4.1792411059150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "fer út"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rúakh hans"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "snýr aftur"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "til jarðvegar síns"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "hverfa"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "áform hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:39.151740176Z",
+  "model": "glm-5.3"
+}

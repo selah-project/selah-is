@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פר\/מפריס",
+      "rationale": "par (folsemdi) og paras (klaufaður) deila rótartengingu í hljóði; orðaleikurinn hverfur á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "tengingin ⟨sá er er⟩ er bætt við — hebreskan setur lýsingarorðin hnatt rétt aftan við nafnið"
+    }
+  ],
+  "translation": "Og það mun þóknast Jahve betur en naut, folsemdi, ⟨sá er er⟩ hornaður og klaufaður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "160c531afb528adfc334da633f0b83d6017575ecbf1ec61c48020259df93823a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/32-33.1792416942783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "og það mun þóknast betur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משור",
+      "gloss": "naut"
+    },
+    {
+      "surface": "פר",
+      "gloss": "folsemdi"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "hornaður"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "klaufaður"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:42.783667487Z",
+  "model": "glm-5.3"
+}

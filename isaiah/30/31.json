@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Frumlagið (Jahve) er ekki í hebresku þessu versi; íslenskan krefst þess."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבט יכה",
+      "rationale": "Hver ljóstar og hverjum? 'Með staf ljóstar hann (Assúr)' eða 'stafurinn sem hann (Assúr) ljóstaði með' — JKB og JPK lesa hvoría útgáfuna fyrir sig."
+    }
+  ],
+  "translation": "Því að af rödd Jahve mun Assúr brotna niður; með staf mun ⟨hann⟩ ljósta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/30\/29-32.1792404354164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "af rödd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "mun brotna niður"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "með staf"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ljósta"
+    }
+  ],
+  "timestamp": "2026-10-19T10:05:54.165572058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "að",
+      "rationale": "Íslenska þarf viðtökusnið „se ⟨að⟩ dómarai“; hebreskan segir aðeins לדין."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריבי\/וירב",
+      "rationale": "Sögnin ירב og nafnið ריבי deila rót — „færi mála mína“ heldur rótinni saman."
+    }
+  ],
+  "translation": "Og Jahve sé ⟨að⟩ dómarai og dæmi milli mín og þín, og sjái og færi ⟨את⟩ mála mína, og dæmi mig úr hendi þinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/24\/13-16.1792400785775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og sé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "dómara"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "og dæmi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "milli mín"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "og milli þín"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sjái"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "og færi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mála mína"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "mála mína"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "og dæmi mig"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "úr hendi þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:25.776385170Z",
+  "model": "glm-5.3"
+}

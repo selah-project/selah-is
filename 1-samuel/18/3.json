@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "bókstaflega 'skera sáttmála' — sáttmálar voru slitnir með því að skera dýr; 'gera' týnir myndinni",
+      "language": "is"
+    },
+    {
+      "kind": "crux",
+      "subject": "ודוד",
+      "rationale": "JPS les 'Jónatan gerði sáttmála við Davíð' en hebreskan segir 'Jónatan og Davíð skáru sáttmála'",
+      "language": "is"
+    }
+  ],
+  "translation": "Og Jónatan og Davíð skáru sáttmála, af því að hann elskaði hann sem eigin sálu sína.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/18\/1-4.1792400707829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Og skáru"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "og Davíð"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmála"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "af því að hann elskaði"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "sem eigin sálu sína"
+    }
+  ],
+  "timestamp": "2026-10-19T09:05:07.830973812Z",
+  "model": "glm-5.3"
+}

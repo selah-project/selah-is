@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur ekki hjálparsögnina 'hafði' — látningin er bætt við í íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "באך",
+      "rationale": "Önnur persóna eintölu ('þú kemur') í upprunalegum texta, óvenjulegt víxl — sumir lesa sem 'kom þeirra'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגבע",
+      "rationale": "Gíbea (מגבע) vs. Gíbeon (מגבעון) — BSB les Gíbeon, KJV heldur Gíbea"
+    }
+  ],
+  "translation": "Og Davíð gjörði svo, eins og Jahve hafði boðið honum, og hann sölti ⟨את⟩ Filistímenn frá Gíbea þar til þú kemur að Geser.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/5\/25-25.1792401200416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjörði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hafði boðið honum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og hann sölti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistímenn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistímenn"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "frá Gíbea"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "באך",
+      "gloss": "þú kemur"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "að Geser"
+    }
+  ],
+  "timestamp": "2026-10-19T09:13:20.417559183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קלעים er töldurður (sleginn) silfurryinn, ekki tjald; 'tjöld' heldur mynd hangandi striga"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "hundrað álna lengd suðurhliðar torgsins"
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "משזר (þvegin þráður) er sjaldgæft orð, aðeins um musterisdúk í 2. Mósebók"
+    }
+  ],
+  "translation": "Og þú skalt gera ⟨את⟩ torg Misjkanins: að suðurhlið, suður frá, skal tjöld fyrir torgið, af þvegnu hörum dúk, hundrað álna langt, fyrir hliðina eina.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/27\/9-12.1792394790514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og þú skalt gera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torg"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "torg"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkanins"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "að hlið"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "suður-"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "suður frá"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "tjöld"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "fyrir torgið"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hörudúk"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "þvegin"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrað"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "álna"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langt"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "fyrir hliðina"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "eina"
+    }
+  ],
+  "timestamp": "2026-10-19T07:26:30.515001279Z",
+  "model": "glm-5.3"
+}

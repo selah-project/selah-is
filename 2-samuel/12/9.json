@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 12:9",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "hetjann = חתי (Hettíti) ritað eftir hljóði hebreskunnar, ekki þýtt"
+    },
+    {
+      "kind": "you",
+      "subject": "to Davíð",
+      "rationale": "Natan talar beint til Davíðs; spurningin מדוע vendist honum"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בזית\/בזתני",
+      "rationale": "sama sögn בזה í v.9 og v.10 — tvenn lítilsvirðing, endurtekin meðvitað"
+    }
+  ],
+  "translation": "Hví lítilsvirtir þú ⟨את⟩ orð Jahve, að gjöra illt í augum hans? Úría hetjann hefir þú slegið með sverði, og ⟨את⟩ konu hans hefir þú tekit þér til konu, og ⟨את⟩ hann hefir þú drepit með sverði Ammóníta.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/9-12.1792401391770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "lítilsvirtir þú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orð"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "illt"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "í augum hans"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Úría hetjann"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Úría"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetjann"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "hefir þú slegið"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "með sverði"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "konu hans"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "konu hans"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "hefir þú tekit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "til konu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "og ⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "hefir þú drepit"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "með sverði"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ammóníta"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammón"
+    }
+  ],
+  "timestamp": "2026-10-19T09:16:31.771113925Z",
+  "model": "glm-5.3"
+}

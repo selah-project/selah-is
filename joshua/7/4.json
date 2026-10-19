@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨þeir⟩",
+      "rationale": "forsubjekt í fleirtölu sem hebreska sleppti — sögnin וינסו hefur eigið nafnlokaðan frumlag"
+    },
+    {
+      "kind": "measurement",
+      "subject": "þrjú þúsund",
+      "rationale": "talan tekin úr ráðgöfunni í 7:3 — athugið að hebreska segir 'um þrjú' en ekki val milli tveggja eða þriggja"
+    }
+  ],
+  "translation": "Og um þrjú þúsund manna af fólkinu gengu upp þangað, og ⟨þeir⟩ flýðu fyrir mönnum úr Ai.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d927b7dab1296aed27ade9ef5cf7695caa0781078117703057863a3cc0944d25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/7\/1-4.1792399035611.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "gengu upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkinu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þangað"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "um þrjú"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manna"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "flýðu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mönnum úr"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    }
+  ],
+  "timestamp": "2026-10-19T08:37:15.612991695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סביב",
+      "rationale": "þrítíu orðið 'umhverfis' endurtekið þrisvar í einu versi — hringlaga byggingin mælt með hringlaga málfarı."
+    },
+    {
+      "kind": "crux",
+      "subject": "יצוע",
+      "rationale": "orðið merkir bæði 'breiða\/rafönd' og 'útviði\/lean-to'; KJSV 'chambers', YLT 'couch' — hér 'viðbygging' sem arkitektúrmerking."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דביר",
+      "rationale": "Debír er hugtök ekki þýðing — 'innsti helgidómur'; nafnið haft óbreytt eftir hljóði."
+    }
+  ],
+  "translation": "Og hann reisti við vegg hússins viðbyggingu umhverfis, ⟨את⟩ veggi hússins umhverfis, fyrir hofinu og fyrir Debír; og hann gerði hliðarherbergi umhverfis.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "341029db1ea5f49a105a424c2b55d1b3d8ff8009e318b7bf18688bd303a8dd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/6\/5-8.1792402097725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Og hann reisti"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "vegg"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "viðbyggingu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "umhverfis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veggi hússins"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "veggi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "umhverfis"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "fyrir hofinu"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "og fyrir Debír"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og hann gerði"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "hliðarherbergi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "umhverfis"
+    }
+  ],
+  "timestamp": "2026-10-19T09:28:17.725861051Z",
+  "model": "glm-5.3"
+}

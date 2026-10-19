@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Fleirtala רשעים ('röngum') stendur við eintölu קברו ('gröf sín') — KJV 'his grave with the wicked' gerir fleirtöluna að eintölu, JPS heldur spennunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnfylling 'voru' bætt við — hebreskan segir aðeins 'og ekki svik í munninum hans'."
+    }
+  ],
+  "translation": "Og hann gaf ⟨את⟩ röngum gröf sína, og ⟨את⟩ ríkan með dauða sínum; því að enga ofbeldi hafði hann gert, og engin svik voru í munninum hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/53\/9-12.1792404855037.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "röngum"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "röngum"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "gröf sína"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "ríkan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ríkan"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "með dauða sínum"
+    },
+    {
+      "surface": "על",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hafði gert"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "svik"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "í munninum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:14:15.037987353Z",
+  "model": "glm-5.3"
+}

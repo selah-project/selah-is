@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ארץ (frá רוץ, 'renna') er lesið annað hvort 'renna gegn' eða (Ketiv-útgáfur) 'söxla'; hér 'renna gegn'"
+    }
+  ],
+  "translation": "Því að með þér renn ég gegn hersveit, og með Elóhím mínum leyp ég yfir múr.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de77b700c3666fdb82ebf2f306b18da03fa0d5225ed49355d996046230563ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/29-32.1792409431270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "בך",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "renn ég"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gegn hersveit"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "og með Elóhím mínum"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "leyp ég"
+    },
+    {
+      "surface": "שור",
+      "gloss": "yfir múr"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:31.270972301Z",
+  "model": "glm-5.3"
+}

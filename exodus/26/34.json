@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "náðarstóllinn",
+      "rationale": "כפרת er bókstaflega 'lokhild' (af rótinni kafar — að hylja); 'náðarstóll' (Kármelbiblía) vs. JPS 'örkinarlokhild'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Placement instruction within the measured layout of the sanctuary."
+    }
+  ],
+  "translation": "Og þú skalt setja ⟨את⟩ náðarstólinn á örk vitnisburðarins, í heilagleika heilagleikanna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9e95b6355f2a7811fc417cdad5b1ec31f41beb388786189f6cbb95c16b1cff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/26\/33-36.1792394871946.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Og þú skalt setja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "náðarstólinn"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "náðarstólinn"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "örk"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vitnisburðarins"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "í heilagleika"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "heilagleikanna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:27:51.947493285Z",
+  "model": "glm-5.3"
+}

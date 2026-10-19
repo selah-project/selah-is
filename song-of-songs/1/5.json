@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Bókstafleg merking שלמה er 'Sjelómo' (Salómon), en orðið hljómar eins og heiti borgarinnar Jerúsjalajím í versinu — samhljóm heillar verslínunnar."
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "Sumir lesa שלמה sem 'sáttargjörð' (af rót שלום), en nafnið Sjelómo er hið beina."
+    }
+  ],
+  "translation": "Svört er ég og fögr, dætur Jerúsjalajím, sem tjöld Kedar, sem tjaldveggir Sjelómo.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/1\/5-8.1792412645080.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "svört"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "og fögr"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dætur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "sem tjöld"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "sem tjaldveggir"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelómo"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:05.081171028Z",
+  "model": "glm-5.3"
+}

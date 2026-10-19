@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hafið",
+      "rationale": "הים er 'hafið' — steypa málmar í lögun hafs; hebreska notar orðið sjálft sem nafn á þessu stóru kerfi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "eitt og tólf",
+      "rationale": "Talningarskráin lokast: eitt haf, tólf naut undir því."
+    },
+    {
+      "kind": "elision",
+      "subject": "שנים עשר",
+      "rationale": "Hebreska tvö-orða tölun 'tólf-tíu' fellur saman í eitt íslenskt tölunafn."
+    }
+  ],
+  "translation": "og ⟨את⟩ hafið eitt, og ⟨את⟩ nautin tólf undir hafinu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/7\/41-44.1792402039196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hafið eitt"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "eitt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nautin tólf"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nautin"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tólf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafinu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:27:19.197655822Z",
+  "model": "glm-5.3"
+}

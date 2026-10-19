@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 35:35",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "frumlag (Elóhím, úr 35:30–31) er ekki í þessu versi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תולעת השני",
+      "rationale": "lít. 'ormur skarlats' — liturinn fenginn úr skordýri; 'skarlatsrauð' heldur ekki mynd ormsins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשב\/מחשבת",
+      "rationale": "sama rót 'að hugsa\/vefja' endurtekin þrisvar — hönnuðurinn og hönnunin eru eitt orð á hebresku, tapast í íslensku."
+    }
+  ],
+  "translation": "Fyllti hann ⟨את⟩ þá hjartans speki, til að gjöra allt verk-smíði: höggvari og hönnuður og saumari — í blátt og í purpura, í skarlatsrauðu og í lérefti — og vefari, þeir sem gjöra allt verk, og þeir sem hugsa hönnunir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bb4a99d5954529826d07146f45b3b90841895a8d76874d64a185a3cd67146b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/35\/33-35.1792395179916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Fyllti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "speki"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjartans"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að gjöra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "verk"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "höggvari"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "og hönnuður"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "og saumari"
+    },
+    {
+      "surface": "בתכלת",
+      "gloss": "í blátt"
+    },
+    {
+      "surface": "ובארגמן",
+      "gloss": "og í purpura"
+    },
+    {
+      "surface": "בתולעת",
+      "gloss": "í skarlatsdýr"
+    },
+    {
+      "surface": "השני",
+      "gloss": "skarlatsrauðu"
+    },
+    {
+      "surface": "ובשש",
+      "gloss": "og í lérefti"
+    },
+    {
+      "surface": "וארג",
+      "gloss": "og vefari"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "þeir sem gjöra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "וחשבי",
+      "gloss": "og þeir sem hugsa"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "hönnunir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:32:59.917733321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפניך",
+      "rationale": "Bókstælegt 'fyrir andlitinu þínu' — hebreska hefur ekki forsetninguna 'fyrir' aðskilda frá andliti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכי ... בכי",
+      "rationale": "Söguorðið 'grét' og nafnorðið 'grát' eru sama rótin, endurtekið áhrif sem glatast að hluta til í íslensku."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Bæn Hiskía beint til Jahve."
+    }
+  ],
+  "translation": "Ó, Jahve, minnist nú ⟨את⟩ þess sem ég hef gönguð fyrir andlitinu þínu, í sannleika og með heilu hjarta, og það sem gott er í augum þínum hef ég gert. Og Khiskíjáhu grét mikinn grát.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5dcf1d1281b42ee3d28f98d5098fdeecd2876064b644263751dd85d1a795b25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/20\/1-4.1792403481229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ó"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "minnist"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þess sem ég hef gönguð"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þess sem"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "hef ég gönguð"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fyrir andlitinu þínu"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "í sannleika"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "og með hjarta"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "heilu"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "og það sem gott er"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "í augum þínum"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hef ég gert"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "Og grét"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khiskíjáhu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "grát"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikinn"
+    }
+  ],
+  "timestamp": "2026-10-19T09:51:21.230643712Z",
+  "model": "glm-5.3"
+}

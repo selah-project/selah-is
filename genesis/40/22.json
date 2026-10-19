@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hafði — væntanleg hjálpsögn sem hebreska sleppir."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/שכח (v. 23, samhengi)",
+      "rationale": "þulur Jósefs ræður ræðurnar og þær rætast — endurtökustrik frásagnar."
+    }
+  ],
+  "translation": "En ⟨את⟩ höfðingja bakaranna hélt hann upp, eins og Jósef hafði þýððu fyrir þeim.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/40\/21-23.1792393611346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "höfðingja"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "bakaranna"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "hélt upp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "þýddu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    }
+  ],
+  "timestamp": "2026-10-19T07:06:51.347297609Z",
+  "model": "glm-5.3"
+}

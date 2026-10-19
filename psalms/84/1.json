@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "הגתית — gítíttharpan — kemur aðeins fyrir í þremur sálmatitlum (Sálm 8, 81, 84) og merðin er óviss."
+    }
+  ],
+  "translation": "Fyrir kórstjórann, á gítítthörpuna; fyrir sonu Kórak; sálmur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/84\/1-4.1792410395374.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fyrir kórstjórann"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gítítthörpuna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fyrir sonu"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kórak"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sálmur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:35.374609782Z",
+  "model": "glm-5.3"
+}

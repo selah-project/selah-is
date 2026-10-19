@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur ekki andlagið í 'sálin hans hatar' — viðfangið (hinn órétti) er skilið úr samhengi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur — ekki sál í pyþagórískum skilningi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/רשע",
+      "rationale": "Stoðsetning rétts og óretts í sömu verslín — andstæðan bæði hér og í v.7"
+    }
+  ],
+  "translation": "Jahve prófar hinn rétta, en hinn órétti og sá er elskar ofbeldi — sálin hans hatar ⟨hann⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/11\/5-7.1792409311396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hinn rétta"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "prófar"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "en hinn órétti"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "og sá er elskar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldi"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hatar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálin hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:31.396791258Z",
+  "model": "glm-5.3"
+}

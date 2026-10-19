@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכנפיה",
+      "rationale": "'í vængjum hans' (vindarins, karlkyns í samhenginu) eða 'í vængjum hennar' — endingin er 3. pers. kvenkyn fleirtölu en vísað til Ísraels sem hennar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח merkir vindur, andi og andardráttur — eitt orð haldið óbreytt eftir reglu D2"
+    },
+    {
+      "kind": "elision",
+      "subject": "מזבחות",
+      "rationale": "fleirtöluorð myndað af זבח (slátrun, fórn) — 'fórnarveislna' tekur tvö orð þar sem hebreskan hefur eitt"
+    }
+  ],
+  "translation": "Rúakh hefur bundið ⟨את⟩ hana í vængjum sínum, og þeir munu skammast sín vegna fórnarveislna sinna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/4\/17-19.1792408042957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "hefur bundið"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "í vængjum sínum"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "og þeir munu skammast sín"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "vegna fórnarveislna sinna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:07:22.958048029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "צלי אש",
+      "rationale": "'steikt yfir eldi' — 'eldsteykt' sameinar tveggja orða mynd hebreskunnar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "með",
+      "rationale": "על er bókstaflega 'á\/uppi á', en hér með innsæi: 'með beiskjurtum'"
+    }
+  ],
+  "translation": "Og þeir skulu eta ⟨את⟩ kjötið á þessari nótt, eldsteykt, og ósýrt brauð; með beiskjurtum skulu þeir eta það.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/5-8.1792394357386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "og þeir skulu eta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kjötið"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kjötið"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "á nótt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessari"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "eldsteykt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "(í eldi)"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "og ósýrt brauð"
+    },
+    {
+      "surface": "על",
+      "gloss": "með"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "beiskjurtum"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "skulu þeir eta það"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:17.387540690Z",
+  "model": "glm-5.3"
+}

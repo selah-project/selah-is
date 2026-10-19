@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin „voru“ bætt við tvisvar; hebreskan er nafnliðauppbygging"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רבעיהם",
+      "rationale": "„Hliðum“ fyrir רִבְעֵיהֶם — fjórðungar\/fjórirendir; „sides“ eða „quarters“"
+    }
+  ],
+  "translation": "Og mannshendur ⟨voru⟩ undir vængjum þeirra, á fjórum hliðum þeirra; og andlit þeirra og vængir þeirra ⟨voru⟩ hjá ⟨þeim hverjum⟩ fjórum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/1\/5-8.1792406686642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "og hendur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manns"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "vængjum þeirra"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "fjórum"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "hliðum þeirra"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "og andlit þeirra"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "og vængir þeirra"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "hjá fjórum þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:44:46.643058403Z",
+  "model": "glm-5.3"
+}

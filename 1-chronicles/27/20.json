@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yfir",
+      "rationale": "Forskeytið ל- þýtt sem 'yfir' í samræmi við listann"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kvísl",
+      "rationale": "שבט er bókstaflega 'stöng' en hér um ættkvísl; 'helmingur kvíslar' heldur myndinni"
+    }
+  ],
+  "translation": "Yfir sonu Efraíms Hóshea sonur Azasjaú; yfir helming kvíslar Menashe Jóel sonur Pedajaú.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9685c283049b8007409740e2d476aa15e75dce27ebe43c6e308cb3092a3f408f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/27\/17-20.1792415090372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "yfir sonu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraíms"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hóshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "Azasjaú"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "yfir helming"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kvíslar"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Jóel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "Pedajaú"
+    }
+  ],
+  "timestamp": "2026-10-19T13:04:50.373856697Z",
+  "model": "glm-5.3"
+}

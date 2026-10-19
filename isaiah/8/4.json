@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לפני er „fyrir augliti\/áður en“ — myndkun „fyrir augliti konungsins“ heldur litrófi orðsins."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Tímamörk spádómsins mæld í aldri barnsins: áður en það segir „faðir“ og „móðir“."
+    }
+  ],
+  "translation": "Því að áður en drengurinn kann að kalla „faðir“ og „móðir“, mun fært verða ⟨את⟩ auðævi Damesk og ⟨את⟩ herfang Shomron fyrir augliti konungsins í Ashúr.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/8\/1-4.1792403760825.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kann"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "drengurinn"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "að kalla"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faðir"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "og móðir"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mun fært verða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "auðævi Damesk"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "auðævi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damesk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "herfang Shomron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "herfang"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir augliti"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashúr"
+    }
+  ],
+  "timestamp": "2026-10-19T09:56:00.827031117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sá sem snýr ekki",
+      "rationale": "Hebreskan segir aðeins 'hann' — sá sem ekki snýr er annað hvort hinn rangláti (v. 13 er um Guð í KJF\/JPS) eða Guð sjálftur sem hættir að snúa sér; Íslenskan heldur óvissunni með 'hann'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דרך",
+      "rationale": "Orðið merkir bæði 'að troða' og 'að spenna boga' (með því að troða á hann) — 'troðið ⟨spennt⟩' geymir bæði myndina."
+    }
+  ],
+  "translation": "Ef hann snýr ekki aftur, mun hann hvessa sverð sitt; bogann sinn hefur hann troðið ⟨spennt⟩ og gert hann tilbúinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/13-16.1792409195419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "snýr aftur"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sverð sitt"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "mun hann hvessa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "bogann sinn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "hefur hann troðið"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "og gert hann tilbúinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:35.419880824Z",
+  "model": "glm-5.3"
+}

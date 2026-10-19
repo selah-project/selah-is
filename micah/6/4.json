@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפניך",
+      "rationale": "Bókstaflega 'fyrir andlit þitt' — hebreskt myndmál fyrir 'fram yfir þig', gert að 'fyrir andlit þér'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרים\/עבדים",
+      "rationale": "Exodus-formúlan: land Mitsrajím og þrælahús — endurtekning frá 2. Mósebók 20:2."
+    }
+  ],
+  "translation": "Því að ég leiddi þig upp úr landi Mitsrajím og úr þrælahúsi leysti ég þig, og ég sendi fyrir andlit þér ⟨את⟩ Mósje, Aharon og Mirjám.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/6\/1-4.1792408758168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ég leiddi þig upp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "og úr húsi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "þræla"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "leysti ég þig"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "og ég sendi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fyrir andlit þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mósje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "og Mirjám"
+    }
+  ],
+  "timestamp": "2026-10-19T11:19:18.169934117Z",
+  "model": "glm-5.3"
+}

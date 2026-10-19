@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "hebreskan hefur enga sögn — samanburðurinn stendur án hennar; ⟨eru⟩ sett til að búa til jafnaðarsetningu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "synir æskunnar",
+      "rationale": "getur líka þýðst 'synir unglinganna' (fleirtala á menn) — 'æskunnar' er ríkara kolektíft farði"
+    }
+  ],
+  "translation": "Eins og örvur í hendi kappa, svo ⟨eru⟩ synir æskunnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/127\/1-4.1792410915977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Eins og örvur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hendi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kappa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "æskunnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:15.978282148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hana",
+      "rationale": "fornafnið 'hana' (um Tsor) bætt við — hebreskan segir aðeins 'fylltu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלאוך",
+      "rationale": "lokið sögn eða svörnuð ('fyllt mig\/náð yfir þig') — erfitt orð, ýmsar tilgátur"
+    }
+  ],
+  "translation": "Þegið, íbúar eyjarinnar; kaupmenn Tsidónar, þeir sem fara yfir hafið, hafa fyllt hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/23\/1-4.1792404207415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Þegið"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "íbúar"
+    },
+    {
+      "surface": "אי",
+      "gloss": "eyjarinnar"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "kaupmenn"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidónar"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "fara yfir"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "hafa fyllt hana"
+    }
+  ],
+  "timestamp": "2026-10-19T10:03:27.415911336Z",
+  "model": "glm-5.3"
+}

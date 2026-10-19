@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זבול",
+      "rationale": "Sjaldgæft orð — hásætisbústaður; 'hús-tsébúl' er rétt samsett nafn á musteri Sjlómó"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sitja",
+      "rationale": "לשבתך er bókstaflega 'setuveru þinni' — setið er hásæti konungs"
+    }
+  ],
+  "translation": "En ég hef reist þér hús, tsébúlland, og stað til að sitja þú um aldir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de24a3eb168abc4c2c7cc023515f4de6a617e6c80ee31dcd9fa8d242fa5559c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/6\/1-4.1792415269010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "hef ég reist"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "tsébúlland — bústaðar-"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "og stað"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "til að sitja þú"
+    },
+    {
+      "surface": "עולמים",
+      "rationale": "fleirtala 'aldir'",
+      "gloss": "um aldir"
+    }
+  ],
+  "timestamp": "2026-10-19T13:07:49.011052644Z",
+  "model": "glm-5.3"
+}

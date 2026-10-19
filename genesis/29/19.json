@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טוב",
+      "rationale": "Hebreskan segir aðeins 'gott'; íslenskan krefst samanburðarforms 'betra'."
+    },
+    {
+      "kind": "you",
+      "subject": "Jaakov",
+      "rationale": "Lavan svarar beint með boðhátt: 'dveljstu hjá mér'."
+    }
+  ],
+  "translation": "Og Lavan sagði: Betra að ég gefi hana ⟨את⟩ þér en að ég gefi hana ⟨את⟩ öðrum manni; dveljstu hjá mér.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/29\/17-20.1792393269099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Betra"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "að ég gefi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "að ég gefi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "öðrum manni"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "dveljstu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hjá mér"
+    }
+  ],
+  "timestamp": "2026-10-19T07:01:09.100208023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבלול",
+      "rationale": "Snigill\/slímdýr sem leysist upp í eigin slíma — sumir lesa 'grýla' eða sveima; myndin er það sem hvarfar meðan það fer."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fóstufall",
+      "rationale": "נפל er 'það sem fell' — fóstur sem færist ekki til lífs; 'ótið niðurfall' heldur myndinni."
+    }
+  ],
+  "translation": "Eins og snigill sem sigur undan mun hann hverfa; sem fóstufall kvenna, án þess að hafa séð sólina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/58\/9-12.1792409899258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "snigill"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "sem sigur undan"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "mun hann hverfa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "fóstufall"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kvenna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "án þess að"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "hafa séð"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sólina"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:19.259565799Z",
+  "model": "glm-5.3"
+}

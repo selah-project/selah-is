@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbeyging í viðtengingarhætti („til að gefa“) bætt við — hebreska óþátta sagnmyndin הוצאתי ber það ekki sjálf."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Jahve talar beint til Ísraels og gefur sig til kynna sem Elóhím þeirra."
+    }
+  ],
+  "translation": "Ég er Jahve, Elóhím ykkar, er fékk ⟨את⟩ ykkur út frá landi Mitsrajím, til að gefa ykkur ⟨את⟩ land Kenaan, til að vera ykkar að Elóhím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9b5488444a74bbb8c8d044e41b62c3fadae48d4d4ed360c434230f421bb1ea1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/25\/37-40.1792396145529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "fékk út"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "frá landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "til að gefa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "til að vera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "að Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:49:05.532467690Z",
+  "model": "glm-5.3"
+}

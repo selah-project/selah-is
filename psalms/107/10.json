@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "צלמות er 'skuggi dauðans', myndráð tekið bókstaflega hérla um 'dauðaskuggi'"
+    }
+  ],
+  "translation": "Þeir sem sátu í myrkri og dauðaskugga, hlekkjaðir í örbaga og járn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/9-12.1792410617229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "þeir sem sátu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "í myrkri"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "og dauðaskugga"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "hlekkjaðir"
+    },
+    {
+      "surface": "עני",
+      "gloss": "í örbaga"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "og járn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:17.230004658Z",
+  "model": "glm-5.3"
+}

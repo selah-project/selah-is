@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siguróp",
+      "rationale": "ריע er að ljúka í óglegt hávaða — 'ópa' eða 'hrópa sigursælt'; 'siguróp' heldur myndinni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "girnst",
+      "rationale": "חפץ merkir 'hafa ánægju í, vilja' — 'hefur ánægju í mér' (ASV 'delightest') jafngilt"
+    }
+  ],
+  "translation": "Um þetta veit ég að þú hefur girnst mig, að óvinur minn óvar ekki siguróp yfir mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/41\/9-12.1792409703932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Um þetta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "veit ég"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "þú hefur girnst"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "óvar siguróp"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "óvinur minn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:03.933507795Z",
+  "model": "glm-5.3"
+}

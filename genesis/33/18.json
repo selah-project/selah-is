@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלם",
+      "rationale": "KJV les 'Shalem' sem borgarnafn; JPS\/ASV les 'heill' (snemma 'í friði') — hér valið 'heill' sem lýsingorð."
+    },
+    {
+      "kind": "idiom",
+      "subject": "את פני העיר",
+      "rationale": "Bókstaflega 'frammi fyrir andliti borgarinnar'; flutt á 'andspænis borginni'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'herbúðir sínar' bætt við; hebreska sögnin ויחן felur búðirnar í sér."
+    }
+  ],
+  "translation": "Og Jaakov kom heill til borgarinnar Sjekem, sem er í landi Kenaan, er hann kom frá Paddan-Aram, og lagði ⟨את⟩ herbúðir sínar andspænis borginni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d45c67a609bc5ec7f335d329883828afdc051532e0fdcb3d11b7518aa65b9289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/33\/17-20.1792393448744.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "heill"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borg"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjekem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "er hann kom"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "frá Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "og lagði herbúðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andspænis borginni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andspænis"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borginni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:04:08.745709103Z",
+  "model": "glm-5.3"
+}

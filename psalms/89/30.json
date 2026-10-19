@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זרע er 'fræ' — 'afkomendur' er merkingin, en myndin er fræ plantingunar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם\/לעד",
+      "rationale": "Vers 29 og 30 nota tvö ólík orð fyrir 'eilíft' — ló'olám og la'ad — endurtekin á víxl"
+    }
+  ],
+  "translation": "Og ég set afkomendur hans til eilífs, og hásæti hans eins og dagar himnanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/29-32.1792410374571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Og ég set"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "til eilífs"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "afkomendur hans"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "og hásæti hans"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "eins og dagar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnanna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:14.572047553Z",
+  "model": "glm-5.3"
+}

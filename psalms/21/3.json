@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאות\/ארשת",
+      "rationale": "Næstum samheitalögð orð 'þrá' og 'ósk' í samstillingu; sambandið helst í íslensku pörinu"
+    },
+    {
+      "kind": "elision",
+      "subject": "honum",
+      "rationale": "Önnur persónufornafn (honum) sett aftan við neitað þar sem íslenskan krefst andlags"
+    }
+  ],
+  "translation": "Þrá hjarta hans hefur þú gefið honum, og ósk varanna hans hefur þú eigi neitað honum. Selá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/21\/1-4.1792409467843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Þrá"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hjarta hans"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hefur þú gefið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "og ósk"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "varanna hans"
+    },
+    {
+      "surface": "בל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "hefur þú neitað"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:07.844433108Z",
+  "model": "glm-5.3"
+}

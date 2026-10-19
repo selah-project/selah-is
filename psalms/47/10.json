@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨sem⟩ bætt við til að tengja safnaða höfðingjana við 'þjóð Elóhím Avrahams'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מגני ארץ",
+      "rationale": "'Skjöldir jarðar' — annað hvörf konungar jarðar (sem skjöldir þjóðanna) eða hlífarnar sjálfar; bókstæð myndin haldin."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lýsarsálmur ávarpar söfnuðinn sem vitnar af Elóhím."
+    }
+  ],
+  "translation": "Höfðingjar þjóðanna hafa safnast saman, ⟨sem⟩ þjóð Elóhím Avrahams; því að Elóhím eru skjöldir jarðarinnar, hann er mjög hækkaður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2cdf1c7bfa7a6d88c56939cd2a2fd8ef6e560d347d67c36d08b2408182d00591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/47\/9-10.1792409764618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "höfðingjar"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "hafa safnast saman"
+    },
+    {
+      "surface": "עם",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahams"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "skjöldir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "hækkaður"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:04.619035825Z",
+  "model": "glm-5.3"
+}

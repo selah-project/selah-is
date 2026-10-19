@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnorð 'rétthærist' bætt við — hebreskan segir aðeins 'trúfesti þín til skýjanna', með sögn úr framvers."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד er hvorki 'miskunn' né 'kærleikur' einn — orðið fellur saman festi, gæsku og sáttmálaálofi."
+    }
+  ],
+  "translation": "Jahve, í himnunum er khesed þinn, trúfesti þín ⟨rétthærist⟩ til skýjanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/36\/5-8.1792409621437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "í himnunum"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed þinn"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "trúfesti þín"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skýjanna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:41.438358506Z",
+  "model": "glm-5.3"
+}

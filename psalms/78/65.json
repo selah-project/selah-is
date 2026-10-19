@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתרונן מיין",
+      "rationale": "'hrópar af víni' — annar lestur: 'yfir sig af víni', þ.e. hrópar upp úr vínrausn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גבור",
+      "rationale": "orðrétt 'kraftmikill stríðsmaður'; 'hetja' heldur myndinni"
+    }
+  ],
+  "translation": "Þá vaknaði Adónaí sem svefnandi, sem hetja sem hrópar af víni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/65-68.1792410231952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "vaknaði"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "sem svefnandi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "sem hetja"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "sem hrópar"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "af víni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:51.952819840Z",
+  "model": "glm-5.3"
+}

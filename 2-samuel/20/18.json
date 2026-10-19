@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 20:18",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבר ידברו · שאול ישאלו",
+      "rationale": "Örgervingsmynd (infinitivus absolutus) endar sögnina við sjálfa sig — „tala þeir tala“, „spyrja þeir spyrja“ — endursögn glatar þessari tvítekningu"
+    },
+    {
+      "kind": "crux",
+      "subject": "התמו",
+      "rationale": "„Svo var lokið“ — en þýðendum ber saman: „svo munu þeir ljúka“ (framtíð, skylda) á móti liðinni tíð; tvíræðni um hvort orðatiltækið sé vottun eða kröfu"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Kveðjumyndin lemor hekkur í íslensku og er merkt sem viðbót"
+    },
+    {
+      "kind": "alternative",
+      "subject": "באבל",
+      "rationale": "Þetta er borgin Abel-Bét-Maaka, ekki heiti nema staðar — „í Abel“ haldið hljóði hebreskunnar"
+    }
+  ],
+  "translation": "Og hún talaði ⟨og sagði⟩: Talað var fyrr á dögum, ⟨og sagt⟩: Spurt verður ⟨spurt⟩ í Abel, og svo var málinu lokið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e4747c36fbc8ea2d4e121638ca631daf8951a4b3bf0b22b03c43e45089b2fe24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/20\/17-18.1792416653026.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hún talaði"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨og sagði⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Talað var"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "fyrr á dögum"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "í upphafi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨og sagt⟩"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Spurt verður"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "spurt"
+    },
+    {
+      "surface": "באבל",
+      "gloss": "í Abel"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "og svo"
+    },
+    {
+      "surface": "התמו",
+      "gloss": "var málinu lokið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:30:53.027492117Z",
+  "model": "glm-5.3"
+}

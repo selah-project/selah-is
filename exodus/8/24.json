@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 8:24",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרחק\/תרחיקו",
+      "rationale": "Sömu rót tvísvar: 'fjarlægið — fjarlægið ekki' — leikur á orðinu sem glatast í þýðingu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "העתירu er myndað af reykelsisfórn; 'biðja' gefur merkinguna en ekki fórnarmyndina."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Paró talar beint til Mósje og Aharon: 'senda ykkur … biðjið fyrir mér'."
+    }
+  ],
+  "translation": "Og Paró sagði: Ég mun senda ⟨את⟩ ykkur, og þér munuð fórna Jahve Elóhím ykkar í eyðimörkinni; aðeins — farið ekki of langt í burtu. Biðjið fyrir mér.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eb70608fdca283c9f342c3b827ba5a6978de7a20ec89bbd06d6f35ad9efd7b83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/8\/21-24.1792394259170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mun senda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "וזבחתם",
+      "gloss": "og þér munuð fórna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "farið ekki of langt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "í burtu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "að fara"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Biðjið"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "fyrir mér"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:39.172138109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 16:2",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפני",
+      "rationale": "Lítt. 'andliti Mósje' — staðhvörðing notuð um andstöðu, 'gegn Mósje'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Talað: tveir hundruð og fimmtíu menn, öll höfðingjanöfn í safnaðinum."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskeytið 'þeir sem' bætt við kvenkyns lýsingarhátt fyrir 'kallaðir eru til fundarins', hebreskan hefur aðeins ḳrí-ei-móʿéd samsetta."
+    }
+  ],
+  "translation": "Og þeir risu upp gegn Mósje, og menn af sonum Ísraels, tveimur hundruð og fimmtíu, höfðingar safnaðar, ⟨þeir⟩ sem kallaðir eru til fundarins, menn af nafni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b08d47f344a996abd6a774dec18d811fa32e96645baca05782813867eac04585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/16\/1-4.1792396896546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Og þeir risu upp"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "og menn"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "af sonum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fimmtíu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "og tveimur hundruð"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "höfðingar"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "safnaðar"
+    },
+    {
+      "surface": "קראי",
+      "gloss": "þeir sem kallaðir eru"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "til fundarins"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "menn af"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:01:36.546912970Z",
+  "model": "glm-5.3"
+}

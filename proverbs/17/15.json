@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/רשע",
+      "rationale": "Réttlæti og rangindi speglast í rótunum צדק og רשע — thet andstæður mynda krosslínulagt mynstur."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'eru' bætt við — hebreskan hefur enginn sagnorð."
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "גם שניהם — 'einnig báðir' er þjappað; íslenska sameinar í 'báðir'."
+    }
+  ],
+  "translation": "Sá sem réttlætir ranga og sá sem dæmir réttlátan sekjan — báðir eru sogð Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/17\/13-16.1792411408631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "sá sem réttlætir"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranga"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "og sá sem dæmir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "réttlátan"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "sogð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "báðir"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "eru"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:28.632036661Z",
+  "model": "glm-5.3"
+}

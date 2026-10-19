@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsaon",
+      "rationale": "tsaon er sameiginlegt nafn fjölda sauðfjár og geita — 'sauðfé og geitur' væri gjörníttarast, hér 'sauðfé'."
+    }
+  ],
+  "translation": "En Davíð fór og sneri aftur frá Sául til að gæta ⟨את⟩ sauðfjár föður síns í Beit Lekhem.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/13-16.1792400594237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "En Davíð"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fór"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og sneri aftur"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "frá"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "til að gæta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sauðfjár"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sauðfjár"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður síns"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    }
+  ],
+  "timestamp": "2026-10-19T09:03:14.238578376Z",
+  "model": "glm-5.3"
+}

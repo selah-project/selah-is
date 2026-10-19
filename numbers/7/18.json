@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bar nær",
+      "rationale": "הקריב er 'gerði nær' — sömu rót og קרבן; 'bauð' myndi brjóta tenginguna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Annan daginn",
+      "rationale": "Versið er liður í talningu daga vígslunnar"
+    }
+  ],
+  "translation": "Annan daginn bar Nétanél, sonur Tswar, höfðingi Íssakar, ⟨את⟩ fórn sína nær.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ab917de84892d6d36210ffd857c93b88947bb2dc7beb69878900cd3254dcf091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/7\/17-20.1792396481676.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "השני",
+      "gloss": "Annan"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "bar nær"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Nétanél"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tswar"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "höfðingi"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Íssakar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:54:41.677164430Z",
+  "model": "glm-5.3"
+}

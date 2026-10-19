@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "סוכות is rendered Súkkot — a name, not a description (booths)"
+    }
+  ],
+  "translation": "Booth festival you shall make for yourself, seven days, when you gather in from your threshing floor and from your winepress.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/16\/13-16.1792397995654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "hátíð"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Súkkot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skalt þú halda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þig"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "þegar þú safnar"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "af þreskjugólfi þínu"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "og af vínþrógum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:19:55.655290277Z",
+  "model": "glm-5.3"
+}

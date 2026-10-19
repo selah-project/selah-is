@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנין",
+      "rationale": "'Melludyr' (kvenkyns) samkvæmt staðbundinni lestri; annars merkir תנין yfirleitt 'vatnskvika'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ענים",
+      "rationale": "Straumar (strútur) — í hebreskri þjóðsögu yfirgefur hann unga sína."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תנין",
+      "rationale": "Þetta er eina staðurinn þar sem תנין er lesið sem melludyrað (kvenkyns)."
+    }
+  ],
+  "translation": "Jafnvel melludyr gefa brjóst, geita unga sína — en dóttir fólks míns er orðin grim, eins og straumar í eyðimörkinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/4\/1-4.1792412851031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Jafnvel"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "melludyr"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "gefa"
+    },
+    {
+      "surface": "שד",
+      "gloss": "brjóst"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "geita"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "unga sína"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttir"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólks míns"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "orðin grim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "straumar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:27:31.032732359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ישאג",
+      "rationale": "„Rýtr“ — ljónahrófur um Jahve; myndlýsing sem bæði vísa til ógnar og þrumu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "rýtr\/syrgja\/þornar",
+      "rationale": "Samstilling þriggja sagna í keðju: rödd Jahve → sorg beitilanda → þurrkun Karmels."
+    }
+  ],
+  "translation": "Og hann sagði: Jahve rýtr frá Tsjíon og gefur rödd sína frá Jerúsjalajím, og syrgja beitilönd smalanna, og þornar toppur Karmels.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/1\/1-4.1792408390745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "frá Tsjíon"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "rýtr"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "og frá Jerúsjalajím"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefir"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "rödd sína"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "og syrgja"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "beitilönd"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "smalanna"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "og þornar"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "toppur"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmels"
+    }
+  ],
+  "timestamp": "2026-10-19T11:13:10.746049941Z",
+  "model": "glm-5.3"
+}

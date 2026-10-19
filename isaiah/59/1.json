@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "הן („Sjá“) kallar á hlustandann í upphafi ræðunnar."
+    },
+    {
+      "kind": "idiom",
+      "subject": "stytta hönd",
+      "rationale": "Hebreska myndin „hönd styttist“ = geta skort; íslenska heldur myndinni í orðasambandinu."
+    }
+  ],
+  "translation": "Sjá, hönd Jahve hefur ekki styttst frá því að bjarga, og eyra hans ekki þungnað frá því að heyra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/1-4.1792405026240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "hefur styttst"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "frá því að bjarga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "þungnað"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "eyra hans"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "frá því að heyra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:06.241329775Z",
+  "model": "glm-5.3"
+}

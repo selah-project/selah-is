@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki fornafnið 'hann'; það er bætt við af samhengi."
+    }
+  ],
+  "translation": "Og ⟨את⟩ fituna syndarfórnarins skal hann láta reykja á altarinu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0f6d8bf77077f86897720c9059ce3f4c68f1b45c8d074a519075b5c784d8bfd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/16\/25-28.1792395901403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fituna"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fituna"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndarfórnarins"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "láta reykja"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "á altarinu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:01.404328381Z",
+  "model": "glm-5.3"
+}

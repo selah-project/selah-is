@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "spurningin til vitringanna",
+      "rationale": "konungurinn beinir spurningunni til ráðgjafanna — bein áletrun.",
+      "language": "is"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הסריסים",
+      "rationale": "'geldingum\/hirðvördum' — orðið þekkir bæði geldinga og hirðverði konungs.",
+      "language": "is"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "tengiorðið fellur í íslenskri setningsskipan eftir 'þar sem'."
+    }
+  ],
+  "translation": "Eftir lögunum: hvað er að gjöra við drottninguna Vasjtí, þar sem hún gjörði ekki ⟨את⟩ boðorð Akhashverósh konungs með hendi hirðvördunum?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/1\/13-16.1792413197923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Eftir lögunum"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "er að gjöra"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "við drottninguna"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vasjtí"
+    },
+    {
+      "surface": "על",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boðorð"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "boðorð"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverósh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "með hendi"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "hirðvördunum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:33:17.924983176Z",
+  "model": "glm-5.3"
+}

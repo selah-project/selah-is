@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 12:12",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "bókstaflega 'andliti\/ásjá' — 'fyrir ásjá' heldur mynd líkamans, ekki aðeins 'fyrir'"
+    },
+    {
+      "kind": "elision",
+      "subject": "בשעריכם",
+      "rationale": "'í hliðum ykkar' merkir í bæjunum ykkar — hlið sem tavkara-mynd þéttbýlis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה",
+      "rationale": "erfðaland-orðið frá v. 9 kemur aftur um levítann sem ekkert á — rammi kaflans"
+    }
+  ],
+  "translation": "Og þér skuluð gleðjast fyrir ásjá Jahve, Elóhím ykkar — þér og synir ykkar og dætur ykkar, þrælar ykkar og ambáttir ykkar, og levítinn sem er í hliðum ykkar, því að engin er hlutdeild né erfðaland honum ⟨את⟩-meðal ykkar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/12\/9-12.1792398046419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחתם",
+      "gloss": "Og þér skuluð gleðjast"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir ásjá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "og synir ykkar"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "og dætur ykkar"
+    },
+    {
+      "surface": "ועבדיכם",
+      "gloss": "og þrælar ykkar"
+    },
+    {
+      "surface": "ואמהתיכם",
+      "gloss": "og ambáttir ykkar"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "og levítinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "er í hliðum ykkar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "engin er"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "hlutdeild"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "né erfðaland"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ meðal ykkar",
+      "marks": "ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:20:46.421354947Z",
+  "model": "glm-5.3"
+}

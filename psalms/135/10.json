@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Persónufornafnið 'hann' er bætt við á íslensku; hebreskan hefur aðeins sagnirnar í afmarkaðri frásögn."
+    }
+  ],
+  "translation": "Hann sló marga þjóðir og drap konunga aflgenga.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/135\/9-12.1792410909854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "sló"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðir"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "marga"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "og drap"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konunga"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "aflgenga"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:09.855373111Z",
+  "model": "glm-5.3"
+}

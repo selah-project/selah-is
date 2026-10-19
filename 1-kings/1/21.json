@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 1:21",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "leggst með feðrum sínum",
+      "rationale": "Hebreska 'liggja með feðrum sínum' = deyja; myndin er varðveitt"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "Hebreskan segir einfaldlega 'verðum glæpamenn'; sambandsorð bætt við á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "tölu Davíðs konungs",
+      "rationale": "Batseba talar beint til konungsins, herra míns"
+    }
+  ],
+  "translation": "Og það mun verða, þegar herra minn, konungurinn, leggst til hvíldar með feðrum sínum, að ég og sonur minn Shelómó verðum ⟨sem⟩ glæpamenn.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "583057bc609fef89f7b89732cc37245e5dd36646d606aae621f430f736c386f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/21-24.1792401865466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og það mun verða"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "þegar … leggst til hvíldar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðrum sínum"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "að … verðum"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og sonur minn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelómó"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "glæpamenn"
+    }
+  ],
+  "timestamp": "2026-10-19T09:24:25.466872466Z",
+  "model": "glm-5.3"
+}

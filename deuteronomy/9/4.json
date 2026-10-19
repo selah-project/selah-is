@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 9:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקתי er gjörið sem tsedek mína, ekki „réttlæti“ (D2)"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "Móse talar beint til Ísraels: „ekki skalt þú segja í hjarta þínu“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרשת\/מורישם",
+      "rationale": "Sama rót ירש í að taka landið og í að reka út — endurspegling í hebresku, glatað að hluta á íslensku"
+    }
+  ],
+  "translation": "Ekki skalt þú segja í hjarta þínu, þegar Jahve, Elóhím þinn, hríflar ⟨את⟩ þeim burt frá andliti þínu, svo að segja: Fyrir tsedek mína hefur Jahve fært mig hingað til að taka ⟨את⟩ land þetta; heldur fyrir ranglæti þjóðanna þessara er Jahve að reka þær burt frá andliti þínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "aa18367442455bfbfe328f19cc4577413b0f4b9de199e6e5aa02570f0719ce81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/9\/4-4.1792416458877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "skalt þú segja"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "í hjarta þínu"
+    },
+    {
+      "surface": "בהדף",
+      "gloss": "þegar hann hríflar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "burt frá andliti þínu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "svo að segja"
+    },
+    {
+      "surface": "בצדקתי",
+      "gloss": "fyrir tsedek mína"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "hefur fært mig hingað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "til að taka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land þetta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "וברשעת",
+      "gloss": "heldur fyrir ranglæti"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מורישם",
+      "gloss": "er að reka þær burt"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "frá andliti þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:27:38.878062380Z",
+  "model": "glm-5.3"
+}

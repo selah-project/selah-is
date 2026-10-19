@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישא",
+      "rationale": "„lyfta“ stendur einn á hebresku; hlutar (rödd) sem síðari lína gefur, eru ekki nefndir"
+    }
+  ],
+  "translation": "Hann mun ekki öskra né lyfta, og ekki láta rödd sína heyrast úti á götu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/42\/1-4.1792404648361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "mun öskra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "lyfta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "læta heyrast"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "úti á götu"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "rödd sína"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:48.362015318Z",
+  "model": "glm-5.3"
+}

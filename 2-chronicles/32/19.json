@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 32:19",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guðum þjóðanna",
+      "rationale": "„guðir“ með litlum staf um guði þjóðanna, samkvæmt reglu D1 — en Elóhím Jerúsjalajím heldur Nafninu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskot „þeir“ bætt við á íslensku"
+    }
+  ],
+  "translation": "Og þeir töluðu gegn Elóhím Jerúsjalajím eins og gegn guðum þjóðanna á jörðinni, verki mannshenda.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3049310cac680738e17ecd2f20f8c13c35958f4b8e342debfa32e3f8aaa621cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/32\/17-20.1792416026337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "Og þeir töluðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "eins og gegn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verki"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mannshenda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manns"
+    }
+  ],
+  "timestamp": "2026-10-19T13:20:26.339825903Z",
+  "model": "glm-5.3"
+}

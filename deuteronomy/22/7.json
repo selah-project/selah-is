@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח תשלח",
+      "rationale": "Nafnháttar ending hennar — 'sendandi skalt þú senda' — til að leggja áherslu á boðina."
+    },
+    {
+      "kind": "addition",
+      "subject": "þína",
+      "rationale": "'Daga þína' — hebreskan segir aðeins 'daga', en íslenskan þyrfti eignarfornafn."
+    }
+  ],
+  "translation": "Sendandi skalt þú senda ⟨את⟩ móðurina burt, en ⟨את⟩ ungina skalt þú taka þér, til þess að þér gengi vel og þú lengir daga þína.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/22\/5-8.1792398185292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Sendandi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "skalt þú senda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "móðurina"
+    },
+    {
+      "surface": "האם",
+      "gloss": "móðurina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "ungina"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ungina"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skalt þú taka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gengi vel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "og þú lengir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-10-19T08:23:05.293425430Z",
+  "model": "glm-5.3"
+}

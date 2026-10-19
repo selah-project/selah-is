@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרשנהו",
+      "rationale": "'leituðum að henni' — hverju var leitað: örkinni sjálfrri (KJV 'at it') eða Jahve handan hennar (YLT 'Him')?"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Kvenkynsnafnorð 'örk' tekur 'henni' þar sem hebreskan segir 'hana' um arkboxið."
+    }
+  ],
+  "translation": "Og snúum ⟨את⟩ örk Elóhím vors til vor, því að við leituðum ekki að henni í dögum Sjáúl.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/13\/1-4.1792414834368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "Og snúum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örk"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "örk"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vors"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "til vor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "leituðum að henni"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "í dögum"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    }
+  ],
+  "timestamp": "2026-10-19T13:00:34.369597775Z",
+  "model": "glm-5.3"
+}

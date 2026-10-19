@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 2:5",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד er geymt sem khesed, ekki miskunn eina"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf 'að' fyrir samtengingu sem hebreskan hefur ekki"
+    }
+  ],
+  "translation": "Og Davíð sendi sendimenn til mannanna í Javesj Gílead, og sagði við þá: Blessuð eruð þið af Jahve, að þér gerðuð þetta khesed með herra ykkar, með Sjáúl, og grófuð ⟨את⟩ hann.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d9099906c29685d4e346a73e036367d42af28f5a8f3285ad5a477b11edba9e17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/2\/5-8.1792401125016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sendimenn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mannanna"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "í Javesj"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gílead"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "Blessuð"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "eruð þið"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "af Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "þér gerðuð"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "khesedið"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "herra ykkar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "ותקברו",
+      "gloss": "og grófuð"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann (Sjáúl)"
+    }
+  ],
+  "timestamp": "2026-10-19T09:12:05.017036240Z",
+  "model": "glm-5.3"
+}

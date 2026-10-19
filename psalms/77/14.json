@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בקדש",
+      "rationale": "'Í heilagleika' (JPS, YLT) á móti 'í helgidómi' (KJV, Geneva) — sömu rót, tvenn merking."
+    },
+    {
+      "kind": "you",
+      "subject": "Elóhím",
+      "rationale": "Beint ákall til Guðs í öðru persóni."
+    }
+  ],
+  "translation": "Elóhím, í heilagleika er vegur þinn; hver er El svo mikill sem Elóhím?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/77\/13-16.1792410180427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "í heilagleika"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "er vegur þinn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "svo mikill"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "sem Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:00.428315681Z",
+  "model": "glm-5.3"
+}

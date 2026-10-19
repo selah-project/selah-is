@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שמע בין — 'hljóðið á milli' er rétt, en Hebreskan segir bókstaflega 'að heyra milli', ekki 'mál' — málin eru skiljanleg viðbót."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska setnin 'á þeirri stundu' krefst viðskeyts í íslensku — bætt við af nauðsyn."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Mósje talar beint til dómanna með boðshætti: Hljóðið — dæmið."
+    }
+  ],
+  "translation": "Og ég bauð ⟨את⟩ dómurum ykkar á þeirri stundu og sagði: Hljóðið málin á milli bræðra ykkar, og dæmið tsedek á milli hvers manns og bróður hans og á milli útlendings hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7cbbbcdae975ae690cebdfabbfbc333f33bd9b24fffc1025c58cdc706d1617a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/16-16.1792416390526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Og ég bauð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dómurum ykkar"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "dómurum ykkar"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "á"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeirri stundu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hljóðið"
+    },
+    {
+      "surface": "בין",
+      "gloss": "málin á milli"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "bræðra ykkar"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "og dæmið"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בין",
+      "gloss": "á milli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvers manns"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og á milli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður hans"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og á milli"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "útlendings hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:30.527364813Z",
+  "model": "glm-5.3"
+}

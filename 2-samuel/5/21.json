@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאם",
+      "rationale": "\"Tóku upp\" (bókstaflegt \"lyftu\") — 1. Krón. 14:12 og KJV les \"brenna þau\"; hebreska textinn hér segir aðeins að þeir fluttu þau í burtu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skurðgoð",
+      "rationale": "עֲצַבִּים er myndir\/likneskji guðanna — lítil stafur, ekki Nafnið."
+    }
+  ],
+  "translation": "Og þeir yfirgáfu þar ⟨את⟩ skurðgoð sín, og Davíð og menn hans tóku þau upp.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "fcdbe9b14556bdd47e12c7398ee23e4a5ac3c335874de02676fd33e065bec19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/5\/21-24.1792401229302.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Og þeir yfirgáfu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skurðgoð sín"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "skurðgoð sín"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "og tóku þau upp"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "og menn hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:13:49.302530646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "האלף · מאתים",
+      "rationale": "tölurnar svara versi 11: þúsund og tvö hundruð silfurs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרמי שלי",
+      "rationale": "endurtekning á 'minn' gerir eignarhaldið ljóst — mótvægi við vínakrund Shelomós"
+    }
+  ],
+  "translation": "Vínakrundinn minn, minn eigin, er fyrir mér; þúsundin er þín, Shelomó, og tvö hundruð þeim er varðveita ⟨את⟩ ávexti hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/8\/9-12.1792412693049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "vínakrundinn minn"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "minn eigin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "er fyrir mér"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "þúsundin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "er þín"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomó"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "og tvö hundruð"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "þeim er varðveita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ávexti hans"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ávexti hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:53.050757577Z",
+  "model": "glm-5.3"
+}

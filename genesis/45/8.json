@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heldur",
+      "rationale": "כי fer hér með merkingu andstæðu — „heldur“ — en „því að“; bókstaflegur lestur myndi brjóta samhengið."
+    },
+    {
+      "kind": "crux",
+      "subject": "að föður Faraó",
+      "rationale": "„Faðir Faraó“ — titill ráðgjafa eða fósturföður í egypskum skilningi, ekki bókstafleg feðerni."
+    }
+  ],
+  "translation": "Og nú — ekki eruð þið það sem senduð mig ⟨את⟩ hingað, heldur Elóhím; og hann setti mig að föður Faraó og að herra yfir allt hús hans og stjórnanda yfir alla landið Mitsrajím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "dea7e4ff419f0823b042d7d48b058c5fdfcfcfff3ad6b3fe05709c1876e82a91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/45\/5-8.1792393944363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þið"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "eruð það sem senduð"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hingað"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "og hann setti mig"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "að föður"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Faraó"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "og að herra"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yfir allt"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hús hans"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "og stjórnanda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yfir alla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:12:24.365220633Z",
+  "model": "glm-5.3"
+}

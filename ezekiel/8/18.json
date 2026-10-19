@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þó að",
+      "rationale": "Íslenska setningin krefst orðsins „þó að” fyrir þolháttarvirðinguna; hebreskan segir einfaldlega „og þeir kalla”."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bræði",
+      "rationale": "חמה er bókstaflega „hitinn” — reiði sem hiti; íslenska „bræði” heldur hitamyndinni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חוס \/ חמל",
+      "rationale": "Tvö samstöðu orð um að sýna miskunn í lokadettu — „augmitt mun ekki svífa né miskunn sýna” — áhersla á neitunina."
+    }
+  ],
+  "translation": "Og einnig ég mun gjöra í bræði; auga mitt mun ekki svífa og ekki mun ég sýna miskunn; og þó að þeir kalli í eyru mín með hári röddu, mun ég ekki hlýða á ⟨את⟩ þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "77b8fa1e0b355580b60e4b4872b538b2f2dd331c7959ac955c28091a6d4da268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/8\/17-18.1792406893864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Og einnig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mun ég gjöra"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "í bræði"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mun svífa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "auga mitt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "sýna miskunn"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "og þó að þeir kalli"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "í eyru mín"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hári"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mun ég hlýða"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "þá (fleirtölu karlkyns)"
+    }
+  ],
+  "timestamp": "2026-10-19T10:48:13.864940222Z",
+  "model": "glm-5.3"
+}

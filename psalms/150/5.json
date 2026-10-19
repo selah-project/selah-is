@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלצלי שמע \/ תרועה",
+      "rationale": "Tvö föst pöruð smelli: 'sömblar hljóms' og 'sömblar kalls\/þrumu' — YLT 'cymbals of sounding \/ of shouting', KJV 'loud \/ high sounding'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צלצלי",
+      "rationale": "Tvísýnt orð, endurtekið — hljómar eins og slagið sjálft, glatað að hluta til á íslensku"
+    },
+    {
+      "kind": "invitation",
+      "subject": "lofgið hann",
+      "rationale": "Boðsháttur, lokakaðall lofsins — kallað á alla til að lofa"
+    }
+  ],
+  "translation": "Lofgið hann með sömblum sem láta — lofgið hann með sömblum þrumu!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "30b5d1fca940bd63f3a21a21ceaa84d0287e2e9d3c196a63dce963939971a83e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/150\/5-6.1792411040300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "lofgið hann"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "með sömblum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hljóms"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lofgið hann"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "með sömblum"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "þrumu (kalls)"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:20.300947359Z",
+  "model": "glm-5.3"
+}

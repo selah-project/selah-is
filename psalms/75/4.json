@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תכנתי er „vigi, mæli, stilli fast“ — haft „grundað“ en orðið hefur vigtarmynd (mæling) í rót sinni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "vigtarótin í תכנתי ber mælivídd — upphaflega um að vega eða mæla stoðirnar"
+    }
+  ],
+  "translation": "Bráðnar jörðin og allir íbúar hennar; ég hafi grundað stoðir hennar. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/75\/1-4.1792410200826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Bráðnar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allir"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "íbúar hennar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "hafi grundað"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "stoðir hennar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:20.827616394Z",
+  "model": "glm-5.3"
+}

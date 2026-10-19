@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממכריו על האבות",
+      "rationale": "'söluhlut hans eftir feðrunum' — KJV: 'arfur seldur af foreldrum'; JPS: 'það sem til má njótas eftir ættartökum feðranna'; textar eru óvissir (Qere samþykkir ýmsar atburðarásir)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלק כחלק",
+      "rationale": "endurtekningin 'hlut eins og hlut' eyðir ekki — hún er lagaseðningin sjálf"
+    }
+  ],
+  "translation": "Hlut eins og hlut skulu þeir eta, að undanskildum söluhlut hans eftir ættartökum feðranna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/18\/5-8.1792398082104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "hlut"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "eins og hlut"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skulu þeir eta"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "að undanskildum"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "söluhlut hans"
+    },
+    {
+      "surface": "על",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ættartökum feðranna"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:22.105262191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "לך",
+      "rationale": "Beint ákvörðun á ('til þín') — konunginum sem brúðkaupssálminn talar til"
+    },
+    {
+      "kind": "addition",
+      "subject": "hún",
+      "rationale": "Fornafnið 'hún' er aukið við — hebreskan segir aðeins 'verður leidd'"
+    }
+  ],
+  "translation": "Í marglitum saumaskreytingum verður hún leidd til konungsins; meyjar á eftir henni, vinkonur hennar, verða látnar koma til þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/45\/13-16.1792409812997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "í marglitum saumaskreytingum"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "verður hún leidd"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til konungsins"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "meyjar"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "á eftir henni"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "vinkonur hennar"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "verða látnar koma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:52.998374837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagnir viðfangs ('hann') er viðbót; hebreskan hefur aðeins vav-consecutive."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vitni",
+      "rationale": "עדות er 'vitnagjörd\/löggjörd'; 'vitni' heldur myndinni."
+    }
+  ],
+  "translation": "Og hann reisti vitni í Jaakov og setti Tóra í Ísrael, er hann bauð ⟨את⟩ feður vorra, að kynna það sonum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2149cee6f13cc441aeedddc44382796a7489691504cdf8736fb1dcc788b90e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/5-8.1792410217020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "reisti"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "vitni"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "í Jaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "og Tóra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "setti"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feður vorra"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "feður vorra"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "að kynna það"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sonum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:37.021556201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hönd Jahve",
+      "rationale": "„Hönd“ stendur fyrir kraft og vald; myndin sjálf er hélöð í þýðingunni."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "Hótun til lýðsins um afleiðingar óhlýðni."
+    }
+  ],
+  "translation": "En ef þér hlýðið ekki rödd Jahve, heldur óhlýðnið ⟨את⟩ mun Jahve, þá verður hönd Jahve á yður og á feður yðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/12\/13-16.1792400427985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "þér hlýðið"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "óhlýðnið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mun Jahve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "þá verður"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "á yður"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "og á feður yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:00:27.987317103Z",
+  "model": "glm-5.3"
+}

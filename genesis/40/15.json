@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנב גנבתי",
+      "rationale": "Infinitivus absolutus á undan sagnbreyttu sögn: \"stolið — já, stolinn\"; íslenskan endurgerir endurtekninguna en ekki málfræðilega myndina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikja",
+      "rationale": "בור er „graf“, brunnarholt eða fangelsisdýpka; \"dikja\" heldur myndinni betur en \"fangelsi\"."
+    }
+  ],
+  "translation": "Því að stolið var mér —já, ég var stolinn— úr landi Ívrita, og og hér hef ég ekkert gjört, því að þeir lögðu ⟨את⟩ mig í dikju.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "39df6fa2df1ffe5b3e1206a49dcb5613fc19ead10ea9e416bc425122b612a1ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/40\/13-16.1792393687460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "stolið"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "var ég stolinn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ívrita"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og og"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hef ég gjört"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ekkert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "þeir lögðu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "í dikju"
+    }
+  ],
+  "timestamp": "2026-10-19T07:08:07.461255209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 43:5",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לגור er „að gista\/búa sem útlendingur“ — „til að búa“ gleymir framandlegu atviki orðsins"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "שם flæðir saman við אשר — „þangað sem þeir höfðu verið rekinn“"
+    }
+  ],
+  "translation": "Og Jókhánan, sonur Karea, og allir höfðingjar heranna tóku ⟨את⟩ allan afgang Júda, þeir er sneru aftur frá öllum þjóðunum, þangað sem þeir höfðu verið rekinn, til að búa í landi Júda.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "49f36c35806e72bc5204f6f8dc911c782beada782e2534627dee5f6c9ddd849d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/43\/5-8.1792406446007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tóku"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jókhánan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Karea"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allir"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "höfðingjar"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "heranna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allan afgang Júda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "afgang"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir er"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "sneru aftur"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frá öllum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þangað sem"
+    },
+    {
+      "surface": "נדחו",
+      "gloss": "höfðu verið rekinn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þangað"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "til að búa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T10:40:46.008287875Z",
+  "model": "glm-5.3"
+}

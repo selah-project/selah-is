@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "neitunin ‚ekki‘ fylgir neikvæða viðtengingarháttinum sem פן krefst á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "skipun beint að Ísrael um að yfirgefa ekki levíann"
+    }
+  ],
+  "translation": "Gættu þér, að þú yfirgefir ekki ⟨את⟩ levíann alla daga þína á landi þínu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b48f7e28498e565b0ebf3232708906a6925c06371484fe2cad5cc68f4f081999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/12\/17-20.1792398008650.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Gættu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "פן",
+      "gloss": "að"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "þú yfirgefir ekki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levíann"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levíann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "daga þína"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "landi þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T08:20:08.651628923Z",
+  "model": "glm-5.3"
+}

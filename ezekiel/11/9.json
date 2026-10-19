@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתכם er aleph-tav með viðskeyttu fornöfn; merkt ⟨את⟩ og fornafnið íslenskað"
+    }
+  ],
+  "translation": "Og ég mun leiða ⟨את⟩ ykkur út úr miðju hennar og gefa ⟨את⟩ ykkur í hönd ókunnra manna, og ég mun fremja með ykkur dóma.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/11\/9-12.1792406899069.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "og ég mun leiða út"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "út úr miðju hennar"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og gefa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "í hönd ókunnra manna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ókunnra manna"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "og ég mun fremja"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "með ykkur"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dóma"
+    }
+  ],
+  "timestamp": "2026-10-19T10:48:19.070465981Z",
+  "model": "glm-5.3"
+}

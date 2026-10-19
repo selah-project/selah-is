@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kornfórn",
+      "rationale": "versið mælir minkhuna: þrjár tíundir efa og tvær tíundir efa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "efa",
+      "rationale": "עשרון er tíundi af efa; mælieiningin 'efa' bætt við samkvæmt D3"
+    }
+  ],
+  "translation": "Og minkha þeirra: flúr hrært í olíu, þrjá tíunda efa fyrir nautið, tvo tíunda efa fyrir hjartinn.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e2a0ac0c965b4ab17b6fc3d9522e7e78b478be4ca129304fd115ef881480ba41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/29\/1-4.1792397262489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "Og minkha þeirra"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "flúr"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "hrært"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "í olíu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "þrjá"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tíunda efa"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "fyrir nautið"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tvo"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "tíunda efa"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "fyrir hjartinn"
+    }
+  ],
+  "timestamp": "2026-10-19T08:07:42.490293790Z",
+  "model": "glm-5.3"
+}

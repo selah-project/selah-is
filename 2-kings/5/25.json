@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 5:25",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אנה ואנה",
+      "rationale": "Tvö endurtekin spurnarorð — 'hingat eða þangat' — steypa neituninni 'fór hvergi'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Gehazi",
+      "rationale": "Elísha ávarpar Gehazí beint með nafni — spurningin er ádeila"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאן ... אנה ואנה",
+      "rationale": "Endurtekning málið 'hvert?' endurspeglast í svarinu 'hvorki hingat né þangat'"
+    }
+  ],
+  "translation": "Og hann kom og settist fyrir framan herra sinn, og Elísha sagði við hann: Hvaðan, Gehazí? En hann sagði: Þjónn þinn fór hvorki hingat né þangat.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8edaa30a94dbf14b93d11841a4f61ec84cbf897279df5d741f932797871a9825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/5\/25-27.1792402880602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Og hann"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "settist fyrir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "framan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herra sinn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elísha"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "Hvaðan"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hann sagði"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fór"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjónn þinn"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hingat"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "né þangat"
+    }
+  ],
+  "timestamp": "2026-10-19T09:41:20.602805555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'heima' er bætt við til skýrleika — hebreskan segir aðeins 'ekki í húsi sínu'."
+    }
+  ],
+  "translation": "Því að maðurinn er ekki heima í húsi sínu, hann er farinn á langa leið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d3d23095c5c9abfb9fb97bc2f768a64465fa3c1f03dfa46a4615d3a0d992bf93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/7\/17-20.1792411264136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er ekki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "heima í húsi sínu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "er farinn"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á leið"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "langa (heimskoti)"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:04.137032566Z",
+  "model": "glm-5.3"
+}

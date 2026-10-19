@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Hebreska hefur enga sögn í setningunni 'ekki guðir þeir'; íslenska þarf 'voru'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "'heldur' — hebreskt neitunar-jafnvægi 'ekki... heldur', tvö orð fara í eitt"
+    },
+    {
+      "kind": "addition",
+      "subject": "þeim",
+      "rationale": "Fornafns-ending á sögn 'eyððu' — hebreska hefur suffixið í sögninni sjálfri (ויאבדום)"
+    }
+  ],
+  "translation": "og settu ⟨את⟩ guði sína í eld, því að ekki voru ⟨það⟩ guðir — heldur verk mannshanda, viður og steinn — og eyððu ⟨þeim⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/19\/17-20.1792403441982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "og settu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guði sína"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guði sína"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðir"
+    },
+    {
+      "surface": "המה",
+      "gloss": "voru það"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mannshanda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manns"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "viður"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og steinn"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "og eyððu þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T09:50:41.983082776Z",
+  "model": "glm-5.3"
+}

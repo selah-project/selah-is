@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þannig að",
+      "rationale": "לדעת er óbuginn höfuðsmynd; tenging orðuð til að tengja við bæn vers 2"
+    },
+    {
+      "kind": "substitution",
+      "subject": "frelsun",
+      "rationale": "ישועתך er 'frelsun\/hjálp' — ekki 'hjálpræði' með síðari merkingu"
+    }
+  ],
+  "translation": "Þannig að þekkt verði á jörðinni ⟨את⟩ veginn þinn, meðal allra þjóða frelsun þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/67\/1-4.1792410008473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "þannig að þekkt verði"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "⟨את⟩ veginn þinn",
+      "marks": "veginn þinn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "meðal allra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóða"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "frelsun þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:08.473781611Z",
+  "model": "glm-5.3"
+}

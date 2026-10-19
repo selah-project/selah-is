@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 13:15",
+  "book": "job",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא איחל",
+      "rationale": "FrægtDeigur: KJV „þó mun ég treysta honum“ (lo-echaleh les sem vísvitandi), en stafsetning segir beint „ekki vona ég“ (YLT, ASV) — vonunarleysi, ekki von."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fylgja eftir",
+      "rationale": "אוכיח er lagalegt orð: „sanna málið, bera rök“ — ekki bara tala."
+    }
+  ],
+  "translation": "Sjá, hann myndi drepa mig — ekki vona ég; aðeins vegu mína andliti hans mun ég fylgja eftir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/13\/13-16.1792411978587.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "יקטלני",
+      "gloss": "hann myndi drepa mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "vona ég"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vegu mína"
+    },
+    {
+      "surface": "אל",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hans"
+    },
+    {
+      "surface": "אוכיח",
+      "gloss": "mun ég fylgja eftir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:58.588128946Z",
+  "model": "glm-5.3"
+}

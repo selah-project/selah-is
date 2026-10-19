@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "þúsundir",
+      "rationale": "לאלפים: 'þúsund kynslóðir' (JPS) eða óákveðið 'þúsundir' — hebreskan segir aðeins 'þúsundum'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "khesed ritað eftir hljóði — 'miskunn' eða 'kærleiki' ná ekki yfir rótina"
+    }
+  ],
+  "translation": "og gjörir khesed við þúsundir ⟨kynslóða⟩ þeirra sem elska mig og gæta boðorða minna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/5-8.1792394516354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og gjörir"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "við þúsundir"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "þeirra sem elska mig"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "og gæta"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "boðorða minna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:21:56.355815Z",
+  "model": "glm-5.3"
+}

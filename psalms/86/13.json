@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur — ekki sál í síðari merkingu",
+      "language": "is"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Sjeól neðsta",
+      "rationale": "תחתיה er kvenkyns fleirtölu mynd af 'neðsti' — 'neðsta Sjeól' eða 'Sjeól neðanjarðar'",
+      "language": "is"
+    }
+  ],
+  "translation": "Því að khesed þitt er mikill yfir mér, og þú hefnaist sálu minni úr Sjeól neðsta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/86\/13-16.1792410347587.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed þitt"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "og þú hefnaist"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "úr Sjeól"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "neðsta"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:47.587898412Z",
+  "model": "glm-5.3"
+}

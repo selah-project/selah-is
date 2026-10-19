@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תבלל · גבן · דק · ילפת · מרוח · אשך",
+      "rationale": "Sex orð í þessu versi koma aðeins hér í Tanakh — skrá yfir bresta er full af aðeins-eitt-sinni orðum."
+    },
+    {
+      "kind": "crux",
+      "subject": "דק",
+      "rationale": "'dvergur' (KJV) vs 'þunnur\/lágvaxinn' — orðið þýðir bælt\/þunnt, nákvæm merking óviss."
+    },
+    {
+      "kind": "crux",
+      "subject": "תבלל",
+      "rationale": "'grá stær' vs 'bleking í auga' — rótin þýðir 'blanda', merking um augnsjúkdóm ekki örugg."
+    }
+  ],
+  "translation": "eða kroppinn að baki, eða dvergur, eða með grá stær í auga sínu, eða með skorflekk eða með skorpukýli, eða með myrju eistu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bb1a6bd847fb8230b8e127ec879b94d9466be40eb1c6fc00c5f05e6295b5a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/21\/17-20.1792396012700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "kroppinn að baki"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "דק",
+      "gloss": "dvergur"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "grá stær"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "í auga sínu"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "skorflekk"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "skorpukýli"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "myrju"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "eistu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:52.702768811Z",
+  "model": "glm-5.3"
+}

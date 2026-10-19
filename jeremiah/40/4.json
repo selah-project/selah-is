@@ -1,0 +1,196 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 40:4",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Nevúzaradan býður Jirmejahu vald: „kom“ eða „láttu af“ — allur landslaginn opinn fyrir honum."
+    },
+    {
+      "kind": "idiom",
+      "subject": "טוב בעיניך",
+      "rationale": "Orðrétt „gott í augum þínum“ — íslenska myndin „ef þér sýnist gott“; orðmynd augnanna varðveitt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בא\/חדל\/לך",
+      "rationale": "Stutt boðorð í par: kom — láttu af — far; tveir fullkomnir speglar í eigu „með mér til Babýlon“."
+    }
+  ],
+  "translation": "Og nú — sjá, ég hef opnað þig í dag frá fjötrum sem eru á höndum þínum. Ef gott er í augum þínum að koma með ⟨את⟩ mér til Babýlon, kom, og ég mun setja ⟨את⟩ auga mitt yfir þig; en ef illt er í augum þínum að koma með ⟨את⟩ mér til Babýlon, láttu af — sjá, allt landið er fyrir andliti þér; til þess sem gott er og hið beina í augum þínum að fara þangað — far þangað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2993e0ab51f61cb0dc3a3f88bfd67816dab5bfc361ebb50e5595bb73f801e975",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/40\/1-4.1792406390367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og-nú"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "פתחתיך",
+      "gloss": "hef-ég-opnað-þig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í-dag"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "האזקים",
+      "gloss": "fjötrum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "höndum-þínum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "í-augum-þínum"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "að-koma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "með-⟨את⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babýlon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "og-ég-set"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "auga mitt"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "auga-mitt"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yfir-þig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en-ef"
+    },
+    {
+      "surface": "רע",
+      "gloss": "illt"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "í-augum-þínum"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "að-koma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "með-⟨את⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babýlon"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "láttu-af"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fyrir-andliti-þér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góðs"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og-til"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "hið-beina"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "í-augum-þínum"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "að-fara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þangað"
+    },
+    {
+      "surface": "לך",
+      "gloss": "far"
+    }
+  ],
+  "timestamp": "2026-10-19T10:39:50.368964409Z",
+  "model": "glm-5.3"
+}

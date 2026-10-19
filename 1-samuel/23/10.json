@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע שמע",
+      "rationale": "Óendanleg mynd söngvarinnar: 'heyra heyrt' = 'sannarlega heyrt'; endurtekningin glatar í íslensku."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Bæn Davíðs beint til Jahve — bein áttun."
+    }
+  ],
+  "translation": "Og Davíð sagði: Jahve, Elóhím Ísraels, þjónn þinn hefur ⟨sannarlega⟩ heyrt að Sjáúl leitast við að koma til Keíla, til að eyða borginni fyrir mína sakir.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/23\/9-12.1792400773682.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyra"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sannarlega heyrt"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjónn þinn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "leitast við"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "að koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keíla"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "að eyða"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "borginni"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "fyrir mína sakir"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:13.683264700Z",
+  "model": "glm-5.3"
+}

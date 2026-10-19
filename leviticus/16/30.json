@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hebreskan notar ópersónulega mynd 'yfirbætur gjörð' — 'verður' bætt við sem hjálparsögn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כפר er bókstaflega 'þekja'; 'yfirbætur' fær hlutverk orðsins en ekki mynd þess"
+    }
+  ],
+  "translation": "Því að á þessum degi verður fyrir yður yfirbætur gjörð, til að hreinsa ⟨את⟩ yður frá öllum syndum yðar; fyrir andliti Jahve skulið þér verða hreinir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/16\/29-32.1792395918423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessum"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "verður yfirbætur gjörð"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fyrir yður"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "til að hreinsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frá öllum"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "syndum yðar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "skulið þér verða hreinir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:18.424754213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גרים",
+      "rationale": "גֵּרִים eru 'útlendingar, tímapendlar' — 'landnemar' er ekki fullt; 'gestir í landi' væri mun digrara."
+    },
+    {
+      "kind": "alternative",
+      "subject": "גרים",
+      "rationale": "'útlendingar í henni' — nákvæmara en 'landnemar', en minna dágert."
+    },
+    {
+      "kind": "measurement",
+      "subject": "מספר",
+      "rationale": "Fátt manna á tölum — hér hefst talning föðursagnaðarlands."
+    }
+  ],
+  "translation": "Þegar þeir voru menn á örfáum tölum, afar fáir og landnemar í henni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/9-12.1792410600227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Þegar þeir voru"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "menn"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "á örfáum tölum"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "afar fáir"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "og landnemar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í henni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:00.228890004Z",
+  "model": "glm-5.3"
+}

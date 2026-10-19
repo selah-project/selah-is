@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hjálparsagnir (mun slá, munu deyja) bætt við fyrir íslenska tíðarmynd."
+    }
+  ],
+  "translation": "Og ég mun slá ⟨את⟩ íbúa þessar borgar, og ⟨את⟩ manninn og ⟨את⟩ búfénaðinn — með mikilli plágu munu þeir deyja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/21\/5-8.1792405828831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Og ég mun slá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "íbúa þessar borgar"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "íbúa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "manninn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "búfénaðinn"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "búfénaðinn"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "með plágu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikilli"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "munu þeir deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T10:30:28.832171434Z",
+  "model": "glm-5.3"
+}

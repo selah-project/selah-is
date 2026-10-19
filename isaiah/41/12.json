@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מצות",
+      "rationale": "מצתך kemur aðeins fyrir hér; merking 'árekstrar\/deilur' er tekin af rótinni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין\/אפס",
+      "rationale": "Tvö samstæð orð fyrir tómið — 'ekkert' og 'núll\/tómting' — tvítekið við refinn í versi 11."
+    }
+  ],
+  "translation": "Þú munir leita að þeim en finna þá ekki — þeir menn sem þverrast við þig skulu verða sem ekkert og sem alveg tómt, þeir menn sem herja gegn þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/9-12.1792404588610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "Þú munir leita að þeim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "finna þá"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "þeir menn"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "sem þverrast við þig"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skulu verða"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sem ekkert"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "og sem alveg tómt"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "þeir menn"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "sem herja gegn þér"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:48.611232138Z",
+  "model": "glm-5.3"
+}

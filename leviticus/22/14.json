@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Fimmti hlutur bætetur óvart neyslu heilags — nákvæmur viðbótardómur."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "'með hinn heilaga hlut' (עליו\/את הקדש): KJV\/ASV 'with the holy thing' — YLT les ⟨את⟩ sem andlag gjafarinnar."
+    }
+  ],
+  "translation": "En maður, ef hann etur heilagt óvart, skal hann bæta við fimmtungi þess og gefa kóheninum ⟨את⟩ hinn heilaga hlut.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6d179f046420a6cf8a131988421b3537b244cfc7116ebb4796ba89cfd4447476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/13-16.1792396042895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En maður"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "etur"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilagt"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "óvart"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "skal bæta"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "fimmtungi þess"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "við"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og gefa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kóheninum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinn heilaga hlut"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "hinn heilaga hlut"
+    }
+  ],
+  "timestamp": "2026-10-19T07:47:22.896722428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "v30 dýrnöfnin",
+      "rationale": "Allar fimm gerðirnar eru óvissar; KJS 'ferret, chameleon, lizard, snail, mole' vs ASV\/JPS 'gecko, land-crocodile, lizard, sand-lizard, chameleon'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "האנקה",
+      "rationale": "Orðið kemur aðeins hér í Tanakh."
+    }
+  ],
+  "translation": "Gekkóinn og varaninn og eðlan og sandeðlan og kameleoninn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0e1ef9d19747433d9529591c3d70b7823aafe512cf4a495f34251f2bbf4d30ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/29-32.1792395671099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "gekkóinn"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "varaninn"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "eðlan"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "sandeðlan"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "kameleoninn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:11.100295149Z",
+  "model": "glm-5.3"
+}

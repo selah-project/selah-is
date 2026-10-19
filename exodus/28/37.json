@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenska þarf hjálparsögnina 'skal vera' þar sem hebreskan segir aðeins 'það er'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מול",
+      "rationale": "מול myndar hér fasta tvímynd 'אל מול פני' — frammi fyrir andliti — sem íslenska þarf tvö orð fyrir"
+    }
+  ],
+  "translation": "Og þú skalt setja ⟨את⟩ það á snæri af tkeleþ-bláum, og það skal vera á túrbannum; gagnvart andliti túrbansins skal það vera.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "fc9dd374112d2cd49cd5eb1314cab7df165f7c278d4e68a984551d0be59830c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/28\/37-40.1792394914922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Og þú skalt setja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ það",
+      "marks": "það (gullplötuna)"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "snæri"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tkeleþ-bláum"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og það skal vera"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "túrbannum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "מול",
+      "gloss": "frammi fyrir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "túrbansins"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal það vera"
+    }
+  ],
+  "timestamp": "2026-10-19T07:28:34.923470035Z",
+  "model": "glm-5.3"
+}

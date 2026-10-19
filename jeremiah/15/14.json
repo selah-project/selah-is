@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 15:14",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "reiði",
+      "rationale": "אף er nef og nefgöng, myndlínt fyrir reiði; íslenskan segir „reiði minni“ og myndina hverfur"
+    },
+    {
+      "kind": "crux",
+      "subject": "והעברתי את איביך",
+      "rationale": "KJK „make thee to pass with thine enemies“ tekur Ísrael sem hlut markbyssunnar; JPS\/YSL lesa óvinina sjálfa látið fara yfir í landsótt — hebreskan leyfar báðar"
+    },
+    {
+      "kind": "you",
+      "subject": "til Júda",
+      "rationale": "Jahve talar beint til lýðsins, snýst í fjölvörðu „á yður“"
+    }
+  ],
+  "translation": "Og ég mun láta fara yfir ⟨את⟩ óvini þína í land sem þú þekkir ekki, því að eldur er kveiktur í reiði minni, á yður skal hann brenna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf44da90949b574866251e893d608753e57f1e78ad6bf3b7fe2cdcb921691d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/15\/13-16.1792405675954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "og ég mun láta fara yfir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óvini þína"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "óvini þína"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "þú þekkir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldur"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "kveiktur"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "í reiði minni"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "á yður"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "skal brenna"
+    }
+  ],
+  "timestamp": "2026-10-19T10:27:55.955068252Z",
+  "model": "glm-5.3"
+}

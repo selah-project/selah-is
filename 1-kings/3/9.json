@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לב שמע er bókstaflega 'hjarta sem hlýðir\/heyrir', ekki 'skilningshjarta'"
+    },
+    {
+      "kind": "crux",
+      "subject": "hinn þungi",
+      "rationale": "הכבד er 'þungur' í góðri merkingu ('fjölmennur') eða í illri ('þungur í höndun')"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elóhím",
+      "rationale": "Sjelómó talar beint til Elóhím í bæn sinni"
+    }
+  ],
+  "translation": "Og gef þú þjóni þínum heyrandi hjarta til að dæma ⟨את⟩ lýð þinn, til að skilja milli góðs og ills, því hver getur dæmt ⟨את⟩ lýð þinn, þennan þunga?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/3\/9-12.1792401967128.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "gef þú"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "þjóni þínum"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyrandi"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "til að dæma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lýð þinn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lýð þinn"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "til að skilja"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góðs"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "og ills"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "getur"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "dæmt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lýð þinn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lýð þinn"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "þunga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þennan"
+    }
+  ],
+  "timestamp": "2026-10-19T09:26:07.129217490Z",
+  "model": "glm-5.3"
+}

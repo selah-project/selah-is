@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 37:8",
+  "book": "job",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "במו",
+      "rationale": "Skáldleg forsetning, jöfn „í\/inn í“ — ekki sérstök merking í íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagnarfornafnið ⟨það⟩ bætt við í aukasetningu."
+    }
+  ],
+  "translation": "Og dýrið kemur inn í felu, og í bælum sínum dvelst ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ac2f44f5656edef6eb03721cbce1c76effa3f616fea0182d734371e0d3f53ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/37\/5-8.1792412464256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Og kemur"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dýrið"
+    },
+    {
+      "surface": "במו",
+      "gloss": "inn í"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "felu"
+    },
+    {
+      "surface": "ובמעונתיה",
+      "gloss": "og í bælum sínum"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "dvelst"
+    }
+  ],
+  "timestamp": "2026-10-19T12:21:04.257291902Z",
+  "model": "glm-5.3"
+}

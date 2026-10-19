@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "borðaði",
+      "rationale": "ברא er aðallega 'að velja\/að færa' en hér merkir það 'að borða' (aramísk notkun); sumir þýða 'neitaði að fá sér mat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "öldungar",
+      "rationale": "זקני er 'hinir gömlu', höfuðsmenn hússins — 'öldungar' heldur aldarskilninginum."
+    }
+  ],
+  "translation": "Og öldungar húss hans risu upp yfir honum til að reisa hann af jörðinni, en hann vildi ekki og borðaði ekki ⟨את⟩ brauð með þeim.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/17-20.1792401376994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "risu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "öldungar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "húss hans"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir honum"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "til að reisa hann"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "vildi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "borðaði"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ með þeim",
+      "marks": "með þeim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    }
+  ],
+  "timestamp": "2026-10-19T09:16:16.995110048Z",
+  "model": "glm-5.3"
+}

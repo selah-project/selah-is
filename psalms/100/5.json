@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Semikohn sem heiðurssetningu vantar í hebreskuna; tími 'endist' bætt við"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד þýtt sem khesed samkvæmt D2, ekki 'miskunn' ein"
+    },
+    {
+      "kind": "crux",
+      "subject": "אמונה",
+      "rationale": "'trúfesti' vs 'sannleika' — hebreska orðið er 'festi, áreiðanleiki'"
+    }
+  ],
+  "translation": "Því að góður er Jahve; um alfarir endist khesed hans, og kynslóð eftir kynslóð trúfesti hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a9149f4869b8ab7ea1c87c2d2ccd930ce505ac28441e37936bca1d4549670bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/100\/5-5.1792410477288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "um alfarir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "eftir kynslóð"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "trúfesti hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:57.288493990Z",
+  "model": "glm-5.3"
+}

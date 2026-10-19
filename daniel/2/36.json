@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'er' og 'munum' bætt við — arameíska segir einfaldlega 'þetta draumurinn og ráðning hans'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Nebukadnesar",
+      "rationale": "Daníel beinist að konunginum ('fyrir konunginum') og tilkynnir að ráðningin verður höfð upp á eftir."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ráðning",
+      "rationale": "Versið lofar að opinbera það sem dulið er — ráðning draumsins sem enginn spámaður gat gefið."
+    }
+  ],
+  "translation": "Þetta er draumurinn, og ráðningu hans munum vér segja fyrir konunginum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b3f21a18aa858514cdc96612dd693c8aa06e58184b79854e048b5865cb22d966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/2\/33-36.1792413440830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "er draumurinn"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "og ráðning"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "munum vér segja"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "konunginum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:37:20.831276508Z",
+  "model": "glm-5.3"
+}

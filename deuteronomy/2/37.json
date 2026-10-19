@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 2:37",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יד er hörundinn 'handleggur\/hlið' — 'hlið' heldur myndinni betur en 'bakki'."
+    },
+    {
+      "kind": "crux",
+      "subject": "צוה",
+      "rationale": "'bannaði' (JPS\/KJV) gegn 'hlýddi\/skipaði' lesningu YLT — samhengið (lögð í bann að nálgast) styður 'bannaði'."
+    }
+  ],
+  "translation": "Aðeins að landi Ammónítanna náðir þú þér ekki, alla hlið Jabbok-árinnar og borgir fjallandsins, og allt það sem Jahve Elóhím vor bannaði okkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "13ad7458f275b8ad4a0186845bf907525349d2aab6d24a08d5d7dc4dc229c297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/2\/37-37.1792397515425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "náðir þér"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hlið"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "á"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Jabbok"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "og borgir"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "fjallandsins"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bannaði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vor"
+    }
+  ],
+  "timestamp": "2026-10-19T08:11:55.425755555Z",
+  "model": "glm-5.3"
+}

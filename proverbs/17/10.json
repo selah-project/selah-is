@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחת",
+      "rationale": "Náxa þýðir bókstaflega 'sökkva niður' — 'steigur inn' er mynd í flestum þýðingum."
+    },
+    {
+      "kind": "addition",
+      "subject": "meira en",
+      "rationale": "Samanburðarbragðið í hebresku er ómerkt; íslenskan þarf 'meira en'."
+    }
+  ],
+  "translation": "Æsting steigur djúpt í skynsaman mann — meira en hundrað högg í heimskan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/17\/9-12.1792411406335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "steigur"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "æsting"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "í skynsaman mann"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "meira en... högg"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "í heimskan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrað"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:26.336902128Z",
+  "model": "glm-5.3"
+}

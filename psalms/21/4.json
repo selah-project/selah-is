@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקדמנו",
+      "rationale": "'þú kemur honum fyrr á móti \/ kemur fram á móti' — KJV 'preventest' (eldra merking: kemur fyrir), JPS 'meetest'; myndin er að blessunarnir ganga konunginum til móts"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פז",
+      "rationale": "Bókstaflega 'rafað gull' — skírt gull heldur hreinsunarmyndinni"
+    }
+  ],
+  "translation": "Því að þú kemur honum fram á móti með blessunum góðum; þú setur krýnu af skíru gulli á höfuð hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/21\/1-4.1792409467843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "þú kemur honum fram á móti"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "með blessunum"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góðum"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "þú setur"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "á höfuð hans"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "krýnu"
+    },
+    {
+      "surface": "פז",
+      "gloss": "skíru gulli"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:07.844569100Z",
+  "model": "glm-5.3"
+}

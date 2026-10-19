@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "דכית er 'að krynja\/mylja', 'brotið' er mildari mynd; sjáldséð að hið mylda skapist glatt."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "bein átt við Davíð, sem talar til Jahve"
+    }
+  ],
+  "translation": "Láttu mig heyra gleði og fagnað, og beinin sem þú hefur brotið megu hverfa glöð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "181b1c72d6c82a3b22ea4d6c73988031369f4190221eed49070f5856cb88c02a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/10-11.1792416928141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Láttu mig heyra"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "gleði"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "og fagnað"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "megu hverfa glöð"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "beinin"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "sem þú hefur brotið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:28.141919754Z",
+  "model": "glm-5.3"
+}

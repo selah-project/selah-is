@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið „þeim“ er bætt við fyrir אלהם; hebreskan segir aðeins „að þeim“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשים\/קדוש",
+      "rationale": "Endurtekning rótar q-d-sh: „heilög skuluð þér vera, því að heilagur er ég“ — samhljómur varðveittur á íslensku."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "Boðorð beint til alls söfnuðar Ísraelsmanna."
+    }
+  ],
+  "translation": "Talaðu til alls söfnuðar Ísraelsmanna og segðu ⟨þeim⟩: Heilög skuluð þér vera, því að heilagur er ég, Jahve, Elóhím yðar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/1-4.1792395944473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talaðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "söfnuðar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "manna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "og segðu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨þeim⟩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Heilög"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "skuluð þér vera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilagur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:44.474642387Z",
+  "model": "glm-5.3"
+}

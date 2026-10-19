@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כשל\/דמה",
+      "rationale": "staffall milli „hniga“ í v.5 og „דָּמָה“ (eyðast) í v.6 — orðaleikur sem glatast á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "eyða móður þinni",
+      "rationale": "„מוֹתִיתִי“ – orðið דָּמָה merkir „þagga\/eyðast“; „eyða“ heldur myndlíkingunni."
+    }
+  ],
+  "translation": "Og þú skalt hniga á daginn, og spámaðurinn mun og hniga með þér um næturina, og ég mun eyða móður þinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/4\/5-8.1792408085579.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "og þú skalt hniga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "á daginn"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "og mun hniga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "spámaðurinn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "um næturina"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "og ég mun eyða"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "móður þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:08:05.580181981Z",
+  "model": "glm-5.3"
+}

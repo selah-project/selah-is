@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Sjá — árótting við Ísrael um að horfa á valið sem lagt er fyrir"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "beint rætt til Ísrael gegnum Mósje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "tvenndapörin líf\/gott og dauði\/illt — njörd aðgerða orðs sem vantar í íslensku"
+    }
+  ],
+  "translation": "Sjá, ég hef lagt fyrir þig í dag ⟨את⟩ lífið og ⟨את⟩ það góða, og ⟨את⟩ dauðann og ⟨את⟩ það illa.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/30\/13-16.1792398415396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ég hef lagt"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fyrir þig"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lífið"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "lífið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "það góða"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "það góða"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dauðann"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dauðann"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "það illa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "það illa"
+    }
+  ],
+  "timestamp": "2026-10-19T08:26:55.397481144Z",
+  "model": "glm-5.3"
+}

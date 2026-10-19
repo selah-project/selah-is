@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "'Holt með borðum' — gömul þýðing skilur 'holt að innan', aðrar 'gert úr borðum, holt að gerð'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "'Eins og sýnt var þér á fjallinu' — myndin sem Mósje sá er ekki túlkuð, heldur vísun í fyrirliggandi sýn."
+    }
+  ],
+  "translation": "Holt, úr borðum, skalt þú gera ⟨את⟩ það; eins og sýnt var ⟨את⟩ þér á fjallinu, svo skulu þeir gera það.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/27\/5-8.1792394843999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "Holt"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "úr borðum"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skalt þú gera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "það"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "sýnt var"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "þér"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "á fjallinu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skulu þeir gera"
+    }
+  ],
+  "timestamp": "2026-10-19T07:27:24.001038075Z",
+  "model": "glm-5.3"
+}

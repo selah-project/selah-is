@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 11:4",
+  "book": "job",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובר",
+      "rationale": "Merkir bæði 'tær\/hreinn' og 'kosinn'; sumir þýða 'ósýnilegur seð' — hér 'tær' samkvæmt samhengi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לקח",
+      "rationale": "Lit. 'það sem tekið er við' — móttekin kenning; 'kenning' nær einungis að hluta"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Sófar talar beint til Jóbs; 'þú' er Jób"
+    }
+  ],
+  "translation": "Og þú sagðir: Hreint er kenning mín, og tær var ég í augum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d6da4d40715b455855cb5febfc5807ec3f0da6ee398bc6b9512f6b8cb9c8cdf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/11\/4-4.1792417014650.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og þú sagðir"
+    },
+    {
+      "surface": "זך",
+      "gloss": "hreint"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "kenning mín"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "og tær"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "var ég"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "í augum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:54.651007239Z",
+  "model": "glm-5.3"
+}

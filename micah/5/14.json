@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באף",
+      "rationale": "אף er nef\/nasir; reiðin 'í nefi' — myndin glatast á íslensku."
+    },
+    {
+      "kind": "elision",
+      "subject": "שמעו",
+      "rationale": "'hlýddu' fær hljóðnema 'hlusta' og hlýðni beggja; hebreskan hefur eitt orð."
+    }
+  ],
+  "translation": "Og ég mun gjöra í reiði og heift hefnd ⟨את⟩ þjóðanna, þeirra sem ekki hlýddu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/5\/13-14.1792408535457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Og ég mun gjöra"
+    },
+    {
+      "surface": "באף",
+      "gloss": "í reiði"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "og heift"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hefnd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóðanna"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeirra sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hlýddu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:15:35.458396737Z",
+  "model": "glm-5.3"
+}

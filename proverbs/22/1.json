@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins 'valið nafn fremur en…' — sagnirnar 'er' og 'fremur en' eru til að gera sambandið skiljanlegt á íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "חן טוב",
+      "rationale": "'náð góð' í lok vers — er það samanburður við silfur og gull (ylt) eða sjálfstæð yfirlýsing (bsb)"
+    }
+  ],
+  "translation": "Útvalið er nafn fremur en mikið ríkidæmi, og fremur en silfur og gull — náð góð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/22\/1-4.1792411546979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "Útvalið er"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ríkidæmi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mikið"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "og gull"
+    },
+    {
+      "surface": "חן",
+      "gloss": "náð"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góð"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:46.980385728Z",
+  "model": "glm-5.3"
+}

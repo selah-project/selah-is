@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תחילין",
+      "rationale": "Frá חול — að snúa hringlótt, fæðingarkreppa; „þjáist þú“ heldur myndinni af fæðingarkvipanum"
+    },
+    {
+      "kind": "addition",
+      "subject": "sinn",
+      "rationale": "Ábendingu „sinn“ bætt við til að gera viðtakanda skýran, eins og samhengið krefst"
+    }
+  ],
+  "translation": "Vei þeim sem segir við föður sinn: Hvað getur þú? Og við konuna: Hvað þjáist þú?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/45\/9-12.1792404696941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vei"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "við-föður-sinn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "getur-þú"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "og-við-konuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "þjáist-þú"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:36.942410807Z",
+  "model": "glm-5.3"
+}

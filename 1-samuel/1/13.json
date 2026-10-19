@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לבה",
+      "rationale": "'Tala við hjarta sitt' — hebreskt útrýgingartákn, 'inwardly'; bókstaflegt 'á hjarta hennar'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "drukkna",
+      "rationale": "לשכורה er lýsingarháttur, 'sem drukkin er'; íslenskan þarf nafnorð eða lýsingu hér."
+    }
+  ],
+  "translation": "En Channa, hún talaði við hjarta sitt; aðeins varir hennar hrærust en rödd hennar varð ekki heyrd, og Eli taldi hana drukkna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/1\/13-16.1792400154723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "En Channa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "talaði"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "hjarta sitt"
+    },
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "varir hennar"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "hrærust"
+    },
+    {
+      "surface": "וקולה",
+      "gloss": "en rödd hennar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "varð heyrd"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "og taldi hana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "drukkna"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:54.724137202Z",
+  "model": "glm-5.3"
+}

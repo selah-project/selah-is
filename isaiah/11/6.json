@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מריא = alikálfur (fóðrað naut) skv. D4, ekki „fénaður“"
+    },
+    {
+      "kind": "elision",
+      "subject": "קטן",
+      "rationale": "„lítið“ fellur inn í „lítið barn“ í íslenskri orðröð"
+    }
+  ],
+  "translation": "Og úlfurinn gistir hjá lambinu, og blettatígurinn leggst hjá kiðinu, og kálfa og ungljón og alikálfur vera saman, og lítið barn ræðir ⟨þeim⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/11\/5-8.1792403917039.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Og … gistir"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "úlfurinn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hjá"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lambinu"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "og blettatígurinn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hjá"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kiðinu"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "leggst"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "og kálfa"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "og ungljón"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "og alikálfur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "og lítið barn"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "lítið"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ræðir"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨þeim⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T09:58:37.039776137Z",
+  "model": "glm-5.3"
+}

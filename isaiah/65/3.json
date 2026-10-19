@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלבנים",
+      "rationale": "'Á múrsteinum' — ensuring á leirbaðna öltunum (KJV 'altars of brick' bætir 'ölturum' við sem hebreskan segir ekki)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על פני תמיד",
+      "rationale": "'Í andliti mitt stöðugt' — myndlíking um hroka beint andspýnis, varðveitt bókstaflega"
+    }
+  ],
+  "translation": "Þjóðin sem grin gera að ⟨את⟩ mig í andliti mitt stöðugt, þeir sem slátra í görðum og reykja reykelsi á múrsteinum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ec6d24d98bc3c49334ea8e65009354aa4de03dae426c5af008d8061d1a71489a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/65\/1-4.1792405161863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "þjóðin"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "sem grin gera að"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stöðugt"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slátra"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "í görðum"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "og reykja reykelsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "múrsteinum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:19:21.864150091Z",
+  "model": "glm-5.3"
+}

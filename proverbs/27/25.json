@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גלה merkir að afhjúpa\/bera í burtu; sumar þýðingar lesa 'sláð' eða 'fjarlægt' (JPS 'mown')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "versið telur uppskeruna — hey, gras, jurtir fjallanna"
+    }
+  ],
+  "translation": "Heyið er afhjúpað og grasið sýnir sig, og jurtir fjallanna eru safnaðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "77379553d099267a1d02374608fba4f2bd4e4b1a765d852a36f439702c95b42f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/25-27.1792411664588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "er afhjúpað"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "heyið"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "og sýnir sig"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "grasið"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "og eru safnaðar"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "jurtir"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fjallanna"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:44.589799289Z",
+  "model": "glm-5.3"
+}

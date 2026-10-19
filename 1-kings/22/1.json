@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישבו",
+      "rationale": "'Setjast' um langt tímabil — 'þeir sátu\/héldu kyrru' en ekki 'setjast niður' eins og í YLT."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין…ובין",
+      "rationale": "Tvítekið 'milli… og milli' eftir hebreska mynstinu."
+    }
+  ],
+  "translation": "Og þeir sátu þrjú ár, engin stríðsátök milli Aram og milli Ísrael.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/22\/1-4.1792402785102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Og þeir sátu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "þrjú"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ár"
+    },
+    {
+      "surface": "אין",
+      "gloss": "engin"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "stríðsátök"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og milli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T09:39:45.103011267Z",
+  "model": "glm-5.3"
+}

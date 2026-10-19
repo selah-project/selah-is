@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ענוים er 'hinir lítilmáttu\/hjúgruðu' — bæði hugarfar og ætlun, ekki aðeins fátækir."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "תקשיב אזנך er myndrænt 'að spenna eyrun' — til-greinin var bætt við á íslensku til að gera merkinguna skýra."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Bænin beinist beint til Jahve í annarri persónu."
+    }
+  ],
+  "translation": "Þrá hinna hjúgruðu heyrðir þú, Jahve; þú stillir hjarta þeirra, þú spennir eyra þitt ⟨til að hlýða⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/10\/17-18.1792409286210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "þrá"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "hinna hjúgruðu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "heyrðir þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "þú stillir"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hjarta þeirra"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "þú spennir"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "eyra þitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:06.210617050Z",
+  "model": "glm-5.3"
+}

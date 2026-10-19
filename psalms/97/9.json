@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ert",
+      "rationale": "Hebreskan hefur ekki sögn í fyrri málsgreininni; íslenska þarf fyllisögn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "guði",
+      "rationale": "אלהים um guði þjóðanna — smástafur, ekki Elóhím, samkvæmt D1"
+    }
+  ],
+  "translation": "Því að þú, Jahve, ert hæstur um alla jörðina; mjög hefur þú hafið þig um alla guði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/97\/9-12.1792410487593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hæstur"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "hefur þú hafið þig"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:07.594015426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חסד er khesed, ekki 'miskunn' ein — rótin nær yfir tryggleika og gæsku sáttmálans"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbeygingin 'stendur' er sett fram; hebreska lýsingarorðið נאמנת ber merkinguna 'trérr\/trúfastur'"
+    }
+  ],
+  "translation": "Að eilífu mun ég geyma khesed mitt fyrir honum, og sáttmáli minn stendur traustur með honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/29-32.1792410374571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "mun ég geyma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "khesed mitt"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "og sáttmáli minn"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "stendur traustur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "með honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:14.571828932Z",
+  "model": "glm-5.3"
+}

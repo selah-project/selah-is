@@ -1,0 +1,170 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 8:29",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Hebreska nefnir ekki geranda í fyrri málsgrein; íslenskan þarf hann"
+    },
+    {
+      "kind": "elision",
+      "subject": "עת הערב",
+      "rationale": "Tvö orð um sama hugtak (tími kvöldsins) sameinuð í eitt: kvöldskeiði"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Samsvarar „sem er enn til“ — kopula bætt við, hebreska segir aðeins „þar til dags þessa“"
+    }
+  ],
+  "translation": "Og ⟨את⟩ konunginum í Ai hengdi hann á trénu þar til að kvöldskeiði; og um sólsetur bauð Jósúa, og þeir tóku ⟨את⟩ líkið hans niður af trénu og kusu því ⟨את⟩ að op hliðs borgarinnar, og reistu yfir það steinahrúgu mikla, sem ⟨er⟩ enn til þessa dags.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/8\/29-32.1792399026963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konunginum í Ai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "העי",
+      "gloss": "í Ai"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "hengdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trénu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til að"
+    },
+    {
+      "surface": "עת",
+      "gloss": "kvöldskeiði"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvölds"
+    },
+    {
+      "surface": "וכבוא",
+      "gloss": "um komu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólar"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jósúa"
+    },
+    {
+      "surface": "וירידו",
+      "gloss": "og þeir tóku niður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "líkið hans"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "líkið hans"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trénu"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "og kusu"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "því ⟨את⟩",
+      "marks": "líkið (kastað að hliðaropinu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "op"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hliðar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgarinnar"
+    },
+    {
+      "surface": "ויקימו",
+      "gloss": "og reistu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir það"
+    },
+    {
+      "surface": "גל",
+      "gloss": "hrúgu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "steina"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "þessa dags"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T08:37:06.964290916Z",
+  "model": "glm-5.3"
+}

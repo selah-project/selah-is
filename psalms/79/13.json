@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "En\/vér — áherslufall og fornafn sem íslenskan þarf en hebreskan segir aðeins ואנחנו"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נודה\/נספר",
+      "rationale": "Tvö sagnir lofs í vísun (þakka\/segja frá) sem halda samtaka hebreskunnar"
+    }
+  ],
+  "translation": "En vér, þjóð þín og sauðfé hjarðar þinnar, þökkum þér að eilífu, kynslóð eftir kynslóð; vér segjum frá lofi þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/79\/13-13.1792410239381.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "en vér"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóð þín"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "og sauðfé"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "hjarðar þinnar"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "þökkum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "eftir kynslóð"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "vér segjum frá"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lofi þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:59.381772369Z",
+  "model": "glm-5.3"
+}

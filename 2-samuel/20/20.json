@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבלע",
+      "rationale": "Jóab tekur upp orð konunar (תבלע, v. 19) og afneitar því — samtök ræðunnar tapast ekki."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חלילה חלילה",
+      "rationale": "Bókstaflega „óhelgun, óhelgun“ — tvöfött umtalseinkunn, „fjarri sé það“."
+    }
+  ],
+  "translation": "Þá svaraði Jóab og sagði: Fjarri sé það, fjarri sé það frá mér, að ég gleypi eða eyði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d3e715da8360c8b4423adf9b6e38a0d5d9f242c938bd83ba8cc5d6b9c2e92d4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/20\/19-20.1792416667271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Þá svaraði"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Fjarri sé það"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "fjarri sé það"
+    },
+    {
+      "surface": "לי",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "אם",
+      "gloss": "að"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ég gleypi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "eyði"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:07.272003700Z",
+  "model": "glm-5.3"
+}

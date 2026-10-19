@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "rúakh haft óþýtt eftir D2 — vindur\/andi\/ Mundur Janovar eitt orð"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "צבאם (her þeirra) vísar bæði til stjarna og engla; tvíræðni glatar í íslensku"
+    }
+  ],
+  "translation": "Með orði Jahve urðu himnararnir gjörvir, og með rúakh munns hans allur her þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/33\/5-8.1792409595450.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Með orði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnararnir"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "urðu gjörvir"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "og með rúakh"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "munns hans"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "her þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:15.451456099Z",
+  "model": "glm-5.3"
+}

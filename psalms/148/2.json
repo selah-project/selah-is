@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "malaḵim",
+      "rationale": "מלאכיו er 'sendiboðar' — orðið 'englar' er seinni kenning; formlegt myndefi boðberans er haldið."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צבאו",
+      "rationale": "Sama rót og í 'Jahve Tsevaót' — hersveitir hans tengjast nafninu á hersveita Guðs."
+    }
+  ],
+  "translation": "Lofið hann, allir sendiboðar hans, lofið hann, allt hersveitir hans!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/148\/1-4.1792411080898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Lofið hann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sendiboðar hans"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lofið hann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "hersveitir hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:00.899494718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "בהם, 'í þeim', fellur saman við 'í himnunum' og er aðeins merkt — ekki endurtekið."
+    },
+    {
+      "kind": "crux",
+      "subject": "שמים תכן",
+      "rationale": "Vafamál: 'himnunum munt þú festa hana' (JPS, ylt) á móti 'himnarnir lofa tryggð þína' — myndrænt lesmál sálmsins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבנה\/תכן",
+      "rationale": "Tveggja liða samstöðulíking: khesed er 'reist' og tryggð 'fest' — hús-myndmál beggja vegna."
+    }
+  ],
+  "translation": "Því að ég sagði: Að eilífu verður khesed reist; í himnunum munt þú festa tryggð þína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/1-4.1792410375074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ég sagði"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "verður reist"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "í himnunum"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "munt þú festa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tryggð þína"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨í þeim⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:15.075814737Z",
+  "model": "glm-5.3"
+}

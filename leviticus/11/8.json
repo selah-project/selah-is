@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Bönn beint til Ísraels í fleirtölu: ‚þér‘."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נבלה er ‚dáin skepna‘, ekki algjörlega ‚skrokkur‘; ‚dáinf‘ heldur myndinni."
+    }
+  ],
+  "translation": "Af holdi þeirra skuluð þér ekki éta, og dáinfu þeirra skuluð þér ekki snerta — óhrein eru þau fyrir yður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/5-8.1792395613231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "af holdi þeirra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skuluð þér éta"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "og dáinfu þeirra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "skuluð þér snerta"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "óhrein"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eru þau"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fyrir yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:13.233019203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "Beintandarhugtakið את kemur fremst og afturbreytt fornafn 'þau' klárar setninguna á íslensku"
+    }
+  ],
+  "translation": "Og þér skuluð gæta boðorða minna og gjöra ⟨את⟩ ⟨þau⟩; ég er Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c51213c2d7568d84fef881947c4c0434cfe86726c1b9a578496989e3e1d3482a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/29-32.1792396014922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og þér skuluð gæta"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "boðorða minna"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "og gjöra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þau (boðorðin)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:54.923541435Z",
+  "model": "glm-5.3"
+}

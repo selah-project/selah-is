@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "júgar",
+      "rationale": "מעלה גרה er bókstaflega 'færir upp jóminn' — jómur\/júga er venjulega íslenska myndin."
+    },
+    {
+      "kind": "elision",
+      "subject": "בבהמה",
+      "rationale": "frumlagsstofninn 'af skepnum' stendur eftir í hebresku hlutfallstækni sem íslenskan parf ekki."
+    }
+  ],
+  "translation": "Og hver skepna sem klýur hóf og skiptir klofanum í tvö hóf og júgar — ⟨את⟩ henni megið þið éta.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/14\/5-8.1792398006663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "skepna"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "sem klýur"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hóf"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "og skiptir klofanum"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "klofi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "í tvö"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "hóf"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "júgar"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "jómur"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "af skepnum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henni"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "megið þið éta"
+    }
+  ],
+  "timestamp": "2026-10-19T08:20:06.664603364Z",
+  "model": "glm-5.3"
+}

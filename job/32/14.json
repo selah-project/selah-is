@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 32:14",
+  "book": "job",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins 'ekki setti orð gegn mér' — 'hann' (Jób) er bætt við."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sín' á eftir 'orð' er ekki í hebreskunnar, arfleidd orðmynd."
+    }
+  ],
+  "translation": "En ⟨hann⟩ setti ekki orð sín í röð gegn mér, og með orðum ykkar mun ég ekki svara honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "63590c2346f64a465b88e631266c6be14919feb59bb413133f67a56388e27aee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/32\/13-16.1792412355327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ... ekki"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "setti í röð"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "orð"
+    },
+    {
+      "surface": "ובאמריכם",
+      "gloss": "með orðum ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "mun ég svara honum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:19:15.328621048Z",
+  "model": "glm-5.3"
+}

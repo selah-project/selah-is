@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טמא הוא",
+      "rationale": "forsögn án sagnar — upphrópunarlögregla: „óhreinn er hann“, upphlekkur varðveittur"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "orðatiltækið „þarf ekki að leita“ gerir fyrirsögn מן óþarfa"
+    }
+  ],
+  "translation": "þá skal presturinn skoða hann, og sjá, skorpan hefur breiðst út á hörundinni — presturinn þarf ekki að leita að gula hárinu; óhreinn er hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "da17471640b31bb56fbdc1b98310d255aaf4ad65a3a06f40cc02f087ad012b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/33-36.1792395715356.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "þá skal presturinn skoða hann"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "hefur breiðst út"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "skorpan"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "á hörundinni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "þarf að leita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "að hárinu"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "gula"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "óhreinn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:55.357940649Z",
+  "model": "glm-5.3"
+}

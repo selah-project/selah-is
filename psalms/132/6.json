@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagnirnar 'við' og fyllibakkar 'það' (á sáttmálakistuna) eru viðbót — hebreskan á viðurnefnið ónefnt."
+    },
+    {
+      "kind": "crux",
+      "subject": "יער",
+      "rationale": "'Akur skógarins' — Kirjat-Jearim heitir 'bær skógarins'; ýtt á að 'það' sé sáttmálakistan fundin þar."
+    }
+  ],
+  "translation": "Sjá, við heyrðum ⟨það⟩ í Efrata, við fundum ⟨það⟩ í akrunum í skógi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/132\/5-8.1792410908013.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "heyrðum við ⟨það⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "í Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "fundum við ⟨það⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "í akrunum"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skógi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:08.014011200Z",
+  "model": "glm-5.3"
+}

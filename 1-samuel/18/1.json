@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh er andardráttur\/lífskraftur, ekki ódauðleg sála; 'sál' er nánaust en getur misleitt",
+      "language": "is"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאהבו",
+      "rationale": "sérpunnun virðist gefa fleirtölu ('þeir elskuðu') en samhengið og samstöður gefa eintölu: 'Jónatan elskaði hann'",
+      "language": "is"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נקשרה",
+      "rationale": "bókstaflega 'var hnút bundinn\/tengdur' — sálin hnúast saman",
+      "language": "is"
+    }
+  ],
+  "translation": "Og þegar hann hafði lokið að tala við Sjáúl, varð sálar Jónatans að festast við sálu Davíðs, og Jónatan elskaði hann eins og eigin sálu sína.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/18\/1-4.1792400707829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "þegar hann hafði lokið"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "að tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "og sálar"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatans"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "að festast"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "við sálu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "og elskaði"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "eins og eigin sálu sína"
+    }
+  ],
+  "timestamp": "2026-10-19T09:05:07.830539434Z",
+  "model": "glm-5.3"
+}

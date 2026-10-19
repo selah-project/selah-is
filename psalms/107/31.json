@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חסed ritað khesed eftir hljóði, ekki 'miskunn' ein — D2-reglan"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "Jákvæð boðsháttur 'Þeir þakki' — eða ósk 'Að þeir þakki' eins og KJV"
+    }
+  ],
+  "translation": "Þeir þakki Jahve khesed hans, og undraverk hans við mannanna börn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/29-32.1792410659966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Þeir þakki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "og undraverk hans"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "við börn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mannanna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:59.966901660Z",
+  "model": "glm-5.3"
+}

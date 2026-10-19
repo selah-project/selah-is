@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הקלו er ‚gera létt‘ — íslenska ‚minnka‘ gleymir mynd léttrar vatnsþyngdar."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "מאתו er forsetning með את-rót; ⟨את⟩-merkið borið innan glósunnar, ekki sérstakur orðstofn í íslensku."
+    }
+  ],
+  "translation": "Og hann sendi út ⟨את⟩ dúfuna frá sér ⟨את⟩, til að sjá hvort vötnin hefðu minnkað af andliti jarðarinnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/5-8.1792392729614.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og hann sendi út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dúfuna"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "dúfuna"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "frá sér ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "til að sjá"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "hefðu minnkað"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jarðarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T06:52:09.615784189Z",
+  "model": "glm-5.3"
+}

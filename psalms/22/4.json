@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ert",
+      "rationale": "Íslenska krefst sagnliðar sem hebreskan sleppir"
+    },
+    {
+      "kind": "crux",
+      "subject": "יושב",
+      "rationale": "„Sést í\/situr á“ vs. „býr meðal“ lofsöngva — mynd Þess sem þiggur lof sem þron"
+    }
+  ],
+  "translation": "En þú ert heilagur, þú sem ⟨trónir⟩ á lofsöngvum Ísraels.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/22\/1-4.1792409445046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En þú"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilagur"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨trónir⟩"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "á lofsöngvum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:45.047620636Z",
+  "model": "glm-5.3"
+}

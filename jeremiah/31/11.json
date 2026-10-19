@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hinn stærri",
+      "rationale": "פדה og גאל eru tvenn leyfis-orð — 'leysta' og 'endurleysing' (skyldleysisleyfi); sumir lesa 'hins sterka' sem persónugervingu óvinarins, aðrir sem kassísku Babýloníu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "'er honum meiri' fyrir ממנו — hebreskan segir bókstaflega 'frá honum\/ Heldur en hann'"
+    }
+  ],
+  "translation": "Því að Jahve hefur leyst ⟨את⟩ Jaakov og endurleyst hann úr hendi hins sterka, ⟨hans⟩ er honum meiri.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b8e0679aad7cc720094ac663520bb0ba4c6edd75efcdf25253b5cdd31e8a7e7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/31\/9-12.1792406036219.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "hefur leyst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "og endurleyst hann"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hins sterka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "er honum meiri"
+    }
+  ],
+  "timestamp": "2026-10-19T10:33:56.220472122Z",
+  "model": "glm-5.3"
+}

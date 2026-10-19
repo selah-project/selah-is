@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש merkir lífsönd, lífskrafti — 'sál' er tilnefnd en ekki hin tæku orðið"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "נפשי בכפי — 'sálin mín í hendi mínum' merkir að líf hans er í hættu, haldið bókstaflega"
+    }
+  ],
+  "translation": "Sálin mín er stöðugt í lófa mínum, en Tóru þína hef ég ekki gleymt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/109-112.1792410842361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Sálin mín"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "í lófa mínum"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stöðugt"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en Tóru þína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "hef ég gleymt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:02.362356671Z",
+  "model": "glm-5.3"
+}

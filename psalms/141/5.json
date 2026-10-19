@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסד",
+      "rationale": "Reproof as khesed: 'let him smite me in kindness' vs 'it shall be a kindness' — spannar á milli ástarbrag og aga."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש \/ ראשי",
+      "rationale": "Höfuð endurtekið — olían og höfuðið í sama andartaki; endurtekningin glatar ekki á íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "er það",
+      "rationale": "Sagnarband sem hebreskan sleppir; klessumerki ⟨er það⟩."
+    }
+  ],
+  "translation": "Hinn réttláti slígi mig — khesed ⟨er það⟩ — og reki mig; olía fyrir höfuð — höfuð mitt neiti henni ekki, því enn er bæn mín vegna illverka þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/141\/5-8.1792411029299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "slígi mig"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hinn réttláti"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "og reki mig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olía"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fyrir höfuð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יני",
+      "gloss": "neiti"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfuð mitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "er bæn mín"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "veginna illverka þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:09.300188155Z",
+  "model": "glm-5.3"
+}

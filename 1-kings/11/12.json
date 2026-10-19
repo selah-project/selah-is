@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "afturbeygt fornafn 'það' bætt við — hebreskan ber germyndina í endursögðu sögninni sjálfri"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve til Sjólómó",
+      "rationale": "áfram bein áætlun við Sjólómó, annarri persönu"
+    }
+  ],
+  "translation": "Þó skal ég það ekki gera á dögum þínum, vegna Davíðs föður þíns — úr hendi sonar þíns mun ég ósku­rjúfa það.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/11\/9-12.1792402325510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Þó"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "á dögum þínum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "skal ég ... gera"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þíns"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sonar þíns"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "mun ég ósku­rjúfa það"
+    }
+  ],
+  "timestamp": "2026-10-19T09:32:05.512183609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקה er glosað sem 'tsedek hennar' samkvæmt orðatöflunni, ekki 'réttlæti' eitt"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fleirtöluformið 'mun ég' er nauðsynlegt í íslensku en vantar í hebreskuna"
+    }
+  ],
+  "translation": "Fyrir Tsjion sakir mun ég ekki þegja, og fyrir Jerúsjalajím sakir mun ég ekki hvíla, fyrr en tsedek hennar gengur út sem birta og hjálp hennar sem fakkli ⟨er⟩ logar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "24c77d6249b19f1ad04523fb997eff274cfbdf1815e466a30c2ee1a86a316a15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/62\/1-4.1792405056020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "fyrir … sakir"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsjion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "mun ég þegja"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og fyrir … sakir"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "mun ég hvíla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fyrr en"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gengur út"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "sem birta"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek hennar"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "og hjálp hennar"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "sem fakkli"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "logar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:36.021422946Z",
+  "model": "glm-5.3"
+}

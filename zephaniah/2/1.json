@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ekki-girnda",
+      "rationale": "נכסף: 'óskað eftir' (KJV) móti 'skammleyst' (JPS, frá כסה); rótin merkir að gerast fölur og girnast"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התקוששו וקושו",
+      "rationale": "sömu rót endurtekin í aðventu — ég held endurtekningunni með 'safnið … safnið'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "þjóðin",
+      "rationale": "hvatningarorð beint að þjóðinni"
+    }
+  ],
+  "translation": "Safnið ykkur saman, já, safnið saman, þjóðin ekki-girnda!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "47ff6093355a1a8358908d1c7465b1cf6ab8b0dd6941715731b9376dd7561405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zephaniah\/2\/1-4.1792408873876.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Safnið ykkur saman"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "já, safnið saman"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "þjóðin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "girnda"
+    }
+  ],
+  "timestamp": "2026-10-19T11:21:13.876556496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "מפלטי er öll túlkuð með aflýsingarlið; „sem skýlir“ er lagt til á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "manni ofbeldis",
+      "rationale": "איש חמס er smíð — „maður ofbeldis“ — ekki heiti á einum manni"
+    }
+  ],
+  "translation": "Sá sem skýlir ⟨mér⟩ og lætur mig sleppa undan óvina mína, já, frá þeim sem rísa gegn mér hefjar þú mig upp; frá manniofbeldis birtir þú mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "615e2cb15bdbb2887de3726dd21586a9107585606ffdbf4244ee06f8b201f9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/49-51.1792409380797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "Sá sem lætur mig sleppa undan"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "óvina mína"
+    },
+    {
+      "surface": "אף",
+      "gloss": "já"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "þeim sem rísa gegn mér"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "hefjar þú mig upp"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "frá manni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldis"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "birtir þú mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:40.797974586Z",
+  "model": "glm-5.3"
+}

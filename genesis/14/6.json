@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnfylling „liggur“ bætt við; hebreska hefur enga sögn í hálfsetningunni „sem við eyðimörkina“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið teiknar farveg herferðarinnar með landamerkjum: Seír, El-Paran, eyðimerkin."
+    }
+  ],
+  "translation": "og ⟨את⟩ Horítana í fjöllum þeirra í Seír, allt að El-Paran, sem liggur við eyðimörkina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c749229de5460959a04a8f52ebeda2140390c61541cf959785634460d0ce7656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/14\/6-7.1792416224905.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Horítana"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horítana"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "í fjöllum þeirra"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seír"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt að"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "eyðimörkina"
+    }
+  ],
+  "timestamp": "2026-10-19T13:23:44.906268153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפך",
+      "rationale": "נֶזֶם á אַף: 'á nösina' (nashringur, sjá JPS\/ASV) vs. KJV\/Geneva 'á ennið' (frontlet) — hebreskan segir nös."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תפארת",
+      "rationale": "'fegurðar' fyrir abstrakt-orðið תִּפְאָרָה; bókstaflega 'krúna fegurðar' í smíð."
+    },
+    {
+      "kind": "elision",
+      "subject": "and-person",
+      "rationale": "Ég tók 'þig' með í 'krýndi þig' svo setningin lésti; hebreskan heldur sögninni 'gaf\/setti' einni."
+    }
+  ],
+  "translation": "Og ég setti nashring á nös þína og hringa á eyru þín og krýndi þig fagurkorn krúnu á höfði þínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b2257aecaee4fb575a17eda7504d7240b00f426722015dbe0423f732d9b5af12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/16\/12-12.1792416856652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Og ég setti"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "nashring"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nös þína"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "og hringa"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "eyru þín"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "og krúnu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "fegurðar"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "á höfði þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:16.653275711Z",
+  "model": "glm-5.3"
+}

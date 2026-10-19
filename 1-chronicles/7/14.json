@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ילדה אשר",
+      "rationale": "Textinn er þyrpull: hver gat Asriel? KJS les 'sem hún ól', YLT tengir hjákonuna við bæði nöfnin; hebreska segir aðeins 'sem hann\/hún gat' áður en hjákonan er nefnd"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hjákona",
+      "rationale": "פילגש er hjákona (friðkona), ekki eiginkona"
+    }
+  ],
+  "translation": "Synir Menashe: Asriel, sem hann gat; en hjákona hans, arameiskan, ól ⟨את⟩ Makír, föður Gilads.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/7\/13-16.1792414613396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synir"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gat"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "hjákona hans"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "arameiskan"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ól"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Makír"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makír"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "föður"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilads"
+    }
+  ],
+  "timestamp": "2026-10-19T12:56:53.397329270Z",
+  "model": "glm-5.3"
+}

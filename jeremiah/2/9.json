@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אריב … אריב",
+      "rationale": "sömu tíðarsögnin endurtekin í ring fremst og aftast í versinu; endurtekningin helst í íslenskunni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "æta mál",
+      "rationale": "ריב er að glíma\/berjast málaleiðar — 'æta mál við' heldur lagalega myndinni"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Jahve beinir málsókninni að fólki sjálfu og eftirkomum þess"
+    }
+  ],
+  "translation": "Þess vegna mun ég enn æta mál við ⟨את⟩ ykkur, segir Jahve, og við ⟨את⟩ syni syna ykkar mun ég æta mál.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/2\/9-12.1792405155606.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mun ég æta mál"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "við ⟨את⟩ ykkur",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og við ⟨את⟩",
+      "marks": "syni syna ykkar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syni"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "syna ykkar"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "mun ég æta mál"
+    }
+  ],
+  "timestamp": "2026-10-19T10:19:15.606792975Z",
+  "model": "glm-5.3"
+}

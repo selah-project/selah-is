@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Masjíakh",
+      "rationale": "משיחו er 'hinn smurði hans' — konungur í sínu eigin sögulegu samhengi; sumir þýða 'Messías' og flytja þar með síðari skilning inn í textann."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתיצבו\/נוסדו יחד",
+      "rationale": "Tvenn samtökning — 'setjast upp' og 'ráðgjast saman' — byggja upp hröðunina gegn Jahve."
+    }
+  ],
+  "translation": "Konungar jarðarinnar setjast upp, og ráðamenn ráðgjast saman, gegn Jahve og gegn Masjíakh hans —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/2\/1-4.1792409225126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "setjast upp"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Konungar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "og ráðamenn"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "ráðgjast"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saman"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og gegn"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Masjíakh hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:05.127407530Z",
+  "model": "glm-5.3"
+}

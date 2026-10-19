@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 21:3",
+  "book": "job",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "נשא 'lyfta' um mann = 'þola, bera' — hérlendis 'þolið mig'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framburðarsagnið 'munu' er bætt við; hebreskan notar óvirkt nafnháttarleg form."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Nafnháttur beint til vina Jóbs: þolið, spottið."
+    }
+  ],
+  "translation": "Þolið mig, og ég ⟨munu⟩ tala, og eftir að ég hef talað mánið spotta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "00383db06d87a353184e16c3989535e4efefd019966bf275390595b339761e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/21\/1-4.1792412162500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאוני",
+      "gloss": "þolið mig"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og eftir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "að ég hef talað"
+    },
+    {
+      "surface": "תלעיג",
+      "gloss": "mánið spotta"
+    }
+  ],
+  "timestamp": "2026-10-19T12:16:02.501199122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחסור\/יחסרו",
+      "rationale": "v. 10 og 11 tengjast með rótinni חסר — skortur ljónanna gagnvast fullnægi hinna leitandi"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„þeir“ bætt við fyrir ודרשי, smágreinarnafn"
+    }
+  ],
+  "translation": "Ungu ljónin þurfna og sveltu, en ⟨þeir⟩ sem leita Jahve skortir ekkert gott.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/34\/9-12.1792409586497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "ungu ljónin"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "þurfna"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "og sveltu"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "en ⟨þeir⟩ sem leita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "skortir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ekkert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:06.498213981Z",
+  "model": "glm-5.3"
+}

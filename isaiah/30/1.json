@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 30:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסכה",
+      "rationale": "'úthelling\/steypa' — KJV 'covering', ASV 'league', JPS 'projects'; orðið er um bráðna málma eða úthellingu, þýtt bókstaflega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח þýtt 'rúakh' — vindur\/Andi\/ándardráttur, ekki skor niður í eitt"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "bein áminning í órók hinum óhlýðnu sonum Ísraels"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת על חטאת",
+      "rationale": "endurtekningin 'synd ofan á synd' varðveitt í íslensku"
+    }
+  ],
+  "translation": "Hö, synir sem sneru sér frá — segir Jahve — að gjöra ráðagerð, en ekki frá mér, og að hellua yfirhellingu, en ekki af rúakh minni, til að setja synd ofan á synd.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "87a6ac0b318be369340068cf7a6928778e631627660ae55ad41dabf11298b617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/30\/1-4.1792404352387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hö"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synir"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "sem sneru sér frá"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ráðagerð"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "מני",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "ולנסך",
+      "gloss": "og að hellua"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "yfirhellingu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "af rúakh minni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til að"
+    },
+    {
+      "surface": "ספות",
+      "gloss": "setja"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ofan á"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    }
+  ],
+  "timestamp": "2026-10-19T10:05:52.388435102Z",
+  "model": "glm-5.3"
+}

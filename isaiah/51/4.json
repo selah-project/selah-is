@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Tvö hlustunarboð opna versið og tengja það kallinu úr 51:1."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint ávarp — fólkið mitt, þjóðin mín — til Ísraels."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ארגיע — rót רגע 'að kyrra skyndilega' — KJV 'rest', JPS 'on a sudden', ýmsar þýðingar skiptast á."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מאתי er מן+את en ekki markið את (H853) — ⟨את⟩ varðveitt en ekki beintandinn hér."
+    }
+  ],
+  "translation": "Leggið eyra að mér, fólkið mitt, og þjóðin mín, hlustið að mér; því að Tóra mun fara út ⟨את⟩ frá mér, og dómur minn verður að ljósi þjóðanna — brátt kyrri ég þær.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "675be70d2c4c8aaa0725e5f4bb12a3e6d3ed66f349d95d30edd7c69e1964864e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/51\/1-4.1792404916951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Leggið eyra"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "að mér"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólkið mitt"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "og þjóðin mín"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "að mér"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "hlustið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ frá mér"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mun fara út"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "og dómur minn"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "að ljósi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "brátt kyrri ég"
+    }
+  ],
+  "timestamp": "2026-10-19T10:15:16.952818521Z",
+  "model": "glm-5.3"
+}

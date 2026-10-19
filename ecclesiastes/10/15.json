@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "því að",
+      "rationale": "Samtengingin אשר krefst útskýrandi samtengingar á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "að fara til borgarinnar",
+      "rationale": "Orðatiltækið er ráðgáta — líklega þýðir það hið augljósa (heimsklinginn þekkir ekki einu sinni þekktasta vegferð); sumir lesa það í myrkri eða atkvæðaskiptum."
+    }
+  ],
+  "translation": "Erfiði heimsklingjanna eyðir þeim, ⟨því að⟩ þeir vita ekki að fara til borgarinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/10\/13-16.1792413030571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "erfiði"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "heimsklingjanna"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "eyðir þeim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨því að⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vita"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "að fara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borgarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:30:30.572649507Z",
+  "model": "glm-5.3"
+}

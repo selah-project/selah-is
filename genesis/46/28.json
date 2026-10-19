@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„hann“ bætt við — hebreskan hefur ekki nafnfrumlag fyrir שלח"
+    },
+    {
+      "kind": "crux",
+      "subject": "להורת",
+      "rationale": "„að vísa veg“ eða „að boða komu“ — LXX les „að tilkynna“"
+    }
+  ],
+  "translation": "Og ⟨את⟩ Júda sendi hann fram fyrir sér til Jósef, til að vísa veg fyrir honum til Gosjen, og þeir komu í landið Gósjen.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/46\/25-28.1792393884655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "Júda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendi hann"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fram fyrir sér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "til að vísa veg"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "til Gosjen"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og þeir komu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "í landið"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Gósjen"
+    }
+  ],
+  "timestamp": "2026-10-19T07:11:24.656497130Z",
+  "model": "glm-5.3"
+}

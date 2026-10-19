@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהקרקע עד הקרקע",
+      "rationale": "'frá gólfi til gólfs' — gólfið í neðri hæð upp að gólfi efnis hærra (KJB 'from one side of the floor to the other'; BSB 'from floor to ceiling')."
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Íslenska þarf feminismunaþarf; hebreskan hefur aðeins þáttmyndina ספון — 'þakið'."
+    }
+  ],
+  "translation": "Og svalir hásætisins, þar sem hann dæmdi — svalir dómsins — gjörði hann, og ⟨það⟩ var þakið sedri, frá gólfi og til gólfs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "93431f683d6f071b7b277a1636ce9f4b011d9f35e7f47cc6c88139e244e965ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/7\/6-7.1792416650520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Og svalir"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "hásætisins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hann dæmdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "svalir"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "dómsins"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði hann"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "var þakið"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sedri"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "frá gólfi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "gólfs"
+    }
+  ],
+  "timestamp": "2026-10-19T13:30:50.521490777Z",
+  "model": "glm-5.3"
+}

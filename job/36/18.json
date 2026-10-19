@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 36:18",
+  "book": "job",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בספק",
+      "rationale": "Þýtt sem 'ónæmi\/riki' (JPS) eða 'tylgð, högg' (KJV) — orðið er tvírætt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפר",
+      "rationale": "'lausnargjöld' — orðin er upphaflega þekja, en merkir hér fé til að lausa úr."
+    },
+    {
+      "kind": "addition",
+      "subject": "þarna",
+      "rationale": "Hebreskan segir aðeins 'því að reiði' — sögn er ekki til staðar."
+    }
+  ],
+  "translation": "Því að reiði er ⟨þarna⟩ — gættu þess að hún freisti þig í ónæmi þínu; og mikill lausnargjöld séu ekki að vekja þig til hliðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "61e3a3ab7bad2babde0adf5eeb0e22b80aa3c3b304310519958d022d44c12d54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/36\/17-20.1792412434605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gættu þess að"
+    },
+    {
+      "surface": "יסיתך",
+      "gloss": "hún freisti þig"
+    },
+    {
+      "surface": "בספק",
+      "gloss": "í ónæmi þínu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og mikill"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "lausnargjöld"
+    },
+    {
+      "surface": "אל",
+      "gloss": "séu ekki"
+    },
+    {
+      "surface": "יטך",
+      "gloss": "að vekja þig til hliðar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:20:34.606040452Z",
+  "model": "glm-5.3"
+}

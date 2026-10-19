@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תפרצי",
+      "rationale": "sama rót og פִּצְחִי 'spring út' í v. 1 — söngurinn og útbreiðslan eru eitt orð í hebresku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'mun hann' — viðtökuaðili sáðsins settur fram í einni töl í íslensku, hebreskan hefur fleirtölu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשמות",
+      "rationale": "passíð þáttatökmynd af שׁומֵם — söma rót og 'hin eyðilagða' í v. 1; 'eyði-' heldur tengslinu"
+    }
+  ],
+  "translation": "Því að til hægri og til vinstri skalt þú brjótast út, og sáð þitt mun þjóðirnar erfa, og eyðiborgir mun hann byggja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/54\/1-4.1792404891418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "til hægri"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "og til vinstri"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "skalt þú brjótast út"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "og sáð þitt"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "mun erfa"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "og eyðiborgir"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "eyði-"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "mun hann byggja"
+    }
+  ],
+  "timestamp": "2026-10-19T10:14:51.419652294Z",
+  "model": "glm-5.3"
+}

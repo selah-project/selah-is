@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið „þá“ er bætt við fyrir hlutinn í הממם; hebreska sögnin er í þágufalli án útskírðrar nafnliðar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צרה er þröng\/myrkur — þýtt „þrenging“ en ekki „angist“ né „örðugleikar“."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "הממם getur merkt „sett í uppnám“ eða „ógnað til ónæmis“; KJV „vex“, JPS „discomfit“."
+    }
+  ],
+  "translation": "Og þjóð var brotin niður af þjóð og borg af borg, því Elóhím setti ⟨þá⟩ í uppnám með allri þrenging.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80a3343f9f00aac97a097218f227622ce7de8e108ab271d069251c8ffdadd1fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/15\/5-8.1792415607059.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "Og var brotin niður"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "af þjóð"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "og borg"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "af borg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "setti ⟨þá⟩ í uppnám"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með allri"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "þrenging"
+    }
+  ],
+  "timestamp": "2026-10-19T13:13:27.060724770Z",
+  "model": "glm-5.3"
+}

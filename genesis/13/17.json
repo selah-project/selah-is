@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenska þarf framtíðarhjálparsögnina „mun“, sem hebreskan gefur í samhengi"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "andlaugetic „það“ í enda til að leiða sagnfyllingu til enda, hebreskan hefur viðtengda suffíksa"
+    }
+  ],
+  "translation": "Rístu upp, farðu um landið, lengd þess og breidd þess, því að þér mun ég gefa það.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/13\/17-18.1792392756605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "rístu upp"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "farðu um"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "lengd þess"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "og breidd þess"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "mun ég gefa það"
+    }
+  ],
+  "timestamp": "2026-10-19T06:52:36.606063750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יספר\/ספרות",
+      "rationale": "sögnin 'telja frá' og nafnið 'tölur' koma af sömu rót ספר — talmýndin tapast ekki á íslensku með 'telja' og 'tölur'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ספרות",
+      "rationale": "'tölurnar' — summur gæfuverka Jahve; sumir þýða 'tel henni ekki enda'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "verseð snýst um tölur og ævintalning — ótal gjörðir Jahve"
+    }
+  ],
+  "translation": "Munnur minn telur frá tsedek þínum, allan daginn frelsun þína, því að ég þekki ekki tölurnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/71\/13-16.1792410101070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "munnur minn"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "telur frá"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedek þinn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "frelsun þína"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ég þekki"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "tölurnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:41.071825820Z",
+  "model": "glm-5.3"
+}

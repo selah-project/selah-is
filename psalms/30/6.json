@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רגע er „blik í auga“ — svipstund; „augnablik“ heldur myndinni"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "אף er nef\/nasir en merkir reiði — „í nefi hans“ yrði rangt á íslensku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Andstæðupörin augnablik\/líf og grátur\/fagnaðarópi mynda chiasmus yfir versið"
+    }
+  ],
+  "translation": "Því að augnablik er í reiði hans, líf í velþóknun hans; at kveldi dvelur grátur, en til morguns fagnaðarópi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/30\/5-8.1792409538981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "augnablik"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "í reiði hans"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "líf"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "í velþóknun hans"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "at kveldi"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "dvelur"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "grátur"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "en til morguns"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "fagnaðarópi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:18.982517783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 15:4",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נחר",
+      "rationale": "'svartnað\/brennd kol' — hebreska 'nákhar' merkir að glóa eða kolna; 'kolerað' heldur myndinni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אכלה האש",
+      "rationale": "sagnirnar 'át' og 'eldurinn' standa hvor öðrum næst í hebresku — 'eldurinn át enda beggja vagga' heldur mynd þess að eldurinn éti viðinn"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נחר (חרר)",
+      "rationale": "sögnin 'nákhar' (að kolna\/glóa) sjaldgæf í Tanakh, myndin af miðju eningsins kolnaðri"
+    }
+  ],
+  "translation": "Sjá, til elds er það gefið til brennslu; ⟨את⟩ enda beggja vagga eldurinn, en miðjan er brennd kol — þarfir það nokkurt verk?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "431404168a6fc5531a8264f614ad17ac92735cce91bbe9433ee30c0c7329c797",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/15\/1-4.1792407035736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "til elds"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "er gefið"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "til brennslu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enda beggja vagga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "beggja"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "enda vagga"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "eldurinn át"
+    },
+    {
+      "surface": "האש",
+      "gloss": "eldur"
+    },
+    {
+      "surface": "ותוכו",
+      "gloss": "en miðjan"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "er brennd kol"
+    },
+    {
+      "surface": "היצלח",
+      "gloss": "þarfir"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "nokkurt verk"
+    }
+  ],
+  "timestamp": "2026-10-19T10:50:35.737387165Z",
+  "model": "glm-5.3"
+}

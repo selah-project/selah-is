@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf fyrirmyndina 'eru' sem hebreskan sleppir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לנחל",
+      "rationale": "Orðið er cause-to-inherit; 'gefa arfa' heldur myndinni en ekki 'skipta' (sjá KJV 'divide')"
+    },
+    {
+      "kind": "measurement",
+      "subject": "landdeild",
+      "rationale": "Versið lokar listanum yfir þá sem skipta landið í arfa — landmæling Ísraels"
+    }
+  ],
+  "translation": "Þetta eru þeir sem Jahve bauð að gefa ⟨את⟩ sons Ísraels arfa í landi Kenaan.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a455b7b39a2bd01a4b9b08e30b2acf81350228c33ac075accde37b057c2afa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/34\/29-29.1792397407267.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "að gefa arfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sons Ísraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sons"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-10-19T08:10:07.267705312Z",
+  "model": "glm-5.3"
+}

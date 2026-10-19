@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ישוב",
+      "rationale": "'Snýr aftur' — en sögnin er שוב, snúa\/búa sér aftur; gæti einnig vísað til að hráa holdið grœni aftur, ekki aðeins til baka."
+    },
+    {
+      "kind": "addition",
+      "subject": "þá skal hann",
+      "rationale": "Hebreskan hefur aðeins ובא 'og kemur'; íslenskan þarf framkvæmdarhátt."
+    }
+  ],
+  "translation": "Eða ef lifandi holdið snýr aftur og breytist í hvítt, þá skal hann koma til prestsins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/13-16.1792395723635.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Eða"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "snýr aftur"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "holdið"
+    },
+    {
+      "surface": "החי",
+      "gloss": "lifandi"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "og breytist"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "í hvítt"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "þá skal hann koma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prestsins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:42:03.636544222Z",
+  "model": "glm-5.3"
+}

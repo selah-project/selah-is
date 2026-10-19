@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד ritað eftir hljóði samkvæmt D2, ekki þýtt sem 'miskunn' eitt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "himnar\/ský",
+      "rationale": "Samhverf lína: khesed yfir himnunum, tsedek til skýjanna — endurtekning út Ps 57:11"
+    }
+  ],
+  "translation": "Því að khesed þitt er hátt yfir himnunum, og tsedek þitt næð til skýjanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/108\/5-8.1792410695227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hátt"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnunum"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed þitt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "skýjanna"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tsedek þitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:35.227741653Z",
+  "model": "glm-5.3"
+}

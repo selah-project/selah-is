@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כיאר merkir sérstaklega Níléna; þýtt 'fljótið' til að halda myndinni án sérnefni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska bætir við hjálpsögn 'mun' í framtíðarframkvæmd veranna"
+    },
+    {
+      "kind": "alternative",
+      "subject": "borgin",
+      "rationale": "ASV\/BSB les fleirtölu 'borgir'; hebreska er eintala עיר"
+    }
+  ],
+  "translation": "Mitsrajím rís eins og fljótið, og vatnin hrífa sér eins og ám, og hann sagði: Ég mun rísa, ég mun hylja ⟨את⟩ landið, ég mun eyða ⟨את⟩ borginni og ⟨את⟩ íbúum hennar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b9440503a075a2bdbcbde5f5296460884b30faae12d9777a19f5b6e0e7edc012",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/46\/8-8.1792416835555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "eins og fljótið"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "rís"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "og eins og ám"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "hrífa sér"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatnin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Ég mun rísa"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "ég mun hylja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landið"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "ég mun eyða"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borginni"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "og íbúum"
+    },
+    {
+      "surface": "בה",
+      "gloss": "hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:33:55.556392363Z",
+  "model": "glm-5.3"
+}

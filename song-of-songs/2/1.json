@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבצלת",
+      "rationale": "'meadow-saffron' eða 'bleikililja' — kenningar deila um hvort sé sólblóma eða saffran; 'rós' er síðari þýðing."
+    },
+    {
+      "kind": "substitution",
+      "subject": "blóm",
+      "rationale": "חבצלת er sérstök blómtegund, líklegast vorkrókus; orðið 'blóm' týnir tegundinni."
+    }
+  ],
+  "translation": "Ég er blóm af Sharonsléttunni, lilja af dalunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/2\/1-4.1792412604058.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "blóm"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "af Sharonsléttunni"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "lilja"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "af dalunum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:24.058602684Z",
+  "model": "glm-5.3"
+}

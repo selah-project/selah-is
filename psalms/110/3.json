@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "v. 3 í heild",
+      "rationale": "þekktasti þýðingarvandi sálmsins — óvís orðatilhögun, samlagarföll óljós; KJV 'thy people shall be willing', JPS 'offer themselves willingly'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרחם משחר",
+      "rationale": "'úr móðurlífi morgunsins' — myndlíning; sumir lesa 'morgunn' sem einkenni (svartur) og telja lesguð skýringu"
+    },
+    {
+      "kind": "addition",
+      "subject": "er \/ kemur",
+      "rationale": "sagnliðir sem hebreskan sleppir, bætt við til að tengja saman"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חילך",
+      "rationale": "'hers þíns' eða 'máttar þíns' — kjör er hermennar í helgum skrautum birtast sem gjöf"
+    }
+  ],
+  "translation": "Þjóð þín ⟨er⟩ gjafmild á degi hers þíns, í skrautkleðum heilagleika; úr móðurlífi morgunsins kemur þér dögg æsku þinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/110\/1-4.1792410720700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "þjóð þín"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "gjafmild"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "hers þíns"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "í skrautkleðum"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilagleika"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "úr móðurlífi"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "morgunsins"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "טל",
+      "gloss": "dögg"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "æsku þinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:00.701338014Z",
+  "model": "glm-5.3"
+}

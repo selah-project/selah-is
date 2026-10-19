@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sumir af",
+      "rationale": "Hebreska segir 'og jafnvel af höfðingjum Ísraels' án nafnliðar; sumar þýðingar bæta við 'sumir'."
+    },
+    {
+      "kind": "crux",
+      "subject": "höfðingjum Ísraels",
+      "rationale": "Ýmsar gerðir lesa 'Júda' (sbr. Wycliffe); hebreska segir Ísraels."
+    },
+    {
+      "kind": "substitution",
+      "subject": "drap",
+      "rationale": "ויהרג er 'sló með banseðli'; 'drap' heldur styttingunni."
+    }
+  ],
+  "translation": "Og Jehóram reis upp yfir konungdómi föður síns og styrkti sig og drap ⟨את⟩ alla bræður sína með sverði, og jafnvel ⟨sumir af⟩ höfðingjum Ísraels.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/21\/1-4.1792415717043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "reis upp"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehóram"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "konungdómi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður síns"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "styrkti sig"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "drap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla bræður sína"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bræður sína"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "með sverði"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og jafnvel"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "höfðingjum Ísraels"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T13:15:17.044410201Z",
+  "model": "glm-5.3"
+}

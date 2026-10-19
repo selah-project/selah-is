@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחי",
+      "rationale": "'Til lífs!' sem heilsun (YLT, JPS) annarsvegar, 'þeim sem lifir í velmegun' (KJV) hinsvegar — rótin חי er 'líf'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×3",
+      "rationale": "Þreföld endurtekning orðsins friður — bragðlist sem tapast ekki alveg í íslensku."
+    }
+  ],
+  "translation": "Og þér munuð segja svo: Líf fyrir þig! Og þú — friður, og hús þitt — friður, og allt það sem þú átt — friður.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/25\/5-8.1792400863865.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Og þér munuð segja"
+    },
+    {
+      "surface": "כה",
+      "gloss": "svo"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Líf fyrir þig"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Og þú"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "og hús þitt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þú átt"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    }
+  ],
+  "timestamp": "2026-10-19T09:07:43.866444734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'er' er bætt við — hebreskan hefur enga sögn í spurningunni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "סלה er hljóðritunarorð (tónlistarvark), varðveitt sem 'Sela' fremur en þýdd."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Spurningin beinist aðbundnum dyrum og lesandanum — andsvar við v. 8."
+    }
+  ],
+  "translation": "Hver er hann, þessi konungur dýrðarinnar? Jahve Tsevaót — hann er konungur dýrðarinnar. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/24\/9-10.1792409472503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "dýrðarinnar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann er"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "dýrðarinnar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:12.504320944Z",
+  "model": "glm-5.3"
+}

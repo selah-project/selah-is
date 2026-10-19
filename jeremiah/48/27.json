@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 48:27",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "תתנודד: „hrœra höfði“ í háði (KJV „skippedst“ er víðavangur); sögnin þýðir bæði „væla“ og „hrœra\/vaka höfði“."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„hann“ og „höfði“ skotin inn til að gera höfðihrœringuna skýra; hebreskan nefnir ekki höfuð."
+    }
+  ],
+  "translation": "Og var Ísrael ekki að spotti fyrir yður? Fannst hann meðal þjófa? Því að eins oft og þér talið um hann, hrœrið þér höfði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bca79b071df106451b80923773fb8a450588942ebaac4da452a0fffc96bea939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/48\/25-28.1792406520742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "השחק",
+      "gloss": "að spott"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir yður"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בגנבים",
+      "gloss": "meðal þjófa"
+    },
+    {
+      "surface": "נמצאה",
+      "gloss": "Fannst hann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "eins oft og"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "þér talið um hann"
+    },
+    {
+      "surface": "בו",
+      "gloss": ""
+    },
+    {
+      "surface": "תתנודד",
+      "gloss": "hrœrið þér höfði"
+    }
+  ],
+  "timestamp": "2026-10-19T10:42:00.742928739Z",
+  "model": "glm-5.3"
+}

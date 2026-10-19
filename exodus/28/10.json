@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Nöfnin talin og skipt á tvo steina, sex og sex."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ættartölum",
+      "rationale": "כתולדתם 'samkvæmt fæðingu þeirra' — ættartölum gefur sömu upplýsingu."
+    }
+  ],
+  "translation": "sex nöfn þeirra á annan steininn, og ⟨את⟩ nöfn hinna sex sem eftir eru á hinn steininn, samkvæmt ættartölum þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a455dad548e83e8729fdf79d3c1b001a7fad2a6efdd7d17575ac4f890142bdf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/28\/9-12.1792394819000.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "sex"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "nöfn þeirra"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "annan steininn"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "annan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nöfn hinna sex"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nöfn"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "hinna sex"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "sem eftir eru"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "steininn"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "hinn"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "samkvæmt ættartölum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:26:59.001565748Z",
+  "model": "glm-5.3"
+}

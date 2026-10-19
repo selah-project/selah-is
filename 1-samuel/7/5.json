@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to Ísrael",
+      "rationale": "Sjemúel boðar Ísrael með boðorði: safnist saman í Mitspa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "heiti staðarins",
+      "rationale": "המצפתה er staðarheiti með greini, skilið „í Mitspa“ frekar en bókstaflegri mynd."
+    }
+  ],
+  "translation": "Og Sjemúel sagði: Safnið ⟨את⟩ öllu Ísrael í Mitspa, og mun ég biðja fyrir ykkur til Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/7\/5-8.1792400276756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemúel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Safnið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu Ísrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "í Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "og mun ég biðja"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "fyrir ykkur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:56.759299993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 44:29",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagnarskýringarbreyta 'skulu' bætt við, hebreskan segir aðeins 'þeir éta þau'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרם",
+      "rationale": "חרם er 'það sem bannað\/bundið er' — hér um hluti helgaða Jahve; 'helgafé' heldur myndinni en ekki orðrétt"
+    }
+  ],
+  "translation": "Minkhan og syndoffrið og sekaroffrið — þeir skulu éta ⟨þau⟩, og allt helgafé í Ísrael skal þeim vera.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a0020cf29c55be5c802e510c0a792fca910fa60a8bef0dbc05f65ccddd27f134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/44\/29-31.1792407953540.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המנחה",
+      "gloss": "minkhan"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "og syndoffrið"
+    },
+    {
+      "surface": "והאשם",
+      "gloss": "og sekaroffrið"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "יאכלום",
+      "gloss": "skulu éta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "helgafé"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verða"
+    }
+  ],
+  "timestamp": "2026-10-19T11:05:53.541418238Z",
+  "model": "glm-5.3"
+}

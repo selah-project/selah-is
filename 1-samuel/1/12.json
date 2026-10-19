@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fyrir ásjá",
+      "rationale": "לפני er orðrétt 'fyrir andliti' — 'fyrir ásjá' heldur myndmálinu."
+    }
+  ],
+  "translation": "Og það varð, er hún hafði lengi bænast fyrir ásjá Jahve, að Elí gætti ⟨את⟩ munns hennar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "3ce2494292e34820f4e727421f29ea59850c5f61fd5106972c371238012bbdcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/1\/9-12.1792400148730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "er"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "hún hafði lengi"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "bænast"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir ásjá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "að Elí"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gætti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munns hennar"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "munns hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:48.731737961Z",
+  "model": "glm-5.3"
+}

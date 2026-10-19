@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "5:100 og 100:10000 — hlutfallstölur í řöð, vaxandi hlutfall"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רבבה er „myría\/tínumennt“ — flutt sem tíu þúsund"
+    }
+  ],
+  "translation": "Fimm af ykkur munu elt af hundrað, og hundrað af ykkur munu elt tíu þúsund, og óvinir ykkar munu falla fyrir andlitum ykkar undir sverðinu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/5-8.1792396202890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "munu elt"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "af ykkur"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrað"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "og hundrað"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "af ykkur"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "tíu þúsund"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "munu elt"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "og munu falla"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "óvinir ykkar"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "fyrir andlitum ykkar"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "undir sverðinu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:50:02.892174777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 20:19",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלמי אמוני",
+      "rationale": "„Ég er af hinum friðsömum og trúfastu“ — sumir lesa „frijálst, hollt Ísrael“ (viðmynd ræðu), aðrir fleirtölu um íbúana; JPS skilur sem „við“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבלע",
+      "rationale": "בלע er að gleypa — myndin af því að gleypa arfleifðina, ekki aðeins „eyða“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבלע",
+      "rationale": "Sama rót og תבלעע í 20:15; konan notar sögu orðmynd og Jóab svarar með אבלע í 20:20."
+    },
+    {
+      "kind": "you",
+      "subject": "til Jóabs",
+      "rationale": "Konan ábeldis ber ræðuna beint að Jóab með „þú“."
+    }
+  ],
+  "translation": "Ég er ⟨af⟩ hinum friðsömum og trúfastu í Ísrael; þú leitar þess að deyða borg og ⟨að⟩ móður í Ísrael. Hví vilt þú gleypa arfleifð Jahve?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d3e715da8360c8b4423adf9b6e38a0d5d9f242c938bd83ba8cc5d6b9c2e92d4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/20\/19-20.1792416667271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "hinum friðsömum"
+    },
+    {
+      "surface": "אמוני",
+      "gloss": "og trúfastu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "í Ísrael"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "leitar þess"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "að deyða"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borg"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og móður"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "תבלע",
+      "gloss": "vilt þú gleypa"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arfleifð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:07.271789060Z",
+  "model": "glm-5.3"
+}

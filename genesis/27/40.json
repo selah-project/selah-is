@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "רוד hapax: 'ferskja eigur\/ryðja' (KJV 'have dominion') eða 'þú munt ókyra' (JPS 'break loose')"
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "רוד (lemma 7300) kemur aðeins fyrir hér í Tanakh"
+    }
+  ],
+  "translation": "Og af sverði þínu skalt þú lifa, og ⟨את⟩ bróður þinn skalt þér þjóna; og það skal gerast, þegar þú rýfur eigur, að þú munt slíta ók hans af háls þínum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8ece3fe58d80150caaf6322a3b171c279a0318cddea18e2b2e825de40d5de4b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/27\/37-40.1792393259174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Og af"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sverði þínu"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "skalt þú lifa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bróður þinn"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bróður þinn"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "skalt þér þjóna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og það skal gerast"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "þú rýfur eigur"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "að þú munt slíta"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ók hans"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "háls þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:59.175506193Z",
+  "model": "glm-5.3"
+}

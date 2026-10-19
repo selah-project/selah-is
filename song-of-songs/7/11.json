@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnirnar 'tilheyri' og 'beinist' eru bornar af hebreskri forsendulausrar tengingar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "תשוקה endar þetta lag eins og 1. Mós 3:16 — sama orð um girnd karlsins, hér snúið í gæfu"
+    }
+  ],
+  "translation": "Ég tilheyri elskanda mínum, og löngun hans beinist að mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/7\/9-12.1792412688262.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "tilheyri elskanda mínum"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "að mér"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "löngun hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:48.263517842Z",
+  "model": "glm-5.3"
+}

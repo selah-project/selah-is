@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מלך er sagnorð („varð konungur, tók völdin“), ekki nafnorð; „hefur tekið konungdóm“ heldur söguformi hebreskunnar."
+    },
+    {
+      "kind": "you",
+      "subject": "to the spies",
+      "rationale": "Boðskapurinn ávarpar njósnarana í annarri persónu fleirtölu: „þið heyrið… þið skuluð segja“."
+    }
+  ],
+  "translation": "Og Avsjalóm sendi njósnara út um allar ættkvíslir Ísraels og lét segja: Um leið og þið heyrið ⟨את⟩ hljóð hornsins, skuluð þið segja: Avsjalóm hefur tekið konungdóm í Khebrón.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/15\/9-12.1792401490290.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalóm"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "njósnara"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "um allar"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ættkvíslir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og lét segja"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "Um leið og þið heyrið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hljóð hornsins"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hljóð"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "hornsins"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "skuluð þið segja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hefur tekið konungdóm"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalóm"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "í Khebrón"
+    }
+  ],
+  "timestamp": "2026-10-19T09:18:10.291771115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "svo að",
+      "rationale": "íslenzka tenging orðin milli rofningar girðingar og tíningar — hebreskan segir aðeins ‚og allir sem fara tína hana‘"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "spurning beint að Guði: hví hefur þú rofið…"
+    }
+  ],
+  "translation": "Hví hefur þú rofið girðingarnar hennar, svo að allir sem fara um veginn tína af henni?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/80\/13-16.1792410288102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "hefur þú rofið"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "girðingarnar hennar"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "tína af henni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "sem fara"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "um veginn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:48.103684110Z",
+  "model": "glm-5.3"
+}

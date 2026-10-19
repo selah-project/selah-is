@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "geyma reiði",
+      "rationale": "נטר er 'gæta\/varðveita' — myndin er að geyma reiðina sem verðmæti; 'geyma reiði' heldur myndinni"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Boðorð beint til Ísraels; 'elska náunga þinn' vitnað síðar margfalt"
+    }
+  ],
+  "translation": "Ekki skalt þú hefna og ekki skalt þú geyma reiði á ⟨את⟩ sonum þjóðar þinnar, og elska skalt þú náunga þinn eins og sjálfan þig; ég er Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/17-20.1792396057959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "skalt þú hefna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "skalt þú geyma reiði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonum þjóðar þinnar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonum"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóðar þinnar"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "og elska skalt þú"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "náunga þinn"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "eins og sjálfan þig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:47:37.961717294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨þig⟩ er ekki í hebreskunni en הללוך hefur aðeins annað persónufornafn í sögninni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחמדינו",
+      "rationale": "Orðið merkir 'það sem girnast, elskuverðmæti' — 'það dýrlega' heldur myndinni betur en 'fögnuður'"
+    }
+  ],
+  "translation": "Hús heilagleika vors og prýði vor, þar sem feður vorir lofuðu ⟨þig⟩, varð ⟨את⟩ eldinum brennt, og allt það dýrlega varð að rúst.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/64\/9-11.1792405116585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "heilagleika vors"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "og prýði vor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "lofuðu ⟨þig⟩"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "feður vorir"
+    },
+    {
+      "surface": "היה",
+      "gloss": "varð"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "að brenna"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldinum"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "það dýrlega"
+    },
+    {
+      "surface": "היה",
+      "gloss": "varð"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "að rúst"
+    }
+  ],
+  "timestamp": "2026-10-19T10:18:36.586271572Z",
+  "model": "glm-5.3"
+}

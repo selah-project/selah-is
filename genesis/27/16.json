@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חלקת צואריו er 'sléttan hálsinns' — 'slétti hluti hálsins' er skýring, ekki orðmynd."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨hans⟩ bætt við — í stað réttindaforms sem íslenskan notar ekki."
+    }
+  ],
+  "translation": "Og ⟨את⟩ skinnin af kiðunum, geitarkiðunum, lagði hún á hendur hans og á slétta hálsinn ⟨hans⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f4a63dd69d243cf7873f08236a3c0deea2e81a48637b45efc1e365ecf46924c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/27\/13-16.1792393237825.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "skinnin"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "skinnin"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "af kiðunum"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "geitanna"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "lagði hún á"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hendur hans"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "slétta"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "háls ⟨hans⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:37.827001186Z",
+  "model": "glm-5.3"
+}

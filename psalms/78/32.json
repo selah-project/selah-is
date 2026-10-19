@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "undrum",
+      "rationale": "נפלאות merkir 'það sem er aðgreint\/óvenjulegt' — undur heldur myndina en 'kraftaverk' væri of þröngt"
+    }
+  ],
+  "translation": "Með öllu þessu synduðu þeir enn, og trúðu ekki undrum hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7f05e286c20bc88af0af5af257fb4720fa24f024fdf58f7b0446cf1aa6136ef7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/29-32.1792410254263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "synduðu þeir"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "trúðu"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "undrum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:14.264977889Z",
+  "model": "glm-5.3"
+}

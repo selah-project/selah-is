@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "מות יומת er óendanlegt sagnmynd + sagnbót („deyja skal hann deyja“); styrkleikinn er flatur á íslensku með „örugglega“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מקלל er bókstaflega „gera létt, lítilsgera“ — að bölva föður og móður er að gera þau litil;"
+    }
+  ],
+  "translation": "Og sá sem bölvar föður sínum og móður sinni — deyja skal hann örugglega deyja.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/17-20.1792394766045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "og sá sem bölvar"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður sínum"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "og móður sinni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "deyja skal"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hann örugglega deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T07:26:06.046786907Z",
+  "model": "glm-5.3"
+}

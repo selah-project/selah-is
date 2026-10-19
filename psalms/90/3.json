@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשב\/שובו",
+      "rationale": "Sama rót שוב tvisvar: Guð 'snýr' manninum til dufts og býður honum að 'snúa' aftur — þetta tapast ekki alveg í íslensku 'hverfa\/snúa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "דכא",
+      "rationale": "'Til dufts' (bókstaflega mulningur) gagnstætt hefðinni 'til eyðingar'; JPS: 'til iðranar' — rótin merkir mulinn niður"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Snúið aftur",
+      "rationale": "Boðunarháttur til mannabarna — skýst boð um snúning"
+    }
+  ],
+  "translation": "Þú lætur manninn hverfa til dufts, og þú segir: Snúið aftur, mannabörn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/90\/1-4.1792410455908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Þú lætur ... hverfa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "dufts"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og þú segir"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Snúið aftur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "börn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:35.908975767Z",
+  "model": "glm-5.3"
+}

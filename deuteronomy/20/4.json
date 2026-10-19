@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Ályktunarhátturinn 'til að' kemur úr hebresku infinitif-construkt með ל-, en íslenskan þarf eiginlega tengingu."
+    }
+  ],
+  "translation": "því að Jahve Elóhím ykkar er sá sem gengur með ykkur, til að berjast fyrir ykkur gegn óvinum ykkar, til að hjálpa ⟨את⟩ ykkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/20\/1-4.1792398148491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "sá sem gengur"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "með ykkur"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "til að berjast"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fyrir ykkur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "óvinum ykkar"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "til að hjálpa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
+    }
+  ],
+  "timestamp": "2026-10-19T08:22:28.492878615Z",
+  "model": "glm-5.3"
+}

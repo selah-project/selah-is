@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סחרחר",
+      "rationale": "afstöðuð mynd af 'að fara um' (söluaðuri); 'að þenslast\/klappa' — þýtt 'panteth', 'fluttereth'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתי",
+      "rationale": "hér er forsetningin 'með' (H854), ekki viðfangsmerkið; gefið ⟨með⟩ í þýðingu"
+    }
+  ],
+  "translation": "Hjarta mitt þenslast,mátturinn yfirgaf mig,og ljós augna minna — jafnvel það er ekki ⟨með⟩ mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/9-12.1792409704264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "þenslast"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "yfirgaf mig"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mátturinn"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "og ljós"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augna minna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jafnvel"
+    },
+    {
+      "surface": "הם",
+      "gloss": "það"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er ekki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ með mér",
+      "marks": "með mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:04.265926192Z",
+  "model": "glm-5.3"
+}

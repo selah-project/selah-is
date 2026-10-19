@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפי שאול",
+      "rationale": "'Við munn Sjeól' (gröfin opnast) — en YLT les 'fyrir boði Saul'; samhljóða hafnað af nær öllum."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פלח",
+      "rationale": "Sjöund orðið — að skera op, klofa — eingöngu hér í þessari merkingu í Tanakh."
+    }
+  ],
+  "translation": "Eins og sá sem sker og klofur í jörðinni — svo hafa bein okkar verið stráð við munn Sjeól.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/141\/5-8.1792411029299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "sker"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "og klofur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í jörðinni"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "verið stráð"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "bein okkar"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "við munn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeól"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:09.300561278Z",
+  "model": "glm-5.3"
+}

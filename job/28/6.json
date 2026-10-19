@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "לו stendur eitt og heldur ekki við; 'hjá' bætt við til að gera hlutverk þess skýrt."
+    },
+    {
+      "kind": "alternative",
+      "subject": "er honum",
+      "rationale": "KJV\/ASV les 'it hath dust of gold' — hann hefur ryk gulls; íslenskan heldur sig við ágripið 'ryk gulls er honum'."
+    }
+  ],
+  "translation": "Staður safírs eru steinar hans, og ryk gulls er ⟨hjá⟩ honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9147ba9802cb0b3210d6dcea19f61a8b27cb36fcd1dc79ad2fa931a26fe1671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/28\/6-7.1792417066817.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "staður"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "safírs"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "steinar hans"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "og ryk"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulls"
+    },
+    {
+      "surface": "לו",
+      "gloss": "er honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:46.818185305Z",
+  "model": "glm-5.3"
+}

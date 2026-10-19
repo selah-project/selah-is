@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "משכב\/ישכב — 'legarstaður\/legst' — samstöfug samhljóða rót varðveitt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הזב leitt að nafnorði: 'sá flæðandi' — framhald af זוב orðmyndinni, ekki 'sáðveikur'"
+    }
+  ],
+  "translation": "Allur þvagaður sem sá flæðandi legst á verður óhreinn, og allt kerið sem hann situr á verður óhreint.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/15\/1-4.1792395795613.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allur"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "þvagaður"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "legst"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "sá flæðandi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "verður óhreinn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "ker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "situr"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "verður óhreint"
+    }
+  ],
+  "timestamp": "2026-10-19T07:43:15.615857196Z",
+  "model": "glm-5.3"
+}

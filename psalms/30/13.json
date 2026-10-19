@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "slá fiðlu",
+      "rationale": "זמר er að leika á strengjahljóðfæri; „syngja lof“ er þrengra"
+    },
+    {
+      "kind": "crux",
+      "subject": "כבוד",
+      "rationale": "„dýrð“ vs. „tunga“ (Geneva) eða „hjarta“ (BSB) — kjör af túlka greinir"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "beint ávarp Guði í öðru persónufalli"
+    }
+  ],
+  "translation": "Til þess að dýrðin slá fiðlu þér og þegja ekki — Jahve, Elóhím minn, að eilífu mun ég þakka þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/30\/13-13.1792409468699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "slá fiðlu þér"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dýrðin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "þegja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "mun ég þakka þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:08.699587292Z",
+  "model": "glm-5.3"
+}

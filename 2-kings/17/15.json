@@ -1,0 +1,160 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 17:15",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ההבל\/ויהבלו",
+      "rationale": "tómin\/urðu til enginnar — sömu rót; paronomasían glatist að hluta í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tómin",
+      "rationale": "הבל er andardráttur,útlæti — eyðimerki; „tómin“ heldur myndinni en ekki andardráttinum"
+    },
+    {
+      "kind": "elision",
+      "subject": "את אבותם",
+      "rationale": "hér er את Ariðarforsetning (við), ekki aleph-tav nafnháttarmerki — glossað sem „við“"
+    }
+  ],
+  "translation": "Og þeir skyldu ⟨את⟩ lögseðilum hans og ⟨את⟩ sáttmála hans, sem hann gjörði ⟨את⟩ við feður þeirra, og ⟨את⟩ vitnisburði hans, sem hann bar gegn þeim; og þeir fóru eftir tóminu og urðu til enginnar, og eftir þjóðunum umhverfis þá, þess eina að gjöra ekki eins og þær hafði Jahve bannað ⟨את⟩ að gjöra eins og þær.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/13-16.1792403412364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Og þeir skyldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lögseðilum hans"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "lögseðilum hans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sáttmála hans"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sáttmála hans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ við",
+      "marks": "feður þeirra"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "feður þeirra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "vitnisburði hans"
+    },
+    {
+      "surface": "עדותיו",
+      "gloss": "vitnisburði hans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "העיד",
+      "gloss": "bar gegn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "fóru"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "ההבל",
+      "gloss": "tóminu"
+    },
+    {
+      "surface": "ויהבלו",
+      "gloss": "urðu til enginnar"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "og eftir"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "סביבתם",
+      "gloss": "umhverfis þá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þess eina"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hafði bannað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "að gjöra eins og þær"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "að gjöra ekki"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gjöra"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "eins og þær"
+    }
+  ],
+  "timestamp": "2026-10-19T09:50:12.365611552Z",
+  "model": "glm-5.3"
+}

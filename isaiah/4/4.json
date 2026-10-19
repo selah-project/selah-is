@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "Skilyrt „ef“ eða tímasett „þegar“ — margar þýðingar bjóta skilyrðið í tíma; hebreskan segir „ef“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בער",
+      "rationale": "Rótin merkir að kveikja\/eyða með eldi — „rúakh brennslu“ heldur eldmyndinni, ekki „eyðanda“."
+    }
+  ],
+  "translation": "Ef Adónaí þvær ⟨את⟩ óhreinleika dætra Síonar og ⟨את⟩ blóðsúð Jerúsjalajím þrýstir frá miðju hennar, með rúakh dóms og með rúakh brennslu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/4\/1-4.1792403757656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "þvær"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óhreinleika dætra Síonar"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "óhreinleika"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dætra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Síonar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "blóðsúð Jerúsjalajím"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "blóðsúð"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "þrýstir frá"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "frá miðju hennar"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "með rúakh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dóms"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "og með rúakh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "brennslu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:55:57.657908311Z",
+  "model": "glm-5.3"
+}

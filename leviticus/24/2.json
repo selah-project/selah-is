@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "להעלת er bókstaflega 'að láta risa\/bera upp', ekki 'brenna' — lampann er látinn rísa (loginn gengur upp)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðskipun (צו) beint til Mósje um að gefa Ísraelsmönnum fyrirmæli"
+    }
+  ],
+  "translation": "Boð ⟨את⟩ sonu Ísraels að þeir taki til þín ólífuolíu, hreina, sofinna, fyrir ljósið, til að láta lampann risa upp stöðugt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3a45d5af6fbae07fafd1f3c2d3e40287d4b0f8d0b2ef532f7f58d14a7a5af38b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/24\/2-3.1792416294829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Boð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonu Ísraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og taki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olíu"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ólífu"
+    },
+    {
+      "surface": "זך",
+      "gloss": "hreina"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "sofinna"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "fyrir ljósið"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "til að láta risa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampann"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stöðugt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:54.830179591Z",
+  "model": "glm-5.3"
+}

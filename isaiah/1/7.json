@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שממה … ושממה",
+      "rationale": "Orðið 'auðn' endurtekið í versi — svarið til שממה á v.7 speglar upphafið"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרים … זרים",
+      "rationale": "'Framandi' endurtekið — þeir sem éta landið og örlög þess eru þau sömu orð"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמהפכת",
+      "rationale": "'Kastað\/velt' — KJB\/JPS 'overthrown by strangers' vs JPS-bráður 'by floods'; rót מהפך er um hvelfingu"
+    }
+  ],
+  "translation": "Ykkar land er auðn, ykkar borgir brenndar með eldi; ykkar jörð — frammi fyrir ykkur éta framandi ⟨את⟩ henni — og hún er auðn, kastað sem af framöndum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/1\/5-8.1792403616087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "Ykkar land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "er auðn"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ykkar borgir"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "brenndar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "með eldi"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ykkar jörð"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "frammi fyrir ykkur"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "framandi"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "éta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henni"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "og hún er auðn"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "kastað sem"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "af framöndum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:53:36.088676477Z",
+  "model": "glm-5.3"
+}

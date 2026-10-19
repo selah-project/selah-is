@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nokkur",
+      "rationale": "íslenzka þarf 'nokkur' með 'ekki' í neitun; hebreskan segir aðeins אין איש"
+    },
+    {
+      "kind": "substitution",
+      "subject": "myrkur",
+      "rationale": "נשף er aptanrokkið, skeið, skamminda; 'myrkur' nær myndinni en ekki rokinu"
+    }
+  ],
+  "translation": "Og þeir risu upp í myrkrinu til að komast í herbúðir Aram, og er þeir komu að jaðri herbúða Arams — og sjá, ekki var þar ⟨nokkur⟩ maður.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/7\/5-8.1792402990031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "óttuðust ekki — risu upp"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "í myrkrinu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "til að komast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "herbúðir"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "komu þeir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "að"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "jaðri"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "herbúða"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki var"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:10.031919686Z",
+  "model": "glm-5.3"
+}

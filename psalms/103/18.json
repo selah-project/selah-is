@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פקודים",
+      "rationale": "'boð' fyrir piqudím — nákvæmlega 'skipanir\/tilskipanir' Guðs"
+    }
+  ],
+  "translation": "þeim er halda sáttmála hans og minnast boða hans til að gjöra þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/17-20.1792410520851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "þeim er halda"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sáttmála hans"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "og minnast"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "boða hans"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "til að gjöra þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:40.852195453Z",
+  "model": "glm-5.3"
+}

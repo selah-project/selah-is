@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כשלה\/המכשלה",
+      "rationale": "Sama rót כשל og 'hrunið' í 3:6 — falin tenging milli versanna tapast ekki alveg."
+    },
+    {
+      "kind": "idiom",
+      "subject": "למרות עני כבודו",
+      "rationale": "Bókstaflega 'til að gera augum dýrðar hans bíturst' — íslenskt 'ýta gegn'."
+    }
+  ],
+  "translation": "Því að Jerúsjalajím hefur stigið á máttarhlaup og Júda hefur fallið, því að tunga þeirra og verk þeirra eru gegn Jahve, að ýta gegn augum dýrðar hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/3\/5-8.1792403660028.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "hefur stigið á máttarhlaup"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Júda"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "hefur fallið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tunga þeirra"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "og verk þeirra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "að ýta gegn"
+    },
+    {
+      "surface": "עני",
+      "gloss": "augum"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "dýrðar hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:54:20.030044109Z",
+  "model": "glm-5.3"
+}

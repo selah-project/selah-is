@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er drifkraftur\/lífsmáttur, ekki ósála — 'sála' er nálgun en ekki þýðing rótarmerkingarinnar"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "אלה: formleg útköllun (sem tilkynnir um glæp, 3. Mós 5:1) eða bölvun yfir honum — KJV 'cursing', ASV 'adjuration'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "חולק merkir bókstaflega 'að vera sléttur' — sá sem sleikir hönd þjófinum; myndin glatast á íslensku"
+    }
+  ],
+  "translation": "Sá sem deilir með þjófi hatar sálu sína; bann heyrir hann og bergmælir ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/29\/21-24.1792411659121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "sá sem deilir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "þjófi"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "hatar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu sína"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bann"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "heyrir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "bergmælir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:39.122888368Z",
+  "model": "glm-5.3"
+}

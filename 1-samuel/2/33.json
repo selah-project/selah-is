@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 2:33",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er nálgur 'háls\/lífskraftur', ekki ósálarfræðileg sál"
+    },
+    {
+      "kind": "crux",
+      "subject": "אנשים",
+      "rationale": "'munu deyja sem karlmenn' — KJV\/JPS 'í blóma aldurs \/ ungir menn' vs. bókstöfuleg afbrigði"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכלות\/אכרית",
+      "rationale": "tvö eyðingarsagnorð ('rífa burt', 'eyða') í sömu línu, hvörflust ekki yfir á íslensku"
+    }
+  ],
+  "translation": "Og mann þinn mun ég ekki rífa burt af altari mínu — til að eyða ⟨את⟩ augum þínum og láta ⟨את⟩ sálu þína þverra; og allt það sem fjölgiast í húsi þínu mun deyja sem karlmenn.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bd6537b0a6538b6c6c0d7d0fe903ec07bad21e437752913b2685e52b74bbff55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/33-36.1792400197866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "og mann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "rífa burt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "af"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "altari mínu"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "til að eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "augu þín"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "augum þínum"
+    },
+    {
+      "surface": "ולאדיב",
+      "gloss": "og láta þverra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálu þína"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sálu þína"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "það sem fjölgiast"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "í húsi þínu"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mun deyja"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "karlmenn"
+    }
+  ],
+  "timestamp": "2026-10-19T08:56:37.867356595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גרתי (גור) merkir að dveljast sem útlendingur\/gestur — 'dvaldist' tapar því að dvölin er til bráðabirgða"
+    },
+    {
+      "kind": "crux",
+      "subject": "Mesjek og Kedar",
+      "rationale": "Landfræðilega ósamstæð tvennd — Meshek í norðri (Asía), Kedar í suðri (Arabía); mörg gera þetta að myndrænni táknhlut um að búa með ófriðsamri þjóð, ekki bókstaflegri staðsetningu"
+    }
+  ],
+  "translation": "Vei mér, að ég dvaldist meðal Mesjek, að ég bjó með tjöldum Kedar!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/120\/5-7.1792410867044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Vei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "dvaldist"
+    },
+    {
+      "surface": "משך",
+      "gloss": "meðal Mesjek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "bjó"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "tjöldum"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:27.044941345Z",
+  "model": "glm-5.3"
+}

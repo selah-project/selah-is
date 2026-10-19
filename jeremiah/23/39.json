@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 23:39",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונשיתי ... נשא",
+      "rationale": "נשה (gleyma) og נשא (flytja burt\/leita illa) hljóma eins — óþýðanleg orðvíxl í íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשא",
+      "rationale": "Nánar orð: 'gleyma ykkur uppnema' (KJV 'utterly forget') á móti 'rífa ykkur upp burt' (JPS 'tear you out') — óákveðinn hættir samsíða sögninni."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נשא",
+      "rationale": "Þetta er eina staðurinn þar sem נשא (leita illa\/flytja burt) stendur sem óákveðinn hættir við נשה í Tanakh."
+    }
+  ],
+  "translation": "Þess vegna — sjá, mun ég gleyma ykkur ⟨את⟩ burtflytjandi, og ég mun yfirgefa ⟨את⟩ ykkur og ⟨את⟩ borgina, þeirri er ég gaf ykkur og feðrum ykkar, út af andliti mínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b1953ae5e5b461c25149f3fb84f090c833c3186fc98f33f5586d2bb99316c304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/37-40.1792405941323.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "sjá, ég"
+    },
+    {
+      "surface": "ונשיתי",
+      "gloss": "mun ég gleyma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "gleyming ykkar"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "burtflytjandi"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "og ég mun yfirgefa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "yfirgefning ykkar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "borgina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gaf ég"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "og feðrum ykkar"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "út af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti mínu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:32:21.324666918Z",
+  "model": "glm-5.3"
+}

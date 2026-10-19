@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נגד er 'gagnvart\/andspænis' — 'áður en' er staðgengill; 'andspænis konungum' er bókstæfara"
+    }
+  ],
+  "translation": "Og ég mun tala um vottorð þín áður en konungum, og ekki mun ég skammast mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/45-48.1792410794789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "og ég mun tala"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "um vottorð þín"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konungum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mun ég skammast mín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:14.789814975Z",
+  "model": "glm-5.3"
+}

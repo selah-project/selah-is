@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החרם תחרים",
+      "rationale": "nafnháttar endurtekning (infinitivus absolutus): sögn endurtekn tvisvar til áherslu — 'banna skalt þú banna'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "'setja í bann' (helga eyðingu) á móti 'útrýma' — margar þýðingar velja síðara og missa bann-hugtakið"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "bókstaflega 'skera sáttmál' — sáttmálar voru skorðar með því að ganga milli kjötstykkja"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "beint boð til lýðsins í öðru persónufalli (þú\/þér)"
+    }
+  ],
+  "translation": "og Jahve, Elóhím þinn, gefur þá undir augliti þínu og þú slærð þá — banna skalt þú banna ⟨את⟩ þá — þú skalt ekki skera þeim sáttmál og ekki sýna þeim náð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/7\/1-4.1792397770982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "og hann gefur þá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "undir augliti þínu"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "og þú slærð þá"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "banna"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "skalt þú banna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skalt þú skera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmál"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "sýna þeim náð"
+    }
+  ],
+  "timestamp": "2026-10-19T08:16:10.983489533Z",
+  "model": "glm-5.3"
+}

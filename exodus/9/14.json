@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin „er“ í „enginn er mér jafn“ er bætt við; hebreskan segir einfaldlega אין כמני."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אל לבך",
+      "rationale": "„Að hjarta þínu“ — hebreskt myndmál fyrir „á þig sjálfan“ (JPS: „upon thy person“)."
+    }
+  ],
+  "translation": "Því að í skipti þessu sendi ég ⟨את⟩ allar plágur mínar að hjarta þínu, og á þjóna þína og á lýð þinn, til þess að þú vitir að enginn ⟨er⟩ mér jafn á allri jörðinni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c415027e0b7c37f18d6118a581063d4f1209b3383bd695b38e4ccf74204f6cd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/13-16.1792394279294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "í skipti"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "plágur mínar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hjarta þínu"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "og á þjóna þína"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "og á lýð þinn"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "þú vitir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "mér jafn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "á allri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:59.294840130Z",
+  "model": "glm-5.3"
+}

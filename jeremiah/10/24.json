@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באפך",
+      "rationale": "Orðrétt 'í nösum þínum' — mynd reiðinnar; 'í reiði þinni' tekð."
+    },
+    {
+      "kind": "crux",
+      "subject": "תמעטני",
+      "rationale": "'minnka mig' (YLt, JPS) gegn 'gera mig að engu' (KJV); rótin er að skera af, gera minna."
+    }
+  ],
+  "translation": "Túra mig, Jahve, en aðeins í dómi, ekki í reiði þinni, að þú minnki mig ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/10\/21-24.1792405480730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "túra mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "en aðeins"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "í dómi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "í reiði þinni"
+    },
+    {
+      "surface": "פן",
+      "gloss": "að ... ekki"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "þú minnki mig"
+    }
+  ],
+  "timestamp": "2026-10-19T10:24:40.731792771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "נשא את ראש „lyfta höfði“ er hebreskt orðatiltæki fyrir manatal — hér „leysa höfuð“ til að halda myndinni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Fyrsta manntals skipunin: tölusetju nafna, karlmanns, höfuðkúpu fyrir höfuðkúpu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Fyrstumynd שאו beinist að Mósje og Aharon — óbeint boð um manntal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גלגלת er höfuðkúpa — „höfuðkúpu þeirra“ í stað „sálu“ eða „hvers og eins“"
+    }
+  ],
+  "translation": "Leysið ⟨את⟩ höfuð alls söfnuðar sona Ísraels, eftir ættum þeirra, eftir feðrahusum þeirra, í tölusetju nafna, alls karlmanns, eftir höfuðkúpu þeirra —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/1-4.1792396337521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Leysið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "höfuð"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "söfnuðar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "eftir ættum þeirra"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eftir húsi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "feðra þeirra"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "í tölusetju"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nafna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karlmanns"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "eftir höfuðkúpu þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:17.522126781Z",
+  "model": "glm-5.3"
+}

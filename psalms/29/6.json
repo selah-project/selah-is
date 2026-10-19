@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "íslenska þarf frumlag; hebreskan hefur aðeins suffiksuð sagnmynd 'lætur þau'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראמים",
+      "rationale": "'villinaut' samkvæmt dýrataflu; KJV 'unicorn' er vitlaust"
+    }
+  ],
+  "translation": "Og hann lætur þau dansa eins og kálf — Líbanon, og Sirjón eins og ungt villinaut.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/29\/5-8.1792409511815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "Og lætur þau dansa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kálf"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Líbanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "og Sirjón"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ungt"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "villinaut"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:51.816417780Z",
+  "model": "glm-5.3"
+}

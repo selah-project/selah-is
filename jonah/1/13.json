@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויחתרו er bókstaflega 'bruðu sér leið' (sem um innbrotsþjóf); 'reru sig fast' varðar myndina af árum"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "הולך וסער 'gengur og hríðar' — hebreskt aukandi umsagnarfylling, endursagt sem 'gerðist æ stormviðara'"
+    }
+  ],
+  "translation": "Og menninirnir reru sig fast til að snúa aftur til þurrlendisins, en þeir gátu það ekki, því að hafið gerðist æ stormviðara á mót þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jonah\/1\/13-16.1792408596201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "reru sig fast"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "menninirnir"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "til að snúa aftur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "þurrlendisins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gátu það"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gerðist æ"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "stormviðara"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "á mót þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:36.201874495Z",
+  "model": "glm-5.3"
+}

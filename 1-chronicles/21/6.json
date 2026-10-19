@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Hér er את umsagnarforsetningin „með\/við“ ( holdsamleg við Jóab), ekki ⟨את⟩ marks aðgerðarhlutar — glossan verður „við“."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf sögnina „taldi hann“ með framkvæmdaraðila í framstöðu; hebreskan hefur aðeins sögn og neitun."
+    }
+  ],
+  "translation": "En Leví og Benjamín taldi hann ekki meðal þeirra, því að orð konungsins var ⟨את⟩ Jóab óþollegt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0f9a8426d4367a67f33caef5f2996115b2f5856fe1f7b27c698d2067078718ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/21\/5-8.1792414915367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "En Leví"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "og Benjamín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "taldi"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "meðal þeirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "óþollegt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ við"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    }
+  ],
+  "timestamp": "2026-10-19T13:01:55.368450375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "að augum",
+      "rationale": "לעינים — 'til augna' fyrir mann; myndin: hann sjálfur verður augu þeirra í eyðimörkinni."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Mjúka biðorðið נא fellur niður í 'alls ekki' — 'bidj ég' getur verið sér."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Hovav",
+      "rationale": "Mósje bður aftur með mikilli mælsku — 'farðu oss ekki úr greipum'."
+    }
+  ],
+  "translation": "Og hann sagði: Farðu oss alls ekki úr greipum ⟨את⟩, því að þú veist, hvar vér tjaldrist í eyðimörkinni, og þú munt vera okkur að augum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/10\/29-32.1792396662384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ó, bidj ég"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "farðu ... úr greipum"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "okkur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "það"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "þú veist"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "hvar vér tjaldrist"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "og þú munt vera"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "okkur"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "að augum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:57:42.385611480Z",
+  "model": "glm-5.3"
+}

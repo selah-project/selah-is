@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 5:4",
+  "book": "job",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copúlan 'er' í síðasta lið er íslenska bætir við — hebreskan segir aðeins 'og enginn frelsandi'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מישע",
+      "rationale": "Formið מישע (með jód) stendur aðeins hér — 'hjálp\/frelsi'."
+    }
+  ],
+  "translation": "Synir hans verða fjarri hjálp, og þeir eru krambnaðir í hliðinu, og ⟨það⟩ er enginn til að frelsa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/5\/1-4.1792411889484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירחקו",
+      "gloss": "verða fjarri"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synir hans"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "hjálp"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "og eru krambnaðir"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "í hliðinu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨það⟩ er enginn"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "til að frelsa"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:29.485957643Z",
+  "model": "glm-5.3"
+}

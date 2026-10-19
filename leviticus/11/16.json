@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בת היענה",
+      "rationale": "'dóttir úlfaldsins' — þýðing á strúts eða ugla; hebreska segir bókstaflega 'dóttur Ya'ana'."
+    },
+    {
+      "kind": "crux",
+      "subject": "התחמס",
+      "rationale": "'ofsafugllinn' — hugsanlega ugla eða náttfugl; NÁLÍST 'ugla' en ekki 'natt-hauk', ég nota nátt-hauk."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנץ",
+      "rationale": "'blómi' eða 'sneisa' — haukur eða fálki; nota 'sneisa' fyrir glöggvan flugfugl."
+    }
+  ],
+  "translation": "og ⟨את⟩ dóttur úlfaldins-fuglsins, og ⟨את⟩ nátt-haukinn, og ⟨את⟩ mávinn, og ⟨את⟩ sneisann, eftir sínu kyni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/13-16.1792395582323.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dóttur úlfaldins-fuglsins"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttur"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "úlfaldins-fuglsins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "nátt-haukinn"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "nátt-haukinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "mávinn"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "mávinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sneisann"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "sneisann"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "eftir sínu kyni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:42.325744568Z",
+  "model": "glm-5.3"
+}

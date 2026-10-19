@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "neitt bætt við til skýringar; hebreskan segir bara „ekki girnst“"
+    },
+    {
+      "kind": "you",
+      "subject": "to God",
+      "rationale": "skáldið talar beint til Guðs"
+    }
+  ],
+  "translation": "Hver er fyrir mér í himninum? Og með þér hef ég eigi girnst ⟨neitt⟩ á jörðinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/73\/25-28.1792410142441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mér"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "í himninum"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Og með þér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "hef ég girnst"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "á jörðinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:22.442509468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 58:7",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hann⟩",
+      "rationale": "hebreska setur andlag ekki; íslenska krefst þess"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨þig⟩",
+      "rationale": "sögnin עלם er endursöguð — 'dula' — en hebreska hefur ekki ábendingarfornafn"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "bein áskorun um miskunnsemi við náungann"
+    }
+  ],
+  "translation": "Holdur er það ekki að brytja brauð þitt fyrir hungruðum, og útsetta fátækka leiða inn í hús? Þegar þú sérð nakið, þá hylur þú ⟨hann⟩, og af holdi þínu dulir þú ⟨þig⟩ ekki?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c2ac31c7a99b205ef5f6b8406a9173a151a610a15e2e41c12ab872cbf91b073f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/58\/5-8.1792405074959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Holdur er... ekki"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "að brytja"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "fyrir hungruðum"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "brauð þitt"
+    },
+    {
+      "surface": "ועניים",
+      "gloss": "og fátækka"
+    },
+    {
+      "surface": "מרודים",
+      "gloss": "útsetta"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "leiða inn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í hús"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "þú sérð"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "nakið"
+    },
+    {
+      "surface": "וכסיתו",
+      "gloss": "þá hylur þú"
+    },
+    {
+      "surface": "ומבשרך",
+      "gloss": "og af holdi þínu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "dulir þú"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:54.960326578Z",
+  "model": "glm-5.3"
+}

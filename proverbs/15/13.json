@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח merkir vind, andardrátt og lífsandi í senn — hér lífsandi hins slægða, ritað eftir hljóði samkvæmt reglu D2"
+    },
+    {
+      "kind": "addition",
+      "subject": "í",
+      "rationale": "Íslenska þarf viðtengingu 'í hjarta' þar sem hebreskan segir aðeins 'sorg hjarta'"
+    }
+  ],
+  "translation": "Glað hjarta gerir faldið gott, en við sorg í hjarta er rúakh höggvin.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/15\/13-16.1792411421205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "glað"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gerir gott"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "faldið"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "en við sorg"
+    },
+    {
+      "surface": "לב",
+      "gloss": "í hjarta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "höggvin"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:41.205618830Z",
+  "model": "glm-5.3"
+}

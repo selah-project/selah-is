@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hún' (Mikal) bætt við — hebreskan hefur aðeins sagði."
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul's messengers",
+      "rationale": "Mikal svarar sendiboðunum með beinni fullyrðingu: 'Veikur er hann.'"
+    }
+  ],
+  "translation": "Og Sjaul sendi sendiboða til að sækja ⟨את⟩ Davíð, en hún sagði: Veikur er hann.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/19\/13-16.1792400682384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og Sjaul sendi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "sendiboða"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "til að sækja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en hún sagði"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "Veikur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    }
+  ],
+  "timestamp": "2026-10-19T09:04:42.385745930Z",
+  "model": "glm-5.3"
+}

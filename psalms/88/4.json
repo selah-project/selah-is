@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er önd\/ lífskraftur — kviðslángur og lífsgjörðing — ekki ódauðleg sál í síðari merkingu."
+    },
+    {
+      "kind": "crux",
+      "subject": "Sjeól",
+      "rationale": "Sjeól er grafin heimild dauðra — aldrei 'helvíti' eða refsingarstaður; hér haldið sem heiti."
+    }
+  ],
+  "translation": "Því að sáldjáfull — sál mín — er sadd af illskum, og líf mitt hefur náð til Sjeóls.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/88\/1-4.1792410352963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "er sadd"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "af illskum"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "og líf mitt"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "til Sjeóls"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "hefur náð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:52.964185303Z",
+  "model": "glm-5.3"
+}

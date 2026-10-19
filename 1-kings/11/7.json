@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "על פני — bókstaflega 'á andliti\/á móti', þýtt 'gagnvart'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'liggur' bætt við — íslenska þarf sagnorð í aukasetningunni"
+    },
+    {
+      "kind": "crux",
+      "subject": "Mólek",
+      "rationale": "מלך hér (Mólek) gegn מלכם (Mílkóm) í v.5 — sama guð, tvö nöfn í sömu kafla"
+    }
+  ],
+  "translation": "Þá reisti Sjelómó háþorp Kemosj, styggju Móab, á fjallinu ⟨sem liggur⟩ gagnvart Jerúsjalajím, og Mólek, styggju sona Ammón.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/11\/5-8.1792402329250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "reisti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelómó"
+    },
+    {
+      "surface": "במה",
+      "gloss": "háþorp"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "Kemosj"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "styggju"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "á fjallinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "פני",
+      "gloss": "á móti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "og Mólek"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "styggju"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammón"
+    }
+  ],
+  "timestamp": "2026-10-19T09:32:09.251670932Z",
+  "model": "glm-5.3"
+}

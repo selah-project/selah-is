@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בור er graf eða dígræfi; »grafhýsi“ er túlkað, orðið sjálft er gat eða hola"
+    },
+    {
+      "kind": "crux",
+      "subject": "תחרש",
+      "rationale": "חרש merkir bæði að þegja og að vera daufur; ýmis þýðenda velja »daufur“"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Davíð ávarpar Jahve beint í bæn"
+    }
+  ],
+  "translation": "Af Davíð. Til þín, Jahve, kalla ég; klettur minn, verðu ekki þögull gagnvart mér, svo að þú hegir þá þegjandi frá mér, og ég verði líkt þeim sem fara niður í grafhýsi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/28\/1-4.1792409541090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af Davíð"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kalla ég"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "klettur minn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "verðu þögull"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gagnvart mér"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að ekki"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "þú hegir þegjandi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "og ég verði líkt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "þeim sem fara niður"
+    },
+    {
+      "surface": "בור",
+      "gloss": "í grafhýsi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:21.091557257Z",
+  "model": "glm-5.3"
+}

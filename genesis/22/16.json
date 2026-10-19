@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בי",
+      "rationale": "bókstaflega 'í mér' — eiðsvör Guðs við sjálfan sig, endursagt sem 'við sjálfan mig'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ממני",
+      "rationale": "sum handrit og þýðingar bæta við 'frá mér' — hebresk grunntexti 22:16 hefur það ekki"
+    },
+    {
+      "kind": "you",
+      "subject": "to Avraham",
+      "rationale": "engill Jahve talar beint til Avrahams í aðra sinn"
+    }
+  ],
+  "translation": "Og hann sagði: Við sjálfan mig hef ég svarið, segir Jahve, að þar sem þú gerðir ⟨את⟩ þetta málefni og hélt ekki eftir ⟨את⟩ syni þínum, ⟨את⟩ einasta þínum —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/22\/13-16.1792393085191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Við sjálfan mig"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "hef ég svarið"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "יען",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "þú gerðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þetta málefni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "þetta málefni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "hélt eftir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syni þínum"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "syni þínum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "einasta þínum"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "einasta þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T06:58:05.192985706Z",
+  "model": "glm-5.3"
+}

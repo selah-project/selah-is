@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 7:14",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הדודאים",
+      "rationale": "מַנְדְּרַגּוֹר: orðið 'ástarjurt' (mandrake) kemur aðeins fyrir hér og í 1. Mós 30"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דודאים\/דודי",
+      "rationale": "ástarjurtirnar (dudaim) og 'elskaði minn' (dodi) hljóma eins — orðaleikur sem tapast í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "megadim",
+      "rationale": "'góðir ávextir' fyrir מגדים — sjaldgæft orð um útvöld gæði, ekki síst ávextir"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þágufallsþýðing 'eru' bætt við — hebreska hefur ekki sögn í aukasetningunni"
+    }
+  ],
+  "translation": "Ástarjurtirnar gefa ilm, og við dyrrar okkar eru alls konar góðir ávextir, nýjir og einnig gamlir; elskaði minn, ég hef geymt þeim fyrir þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/7\/13-14.1792412687700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדודאים",
+      "gloss": "ástarjurtirnar"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gefa"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ilm"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og við"
+    },
+    {
+      "surface": "פתחינו",
+      "gloss": "dyrrar okkar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls konar"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "góðir ávextir"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nýjir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "gamlir"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "elskaði minn"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "hef ég geymt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:47.701044123Z",
+  "model": "glm-5.3"
+}

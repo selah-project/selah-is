@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨þá⟩ er sett inn; hebreskan segir aðeins 'og settu á herðarhlutana'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המשבצות",
+      "rationale": "Filigran-innsætningar; 'smíðahnokkar' eða 'festingar' eru yfirfærslur á hlutverk, ekki mynd."
+    }
+  ],
+  "translation": "Og ⟨את⟩ endana á þeim tveimur fléttuðu böndunum skaltu setja á tvo innsætningarnar, og settu ⟨þá⟩ á herðarhluta eifóðsins að framan, upp á móti andliti þess.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1e1f22d9ed16ddccde73bda8ae0d392a85cc4a72c69f9457bbf7e35b20985a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/28\/25-28.1792394982538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "endana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "þeim tveimur"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "endana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tveggja"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "fléttuðu böndunum"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skaltu setja"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tvo"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "innsætningarnar"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "og settu"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "herðarhluta"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "eifóðsins"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "מול",
+      "gloss": "upp á móti"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "andliti þess"
+    }
+  ],
+  "timestamp": "2026-10-19T07:29:42.539179733Z",
+  "model": "glm-5.3"
+}

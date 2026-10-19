@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב מחולל כל",
+      "rationale": "Frægt deigilt mál: 'margfriður sárar allt' (ASV bogskytta-lestur) á móti 'hinn mikli myndari alls hlutar' (KJV, lesið רב\/חולל sem titla á Elóhím) — hebreskan sjálf er tvíræð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogskytta",
+      "rationale": "רב lesið hér af rót רבב (skjóta örvum), ekki 'mikill'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עברים",
+      "rationale": "'farandmenn' — þeir sem fara hjá, tilfallandi vegfarendur"
+    }
+  ],
+  "translation": "Sem bogskytta sem sárar ⟨alla⟩ — svo er sá sem leigur heimskan mann og sá sem leigur farandmenn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4533ddaae0b4b6d54dd5f4a8c5e400da0f15d613a40371a80e1f266db3882565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/26\/9-12.1792411618570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "bogskytta"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "sárar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og sá sem leigur"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "heimskan mann"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og sá sem leigur"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "farandmenn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:58.571565710Z",
+  "model": "glm-5.3"
+}

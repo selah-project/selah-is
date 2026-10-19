@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Elóhím í fleirtölu",
+      "rationale": "Filistíar tala um Elóhím sem fleirtölu ('þessara öflugu', 'þetta eru ... sem slógu') — hebreska myndin varðveitt, ekki 'Guð' í eintölu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "í eyðimörkinni",
+      "rationale": "Hebreskan segir að plágurnar gerðust 'í eyðimörkinni' þótt Exodufrásögnin staðsetti þær í Mitsrajím — textinn heldur orðum Filista óbreytt."
+    }
+  ],
+  "translation": "Vei okkur! Hver mun frelsa okkur úr hendi þessara öflugu Elóhím? Þetta eru Elóhím sem slógu ⟨את⟩ Mitsrajím með hverri plágu í eyðimörkinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/4\/5-8.1792400271013.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Vei"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "okkur"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "mun frelsa okkur"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "öflugu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessara"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eru"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "sem slógu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajím"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með hverri"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "plágu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:51.016166560Z",
+  "model": "glm-5.3"
+}

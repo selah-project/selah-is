@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 2:23",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er lifsafli og andardráttur, ekki sál í sealíkingu; „með lífi sínu“ heldur myndinni."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sáttareiðurinn",
+      "rationale": "„Svo mugi Elóhím gjöra mér og svo megi hann af“ — hebreskt eiðisorð, málsgrein án „ef“."
+    }
+  ],
+  "translation": "Þá sór konungur Sálomon við Jahve og sagði: Svo mugi Elóhím gjöra mér, og svo megi hann af næstum, að Adoníjahú hefur ⟨með⟩ lífi sínu talað ⟨את⟩ þetta orð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/2\/21-24.1792401938197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Þá sór"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sálomon"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "við Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Svo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mugi gjöra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "og svo"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "megi hann af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "með lífi sínu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hefur talað"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoníjahú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þetta orð"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "þetta orð"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T09:25:38.199158922Z",
+  "model": "glm-5.3"
+}

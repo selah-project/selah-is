@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אראה בשנאי",
+      "rationale": "Bókstaflega 'sjá þá sem hata mig' — hér í merkingunni 'sigrast á, láta augu líðast yfir'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בעזרי",
+      "rationale": "Líka lesanlegt sem 'meðal hjálpara minna' — hálfgerð mynd af Jahve sem umkringir mælanda."
+    }
+  ],
+  "translation": "Jahve er með mér meðal hjálparanna, og ég ⟨skal⟩ sjá ⟨niður⟩ á þeim sem hata mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/118\/5-8.1792410746695.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "er með mér"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "meðal hjálparanna"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "skal sjá"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "á þeim sem hata mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:26.696677179Z",
+  "model": "glm-5.3"
+}

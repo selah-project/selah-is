@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨burt⟩ bætt við — נשא hér merkir 'bera burt\/fyrirgefa', en myndin er 'lyfta'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושא",
+      "rationale": "'ber' (y literal) vs 'fyrirgefa' (kgl\/alið) — nasa' er orð myndar, ekki fyrirgefningarorð"
+    }
+  ],
+  "translation": "Sjá þjáningu mína og erfiði minn, og ber allt missað mitt ⟨burt⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/25\/17-20.1792409484790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "þjáningu mína"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "og erfiði minn"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "og ber"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "missað mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:24.791254919Z",
+  "model": "glm-5.3"
+}

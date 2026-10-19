@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 30:16",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "siður",
+      "rationale": "משפט er „dómur\/réttur“ — „siður“ valið þar sem textinn segir um framkvæmd reglu við hátíðina"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרקים",
+      "rationale": "partípurfylling — „stökkuðu\/blutuðu blóðinu“; JPS les „dashed“ (slettu), KJV „sprinkled“ (stökkuðu)"
+    }
+  ],
+  "translation": "Og þeir stóðu á stöðu sinni eftir sínum sið, eftir Tóru Mósje, manns Elóhím; prestarnir stökkuðu ⟨את⟩ blóðinu úr hendi Levítanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/30\/13-16.1792416002146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "og þeir stóðu"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "stöðu sinni"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "eftir sínum sið"
+    },
+    {
+      "surface": "כתורת",
+      "gloss": "eftir Tóru"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "זרקים",
+      "gloss": "stökkuðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóðinu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blóðinu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítanna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:20:02.148014563Z",
+  "model": "glm-5.3"
+}

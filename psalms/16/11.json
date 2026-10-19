@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את פניך",
+      "rationale": "את hér er forsetningin 'með\/nær', gefin ⟨את⟩ sem merki"
+    },
+    {
+      "kind": "addition",
+      "subject": "í",
+      "rationale": "forsetning bætt við fyrir נצח sem stendur eins og atviksorð"
+    }
+  ],
+  "translation": "Þú gjörir mér kunnan veg lífsins, mettun gleðna ⟨את⟩ andliti þínu, lústrar í hægri hendi þinni ⟨ í eilíð⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/16\/9-11.1792409284828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Þú gjörir mér kunnan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "veg"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lífsins"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "mettun"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "gleðna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andliti þínu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andliti þínu"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "lústrar"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "í hægri hendi þinni"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "í eilíð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:04.829742701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 17:18",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnirnar „skal vera“, „skalt“ og fornafnið ⟨það⟩ eru íslensk viðbót við ófullkomnar hebreskar setningar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "eigja",
+      "rationale": "תוריש er hiphil af ירשׁ: að láta eignast, drífa út og taka land — „eigna“ heldur lögmálsmyndinni en „drífa burt“ eingöngu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "útvegar",
+      "rationale": "תוצאות er „útgöngur“ — landfræðileg ystu mörk svæðisins."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובראתו",
+      "rationale": "ברא hér „höggva niður (skóg)“ eftir samhengi; rótin er söm og „skapa“."
+    }
+  ],
+  "translation": "Því að fjallið skal vera þitt — því að það er skógur, og þú skalt höggva ⟨það⟩ niður, og útvegar þess skulu vera þínir; því að þú skalt eigja ⟨את⟩ Kanaanítann, þótt járnvagnar séu honum og þótt hann sé sterkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f4d9312c103e6fac3cbec9b16fdb5b98e4db2bbbb2d4045b1b040543780c8568",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/17\/17-18.1792399182941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "הר",
+      "gloss": "fjallið"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יער",
+      "gloss": "skógur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það"
+    },
+    {
+      "surface": "ובראתו",
+      "gloss": "og þú skalt höggva ⟨það⟩ niður"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og skulu vera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þínir"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "útvegar þess"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תוריש",
+      "gloss": "þú skalt eigja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanítann"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanítann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "járn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sterkur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T08:39:42.942025649Z",
+  "model": "glm-5.3"
+}

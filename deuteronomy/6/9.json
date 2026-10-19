@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„þær“ bætt við — hebreska safnliðið vísar til boðanna í 5. Mós 6:6–8"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "beint átal til Ísraels í fleirtölu þú"
+    }
+  ],
+  "translation": "Og þú skalt rita ⟨þær⟩ á dyrastafi húss þíns og á hlið þín.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/9-12.1792397659300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "og þú skalt rita"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "dyrastafi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "húss þíns"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "og á hlið þín"
+    }
+  ],
+  "timestamp": "2026-10-19T08:14:19.301528380Z",
+  "model": "glm-5.3"
+}

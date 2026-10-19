@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אותו",
+      "rationale": "אותו hér er 'með honum' (af עם + viðskeyti), ekki beint andlag — en samt varðveitt sem ⟨את⟩-merki."
+    },
+    {
+      "kind": "you",
+      "subject": "til Elía",
+      "rationale": "Engill Jahve vitjar Elía með boði og hvetningu: 'stíg niður... óttast ekki'."
+    }
+  ],
+  "translation": "Og engill Jahve talaði til Elía: Stíg niður ⟨את⟩ honum, óttast hann ekki. Og hann reis upp og sté niður ⟨את⟩ honum til konungsins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/1\/13-16.1792402871983.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "talaði"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "engill"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elía"
+    },
+    {
+      "surface": "רד",
+      "gloss": "stíg niður"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "honum (með honum, til konungsins)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "óttastu"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "reis upp"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "sté niður"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "honum (með honum)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:41:11.984271728Z",
+  "model": "glm-5.3"
+}

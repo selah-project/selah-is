@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "טִבְחָה er 'slátrun' — sauðfé ‹til slátrunar›, smið smiðs 'טָבַח' slátra"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "עָלֶיךָ — 'fyrir þína sakar' eða 'vegna þín' — KJF 'for thy sake', jafnvel 'á þig fellur ábyrgðin'"
+    }
+  ],
+  "translation": "Því fyrir þína sakar erum við drepin allan daginn, talin sem sauðfé ⟨til⟩ slátrunar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/44\/21-24.1792409765603.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fyrir þína sakar"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "erum við drepin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "talin"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sem sauðfé"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "⟨til⟩ slátrunar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:05.604266218Z",
+  "model": "glm-5.3"
+}

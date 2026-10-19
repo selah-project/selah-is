@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er önd\/lífskraft\/lyst, ekki ódauðleg sál; 'sálu vor' varðveitir myndina af þurrri löngun."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אל (mót, til) fellur inn í 'nema mannið fyrir augum okkar' — orðatiltækið 'augu okkar eru ekki nema á manninu'."
+    }
+  ],
+  "translation": "En nú er sálu vor þurr, ekkert er til, nema mannið ⟨fyrir augum okkar⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/11\/5-8.1792396681632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nú"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sálu vor"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "þurr"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekkert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "er til"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המן",
+      "gloss": "mannið"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "fyrir augum okkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:58:01.632929950Z",
+  "model": "glm-5.3"
+}

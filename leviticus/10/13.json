@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חק merkir tilskipun\/fast ráðstöfun, endurflt sem 'réttur' (hlutdeild) eins og eldri þýðingar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbeygingin 'er' í 'hún er' bætt við; hebreskan hefur aðeins áherslufornafnið הוא"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Mósje talar til Aharons og sona hans — beint ávarp um átöku hinna heilögu fæðu"
+    }
+  ],
+  "translation": "Og þér skuluð eta ⟨את⟩ hana á heilögum stað, því hún er réttur þinn og réttur sona þinna, af elisförum Jahve, því að svo er mér boðið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bf67e2b3f90f9e28f6eda989acfc8d6645cb3c699a410bdb77e140424d3a7f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/10\/13-16.1792395675251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Og þér skuluð eta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "á stað"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilögum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "réttur þinn"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "og réttur"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sona þinna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hún er"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "af elisförum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "er mér boðið"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:15.252466284Z",
+  "model": "glm-5.3"
+}

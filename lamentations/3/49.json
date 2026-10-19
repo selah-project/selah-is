@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "הפגות (hvíld, hlé) er aðeins hér í Tanakh — „relaxation“, uppheldslulaus grátur."
+    },
+    {
+      "kind": "substitution",
+      "subject": "þagnar",
+      "rationale": "דמה er bókstaflega „þagna“; „ceaseth“ í eldri þýðingum — gráturinn þagnar ekki."
+    }
+  ],
+  "translation": "Auga mitt fell niður og þagnar ekki, því enginn hvíld er.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/49-52.1792412785498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Auga mitt"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "fell niður"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "þagnar"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "því engin"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "hvíld"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:25.499422174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הצילם",
+      "rationale": "Aleph-tavísk merking innifalin í sögninni — glósuð sem ⟨את⟩ þá"
+    }
+  ],
+  "translation": "Þeir ölluðu og Jahve heyrði, og úr öllum þrengingum sínum frelsaði hann ⟨את⟩ þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/34\/17-20.1792409591903.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "Þeir ölluðu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "og úr öllum"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "þrengingum sínum"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "frelsaði hann ⟨את⟩ þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:11.904353575Z",
+  "model": "glm-5.3"
+}

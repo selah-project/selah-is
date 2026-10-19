@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "telda",
+      "rationale": "ספר 'að telda\/skora merki' — talning er mynd versins."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'er' og 'eru' bætt við — hebreskan setur ekki svipaða sagn við lýsingarhætti."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ועודי עמך",
+      "rationale": "JPS les 'kæmi ég að enda þeirra, væri ég enn hjá þér' — 'enn' sem tíma í stað vakningar."
+    }
+  ],
+  "translation": "Ef ég telda þá — eru þeir fleiri en sandkornin; ég vakna og er enn hjá þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/17-20.1792410997598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "ef ég telda þá"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "en sandkornin"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "eru þeir fleiri"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ég vakna"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "og er enn"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hjá þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:37.598740236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 10:19",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ראש 'höfuð' → 'bakhluti'; 'toppur' eins og KJV heldur ekki mynd hásætsins"
+    },
+    {
+      "kind": "crux",
+      "subject": "hands",
+      "rationale": "ידות 'hendur' — 'handleggir' (JPS) móti 'stoðir' (KJV\/ASV)"
+    }
+  ],
+  "translation": "Sex þrep ⟨voru⟩ að hásætinu, og kringlóttur bakhluti á hásætinu að aftan, og handleggir héðan og þaðan að setstaðnum, og tvö ljón ⟨stóðu⟩ við handleggina.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "aa85a347f72d086af1caf588e5928633547ae18e6542226d11216aa440fbe02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/10\/17-20.1792402233475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Sex"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "þrep"
+    },
+    {
+      "surface": "לכסה",
+      "gloss": "að hásætinu"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "og bakhluti"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kringlóttur"
+    },
+    {
+      "surface": "לכסה",
+      "gloss": "á hásætinu"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "að aftan"
+    },
+    {
+      "surface": "וידת",
+      "gloss": "og handleggir"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "héðan"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "og þaðan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "stað"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sets"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "og tvö"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "ljón"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stóðu"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "við"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "handleggina"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:33.476567948Z",
+  "model": "glm-5.3"
+}

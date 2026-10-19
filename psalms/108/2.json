@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Tilkall „ég vil“ bætt við fyrir íslenska sagnleidingu; hebreskan notar cohurtatív-myndina."
+    },
+    {
+      "kind": "crux",
+      "subject": "כבודי",
+      "rationale": "„dýrð mín“ — sumir lesa það sem „sálina alla“ eða tunguna; orðið þýðir bókstaflega þunga\/dýrð."
+    }
+  ],
+  "translation": "Búið er hjarta mitt, ó Elóhím; ég vil syngja, já, ég vil syngja lof, einnig dýrð mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/108\/1-4.1792410682490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Búið"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ég vil syngja"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "já, ég vil syngja lof"
+    },
+    {
+      "surface": "אף",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "dýrð mín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:22.491521605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 12:4",
+  "book": "job",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שחק … שחוק",
+      "rationale": "hláturinn kemur tvisvar, í fyrstu og síðustu röð versins — innrömmun sem íslenskan heldur með 'að hlátr'"
+    },
+    {
+      "kind": "crux",
+      "subject": "hver hlær að hverjum",
+      "rationale": "er Iób hlátur fyrir vini sínum, eða er 'sá sem kallar á Elóa' vitnað eins og orðatiltæki vina hans? þýðingar skiptast í tvo herbergi"
+    },
+    {
+      "kind": "addition",
+      "subject": "mér",
+      "rationale": "íslenska þarf andlagið 'mér' í 'svarar mér' þótt hebreskan hafi aðeins suffiksfestið svarið"
+    }
+  ],
+  "translation": "Að hlátr fyrir náunga sínum verð ég, ég sem kalla á Elóa og hann svarar mér; að hlátr verður sá sem er réttlátur og fullkominn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/12\/1-4.1792411984809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחק",
+      "gloss": "Að hlátr"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "fyrir náunga sínum"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "verð ég"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kalla"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "á Elóa"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "og hann svarar mér"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "að hlátr"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "réttlátur"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fullkominn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:04.810712552Z",
+  "model": "glm-5.3"
+}

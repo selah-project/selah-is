@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלמות",
+      "rationale": "Hapax: „hvíta eggssins“ (KJV\/ASV), „saft malva“ (JPS), „hráki drauma“ (ylt, tengt חלום) — orðið er óvíst; hebreska formið bendir til חלם, draums."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלמות",
+      "rationale": "Aðeins hér í Tanakh."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨drauma⟩ bætt við til að gera mynd חלמות skiljanlega."
+    }
+  ],
+  "translation": "Er bragðlaust étanda án salts? Er nokkurt bragð í slínkjunni?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bc15c18360dae2cf19fcd8580154c190ebe68ae9cf2a15c4e2c0f0a8f6275a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/6\/5-8.1792411904284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "er étanda"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "bragðlaust"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "án"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "salts"
+    },
+    {
+      "surface": "אם",
+      "gloss": "?"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "bragð"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "í slínkjunni"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "⟨drauma⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:44.284867695Z",
+  "model": "glm-5.3"
+}

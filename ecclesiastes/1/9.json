@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki sögn í síðasta lið; íslenska þarf viðtengingu 'er'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היה\/יהיה",
+      "rationale": "Endurtekning hinna sögu verba skapar hringmynd sem týnist ekki í íslensku"
+    }
+  ],
+  "translation": "Það sem var, ⟨það⟩ er það sem verður, og það sem gjört var, ⟨það⟩ er það sem gjört verður, og ekkert er nýtt undir sólinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/1\/9-12.1792412914332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "var"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og það sem"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "gjört var"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "gjört verður"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ekkert er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nokkurt"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nýtt"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólinni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:28:34.332845669Z",
+  "model": "glm-5.3"
+}

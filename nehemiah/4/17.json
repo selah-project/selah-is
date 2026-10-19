@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 4:17",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המים",
+      "rationale": "Háþyrmt frasi: „sær sinn — vatnið“; JPS les „sá sem fór að vatni“ (vopnaður), aðrar þýðingar lesa skjótt „vatnið“ sem merki um herðatryggingu — hebreskan sleppur samskeytunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin „bar“ og „þegar hann fór“ er bætt við — hebreskan segir aðeins „hver sær sinn vatnið“."
+    },
+    {
+      "kind": "elision",
+      "subject": "אין … אין",
+      "rationale": "Tvítekið neitunarorð („enginn … enginn“) fellur saman í eitt „hverki … ekki“ á íslensku."
+    }
+  ],
+  "translation": "Og hverki ég, né bræður mínir og sveinar mínir og menn vaktarins sem á eftir mér, vér tókum ekki af klæðum okkar; hver ⟨bar⟩ sær sinn ⟨þegar hann fór⟩ að vatninu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f9519dbd50501233146a8189dabccccc38a30f3ad296efe85560628bcb5b4a73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/4\/17-17.1792414082456.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "og hverki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "bræður mínir"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "sveinar mínir"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "menn"
+    },
+    {
+      "surface": "המשמר",
+      "gloss": "vaktarins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "á eftir"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vér"
+    },
+    {
+      "surface": "פשטים",
+      "gloss": "tókum af"
+    },
+    {
+      "surface": "בגדינו",
+      "gloss": "klæðum okkar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sær sinn"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnið"
+    }
+  ],
+  "timestamp": "2026-10-19T12:48:02.457263903Z",
+  "model": "glm-5.3"
+}

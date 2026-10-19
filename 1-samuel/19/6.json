@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה אם יומת",
+      "rationale": "eiðmynd: 'svo Jahve lifir, ef...' — neitunin felst í eiðnum sjálfum, 'ekki' er bætt við á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "ekki",
+      "rationale": "hebreska segir aðeins 'ef hann er tekinn af lífi'; neitunin kemur úr eiðsforminni"
+    }
+  ],
+  "translation": "Og Sáúl hlýddi á rödd Jónatans, og Sáúl sór: Svo Jahve lifir, að hann skal ekki deyja.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "93b61dc700d1f3f9b8c84bf8bda5e2a6fee13c935846209be3bf674ebf45ffbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/19\/5-8.1792400686256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "og hlýddi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sáúl"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "á rödd"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatans"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "og sór"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sáúl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "að"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hann skal ekki deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T09:04:46.257044458Z",
+  "model": "glm-5.3"
+}

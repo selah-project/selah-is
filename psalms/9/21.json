@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מורה lesið 'ótti' (sbr. jps\/bsb); ylt les 'stjórnanda' af rótinni מורה — fræg tvíræðni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אנוש er 'dauðlegur maður' í móti feitletraða orðinu אדם — 'mannlegar, dauðlegar'"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "סלה er tónlistarmerki, haft óþýtt sem 'Sela'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "margmæli: 'set ótta' (orðröð JPS) eða 'set einhvern til að stjórna' (YLT) — rót מורא\/מורה"
+    }
+  ],
+  "translation": "Set þú, Jahve, ótta yfir þá, svo að þjóðirnar viti að ⟨þær⟩ eru aðeins mannlegar — Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/9\/21-21.1792409272357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Set þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ótta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yfir þá"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "viti"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mannlegar (dauðlegar)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þær"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:52.357580358Z",
+  "model": "glm-5.3"
+}

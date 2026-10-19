@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þú bætt við í tveimur setningum — hebreskan hefur berar sagnir með viðtengingu, ennfremur 'mun' til framtíðar."
+    },
+    {
+      "kind": "elision",
+      "subject": "יחסלנו",
+      "rationale": "endingin -נו (það) er tekin sem 'það' í seinna setningareinki, en sambandið við sáðið er óbeint."
+    }
+  ],
+  "translation": "Mikið sáð munt þú flytja út á akurinn, en litlu munt þú safna, því að engisleggjan mun éta ⟨את⟩ það.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7446c393efcae7bf9f3708f02514d8b31cf7c3f151eabb4474f707ba44fca65f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/37-38.1792416494745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "sáð"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mikið"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "munt þú flytja út"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "á akurinn"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "en litlu"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "munt þú safna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "mun éta"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "engisleggjan"
+    }
+  ],
+  "timestamp": "2026-10-19T13:28:14.746174678Z",
+  "model": "glm-5.3"
+}

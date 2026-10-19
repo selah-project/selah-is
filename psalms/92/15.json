@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ákveðinn greinir 'þær' bætt við; hebreska segir aðeins דשנים ורעננים יהיו"
+    }
+  ],
+  "translation": "Þeir bera enn ávöxt í elli, feitar og grænar verða þær.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/92\/13-16.1792410435500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "bera þeir ávöxt"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "í elli"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "feitar"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "og grænar"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "verða þær"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:15.501006789Z",
+  "model": "glm-5.3"
+}

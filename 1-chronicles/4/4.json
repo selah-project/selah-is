@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Sagnorð sem hebreska sleppir í ættaskrá — bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Bet-Lekhem",
+      "rationale": "בית og לחם tvö orð í hebresku („hús brauds“) — eitt nafn í annarri kröfu í slut? ekki, eitt nafn á íslensku"
+    }
+  ],
+  "translation": "Og Pnúel var faðir Gedór, og Ézer faðir Khúsja — þetta eru synir Khurs, frumgetinn Efrata, faðir Bet-Lekhem.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/4\/1-4.1792414535526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "Og Pnúel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faðir"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Gedór"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "og Ézer"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faðir"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "Khúsja"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Khurs"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "frumgetinn"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efrata"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faðir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-Lekhem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-Lekhem"
+    }
+  ],
+  "timestamp": "2026-10-19T12:55:35.527235479Z",
+  "model": "glm-5.3"
+}

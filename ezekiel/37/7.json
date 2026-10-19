@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 37:7",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mér",
+      "rationale": "„sem mér var boðið“ — íslenskan þarf þolmynd með öðru persónuorði; hebreskan segir aðeins „sem ég var boðin“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצם אל עצמו",
+      "rationale": "Endurtekningin bein-við-bein — beinin koma saman bein til beins, myndrænt auð í hebresku sem íslenska heldur með sömu endurtekningu"
+    }
+  ],
+  "translation": "Og ég spáði sem mér var boðið, og varð glyr, meðan ég spáði, og sjá, skjálfti, og beinin nálguðust, bein við bein sitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e6a313541929b181b1c3d67babc9d5f304031c945bf25cb8296c59a2368c9ab7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/37\/5-8.1792407706137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבאתי",
+      "gloss": "Og ég spáði"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "var mér boðið"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "קול",
+      "gloss": "glyr"
+    },
+    {
+      "surface": "כהנבאי",
+      "gloss": "meðan ég spáði"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "skjálfti"
+    },
+    {
+      "surface": "ותקרבו",
+      "gloss": "og nálguðust"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "beinin"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "bein"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "bein sitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:01:46.138955494Z",
+  "model": "glm-5.3"
+}

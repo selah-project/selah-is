@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יברכוכה",
+      "rationale": "'lofa' fyrir ברך, sem þýðir bókstaflega 'biðja vel fyrir' — 'vekja á gæfu'; á íslensku er 'lofa' náttúrulegasta frammkvæmd lofsbænar"
+    },
+    {
+      "kind": "addition",
+      "subject": "munu",
+      "rationale": "íslenska þarf hjásvörun sem hebreskan felur í sérnaframsögninni"
+    }
+  ],
+  "translation": "Þakka þér munu, Jahve, öll verk þín, og khasidím þínir lofa þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/9-12.1792411065600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Þakka þér munu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "verk þín"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "og khasidím þínir"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "lofa þig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:45.601108291Z",
+  "model": "glm-5.3"
+}

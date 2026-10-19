@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Þetta vers segir 'svaraðu ekki' og vers 5 'svaraðu' — samstæða spenna í hebreskum speki, ekki þýðingavilla"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "gam ásamt אתה er endurtekið 'einnig þú'; greinarmuninn tyndur í íslensku"
+    }
+  ],
+  "translation": "Svaraðu ekki fávísa manni eftir fávískum hans, svo að þú verðir ekki líkur honum — ⟨heldur einnig þú⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "25748eaa683f591b3e49c4a86db0095e5af6db1a0caab14ef15b47fb8e2160f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/26\/1-4.1792411618479.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תען",
+      "gloss": "svaraðu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fávísa manni"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "eftir fávískum hans"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að... ekki"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "verðir líkur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:58.480243383Z",
+  "model": "glm-5.3"
+}

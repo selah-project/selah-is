@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד er hljóðritað sem khesed — eitt orð sem þekir miskunn, tryggð og gæsku á sama tíma."
+    }
+  ],
+  "translation": "Jahve finnur velþóknun í ⟨את⟩ þeim sem óttast hann, í ⟨את⟩ þeim sem bíða eftir khesed hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/147\/9-12.1792411078217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "finnur velþóknun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þeim sem óttast hann"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "þeim sem óttast hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þeim sem bíða eftir khesed hans"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "þeim sem bíða eftir"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "khesed hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:58.218804031Z",
+  "model": "glm-5.3"
+}

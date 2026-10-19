@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "til Ísraels",
+      "rationale": "Shema — ákall sem bindur lesandann við textann"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Copula skotin inn; hebreskan segir aðeins 'Jahve Elóhím vor, Jahve einn'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחד",
+      "rationale": "'Einn' — sameinaður\/einn tölfræðilega; skilningur Shema hefur verið reistur á þessu orði"
+    }
+  ],
+  "translation": "Heyr, Ísrael: Jahve Elóhím vor, Jahve er einn.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/1-4.1792397721803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Heyr"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "er einn"
+    }
+  ],
+  "timestamp": "2026-10-19T08:15:21.804723224Z",
+  "model": "glm-5.3"
+}

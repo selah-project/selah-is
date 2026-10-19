@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לדלקים",
+      "rationale": "Rótin er 'að loga' — KJF les 'fyrir ofsækjendurna' (sem elda hinn réttláta); 'eldglöðnar örvar' heldur bokstaflegri mynd LXX og ASV."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלי מות",
+      "rationale": "Bókstaflega 'áhöld dauðans' — 'vélar dauðans' heldur vísbendingunni um vígahlífar og nýjunga."
+    }
+  ],
+  "translation": "Og fyrir hann hefur hann búið til vélar dauðans; örvar sínar gjörir hann eldglöðnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/13-16.1792409195419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "og fyrir hann"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hefur hann búið til"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vélar"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauðans"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "örvar sínar"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "eldglöðnar"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "gjörir hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:35.420051600Z",
+  "model": "glm-5.3"
+}

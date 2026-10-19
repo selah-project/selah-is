@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 19:12",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'eru' bætt við — hebreskan hefur enga sögn í spurningunni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חתן",
+      "rationale": "'mágar' — orðið þekkir eigimenn dótra Lóts og alla tengda menn; 'son-in-law' er of þrengt."
+    },
+    {
+      "kind": "you",
+      "subject": "to Lót",
+      "rationale": "Beint tilmæli til Lóts: spurning og boð um að koma öllum sínum út af staðnum."
+    }
+  ],
+  "translation": "Og mennirnir sögðu við Lót: Hverjir eru þér enn hér? mágar þínir og synir þínir og dætur þínar og allt það sem þú átt í borginni — leið það út af staðnum!",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/19\/9-12.1792392894720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og mennirnir sögðu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mennirnir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lót"
+    },
+    {
+      "surface": "עד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hverjir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eru þér"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hér"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mágar"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "þínir og synir þínir"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "og dætur þínar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þú átt"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borginni"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "leið út"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "staðnum"
+    }
+  ],
+  "timestamp": "2026-10-19T06:54:54.722082480Z",
+  "model": "glm-5.3"
+}

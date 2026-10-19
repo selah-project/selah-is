@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenska krefst fyllts sagnar við יש"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Hebreska skortir sagnorð í öðrum lið — strik í stað fyllts sagnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בוטה\/מרפא",
+      "rationale": "Andstæða stungur sverðs og lækningar — myndrænt samstæðuljóð tapast ekki alveg"
+    }
+  ],
+  "translation": "Það er sá sem talar brásalega, eins og stungur sverðs, en tunga spekinga — lækning.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d2b247a064930752ec0018257715f3a815efa746933b395b4820daac39f82d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/12\/17-20.1792411334143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Það er"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "sá sem talar brásalega"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "eins og stungur"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðs"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "en tunga"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "spekinga"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "lækning"
+    }
+  ],
+  "timestamp": "2026-10-19T12:02:14.143957509Z",
+  "model": "glm-5.3"
+}

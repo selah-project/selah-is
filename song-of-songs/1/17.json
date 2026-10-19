@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "רחיט",
+      "rationale": "רחיט (borðþil, þil eða veggpönnu) kemur aðeins fyrir hér í Tanakh; merkingin óviss — 'spár' (KJV) eða 'pönnur' (JPS)."
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Sögn sem íslenskan krefst en hebreskan felur í samhengi kvæðisins."
+    },
+    {
+      "kind": "alternative",
+      "subject": "berki",
+      "rationale": "ברות getur verið berki (cypress) eða greni; 'berki' haldið sem eitt tré, ekki algenerkillt."
+    }
+  ],
+  "translation": "Sparar húss voru eru sedrusviður, en borðþilum vor ⟨eru⟩ berki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b962f4b176a2c7c42b5c55bb0b73850add73fa6675c2ab6983b1cb36e1713a16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/1\/17-17.1792412556814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "sparar"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "húss voru"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedrusviður"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "borðþilum vor"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "berki"
+    }
+  ],
+  "timestamp": "2026-10-19T12:22:36.815126842Z",
+  "model": "glm-5.3"
+}

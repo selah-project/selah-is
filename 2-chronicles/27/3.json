@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ófel",
+      "rationale": "העפל er ákveðin hæð í Jerúsjalajím, ekki almennt nafnorð; rétt sem eiginnafn Ófel."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨það⟩",
+      "rationale": "Íslenskan krefst greinis eða fornafns við 'efra hliðið'; hebreska lýsingarorðið stendur eitt."
+    }
+  ],
+  "translation": "Hann byggði ⟨את⟩ hlið húss Jahve ⟨það⟩ efra, og á múrvegg Ófels byggði hann mikið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2d06ca378b6c0218db77dfef3dc5f6b91c2ad4b896a9c894c0470e36b1899f48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/27\/1-4.1792415809307.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hann"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlið húss Jahve það efra"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hlið"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "⟨það⟩ efra"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "og á múrvegg"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ófels"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "byggði"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mikið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:16:49.308179514Z",
+  "model": "glm-5.3"
+}

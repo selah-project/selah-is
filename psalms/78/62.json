@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "התעבר er hitrausun — „það geysaði yfir“, endursagt sem reiði"
+    }
+  ],
+  "translation": "Og hann gaf þjód sína í vald sverðsins, og geisaði reiði á erfingja sinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/61-64.1792410243571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Og hann gaf í vald"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sverðsins"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "þjód sína"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "og á erfingja sinn"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "geisaði reiði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:03.572045983Z",
+  "model": "glm-5.3"
+}

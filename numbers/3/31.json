@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 3:31",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Nafnliður 'er' eða 'skyldu' vantar á undan upptalningunni; hebreskan setur tæknilega sögn ekki"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "עֲבֹדָתוð afturbeygt fornafn getur vísað til forhangisins eða alls messukersins — 'þjónustu hans' (levítanna) er önnur lesning"
+    }
+  ],
+  "translation": "Og varðveisla þeirra: kistan og borðið og ljósahjaldrið og altárin og heilög kerin ⟨sem⟩ þjónað er með ⟨þeim⟩, og forhangið og alla þjónustu ⟨þess⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4b9fb5e9aad0c57811342f153e0549f132c2f96e77fd06e83205015e17fa4efd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/3\/29-32.1792396404457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשמרתם",
+      "gloss": "Og varðveisla þeirra"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "kistan"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "og borðið"
+    },
+    {
+      "surface": "והמנרה",
+      "gloss": "og ljósahjaldrið"
+    },
+    {
+      "surface": "והמזבחת",
+      "gloss": "og altárin"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "og heilög kerin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heilög"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sem⟩"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "þjónað er"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "með ⟨þeim⟩"
+    },
+    {
+      "surface": "והמסך",
+      "gloss": "og forhangið"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alla"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "þjónustu ⟨þess⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:53:24.458759365Z",
+  "model": "glm-5.3"
+}

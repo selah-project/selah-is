@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mig",
+      "rationale": "קרעו 'þeir slitu' hefur ekki andlag í hebresknni; 'mig' er bætt við"
+    },
+    {
+      "kind": "crux",
+      "subject": "hnípar",
+      "rationale": "נכים: 'slóttarmenn' (smiters) eða 'velmegandi slútar' (fat-cats), tvennar rætur lesnar"
+    }
+  ],
+  "translation": "Og þegar ég hikaði glöddust þeir og söfnuðust saman; söfnuðust gegn mér hnípar — og ég vissi ⟨það⟩ ekki; þeir slitu mig óhlétt og hættu ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/13-16.1792409614027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "þegar ég hikaði"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "glöddust þeir"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "og söfnuðust"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "söfnuðust"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "hnípar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vissi ég"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "slitu þeir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "hættu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:34.028687079Z",
+  "model": "glm-5.3"
+}

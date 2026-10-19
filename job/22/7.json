@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "þyrstum",
+      "rationale": "עיף er 'úthræddur, máttlaus' — 'þyrstum' binst samhengi vatnsins en missir hreyfimynd máttleysisins."
+    }
+  ],
+  "translation": "Þyrstum gefur þú ekki vatn að drekka, og hungrugum synjar þú brauðs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1c7995cbd485173227245c7cb067b4f592ccae65d76188ac0ccf6de09839ef39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/22\/5-8.1792412136470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "þyrstum"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "gefur þú... að drekka"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "og hungrugum"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "synjar þú"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauðs"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:36.471158880Z",
+  "model": "glm-5.3"
+}

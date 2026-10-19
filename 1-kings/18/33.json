@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וילכו-líkt 'lagði' fyrir וישם; hebreskan segir 'setti'"
+    }
+  ],
+  "translation": "Og hann raðaði ⟨את⟩ viðunum og sneiddi ⟨את⟩ nautinu í sundur og lagði það á viðina.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/18\/33-36.1792402616617.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "raðaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "viðunum"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "viðunum"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "sneiddi í sundur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nautinu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nautinu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "lagði"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "viðina"
+    }
+  ],
+  "timestamp": "2026-10-19T09:36:56.618296236Z",
+  "model": "glm-5.3"
+}

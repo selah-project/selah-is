@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 15:7",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Þriðjungur hín af víni — mælieining."
+    },
+    {
+      "kind": "substitution",
+      "subject": "reach nijoach",
+      "rationale": "Ilm hins hvílandi hugnar — „reykhvær ilm“ er myndlínan; „sætur ilmur“ (KJV) er túlkan ekki orðmynd."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניחח\/נוח",
+      "rationale": "ניחוח hljómar með rótinni „að hvílast“ — hvílandi\/þægilegur ilmur, orðmyndin glatast á íslensku."
+    }
+  ],
+  "translation": "Og vín til dreypi[fórnar], þriðjung hín, skalt þú færa nálægt — ilm hins hvílandi ⟨hugunar⟩, fyrir Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0da9bec413acc667c13e32759aeeba09f1fc45b6c3ddbacf5770a52b063cc359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/15\/5-8.1792396837351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Og vín"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "til dreypi[fórnar]"
+    },
+    {
+      "surface": "שלשית",
+      "gloss": "þriðjung"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hín"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "skalt þú færa nálægt"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ilm"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "hins hvílandi ⟨hugunar⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T08:00:37.352420075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תלאבות",
+      "rationale": "Þetta orð (þurrk\/æði) kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf greini ('eyðimörkinni') þar sem hebreskan hefur forskeytið ב- án greinis."
+    }
+  ],
+  "translation": "Ég kunni þig í eyðimörkinni, í landi þurrkar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ae7f081d7052a6879eed5ae8bfe162c9668e93b2fbcd9ee0961d773e7108a93d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/13\/5-8.1792408218480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "kunni þig"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "þurrkar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:10:18.480901508Z",
+  "model": "glm-5.3"
+}

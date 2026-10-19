@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ווהיה er 'varð' — íslenska þarf ekki sérstaka sögn, 'ofan í' sett í sviga"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Fjögur höfuð — talið árkerfi Eden"
+    }
+  ],
+  "translation": "Og áin fékk út úr Eden til að vökva ⟨את⟩ garðinn, og þaðan skiptist hún ⟨ofan í⟩ fjögur höfuð.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/9-12.1792392519596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Og áin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fékk út"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "úr Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "til að vökva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garðinn"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "garðinn"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "og þaðan"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "skiptist hún"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨ofan í⟩"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "fjögur"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "höfuð"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:39.599985118Z",
+  "model": "glm-5.3"
+}

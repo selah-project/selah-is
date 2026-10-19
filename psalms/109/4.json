@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואני תפלה",
+      "rationale": "'en ég — bæn' er orðrétt; KJV 'ég gefst upp í bæn' og JPS 'ég er allur bæn' bæta við sögn sem hebreskan vantar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישטנוני",
+      "rationale": "Sögnin er frá rót שטן — söknuður; sama orð og andnafnið Satan, hjátrúarfellt tengt erfðasynd Lúsifers."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Þeir' bætt við sögnina sökðu, hebreskan hefur aðeins suffiksaða sögn."
+    }
+  ],
+  "translation": "Í stað ástar minnar sökðu þeir mig, en ég — bæn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/1-4.1792410729425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Í stað"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ástar minnar"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "sökðu þeir mig"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ég"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bæn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:09.426025850Z",
+  "model": "glm-5.3"
+}

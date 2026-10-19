@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 36:16",
+  "book": "job",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hefði",
+      "rationale": "Ófullkominn háttur bætt við — hebreskan er súðmynd án tímamerkingar, kjv\/jps lesa 'hann hefði'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונחת שלחנך",
+      "rationale": "'það sem hvílir á borði þínu' (kjv) vs. 'setið fyrir ofan borð þitt' (ylt) — orðið נחת er tvísýnt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צר \/ רחב",
+      "rationale": "þröngt\/víðt — andstæðupör mynda kjarna versins og endurkalla þrengingu\/víðátta."
+    }
+  ],
+  "translation": "Já, hann hefði tænt þér út úr munnvísi þrenginganna í víðáttu þar sem engin þrenging er undir henni, og borð þitt, fullt af feiti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "737fd9ff37ef82afbbe2e346fdd5d358b3a555dc01a6e07d5eaac0df2f81372e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/36\/13-16.1792412424225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Já"
+    },
+    {
+      "surface": "הסיתך",
+      "gloss": "hann hefði tænt þér"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "út úr munnvísi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "þrenginganna"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "í víðáttu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engin"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "þrenging"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "er undir henni"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "og"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "borð þitt"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fullt"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "af feiti"
+    }
+  ],
+  "timestamp": "2026-10-19T12:20:24.226735470Z",
+  "model": "glm-5.3"
+}

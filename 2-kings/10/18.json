@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mun",
+      "rationale": "Framtíðarmerki bætt við — hebreska framtíðarmyndin ber ekki slíkt merki."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבד...יעבדנו",
+      "rationale": "Endurtekning sögu sagnarinnar 'að þjóna' undirstrikar blekkingu Jéhú; fallið varðveitt með sömu orðmynd."
+    }
+  ],
+  "translation": "Og Jéhú safnaði ⟨את⟩ öllu folkinu og sagði við þá: Akháv þjónaði ⟨את⟩ Baal lítið, en Jéhú mun þjóna ⟨honum⟩ mikið.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/10\/17-20.1792403037144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Og safnaði"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jéhú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu folkinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "folkinu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akháv"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þjónaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "lítið"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jéhú"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "mun þjóna honum"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mikið"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:57.145547163Z",
+  "model": "glm-5.3"
+}

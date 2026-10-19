@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "במות er 'hámessur' (hálendisstaðir fyrir dýrkun), ekki 'háaloft' í musterisföngum skilningi."
+    },
+    {
+      "kind": "crux",
+      "subject": "רק",
+      "rationale": "'aðeins' — lyklarþulað: fólkið slátraði á hámessunum, en aðeins til Jahve (ekki til annarra guða), sbr. KJV og JPS."
+    }
+  ],
+  "translation": "Þó fór fólkið enn að slátra á hámessunum, aðeins til Jahve, Elóhím síns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e86ef3fa42b2947df972af314e528c4a2aa1be1d1e1a377f00eec1080e31991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/33\/17-20.1792416023503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Þó"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "að slátra"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "á hámessunum"
+    },
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elóhím síns"
+    }
+  ],
+  "timestamp": "2026-10-19T13:20:23.504762759Z",
+  "model": "glm-5.3"
+}

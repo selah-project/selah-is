@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרמתם",
+      "rationale": "'Þú hefur flæmt þeim' (samanber flóð yfirfellur) vs. lesturinn 'þeir eru sem svefn yrði' — afmörkun orðsins er umdeild"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחלף",
+      "rationale": "grasið 'sprottar upp' (KJV) vs. 'færst hjá' (YLT) — rótin ber báðar merkingar"
+    }
+  ],
+  "translation": "Þú hefur flæmt ⟨את⟩ þeim yfir — varða þeir að svefni; at morgni gróa þeir sem grasið sem skríður hjá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/90\/5-8.1792410444675.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "flæmt hefur þú þeim yfir"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "svefn"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "varða þeir að"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "at morgni"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sem grasið"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "skríður hjá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:24.675623687Z",
+  "model": "glm-5.3"
+}

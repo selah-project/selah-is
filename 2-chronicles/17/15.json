@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידו",
+      "rationale": "„á hendi honum“ — hebreskt frásagnarform fyrir „næst honum“, haldið bókstaflega"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tvö hundruð og áttatíu þúsund",
+      "rationale": "mannfjöldi í hermannaskránni"
+    }
+  ],
+  "translation": "Og á hendi honum Jókhanan, höfðinginn, og með honum tvö hundruð og áttatíu þúsund.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "62b6a23f19c540cda94e43cdc22dc561ef7f8b4ac24c0a2e0c88586d810b125f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/17\/13-16.1792415518487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Og á"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hendi honum"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Jókhanan"
+    },
+    {
+      "surface": "השר",
+      "gloss": "höfðinginn"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "og með honum"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tvö hundruð"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "og áttatíu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    }
+  ],
+  "timestamp": "2026-10-19T13:11:58.488490568Z",
+  "model": "glm-5.3"
+}

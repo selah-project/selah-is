@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbútinu 'sé' er bætt við — hebreskan hefur aðeins orðið שלום sem ósk eða kvöð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "friður",
+      "rationale": "שלום merkir heildarleika, velferð og heill, ekki aðeins frið."
+    }
+  ],
+  "translation": "Og sæir sonu sona þinna; friður ⟨sé⟩ yfir Ísrael!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/128\/5-6.1792410876151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Og sæir"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "sona þinna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:36.151822922Z",
+  "model": "glm-5.3"
+}

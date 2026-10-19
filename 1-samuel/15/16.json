@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמרו",
+      "rationale": "fleirtala 'þeir sögðu' í hebresku — flestar þýðingar gera að þágufalli eintölu ('hann sagði'); fleirtalan er í textanum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרף",
+      "rationale": "orðlegt 'slakaðu á \/ gefðu upp' — 'hættu' heldur stýriboðinu"
+    }
+  ],
+  "translation": "Og Sjemúel sagði við Sjáúl: Hættu, og ég mun segja þér ⟨את⟩ það sem Jahve hefur mælt við mig í nótt. Og þeir sögðu við hann: Segðu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/13-16.1792400562160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemúel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "hættu"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "og ég mun segja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það sem Jahve hefur mælt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hefur mælt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "í nótt"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sögðu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "segðu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:42.161962430Z",
+  "model": "glm-5.3"
+}

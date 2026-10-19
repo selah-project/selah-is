@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יקראנו",
+      "rationale": "kopula 'yrði' sett í stað sögninnar 'hitti\/rekst á' — hebreskan segir 'að eigi hitti hann skaði'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירדו\/לשבר",
+      "rationale": "framsögður andlag framan setningu með ⟨את⟩ — Benjamín settur fremst til áherslu, endurskapað með setningarbreytingu"
+    }
+  ],
+  "translation": "En ⟨את⟩ Benjamín, bróður Jósefs, sendi Jaakov ekki með ⟨את⟩ bræðrum hans; því að hann sagði: Að eigi yrði honum skaði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f4f35ec03635d2c915fd0edc84d0daca817f2b8380124b8ca3468d7b3cb2938",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/42\/3-4.1792416243208.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Benjamín"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benjamín"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bróður"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bræðrum hans"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bræðrum hans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "פן",
+      "gloss": "að eigi"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "yrði honum"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "skaði"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:03.209079799Z",
+  "model": "glm-5.3"
+}

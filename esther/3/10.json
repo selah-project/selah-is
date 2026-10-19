@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "innsiglið",
+      "rationale": "טבעת er bóklega signet-innsigli (steypa í vax) — merki um fullt vald konungs, ekki almenn skarthringur."
+    },
+    {
+      "kind": "crux",
+      "subject": "האגגי",
+      "rationale": "Agagíti vísar til Agags, konungs Amalekíta (1. Sam 15) — deilt er um hvort ættartengingin sé söguleg eða stílfærð andstæða gegn Móse og Jósúa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרר היהודים",
+      "rationale": "Titillinn 'óvinur gyðinganna' endurtekur forna andstæðu — rót צרר merkir að kremja\/þrengja, ekki aðeins að hata."
+    }
+  ],
+  "translation": "Og konungurinn tók ⟨את⟩ innsiglið sitt af hendi sinni og gaf það Haman, syni Hemedata, Agagítanum, óvin gyðinganna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/3\/9-12.1792413201765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Og... tók"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innsiglið sitt"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "innsiglið sitt"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hendi sinni"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "það Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syni"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hemedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagítanum"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "óvin"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "gyðinganna"
+    }
+  ],
+  "timestamp": "2026-10-19T12:33:21.766880738Z",
+  "model": "glm-5.3"
+}

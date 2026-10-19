@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þær",
+      "rationale": "Fornafnið „þær“ er hvorki í hebreskunnar en íslenskan þarf það til skýrleika."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fimm konur Davíðs",
+      "rationale": "Versin telur konurnar: Avígajól og Akínóam, „þær báðar“."
+    }
+  ],
+  "translation": "Og ⟨את⟩ Akínóam hafði Davíð tekið frá Jisreel, og voru þær báðar honum að konum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1b5a8d3437b6470f1a4edf2da83fc949571c49d27ee6398c90fd91af03514ba1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/25\/41-44.1792400907444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akínóam"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akínóam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hafði tekið"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "frá Jisreel"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "voru"
+    },
+    {
+      "surface": "גם",
+      "gloss": "báðar"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "þær"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "að konum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:08:27.445607495Z",
+  "model": "glm-5.3"
+}

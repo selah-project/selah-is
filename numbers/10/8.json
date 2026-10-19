@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lúðrar",
+      "rationale": "חצוצרות eru martrompetur; „lúðrar“ er næsta íslenska orð en ekki nákvæm þýðing"
+    },
+    {
+      "kind": "substitution",
+      "subject": "eilíf regla",
+      "rationale": "עולם merkir bókstaflega „forskjól\/órannsakanlegan tíma“; „eilífr“ er venjuleg en þröng þýðing"
+    }
+  ],
+  "translation": "Og synir Aharonar, prestarnir, skulu blása í lúðrana; og það skal vera yður að eilífri reglu um kynslóðir yðar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "717952d3133a016172b31818774583bfda892fd96fc9a19050f0f015b9883edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/10\/5-8.1792396642629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "og synir"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "skulu blása"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "í lúðrana"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og það skal vera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "að eilífri reglu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífri"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "um kynslóðir yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:57:22.630472855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Copula í „hvar er hann“ er ekki í hebreskunni"
+    },
+    {
+      "kind": "you",
+      "subject": "til dætranna",
+      "rationale": "Reúel talar beint til dætra sinna með boðshætti"
+    }
+  ],
+  "translation": "Og hann sagði við dætur sínar: Og hvar er hann? Af hverju yður þetta að þér skuluð yfirgefa ⟨את⟩ manninn? Kallið hann, að hann megi éta brauð.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6ef902e650cfb46a2d455753ba0f3c24bf9d15fe29c3295b9fa869d5e91ba189",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/2\/17-20.1792394067204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "dætur sínar"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "og hvar er hann"
+    },
+    {
+      "surface": "למה",
+      "gloss": "af hverju"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "þér yfirgefuð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manninn"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "kallið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "að hann megi éta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:27.205913253Z",
+  "model": "glm-5.3"
+}

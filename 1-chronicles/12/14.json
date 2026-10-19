@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Áframhald nafnakráar með raðtölum tíundi og ellefti."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Samsetta raðtalan עשתי עשר ('ellefu-tíu') fær samsetta glósu; 'er' sett inn til skýringar."
+    }
+  ],
+  "translation": "Jirmejáhu hinn tíundi, Makhbanai ⟨er⟩ hinn ellefti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "81ed0f15bf17f2e71b01891ce694a465f094526b7325d4c1cb0b8ffff5eaa4a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/12\/13-16.1792414804721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejáhu"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "hinn tíundi"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Makhbanai"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "hinn ellefti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ellefti"
+    }
+  ],
+  "timestamp": "2026-10-19T13:00:04.721768064Z",
+  "model": "glm-5.3"
+}

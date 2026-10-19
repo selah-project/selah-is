@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf veikar sagnir ('gátu', 'voru') sem hebreskan ber í sögninni sjálfri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "galdramennirnir",
+      "rationale": "חרטמים er 'stjörnuteiknarar' eða 'skrifaðir töframenn'; 'galdramenn' er hefðin en ekki bókstæð mynd."
+    }
+  ],
+  "translation": "Og galdramennirnir gátu ekki staðið fyrir framan Mósje vegna sáranna, því að sárin voru á galdramennunum og á öllum Mitsrámönnum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "581fcbeb5f6bef89bc7959ac6d6eac1c54558aaffbdc0330ee3aa4bd3abe3829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/9-12.1792394254142.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ekki"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gátu"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "galdramennirnir"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "staðið"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir framan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "sáranna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "היה",
+      "gloss": "voru"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "sárin"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "á galdramennunum"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og á öllum"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrámönnum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:34.143425808Z",
+  "model": "glm-5.3"
+}

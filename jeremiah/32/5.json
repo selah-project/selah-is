@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדי",
+      "rationale": "'heimsæki' er bæði gjafa- og refsivitjun; JPS: 'I remember him', aðrir: 'visit\/attend to him'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Samsettur aleph-tav með fornafnsendir, varðveittur sem ⟨את⟩ hann."
+    },
+    {
+      "kind": "you",
+      "subject": "til ísraelsmanna í Júda",
+      "rationale": "Fleirtölufyrirmæli þeirra sem berjast: 'þér berjist… munuð þér ekki heppnast'."
+    }
+  ],
+  "translation": "Og Babel skal leiða ⟨את⟩ Tsídkía, og þar skal hann vera þar til eg heimsæki hann, segir Jahve; þó að þér berjist ⟨את⟩ við Kaldíana, munuð þér ekki heppnast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/32\/5-8.1792406216296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Og Babel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "skal leiða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsídkía"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsídkía"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og þar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal hann vera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "eg heimsæki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann (Tsídkía)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þó að"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "þér berjist"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ við"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kaldíana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "munuð þér heppnast"
+    }
+  ],
+  "timestamp": "2026-10-19T10:36:56.296811387Z",
+  "model": "glm-5.3"
+}

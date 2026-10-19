@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "מחראות 'naftarúm' kemur aðeins fyrir hér í Tanakh"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Endurtekningin ויתצו … ויתצו — sama sögn tvisvar, hið róttæka niðurbrjót endurspeglast í setningagerðinni"
+    }
+  ],
+  "translation": "Og þeir brutu niður ⟨את⟩ súluna Baals, og þeir brutu niður ⟨את⟩ hús Baals, og gerðu ⟨það⟩ að naftarúmi allt til þessa dags.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/10\/25-28.1792403002318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Og þeir brutu niður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "súluna Baals"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "súluna"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baals"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "og þeir brutu niður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hús Baals"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baals"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "og gerðu að"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "naftarúmi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "þessa dags"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:22.319228877Z",
+  "model": "glm-5.3"
+}

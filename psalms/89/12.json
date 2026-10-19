@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið ⟨þá⟩ bætt við sem beint hlutur fyrir יסדתם, hebreskan hefur engan את hér"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמים",
+      "gloss-note": "",
+      "rationale": "שמים er tvítala (dual) — 'tvær himnir' — hliðstæðan felur tvíundina"
+    }
+  ],
+  "translation": "Þín eru himnarnir, og þín er jörðin; heimurinn og fylling hans — þú hefur grundvallað ⟨þá⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/9-12.1792410355889.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "þín"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnarnir"
+    },
+    {
+      "surface": "אף",
+      "gloss": "og"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þín"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heimurinn"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "og fylling hans"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "hefur grundvallað"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:55.890992616Z",
+  "model": "glm-5.3"
+}

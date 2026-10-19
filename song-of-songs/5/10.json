@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreskan slepper sagnliðnum, íslenskan krefst hans"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דגול",
+      "rationale": "orðið er myndað af דגל 'fáni' — 'fánaður', sá sem stendur út sem fáni; 'æðstur' týnir myndinni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "רבבה",
+      "rationale": "talan tíu þúsund — óteljandi margfeldi sem mælieining"
+    }
+  ],
+  "translation": "Elskhugi minn ⟨er⟩ skær og rauðleitur, fánaður fram yfir tíu þúsund.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/5\/9-12.1792412591160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "elskhugi minn"
+    },
+    {
+      "surface": "צח",
+      "gloss": "skær"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "og rauðleitur"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "fánaður"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "fram yfir tíu þúsund"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:11.161674115Z",
+  "model": "glm-5.3"
+}

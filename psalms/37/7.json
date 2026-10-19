@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til lesandans",
+      "rationale": "núðarsform beinust að lesandanum\/heyrandanum — boð og bann í sömu línu"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתחולל",
+      "rationale": "'að snúa sér, hvirla' — 'biðjast biðjast' (KJV) eða 'vænt' (JPS); mynd hvirlandi bíðslu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תתחר",
+      "rationale": "'að brenna\/glóa' — reiði; þýtt 'glöta' (að þvælast inn) til að halda hitamyndinni"
+    }
+  ],
+  "translation": "Þegið fyrir Jahve og vænt ⟨fyrir hann⟩; glöttið ekki vegna þess sem heppnast í vegi sínum, vegna mannsem fremur illráð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/5-8.1792409644390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Þegið"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "og vænt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨fyrir hann⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "glöttið"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "vegna þess sem heppnast"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "í vegi sínum"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "vegna mannsem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fremur"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "illráð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:04.391684218Z",
+  "model": "glm-5.3"
+}

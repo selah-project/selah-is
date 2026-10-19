@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בעל שער",
+      "rationale": "„Eigandi hár“ — hebreska myndin er atviksliður, „háraður maður“; gefið „maður með hár“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזור\/אזור",
+      "rationale": "Sama rót tvisvar — nafnorðið „belti“ og sögnin „að gyrta“ — endurspeglað ekki í íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Atviksorðið „Þá“ bætt við til að tengja svar konungsins við lýsinguna"
+    }
+  ],
+  "translation": "Og þeir sögðu við hann: Maður með hár og belti af skinn gyrt um lendir sín. Þá sagði hann: Það er Elía Tishbí.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/1\/5-8.1792402828991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og þeir sögðu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Maður"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "með"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hár"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "og belti"
+    },
+    {
+      "surface": "עור",
+      "gloss": "af skinn"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "gyrt"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "um lendir sín"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Þá sagði hann"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elía"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Tishbí"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Það er"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:28.992405681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sæmdu",
+      "rationale": "כבד er 'ger þungan' — heiðra með þyngd; 'sæma' fær svipþýðinguna en myndin hverfur."
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Fyrsta skipunin af annarri töflu, ávarpar Ísrael beint."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dagar þínir verði langir",
+      "rationale": "Loforðið mælir lífstíma í dögum."
+    }
+  ],
+  "translation": "Sæmdu föður þínum ⟨את⟩ og móður þíni ⟨את⟩, til þess að dagar þínir verði langir á jörðinni sem Jahve, Elóhím þinn, gefur þér.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/9-12.1792394593775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Sæmdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föður þínum"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þínum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "móður þíni"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "móður þíni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "verði langir"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dagar þínir"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:13.776553082Z",
+  "model": "glm-5.3"
+}

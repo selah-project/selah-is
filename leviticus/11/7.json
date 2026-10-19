@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "שסע שסע פרסה — sömu rót endurtekin: ‚skorinn skorinn klof‘, tvennd endurtekning sem íslenskan heldur með ‚skorinn í sundr‘."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שׂע שׂעע er sögn + nafnorð með sömu stafi; formið er haft bæði sem sagnorð og nafnorð."
+    }
+  ],
+  "translation": "Og ⟨את⟩ svíninu, því að það klofar klauf og er skorinn í sundr klof — en fóður fær það ekki upp — óhreint er það fyrir yður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/5-8.1792395613231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svíninu"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svíninu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "klofar"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klauf"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "og er skorinn"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "í sundr"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klof"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "fóður"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "fær upp"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "óhreint"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er það"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fyrir yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:13.232713344Z",
+  "model": "glm-5.3"
+}

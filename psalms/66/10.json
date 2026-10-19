@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרפתנו\/כצרף",
+      "rationale": "sama rót tvísinnum — 'þú bjóst okkar eins og tilbúning' — tapast að hluta í íslensku"
+    }
+  ],
+  "translation": "Því að þú freistaðir okkar, Elóhím, þú hreinsaðir okkar eins og silfur er hreinsað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/66\/9-12.1792409955041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "freistaðir okkar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "hreinsaðir okkar"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "eins og hreinsað"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:15.042028980Z",
+  "model": "glm-5.3"
+}

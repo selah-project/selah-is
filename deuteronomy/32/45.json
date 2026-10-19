@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויכל לדבר",
+      "rationale": "„Lauk máli við að tala“ — hebreskt sagnasamband, bókstaflega „hætti að tala“."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„máli sínu“ bætt við; hebreskan segir aðeins „hætti að tala“."
+    }
+  ],
+  "translation": "Og Mósje lauk máli sínu við að tala ⟨את⟩ öll þessi orð til alls Ísraels.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "eadb19df1627ef46fd13f593e58f2cf8eaa8992b41aabaabbb9c1d1c7ac52c95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/32\/45-48.1792398561582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "lauk máli sínu við að"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "að tala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öll þessi orð"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orð"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T08:29:21.583162471Z",
+  "model": "glm-5.3"
+}

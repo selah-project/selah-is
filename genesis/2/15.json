@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setti",
+      "rationale": "וינחהו er 'lét hann hvíla\/setjast'; 'setti' gefur sama mynd á náttúrulegri íslensku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעבדה ולשמרה",
+      "rationale": "Tvö bundin beforeyrir-sagnir með lokastofgnum -הּ ('hana'); svipuð orðapar birtast aftur um musterisþjónustu, tapast í íslensku"
+    }
+  ],
+  "translation": "Og Jahve Elóhím tók ⟨את⟩ manninn og setti hann í garð Edens, til að rækta hann og gæta hans.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/13-16.1792392532295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manninn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "og setti hann"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "í garð"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edens"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "til að rækta hann"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "og gæta hans"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:52.302281095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur ekki sagnirnar 'er' og 'skalt' — viðkeymt til að íslenskan þolir setninguna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hvorki … né",
+      "rationale": "Hebreskan tengir aðeins með ו (og); íslenskan þarf 'hvorki\/né' til að neitunin náist yfir alla lístann."
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Skipunin ávarpar Ísrael beint — öll húsnærið hans er talið upp."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sjöundi dagurinn",
+      "rationale": "Tölvan af degi í Sjabbatskipuninni."
+    }
+  ],
+  "translation": "En sjöundi dagurinn er Sjabbat Jahve, Elóhíms þíns; þú skalt ekki gjöra neitt verk, hvorki þú né sonur þinn né dóttir þín, þræll þinn né ambátt þín, búfé þitt né útlendingurinn ⟨sem⟩ er í hliðum þínum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/9-12.1792394593775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "en dagurinn"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sjöundi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "er Sjabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhíms þíns"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "þú skalt gjöra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "neitt"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "sonur þinn"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "dóttir þín"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þræll þinn"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ambátt þín"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "búfé þitt"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "útlendingur þinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "í hliðum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:13.776009671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf vísisorðið 'það' sem hebreskan sleppir eftir 'ekki gott er'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזר כנגדו",
+      "rationale": "'hjálp andspænis honum' — hvorki 'hjálp við hlið honum' né 'samkynja hjálp'; כנגדו er andspænis, jafnframt, sem mótstöðu-eða-sambæringu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hjálp",
+      "rationale": "עזר er nafnorð, ekki lýsingorð — 'hjálp' sem samnafn, en gæti líka verið 'björgun, styrkur'"
+    }
+  ],
+  "translation": "Og Jahve Elóhím sagði: Ekki gott er ⟨það⟩ að maðurinn sé einn; ég mun gera honum hjálp, andspænis honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "486b7f78bb1b6eb7fab152aaf6c9ba3707207c07f953c9e78e767861da2bba08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/18-19.1792416251808.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "היות",
+      "gloss": "er að vera"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "einn"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mun ég gera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjálp"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "andspænis honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:11.809283757Z",
+  "model": "glm-5.3"
+}

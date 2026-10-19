@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני אני",
+      "rationale": "tvöföld 'ég, ég' undirstrikar að Jahve einn — ekki skurðgoð — talaði"
+    },
+    {
+      "kind": "addition",
+      "subject": "ég hef",
+      "rationale": "אף er atviksorð ('já'); afturtekningin af sagnmynd kallarins er í清楚 íslensku með 'ég hef'"
+    }
+  ],
+  "translation": "Ég, já ég, hef talað; ég hef kallað hann, ég hef leitt hann og vegur hans mun heppnast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/48\/13-16.1792404713081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já ég"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "hef talað"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ég hef"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "kallað hann"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "leitt hann"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "og hann mun heppnast"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "vegur hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:53.082736985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זבח\/זבח · שבועה\/ירא",
+      "rationale": "Endurtekin andstæðupör í röð — hið sama hendir hinn hreinasta og hinn óhreinasta; hröð talan tapast að hluta til í íslenskunni."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנשבע כאשר שבועה ירא",
+      "rationale": "'Sá sem sver eins og sá sem óttast eiðinn' — KJV heldur ratlinu; aðrir lesa 'sá sem óttast að sverji'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מקרה",
+      "rationale": "Bókstaflega 'það sem finnst' — atburður sem maður rekst á; 'atburður' heldur ekki alveg tilfallninguna."
+    }
+  ],
+  "translation": "Allt eins og fyrir allt: einn atburður fyrir tsadíkann og fyrir rangan, fyrir hinn góða og hinn hreina og hinn óhreina, fyrir þann sem slátrar og þann sem ekki slátrar; eins og hinn góði, svo syndarinn — sá sem sver, eins og sá sem óttast eiðinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4cd7115eadb43106d51f68cd3f6c5b4c96fe8f0204e1b497ec13331bc7484705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/9\/1-4.1792413127775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fyrir allt"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "einn atburður"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "fyrir tsadíkann"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "og fyrir rangan"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "fyrir hinn góða"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "og hinn hreina"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "og hinn óhreina"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "fyrir þann sem slátrar"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "og fyrir þann sem"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slátrar"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "eins og hinn góði"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "svo syndarinn"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "sá sem sver"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "eiðinn"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "sá sem óttast"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:07.776446958Z",
+  "model": "glm-5.3"
+}

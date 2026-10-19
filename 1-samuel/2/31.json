@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זרוע er armleggur — mynd af krafti og máttarholdi ættarinnar, hálsekin eins og tré."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'enginn' bætt við — hebreskan segir aðeins 'gamall í húsi þínu', íslenskan þarf neitun."
+    }
+  ],
+  "translation": "Sjá, dagar koma, og ég mun högga af ⟨את⟩ armlegg þinn og ⟨את⟩ armlegg húss föður þins, svo að enginn gamall verður í húsi þínu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a38aa30a577eb2b6750a123445f5761feae53c54164958815e18a0aeafb4f510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/29-32.1792400191672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "koma"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "og mun ég högga af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armlegg þinn"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "armlegg þinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "armlegg húss föður þins"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "armlegg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þins"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "svo að enginn verði"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gamall"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "í húsi þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T08:56:31.673366230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 15:31",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הכרת תכרת",
+      "rationale": "innfeldur infinitívus 'afskorinn skal afskorinn verða' — endurtekningin gefur úrslitaleika, glataðist að hluta í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, ekki 'sál' í grískri merkingu"
+    }
+  ],
+  "translation": "Því að orð Jahve hafði hann fyrir lítilu, og ⟨את⟩ boðorð hans braut hann — afskorinn skal sálin afskorin verða, gjöld hennar á henni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4015a05a0bbad8a54583b9dff8762bdc6b58047593c86fc4c7c9366ae2323fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/15\/29-32.1792396906436.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hafði fyrir lítilu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "boðorð hans"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "boðorð hans"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "braut"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "afskorinn"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "skal afskorin verða"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sálin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sú"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "gjöld hennar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "á henni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:01:46.437994800Z",
+  "model": "glm-5.3"
+}

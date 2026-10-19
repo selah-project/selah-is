@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Ógnin er ávörpuð Paró beint: 'ef þú neitar'."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "כי א׮ lesið 'því að ef' eða 'en ef' — skilyrt viðtingin er sömu."
+    }
+  ],
+  "translation": "Því að ef þú neitar að láta ⟨את⟩ fólk mitt fara, sjá, þá fæ ég á morgun grashögg innan landamæra þinna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1a89ea37e7c821724c294bf08cc9d67f68240694cbebc06b24780dc4241f2ffd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/10\/1-4.1792394318367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "neitar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "að láta fara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólk mitt"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólk mitt"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "fæ ég"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "á morgun"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "grashögg"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "innan landamæra þinna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:18:38.368781377Z",
+  "model": "glm-5.3"
+}

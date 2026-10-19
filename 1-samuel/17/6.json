@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כידון",
+      "rationale": "Ættarýni: 'kasta-spjót' (ylt), 'jáveldi' (kjv) eða 'skjöldur' (geneva); 'spjót' valið sem það bókstæfsta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מצחת er leggharnisk (fremst á legg), ekki 'stígvél'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצחת",
+      "rationale": "Orðið kemur aðeins fyrir hér og í nánum tengdum versum um Golíat í Tanakh."
+    }
+  ],
+  "translation": "Og leggharnisk af kopar á fótum hans, og spjót af kopar milli herðanna á honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/5-8.1792400569552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "Og leggharnisk"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af kopar"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "fótum hans"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "og spjót"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af kopar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "herðanna á honum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:49.553491091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨þá⟩",
+      "rationale": "Hebreska segir aðeins 'enginn grafur'; andlagið er bjagt á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "úthella",
+      "rationale": "שפך er 'að hellast út'; myndin er af blóði sem vatni hellt út"
+    }
+  ],
+  "translation": "Þær úthella blóði þeirra eins og vatni kringum Jerúsjalajím, og enginn var til að grafa ⟨þá⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/79\/1-4.1792410308344.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Þær úthella"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "blóði þeirra"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "eins og vatni"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "kringum"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "var til að grafa"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:08.345687554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עברים עברו",
+      "rationale": "Þjóðheitið 'Hebreamenn' og sagnorðið 'fóru yfir' eiga sama rót — orðaleynd að mestu tapað í íslensku."
+    },
+    {
+      "kind": "alternative",
+      "subject": "חרדו אחריו",
+      "rationale": "Líka lesið 'skulfu hjá honum'; 'fylgdu honum skelfandi' heldur báðum þáttunum."
+    }
+  ],
+  "translation": "Og Hebreamenn fóru yfir ⟨את⟩ Jórdan, í land Gads og Gíleadar; en Sáúl var enn í Gilgal, og allt fólkið fylgdi honum skelfandi.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7e3228584e1497bd82fa516d4fede5e538538af88760a14967f91e0959edf7a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/13\/5-8.1792400369239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Og Hebreamenn"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "fóru yfir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jórdan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jórdan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "í land"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gads"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "og Gíleadar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "en Sáúl"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "var enn"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "í Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "fylgdi honum skelfandi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "eftir honum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:59:29.241159869Z",
+  "model": "glm-5.3"
+}

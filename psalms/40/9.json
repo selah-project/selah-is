@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מעי er kviður\/innrikinn; 'hjarta' í venjulegri þýðingu væri skipting"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'er' er ekki í hebreskunnar — þýðing bætir henni við"
+    }
+  ],
+  "translation": "Að gjöra þína ynðì, Elóhím mín, hef ég girnst, og Tóra þín er í miðju kviðar míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/40\/9-12.1792409708718.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "þína ynndi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím mín"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "hef ég girnst"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "og Tóra þín"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "kviðar míns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:08.719566796Z",
+  "model": "glm-5.3"
+}

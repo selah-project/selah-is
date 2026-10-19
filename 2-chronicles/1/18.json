@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויאמר ... לבנות",
+      "rationale": "„Sagði að byggja“ — hebreskur ferilmyndarheimur sem þýðir „ætlaði“, bókstaflega látinn."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויאמר",
+      "gloss-gloss": "",
+      "rationale": "JPS les „purposed“ (ætlæði); bókstaflegri er „sagði [í hjarta sínu]“."
+    }
+  ],
+  "translation": "Og Sólómón sagði ⟨að⟩ hann myndi byggja hús fyrir nafn Jahve og hús fyrir ríki sitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "65e46b81f10873ef196f892f032518e9cbed6031977106b539d9c17b1764a9e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/1\/17-18.1792415179514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og Sólómón sagði"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sólómón"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "að byggja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "fyrir nafn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og hús"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "fyrir ríki sitt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:06:19.514989797Z",
+  "model": "glm-5.3"
+}

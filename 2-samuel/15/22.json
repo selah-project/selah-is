@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 15:22",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הטף",
+      "rationale": "Orðið er myndað af rótinni טף『smádropi』 og merkir litlu börnin;『barnafólk』 gefur myndina en ekki orðmyndina."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Forsetningin את (H854)『með』 merkt ⟨את⟩ en hefur eigi samsvarandi stakt orð í íslensku."
+    },
+    {
+      "kind": "you",
+      "subject": "til Ittaí",
+      "rationale": "Boðshátturinn『farðu og farðu yfir』 beinist að Ittaí."
+    }
+  ],
+  "translation": "Og Davíð sagði við Ittaí: Farðu og farðu yfir. Og Ittaí Gittítinn fór yfir, og allir hans mennir, og allt barnafólkið sem ⟨את⟩ með honum var.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6ff7357e6c534e14b891dfa89965791302e1fc7a6712d192fc24b2a300d63a64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/15\/21-24.1792401556018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittaí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "farðu"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "og farðu yfir"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "fór yfir"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Ittaí"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gittítinn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allir"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "hans mennir"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "barnafólkið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "með ⟨את⟩honum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:19:16.019955069Z",
+  "model": "glm-5.3"
+}

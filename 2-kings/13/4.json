@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחל את פני",
+      "rationale": "Bókstaflega „lék\/smjár andlit Jahve“ — að leita blíðu í andlit; íslenska orðtakið „blíðka andlit“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחץ\/לחץ",
+      "rationale": "Sama orð „þrenging\/þrýsta“ tvísvar — nafnorð og sögn — varðveitt með samstofunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Greinirinn „-ina\/na“ í „þrenginguna“ er íslenskur viðskeyttur greinir; hebreskan hefur engan greini hér."
+    }
+  ],
+  "translation": "Og Jóachaz blíðkaði andlit Jahve, og Jahve heyrði hann, því að hann sá þrenginguna ⟨את⟩ Ísraels, því að konungur Arams þrýsti ⟨את⟩ þá.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/13\/1-4.1792403261216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "blíðkaði"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jóachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andlit Jahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þrenginguna"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "þrenginguna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "þrýsti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arams"
+    }
+  ],
+  "timestamp": "2026-10-19T09:47:41.217278907Z",
+  "model": "glm-5.3"
+}

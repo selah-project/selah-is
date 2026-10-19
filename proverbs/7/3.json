@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "Fornöfn í fleirtölu bætt við — hebreskan ber endingar (-ם) sem vísa til boðorðanna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשרם\/כתבם",
+      "rationale": "Tvennd binda\/skrifa með sömu endingu — samstæða tvítekin, látin hverfa í íslenskunni."
+    }
+  ],
+  "translation": "Bind þau á fingur þína, skrifaðu þau á töflu hjarta þíns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/7\/1-4.1792411273119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Bind þau"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "fingur þína"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "skrifaðu þau"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "töflu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hjarta þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:13.120599155Z",
+  "model": "glm-5.3"
+}

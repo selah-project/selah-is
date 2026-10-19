@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "á\/ásamt",
+      "rationale": "על í báðum tilvikum er 'á\/á vegum' — íslenskan þarf tvö ólík smáorð til að greina sambandið"
+    },
+    {
+      "kind": "crux",
+      "subject": "hlutur þveifarinnar",
+      "rationale": "Hebreskan: presturinn þveifar ⟨את⟩ þeim — sumir lesa aðeins lömbin (ásamt brauðinu), aðrir lömb og brauð saman"
+    }
+  ],
+  "translation": "Og presturinn skal þveifa ⟨את⟩ þeim, á brauði fyrstu ávaxta, þveifun frammi fyrir Jahve, ásamt tveimur lömbum; helgt skulu þau vera Jahve, til handa prestinum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eadcaa7a5260fb4ee480c067989d23d1f1c7b95ee8a0cfdd05370f2384de9c11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/23\/17-20.1792396182381.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Og presturinn skal þveifa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim (lömbunum og brauðinu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauði"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "fyrstu ávaxta"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "þveifun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frammi fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ásamt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tveimur"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lömbum"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helgt"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skulu þau vera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til handa prestinum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:49:42.382992229Z",
+  "model": "glm-5.3"
+}

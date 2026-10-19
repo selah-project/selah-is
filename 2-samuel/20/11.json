@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 20:11",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebrew ends with ‘after Joab’ with no verb; the Icelandic imperative ⟨fari⟩ is supplied and bracketed."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the troops",
+      "rationale": "A shouted summons calling the soldiers to choose: follow Joab and David."
+    }
+  ],
+  "translation": "Og einn maður af unglingum Jóabs stóð yfir honum og sagði: Hver sem vill Jóab vel og hver sem er Davíðs — ⟨fari⟩ á eftir Jóab!",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "9c66598e419716c33389303a50d0f4e862633e005c40d556c9ec5d2befba1929",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/20\/9-12.1792401649169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og maður"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stóð"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir honum"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "af unglingum"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóabs"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "vill"
+    },
+    {
+      "surface": "ביואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "er Davíðs"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "á eftir"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    }
+  ],
+  "timestamp": "2026-10-19T09:20:49.170505100Z",
+  "model": "glm-5.3"
+}

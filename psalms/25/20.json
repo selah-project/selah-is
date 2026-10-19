@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki ósjálfstæð 'sál' — 'sál' er hefð en ekki myndin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חסה er 'flýja til skjóls' — 'leitað hlýju' nær skjólsmyndinni betur en 'treysta'"
+    }
+  ],
+  "translation": "Gættu sálar minnar og frelstu mig; má ég ekki verða skammast mín, því að ég hefi leitað hlýju hjá þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/25\/17-20.1792409484790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Gættu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "og frelstu mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ekki"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "verða skammast mín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "hefi leitað hlýju"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hjá þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:24.791619660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,169 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 12:19",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויעל מעל — 'hélt upp frá' er bókstafleg mynd 'fór upp\/upp frá' Jerúsjalajím, ekki 'fór burt'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הנמצא — þóttarsagnmynd 'fannst', bókstaflega 'það sem fannst'."
+    }
+  ],
+  "translation": "Og Jehóash konungur Júda tók ⟨את⟩ allt það helga sem Jehóshafat og Jehóram og Akhazja, feður hans, konungar Júda, höfðu helgað, og ⟨את⟩ helgihluti sína, og ⟨את⟩ allt gullið sem fannst í gjölfum húss Jahve og húss konungsins, og sendi Khazaél konungi Aram, og hann hélt upp frá Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07db0dac5aed56ad48d92f9d30d35089e0c2893b3ea3a722eb04880b9776bfdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/12\/19-20.1792416738826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tók"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehóash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt það helga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "það helga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "höfðu helgað"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehóshafat"
+    },
+    {
+      "surface": "ויהורם",
+      "gloss": "og Jehóram"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "og Akhazja"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feður hans"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konungar"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "helgihluti sína"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "helgihluti sína"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allt gullið"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gullið"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "sem fannst"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "í gjölfum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og húss"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendi"
+    },
+    {
+      "surface": "לחזאל",
+      "gloss": "Khazaél"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og hann hélt upp"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "frá"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:18.827244280Z",
+  "model": "glm-5.3"
+}

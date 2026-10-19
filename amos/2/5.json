@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "ו prefix er þýtt „Og“ — tilvitnun í formála dómsorakelsins"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש",
+      "rationale": "„Eldur“ er fastur dómarmáti Amosar yfir hverja þjóð — endurtekningin í ráðinni er stórfengleg en tapast í einu versi"
+    }
+  ],
+  "translation": "Og ég mun senda eld í Júda, og hann mun eyða borgarhöllum Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a15ccd03cab3fae641d0b89ebd4d4a6311f0cfea967c2e25e80e564d8e8882d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/2\/5-8.1792408388851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Og ég mun senda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "í Júda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "og hann mun eyða"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "borgarhöllum"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:13:08.852276521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עוזנו er „mátturinn vor“ heldur en eiginnafn — Elóhím kallaður styrkleiki þjóðarinnar."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Náðarsöngur í boðsformi — söfnuðurinn ákalltur til lofsungs."
+    }
+  ],
+  "translation": "Syngið fögnumum Elóhím, styrkleika vorum, gjöyið til Elóhím Jaakobs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/81\/1-4.1792410271216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Syngið fögnumum"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "styrkleiki vor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "gjöyið"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:31.217582134Z",
+  "model": "glm-5.3"
+}

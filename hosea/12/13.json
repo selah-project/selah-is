@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir ekki hver gætti; fornafnið er bætt við til skýringar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באשה...ובאשה",
+      "rationale": "endurtekningin 'fyrir konu og fyrir konu' er stílfært hrynjandi orðatiltæki, varðveitt í íslenskunni"
+    }
+  ],
+  "translation": "Og Jaakov flúði til akurs Aram, og Ísrael þjónaði fyrir konu, og fyrir konu gætti ⟨hann⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/12\/13-15.1792408149672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "flúði"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "til akurs"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "þjónaði"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "fyrir konu"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "og fyrir konu"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gætti"
+    }
+  ],
+  "timestamp": "2026-10-19T11:09:09.673010776Z",
+  "model": "glm-5.3"
+}

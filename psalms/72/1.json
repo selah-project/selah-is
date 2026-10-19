@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשלמה",
+      "rationale": "'Til Sjelómo' — haft sem undirtitill ('sálmur Sjelómo') eða í þágu konungsins; KJW\/JPS gera þetta að titli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפטיך",
+      "rationale": "משפט er dómur\/réttur; 'dómína' heldur laglegri mynd en 'réttlæti'."
+    }
+  ],
+  "translation": "Til Sjelómo. Elóhím, dómína þína gef þú konunginum og tsedek þinn syni konungs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/72\/1-4.1792410125575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Til Sjelómo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dómína þína"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "תן",
+      "gloss": "gef þú"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "og tsedek þinn"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "syni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:05.575852192Z",
+  "model": "glm-5.3"
+}

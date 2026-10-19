@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Fornafn viðskeytt í sögninni (תשלחום) tekið fram sérstaklega á íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשלחו\/תשלחום",
+      "rationale": "Endurtekning sömu rótar שלח í versinu, málmynd sem glatast að hluta í íslensku."
+    }
+  ],
+  "translation": "Bæði karlmann og kvenmann skuluð þér senda burt; út fyrir herbúðirnar skuluð þér senda ⟨þá⟩, svo að þeir mengi ekki ⟨את⟩ herbúðir sínar, þar sem ég bý meðal þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8d19404fce15ea6a1645e5d2b0ea82eab1d68ba94b1f3f3e650dd85be2092961",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/5\/1-4.1792396545250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "karlmann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bæði"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "kvenmann"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "skuluð þér senda burt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "út fyrir"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "út fyrir"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "herbúðirnar"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "skuluð þér senda ⟨þá⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "svo að þeir mengi ekki"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "mengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herbúðir sínar"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "herbúðir sínar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bý"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "meðal þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:55:45.251841033Z",
+  "model": "glm-5.3"
+}

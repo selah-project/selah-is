@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאו עמר",
+      "rationale": "'tóku báru ómer' — KJV\/Genæva: 'taka ómerinn frá sultnum (þjófnaður)'; ASV\/JPS: 'bera ómerana (vinnuafl)'. Hér valin síðari lesturinn."
+    },
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Fornafnið 'þeir' er ekki í hebreskunni, bætt við til skýrleika."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ómer",
+      "rationale": "Ómer er mælieining — heygið af korni — og hélst orðið óþýtt."
+    }
+  ],
+  "translation": "Naknir gengu ⟨þeir⟩ án klæða, og svangir báru ⟨את⟩ ómer.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c9da4cbdd0c1aa9c1a982f7f3f3d91a6367e7c25d72b2521dee90f7a872d5bd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/24\/10-11.1792417028990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Naknir"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gengu ⟨þeir⟩"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "án"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "klæða"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "og svangir"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "báru"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "ómer"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:08.990677364Z",
+  "model": "glm-5.3"
+}

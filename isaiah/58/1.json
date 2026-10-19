@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðsent um að kalla — textinn kallar á lesanda með hátíðlegri gjörð"
+    },
+    {
+      "kind": "you",
+      "subject": "til spámannsins",
+      "rationale": "Elóhím boðar spámanninum að hrópa og sýna fólkinu syndir þess"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebreska neitunin אל er sameinuð íslensku neituninni 'ekki' í sömu setningu og sagnirnar"
+    }
+  ],
+  "translation": "Kallaðu með hálsinum, haltu ekki aftur, sem lúður hækkaðu rödd þína, og kunngjer fólki mínu uppreisn þeirra, og húsi Jaakov syndir þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/58\/1-4.1792405031864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Kallaðu"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "með hálsinum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "haltu aftur"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "sem lúður"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "hækkaðu"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "rödd þína"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "og kunngjer"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "fólki mínu"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "uppreisn þeirra"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "og húsi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "syndir þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:11.865092633Z",
+  "model": "glm-5.3"
+}

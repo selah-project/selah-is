@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guði þeirra",
+      "rationale": "אלהים um guði þjóðanna — lágstafa „guði“, ekki Elóhím (D1)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרס תהרסם · שבר תשבר",
+      "rationale": "Tvöföld nafnháttarmynd — „rifa skaltu rífa, brjóta skaltu brjóta“; fullkominn eyðing, áherslan glatist að hluta í íslensku."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצבתיהם",
+      "rationale": "מצבה — uppreistur minnisstólpi; hér í fleirtölu um líkneskishálka þjóðanna."
+    }
+  ],
+  "translation": "Þú skalt ekki falla á kné fyrir guði þeirra né þjóna þeim, og ekki gjöra eftir verkum þeirra, heldur rifa skaltu þá niður og brjóta skaltu stólpa þeirra á splunkur.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/21-24.1792394748899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "Þú skalt falla á kné"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "fyrir guði þeirra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "þjóna þeim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gjöra"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "eftir verkum þeirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "rifa"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "skaltu þá niður"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "og brjóta"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "skaltu"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "stólpa þeirra á splunkur"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:48.901441366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קראתי",
+      "rationale": "Ketiv er qatal fyrstu persónu ('ég kallaði') en samhengið les qatal annarrar persónu ('kallaðir þú') — þýðendur skiptast á."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלוף",
+      "rationale": "'Félagi, kærasti, tamur vinur' — KJV 'guide of my youth' er túlkan, ekki orðmyndin."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Spurning beint til Ísraels um orð hennar sjálfrar til Jahve."
+    }
+  ],
+  "translation": "Hefur þú ekki rétt í þessu kallað til mín: Faðir minn, félagi æskunnar er þú?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6978f36bd0adc38f0e78e67c98190039b1e588eae5832a5d01d7502bbc3d144d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/3\/1-4.1792405250848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Hefur þú ekki"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "rétt í þessu"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "kallað"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Faðir minn"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "félagi"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "æskunnar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    }
+  ],
+  "timestamp": "2026-10-19T10:20:50.850038100Z",
+  "model": "glm-5.3"
+}

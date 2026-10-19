@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífsátt, andardráttur og löngun — ekki sál í filosófískum skilningi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/ויכלמו",
+      "rationale": "þrjú samstæð orð fyrir skömm mynda hröðunu sem tapast að hluta til á íslensku"
+    }
+  ],
+  "translation": "Megu þeir verða skaprauki og svívirðir, þeir sem leita sálar minnar; megu þeir víkja bak og verða skammar þeir sem girnast ógæfu mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/70\/1-4.1792410099338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Megu þeir verða skaprauki"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "og svívirðir"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "þeir sem leita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "megu þeir víkja"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "bak"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "og verða skammar"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "þeir sem girnast"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ógæfu mína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:39.339158232Z",
+  "model": "glm-5.3"
+}

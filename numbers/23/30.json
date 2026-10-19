@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "á hvert altari",
+      "rationale": "Hebreskan segir aðeins 'á altarið' (eintölu með greini); 'á hvert altari' er ályktun úr samhengi, en textinn sjálfur segir ekki 'hvert'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויעל er 'steig upp\/bar'; rutt sem 'fór með… á altarið' svo söfnunin sé sýnileg á íslensku"
+    }
+  ],
+  "translation": "Og Balak gjörði eins og Bíleam sagði, og fór með naut og hérr á altarið ⟨á hvert þeirra⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "06df11e3cf8896993132f02f86dd848063c454e7f7502231933981c2abe02daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/23\/29-30.1792397087568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjörði"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bíleam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og fór með"
+    },
+    {
+      "surface": "פר",
+      "gloss": "naut"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "og hérra"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "á altarið"
+    }
+  ],
+  "timestamp": "2026-10-19T08:04:47.568979837Z",
+  "model": "glm-5.3"
+}

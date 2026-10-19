@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מוק",
+      "rationale": "„Þeir háða“ — rót מוק kemur aðeins hér í Tanakh og merkingin er óviss"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממרום",
+      "rationale": "„Af hæð“ — JPS les „sem enginn væri uppi á hæðinni“, KJV „loftlega“"
+    }
+  ],
+  "translation": "Þeir háða og tala í illu kúgunar, af hæð tala þeir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/73\/5-8.1792410153985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "þeir háða"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "og tala"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "í illu"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "kúgunar"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "af hæð"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tala þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:33.986279481Z",
+  "model": "glm-5.3"
+}

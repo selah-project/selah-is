@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רוח ritað rúakh — eitt orð, þrennt: Andi, vindur, andardráttur"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מרחפת: ‚lék\/brúðaði yfir‘ vs ‚svif­flaug­aði‘; myndin er fugl sem býr ungvarpargg"
+    }
+  ],
+  "translation": "Og jörðin var auðn og tóm, og myrkur yfir fjöllum djúpsins, og rúakh Elóhím lék yfir fjöllum vatnanna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/1-4.1792392568431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Og jörðin"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "var"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "auðn"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "og tóm"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "og myrkur"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fjöllum"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "djúpsins"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og rúakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "lék"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fjöllum"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnanna"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:28.435414374Z",
+  "model": "glm-5.3"
+}

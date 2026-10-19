@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סגולה",
+      "rationale": "„Eignarbrúði“ fyrir סגולה — öðrum þýðendum „sérstök eign“; orðið merkir lokaða fjársjóðseign."
+    },
+    {
+      "kind": "alternative",
+      "subject": "orðaröð",
+      "rationale": "Vierðilegast: „því að Ja valdi sér Jaakov“ — á undan vegi (fullkomnun) eins og hebreskan."
+    }
+  ],
+  "translation": "Því að Ja valdi sér Jaakov, Ísrael að eignarbrúða sínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/135\/1-4.1792410930970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "valdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "að eignarbrúða sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:30.971052493Z",
+  "model": "glm-5.3"
+}

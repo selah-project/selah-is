@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חפש מחפש",
+      "rationale": "Sömu stafir snúið við: khefeshmekhupash — 'leitar-vel-leitað', hljóðaleg speglun sem glatast á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "við fullkomnuðum",
+      "rationale": "KJV\/ASV lesa תמנו sem vitnað orð sögðara ('We have accomplished, say they') — JPS les það sem frásögn; hvort tveggja mögulegt."
+    }
+  ],
+  "translation": "Þeir leita ranglætis; „við fullkomnuðum leit — vel rannsakað“, og hið inra mannsins og hjartað er djúpt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/64\/5-8.1792410040648.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "þeir leita"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ranglætis"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "við fullkomnuðum"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "leit"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "vel rannsakað"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "og hið inra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "og hjartað"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "djúpt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:40.649205555Z",
+  "model": "glm-5.3"
+}

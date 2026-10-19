@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויאמר קין אל הבל",
+      "rationale": "masóreska textinn greinir ekki hvað Kajín sagði — Samaritanusar, LXX og SP bæta við 'Latið okkur fara út á vellið'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קין ... הבל",
+      "rationale": "endurtekningin 'Kajín–Hevel–bróður sinn' tvisvar rammar morðið — 'bróður' fellur þrisvar í versinu"
+    }
+  ],
+  "translation": "Og Kajín sagði við Hevel, bróður sinn ⟨ hvað hann sagði er ekki haft í hebreskuni ⟩; og þegar þeir voru á vellinum, gékk Kajín á Hevel, bróður sinn, og drap hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/4\/5-8.1792392538667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður sinn"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og þegar"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "þeir voru"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "á vellinum"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "gékk"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður sinn"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "og drap hann"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:58.674523685Z",
+  "model": "glm-5.3"
+}

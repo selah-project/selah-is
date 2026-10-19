@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כִּרְחֹק \/ הִרְחִיק",
+      "rationale": "Sama rót רחק kemur tvisvar — 'eins fjarri' og 'fjarlægt' — samhljómur sem varðveittist með 'fjarri\/fjarlægt'"
+    }
+  ],
+  "translation": "Eins fjarri sem austur er frá vestri, þá hefir hann fjarlægt ⟨את⟩ uppreisnir vorar frá oss.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/9-12.1792410504365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "Eins fjarri sem"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "austur"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "frá vestri"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "hefir hann fjarlægt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "frá oss"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uppreisnir vorar"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "uppreisnir vorar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:24.366853483Z",
+  "model": "glm-5.3"
+}

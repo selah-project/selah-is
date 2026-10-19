@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במאזנים",
+      "rationale": "Hebreskan er tvítala (mótvogir tveir); íslenska 'vog' ekki með tvítölu, myndin tvö vagna fellur brott."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'lét vitta' — ואעד er orðmynd á 'að votta' (afleiðing), íslenskan þarf eignarfallsþátt."
+    }
+  ],
+  "translation": "Og ég skrifaði í bókina og innsiglaði og lét votta vitni og vóg silfrið á voginni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/32\/9-12.1792406165137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Og ég skrifaði"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "í bókina"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "og innsiglaði"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "og lét votta"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vitni"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "og vóg"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silfrið"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "á voginni"
+    }
+  ],
+  "timestamp": "2026-10-19T10:36:05.137959438Z",
+  "model": "glm-5.3"
+}

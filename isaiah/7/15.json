@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "til að hann þekki",
+      "rationale": "לדעתו getur líka verið tákntími — 'þegar hann þekkir' (JPS) — en markmiðstúlkun ('til að') er jafgömul."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ostmjólk",
+      "rationale": "חמאה er súrmjólk\/osti — ekki smjör eins og gömlu þýðingarnar segja."
+    }
+  ],
+  "translation": "Ostmjólk og hunang mun hann éta, til að hann þekki að hafna hinu illa og kjósa hið góða.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a6146c4e58a799711a253935b5c8021d72e44f34325de6d7f3a7ceed119778e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/7\/13-16.1792403779359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "Ostmjólk"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "og hunang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mun hann éta"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "til að hann þekki"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "að hafna"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "hinu illa"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "og að kjósa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "hið góða"
+    }
+  ],
+  "timestamp": "2026-10-19T09:56:19.360761428Z",
+  "model": "glm-5.3"
+}

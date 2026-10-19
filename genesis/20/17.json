@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "וילדו er orðið 'og þau áttu börn' — hebreskan segir aðeins 'og þau ósluðu\/fæddu'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lækning",
+      "rationale": "versið lokar atburðarás með niðurstöðu — líkamsleg lækning og fruitberni talin"
+    }
+  ],
+  "translation": "Og Avraham bænast Elóhím, og Elóhím læknaði ⟨את⟩ Avímelekh og ⟨את⟩ konu hans og ambáttir hans, og þau áttu börn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ebc5c3d80dd8765d16dd74f8b1a42fea020ec3ae3785531958dae86e04273230",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/20\/17-18.1792392991085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "bænast"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "læknaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avímelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avímelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konu hans"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "konu hans"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ambáttir hans"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "og þau áttu börn"
+    }
+  ],
+  "timestamp": "2026-10-19T06:56:31.086330192Z",
+  "model": "glm-5.3"
+}

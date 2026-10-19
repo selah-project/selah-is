@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתכם aftast er forsetningin 'með' (H854), ekki staðgreinir begings — merkt ⟨את⟩ en þýðir 'með ykkur'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Tvétt 'einn': Tóra ein og dómur einn — tvenndin lykjar kaflaættina og jafnar gestinn og innfædda í einni setningu"
+    }
+  ],
+  "translation": "Ein Tóra og einn dómur verði ykkur og gestinum sem gistir ⟨את⟩ með ykkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1944fff528b1c55fea9b0d42ffb13cbe91663b48cdd227e426249dd65fa0ab0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/15\/13-16.1792396851262.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ein"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dómur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verði"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "og gestinum"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sem gistir"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "með ykkur"
+    }
+  ],
+  "timestamp": "2026-10-19T08:00:51.263196900Z",
+  "model": "glm-5.3"
+}

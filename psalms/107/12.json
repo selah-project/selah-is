@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbeygingin 'þá lét' bætt við fyrir danska yfirsagnar-orðatilhögun; hebreskan hefur einfaldan wayyiqtol"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "כשלו merkir 'þeir töpuðu fótfestu' — 'féllu' eða 'stöktust' eru aðrar lesanir"
+    }
+  ],
+  "translation": "Þá lét hann hjarta þeirra lúta undir erfiði; þeir hröktust, og ⟨var⟩ enginn hjálpari.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/9-12.1792410617229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "lét hann ... lúta undir"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "undir erfiði"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hjarta þeirra"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "hröktust"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨var⟩ enginn"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjálpari"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:17.230278598Z",
+  "model": "glm-5.3"
+}

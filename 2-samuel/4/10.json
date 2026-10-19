@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 4:10",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר לתתי לו בשרה",
+      "rationale": "„sem var til að gefa honum gjöf“ (yelþýðing) á móti „í stað þess að gefa“ (jps) eða „það var launin sem ég gaf honum“ (asv\/kjv)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשרה",
+      "rationale": "bæði „fagnaðarerindi“ og „gjöf fyrir fagnaðarerindi“ — önnur merking sömu rótar"
+    }
+  ],
+  "translation": "Þegar sá er kunngjörði mér og sagði: Sjá, Sjaul er dáinn — og hann var sem boðberi fagnaðar í eigin augum — þá greip ég hann og drap hann í Tsiklag, ‹án þess› að gefa honum gjöf fyrir fagnaðarerindið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c568d1a6fc9f26e5e847915c891142ea249839abf1f055e996f489afd425b7d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/4\/10-11.1792416637476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "sá er kunngjörði"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "מת",
+      "gloss": "er dáinn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "כמבשר",
+      "gloss": "sem boðberi fagnaðar"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "í eigin augum"
+    },
+    {
+      "surface": "ואחזה",
+      "gloss": "þá greip ég"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "og drap hann"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "í Tsiklag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‹án þess› að"
+    },
+    {
+      "surface": "לתתי",
+      "gloss": "gefa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "gjöf fyrir fagnaðarerindið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:30:37.477167451Z",
+  "model": "glm-5.3"
+}

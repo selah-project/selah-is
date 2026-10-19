@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "יכחשו: 'ljúga\/sýna falska hlýðni' (ylt) annars vegar, 'krjúpa\/fáast við' (KJV 'submit') hins vegar — rótin er að vera ósannur"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'eru' bætt við — hebreskan sleppir sögninni í upphrópuninni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "מה נורא — upphrópun sem fellur saman við nafnið sinai-ótgáfu; hrynjandi ógurleikans"
+    }
+  ],
+  "translation": "Segjið Elóhím: Hve ógurleg verk þín eru! Vegna gnægðar afls þíns munu þeir sem hata þig ljúga þér hlýðni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/66\/1-4.1792409976682.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Segjið"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hve"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ógurleg"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "verk þín"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Vegna gnægðar"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "afls þíns"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "munu ljúga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "þeir sem hata þig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:36.683058044Z",
+  "model": "glm-5.3"
+}

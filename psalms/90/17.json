@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf umræðanda ⟨þú⟩ í óbeinni beiðni sem hebreskan sleppir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fagurþætti",
+      "rationale": "נעם er yfirgrip orða: fagurþáttur, kurteisi, blær — ekkert eitt íslenskt orð nær því"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ומעשה ידינו",
+      "rationale": "Endurtekningin „verk handa vorra — styrki það” endar bænina með stígandi afturköllun, varðveitt hér"
+    }
+  ],
+  "translation": "Og sé fagurþætti Adónaí Elóhím ⟨okkar⟩ yfir oss, og styðji ⟨þú⟩ verk handa vorra — já, verk handa vorra styrki það!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "19b3ecc4a0a9a66a2e90b254550fc632b7e3b1273c2bff9c0a2fbd340ecf53e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/90\/17-17.1792410404442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og sé"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "fagurþætti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím ⟨okkar⟩"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yfir oss"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "og verk"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "handa vorra"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "styðji"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "já, verk"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "handa vorra"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "styrki það"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:44.443130913Z",
+  "model": "glm-5.3"
+}

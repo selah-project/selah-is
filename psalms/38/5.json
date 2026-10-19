@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד\/יכבדו",
+      "rationale": "Sama rót tvívegis: 'þung' og 'eru of þungar' — endurtekningin sést í íslenskunni."
+    }
+  ],
+  "translation": "Því að misgörðir mínar hafa farið yfir höfuð mitt, sem þung byrði eru þær of þungar fyrir mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/5-8.1792409698116.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "misgörðir mínar"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "hafa farið yfir"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfuð mitt"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "sem þung byrði"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "þung"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "eru þær of þungar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fyrir mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:58.117224805Z",
+  "model": "glm-5.3"
+}

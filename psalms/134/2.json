@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדש",
+      "rationale": "'hinn heilagi (staður)' — til helgidómsins, í helgidóminum eða í heilagleika (áleitnar hendur)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו",
+      "rationale": "sama rót og 'að knýja' — blessun og knéseta í einni mynd, glatarst í íslensku"
+    }
+  ],
+  "translation": "lyftið höndum yðar í heilagleika og blessið ⟨את⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/134\/1-3.1792410874477.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "lyftið"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "höndum yðar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "í heilagleika"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "og blessið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:34.478643634Z",
+  "model": "glm-5.3"
+}

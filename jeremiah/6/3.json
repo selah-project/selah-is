@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hjarðar",
+      "rationale": "רעים 'hjarðar' er myndmynd herjanna sem kindum — ekki 'leiðtogar', heldur þeir sem bíða hjörðarinnar af."
+    },
+    {
+      "kind": "crux",
+      "subject": "איש את ידו",
+      "rationale": "Orðrétt 'hjarði hver hönd sína' — jps 'feed every one what is nigh at hand'; myndin er að hverr greiðir á sitt svæði."
+    }
+  ],
+  "translation": "Til hennar koma hjarðar og hjörð þeirra; þeir slá upp tjöldum gegn henni í hring í kring; hjarðið hver ⟨את⟩ höndina sína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/6\/1-4.1792405417537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "til hennar"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "koma"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "hjarðar"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "og hjörð þeirra"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "þeir slá upp tjöldum"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "gegn henni"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "tjöldum"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "í kring"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "hjarðið"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "höndina sína"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "höndina sína"
+    }
+  ],
+  "timestamp": "2026-10-19T10:23:37.538067542Z",
+  "model": "glm-5.3"
+}

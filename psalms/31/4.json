@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ert þú",
+      "rationale": "Íslenskan þarf sögn sem hebreskan sleppir (sagnlaust nafnlið)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנחני\/ותנהלני",
+      "rationale": "Tvö nálæg leiðarörð — „leiða“ og „ganga með\/ærta“ — tenging sem glatarst að hluta í íslensku."
+    }
+  ],
+  "translation": "Því að kletturinn minn og virki mitt ert þú; og vegna nafns þíns leiðir þú mig og牽 fylgir mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/31\/1-4.1792409536816.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "kletturinn minn"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og virki mitt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og vegna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nafns þíns"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leiðir þú mig"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "og fylgir mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:16.817484718Z",
+  "model": "glm-5.3"
+}

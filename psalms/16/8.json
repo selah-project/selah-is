@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framsögnin 'hann er' vantar í hebreskuna; bætt við á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ekki vikja",
+      "rationale": "אמוט er 'vakna, skjálfa, renna' — margar þýðingar segja 'ekki hrekjast'."
+    }
+  ],
+  "translation": "Ég setti Jahve ætíð frammi fyrir mér; því að ⟨hann er⟩ á hægri hönd mér, skal ég ekki vikja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/16\/5-8.1792409324391.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Ég setti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "frammi fyrir mér"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ætíð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "á hægri hönd mér"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "skal ég vikja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:44.392454718Z",
+  "model": "glm-5.3"
+}

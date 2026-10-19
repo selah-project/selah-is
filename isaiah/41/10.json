@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "Beint samtal: Jahve talar til Ísraels, þjóns síns, í annarri persónu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקי er geymt sem 'tsedek míns' eftir D2, ekki 'réttlæti' einn."
+    },
+    {
+      "kind": "alternative",
+      "subject": "hægri hendi",
+      "rationale": "JPS les 'sigrandi hægri hönd' — hægri handin sjálf er virk; taflan heldur bokstaflegri mynd."
+    }
+  ],
+  "translation": "Óttast þú ekki, því með þér er ég; horfðu ekki hrætt um kring, því ég er Elóhím þinn. Ég styrkti þig, já, ég hjálpaði þér, já, ég held þér uppi með hægri hendi tsedek míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/9-12.1792404588610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Óttast þú ekki"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "(óttast)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "horfðu ekki hrætt um kring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "styrkti ég þig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "já"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "hjálpaði ég þér"
+    },
+    {
+      "surface": "אף",
+      "gloss": "já"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "held ég þér uppi"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "með hægri hendi"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedek míns"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:48.610927814Z",
+  "model": "glm-5.3"
+}

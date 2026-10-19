@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "orðrétt 'nef sitt' — mynd reiði og stáls í hebreskri mynd"
+    },
+    {
+      "kind": "crux",
+      "subject": "אין אלהים",
+      "rationale": "setningin getur verið 'Það er enginn Elóhím' (hugmynd vondans) eða 'Elóhím er ekki [í allri hans hyggju]' — KJV og JPS skipta með sér"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "gæsalöppin tilgreina beina ræðu vondans sem hebreskan frumtexti lætur ómerktan"
+    }
+  ],
+  "translation": "Vondinn, í stálsi andlits síns, leitar ekki; „Elóhím er ekki“ — allar vélar hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/10\/1-4.1792409337650.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Vondinn"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "í stálsi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "andlits síns"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "leitar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er ekki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "vélar hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:57.651495300Z",
+  "model": "glm-5.3"
+}

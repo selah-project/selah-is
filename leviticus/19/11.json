@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עמית er ‚félagi, jafningi‘ — sama rót og עם; ‚náungi‘ heldur því saman"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "forsöglið ‚þið skuluð‘ endurtekið; hebreskan hefur bara neitunina og sagnirnar"
+    }
+  ],
+  "translation": "Þið skuluð ekki stela, og þið skuluð ekki bregjast, og þið skuluð ekki ljúga, hvert um annan náunga síns.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/9-12.1792395870900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "þið skuluð stela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "þið skuluð bregjast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "þið skuluð ljúga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "um annan náunga síns"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:30.903648578Z",
+  "model": "glm-5.3"
+}

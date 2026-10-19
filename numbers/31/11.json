@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אדם",
+      "rationale": "'fólk' fyrir אדם — orðið er 'maður, mannkyn', haft sameiginlega"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלל\/מלקוח",
+      "rationale": "tvö náliga samstæð orð fyrir herfang — párað í hebresku, greint sem 'herfang\/ránsfang'"
+    }
+  ],
+  "translation": "Og þeir tóku ⟨את⟩ allt herfangið og ⟨את⟩ allt ránsfangið, bæði af fólki og af búfé.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "97413b1bef2d5e25dc63fa516d842ecfae3472f959ba2a3d114a0451a96afb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/31\/9-12.1792397355030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "tóku þeir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt herfangið"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "herfangið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt ránsfangið"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ránsfangið"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "af fólki"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "og af búfé"
+    }
+  ],
+  "timestamp": "2026-10-19T08:09:15.033433113Z",
+  "model": "glm-5.3"
+}

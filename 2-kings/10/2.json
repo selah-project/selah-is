@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויאתכם",
+      "rationale": "Hér er את með viðskeyti forsetninguna 'með' (H854), ekki umsagnarmerki — flutt sem 'með' en ⟨את⟩ haldið"
+    },
+    {
+      "kind": "you",
+      "subject": "til öldunganna í Jisreel",
+      "rationale": "Bréf Jéhú talar beint til höfðingja og öldunganna í öðru persóni fleirtölu"
+    }
+  ],
+  "translation": "Og nú, þegar þetta bréf kemur yður — og með ⟨את⟩ yður eru synir herra yðar, og með ⟨את⟩ yður eru vagnarnir og hestarnir og víggjötuð borg og vopnin —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d4e50aa8915e2e755faa7ba87899cdc7e2c1afe79244906a9173676e6150e0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/10\/1-4.1792403027133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "þegar ... kemur"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "þetta bréf"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "og með ⟨את⟩ yður",
+      "marks": "synir herra yðar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "herra yðar"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "og með ⟨את⟩ yður",
+      "marks": "vagnarnir og hestarnir"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vagnarnir"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "og hestarnir"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "og borg"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "víggjötuð"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "og vopnin"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:47.134054013Z",
+  "model": "glm-5.3"
+}

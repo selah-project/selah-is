@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Framkvæmdarorð hebreskunnar hefur ekki viðfang; 'hann' bætt við á íslensku."
+    }
+  ],
+  "translation": "En ⟨את⟩ holdið og ⟨את⟩ skinnit brenndi hann í eldi, fyrir utan herbúðirnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/9\/9-12.1792395587120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "holdið"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "holdið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skinnit"
+    },
+    {
+      "surface": "העור",
+      "gloss": "skinnit"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "brenndi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eldi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "fyrir utan"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "herbúðirnar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:47.121799489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf vague subject ⟨það⟩ og boðsstil í seinni helming, sem hebreskan sleppir með ófullkominni frumlagatölu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תועבה",
+      "rationale": "„Andstyggðarverk“ fyrir toevá — orðið merkir eitthvað ógeðslegt, andstyggilegt í augum Jahve, ekki bara „lastverk“."
+    }
+  ],
+  "translation": "Og ⟨það⟩ er sagt þér, og þú heyrir það, og þú rannsakar ⟨það⟩ vandlega, og sjá — ⟨það⟩ er satt og staðfest málið: gjört hefur verið þetta andstyggðarverk í Ísrael.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2a9d8975b42f88f0140b83e8e760f60057a674bd2e4fbb30c4bee9dc8d518dd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/17\/4-4.1792416459654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "og ⟨það⟩ er sagt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "og þú heyrir"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "og þú rannsakar"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "vandlega"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "satt"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "staðfest"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "málið"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "gjört hefur verið"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "þetta andstyggðarverk"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T13:27:39.654769493Z",
+  "model": "glm-5.3"
+}

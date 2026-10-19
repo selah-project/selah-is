@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ויהי er óþýðanleg opening á íslensku; sett inn 'það kom fram' í svigum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tóra",
+      "rationale": "תורת יהוה ritað eftir hljóði, ekki 'lögmál Jahve'"
+    }
+  ],
+  "translation": "Og ⟨það kom fram⟩ að þegar ríki Rekhavam var staðfest og hann sjálfur orðinn sterkur, yfirgaf hann ⟨את⟩ Tóra Jahve, og allur Ísrael með honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/12\/1-4.1792415442139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og ⟨það kom fram⟩"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "að þegar var staðfest"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ríki"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "og hann sjálfur orðinn sterkur"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "yfirgaf hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tóra"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "með honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:10:42.140278599Z",
+  "model": "glm-5.3"
+}

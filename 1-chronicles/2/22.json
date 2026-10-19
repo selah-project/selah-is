@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tuttugu og þrjár",
+      "rationale": "hebreskan telur 'tuttugu og þrjár'; íslenska talnaröðin segir 'þrjátíu og þrjár' en hér er haldið í tölusetningu hebreskunnar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "borgirnar",
+      "rationale": "fjöldi borga Jaíar talinn: tuttugu og þrjár"
+    }
+  ],
+  "translation": "Og Segúb gat ⟨את⟩ Jaír, og honum urðu ⟨þrjátíu⟩ ⟨og⟩ þrjár borgir í landi Gílead.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/2\/21-24.1792414455021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "Og Segúb"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "gat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaír"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaír"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og honum urðu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "og þrjár"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "borgir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gílead"
+    }
+  ],
+  "timestamp": "2026-10-19T12:54:15.022901726Z",
+  "model": "glm-5.3"
+}

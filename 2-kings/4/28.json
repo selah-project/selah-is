@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "herra minn",
+      "rationale": "אדני til Elísa eins manns — ekki Adónaí, Guð ekki nefndur hér"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשלה",
+      "rationale": "'svík' (mislead) er rót שלה; sumir lesa 'ráðskast ekki með mig' — grænan sannleika gefinn og tekinn"
+    }
+  ],
+  "translation": "Og hún sagði: Bað ég um son ⟨את⟩ frá herra mínum? Sagði ég ekki: Svík þú ekki ⟨את⟩ mig?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/4\/25-28.1792402932256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "og hún sagði"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "bað ég"
+    },
+    {
+      "surface": "בן",
+      "gloss": "um son"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ frá"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra mínum"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "hvort"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagði ég"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "svíkir þú"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    }
+  ],
+  "timestamp": "2026-10-19T09:42:12.258264274Z",
+  "model": "glm-5.3"
+}

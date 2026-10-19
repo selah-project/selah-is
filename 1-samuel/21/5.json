@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חל merkir 'ógyrt\/almennilegt' — andstæða קדש; 'algýrt brauð' heldur andstæðunni sem orðmyndin ber."
+    },
+    {
+      "kind": "crux",
+      "subject": "verse-delimitation",
+      "rationale": "KJV\/ASV\/bybilar lætur Davíð mæla þetta (v. 4–5), JPS lætur prestinn mæla; hebreska textinn er sönnunar ekki ákvarðandi."
+    }
+  ],
+  "translation": "Og presturinn svaraði ⟨את⟩ Davíð og sagði: Eigi er algýrt brauð undir hendi minni, heldur er heilagt brauð, ef sveinarnir hafa gætt sín aðeins frá konum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/21\/5-8.1792400872384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og-svaraði"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og-sagði"
+    },
+    {
+      "surface": "אין",
+      "gloss": "eigi-er"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "חל",
+      "gloss": "algýrt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "undir"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hendi-minni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nema"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilagt"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "hafa-gætt-sín"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "sveinarnir"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "frá-konum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:07:52.385275569Z",
+  "model": "glm-5.3"
+}

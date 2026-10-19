@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "íslenska þarf frumlag í setninguna 'mun verða', hebreskan hefur aðeins והיה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fangavist",
+      "rationale": "שבות er útlegð\/fangavist og jafnvel 'fyrra blómaskeið' — 'snúa שבות' er fastyrðing um endurreisn, ekki einskis að snúa föngum heim"
+    }
+  ],
+  "translation": "Og ⟨það⟩ mun verða í enda daga: ég sný ⟨את⟩ fangavist Elam, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d44c1c9895c5bcc4a952f907096bdc8898c7952583b2a8cc9ce6deb4afa5f497",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/49\/37-39.1792406532321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og mun verða"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "í enda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ég sný"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fangavist Elam"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "fangavist"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:42:12.323267295Z",
+  "model": "glm-5.3"
+}

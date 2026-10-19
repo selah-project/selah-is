@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hermenn",
+      "rationale": "Mannatal herdeildar: tvö hundruð þúsund fótgönguliðar og tíu þúsund af Júda"
+    },
+    {
+      "kind": "crux",
+      "subject": "את איש יהודה",
+      "rationale": "אֵת hér er forsetningin 'með' — 'tíu þúsund ásamt mönnum Júda' — ekki beint nafnháttarmerki"
+    }
+  ],
+  "translation": "Og Sáúl kallaði saman ⟨את⟩ lýðinn og taldi þá í Telajím: tvö hundruð þúsund fótgönguliðar, og tíu þúsund ⟨את⟩ menn Júda.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/1-4.1792400577294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "og-kallaði-saman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sáúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lýðinn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðinn"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "og-taldi-þá"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "í-Telajím"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tvö-hundruð"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fótgönguliðar"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "og-tíu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menn Júda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:57.296218952Z",
+  "model": "glm-5.3"
+}

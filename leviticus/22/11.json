@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er 'öndandi vera, lifandi manneskja' — 'sál' í íslensku félli of þröngt; 'sál' heldur orðmynd en ekki öndunarmyndina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקנה \/ קנין",
+      "rationale": "Sömu rót קנה endurtekin: 'kaupir — kaup', orðaleikur sem þýðingin varðveitir að hluta."
+    }
+  ],
+  "translation": "En prestur, ef hann kaupir sér sál, kaup silfurs síns, þá má hann éta af því; og sá sem fæddur er í húsi hans, þeir mega éta af brauði hans.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/9-12.1792395997724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "en prestur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "kaupir sér"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sál"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "kaup"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "silfurs síns"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "má éta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "af því"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "og sá fæddi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "í húsi hans"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mega éta"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "af brauði hans"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:37.725784325Z",
+  "model": "glm-5.3"
+}

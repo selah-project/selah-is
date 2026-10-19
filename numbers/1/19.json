@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "taldi",
+      "rationale": "פקד hér 'að telja\/mannelda' — lykilorð allrar bókarinnar (Bímiðbar = 'í eyðimörk', en bókin er manntalsbók)."
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Framkvæmdaraðili (Mósje) kemur fram í forsetunni í ויפקדם en nafn hans stendur ekki aftur í versinu."
+    }
+  ],
+  "translation": "Eins og Jahve bauð ⟨את⟩ Mósje, þannig taldi hann þá í eyðimörkinni Sínaí.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/17-20.1792396339435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Eins og"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mósje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "taldi hann þá"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínaí"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:19.436347083Z",
+  "model": "glm-5.3"
+}

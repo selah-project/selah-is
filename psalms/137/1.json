@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Gam fyrir orðið 'já' — íslenska þarf atkvæði sem hebresku fellur saman við sagnirnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "yashavnu \/ bakhinu",
+      "rationale": "Sethugur sagnir 'sátum — grétum' í tveimur stuttum tilnefnum, hrynjandi tapast að hluta í íslensku"
+    }
+  ],
+  "translation": "Hjá ám Babel — þar sátum við, já, grétum við, er við minntumst ⟨את⟩ Tsíon.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/137\/1-4.1792410986914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "hjá"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ám"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "sátum við"
+    },
+    {
+      "surface": "גם",
+      "gloss": "já"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "grétum við"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "er við minntumst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsíon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsíon"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:26.915063349Z",
+  "model": "glm-5.3"
+}

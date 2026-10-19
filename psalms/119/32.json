@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "„því að“ (orsakatenging, jps\/bsb) vs. „þegar“ (kjv); háfs form gerir bæði möguleg"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך",
+      "rationale": "Orðið „vegur“ endurtekið í 119:29–32 — lygi, trúfesti, boðorð; mótbókstæðir vegir, glatað í þýðingu ekki"
+    }
+  ],
+  "translation": "Veg boðorða þinja skal ég hlaupa, því að þú víðkar hjarta mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2e323be5f74b3b888726790f8170ad49ab447a522334067e327dd054144f8749",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/29-32.1792410795638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "veg"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "boðorða þinja"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "skal ég hlaupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "þú víðkar"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:15.638918885Z",
+  "model": "glm-5.3"
+}

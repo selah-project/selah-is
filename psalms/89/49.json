@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki ódauðleg sál í grískum skilning"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Tónlistarmerki, hlé — haft óþýtt sem Sela"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Réttráð spurning til Guðs um mannlegt eðli — enginn flýr Sjeól"
+    }
+  ],
+  "translation": "Hver er sá geðmaður er lifir og sér ekki dauðann? Mun hann flýja sálu sína úr hendi Sjeól? Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/49-52.1792410419970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "geðmaður"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "lifir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sér"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauðann"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "mun hann flýja"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu sína"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeól"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:59.971238012Z",
+  "model": "glm-5.3"
+}

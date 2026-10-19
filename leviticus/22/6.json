@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש hér 'sá' — orðið er lífsaftur\/önd, ekki sála."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Óhreindleikinn mældur í tíma: til kvölds, þvo í vatni, sól sest."
+    }
+  ],
+  "translation": "sá sem snýr að slíku verður óhreinn til kvölds og má ekki eta af heilögum hlutum nema hann þvo hold sitt í vatni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8afa8e7a38b7d6ffdf1ec2f6d8d55753b2210cab5166a741214e3ea697c78057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/5-8.1792395964186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "snýr að"
+    },
+    {
+      "surface": "בו",
+      "gloss": "slíku"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "verður óhreinn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvölds"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og má ekki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "heilögum hlutum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nema"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "þvo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "hold sitt"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vatni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:04.187499035Z",
+  "model": "glm-5.3"
+}

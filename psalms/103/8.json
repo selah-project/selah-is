@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "Bókstaflega 'langur af nösum' — reiðin sýnileg í önd drætti; þýtt 'langþolin í reiði'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסed haft óþýtt eftir D2 — 'miskunn' ein myndi of þrengja orðið."
+    }
+  ],
+  "translation": "Miskunnarsamur og náðugur er Jahve, langþolin í reiði og mikill af khesed.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/5-8.1792410504950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Miskunnarsamur"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "og náðugur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "langþolin"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "í reiði"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og mikill"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "af khesed"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:24.951014116Z",
+  "model": "glm-5.3"
+}

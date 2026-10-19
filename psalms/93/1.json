@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf smellsetningu og hjáparkall sem hebreskan sleppti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש לבש",
+      "rationale": "Íslenska skiptir í tvö tíðarmyndir til að halda endurtekningunni"
+    }
+  ],
+  "translation": "Jahve er konungur orðinn, svarið sig í reisn hefur hann, Jahve hefur svarið sig í afl, með því hefur hann gyrt sig; jafnframt er heimurinn staðfestur, svo að eigi skal hann bifast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/93\/1-4.1792410471067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "er konungur orðinn"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "í reisn"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "svarið sig"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "hefur svarið sig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "í afl"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "hefur gyrt sig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "jafnframt"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "er staðfestur"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heimurinn"
+    },
+    {
+      "surface": "בל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "skal hann bifast"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:51.068201807Z",
+  "model": "glm-5.3"
+}

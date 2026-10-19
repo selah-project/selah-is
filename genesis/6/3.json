@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "skal dæma",
+      "rationale": "ידון: 'dæma\/berjast' (LXX διακριθήσεται, KJV 'strive') á móti 'blífa\/vera með' (JPS 'abide', frá דון\/שון orðasambandinu í Dómarabók 1 Sam 1:16 'כי דברים דינו' — 'halda dómri'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשגם",
+      "rationale": "בשגם: 'þar sem\/eins og' (atviksorð) eða skipt í ב+שגם 'í villu þeirra' (YLT) — risavaxið fræðideila"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Rúakh",
+      "rationale": "רוח merkir vind\/andi\/ándardráttur; ritað eftir hljóði, ekki þýtt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "hundrað og tuttugu ár",
+      "rationale": "nákvæmt talsetning líftíma mannins — mæling í árum"
+    }
+  ],
+  "translation": "Og Jahve sagði: Rúakh mín skal ekki dæma í manninum að eilífu, þar sem ⟨hann⟩ er hold; og dagar ⟨hans⟩ verða hundrað og tuttugu ár.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6f5d05b1df75c4da68acb387328f8973e4461c646bc8fa20ef3651a80ebcbaf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/6\/1-4.1792392740119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "skal dæma"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Rúakh mín"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "í manninum"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hold"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og ... verða"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dagar hans"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrað"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tuttugu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    }
+  ],
+  "timestamp": "2026-10-19T06:52:20.120988592Z",
+  "model": "glm-5.3"
+}

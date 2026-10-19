@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Þetta er frægt þýðingaverk: KJV les 'Amminadib' sem eiginnafn; JPS 'princely people'; YLT heldur orðhlutunum. Íslenska heldur tveimur orðum Hebresku (עמי נדיב) sem eina lýsingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nær 'kjör, lífsaft, munn› — 'sálin' er hefð en ekki full táknmynd"
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "Versið er meðvitað ógagnsætt — 'Ekki vissi ég' — og engin þýðing nær óvissunni alveg"
+    }
+  ],
+  "translation": "Ekki vissi ég; sálin mín setti mig ⟨á⟩ vagna frelsisþjóðar míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/6\/9-12.1792412598908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vissi ég"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "setti mig"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "vagna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "frelsisþjóðar míns"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "hins göfuga"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:18.909303650Z",
+  "model": "glm-5.3"
+}

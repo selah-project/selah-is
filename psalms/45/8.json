@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Andlagsorðið 'þig' flytjað aftur á eftir ⟨את⟩ — í hebresku stendur 'smurði ⟨את⟩ þig Elóhím'."
+    },
+    {
+      "kind": "crux",
+      "subject": "על כן משחך",
+      "rationale": "Orðaröðin: 'þess vegna smurði þig Elóhím, Elóhím þinn' — sumir lesa 'því hefur Elóhím, Elóhím þinn, smurt þig'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהבת\/ותשנא",
+      "rationale": "Andstæðupar elska\/hata rammar mæðgur í stakri verslínu; tsedek\/ranglæti heldur lofti."
+    }
+  ],
+  "translation": "Þú elskaðir tsedek og þú hatarð ranglæti; þess vegna smurði Elóhím, Elóhím þinn, ⟨את⟩ þig — olíu fagnaðar frá félagum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/45\/5-8.1792409834590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "þú elskaðir"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "og þú hatarð"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranglæti"
+    },
+    {
+      "surface": "על",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "því"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "smurði þig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olíu"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "fagnaðar"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "frá félagum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:14.591518893Z",
+  "model": "glm-5.3"
+}

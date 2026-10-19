@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 22:5",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki hlutfallslega setningu; 'skuli' er bætt við fyrir jussív"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bresti",
+      "rationale": "בדק er gat eða leki í húsi eða skipi, ekki almenn 'skýrsla' eða 'greinsla'"
+    }
+  ],
+  "translation": "Og það skuli gefast í hönd ⟨þeirra er⟩ vinna verkið, manna þeirra er settir eru til umsjónar með húsi Jahve, og þeir skuli gefa ⟨את⟩ fénu þeim er vinna verkið í húsi Jahve, til að styrkja bresti hússins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a7b31c510590939885653d7304a6775ab28d3297de1941ad67cc96b6ac108acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/22\/5-8.1792403489847.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנה",
+      "gloss": "Og það skuli gefast"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "þeirra er vinna"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "verkið"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "þeir er settir eru til umsjónar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "með húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "og þeir skuli gefa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "fénu"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "þeim er vinna"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "verkið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "til að styrkja"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "bresti"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:51:29.847709033Z",
+  "model": "glm-5.3"
+}

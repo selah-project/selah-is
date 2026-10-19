@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 25:26",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "מקטן ועד גדול, bókstaflega 'frá litlum og að stórum', stöðluð hebresk frasi um alla án undantekningar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויבאו er einungis 'fóru\/komu' — flótta til Mitsrajím er ályktun úr samhengi, ekki sögn textans."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Ályktunarorðin 'þeir' vísa til lýðsins; hebreskan hefur sögnina í 3. fleirtolu og þarf ekki fornafnið."
+    }
+  ],
+  "translation": "Og allur lýðurinn, frá litlum og að stórum, og höfðingjar hersins risu og fóru til Mitsrajím, því að þeir óttuðu Kasdíana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7712c3d893bb4c01d543aec838c6f9f70e6f9aba76f01c9f7323fdb05a5fb525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/25\/26-27.1792416756188.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "risu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðurinn"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "frá litlum"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og að"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stórum"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og höfðingjar"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "hersins"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "fóru"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "til Mitsrajím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "óttuðu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdíana"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:36.189112379Z",
+  "model": "glm-5.3"
+}

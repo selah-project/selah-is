@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שירו שיר",
+      "rationale": "Söng-skynjun: söngvari syngur söng — beygingarform glatast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "spilið hæfilega",
+      "rationale": "היטיבו נגן er bókstaflega 'gerið vel að spila' — gerð vel flutningsins."
+    }
+  ],
+  "translation": "Syngið honum nýjan söng; spilið hæfilega með fögnuðarópi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/33\/1-4.1792409631547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syngið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "söng"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nýjan"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "spilið hæfilega"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "spilið"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "með fögnuðarópi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:51.548645946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ענתה בנו",
+      "rationale": "Bókstaflega ‚svara gegn oss‘ — syndirnar bera vitni sem mælandi í dómi."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "gloss-note": "Lemma er אֵת ‚með\/nálægt‘ (H854), en merkingin ‚með oss‘ er hér fléttuð í ⟨את⟩-merkið samkvæmt reglunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨þá⟩ og viðskeytingin ⟨hjá⟩ fylla út það sem íslenskan þarf."
+    }
+  ],
+  "translation": "Því að margfaldast hafa uppreisnir vorar fyrir þér, og syndir vorar svara gegn oss; því að uppreisnir vorar ⟨את⟩ ⟨hjá⟩ oss, og misgerninga vora þekkjum vér ⟨þá⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3ca2fadf0b00a0d0aa1eb251b7e565ef40e5716d08d545072fa79a7fd47004bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/9-12.1792404987153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "margfaldast hafa"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "uppreisnir vorar"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "fyrir þér"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "og syndir vorar"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "svara"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "gegn oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "uppreisnir vorar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "uppreisnir vorar"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "og misgerninga vora"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "þekkjum vér ⟨þá⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:27.154840963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shed",
+      "rationale": "שד רendað 'djöflar\/djöflar' (LXX daimonia) eða órödd 'höfðingjar'; hebreska sjálft er 'shed', illvættir"
+    },
+    {
+      "kind": "crux",
+      "subject": "שערום",
+      "rationale": "frá שׂער 'óttast' ( eins og flestar þýðingar) eða frá שׁער 'herja'; rótin er umdeild"
+    },
+    {
+      "kind": "elision",
+      "subject": "מקרב",
+      "rationale": "'frá nánd' — flatur staðarviðbót, gefin sem 'nýlega'"
+    }
+  ],
+  "translation": "Þeir blótuðu shedum, ekki Elóa; guðum sem þeir þekktu ekki, nýjum ⟨guðum⟩ sem nýlega komu, sem feður yðar óttuðust ekki.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/32\/17-20.1792398573846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "blótuðu þeir"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shedum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elóa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "þeir þekktu þá"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nýjum"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "nýlega"
+    },
+    {
+      "surface": "באו",
+      "gloss": "komu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "óttuðust þá"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "feður yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:29:33.846509846Z",
+  "model": "glm-5.3"
+}

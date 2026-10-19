@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוחות er flokið 'rúakh' — andi, vindur, hugur; 'rúakhirnar' heldur formi orðsins"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska sögnin vantar í fyrri lið; 'eru' bætt við á íslensku"
+    }
+  ],
+  "translation": "Allar leiðir mannsins eru hreinar í augum hans, en Jahve vega rúakhirnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c35cb950f44d9a99f6904e4c0e7467037ddecfbf02e77ad6a9cbe23eb4e3ddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/16\/1-4.1792411417735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allar"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "leiðir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "זך",
+      "gloss": "hreinar"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "í augum hans"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "en vega"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "rúakhirnar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:37.736328862Z",
+  "model": "glm-5.3"
+}

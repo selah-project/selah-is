@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf hjálpsögn 'láttu' fyrir óskháttinn sem hebreska segir með ýmynduðu sagnmyndinni sjálfri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמח\/יתגל",
+      "rationale": "Tvö ólík gleðiorð í samstæðu — 'gleðjast' og 'fagna' varðveita muninn en ekki tóninn."
+    }
+  ],
+  "translation": "Láttu föður þinn og móður þína gleðjast, og sú er fæddi þig fagni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "929f07695fdc1a7ff9bd5989217ce13ede2cbd66efb7f9290379a5ee38dd539a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/25-28.1792411576803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "gleðist"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "faðir þinn"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "og móðir þín"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "fagni"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "sú er fæddi þig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:16.804119033Z",
+  "model": "glm-5.3"
+}

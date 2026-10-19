@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסכסך",
+      "rationale": "Rótin merkir aðþekja sem skjöld; þýðendur skiptast á „eggjaði saman“, „sameinaði“ og „ési upp“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישגב",
+      "rationale": "Orðið merkir bókstaflega „gerði hátt\/setti óaðgengilegt“ — „lyfti upp“ heldur myndinni af upphækkun."
+    }
+  ],
+  "translation": "Og Jahve lyfti upp ⟨את⟩ andstæðingum Retsín gegn honum, og ⟨את⟩ óvini hans eggjaði hann saman.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/9\/9-12.1792403874333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "lyfti upp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andstæðingum Retsín"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "andstæðingum"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsín"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegn honum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "óvini hans"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "óvini hans"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "eggjaði hann saman"
+    }
+  ],
+  "timestamp": "2026-10-19T09:57:54.334334402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenzka þarf fnáorð og framvísandi 'það' sem hebreskan hefur ekki"
+    },
+    {
+      "kind": "irony",
+      "subject": "þér eruð fólkið",
+      "rationale": "Iób styggir vini sína með því að játa þeir sér alsherjarþekkingu — beitt andrúm"
+    },
+    {
+      "kind": "you",
+      "subject": "to the three friends",
+      "rationale": "beint ræðueyri til vina Ióbs"
+    }
+  ],
+  "translation": "Sannarlega, þér eruð ⟨það⟩ fólkið, og með ykkur mun spekin deyja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8e855829b1bb2db29faa567f04008eeb388d7577fd6a1e29143d5a18a231bdce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/12\/1-4.1792411984809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sannarlega"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨að⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "og með ykkur"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mun deyja"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "spekin"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:04.810312257Z",
+  "model": "glm-5.3"
+}

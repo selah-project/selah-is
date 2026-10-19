@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hrísk",
+      "rationale": "ותחל merkir 'að verpa\/snúa sér í hring' — semjandi verkur; 'skalf' er víða notað en tapar verkmyndina"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨það⟩",
+      "rationale": "Hebreska hefur andlagið óskilið; 'það' bætt við á íslensku"
+    }
+  ],
+  "translation": "Eltribrunar hans lúðu upp heiminum, jörðin sá ⟨það⟩ og hrísk.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/97\/1-4.1792410459345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "lúðu upp"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "eltribrunar hans"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heiminum"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "sá"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "og hrísk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:39.346015556Z",
+  "model": "glm-5.3"
+}

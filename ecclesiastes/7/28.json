@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש er 'sál\/lífsgnauð' — 'sálin mín' hér sem 'ég' í hefðbundinni íslensku, en hebreska orðið er lífskrafturinn sjálfur."
+    },
+    {
+      "kind": "measurement",
+      "subject": "einn af þúsund",
+      "rationale": "Talmæling — einn maður af þúsund, engin kona af öllum; talningarmynstrið úr v. 27 heldur áfram."
+    },
+    {
+      "kind": "crux",
+      "subject": "וְאִשָּׁה בְכָל אֵלֶּה",
+      "rationale": "'En konu meðal allra þessara' — 'þessara' vísar til þúsund mannanna eða til allrarleitannar; fræg umdeild staðhæfing um konur."
+    }
+  ],
+  "translation": "sem sálin mín leitar enn en hef ég ekki fundið: einn mann af þúsund hef ég fundið, en konu meðal allra þessara hef ég ekki fundið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d10cf694c491d26d7496a3266004acd3fea6c11b8eab06b1f90af8188bb92511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/7\/25-28.1792413079710.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "leitar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "hef ég fundið"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mann"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "af þúsund"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "hef ég fundið"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "en konu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "meðal allra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "hef ég fundið"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:19.712076563Z",
+  "model": "glm-5.3"
+}

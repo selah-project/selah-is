@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וילינו",
+      "rationale": "Rót לין 'að dvelja um nótt' (JPS\/ASV 'tarry all night') á móti ráðningu úr לון 'að gella\/murmura' (KJV 'grudge'); gellingin hentar myndmáli hundanna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המה...יהמו",
+      "rationale": "Áherslufornafnið 'þeir — þeir' tengist ham þeirra í v. 15; endurtekning endar hundamyndina með þunga."
+    }
+  ],
+  "translation": "Þeir flakka um að fá sér að borða; ef þeir verða ekki saddir, þá gella þeir um nóttina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/13-16.1792409963959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Þeir"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "flakka um"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "að fá sér að borða"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "þeir verða saddir"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "þá gella þeir um nóttina"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:23.960470952Z",
+  "model": "glm-5.3"
+}

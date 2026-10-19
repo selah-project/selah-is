@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בכלי",
+      "rationale": "hebreska segir 'með tæki nabl' — 'tæki' fellur í íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "אמתך",
+      "rationale": "'tryggð þín' sem upphrópun í millitölu — sumir lesa 'vegna tryggðar þinnar'."
+    }
+  ],
+  "translation": "Einnig mun ég þakka þér með nabl, tryggð þinn, Elóhím minn; syngja mun ég þér með kinnor, hinn heilagi Ísraels.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/71\/21-24.1792410080298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "þakka þér"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "með"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabl"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tryggð þinn"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "syngja mun ég"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "með kinnor"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hinn heilagi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:20.298958745Z",
+  "model": "glm-5.3"
+}

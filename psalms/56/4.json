@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Davíð til Elóhím",
+      "rationale": "bein trúarjátað í annarri persónu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "þann dag",
+      "rationale": "orðræðan getur verið hamingjusamt atvik: „á þeim degi er ég óttast — ég treysti þér\""
+    }
+  ],
+  "translation": "Þann dag er ég óttast, treysti ég þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/56\/1-4.1792409909421.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "þann dag"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "óttast ég"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "treysti"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:29.422656822Z",
+  "model": "glm-5.3"
+}

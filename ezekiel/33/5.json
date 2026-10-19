@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, önd og líf — ekki ódauðleg sál í síðari skilningi",
+      "language": "is"
+    },
+    {
+      "kind": "crux",
+      "subject": "והוא נזהר",
+      "rationale": "þágufallssvipuð lögn eða skilyrt þáðing: 'sá er varast' (KJV) á móti 'ef hann hefði varast' (ASV, JPS)",
+      "language": "is"
+    },
+    {
+      "kind": "you",
+      "subject": "til lasandans",
+      "rationale": "versið heldur áttarófi vökvarsins og bendir á hlustaðann",
+      "language": "is"
+    }
+  ],
+  "translation": "Hann heyrði ⟨את⟩ hljóð shófarins og varð ekki varinn — blóð hans verður á honum; en sá er varast hefir, hefir leyst sálu sína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "93c1420a8aa16092c628d057cf0b4c9b61ad17c606882d695c9f534f5e788ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/33\/5-8.1792407649281.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hljóð shófarins"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hljóð"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shófarins"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "varð varinn"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blóð hans"
+    },
+    {
+      "surface": "בו",
+      "gloss": "á honum"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en sá"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "varast hefir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu sína"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "hefir leyst"
+    }
+  ],
+  "timestamp": "2026-10-19T11:00:49.282629422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעולם ועד",
+      "rationale": "Sama endasyning og í 145:1 — kviðlingur byrjar á endurtekningu."
+    }
+  ],
+  "translation": "Hvern dag skal ég blessa þig, og lofa nafn þitt um aldir og að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/1-4.1792411079586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Hvern"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "skal ég blessa þig"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "og lofa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nafn þitt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "um aldir"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og að eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:59.587364223Z",
+  "model": "glm-5.3"
+}

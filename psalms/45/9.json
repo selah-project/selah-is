@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "Riflest 'úr' (KJV, Geneva) eða 'strengjatónar' (LXX, YLT, JPS) — valið hið síðarnefnda samkvæmt sambindingu við שמחוך."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Kopula 'er' bætt við — hebreskan sleppir henni í frumlagssögn."
+    },
+    {
+      "kind": "you",
+      "subject": "to the king",
+      "rationale": "Þulurinn beinist að konunginum í annarri persónu."
+    }
+  ],
+  "translation": "Mýrra og alviði, kassía — allt er föt þín; úr höllum úr filbeini hafa strengjatónar glatt þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/45\/9-12.1792409783289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "Mýrra"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "og alviði"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kassía"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "föt þín"
+    },
+    {
+      "surface": "מן",
+      "gloss": "úr"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "höllum"
+    },
+    {
+      "surface": "שן",
+      "gloss": "úr filbeini"
+    },
+    {
+      "surface": "מני",
+      "gloss": "strengjatónar"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "hafa glatt þig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:23.290186497Z",
+  "model": "glm-5.3"
+}

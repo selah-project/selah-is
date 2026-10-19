@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Á fótum sér“ — hebreskan hefur einfaldlega „fótum hans“, íslenska þarf einkunnorð."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ביתו",
+      "rationale": "„Hús fólks hans“ (his household) fremur en „hús hans“ — rótin בית tækist bæði heimili og ætt."
+    }
+  ],
+  "translation": "Og konungurinn fór út og allt hús fólks hans ⟨á fótum sér⟩, og konungurinn yfirgaf ⟨את⟩ tíu konur, hjákonur, til að gæta hússins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/15\/13-16.1792401466840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og ... fór út"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hús fólks hans"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "⟨á fótum sér⟩"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "og ... yfirgaf"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tíu konur, hjákonur"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "konur"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "hjákonur"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "til að gæta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:17:46.842030622Z",
+  "model": "glm-5.3"
+}

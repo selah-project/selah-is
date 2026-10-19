@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידו",
+      "rationale": "Hebreska myndin 'á hendi honum' merkir 'við hlið hans \/ hjá honum' — bókstæð 'hand' mynd glatast á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlið þeirra",
+      "rationale": "Hebreska ידו er í eintölu ('hendi hans') en vísar til fyrri hóps; íslenskan þarf fleirtölu."
+    }
+  ],
+  "translation": "Og við hlið þeirra reistu mennirnir frá Jeríkhó, og við hlið þeirra reisti Zakkur, sonur Ímrí.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "58d85b9bbec9fa0effb6bf849852b28ee4c2088ad02f600908eeecbb369d97a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/3\/1-4.1792414154087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Og við"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hlið þeirra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "reistu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mennirnir"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "frá Jeríkhó"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og við"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hlið þeirra"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "reisti"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Zakkur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Ímrí"
+    }
+  ],
+  "timestamp": "2026-10-19T12:49:14.088603811Z",
+  "model": "glm-5.3"
+}

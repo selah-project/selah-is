@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הקרב er bókstaflega „innra“, þýtt „innyflin“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "המזבחה hefur stefniviðskeytið -á, „að altarinu“; gefið í gegn sem á + viðskeyttur greinir."
+    }
+  ],
+  "translation": "Og hann þó ⟨את⟩ innyflin og ⟨את⟩ fótleggina, og hann reykti ⟨þeim⟩ ofan á brennifórnina á altarinu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "7b13d6658cf2d0ad38f60c1b9dbc2c93acefc7320c87c214955c01dd35d33339",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/9\/13-16.1792395623130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "þó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "innyflin"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "innyflin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fótleggina"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "fótleggina"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "reykti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ofan á"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brennifórnina"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "á altarinu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:23.131535769Z",
+  "model": "glm-5.3"
+}

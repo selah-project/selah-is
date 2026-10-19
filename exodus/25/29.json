@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסך בהן",
+      "rationale": "'út að hellt með þeim' (drykkjafórnir) vs. 'að hylja með þeim' (KJV); rót נסך er að helja út."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Skipting orða í grunntextanum: 'ýtt er út' stendur fyrr í íslensku en 'með þeim'."
+    }
+  ],
+  "translation": "Og þú skalt gera skálarnar þess, og undirskálarnar þess, og krúsarnar þess, og drykkjarskálarnar þess, sem ĺ́ ytt er út með ⟨את⟩ þeim; af hreinu gulli skalt þú gera ⟨את⟩ þau.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f5947f62cc4596e3f7127139b32075a25dcc30248ba32344938bbd6da22b407b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/25\/29-32.1792394872705.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og þú skalt gera"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "skálarnar þess"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "og undirskálarnar þess"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "og krúsarnar þess"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "og drykkjarskálarnar þess"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ýtt er út"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "með þeim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gull"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hreint"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skalt þú gera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þau (fötin borðsins)"
+    }
+  ],
+  "timestamp": "2026-10-19T07:27:52.706603573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er andardráttur og lífskraftur, ekki ódauðleg sál í grískum skilning"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסיה\/אחסה",
+      "rationale": "sama rót lust eð liggur beggja vegna — „leitar hælis … leita ég hælis“ — endurtekningin varðveitt"
+    }
+  ],
+  "translation": "Sýn mér náð, Elóhím, sýn mér náð, því að sálín mín leitar hælis hjá þér; já, í skugga vængja þinna leita ég hælis, þar til ófarirnar líða hjá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/57\/1-4.1792409944448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "sýn mér náð"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "sýn mér náð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בך",
+      "gloss": "hjá þér"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "leitar hælis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálín mín"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "í skugga"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "vængja þinna"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "leita ég hælis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "líða hjá"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ófarirnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:04.449464495Z",
+  "model": "glm-5.3"
+}

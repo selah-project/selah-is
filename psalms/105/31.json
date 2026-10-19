@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ערב: 'flugnaðrasvörm' vs 'myrkvatur' (sama rót og kvöld) — merking umdeild"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Hann — frágangur; hebreskan hefur enginn nafnoroð"
+    }
+  ],
+  "translation": "Hann sagði, og flugnaðrasvörm kom, lús í öll landamæri þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ebeee56c79bdc292f7177aea7e918b8a32a499182648018bfe86a2e90acc640c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/29-32.1792410634446.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og ... kom"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "flugnaðrasvörm"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "lús"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í öll"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "landamæri þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:34.447669021Z",
+  "model": "glm-5.3"
+}

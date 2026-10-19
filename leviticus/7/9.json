@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf hjáspýtingu og orðatiltöku sem hebreskan sleppir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה haldið sem hljóðritun í stað þýðingar ('kornfórn')"
+    }
+  ],
+  "translation": "Og all minkha sem bökuð er í ofni og allt það sem gert er í potti og á pönnu — prestinum sem færir ⟨את⟩ hana áfram skal hún vera.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/7\/9-12.1792395455246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og all"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "bökuð er"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "í ofni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "það sem gert er"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "í potti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "pönnu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "prestinum"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "sem færir áfram"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana (minkhuna)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal hún vera"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:35.247310477Z",
+  "model": "glm-5.3"
+}

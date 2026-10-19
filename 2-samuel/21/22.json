@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרפה",
+      "rationale": "„Rafa“ sem ættfaðirnafn — sumir lesa „fyrir Rafa“ (til hornungsins) eða „af kynkvísl Rafa“."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Þóknuð rót „voru“ í „voru fæddir“ — hebreskan segir aðeins „fæddust“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fjórir",
+      "rationale": "Lokatalning yfir fjóra fallna risa frá Gat — ramminum lokað með tali."
+    }
+  ],
+  "translation": "Þessir ⟨את⟩ fjórir voru fæddir fyrir Rafa í Gat, og þeir féllu undir hendi Davíðs og undir hendi þjóna hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/21\/21-22.1792401600976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessir fjórir"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "fjórir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessir"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "voru fæddir"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "fyrir Rafa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "í Gat"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "og þeir féllu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "undir hendi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og undir hendi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þjóna hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:20:00.977182328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Possessive pronoun 'sínu' bætt við — hebreskan segir aðeins 'föt fangelsisins'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "'Alla daga lífs síns' — tímatal yfir endanlega ævi Jekonja."
+    }
+  ],
+  "translation": "Og hann skipti ⟨את⟩ fangelsisklæðunum sínum og át brauð fyrir framan hann stöðluð, alla daga lífs síns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7f6a980131cf58a20df85adb4539a14dfb1279a8f002076b6624c5a4b7689fc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/52\/33-34.1792406648102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "skipti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fangelsisklæðunum sínum"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæðunum"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "fangelsisins"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "og át"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir framan hann"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stöðluð"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "lífs síns"
+    }
+  ],
+  "timestamp": "2026-10-19T10:44:08.103178461Z",
+  "model": "glm-5.3"
+}

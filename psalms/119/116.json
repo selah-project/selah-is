@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "נאם-falli; 'svo að' milli styðja og lifa er sett inn, hebreskan segir einfaldlega 'og meg ég lifa'."
+    }
+  ],
+  "translation": "Styð þú mig samkvæmt orði þínu, og meg ég lifa, og lát mig ekki skammast mín vegna von mínar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/113-116.1792410841802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "styð þú mig"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "samkvæmt orði þínu"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "og meg ég lifa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "lát mig skammast mín"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "vegna von mínar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:01.803132824Z",
+  "model": "glm-5.3"
+}

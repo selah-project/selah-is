@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שתולים er sótt mynd við יפרח í 92:13, ‑ וְפָרַח 'fluttir upp' heldur ljósamlegan skírskotað; 'plantuð' er vensa en flutningurinn er þýðing myndarinnar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið 'þeir' bætt við, hebreska hefur enga lýsingu á hvorra er átt við"
+    }
+  ],
+  "translation": "Þeir eru fluttir upp í húsi Jahve, í hirðir Elóhím vorra munu þeir blómstra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/92\/13-16.1792410435500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Þeir eru fluttir upp"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "í hirðir"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vorra"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "munu þeir blómstra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:15.500871914Z",
+  "model": "glm-5.3"
+}

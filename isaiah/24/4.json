@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבלה\/נבלה",
+      "rationale": "nánast eins hljóð — „sorg” og „vöxtur” ríma; auk þess endurtekning נבלה og אמלל, parað mynstur sem varðveitt er með „visnar\/dofnar”"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרום עם הארץ",
+      "rationale": "„upphátt fólk jarðarinnar” — KJV „haughty people”; YLT les „hálendi fólksins” (landfræðilega)"
+    }
+  ],
+  "translation": "Syrgir og visnar jörðin, dofnar og visnar heimurinn, dofna upphátt fólk jarðarinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0eefc8af49c179054712df3c85ce8d98161160f1c6551019c7820f00d6724d45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/24\/1-4.1792404215235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Syrgir"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "og visnar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "dofnar"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "og visnar"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heimurinn"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "dofna"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "upphátt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:03:35.236230035Z",
+  "model": "glm-5.3"
+}

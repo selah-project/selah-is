@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er lífsvörd, sál sem andar — ekki sál í viðtæka merkingu; hér er það manneskja semAndar."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan heldur uppi sögninni ekki með sagnarlið; viðbætt ⟨átti⟩ til að binda skilyrðinguna."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Löggin beinast að hverjum þeim sem syndar óvitanlega — ávísun til Ísraels um sekt ómeðvitaðrar syndar."
+    }
+  ],
+  "translation": "Og ef sá semandar ⟨átti⟩ synd og gerði eina af öllum boðorðum Jahve, þeim sem ekki skal gera, og vissi það ekki — hann er sektur og skal bera misgjörð sína.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/5\/17-20.1792395466759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sá semandar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨að⟩"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "synd"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "og gerði"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af öllum"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "boðorðum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeim sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "skal gera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vissi"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "hann er sektur"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og skal bera"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "misgjörð sína"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:46.759747435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er önd\/lífsmáttur, ekki ódauðleg sál í síðari merkingu"
+    },
+    {
+      "kind": "you",
+      "subject": "ávarp",
+      "rationale": "beint ávarp til Jahve — línumannurinn talar við Guð sjálfan"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenska setur spurnarfornafnið 'Hví' fremst; hebreskan hefur það sömu orðsæti"
+    }
+  ],
+  "translation": "Hví, Jahve, vísar þú frá sálu minni, felur andlit þitt fyrir mér?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/88\/13-16.1792410345615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "visar þú frá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "felur"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlit þitt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fyrir mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:45.616458575Z",
+  "model": "glm-5.3"
+}

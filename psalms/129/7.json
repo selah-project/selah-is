@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sambandið 'það' (grasið úr v. 6) vantar í hebreskuna en skýrir myndina — gras þakanna gefur engan uppskeru."
+    }
+  ],
+  "translation": "Það fyllir ekki hönd sláttumannsins né fang kornbindandans ⟨er⟩",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/129\/5-8.1792410897288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllir"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "sláttumannsins"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "né fang"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "kornbindandans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:57.289113161Z",
+  "model": "glm-5.3"
+}

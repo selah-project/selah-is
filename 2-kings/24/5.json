@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 24:5",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא הם",
+      "rationale": "Hebreska spurningin með „há-lo“ væntir jákvæðs svars; íslenskan fær „eru þeir ekki“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דברי הימים",
+      "rationale": "Bóklegt „orð daganna“ í stað venjulegs heitis „annálar“"
+    }
+  ],
+  "translation": "En aðrir atburðir Jehojakíms og allt sem hann gjörði — eru þeir ekki ritaðir á bók orða daganna um konungana Júda?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "25500331242e159b87f49990c25ba157964d768134811039ff73771d5f0b73d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/24\/5-8.1792403600805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "en aðrir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "atburðir"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakíms"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann gjörði"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "eru þeir ekki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ritaðir"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bók"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orða"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daganna"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "um konungana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T09:53:20.805738656Z",
+  "model": "glm-5.3"
+}

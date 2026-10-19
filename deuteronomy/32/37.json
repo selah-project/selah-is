@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur enginn lutak; frumgreinir bætt við 'kletturinn'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צור",
+      "rationale": "hringdur í 'klettur' — myndin af skjólsklett, ekki guðdágunarheiti"
+    }
+  ],
+  "translation": "Og ⟨hann⟩ mun segja: Hvar eru guðir þeirra, kletturinn sem þeir leituðu skjóls hjá?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/32\/37-40.1792398493422.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og mun segja"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hvar"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "guðir þeirra"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kletturinn"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "þeir leituðu skjóls hjá"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hjá honum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:28:13.423044086Z",
+  "model": "glm-5.3"
+}

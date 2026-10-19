@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sagnbeyging",
+      "rationale": "ויאכילהו er frásöguleg (þáttur), en אשביעך er ófullkominn framtíðarháttur — þýðendur skiptast á milli „hefði“ (KJV\/JPS) og lýandi nútíðar (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלב",
+      "rationale": "orðið er „feiti“ — ríkasti, kjörbesti hlutinn — ekki „finasta“ eins og KJV segir"
+    }
+  ],
+  "translation": "Og hann lét hann éta ⟨af⟩ feiti hveitis, og með hunangi úr kletti mundi ég metta þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/81\/17-17.1792410244561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "Og hann lét hann éta"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "af feiti"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "hveitis"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "og úr kletti"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "með hunangi"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "mundi ég metta þig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:04.562141969Z",
+  "model": "glm-5.3"
+}

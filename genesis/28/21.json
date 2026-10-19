@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בשלום er hafgt óþýtt sem 'shalom' — heildarsköpun orðsins (heilleiki, friður) tapast með 'í friði'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "hebrew: ' Jahve mun vera mér að Elóhím' — bundið sáttmálsform sem 'mun Jahve vera minn Guð' misritar"
+    }
+  ],
+  "translation": "og ég kem aftur í shalom til húss föður míns, þá mun Jahve vera mér að Elóhím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/28\/21-22.1792393204957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "og ég kem aftur"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "í shalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "föður míns"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "þá mun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "að Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:04.958131211Z",
+  "model": "glm-5.3"
+}

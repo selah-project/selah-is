@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska sleppur sögninni — 'Betra er' krefst sögnar á íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדר\/משתדור\/תשלם",
+      "rationale": "Endurtekning rótarinnar 'að heita' tvisvar og 'að gera heilt' — speglun heitis og greiðslu í sama andardrætti."
+    }
+  ],
+  "translation": "Betra er að þú heitir ekki en að þú heitir og greiðir ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/5\/1-4.1792413025040.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Betra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "en að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "þú heitir"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "en að þú heitir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "þú greiðir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:30:25.041226754Z",
+  "model": "glm-5.3"
+}

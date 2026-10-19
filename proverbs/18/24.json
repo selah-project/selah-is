@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להתרעע",
+      "rationale": "Frægt þýðingavandamál: rótin merkir „að brotna, fara úr skorðum“ — ASV\/JPS lesa „til eigin skaða“, en KJV les með öðru sérhljóða „að sýna vinsæld“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vinur",
+      "rationale": "אהב er nafnorð af sögninni „elska“ — „elskandi, ástvinur“; „vinur“ er víðtækasta íslenska orðið."
+    }
+  ],
+  "translation": "Maður ⟨með⟩ marga vini ⟨getur⟩ farið illa fyrir sér, en til er vinur fastari en bróðir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e4af18e36e0975735f481dfd132b2d83c359484072359cc04906a397d4e002ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/18\/21-24.1792411457894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Maður"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "marga vini"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "farið illa fyrir sér"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "en til er"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "vinur"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "fastari"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "en bróðir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:17.895685112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 31:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אבדון",
+      "rationale": "„eyðing“ — nafn staðar grafaþrömra (sbr. Sjeól) og einnig eyðing sem slík; bæði möguleg hér"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש\/איש",
+      "rationale": "eldur (אש) ljómar við mann (איש) í sömu verslun — þekkt orðatóll í Jobsbók (4:15-21)"
+    }
+  ],
+  "translation": "því að eldur er hann, allt til eyðingar gleypir hann, og alla afrakstur minn rætur hann upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "34533fc120fb568d24c58f4cdb8a5ff4eb35ebdc1b72dc53ccf44fa87ef4ef5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/31\/9-12.1792412294967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldur"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "אבדון",
+      "gloss": "eyðingar"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "gleypir hann"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og alla"
+    },
+    {
+      "surface": "תבואתי",
+      "gloss": "afrakstur minn"
+    },
+    {
+      "surface": "תשרש",
+      "gloss": "rætur hann upp"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:14.968186416Z",
+  "model": "glm-5.3"
+}

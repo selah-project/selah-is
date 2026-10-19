@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 54:16",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "הן אנכי בראתי ... ואנכי בראתי — chiastísk spegilbygging: skapari smiðar og skapari eyðanda í sambærilegum lið"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "כלי: „áhöld“ eða „vopn“ (KJV\/ASV) — samhengið (smiður, orrusta) styður vopn, en orðið sjálft er hlutur-áltæk og áhöld haldið bókstætt"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "לחבל getur verið „til að eyða“ eða óðstert sögn „að rísa (stormur)“ — eyðing valin í samræmi við משחית"
+    }
+  ],
+  "translation": "Sjá, ég hef skapað smiðinn, sem blæs á el kolsins og framleiðir áhöld fyrir verk sitt; og ég hef skapað eyðandann til að eyða.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/54\/13-16.1792404855428.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "hef skapað"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "smiðinn"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "sem blæs"
+    },
+    {
+      "surface": "באש",
+      "gloss": "á el"
+    },
+    {
+      "surface": "פחם",
+      "gloss": "kol"
+    },
+    {
+      "surface": "ומוציא",
+      "gloss": "og framleiðir"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "áhöld"
+    },
+    {
+      "surface": "למעשהו",
+      "gloss": "fyrir verk sitt"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "hef skapað"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "eyðandann"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "til að eyða"
+    }
+  ],
+  "timestamp": "2026-10-19T10:14:15.430058147Z",
+  "model": "glm-5.3"
+}

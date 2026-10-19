@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מצה: 'ádeila' (KJV 'contention') — sumir les 'prýði' út frá rót msts; ádeila er hið hefðbundna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יתן 'gefur' er myndað sem 'kemur' til að fá eðlilega íslensku."
+    }
+  ],
+  "translation": "Einungis um ofsi kemur ádeila, en með ⟨את⟩ þeim sem ráðgast er speki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ac9f940229486522cf378e10e3e527be06efb7506be619db6b1d76bd3f0008f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/13\/9-12.1792411327063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "einungis"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "um ofsi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ádeila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "með ⟨את⟩",
+      "marks": "þeim sem ráðgast"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "þeim sem ráðgast"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "speki"
+    }
+  ],
+  "timestamp": "2026-10-19T12:02:07.063920981Z",
+  "model": "glm-5.3"
+}

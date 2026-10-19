@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Beinin tala beint til Jahve í öðru persóni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Hinn' er viðskeyttur greinir sem íslenskan krefst, hebreskan hefur engan óháðan greini"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עני\/עני",
+      "rationale": "Endurtekning orðsins 'fátækur' í kappinu, klifrun sem glatast ekki á íslensku"
+    }
+  ],
+  "translation": "All bein mín segja: Jahve, hver er sem þú, sem frelsar ⟨את⟩ hinn fátæka frá þeim sem er of sterkur fyrir honum, ⟨את⟩ hinn fátæka og efnalausa frá þeim sem rænir honum?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/9-12.1792409601366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "bein mín"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "segja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sem þú"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "sem frelsar"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hinn fátæka"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "frá þeim sem er of sterkur fyrir honum"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "hinn fátæka"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og efnalausa"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "frá þeim sem rænir honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:21.367505908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífslótt\/andi, 'sál' er næsta íslenska orð en ekki nákvæmlega það sama"
+    },
+    {
+      "kind": "crux",
+      "subject": "bæn mín snéri aftur til brjósts míns",
+      "rationale": "תפלתי על חיקי תשוב: 'sneri aftur ósvarð' (BSB) eða 'hlé einum í faðmi' (KJV\/JPS)"
+    }
+  ],
+  "translation": "En ég — þegar þeir voru veikir var klæði mitt sekkur; ég þjáði sál mína með föstu, og bæn mín snéri aftur til brjósts míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/13-16.1792409614027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "þegar þeir voru veikir"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "klæði mitt"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sekkur"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "þjáði ég"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "með föstu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mína"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "og bæn mín"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "brjósts míns"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "snéri aftur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:34.028310185Z",
+  "model": "glm-5.3"
+}

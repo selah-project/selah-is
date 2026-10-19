@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "var grafinn",
+      "rationale": "Hebreska ויקבר er ópersónuleg („og grófu hann“); íslenskan notar þolmynd."
+    },
+    {
+      "kind": "addition",
+      "subject": "sínum",
+      "rationale": "Persónulegt ábendingarorð í „feðrum sínum“ til að gera possessífa endingu hebreskunnar skýra."
+    }
+  ],
+  "translation": "Og þeir báru ⟨את⟩ hann á hestum, og hann var grafinn í Jerúsjalajím með feðrum sínum, í borg Davíðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "42916f86b791faf0802ca37091077189f70618fcb35cb6e734f83d0ff95fc554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/14\/17-20.1792403203098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "báru"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "hestum"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "var grafinn"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðrum sínum"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:46:43.099564344Z",
+  "model": "glm-5.3"
+}

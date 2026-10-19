@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "menn",
+      "rationale": "Hebreskan hefur engan hlutfallanda aðra en 3. pers. fleirtölu í עשים — 'menn' bætt við."
+    },
+    {
+      "kind": "crux",
+      "subject": "יענה",
+      "rationale": "'svarar' — sumir lesa 'svarar öllum hlutum' (peningar leysa allt), aðrir 'mætir öllu'."
+    }
+  ],
+  "translation": "Til hláttar gera ⟨menn⟩ brauð, og vín gleður lífið, en silfrið svarar ⟨את⟩ öllu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/10\/17-20.1792413065652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Til hláttar"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gera"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "og vín"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gleður"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lífið"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "en silfrið"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svarar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "öllu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:05.653240474Z",
+  "model": "glm-5.3"
+}

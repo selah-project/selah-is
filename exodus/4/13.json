@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביד תשלח",
+      "rationale": "„með hendi þess sem þú munt senda“ — ellefti stafur; sumir lesa „send hvern sem þú vilt“ (einhvern annan), aðrir sem ófullkominn setning sem Mósje fær ekki klárað"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בי אדני",
+      "rationale": "„ó, bið ég, Adónaí“ — hebresk fyrirbænaháttur, bókstaflegt „í mér, takk“"
+    }
+  ],
+  "translation": "Og hann sagði: Ó, bið ég, Adónaí, send fyrir mig með hendi þess ⟨sem⟩ þú munt senda.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/4\/13-16.1792394141886.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ó, bið ég"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "נא",
+      "gloss": "fyrir mig"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "með hendi"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "þú munt senda"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:41.886733302Z",
+  "model": "glm-5.3"
+}

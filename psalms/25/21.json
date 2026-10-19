@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "תם merkir bókstaflega 'fullkomnun, heilleika'; hér haft um siðferðilega óskaps-hreinskilni, eins og 'integrity'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קויתיך er myndað af קוה, 'snuera, lína' — bókstaflega 'hef ég streckt línu mína að þér'; gefið upp sem von."
+    }
+  ],
+  "translation": "Óskaps-hreinskilni og réttvísi vari mig, því að ég hef beitt von mína til þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d39c11fa390c92cffbb3e01a556c69c05dec81b3b2447a395fcd727d1d73ccf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/25\/21-22.1792409477931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "óskaps-hreinskilni"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og réttvísi"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "vari mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ég hef beitt von mína til þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:17.931987488Z",
+  "model": "glm-5.3"
+}

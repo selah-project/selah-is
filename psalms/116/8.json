@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sála mína",
+      "rationale": "נפש er lífsmáttur\/andardráttur, ekki ódauðleg sál"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סamhengi",
+      "rationale": "Þrjár stakar fallingar í vöxt — sálin, augun, fætur — endurtaka mynd frelsunar í líkama myndmáli"
+    }
+  ],
+  "translation": "Því að þú hefur leyst sála mína frá dauða, ⟨את⟩ augu mín frá tárum, ⟨את⟩ fætur mína frá falli.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/116\/5-8.1792410772020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "þú hefur leyst"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sála mína"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "frá dauða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "augu mín"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augu mín"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tárum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fætur mín"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fætur mín"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "frá falli"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:52.021668084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska fleirtala handa tvíteknu í íslensku: hendurnar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "margt vatn",
+      "rationale": "margar þýðingar gera 'djúp vötn' en hebreskan segir mörg"
+    }
+  ],
+  "translation": "Send hendurnar þínar af hæð; leyst mig út og frelsa mig undan mörgum vötnum, úr hendi sona útlendra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6efb134a5fac3fb2976b839cb7dabba4905b6475a4999c23a453e1d0862f5699",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/144\/7-8.1792416985757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Send"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "hendurnar þínar"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "af hæð"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "leyst mig út"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "og frelsa mig"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "undan vötnum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mörgum"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "útlendra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:25.757883605Z",
+  "model": "glm-5.3"
+}

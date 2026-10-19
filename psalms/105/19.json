@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hreinsaði",
+      "rationale": "צרפ er að bræða\/hreinsa málma — 'prófaði' er veikari þýðing á myndinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו\/אמרת",
+      "rationale": "Tvö orð fyrir 'orð' í samstöðu — endurtekningin eyðist í þýðingu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "tími orðsins",
+      "rationale": "Orðið bíður eftir tíma sínum — Jóseif veit ekki hvenær það kemur"
+    }
+  ],
+  "translation": "Þar til að orð hans kom, mál Jahe hafði hreinsað hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c96e55343e8b2b13a8424ca831f5b31d388b7414241d9066fc0473279a768d08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/18-19.1792416965394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "þar til að"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tíma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "orð hans"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "mál"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "hreinsaði hann"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:05.395401615Z",
+  "model": "glm-5.3"
+}

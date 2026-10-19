@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ידע",
+      "rationale": "'þekkja' er hebresk feðmingsvísun; lesið 'hafði legið hana' en orðmyndin 'þekkt' varðveitt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lindin",
+      "rationale": "העינה sömu rót og 'auga' (עין) — 'auga landsins', lindin; 'brunnur' glatar myndinni."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואיש לא",
+      "rationale": "'og maður ekki' — hrein neitun, enginn greinir í hebresku; íslenska bætir 'enginn'."
+    }
+  ],
+  "translation": "Og stúlkan var fögur að sjá mjög, mey, og enginn maður hafði þekkt hana; og hún fór niður að lindinni og fyllti krúsuna sína og fór upp.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "290b2a92db44849ecd8a74dd9d0c5af6a529ba66ed07efe5cea3413ca22c568b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/24\/13-16.1792393088444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "og stúlkan"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "fögur"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "að sjá"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mey"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og enginn maður"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "hafði þekkt hana"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "og hún fór niður"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "að lindinni"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "og fyllti"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "krúsuna sína"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "og fór upp"
+    }
+  ],
+  "timestamp": "2026-10-19T06:58:08.445332515Z",
+  "model": "glm-5.3"
+}

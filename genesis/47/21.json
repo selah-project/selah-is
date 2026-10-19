@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לערים",
+      "rationale": "'Til borganna' — önnur lestur (Targum Onkelos, bsb): 'til borganna' gegn þjónaveldi, þ.e. fólkið sett í ánauð, ekki flutt."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið mælir útbreiðsluna: frá enda landamæra Mitsrajím að enda þess."
+    }
+  ],
+  "translation": "Og ⟨את⟩ fólkið flutti hann ⟨את⟩ ⟨þess⟩ til borganna, frá enda landamæra Mitsrajím og að enda þess.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bf3f40d7eca66694789e66df893918a6e0f79f9cc5762ba3e0926ba158ac96bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/47\/21-24.1792393985278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fólkið"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "flutti hann"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "borganna"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "til borganna"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "frá enda"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "landamæra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og að"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "enda þess"
+    }
+  ],
+  "timestamp": "2026-10-19T07:13:05.279716093Z",
+  "model": "glm-5.3"
+}

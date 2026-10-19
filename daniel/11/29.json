@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 11:29",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נגב merkir bæði ‚suðrið‘ og eyðimörkina Negev; ‚suðrið‘ heldst við ljósmálið."
+    },
+    {
+      "kind": "crux",
+      "subject": "eins og í fyrsta skipti og eins og í síðara",
+      "rationale": "Hebreskan lofar hvorugt hvort borið er saman við fyrstu eða síðari herferð; sumar þýðingar skerða tvífeldnina."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið miðar við fastsettan tíma (מועד) — tímatal er sjálft efniviðurinn."
+    }
+  ],
+  "translation": "Á ásettum tímabili mun hann snúa aftur og koma gegn suðrinu, en það mun ekki verða eins og í fyrsta skipti og eins og í síðara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f36351f964aa07ac5d63f3d344a2ee8d967d1d64e147a318ba539dc92d337d36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/11\/29-32.1792413793287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למועד",
+      "gloss": "á ásettum tímabili"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mun hann snúa aftur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og koma"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "gegn suðrinu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mun verða"
+    },
+    {
+      "surface": "כראשנה",
+      "gloss": "eins og í fyrsta skipti"
+    },
+    {
+      "surface": "וכאחרנה",
+      "gloss": "og eins og í síðara"
+    }
+  ],
+  "timestamp": "2026-10-19T12:43:13.288183354Z",
+  "model": "glm-5.3"
+}

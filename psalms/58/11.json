@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fótspor",
+      "rationale": "פעמיו er 'skref\/högg hans' — tvennt; 'fætur' í eldri þýðingum er þrenging."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק \/ רשע",
+      "rationale": "Réttláti og ráðvandi standa í andstæðum enda ver­sins — rammi alls sálmsins."
+    }
+  ],
+  "translation": "Hinn réttláti mun fagna þegar hann sér hefndina; í blóði hins ráðvanda mun hann þvo fótspor sín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/58\/9-12.1792409899258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "mun fagna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hinn réttláti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "hann sér"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hefndina"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "fótspor sín"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mun hann þvo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "í blóði"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "hins ráðvanda"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:19.259915733Z",
+  "model": "glm-5.3"
+}

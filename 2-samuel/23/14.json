@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan sleppur sagnliðnum; íslenskan þarf 'var'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "víggirðing",
+      "rationale": "מצודה merkir net eða festing; 'víggirðing' heldur mynd faststaðs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אז … אז",
+      "rationale": "Endurtekið 'þá' rammar sambærilega stöðu Davíðs og Filista"
+    }
+  ],
+  "translation": "Og Davíð var þá í víggirðingunni, og herbúð Filista var þá í Beit Lekhem.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "85237a9f03105a9b596cc50d2ecf1bba73c672143bfae7eac32f4dbc51e165cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/23\/14-15.1792416664378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Og Davíð"
+    },
+    {
+      "surface": "אז",
+      "gloss": "þá"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "í víggirðingunni"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "og herbúð"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filista"
+    },
+    {
+      "surface": "אז",
+      "gloss": "þá"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í Beit Lekhem"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit Lekhem"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:04.379496979Z",
+  "model": "glm-5.3"
+}

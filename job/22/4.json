@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המיראתך",
+      "rationale": "'Vegna ótta þins' (KJV) á móti 'vegna ótta hans á þér' (JPS, ASV) — hvor á ræður setningunni"
+    }
+  ],
+  "translation": "Áminnir hann þig vegna ótta þins, eða að hann gangi með þér í dóm?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8fc5ab1d839753eca683b85835ee639ebad44e799dfc2355db64e85071ff0917",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/22\/1-4.1792412181892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "vegna ótta þins"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "áminnir hann þig"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "að hann gangi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "í dóm"
+    }
+  ],
+  "timestamp": "2026-10-19T12:16:21.893897919Z",
+  "model": "glm-5.3"
+}

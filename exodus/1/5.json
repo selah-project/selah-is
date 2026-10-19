@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er öndandi lífsvöruð, ekki ódauðleg sála; „sála“ hér í fjöldamerkingu"
+    },
+    {
+      "kind": "euphemism",
+      "subject": "is",
+      "rationale": "ירך er lær, hjákvæmillegt um getnaðarlimi; „lær“ haldið bókstaflega"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "2. Mós 1:5 segir sjötíu en 5. Mós 10:22 segir sjötíu; 1. Mós 46:27 telur sjötíu með Jósef og sonum hans"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„þegar“ er viðbót til að gera greinina skýra, hebreskan segir aðeins „var í Mitsrajím\""
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Fjöldatalning: sjötíu sála"
+    }
+  ],
+  "translation": "Og allt sáluþýð þeirra er út gekk af lærum Jaakov var sjötíu sála; en Jósef var þegar í Mitsrajím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/1\/5-8.1792394012086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og var"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sáluþýð"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "er út gekk"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "af lærum"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sjötíu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sála"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en Jósef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "í Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:13:32.086733682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 7:26",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בת",
+      "rationale": "hebreska segir tvö þúsund batt (2. Krón 4:5 segir þrjú þúsund); ég geri ekki greinarmun á talningum handritanna heldur þýði töluna sem hún stendur"
+    },
+    {
+      "kind": "hapax",
+      "subject": "טפח",
+      "rationale": "handbreidd — mælieining, breidd lófa; ein af fáum erfðum málamyndum musterislýsingarinnar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "þykkt í handbreiddum og rýmd í battum — vöru- og rýmdarmæling Sjólomo"
+    }
+  ],
+  "translation": "Þykkt þess var handbreidd, og vörin þess var eins og vörar bikars, blóm lilju; þrjú þúsund batt rúmuðust í það.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "097e49e0bd0deedca1ded2aa72d70e2f22e62a44d3e17a2ac7bad27a1c7e3f99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/7\/25-28.1792402128868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "Þykkt þess"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "handbreidd"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "vörin þess"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "eins og vörar"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "vöru"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "bikars"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "blóm"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "lilju"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þrjú þúsund"
+    },
+    {
+      "surface": "בת",
+      "gloss": "batt"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "rúmuðust"
+    }
+  ],
+  "timestamp": "2026-10-19T09:28:48.869295634Z",
+  "model": "glm-5.3"
+}

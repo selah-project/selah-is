@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אני",
+      "rationale": "Hebreska eiðarformúlan 'ég lifi' — varðveitt sem heild en endurrituð sem íslenskt eiðarform."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "Eiðar-styrkt neitunarformúlan 'ef ekki...' merkir 'svo sannarlega' — bókstafleg þýðing myndi villast."
+    },
+    {
+      "kind": "substitution",
+      "subject": "במקום",
+      "gloss-hint": "staður",
+      "rationale": "'Í stað konungsins' — KJV 'where the king dwelleth' bætir við búsetu sem hebreskan segir ekki."
+    }
+  ],
+  "translation": "Svo sannarlega sem ég lifi, segir Adónaí Jahve: í landi konungsins þess, er gerði hann að konungi — hann sem fyrirgét ⟨את⟩ eið sinn og braut ⟨את⟩ sáttmála hans — í Babýlon skal hann deyja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/17\/13-16.1792407111385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Svo sannarlega sem ég lifi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "er gerði hann að konungi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hann sem"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "fyrirgét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eið sinn"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "eið sinn"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og braut"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "braut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáttmála hans"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sáttmála hans"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨með honum⟩"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babýlon"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal hann deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T10:51:51.387129782Z",
+  "model": "glm-5.3"
+}

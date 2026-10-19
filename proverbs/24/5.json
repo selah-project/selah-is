@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מאמץ er sögn ('að styrkja') og er gefin sem 'eykur' ásamt andlagi"
+    }
+  ],
+  "translation": "Maður vitur er í styrk, og maður þekkingar eykur kraft.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/24\/5-8.1792411554674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "maður"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vitur"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "í styrk"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og maður"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "þekkingar"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "eykur"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraft"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:54.675046850Z",
+  "model": "glm-5.3"
+}

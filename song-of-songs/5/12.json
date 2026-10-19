@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלאת",
+      "rationale": "'fullt (augnásina)' — KJV 'fitly set', YLT 'sitting in fulness'; myndin er dúfan situr við fullar ám eða augað í fylltri augnás"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כיונים",
+      "rationale": "kvenkyns fleirtöluð lýsingarorð (רחצות, ישבות) lýsa dúfunum, ekki augunum — íslenskan heldur myndinni en missir samdrættis"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפיקי מים",
+      "rationale": "'lækir vatns' — flæði-mynd sem endurspeglar blíðu augans"
+    }
+  ],
+  "translation": "Augu hans eru eins og dúfur við lækjarsiði, baðnar í mjólk, satnar í fylling hungurs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/5\/9-12.1792412591160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "augu hans"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "eins og dúfur"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "lækjarsiði"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatna"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "baðnar"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "í mjólk"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "satnar"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "fylling"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:11.161976972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mótaður",
+      "rationale": "חוללתי er af חול — að snúa eða verpa í hring; 'var ég mótaður' gef skapanið en tapar hringhreyfingunni."
+    },
+    {
+      "kind": "crux",
+      "subject": "getgöngi syndar",
+      "rationale": "Snúinn vs. ósnúinn púnktur: sumir lesa 'í synd getgengi móðir mín' (óvirkt) gegn 'móðir mín getgengist synd' — MT styður fyrra."
+    }
+  ],
+  "translation": "Sjá, í auðn var ég mótaður, og í synd var móðir mín þunguð af mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/5-8.1792409866355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "í auðn"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "var ég mótaður"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "og í synd"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "var móðir mín þunguð af mér"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "móðir mín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:46.356319887Z",
+  "model": "glm-5.3"
+}

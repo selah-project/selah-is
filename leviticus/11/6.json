@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Héran tyggur í raun ekki fóður; hebreskunni er haldið eins og hún er."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Arnbætið ארנבset tengist mögulega rót ‚að grafa‘; nafnið er hljóðritað."
+    }
+  ],
+  "translation": "Og ⟨את⟩ hearan, því að hún fær upp ⟨fóður⟩ en klaufina hefur hún ekki klofað — óhrein er hún fyrir yður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/5-8.1792395613231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hearan"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "hearan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "fær upp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "fóður"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hún"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "en klaufina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "hefur klofað"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "óhrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hún"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fyrir yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:13.232361037Z",
+  "model": "glm-5.3"
+}

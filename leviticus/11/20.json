@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Íslenska þarf tengilið á milli lýsingar og nafnfylgis; hebreskan hefur aðeins þátt þáttinn ההלך."
+    },
+    {
+      "kind": "crux",
+      "subject": "שרץ העוף",
+      "rationale": "„Skriðnuð flugdýr“ — KJV „fowls that creep“ vs. „fljúgandi smádýr“; næsta vers gerir greinarmun á þeim sem hoppa."
+    }
+  ],
+  "translation": "Allt það sem skríður meðal fuglsins, ⟨sem⟩ gengur á fjórum — viðbjóður er það yður",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/17-20.1792395623203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "það sem skríður"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "meðal fuglsins"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨sem⟩ gengur"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fjórum"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "viðbjóður"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:23.205070895Z",
+  "model": "glm-5.3"
+}

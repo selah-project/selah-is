@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בלב ימים",
+      "rationale": "'í hjarta hafanna' — hebreskt myndmál haldið bókstælega; merkir djúpit hafsins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נירא\/בהמיר",
+      "rationale": "Samstöfupör vérsins (lóð\/anafóra í 'þó... og þó') birta ótti móti skjóli úr v. 2."
+    }
+  ],
+  "translation": "Þess vegna óttumst vér ekki, þó jörðin breytist og fjöllin hrörvi í hjarta hafanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/46\/1-4.1792409798205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Þess"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "óttumst vér"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "þó breytist"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "og þó hrörvi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fjöllin"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "í hjarta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hafanna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:38.206517813Z",
+  "model": "glm-5.3"
+}

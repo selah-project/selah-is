@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 20:2",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„sendimenn“ í ⟨…⟩ — hebreskan segir aðeins „þeir komu og tilkynntu“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hämön",
+      "rationale": "„fjölmenni“ fyrir hämön, sem merkir hávaði, óeirð, mannfjölda."
+    },
+    {
+      "kind": "crux",
+      "subject": "מארם",
+      "rationale": "„frá Aram“ — en BSB les „frá Edóm“ (metaþfað miðað við Edóm); textinn segir Aram."
+    }
+  ],
+  "translation": "Og ⟨sendimenn⟩ komu og tilkynntu Jósjafat og sögðu: Þungt fjölmenni er komið gegn þér, handan hafsins, frá Aram, og sjá, þau eru í Khatsétsón-Tamar — það er Ejn-Gedí.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1bddc4c5e1f1683c8b7024070bb6ec8a823d4fd4a39c88b87ec727cd1421e95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/20\/1-4.1792415693343.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "komu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "tilkynntu"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Jósjafat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sögðu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "er komið"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gegn þér"
+    },
+    {
+      "surface": "המון",
+      "gloss": "fjölmenni"
+    },
+    {
+      "surface": "רב",
+      "gloss": "þungt"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "handan"
+    },
+    {
+      "surface": "לים",
+      "gloss": "hafsins"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "frá Aram"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "og sjá, þau"
+    },
+    {
+      "surface": "בחצצון",
+      "gloss": "í Khatsétsón"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "-Tamar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "það er"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ejn"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "-Gedí"
+    }
+  ],
+  "timestamp": "2026-10-19T13:14:53.344708130Z",
+  "model": "glm-5.3"
+}

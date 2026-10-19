@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מלא גויות: 'fyllir [jörðina] dánum líkum' — andlag vantar í hebresku; sum lesa 'fyllir dalinn (lícum)'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "גְּוִיָּה (lík) er sjaldgæft orð, aðeins í skáldskap."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "'mysja höfuð yfir víðri jörðu': hverjar höfuð og hvers konar jörð — 'yfir land rammáugra' er annað reading."
+    }
+  ],
+  "translation": "Hann dæmir meðal þjóðanna, fyllir ⟨את⟩ dalinn fallnum líkum, mysja höfuð yfir víðri jörðu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/110\/5-7.1792410709092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "dæmir"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "meðal þjóðanna"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllir"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "fallnum líkum"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mysja"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "víðri"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:49.093432762Z",
+  "model": "glm-5.3"
+}

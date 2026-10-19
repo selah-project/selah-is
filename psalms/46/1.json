@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "'alómót' — hið hebreska orð er dulkæmt: 'sópranraddir\/jungfrúr'; KJW 'for the virgins', JPS 'upon Alamoth' (óþýtt); haldið óbreytt eftir hljóði."
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Tákn tónlistarstjóra, ekki þýtt lengra en 'kórstjóri'."
+    }
+  ],
+  "translation": "Fyrir kórstjórann, handa sonum Kórakh, eftir alómótum, söngur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e381cb8fb4f044d1d19f379d27980836baee6048f2d738c22d0e88aa35a92f92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/46\/1-4.1792409798205.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fyrir kórstjórann"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "handa sonum"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kórakh"
+    },
+    {
+      "surface": "על",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alómótum"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "söngur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:38.206209508Z",
+  "model": "glm-5.3"
+}

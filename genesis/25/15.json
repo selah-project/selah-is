@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Áframhald nafnaskrárinnar — tólf höfðingjar Ísmaels."
+    },
+    {
+      "kind": "crux",
+      "subject": "Khadad",
+      "rationale": "KJV les 'Hadar' (הדר) með sumum handritum, en hebreska hljóðfellu AMAR les חדד 'Khadad'."
+    }
+  ],
+  "translation": "Khadad og Tema, Jetur, Nafísh og Kedema.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e129f07e5d75e5896bc2e839d7b5c06ff09b5f3ca83ffa1b70ef309c4e22d69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/25\/14-15.1792416234407.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "Khadad"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "og Tema"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "Jetur"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Nafísh"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "og Kedema"
+    }
+  ],
+  "timestamp": "2026-10-19T13:23:54.407986824Z",
+  "model": "glm-5.3"
+}

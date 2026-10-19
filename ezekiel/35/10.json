@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið ⟨hana⟩ bætt við í klausunni um að eignast landið — hebreskan segir 'við munum taka hana' með samtengda eins-og-fleirtölu blöndu"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירשנוה",
+      "rationale": "táknmynd 'og eigum vér að eignast hana' — KJV\/ASV les 'we will possess it' (eintala) á móti fleirtölu 'these two nations'"
+    }
+  ],
+  "translation": "Vegna þess að þú sagðir: ⟨את⟩ þjóðanna tveggja og ⟨את⟩ landanna tveggja — mér munu þær verða, og eigum vér að eignast ⟨hana⟩ — en Jahve var þar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "71cdc1ffe536b38f41edaf6652145c6e0b02c46730fd3c42b7201aa980227277",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/35\/9-12.1792407695287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "vegna þess að"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "þú sagðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóðanna tveggja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tveggja"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "landanna tveggja"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tveggja"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "landanna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "munu þær verða"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "og eigum vér að eignast hana"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "var"
+    }
+  ],
+  "timestamp": "2026-10-19T11:01:35.288907905Z",
+  "model": "glm-5.3"
+}

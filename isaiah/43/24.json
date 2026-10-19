@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "þanan",
+      "rationale": "קנה er sætur stöngull (kanelroð); 'þanan' heldur hljóði hebreskunnar en myndin tapast"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קנית \/ קנה",
+      "gloss": "",
+      "rationale": "samtenging kaupa og stönguls — 'keyptir þú... þanan' — orðaleikur sem hljóðar einnig á íslensku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העבדת \/ הוגעת",
+      "rationale": "sömu sagnir og í v. 23 en nú snúð við Guð í stað fórnar — speglun ákærurnar"
+    }
+  ],
+  "translation": "Ekki keyptir þú mér fyrir silfur þanan, og feiti sláturfórna þinna mettaði mig ekki; heldur létir þú mig þjóna með syndum þínum, tæmdir þú mig með misgerningum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/43\/21-24.1792404600291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "keyptir þú"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "fyrir silfur"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "þanan"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "og feiti"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "sláturfórna þinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "mettaðir þú mig"
+    },
+    {
+      "surface": "אך",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "létir þú mig þjóna"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "með syndum þínum"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "tæmdir þú mig"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "með misgerningum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:00.293135311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גאון merkir bæði uppréttleika og þvermetnað; 'þvermetnað' valið samkvæmt samhengi óheillaheitiðnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברזל\/נחושה",
+      "rationale": "járn og kopar — tveir málmar sem loka himninum og jörðinni; myrlæti 5. Mósebókar 28:23 endurtekur myndina"
+    }
+  ],
+  "translation": "Og ég mun brjóta ⟨את⟩ þvermetnað máttar yðar, og ég mun setja ⟨את⟩ himna yðar sem járn og ⟨את⟩ jörð yðar sem kopar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "73092aef183fdef2145b2312328e2dcdd83fd39a1ea93d31018ed71814f3e0a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/19-20.1792416353729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Og ég mun brjóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þvermetnað máttar yðar"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "þvermetnað"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "máttar yðar"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og ég mun setja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himna yðar"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "himna yðar"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "sem járn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jörð yðar"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "jörð yðar"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "sem kopar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:53.730357682Z",
+  "model": "glm-5.3"
+}

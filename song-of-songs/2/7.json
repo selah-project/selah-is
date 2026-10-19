@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 2:7",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צבאות",
+      "rationale": "Hér er צְבָאוֹת merkingarlaus hljóðlíking við צְבִיּוֹת (gasellur) — ekki 'hersveitir'; flestar þýðingar lesa 'gasellur'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעירו\/תעוררו",
+      "rationale": "Sömu rót עורр(endurstafað) tvisvar — 'vakið\/vekjð' endurspeglast, tapað þó ekki alveg á íslensku."
+    },
+    {
+      "kind": "elision",
+      "subject": "תעוררו",
+      "gloss-rationale": "sögnin tvöfellta: תעירו og תעוררו sameinað í eitt núningatvennu, seinni tókan fengin tóma glósu."
+    }
+  ],
+  "translation": "Ég麦 svór ⟨את⟩ yður, dætur Jerúsjalajím, við gasellurnar eða hjartadæmur vallarins: Vakið ekki og óvekjð ekki ⟨את⟩ ástina, fyrr en hún þykir hæfa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0a8e4ff521e79130072931154f13756e4a88c683f0908c6de7f7e8d0497d86da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/2\/5-8.1792412625217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "svór ég"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dætur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "við gasellurnar"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "hjartadæmur"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "vallarins"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "Vakið"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og óvekjð ekki"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ástina"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ástina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fyrr en"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "hún þykir hæfa"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:45.218310230Z",
+  "model": "glm-5.3"
+}

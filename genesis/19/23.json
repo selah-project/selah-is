@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יצא",
+      "rationale": "Bókstælega „gekk út“ um sólina; „óx upp“ er venjuleg íslensk framsetning"
+    },
+    {
+      "kind": "addition",
+      "subject": "þegar",
+      "rationale": "Tíðartenging er nán dáin í hebresku tveggja atburða setningunni en krafist á íslensku"
+    }
+  ],
+  "translation": "Sólin óx upp yfir jörðina þegar Lót kom í Tsoar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1b9c393f0642792d16d44d3439edc797b2e9bf6c9bea95040bc345850880ab16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/19\/21-24.1792392907196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Sólin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "óx upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "og Lót"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "í Tsoar"
+    }
+  ],
+  "timestamp": "2026-10-19T06:55:07.197760021Z",
+  "model": "glm-5.3"
+}

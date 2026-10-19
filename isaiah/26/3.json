@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצר סמוך",
+      "rationale": "‹Mynd\/hugmynd föst› — KJV ‹sá sem hugur hans er staðfastur›, YLT ‹ímynd studd›; hebreskan hefur enga persónu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום",
+      "rationale": "Tvítekið ‹friði, friði› — fullkominn friður; endurtekningin glatast í þýðingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hugmynd",
+      "rationale": "יצר er ‹mynd\/skapan ímynd›, ekki ‹hugur› einn"
+    }
+  ],
+  "translation": "Hugmynd ⟨sem⟩ föst styðst — þú gætir ⟨hana⟩ í friði, friði, því að á þér treystir hún.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/26\/1-4.1792404160191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "hugmynd"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "föst styðst"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "þú gætir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friði"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friði"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בך",
+      "gloss": "á þér"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "treystir"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:40.192598935Z",
+  "model": "glm-5.3"
+}

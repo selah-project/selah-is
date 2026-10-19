@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "k\/5315 er andardráttur\/lífskraftur, 'sálu' íslenska nær því betur en 'sál' í nútímaskilningi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כנפשך שבעך",
+      "rationale": "hlutuð orðatiltæki: 'samkvæmt naf þinni, mettun þinni' — borinn möguleiki til að skyldar setningar komi tvisvar í 23:24–25"
+    }
+  ],
+  "translation": "Þegar þú kemst í vínegarð náunga þíns, mátt þú éta þrúgur eftir sálu þinni, mettun þína, en í kerfið þitt skalt þú ekki gefa.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/23\/25-26.1792398214765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "þú kemst"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "í vínegarð"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "náunga þíns"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "mátt þú éta"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "þrúgur"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "eftir sálu þinni"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "mettun þína"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en í"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "kerfið þitt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "skalt þú gefa"
+    }
+  ],
+  "timestamp": "2026-10-19T08:23:34.766289309Z",
+  "model": "glm-5.3"
+}

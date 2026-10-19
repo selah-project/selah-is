@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 52:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "משחת",
+      "rationale": "Þetta orð (vanþvæfing\/þving) kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליך",
+      "rationale": "Fleirtalan vísaði til 'yfir þér' (þjónninn sjálfur) eða 'yfir það' — margar þýðingar lesa 'yfir hann'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'meira en hjá' við מבני er bætt við til að gera samanburninginn skýran eins og í fyrri helmingnum."
+    }
+  ],
+  "translation": "Eins og margir undrustuðu yfir þér, svo var útlit hans vanþvætt meira en hjá nokkrum manni, og mynd hans ⟨meira en hjá⟩ sonum mannanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1838443870f3ef58a9d2684f3a3bcb23f538585678be9be6d10b22464d72e51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/52\/13-15.1792404818565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Eins og"
+    },
+    {
+      "surface": "שממו",
+      "gloss": "undrustuðu"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yfir þér"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "margir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "vanþvætt"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "meira en hjá nokkrum manni"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "útlit hans"
+    },
+    {
+      "surface": "ותארו",
+      "gloss": "og mynd hans"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "frá sonum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mannsins"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:38.565825170Z",
+  "model": "glm-5.3"
+}

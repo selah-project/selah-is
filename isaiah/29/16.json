@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 29:16",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חמר\/יוצר\/יצר",
+      "rationale": "leir–leirmaður–mynd: rótarleikur ytsar ('að móta') og yétser ('mynd'), endurspilað í asonans"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפככם",
+      "gloss-as": null,
+      "rationale": "'Snúningr yðar' (abstrakt nafnorð) eða lýsingarháttur 'Þér snúið öllu á hvolf' — KJV 'your turning of things upside down' vs ASV 'Ye turn things upside down'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "היצר יחשב could read 'skal leirumanninn talinn sem leir' — sérlíkingin fallin saman, en jafnfríðileg lesning er hér tekin"
+    }
+  ],
+  "translation": "Snúningr yðar! Skal leirinn talinn sem jafningi leirmannsins, að verkið segi um hann sem gjörði það: Hann gjörði mig ekki, og myndin segi um sinn mótarann: Hann skilur ekki?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b9484dacf5b70c57a1111a4703991a42223f7f592193fbff0b141dc1a7e96c45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/29\/13-16.1792404350542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפככם",
+      "gloss": "Snúningr yðar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Æskilega? Er"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "sem leir"
+    },
+    {
+      "surface": "היצר",
+      "gloss": "leirumannsins"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "talinn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verkið"
+    },
+    {
+      "surface": "לעשהו",
+      "gloss": "um hann sem gjörði það"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "gjörði mig"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "og myndin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segi"
+    },
+    {
+      "surface": "ליוצרו",
+      "gloss": "um sinn mótarann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "skilur"
+    }
+  ],
+  "timestamp": "2026-10-19T10:05:50.543943153Z",
+  "model": "glm-5.3"
+}

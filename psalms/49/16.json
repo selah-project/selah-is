@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu mín",
+      "rationale": "נפש er návitalíf\/Andardráttur, ekki ódauðleg sála í síðari skilningi; 'sál' er hefðbundið en ekki samkvæmt lögun orðsins."
+    },
+    {
+      "kind": "crux",
+      "subject": "יקחני",
+      "rationale": "'Hann mun taka mig' — túlkað sem 'taka til sín' eða 'taka burt'; myndinn af Enoch (1. Mós 5:24) er oft borin saman við."
+    }
+  ],
+  "translation": "En Elóhím mun leysa sálu mína úr hendi Sjeól, því að hann mun taka mig. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/49\/13-16.1792409812699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "En"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "mun leysa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mína"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeól"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "hann mun taka mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:52.700286774Z",
+  "model": "glm-5.3"
+}

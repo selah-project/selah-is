@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראוך ... ראוך",
+      "rationale": "Endurtekið 'ságu þig' — endurtaka til áherslu, varðveitt í íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vindrusuðust",
+      "rationale": "יחילו (frá חול, að þyrpast\/snellast) — þýtt sem hringing\/skelfing, bókstæð mynd þyrpingar varpað í tilfinningu."
+    }
+  ],
+  "translation": "Vötnin ságu þig, Elóhím, vötnin ságu þig — þau vindrusuðust; já, djúpin skulfu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/77\/17-20.1792410184197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "ságu þig"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "ságu þig"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "vindrusuðust"
+    },
+    {
+      "surface": "אף",
+      "gloss": "já"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "skulfu"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "djúpin"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:04.197701007Z",
+  "model": "glm-5.3"
+}

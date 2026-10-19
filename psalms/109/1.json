@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sálmur er tekið tvívegis til að mynda heillegt nafnsvið 'sálmur Davíðs', hebreskan batt aðeins לדוד."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל תחרש",
+      "rationale": "Sögnin er þögð í hebresku, ópersónuleg; íslenskan þarf einkennanda og nafnorð."
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Elóhím",
+      "rationale": "Bein ákallan til Elóhím í öðru persóni."
+    }
+  ],
+  "translation": "Fyrir tónlistarstjórann. Sálmur Davíðs. Elóhím lofs míns, þegiðu ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/1-4.1792410729425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fyrir tónlistarstjórann"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Sálmur Davíðs"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Sálmur"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lofs míns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "þegiðu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:09.425523231Z",
+  "model": "glm-5.3"
+}

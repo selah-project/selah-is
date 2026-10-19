@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסכתי",
+      "rationale": "frá מסך 'blanda (víni)' — 'blandað drykkjnum' (KJV\/JPS) vs 'úttæmt' frá מסס (sjá 102:10 targum); hér valið 'blandað'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפר כלחם",
+      "rationale": "myndmálið: ösku borðað sem brauð — súrttákn syrgjandans orðið dagleg fæða."
+    }
+  ],
+  "translation": "Því að ösku sem brauð hef ég étið og drykk minn hef ég blandað við grát.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/102\/9-12.1792410489415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ösku"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "sem brauð"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "hef ég étið"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "drykk minn"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "við grát"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "hef ég blandað"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:09.415951334Z",
+  "model": "glm-5.3"
+}

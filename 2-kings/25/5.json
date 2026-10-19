@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Hebreska sagði aðeins 'á sjöunda' — 'degi' er bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "טבחים",
+      "rationale": "raunin er 'slátrari' — yfirmaður lífvarða vegir aftökningaryfirvalds"
+    }
+  ],
+  "translation": "Og her Kasdíma elti konunginn og náðu honum ⟨את⟩ á sléttunum Jeríkhó, og allur her hans varð dreifður frá honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4a33f1d20b527adee1b8f32585bb37f33c97779f8be64cb6a53d0775f5248124",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/25\/5-8.1792403590746.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "eltu"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "her"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdíma"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "og náðu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honum"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "á sléttunum"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jeríkhó"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "her hans"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "varð dreifður"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "frá honum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:53:10.747355438Z",
+  "model": "glm-5.3"
+}

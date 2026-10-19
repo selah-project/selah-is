@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באלהים",
+      "rationale": "'Meðal Elóhím' — fleirtala um guði þjóðanna, ekki týðing yfir í eintölu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין...ואין",
+      "rationale": "Endurtekið neitun í ljóðlínu, samtækt 'enginn... og engin' varðveitt"
+    }
+  ],
+  "translation": "Enginn er sem þú meðal Elóhím, Adónaí, og engin verk sem verk þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/86\/5-8.1792410363383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Enginn"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "er sem þú"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "meðal Elóhím"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og engin"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "verk sem verk þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:03.384273187Z",
+  "model": "glm-5.3"
+}

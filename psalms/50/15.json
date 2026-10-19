@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Beint boð: 'ákalla mig' — Guðinn segir verkið fram á tegunduna ákalls."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ógöngu",
+      "rationale": "צרה er 'þrenging' — myndin er þröngt rúm, ekki heimsástand."
+    }
+  ],
+  "translation": "Og ákalla mig á degi ógöngu; ég mun bjarga þér, og þú munt heiðra mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07170112ac1be4080b316c333880768f590d350f62b387073679a076d49cd4c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/50\/13-16.1792409826713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Og ákalla mig"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ógöngu"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ég mun bjarga þér"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "og þú munt heiðra mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:06.714288861Z",
+  "model": "glm-5.3"
+}

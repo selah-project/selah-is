@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "Davíð snýr sér beint að Sjáúl með spurningu — fyrsti munnslagur málfyrirsagnarinnar"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "ítengd relative setning sem hebreskan segur með infinitivo לאמר"
+    }
+  ],
+  "translation": "Og Davíð sagði við Sjáúl: Af hverju hlýðir þú ⟨את⟩ orðum manna, ⟨er⟩ segja: Sjá, Davíð leitar þíns skaða?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "66a3adc3d2b944a593391fd188ace5b5baf914af50ca625a5e13847a6176090f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/24\/9-12.1792400846666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "við Sjáúl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "af hverju"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hlýðir þú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orðum manna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orðum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "segja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "leitar"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "þíns skaða"
+    }
+  ],
+  "timestamp": "2026-10-19T09:07:26.667774931Z",
+  "model": "glm-5.3"
+}

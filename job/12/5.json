@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Vers 5 er víða um rætt: ýmist 'fákáll er háðaður í huga öruggra' eða 'öruggur maður býr ótti fyrir hornum sér hjá þeim sem fóturinn vakar'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לעשתות",
+      "rationale": "Orðið עשתות (hugmyndir\/grunsemdir) kemur aðeins fyrir hér og í Sálm 146:4 í Tanakh"
+    }
+  ],
+  "translation": "Fákáll til háðar fyrir hugmyndir þess örugula; búinn ⟨er hann⟩ fyrir þeim sem fóturinn vakar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/12\/5-8.1792411950935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "fákáll"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "háð"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "fyrir hugmyndir"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "þess örugula"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "búinn"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "fyrir þeim sem vakar"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fóturinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:30.935910503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Íslenska þarf frumlag í aukasetningu; hebreskan hefur aðeins óskýrt greinirarsagn."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבדים\/שפחה · אדוניהם\/גברתה",
+      "rationale": "Samhverf líking: þrælar og ambátt, herrar og frú — endurtekningin bæði karlkyns og kvenkyns."
+    }
+  ],
+  "translation": "Sjá, eins og augu þjóna beinast að hönd herra þeirra, og eins og augu ambáttar að hönd frú sinnar, þannig augu okkar að Jahve, Elóhím okkar, þar til ⟨hann⟩ sýnir okkur náð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/123\/1-4.1792410944070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "eins og augu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "þjóna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "herra þeirra"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "eins og augu"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ambáttar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "frú sinnar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þannig"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "augu okkar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím okkar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "sýnir okkur náð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:44.071593678Z",
+  "model": "glm-5.3"
+}

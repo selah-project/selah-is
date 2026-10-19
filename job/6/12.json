@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נחוש",
+      "rationale": "Þetta adjectív (eirlit) kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כח \/ כחי",
+      "rationale": "Endurtekið 'kraftur' í spurningunni — samhverf mynd sem helst í íslensku."
+    }
+  ],
+  "translation": "Er kraftur minn kraftur steina, eða er hold mitt ⟨af⟩ eiri?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/6\/9-12.1792411839861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Er"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraftur"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "steina"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kraftur minn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða er"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "hold mitt"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "eiri"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:39.862302868Z",
+  "model": "glm-5.3"
+}

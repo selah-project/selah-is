@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu mín",
+      "rationale": "נפש er ónd\/lífskraftur, ekki 'sál' í síðari merkingu; 'sálu' heldur hljóði rótarinnar"
+    },
+    {
+      "kind": "crux",
+      "subject": "לנפשי",
+      "rationale": "'Segja við sálu mína' (lamed = til) eða 'segja um sálu mína' — eldri þýðingar skiptast á þessum tveim lestrum"
+    }
+  ],
+  "translation": "Margir segja við sálu mína: Engin hjálpræði er honum í Elóhím. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/3\/1-4.1792409227520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Margir"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "segja"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "við sálu mína"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Engin"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "hjálpræði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "í Elóhím"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:07.521634147Z",
+  "model": "glm-5.3"
+}

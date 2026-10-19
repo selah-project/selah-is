@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גפר",
+      "rationale": "gófervið er aðeins hér í Tanakh — trjátegund óþekkt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפרת\/כפר",
+      "rationale": "sögnin „beika“ og nafnið „bik“ koma bæði úr sömu rót — tapast á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קנים",
+      "rationale": "orðið er „hreiður“ (nest) — herbergi\/klefar er túlkun"
+    }
+  ],
+  "translation": "Gör þér örk af gófervi; hreiður skalt þú göra ⟨את⟩ örkina, og þú skalt beika hana ⟨את⟩ að innan og að utan með biki.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/6\/13-16.1792392732595.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Gör"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "örk"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af við"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gófer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "hreiður"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skalt þú göra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örkina"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "örkina"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "og þú skalt beika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "að innan"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "og að utan"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "með biki"
+    }
+  ],
+  "timestamp": "2026-10-19T06:52:12.596582751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ששנים עדות",
+      "rationale": "Annað hvort nafn lagmars „Liljurnar-vitnisburðurinn“ eða tvennt: lagmerki og „vitnisburður“; JPS og KJV skipta ólíkt."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עדות í titli",
+      "rationale": "Titill með þessari samsetningu kemst aðeins fyrir í þessum sálmum (Sjósjanním-Edút)."
+    }
+  ],
+  "translation": "Til forkórsins, eftir Sjósjanním-Edút, vitnisburður Asafs, sálmur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/80\/1-4.1792410304001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til forkórsins"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Sjósjanním"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edút"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafs"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sálmur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:04.001865772Z",
+  "model": "glm-5.3"
+}

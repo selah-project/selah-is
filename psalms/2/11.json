@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "konungar og dómendur (úr v. 10)",
+      "rationale": "Boðshátturinn heldur áfram að mæla beint við þá sem til er átt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביראה \/ ברעדה",
+      "rationale": "Ótti og skjálfti standa í samstöðu — fagnadur með skjálfta er paradoxón sem ljóðið heldur í spennu."
+    }
+  ],
+  "translation": "Þjónið ⟨את⟩ Jahve með ótta, og fagnið með skjálfta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8b887312d6ed161bd610aee9b65884e35669e117648dc46f6c000da03f0ba7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/2\/10-11.1792416924799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Þjónið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "með ótta"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "og fagnið"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "með skjálfta"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:24.800023496Z",
+  "model": "glm-5.3"
+}

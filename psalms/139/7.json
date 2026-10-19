@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "spurning beint til Elóhím — sálmin talar í annarri persónu við Guð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח þýtt sem rúakh samkvæmt reglu D2 — andi\/vindur\/andaagír í einu orði"
+    }
+  ],
+  "translation": "Á hvert skal ég fara frá rúakh þinni, og á hvert skal ég flýja frá andliti þínu?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/5-8.1792410992521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "á hvert"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "skal ég fara"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "frá rúakh þinni"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "og á hvert"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "frá andliti þínu"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "skal ég flýja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:32.522365272Z",
+  "model": "glm-5.3"
+}

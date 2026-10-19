@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ומדדו",
+      "rationale": "mæling — fjarlægðin frá fallna manninum til næstu borgar er kunnátta versins"
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "hebreskan segir aðeins 'sem umhverfis'; sögninni er bætt við á íslensku"
+    }
+  ],
+  "translation": "Þá ganga öldungar þínir og dómarar þínir út og mæla til borganna sem eru umhverfis mannfallið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07af891b3ab300426c08c1b4d7aa035aa2368a9010a53cfd84d00cbf893bccae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/21\/1-2.1792416542611.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ganga út"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "öldungar þínir"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "og dómarar þínir"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "og mæla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "borganna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "eru umhverfis"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "mannfallið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:02.612695890Z",
+  "model": "glm-5.3"
+}

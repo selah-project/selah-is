@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנצל",
+      "rationale": "Formin getur verið fullyrðing ('þú verður hjálpað', YLT) eða spurning ('mundu þú vera sleginn?', KJV\/JPS) — samhengið styður spurninguna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "להחרימם",
+      "rationale": "Kherem: 'vígja að tortímingu' heldur mynd helgidómsbannsins betur en 'eyða alfarilega'."
+    }
+  ],
+  "translation": "Sjá, þú heyrðir ⟨את⟩ það sem konungar Assúr gerðu öllum löndunum til að vígja þau að tortímingu — og þú, muntu undan komast?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "97553276df9e01b03d8d8d05d5b8032e0174dd0c5c0503f2c546e12717f6d0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/19\/9-12.1792403337997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "heyrðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það sem konungar Assúr gerðu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gerðu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konungar"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "löndunum"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "til-að-vígja-þau-að-tortímingu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "mundu undan komast"
+    }
+  ],
+  "timestamp": "2026-10-19T09:48:57.998645370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הרע",
+      "rationale": "Frumskáðinn segir „hefir illt gert“ — hvorki „þjáð“ né „kvaldi“; gerandinn er ónefndur, bréfið heldur formi bókstafsins"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הצל לא הצלת",
+      "rationale": "Endurtekning rótarinnar נצל — „að frelsa — þú frelsaðir ekkert“ — sterk lýsing í hebresku"
+    }
+  ],
+  "translation": "Og síðan ég kom til Paróh til að tala í nafni þínu hefir hann gert þessu fólki illt, og þú hefir alls ekki frelsað ⟨את⟩ fólki þitt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "70fcb94b6d4a18e1640c6624d74a746d64e326e942e7a5d38f3f01d32fc95d85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/5\/21-23.1792394133687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "Og síðan"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ég kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróh"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "til að tala"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "í nafni þínu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hefir hann gert illt"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fólki"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "og að frelsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "hefir þú ekki frelsað"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólki þitt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "fólki þitt"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:33.688963777Z",
+  "model": "glm-5.3"
+}

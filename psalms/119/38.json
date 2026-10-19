@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר ליראתך",
+      "rationale": "„sem tilheyrir ótta þínum“ vs „sem vekur ótta við þig“ vs KJV „sá sem helgar sig ótta þínum“."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Bæn á annarri persónu."
+    }
+  ],
+  "translation": "Stofna fyrir þjón þinn ⟨að⟩ orði þínu, ⟨orði⟩ sem leiðir til ótta þíns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/37-40.1792410770268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Stofna"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "fyrir þjón þinn"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "orði þínu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "til ótta þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:50.268828735Z",
+  "model": "glm-5.3"
+}

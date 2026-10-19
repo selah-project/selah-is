@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יחזק er 'verða sterkur\/hörðfast' — myndin er styrkur, ekki einungis 'halda áfram'."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Skilyrt loforð — 'ég mun staðfesta ... ef' —; eilíft ríki er bundið hlýðninni, sem 1. Kron 10 sýnir að brast."
+    }
+  ],
+  "translation": "Og ég mun staðfesta ríki hans ⟨את⟩ allt til eilífs, ef hann verður sterkur til að gera boðorð mín og dóma mína, eins og á þessum degi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "581094651e59083d473786f83d7141d6989c0fff4fe95484688eff0e0996a9be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/28\/5-8.1792415191591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "Og ég mun staðfesta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ríki hans"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ríki hans"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "eilífs"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "hann verður sterkur"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að gera"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "boðorð mín"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "og dóma mína"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "eins og á þessum degi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:06:31.592805580Z",
+  "model": "glm-5.3"
+}

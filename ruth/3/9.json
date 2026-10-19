@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כנף er ‚væng\/úttafl kjöltar'; myndin af vernd er höfð"
+    },
+    {
+      "kind": "crux",
+      "subject": "endurleysir",
+      "rationale": "גואל: ‚endurleysir\/leysingi náskyldur' vs ‚nái frændi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כנף",
+      "rationale": "samí orð og í 2. Mós 25:20 um vernd vatnanna yfir arksáttmálanum"
+    }
+  ],
+  "translation": "Og hann sagði: Hver ert ⟨את⟩ þú? Og hún sagði: Ég er Rut, ambátt þín, og þú skalt breiða væng kjölts þinnar yfir ambátt þína, því að þú ert endurleysir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/3\/9-12.1792412700136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þú"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hún sagði"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ambátt þín"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "og þú skalt breiða"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "væng kjölts þinnar"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ambátt þína"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "endurleysir"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú ert"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:00.137381888Z",
+  "model": "glm-5.3"
+}

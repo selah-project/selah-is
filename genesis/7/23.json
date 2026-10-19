@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 7:23",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hann⟩",
+      "rationale": "hebreskan hefur enginn höfunda — Elóhím úr samhenginu; á íslensku þarf frumlag"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימח\/וימחו",
+      "rationale": "sama rót endurtvítekin — 'eyddi\/eyddir' — speglun sem íslenskan heldur"
+    },
+    {
+      "kind": "crux",
+      "subject": "היקום",
+      "rationale": "'það sem stendur\/til er' — rót קום (að standa); sumir þýða 'allt lifandi efni'"
+    }
+  ],
+  "translation": "Og ⟨hann⟩ eyddi ⟨את⟩ öllu því sem til var á ásjá jarðarinnar, frá manni til búfés, til skriðdýrs og til fugls himnanna; og þeir voru eyddir af jörðinni, og eftir var aðeins Nóach og þeir sem ⟨את⟩ með honum voru í örkinni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f870d945596293c2d28b810fa2a54834bdd51677b79d02a9de70f768340b12c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/7\/21-24.1792392686487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימח",
+      "gloss": "Og eyddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu því sem til var"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "því sem til var"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פני",
+      "gloss": "á ásjá"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "frá manni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "búfés"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "skriðdýrs"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "וימחו",
+      "gloss": "voru eyddir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "וישאר",
+      "gloss": "og eftir var"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nóach"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og þeir sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "með ⟨את⟩ honum",
+      "marks": "Nóach — forsetningin 'með' með innfelldu hljómtvenndi"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "í örkinni"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:26.488175806Z",
+  "model": "glm-5.3"
+}

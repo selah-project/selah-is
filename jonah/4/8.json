@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 4:8",
+  "book": "jonah",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur og þorsta — ekki ódauðleg sál"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרישית",
+      "rationale": "orðið kemur aðeins fyrir hér í Tanakh — þagur, súrr heitur austanvindur"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימן",
+      "rationale": "sama sögn (útvegaði) um Jahve Elóhím, Elóhím og Elóhím aftur — kíkajoninn, ormurinn og vindurinn allir skipaðir af sömu hendi, endurtekunin bæði 4:6, 4:7 og 4:8"
+    }
+  ],
+  "translation": "Og varð, þegar sólin óx upp, að Elóhím útvegaði austan rúakh, æðihita, og sólin hjó á höfuð Jóna, og hann máttist; og bað ⟨את⟩ sálu sinni að mega deyja, og sagði: Betri er dauði minn en líf mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e885026ef46f46e4231db1b89a3594b4d3d33fe362c6b588dd6e370fb65d332",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jonah\/4\/5-8.1792408640809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og varð"
+    },
+    {
+      "surface": "כזרח",
+      "gloss": "þegar óx upp"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólin"
+    },
+    {
+      "surface": "וימן",
+      "gloss": "útvegaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "austan"
+    },
+    {
+      "surface": "חרישית",
+      "gloss": "æðihita"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "hjó"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólin"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóna"
+    },
+    {
+      "surface": "ויתעלף",
+      "gloss": "máttist"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "bað"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálu sinni"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu sinni"
+    },
+    {
+      "surface": "למות",
+      "gloss": "að mega deyja"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Betri"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "dauði minn"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "en líf mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:17:20.810922112Z",
+  "model": "glm-5.3"
+}

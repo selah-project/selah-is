@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska setningin er sögnlaus — 'hinn brjállaði' orðið með sögninni 'er' í sönnunarfriingssetningu"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה זה עשה",
+      "rationale": "'Hvað gjörir þetta?' — sumir lesa 'hvað er þetta fyrir?' eða 'hvað skilar þetta?' (JPS: 'What doth it accomplish?')"
+    }
+  ],
+  "translation": "Um hláttur sagði ég: Það er brjállaður; og um gleði: Hvað er þetta að gjöra?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/2\/1-4.1792412996266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Um hláttur"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagði ég"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "Það er brjállaður"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "og um gleði"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvað"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "að gjöra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:56.267409077Z",
+  "model": "glm-5.3"
+}

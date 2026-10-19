@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'það' bætt við — hebreskan segir aðeins 'og Davíð heyrði'"
+    }
+  ],
+  "translation": "Og Davíð heyrði það, og hann sendi ⟨את⟩ Jóab og ⟨את⟩ allan herinn, hetjurnar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1f0a0346653f7a5df07da2fabd99978e9a335e8a9f1633e7df2421446ea44326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/10\/5-8.1792401325027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "og Davíð heyrði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og hann sendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allan herinn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "herinn"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "hetjurnar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:15:25.029307988Z",
+  "model": "glm-5.3"
+}

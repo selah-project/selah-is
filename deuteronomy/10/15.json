@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 10:15",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "'kvist' (korn\/fræ, afkvæm) fyrir זרע — formmyndin er fræ, ekki 'afkomendur' sem hlutverk."
+    },
+    {
+      "kind": "alternative",
+      "subject": "חשק",
+      "rationale": "Orðið þýðir bókstaflega 'klíngjast við, girnast' — 'fannst yndi á' heldur tilfinningunni en ekki myndina."
+    }
+  ],
+  "translation": "Aðeins fannst Jahve föðrum þínum yndi á að elska þá, og hann valdi kvist þeirra eftir þá — ykkur fram yfir allar þjóðirnar, eins og í þennan dag.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/10\/13-16.1792397764149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Aðeins"
+    },
+    {
+      "surface": "באבתיך",
+      "gloss": "föðum þínum"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "fannst yndi á"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "að elska"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ þá"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "og hann valdi"
+    },
+    {
+      "surface": "בזרעם",
+      "gloss": "kvist þeirra"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "eftir þá"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fram yfir allar"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "eins og í þennan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-10-19T08:16:04.150732458Z",
+  "model": "glm-5.3"
+}

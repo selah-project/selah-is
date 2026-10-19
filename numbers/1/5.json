@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur enga sögn; íslenska þarf 'eru' og 'skal'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתכם",
+      "rationale": "Þetta er H854 (með), ekki H853; gjörsemi 'með yður' heldur nálægðinni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nafnaskrá",
+      "rationale": "Formlegt nafnatal höfðingja, eitt nafn á hverja ætt"
+    }
+  ],
+  "translation": "Og þetta eru nöfn ⟨þeirra⟩ manna sem skal standa ⟨með⟩ ⟨את⟩ yður: fyrir Rúben, Elísúr, sonur Sjedejúrs.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4a8aa8cb6850d25706440f2c6814c883c5878af08a6406602e3ca8f678bfba01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/5-8.1792396264415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "eru nöfn"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "manna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "skal standa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "fyrir Rúben"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elísúr"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Sjedejúrs"
+    }
+  ],
+  "timestamp": "2026-10-19T07:51:04.416326123Z",
+  "model": "glm-5.3"
+}

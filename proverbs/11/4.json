@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקה ritað 'tsedek' samkvæmt D2; 'réttlæti' myndi gleyma rótinni"
+    }
+  ],
+  "translation": "Eigi nýtir auður á degi reiði, en tsedek frelsar úr dauða.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/11\/1-4.1792411356442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "nýtir"
+    },
+    {
+      "surface": "הון",
+      "gloss": "auður"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en tsedek"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "frelsar"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "úr dauða"
+    }
+  ],
+  "timestamp": "2026-10-19T12:02:36.443770993Z",
+  "model": "glm-5.3"
+}

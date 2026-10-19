@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משכב er rúm (hvíldarstað), ekki „rekkja“ eða „bekkur“ — orkið heldur myndinni af því að liggja."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "טמא þýtt „óheilagur“ — „ódár“ eða „óhreinn“ færir of mikið um siðferði; orðið merkir helgistöðu."
+    }
+  ],
+  "translation": "Og sá maður sem snertir rúm hans skal þvo fatnað sinn og baða sig í vatni og er óheilagur þar til kvölds.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/15\/5-8.1792395850548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og sá maður"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "snertir"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "rúm hans"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skal þvo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "fatnað sinn"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og baða sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vatni"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og er óheilagur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvölds"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:10.550709861Z",
+  "model": "glm-5.3"
+}

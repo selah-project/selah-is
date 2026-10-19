@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er öndandi lífsmáttur, ekki ódauðleg sál í síðari skilning",
+      "is": "נפש er öndandi lífsmáttur — sál er næsta en ekki fullgerð jafngildi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "leita sálar",
+      "rationale": "Hebrew 'seek my soul' = seek to kill me",
+      "is": "leita ⟨את⟩ sálar minnar — hebreskt tjáningarsnið fyrir 'ætla lífi mínu'"
+    }
+  ],
+  "translation": "Og Davíð flúði frá Navót í Rama og kom og sagði fyrir andliti Jónatans: Hvat hefi ég gert? Hvat er misgörningur minn og hvat er synd mín fyrir andliti föður þíns, því að hann leitar ⟨את⟩ sálar minnar?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/20\/1-4.1792400728127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "og flúði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "frá Navót"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "í Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatans"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hefi ég gert"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvat er"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "misgörningur minn"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvat er"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "synd mín"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þíns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "hann leitar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálar minnar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:05:28.128590367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska segir einfaldlega 'Jahve mikill í Tsjíon' — engin samtenging"
+    }
+  ],
+  "translation": "Jahve ⟨er⟩ mikill í Tsjíon, og hár er hann yfir alla þjóðirnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/99\/1-4.1792410505129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "í Tsjíon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "og hár"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "þjóðirnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:25.130481473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska hefur enga sögn í fyrsta lið; מלך er sagnorð, 'varð konungur'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kerúbar",
+      "rationale": "יֹשֵׁב כְּרוּבִים er 'sá sem situr kerúbanna' — engin staðsetning 'yfir' í hebreskunni"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלך",
+      "rationale": " fullkomnin ('hefur tekið konungsstól') eða nútið ('er konungur')"
+    }
+  ],
+  "translation": "Jahve er ⟨konungur⟩; þjóðirnar skelfa; sá sem sessmti kerúbanna — jörðin skal skjálfa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/99\/1-4.1792410505129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "er konungur"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "skelfa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sessmti"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerúbanna"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "skal skjálfa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:25.130267951Z",
+  "model": "glm-5.3"
+}

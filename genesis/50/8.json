@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Forsætið 'þeir' bætt við í íslensku; hebreskan segir bara 'skildu eftir'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "smábörn",
+      "rationale": "טף er safnheiti yfir 'börn, fylgdarlaust fólk'; 'smábörn' nær myndinni en ekki öllu."
+    }
+  ],
+  "translation": "Og allt hús Jósefs og bræður hans og hús föður hans; aðeins smábörn þeirra og sauðfé þeirra og nautfé þeirra skildu þeir eftir í landi Gósjen.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "817d4df067c4f227a9473aec907b44708b2986f3771ef8416bb5c347ff93777b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/50\/5-8.1792394054351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefs"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "og bræður hans"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og hús"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður hans"
+    },
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "smábörn þeirra"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "og sauðfé þeirra"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "og nautfé þeirra"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "skildu þeir eftir"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Gósjen"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:14.353345344Z",
+  "model": "glm-5.3"
+}

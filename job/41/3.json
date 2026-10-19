@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 41:3",
+  "book": "job",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "KJV\/BSB hafa hér 'Gerir hann margar bænir til þín?' (Vúlgata-röð); hebreskan er spurning Jahve: hver gaf mér nokkru á undan?"
+    },
+    {
+      "kind": "addition",
+      "subject": "allt",
+      "rationale": "הוא er áherslufornafn — 'það er mitt'; á íslensku 'allt' til að ná tóninum."
+    }
+  ],
+  "translation": "Hver kom mér á undan, svo að ég skyldi bæta honum? Undir öllum himnunum er allt mítt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b60dfa97f656be58387d36eb96f2153ed47230698aeebacdaf78eba1c4fc1df1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/41\/1-4.1792412569531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "הקדימני",
+      "gloss": "kom mér á undan"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "svo að ég skyldi bæta honum"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Undir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnunum"
+    },
+    {
+      "surface": "לי",
+      "gloss": "er mítt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "allt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:22:49.532477680Z",
+  "model": "glm-5.3"
+}

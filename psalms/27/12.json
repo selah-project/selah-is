@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש א merkir 'ákvæði\/vilji' óvinanna — 'sál' yrði rangt; 'vald sjálfs' heldr merkinguna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי שקר",
+      "rationale": "'söguvottar lygar' — nafnliður án viðskeyts, myndarlegt í hebresku"
+    }
+  ],
+  "translation": "Ekki gef þú mig í vald sjálfs óvin-a minna, því að söguvottar lygar hafa risið gegn mér, og þeir sem út blása ofbeldi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/27\/9-12.1792409496137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "gef þú mig"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "í vald sjálfs"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "óvin-a minna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "hafa risið"
+    },
+    {
+      "surface": "בי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "söguvottar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lygar"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "og út blása"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:36.138961905Z",
+  "model": "glm-5.3"
+}

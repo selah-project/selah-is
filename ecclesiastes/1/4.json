@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הולך\/בא",
+      "rationale": "Andstæð sagnapörin ganga\/koma móti stendur — hreyfing manna gegn kyrrstöðu jarðar."
+    },
+    {
+      "kind": "addition",
+      "subject": "en",
+      "rationale": "Íslenskan þarf setningaskilþýðinguna „en“ þar sem hebreskan heldur einungis frumlagi með ו-."
+    }
+  ],
+  "translation": "Kynslóð fer og kynslóð kemur, en jörðin stendur að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/1\/1-4.1792412966682.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Kynslóð"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fer"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "og kynslóð"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en jörðin"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stendur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:26.683076653Z",
+  "model": "glm-5.3"
+}

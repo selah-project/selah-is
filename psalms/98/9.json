@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "áður en",
+      "rationale": "לפני er „í andliti \/ fyrir augliti“; „áður en“ er virðingarútgáfa fyrir tónlistarsamhengið"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק haldið sem hljóðritun samkvæmt D2, ekki „réttlæti“ eitt"
+    }
+  ],
+  "translation": "Áður en Jahve, því að hann er kominn til að dæma jörðina; hann mun dæma heimsbyggðina með tsedek og þjóðirnar með réttvísi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e797c9f279e53fd4058f59d6fad8424791762f76385941241fc44906669385ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/98\/9-9.1792410477752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בא",
+      "gloss": "er kominn"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "til að dæma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mun hann dæma"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heimsbyggðina"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "með tsedek"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "og þjóðirnar"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "með réttvísi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:57.752752862Z",
+  "model": "glm-5.3"
+}

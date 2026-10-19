@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 34:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בקו",
+      "rationale": "bókstaflegt 'með snæri\/mæningi' — mælistrengur landmælinga, ekki abstrakt 'regla'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הפיל",
+      "rationale": "orðrétt 'felldi' (læti hlutkesti falla), gefið sem 'kastaði'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "hlutkesti og mænilína — landi skipt með hlutkesti og mælistreng"
+    }
+  ],
+  "translation": "Og hann kastaði ⟨את⟩ hlutkesti fyrir þær, og hǫnd hans skipti því með mænilínu; að eilífu skulu þær erfa ⟨את⟩ landið, kynslóð eftir kynslóð skulu þær búa í því.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fffb6cfc2733b80b251cdcd4143e0078beace898975459aa4c7fd2687ea816a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/34\/17-17.1792404411946.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Og hann"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "kastaði"
+    },
+    {
+      "surface": "להן",
+      "gloss": "fyrir þær"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "hlutkesti"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "og hǫnd hans"
+    },
+    {
+      "surface": "חלקתה",
+      "gloss": "skipti því"
+    },
+    {
+      "surface": "להם",
+      "gloss": "með mænilínu"
+    },
+    {
+      "surface": "בקו",
+      "gloss": "með mænilínu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "að"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    },
+    {
+      "surface": "יירשוה",
+      "gloss": "skulu þær erfa"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "eftir kynslóð"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "skulu þær búa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í því"
+    }
+  ],
+  "timestamp": "2026-10-19T10:06:51.946979466Z",
+  "model": "glm-5.3"
+}

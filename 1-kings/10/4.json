@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenska þarf samtengingu 'er' þar sem hebreska notar אשר; þó er אשrer í hebresku, því aðeins 'hafði' er bætt við."
+    }
+  ],
+  "translation": "Og drottningin í Sjeva sá ⟨את⟩ alls speki Sjelómó og húsið er hann hafði byggt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "50364eeec703b16db8f65781edc4e874adaca30b68e74428bb634791d189bdea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/10\/1-4.1792402216561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Og ... sá"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "drottningin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "í Sjeva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alls speki Sjelómó"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "speki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelómó"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "og húsið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hann hafði byggt"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:16.562482121Z",
+  "model": "glm-5.3"
+}

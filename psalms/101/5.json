@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלושני",
+      "rationale": "Sérstök mynd af לשן — 'þann sem tungur', saumur í laun."
+    },
+    {
+      "kind": "crux",
+      "subject": "גבה עינים ורחב לבב",
+      "rationale": "Umfall þriggja orða; ýmiss þýðingu þýða eins og lýsingarorð ('inniliður hjarta') en það er svonefnd lykilyfirari."
+    }
+  ],
+  "translation": "Þann sem lastar náunga síns ⟨í⟩ laun, hann mun ég útrýma; hár augna og víður hjarta — ⟨hann⟩ þolir ekki ég.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/101\/5-8.1792410566888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "lastar"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "í laun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "náunga síns"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "mun ég útrýma"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "hár"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "augna"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "og víður"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "þolir ég"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:26.889152333Z",
+  "model": "glm-5.3"
+}

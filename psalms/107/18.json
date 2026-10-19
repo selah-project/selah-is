@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin",
+      "rationale": "נפש er önd\/lífskraftur, ekki ósjálfstæð sál"
+    }
+  ],
+  "translation": "Allan mat óþyðist sálin ⟨þeirra⟩, og þeir koma að hliðum dauðans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/17-20.1792410650441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "óþyðist"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sálin ⟨þeirra⟩"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "og þeir koma að"
+    },
+    {
+      "surface": "עד",
+      "gloss": "að"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "hliðum"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauðans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:50.441989498Z",
+  "model": "glm-5.3"
+}

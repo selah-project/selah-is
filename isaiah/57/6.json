@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 57:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלקי\/חלקך",
+      "rationale": "Orðvíka: חלק 'sléttur' og חלק 'hlutur' hljóma eins — sléttu steinarnir ERU hlutur þinn; glatað á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "אנחם",
+      "rationale": "'Á ég að hughreystast?' — spurning eða fullyrðing: KJV\/BSB lesa neitun ('Should I be comforted?'), YLT lesur 'fyrir þetta er ég huggaður'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נסך",
+      "rationale": "נסך getur einnig merkt steypta skurðgoðmynd — hér tekið sem drykkjafórn samkvæmt samhengi."
+    }
+  ],
+  "translation": "Meðal sléttumannasteinum læktarinnar er hlutur þinn; þeir, þeir eru hlutskipti þitt; jafnvel þeim hefur þú úthellt drykkjafórnu, þú hefir látið minkhu fara upp. Á ég að hughreystast við þetta?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bd5d1927c70dcc0785b633eb2ac8939985745c052ed5dfd109bcd9eecb46295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/57\/6-7.1792416762030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחלקי",
+      "gloss": "meðal sléttumannasteinum"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "læktarinnar"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "hlutur þinn"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "hlutskipti þitt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jafnvel"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "hefur þú úthellt"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "drykkjafórnu"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "hefir þú látið fara upp"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkhu"
+    },
+    {
+      "surface": "העל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "á ég að hughreystast"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:42.030631728Z",
+  "model": "glm-5.3"
+}

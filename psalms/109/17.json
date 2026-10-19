@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "חפץ — 'havði gleði af' skýrir hingaðartil frá 'vilja'; tæknilega 'hneigði að'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קללה\/ברכה",
+      "rationale": "Bölvun og blessun standa andstæð í spegilháttunum; stofninn קלל og ברכheldur mótvægismyndinni."
+    }
+  ],
+  "translation": "Og hann elskaði bölvun, og hún kom yfir hann, og hann hafði ekki gleði af blessun, og hún færðist langt frá honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/17-20.1792410714295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Og hann elskaði"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "bölvun"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "og hún kom yfir hann"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hafði gleði af"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "af blessun"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "og hún færðist langt"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "frá honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:54.295647380Z",
+  "model": "glm-5.3"
+}

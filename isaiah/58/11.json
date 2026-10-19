@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 58:11",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש aftur „sál” — lífskraftur, andardráttur"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחליץ",
+      "rationale": "„Gjöra sterk” gegn „klæða beinin” (orðrétt draga af) — KJK „make fat”, YLT „armeth”"
+    }
+  ],
+  "translation": "Og Jahve mun leiða þig ævinlega og metta sál þína á þurrkastöðum, og bein þín mun hann gjöra sterk; og þú munt verða sem vel vökvaður garður og sem uppspretta vatns, þess sem vatn þess lognar ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "373d75e201c2c3def20911f6ad3da03ccf38db04ebb0fa32563814436fe4d6bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/58\/9-12.1792405086377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחך",
+      "gloss": "Og ... mun leiða þig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ævinlega"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "og ... metta"
+    },
+    {
+      "surface": "בצחצחות",
+      "gloss": "á þurrkastöðum"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sál þína"
+    },
+    {
+      "surface": "ועצמתיך",
+      "gloss": "og bein þín"
+    },
+    {
+      "surface": "יחליץ",
+      "gloss": "mun hann gjöra sterk"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "og þú munt verða"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "sem garður"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "vel vökvaður"
+    },
+    {
+      "surface": "וכמוצא",
+      "gloss": "og sem uppspretta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatns"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þess sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "lognar"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "vatn þess"
+    }
+  ],
+  "timestamp": "2026-10-19T10:18:06.378715513Z",
+  "model": "glm-5.3"
+}

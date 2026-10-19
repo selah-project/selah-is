@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "האחד er 'einn' en í þessu samhengi 'sá fyrsti' — KJV 'first' gegn hebresku 'one'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Kjavíla",
+      "rationale": "החוילה –uheitt land, tvisvar í 1. Mós, örugglega ekki þýðanlegt"
+    }
+  ],
+  "translation": "Nafn ⟨þess fyrsta⟩ er Písjón; ⟨það⟩ er ⟨áin⟩ sem umlykur ⟨את⟩ allt land Kjavíla, þar sem gullið er.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/9-12.1792392519596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Nafn"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨þess fyrsta⟩"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Písjón"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨það⟩"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "sem umlykur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt land Kjavíla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Kjavíla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gullið er"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:39.601182992Z",
+  "model": "glm-5.3"
+}

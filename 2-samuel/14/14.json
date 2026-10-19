@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 14:14",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישא אלהים נפש",
+      "rationale": "'Elóhím tekur ekki brott sál' (svona ASV\/BSB) á móti 'sýnir ekki manni háttvirt' (KJV\/JPS) — sömu stafir, tvær leiðir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur — ekki ódauðleg sál í síðari skilningu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדח\/ידח",
+      "rationale": "Sama rót tvísett: 'sá sem rekinn er verði ekki rekinn' — orðaleikur um Absalom sem glatast í íslensku."
+    }
+  ],
+  "translation": "Því að deyja munum vér deyja, og eins og vatn sem hellt er á jörðina, sem ekki má aftur safnast; og Elóhím tekur ekki brott ⟨את⟩ sálina, heldur hugsar hann úrræði, svo að enginn brottrekndur verði rekinn frá honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6c4cf7e72d24194c3c071cd7d3dcd2898a28002f697263e99c84eb8c1ac22e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/14\/13-16.1792401453451.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "מות",
+      "gloss": "að deyja"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "munum vér deyja"
+    },
+    {
+      "surface": "וכמים",
+      "gloss": "og eins og vatn"
+    },
+    {
+      "surface": "הנגרים",
+      "gloss": "sem hellt er"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "á jörðina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "má safnast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "tekur brott"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálina"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "heldur hugsar"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "úrræði"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "svo að ekki"
+    },
+    {
+      "surface": "ידח",
+      "gloss": "verði rekinn"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "frá honum"
+    },
+    {
+      "surface": "נדח",
+      "gloss": "enginn brottrekndur"
+    }
+  ],
+  "timestamp": "2026-10-19T09:17:33.452238154Z",
+  "model": "glm-5.3"
+}

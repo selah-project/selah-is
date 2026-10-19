@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "Litiliga 'á andliti mínu' — þýtt 'fyrir andlit mitt', það er í andliti ásjánu Jahve"
+    },
+    {
+      "kind": "substitution",
+      "subject": "guði",
+      "rationale": "אלהים hér um guði þjóðanna — lægst ritað, rétt samkvæmt reglunni"
+    }
+  ],
+  "translation": "Þú skalt ekki hafa aðra guði fyrir andlit mitt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/1-4.1792394586619.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skalt hafa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guði"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "aðra"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:06.619830589Z",
+  "model": "glm-5.3"
+}

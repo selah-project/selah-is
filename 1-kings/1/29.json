@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "חי־יהוה er eiðsformúla: 'svo lifi Jahve' — bókstaflega 'lifandi er Jahve'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er hljóðandi lífskraftur,ð mætti líka skilja 'lífi mitt'."
+    }
+  ],
+  "translation": "Og konungurinn sór og sagði: Svo lifi Jahve, sá er leysti ⟨את⟩ sál mína úr allri þrenging:",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/29-32.1792401904642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Og konungurinn sór"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Svo lifi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "leysti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sál mína"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mína"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "úr allri"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "þrenging"
+    }
+  ],
+  "timestamp": "2026-10-19T09:25:04.643477955Z",
+  "model": "glm-5.3"
+}

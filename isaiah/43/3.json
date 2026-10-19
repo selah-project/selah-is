@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lausnargjald",
+      "rationale": "כֹפֶר er upphlaup eða gríðarfé; 'lausnargjald' heldur merkingunni"
+    },
+    {
+      "kind": "crux",
+      "subject": "Kús og Seva í stað þín",
+      "rationale": "þjóðir gefnar sem mótgjald — raunveruleg söguleg viðskipti eða myndrænt tungumál um máttarleysi þjóðanna"
+    }
+  ],
+  "translation": "Því að ég er Jahve, Elóhím þinn, hinn heilagi Ísraels, frelsari þinn; ég gaf Mitsrajím sem lausnargjald þitt, Kús og Seva í þinn stað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/43\/1-4.1792404649708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hinn heilagi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "frelsari þinn"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ég gaf"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "sem lausnargjald þitt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "og Seva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "í þinn stað"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:49.710058623Z",
+  "model": "glm-5.3"
+}

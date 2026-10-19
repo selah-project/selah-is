@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Að telja fjölda stjarnanna og nefna hverja með nafni er athöfn mælingar og nafngiftar."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Hann' bætt við sem frumlag sögninar 'telur'."
+    }
+  ],
+  "translation": "Hann telur fjölda stjarnanna, og allar kallar hann með nöfnum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/147\/1-4.1792411094125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "telur"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "fjölda"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "stjarnanna"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "allar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "með nöfnum"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kallar hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:14.125911234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 1:13",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Imperative addressed to Ísrael: Takið ykkur menn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבטיכם",
+      "rationale": "שבט er staff\/ættkvísl; 'kynþáttar' heldur samfélagstákninu en ekki stafmyndinni."
+    }
+  ],
+  "translation": "Takið ykkur menn, vitrir og skynsamir og þekktir, fyrir kynþáttum ykkar, og ég set ⟨את⟩ þeim ykkar að höfðum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5e26ace1addd65d2bc8f7b6d602b61e6bcc74adb2c9eb8ec8a13f0a68d31ffcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/13-16.1792397600348.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Takið"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "vitrir"
+    },
+    {
+      "surface": "ונבנים",
+      "gloss": "og skynsamir"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "og þekktir"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "fyrir kynþáttum ykkar"
+    },
+    {
+      "surface": "ואשימם",
+      "gloss": "og ég set þeim"
+    },
+    {
+      "surface": "בראשיכם",
+      "gloss": "ykkar að höfðum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:13:20.348988919Z",
+  "model": "glm-5.3"
+}

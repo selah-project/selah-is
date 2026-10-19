@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'menn' er viðauki — hebreskan segir aðeins 'þeir lifa' án nafnorðs."
+    },
+    {
+      "kind": "crux",
+      "subject": "עליהם",
+      "rationale": "Tvírætt: 'fyrir þeirra sakir' eða 'meðal þeirra sem lifa' — KJB 'by these things men live'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותחלימני",
+      "rationale": "Fullkomin sögn getur verið loforð ('munt gjöra heilan') eða þakklæti ('þú gjörðir heilan') — lokinni bæn til viblar."
+    }
+  ],
+  "translation": "Adónaí, af þessu lifa menn, og með öllu því er þeim fylgir er líf rúakh minnar; og þú munt gera mig heilan og lifandi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/38\/13-16.1792404456933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "af þessu"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "lifa menn"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og með öllu"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "því er þeim fylgir"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "er líf"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rúakh minnar"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "og þú munt gera mig heilan"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "og lifandi"
+    }
+  ],
+  "timestamp": "2026-10-19T10:07:36.934940619Z",
+  "model": "glm-5.3"
+}

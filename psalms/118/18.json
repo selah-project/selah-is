@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסר יסרני",
+      "rationale": "Endurtekning rótarinnar — 'agaði, hann agaði mig' — til að gera áhrifin þyngri, tapað hluta í íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'harðlega' — infinitivus absolutus framhermir sagnorðið og er þýddur sem magnun."
+    }
+  ],
+  "translation": "Ja agaði mig harðlega, en til dauðans gaf hann mig ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/118\/17-20.1792410760902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "agaði harðlega"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "mig"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "en til dauðans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "gaf hann mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:40.903119944Z",
+  "model": "glm-5.3"
+}

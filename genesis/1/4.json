@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fnóruorðið ‚það‘ bætt við — hebreskan segir ‚sá ljósið að gott‘"
+    }
+  ],
+  "translation": "Og Elóhím sá ⟨את⟩ ljósið að það var gott, og Elóhím skiljaði milli ljóssins og myrkursins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/1-4.1792392568431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og sá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljósið"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ljósið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "og skiljaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ljóssins"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og milli"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "myrkursins"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:28.436762419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירשיעני",
+      "rationale": "Hver dæmir — munnurinn sjálfur (KJV) eða Elóhím (JPS); hebreskan hefur aðeins þriðju persónu án nafns"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "אצדק er lagaténingsmynd: „réttlæti mig sjálfan“ — ekki bara „er réttlátur“"
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Framkvæmdaraðili ויעקשני ónefndur í hebresku, bætt við á íslensku"
+    }
+  ],
+  "translation": "Ef ég réttlæti mig mun munnur minn fordæma mig; fullkominn er ég — og ⟨hann⟩ mun beygja mig rangt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "86525d7c0e4e6ed00a1b2dbb3b67a6c45aa29e40aa476ec0096bec0b8b6f3098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/9\/20-20.1792416962144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "réttlæti mig"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munnur minn"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "fordæma mig"
+    },
+    {
+      "surface": "תם",
+      "gloss": "fullkominn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "beygja mig rangt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:02.145338992Z",
+  "model": "glm-5.3"
+}

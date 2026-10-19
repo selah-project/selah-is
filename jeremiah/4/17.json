@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 4:17",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "אתי",
+      "rationale": "Hér er אֹתִði einkum persónufornafnið 'mig', en tekið sem aleph-tav-vísir samkvæmt reglunni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כשמרי שדי",
+      "rationale": "'Varðveitendur akurs' — herinn gætir borgar eins og bóndi gætir akursins; myndin týnst í sumum þýðingum."
+    }
+  ],
+  "translation": "Sem varðveitendur akurs eru þeir gegn henni umhverfis, því að móti ⟨את⟩ hefur hún þrjóskað — móti mér, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/4\/17-20.1792405333487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמרי",
+      "gloss": "sem varðveitendur"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "akurs"
+    },
+    {
+      "surface": "היו",
+      "gloss": "eru þeir"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "gegn henni"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "umhverfis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "móti mér (hún þrjóskaði)"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "hefur hún þrjóskað"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:22:13.488464578Z",
+  "model": "glm-5.3"
+}

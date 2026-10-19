@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "blóðsök",
+      "rationale": "דמים er fleirtala af 'blóð' — 'blóð' fleirtölu um sök blóðs; 'blóðsök' nær merkingunni á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "aðsetningarorð",
+      "rationale": "V10 tengist V9 tilgangssetningu; 'til að' er sett fram til að gera tenginguna greina"
+    }
+  ],
+  "translation": "Til að óspillt blóð sé ekki úthellt í miðju lands þíns, sem Jahve Elóhím þinn gefur þér að eign, og blóðsök verði ekki yfir þér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/9-12.1792398121091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "til að … ekki"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "sé úthellt"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóð"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "óspillt"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lands þíns"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "að eign"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og verði"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yfir þér"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blóðsök"
+    }
+  ],
+  "timestamp": "2026-10-19T08:22:01.091944187Z",
+  "model": "glm-5.3"
+}

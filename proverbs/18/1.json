@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "18:1 er alþekkt deilaefni: lestrarfræðingar skipta misjafnt á milli 'hann leitar eftir girnd sinni' og 'hann berst gegn allri gömlum speki'; המתגלע getur merkt bæði að æsast og að blanda sér í."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תושיה er meira en 'speki' — 'gjörþró', fyrirgrifin raunhæf þekking."
+    }
+  ],
+  "translation": "Eftir girnd leitar ⟨sá er⟩ skilur sig frá, og gegn allri gjörþró gerist hann þverhöltur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/18\/1-4.1792411457088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "Eftir girnd"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "leitar"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "skilur-ser-frá"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "gegn allri"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "gjörþró"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "gerist þverhöltur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:17.088710037Z",
+  "model": "glm-5.3"
+}

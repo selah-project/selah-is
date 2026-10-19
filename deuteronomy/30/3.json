@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fangelsi þínu",
+      "rationale": "שבות er hálfsagnilegt: 'snúa fangelsi þínu' eða 'snúa örlögum þínum aftur' — KJV 'turn thy captivity' á móti nútúmalegra 'endurreisa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושב...ושב",
+      "rationale": "Rótin שב kemur tvisvar: Jahve snýr fangelsinu og snýr sjálfur — endurtekningin er stíll textans"
+    }
+  ],
+  "translation": "þá mun Jahve, Elóhím þinn, snúa aftur fangelsi þínu ⟨את⟩ og miskanna þig, og hann snýr aftur og safnar þér saman frá öllum þjóðunum, þangað sem Jahve, Elóhím þinn, hafði dreift þig þangað.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f4fa5485448be3f6c4a23bee0c8bdaf45de84f7449d91d37ab125883014f80a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/30\/1-4.1792398454092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "þá mun snúa aftur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fangelsi þínu"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "fangelsi þínu"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "og miskanna þig"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og hann snýr aftur"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "og safnar þér saman"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frá öllum"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þangað sem"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "hafði dreift þig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þangað"
+    }
+  ],
+  "timestamp": "2026-10-19T08:27:34.093255859Z",
+  "model": "glm-5.3"
+}

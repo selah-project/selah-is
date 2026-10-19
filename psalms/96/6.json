@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Síða sem hebreskan sleppir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניו",
+      "rationale": "Bókstaflega 'til andlits hans'"
+    }
+  ],
+  "translation": "Prýði og dýrð eru fyrir andliti hans, mátur og fagurþrótt í helgidómi hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "97181f96890c63ce205790d229cab2560e78902b76da491cd5581843bf8646c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/96\/5-8.1792410445141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Prýði"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "og dýrð"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir andliti hans"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mátur"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "og fagurþrótt"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "í helgidómi hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:25.141745823Z",
+  "model": "glm-5.3"
+}

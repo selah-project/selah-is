@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 66:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחר אחד בתוך",
+      "rationale": "'á eftir einum í midjunni' — þýðendum greinar á milli: eitt tré\/mann í miðjunni, eða 'fylgjandi einum' leiðtoga í siðgæðisathöfn",
+      "note": "KJV\/JPS: 'behind one in the midst'; BSB les 'follow one in the center'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "השקץ",
+      "rationale": "sheqets er 'óhreyning, ógrip' — lögð á óburt dýr og skrímsli; 'ógripinn' heldur ógleðinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתקדשים \/ מטהרים",
+      "rationale": "tvennt samstöðu-þáttarnöfn með -im endingu, hrynjandi sem glatast á íslensku"
+    }
+  ],
+  "translation": "Þeir sem helga sig og hreinsa sig í görðunum, á eftir einum ⟨sem stendur⟩ í midjunni, étandi kjöt svínsins og ógripansins og músarinnar — saman munu þeir eyðast, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a756507780e62a250ad5e9b62395a8ccc38398181d4739e90a1a13b3f4f31bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/66\/17-20.1792405214345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המתקדשים",
+      "gloss": "þeir sem helga sig"
+    },
+    {
+      "surface": "והמטהרים",
+      "gloss": "og hreinsa sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hjá"
+    },
+    {
+      "surface": "הגנות",
+      "gloss": "görðunum"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "á eftir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einum"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í midjunni"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "étandi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kjöt"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "svínsins"
+    },
+    {
+      "surface": "והשקץ",
+      "gloss": "og ógripansins"
+    },
+    {
+      "surface": "והעכבר",
+      "gloss": "og músarinnar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "munu eyðast"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:20:14.346136345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þá' bætt við í íslensku til að bera spurninguuna eins og ומה gerir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קול",
+      "rationale": "'hljóð' í stað 'blætí' eða 'gellis' — hebreska orðið er almennt hljóð, ekki dýrahljóð eitt"
+    },
+    {
+      "kind": "you",
+      "subject": "til Sjáúl",
+      "rationale": "Sjemúel beinir spurningunni að Sjáúl — svarið sem felur í sér ásakun"
+    }
+  ],
+  "translation": "Og Sjemúel sagði: Hvat er þá hljóð þessarar hjárðar í eyrum mínum, og hljóð nautanna, sem ég heyri?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/13-16.1792400562160.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemúel"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hljóð"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hjörðarinnar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessarar"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "í eyrum mínum"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "og hljóð"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nautanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyri"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:42.161469450Z",
+  "model": "glm-5.3"
+}

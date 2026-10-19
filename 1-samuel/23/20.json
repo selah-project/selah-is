@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nephesh",
+      "rationale": "נפשך er andardráttur\/lífsmáttur, ekki 'sál' í síðari tíma skilningi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרדת רד",
+      "rationale": "upphafleg endurtekning: óákv. sögn endurtekin sem skipun — 'að fara niður — farðu niður'"
+    }
+  ],
+  "translation": "Og nú, eftir allri girnd sálar þinnar, konungur, að fara niður — farðu niður, og okkar hlutskipti er að gefa hann í hönd konungsins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/23\/17-20.1792400832152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "eftir allri"
+    },
+    {
+      "surface": "אות",
+      "gloss": "girnd"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sálar þinnar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "að fara niður"
+    },
+    {
+      "surface": "רד",
+      "gloss": "farðu niður"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "og okkar hlutskipti"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "er að gefa hann"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:07:12.153200109Z",
+  "model": "glm-5.3"
+}

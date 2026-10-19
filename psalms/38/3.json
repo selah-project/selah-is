@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחתו\/ותנחת",
+      "rationale": "Sama rót נחת tvívegis — örnar sökkva og höndin læst niður; endingin hverf ekki í íslenskunni"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨þú⟩",
+      "rationale": "Sagnbeygingin 'læst' krefst frumlags sem hebreskan ber í sögninni sjálfri"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hvílist þungt",
+      "rationale": "ותנחת er bókstaflega 'og þú pressar niður'; 'hvílist þungt' heldur þyngdarmyndinni"
+    }
+  ],
+  "translation": "Því að örvar þínar hafa sökkvað niður í mig, og hönd þín hvílist þungt yfir mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/1-4.1792409723634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "örvar þínar"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "hafa sökkvað niður"
+    },
+    {
+      "surface": "בי",
+      "gloss": "í mig"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "og ⟨þú⟩ læst niður"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hönd þína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:23.635734533Z",
+  "model": "glm-5.3"
+}

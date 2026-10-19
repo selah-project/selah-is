@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þú",
+      "rationale": "Hebrew imperative אמר has no explicit pronoun; Icelandic needs 'þú'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sáttmáli friðarins",
+      "rationale": "שלום can be read as apposition ('my covenant — peace') or construct ('my covenant of peace'); apposition chosen to keep both words unbound."
+    }
+  ],
+  "translation": "Þess vegna skalt þú segja: Sjá, ég gef honum ⟨את⟩ sáttmála minn — frið.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/25\/9-12.1792397119795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "skalt þú segja"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ég gef"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáttmála minn"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sáttmála minn"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "frið"
+    }
+  ],
+  "timestamp": "2026-10-19T08:05:19.796345182Z",
+  "model": "glm-5.3"
+}

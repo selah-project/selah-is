@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska setur sögnina í frumtöðu en hebreskan hefur enga sögn — aðeins lýsingarorðið הרה og fornafnið אנכי"
+    }
+  ],
+  "translation": "Og konan varð þunguð, og hún sendi og kunngjörði Davíð og sagði: Þunguð er ég.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/11\/5-8.1792401357861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "varð þunguð"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "konan"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "kunngjörði"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "þunguð"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er ég"
+    }
+  ],
+  "timestamp": "2026-10-19T09:15:57.861909551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 18:17",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf tökuorðið „þeir“ og fleirtölu í sögninni; hebreskan segir aðeins ויקחו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גל",
+      "rationale": "„Steinahrúga“ fyrir גַּל — hið rullaða, hrúgna; orðið merkir einnig bylgju á hebresku"
+    }
+  ],
+  "translation": "Og þeir tóku ⟨את⟩ Avshalom og kusu honum ⟨את⟩ í skóginn, í stóru gryfjuna, og setju yfir honum steinahrúgu, afar stóra; og allur Ísrael flúði, hver maður í tjald sitt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a3385d7e7061cab6f1dbfea11606d7db1d1288afa95d0129e8f35c584ccd1cde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/18\/17-20.1792401683626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og þeir tóku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "kusu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "í skóginn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "gryfjuna"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "stóru"
+    },
+    {
+      "surface": "ויצבו",
+      "gloss": "setju"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir honum"
+    },
+    {
+      "surface": "גל",
+      "gloss": "steinahrúgu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "steina"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stór"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "afar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "flúði"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver maður"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "í tjald sitt"
+    }
+  ],
+  "timestamp": "2026-10-19T09:21:23.626810750Z",
+  "model": "glm-5.3"
+}

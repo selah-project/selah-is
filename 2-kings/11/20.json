@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Fornafnið „þeir“ er bætt við til að gera gerandann sýnilegan á íslensku."
+    },
+    {
+      "kind": "elision",
+      "subject": "מלך án greinis",
+      "rationale": "„hús konungs“ — hebreskan hefur engan greini hér; upphaflega ‚konungshús‘."
+    }
+  ],
+  "translation": "Og allt fók landsins fagnaði og borgin var kyrr, og ⟨את⟩ Atalíu höfðu þeir drepit með sverði í húsi konungs.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "14e4a16a1fc2f87e6900385045f8570fcb2eda1c1147647683a69eb98cde5d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/11\/17-20.1792403201094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Og ... fagnaði"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landsins"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "og borgin"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "var kyrr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Atalíu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalíu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "höfðu þeir drepit"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "með sverði"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    }
+  ],
+  "timestamp": "2026-10-19T09:46:41.096001879Z",
+  "model": "glm-5.3"
+}

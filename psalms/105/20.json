@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויפתחהו er bókstaflega 'opnaði' hann; 'sleppti honum' er þýðing á myndinni af lausn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתירהו\/ויפתחהו",
+      "rationale": "tvö sambærileg umsagnarsögn í suðrænni tvennu, leysti\/sleppti, endurtekin róf"
+    }
+  ],
+  "translation": "Konungurinn sendi og leysti hann, stjórnandi þjóðanna, og sleppti honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "573771b6f7fbe609783008ba85cd9aa6e562e621fd80df3ccb5ee526b2480487",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/20-20.1792416961490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "og leysti hann"
+    },
+    {
+      "surface": "משל",
+      "gloss": "stjórnandi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "og sleppti honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:01.491112665Z",
+  "model": "glm-5.3"
+}

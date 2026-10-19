@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כושל",
+      "rationale": "'sá sem vaggar\/stökkvar' — einn sá sem hríslast (KJV 'feeble') eða sá sem snubbar (JPS 'stumbled')"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "persónufornafn ('Hann' = Jahve) bætt við, hebreskan hefur það ekki í þessu versi"
+    }
+  ],
+  "translation": "Hann færði þá út með silfri og gulli, og var enginn kvartari í ættkvíslum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/37-40.1792410583955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "Hann færði þá út"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "með silfri"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "og gulli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og var enginn"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "í ættkvíslum þeirra"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "kvartari"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:43.956317766Z",
+  "model": "glm-5.3"
+}

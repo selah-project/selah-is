@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 33:16",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jahve Tsídkénu",
+      "rationale": "'Jahve réttlætið okkar' — sumir lesa nafnið um borgina (henni), aðrir um konunginn út frá 23:6 þar sem sama nafn er gefið gerðnum Davíðs"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨okkar⟩",
+      "rationale": "suffixed -énu er í hebreskunni; greinir og eignarfall bundið saman í eitt nafn"
+    },
+    {
+      "kind": "elision",
+      "subject": "לה",
+      "rationale": "forskeytið ל- fellur inn í íslenska persónufornafninu 'henni'"
+    }
+  ],
+  "translation": "Á þeim dögum mun Júda öryggjast, og Jerúsjalajím mun byggja með ⟨öryggi⟩; og þetta er það nafn sem henni mun verða kallað: Jahve Tsídkénu — Jahve réttlætið ⟨okkar⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c70fe27de9855d09b2fdd025b6a14c7002fc32a5c7aba8eaccc23db88e46e431",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/33\/16-16.1792416772458.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "á þeim dögum"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "mun öryggjast"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "og Jerúsjalajím"
+    },
+    {
+      "surface": "תשכון",
+      "gloss": "mun byggja"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "með öryggi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "og þetta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "mun kallað"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "Tsídkénu — réttlætið okkar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:52.459299573Z",
+  "model": "glm-5.3"
+}

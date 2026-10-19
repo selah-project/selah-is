@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki sál í síðara skilningi; 'sál' hér sem manneskja"
+    },
+    {
+      "kind": "crux",
+      "subject": "קול אלה",
+      "rationale": "rödd eiðs: hvort um er að ræða eið sem aðrir yfheyra (ASV\/JPS 'adjuration') eða eiðsvottskall; KJS 'voice of swearing' er óljósara"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hann⟩",
+      "rationale": "Hebreska segir 'og hann vitni' án sagnar; íslenskan þarf fornafn"
+    }
+  ],
+  "translation": "Og ef sál syndar og heyrir rödd eiðs, og ⟨hann⟩ er vitni, eða sá, eða vissi — ef hann kunngjörir það ekki, þá ber hann með sér synd sína.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/5\/1-4.1792395561081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Og ef sál"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "syndar"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "og heyrir"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "eiðs"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vitni"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sá"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "vissi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "kunngjörir"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "þá ber"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "með sér synd sína"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:21.081865538Z",
+  "model": "glm-5.3"
+}

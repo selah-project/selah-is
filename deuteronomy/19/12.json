@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Íslenska setningin þarf forsagnarfyllingu 'þá' á undan framhaldi frá v. 11"
+    },
+    {
+      "kind": "substitution",
+      "subject": "blóðs-endurleysandi",
+      "rationale": "גואל הדם er 'endurleysandinn blóðsins' — námsmaður ættar sem leysir; 'hefndarmaður blóðsins' er hugsanlegt en missar skyldaréttar-myndina"
+    },
+    {
+      "kind": "alternative",
+      "subject": "blóðshefnari",
+      "rationale": "Hefðbundin lesning tekr 'hefndarmaður blóðsins', en rótin גאל er endurleysing í ættarskyldu"
+    }
+  ],
+  "translation": "þá sendu öldingarnir í borg hans og taki hann þaðan og gefi hann ⟨את⟩ í hönd blóðs-endurleysanda, og hann deyr.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/9-12.1792398121091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "sendu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "öldingarnir"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "í borg hans"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "og taki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "משם",
+      "gloss": "þaðan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "og gefi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "blóðs-endurleysanda"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blóðs"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og hann deyr"
+    }
+  ],
+  "timestamp": "2026-10-19T08:22:01.092292445Z",
+  "model": "glm-5.3"
+}

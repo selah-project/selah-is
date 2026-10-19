@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 11:20",
+  "book": "job",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki óskiljanleg sál; מפח נפש er andardrátturinn sem líður út."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מפח נפש: „útblástur lífsanda“ (YLT) eða „vonin er til gáslausar“ — orðrétt mynd síðasta andardráttarins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Mótsögn við v. 18: hin réttlátu eiga תקוה (von), hin ranglátu eiga sömu von — en hún verður andardrátturinn sjálfur."
+    }
+  ],
+  "translation": "Og augu hinna ranglátu slokkna, og flótti er forgenginn frá þeim, og von þeirra er útblástur sálar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/11\/17-20.1792411968167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "og augu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hinna ranglátu"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "slokkna"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "og flótti"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "forgenginn"
+    },
+    {
+      "surface": "מנהם",
+      "gloss": "frá þeim"
+    },
+    {
+      "surface": "ותקותם",
+      "gloss": "og von þeirra"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "útblástur"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:48.168640854Z",
+  "model": "glm-5.3"
+}

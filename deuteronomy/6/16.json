@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נסיתם\/מסה",
+      "rationale": "sögnin נסה og staðarheitið Massa (2. Mós 17:7) hljóma saman — orðaleikur varðveittur með sögninni 'freista'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "bann við að freista Jahve, með tilvísun í atburðina við Massa"
+    }
+  ],
+  "translation": "Eigi skuluð þér freista ⟨את⟩ Jahve, Elóhím yðar, eins og þér freistuðuðu í Massa.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/13-16.1792397660693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "skuluð þér freista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "þér freistuðuðu"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "í Massa"
+    }
+  ],
+  "timestamp": "2026-10-19T08:14:20.694202555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Seinna את (lemma: nálægt) er forsetningin 'andspænis', ekki aleph-tav-vísir"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framsögnarsagnbeyging 'hefir orðið' bætt við fyrir גדלה"
+    },
+    {
+      "kind": "crux",
+      "subject": "לשחתה",
+      "rationale": "Kvenkynsnafnorð á við staðinn\/borgina — 'honum' (um staðinn) eða 'henni' (um borgina)"
+    }
+  ],
+  "translation": "því að vér munum eyða ⟨את⟩ stað þessum, því að hróp þeirra hefir orðið mikið ⟨את⟩ andspænis andliti Jahve, og Jahve hefir sent oss til að eyða honum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "99189e1901fc68848fd525dfc9b1b98a0af3340c7b9c2f076acf22da63323fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/19\/13-16.1792392980269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "eyða"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stað þessam"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "stað"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "orðið mikið"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "hróp þeirra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ andspænis"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "sendi oss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "til að eyða honum"
+    }
+  ],
+  "timestamp": "2026-10-19T06:56:20.270534771Z",
+  "model": "glm-5.3"
+}

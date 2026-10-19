@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Boðsmynd í fleirtölu áttölum: Þjónið, komið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fyrir augliti hans",
+      "rationale": "לפניו er 'andlit hans' — komið inn í sjónsvið hans, ekki ópersónuleg 'nálægð'."
+    }
+  ],
+  "translation": "Þjónið ⟨את⟩ Jahve með gleði, komið fram fyrir augliti hans með fögnuði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/100\/1-4.1792410550693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Þjónið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "með gleði"
+    },
+    {
+      "surface": "באו",
+      "gloss": "komið"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fram fyrir augliti hans"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "með fögnuði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:10.694370474Z",
+  "model": "glm-5.3"
+}

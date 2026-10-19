@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא תחוס עינך",
+      "rationale": "Hebreska myndin er 'augað skal ekki hafna', íslenska notar 'augu sýna miskunn'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ובערת",
+      "rationale": "Orðið er að koma í eld\/brenna burt; 'útrýma' gefur merkinguna en tapar mynd eldsins"
+    },
+    {
+      "kind": "crux",
+      "subject": "דם הנקי",
+      "rationale": "KJV\/BSB lesa 'sekt óskeytts blóðs'; JPS\/YLT lesa einfaldlega 'blóð hins saklaasa' — hebreskan segir aðeins 'blóð hins saklausa'"
+    }
+  ],
+  "translation": "Augu þín skulu ekki sýna honum miskunn, og þú skalt útrýma blóði hins saklausa af Ísrael, og það mun gott fyrir þig.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8f6a0ea4794208b51a38e742b8475ace9b0b0704848a0c5043ad29ea8642b1f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/13-16.1792398085810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "sýna miskunn"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "augu þín"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "og þú skalt útrýma"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóði"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "hins saklausa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "af Ísrael"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "og það mun gott"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þig"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:25.811188601Z",
+  "model": "glm-5.3"
+}

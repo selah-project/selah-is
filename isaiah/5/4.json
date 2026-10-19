@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "stinkber",
+      "rationale": "בְּאֻשִׁים (frá rót באש 'að lykta illa') — 'stinkber' er myndin; aðrar þýðingar: 'villtar þrúgur', 'súrþrúgur'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענבים \/ באשים",
+      "rationale": "Endurtekningin úr 5:2 — væntan um þrúgur mót stinkberjum — ber tryggðina og svikinn andstæðum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קויתי er lítið notað orð, 'að spinna von' (þræði saman) — 'vona' tapar myndinni af því að binda von saman."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨það⟩ bætt við á íslensku svo spurningin renni; hebreskan hefur aðeins ópersónulega setningu."
+    }
+  ],
+  "translation": "Hvað átti ég enn að gera víngarði mínum, sem ég hef ekki gert í honum? Hví vonaðis ég ⟨það⟩ að hann bæri þrúgur, en hann bar stinkber?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f84d6bb33a74ddccfc8e5796053d4e226ef793db3eff8b246cce9432f4f912c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/5\/3-4.1792416815934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvað"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "víngarði mínum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hef ég gert"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í honum"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "vonaðis ég"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að bera"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "þrúgur"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hann bar"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "stinkber"
+    }
+  ],
+  "timestamp": "2026-10-19T13:33:35.935059140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Þetta er eingöngu fyrirsögn kvæðisins — hebreska orðið משכיל merkir 'kennandi kvæði' og er ekki partur af versinu sjálfu."
+    },
+    {
+      "kind": "crux",
+      "subject": "האזרחי",
+      "rationale": "Ezrakíti — afkomandi Seraks (1. Kon 5:11) eða 'fæddur í landinu'; nöfnin Eitan og Ezrakíti birtast aðeins hér og í Slm 88."
+    }
+  ],
+  "translation": "Kennslukvæði, eftir Eitan Ezrakítann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/1-4.1792410375074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Kennslukvæði"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "eftir Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrakítann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:15.075468854Z",
+  "model": "glm-5.3"
+}

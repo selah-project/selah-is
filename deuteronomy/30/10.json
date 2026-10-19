@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 30:10",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er lífskraftur, andardráttur og hungræði — ekki ódauðleg sála í grískum skilning"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "íslenzka þarf kopula við „rituð“ sem hebreskan sleppir"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "beint ávarp til Ísraels um að snúa sér aftur"
+    }
+  ],
+  "translation": "Þegar þú hlýðir á rödd Jahve Elóhím þíns, til að halda boðorð hans og lög hans, ⟨er⟩ rituð í bók þessar Tóru, og þú snýr þér til Jahve Elóhím þíns með öllu hjarta þínu og allri sálu þinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/30\/9-12.1792398396924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "þú hlýðir"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "á rödd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þíns"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "til að halda"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "boðorð hans"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "og lög hans"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "rituð"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "í bók"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tóru"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "og"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "þú snýr þér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þíns"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hjarta þínu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og allri"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sálu þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:26:36.925631694Z",
+  "model": "glm-5.3"
+}

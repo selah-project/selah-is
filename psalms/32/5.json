@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נשאת 'bar' (lyft) er reynt sem 'fyrirgefa' — hebreskan heldur myndinni af því að bera burt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אודיע\/אודה",
+      "rationale": "Sömu rætur ידע\/ידה í stafrófsröð — 'kunngera' og 'játast' hljóma saman, glatað á íslensku."
+    },
+    {
+      "kind": "secret",
+      "subject": "is",
+      "rationale": "Versið snýst um að upplýta það sem falið var — synd ekki lengur hulinn."
+    }
+  ],
+  "translation": "Mína synd kunngeri ég þér, og mína misgerð félt ég ekki. Ég sagði: Ég játast yfir uppreisn minni gegn Jahve — og þú, þú barst misgerð syndar minnar. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/32\/5-8.1792409661019.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "mína synd"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "kunngeri ég þér"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "og mína misgerð"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "félt ég"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ég sagði"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ég játast"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "uppreisn minni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "gegn Jahve"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "þú barst"
+    },
+    {
+      "surface": "עון",
+      "gloss": "misgerð"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "syndar minnar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:21.019571081Z",
+  "model": "glm-5.3"
+}

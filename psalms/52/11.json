@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨það⟩",
+      "rationale": "Hebreskan segir aðeins 'þú gjörst' — andlagið 'það' er bætt við til skýrleika."
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "Bein tiljönnun til Guðs — lofgjörð og vænting um nafn hans."
+    }
+  ],
+  "translation": "Ég þakka þér að eilífu, því að þú hefur gjört ⟨það⟩, og ég vona á nafn þitt, því að það er gott, fyrir augum helga þinna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/52\/9-11.1792409862513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ég þakka þér"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "þú hefur gjört"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "og ég vona"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "á nafn þitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fyrir augum"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "helga þinna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:42.514778482Z",
+  "model": "glm-5.3"
+}

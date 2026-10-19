@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שמרות",
+      "rationale": "Sjaldgæft orð, 'það sem gætt er' — tafið sem varðberg augnsins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "varðberg",
+      "rationale": "שמרות er 'vörður\/vöktun' sett um augnlok; myndin af gæslu er höfð."
+    }
+  ],
+  "translation": "Þú gæst varðberg augna minna, ég var hreyfður og tala ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/77\/5-8.1792410173201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "gæst"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "varðberg"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augna minna"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "var ég hreyfður"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "tala"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:53.201631944Z",
+  "model": "glm-5.3"
+}

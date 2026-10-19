@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "לא אסף עוד er hebresk hjámynd, 'ekki bæta við meira', = 'aldrei aftur'; yfirfært sem 'ekki aftur'."
+    },
+    {
+      "kind": "addition",
+      "subject": "á",
+      "rationale": "Íslenskan þarf viðtaksforsetningu við 'andlit', hebreskan lýkur setningunni með óbeint sagnfyllingu."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Mósje svarar Faró beint — tala til hans í annarri persónu."
+    }
+  ],
+  "translation": "Og Mósje sagði: Rétt hefur þú talað; ég mun ekki aftur sjá ⟨á⟩ andlit þitt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e233eaefc746baa5615042242aa8ae6036de46860f73ab897f920705d60833d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/10\/29-29.1792394231768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Rétt"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "hefur þú talað"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "aftur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mun"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlit þitt"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:11.768816160Z",
+  "model": "glm-5.3"
+}

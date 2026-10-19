@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עונת ראשנים",
+      "rationale": "'fyrri misgerðir' — forfeðra eða eigin? YLT\/JPS: forfeðra; KJS: eigin fortíð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רחמיך",
+      "rationale": "'ríki' (fleirtala af miskunn, kvið-mynd); 'miskunn þín' væri útvíkkun."
+    },
+    {
+      "kind": "addition",
+      "subject": "máttulega",
+      "rationale": "מאד bundið inn í setningu — 'mjög' látið falla niður í íslenskri orðröð."
+    }
+  ],
+  "translation": "Ekki minnstu ⟨á⟩ oss fyrri misgerða; skyndstu — ríki þín muni komið fyrir oss, því að þungum lægðum höfum verið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/79\/5-8.1792410292171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "minnstu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨á⟩ oss"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "misgerða"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "fyrri"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "skyndstu"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "muni komið fyrir oss"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ríki þín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "þungum lægðum höfum verið"
+    },
+    {
+      "surface": "מאד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:52.172484787Z",
+  "model": "glm-5.3"
+}

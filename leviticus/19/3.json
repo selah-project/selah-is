@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבתתי",
+      "rationale": "Fleirtölumynd með possessive ending („Sjabbatöldurnar mínar“) — fleirtala er valin hér, sumir lesa sem hefðbundna eintölu „Sjabbatinn minn“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תיראו",
+      "rationale": "„Óttast“ er rótmynd; „virða“ (sjá KJV-þýðingar) er mildari lestur en tapar styrk orðsins."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "Boðorð í fleirtölu til Ísraelsþjóðar."
+    }
+  ],
+  "translation": "Hver maður skal óttast móður sína og föður sinn, og ⟨את⟩ Sjabbatöldurnar mínar skuluð þér varðveita; ég er Jahve, Elóhím yðar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/1-4.1792395944473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Hver maður"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "móður sína"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "og föður sinn"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skaluð þér óttast"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Sjabbatöldurnar mínar"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sjabbatöldurnar mínar"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skuluð þér varðveita"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:44.474883848Z",
+  "model": "glm-5.3"
+}

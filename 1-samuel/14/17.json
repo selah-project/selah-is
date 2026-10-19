@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פקדו er hér 'telja, þysja mannskap' — 'skoða' er víðara; Hebreska heldur mynd þysingarinnar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨þar⟩ bætt við til að íslenskan geti sagt 'voru ekki' með staðarvísi"
+    }
+  ],
+  "translation": "Og Sjaúl sagði við fólkið sem ⟨את⟩ ⟨með⟩ honum var: Skoðið nú og sjáið hver farit hefur frá okkur. Og þeir skoðuðu, og sjá — Jónatan og sá sem bar vopnin hans voru ekki ⟨þar⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/17-20.1792400561568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagði"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaúl"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "við fólkið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨með⟩",
+      "marks": "honum"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "Skoðið"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "og sjáið"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "farit hefur"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "frá okkur"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "Og þeir skoðuðu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "אין",
+      "gloss": "voru ekki"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og sá sem bar"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vopnin hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:41.569708399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתקוטטה",
+      "rationale": "'kaldist við \/ fýsti' — rótin merkir að skera eða frá, fellibjarg; JPS les 'barðist við þá'"
+    },
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "fornafni bætt við á íslensku, hebreskan hefur það ekki"
+    }
+  ],
+  "translation": "Ég sá svikara og kaldist við ⟨þá⟩, því að ⟨את⟩ orð þitt gættu þeir ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/157-160.1792410857269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ég sá"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "svikara"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "og kaldist við"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "orð þitt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gættu þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:17.270358944Z",
+  "model": "glm-5.3"
+}

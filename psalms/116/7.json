@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sála mín",
+      "rationale": "נפש er andardráttur\/lífsmáttur, ekki ódauðleg sál í grískum skilningi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "sálmhöfundur til sín sjálfs",
+      "rationale": "Sálmurinn ávarpar eigin sálu með boðshætti: snú aftur"
+    },
+    {
+      "kind": "you",
+      "subject": "til sálarinnar",
+      "rationale": "Beint ávarp, lýðingsmynd í kvenkynni (עליכי)"
+    }
+  ],
+  "translation": "Snú aftur, sála mín, til hvíldar þinnar, því að Jahve hefur gert vel við þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/116\/5-8.1792410772020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Snú aftur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sála mín"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "til hvíldar þinnar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "hefur gert vel við"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "þig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:52.021503873Z",
+  "model": "glm-5.3"
+}

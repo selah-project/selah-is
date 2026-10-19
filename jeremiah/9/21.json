@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 9:21",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מול בערלה-skýring",
+      "rationale": "erlend þýðingar (KJV o.fl.) setja 'dauðinn klifrar í gluggana' hér, en MT hefur hrörfallið sem áburður — vacat í LXX; MT-listinn hér er slefó."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hrær",
+      "rationale": "נבלה er flökkjun hrær, ekki ' lík ' í sæmilegri merkingu — myndin er hnýsileg og við haft henni"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כדמן",
+      "rationale": "myndin ' sem áburður á yfirborði vallarins ' endurtekin víðar hjá Jeremia (8:2; 16:4; 25:33) — umhrörfall myndarákþema bókarinnar"
+    }
+  ],
+  "translation": "Talaðu svo — segir Jahve — og hrær mannsins fellur sem áburður á yfirborði vallarins, og eins og axkorn aftan við sláttumanninn, og enginn er safnandi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b3e2015ff7cacddbec6b2f7acd94d8e202b66beb95e684303266be1dbae96c58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/9\/21-24.1792405575575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talaðu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "svo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "og fellur"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "hrær"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "כדמן",
+      "gloss": "sem áburður"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yfirborði"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "vallarins"
+    },
+    {
+      "surface": "וכעמיר",
+      "gloss": "og eins og axkorn"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "aftan við"
+    },
+    {
+      "surface": "הקצר",
+      "gloss": "sláttumanninn"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "er safnandi"
+    }
+  ],
+  "timestamp": "2026-10-19T10:26:15.576218499Z",
+  "model": "glm-5.3"
+}

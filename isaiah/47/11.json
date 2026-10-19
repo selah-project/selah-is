@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 47:11",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחרה",
+      "rationale": "Rót שׁחר 'morgunroði': JPS les 'þú kannt ekki að seiða hana burt' (sem rót I), KJV 'þú veist ekki uppruna hennar' (morgunroðinnrót) — báðar mögulegar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Þrjár stigvaxandi endingar með sama músík: kemur\/fellur\/kemur + ógæfa\/tjón\/eyðilegging + 'ekki' í hvert sinn — kiasmísk viðjöfnun tapað að hluta í þýðingu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הוה",
+      "rationale": "הֹוָה 'tjón\/hrun' kemur aðeins hér í Tanakh."
+    }
+  ],
+  "translation": "Og ógæfa kemur yfir þig — þú kannt ekki að seiða hana burt; og tjón fellur yfir þig — þú mátt ekki bæta fyrir það; og eyðilegging kemur yfir þig skyndilega — þú veist ekki af henni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b1ec40faf0ffb332a7dd5325d3e1ef3b753f61e2646a997a7edc354c9c140ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/47\/9-12.1792404705927.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Og kemur"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yfir þig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ógæfa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "þú kannt"
+    },
+    {
+      "surface": "שחרה",
+      "gloss": "að seiða hana burt"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "og fellur"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yfir þig"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "tjón"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "þú mátt"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "bæta fyrir það"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "og kemur"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yfir þig"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "skyndilega"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "eyðilegging"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "þú veist"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:45.928976134Z",
+  "model": "glm-5.3"
+}

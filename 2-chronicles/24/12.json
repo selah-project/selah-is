@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 24:12",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרשים",
+      "rationale": "„Smiðir“ — hebreska orðið þekkir efnið (við, steinn) eftir samhengi, ekki óljóst hér."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Það“ — forsögn í ויתנהו krefst andstöðu sem íslenskan gerir með tilvísun."
+    }
+  ],
+  "translation": "Og konungurinn og Jehójadá gáfu það þeim er unnu verk þjónustunnar í húsi Jahve, og þeir réðu steinhöggvara og smiði til að endurnýja hús Jahve, og einnig járn- og koparsmiði til að styrkja ⟨את⟩ hús Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "46e27553406c618ec60cd02c8b56a2459ebba7deb1279735e3ad6a8ac172c5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/24\/9-12.1792415794558.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "gáfu það"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "ויהוידע",
+      "gloss": "og Jehójadá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "þeim er unnu"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "verk"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "þjónustunnar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og þeir réðu"
+    },
+    {
+      "surface": "שכרים",
+      "gloss": "réðu"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "steinhöggvara"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "og smiði"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "til að endurnýja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og einnig"
+    },
+    {
+      "surface": "לחרשי",
+      "gloss": "smiði"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "járn"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "og kopar"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "til að styrkja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hús Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T13:16:34.560583323Z",
+  "model": "glm-5.3"
+}

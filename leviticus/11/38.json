@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sögnin ⟨er⟩ bætt við; hebreska notar enga sögn"
+    },
+    {
+      "kind": "measurement",
+      "subject": "vatn",
+      "rationale": "versið greinir hreinsislag á mælikvarða: þurrt sáð hreint, vatnað sáð óhreint"
+    }
+  ],
+  "translation": "En ef vatn er sett á sáðið og hræ þeirra fellur á það — óhreint er ⟨það⟩ fyrir yður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "223caffb62299e6265b7cde6b14268f26c4c1043576a4459ae02e2ccacff8594",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/37-40.1792395588914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "er sett"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sáðið"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "og fellur"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "hræ þeirra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á það"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "óhreint"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ⟨það⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fyrir yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:48.915720191Z",
+  "model": "glm-5.3"
+}

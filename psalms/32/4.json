@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשדי",
+      "rationale": "„saft\/þrungi“ eða „feitur kaka“ — deilt meðal þýðenda; KJV „moisture“, JPS „sap“"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "mín — fornafnið er skilið úr samhenginu, ekki staklings orð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סלה",
+      "rationale": "Sela haldið sem hljómmerkis-orð, ekki þýtt"
+    }
+  ],
+  "translation": "Því að dag og nótt varð þung hönd þín yfir mér; saft mín varð að sumarþurrk. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/32\/1-4.1792409636915.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nótt"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "varð þung"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hönd þín"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "varð að"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "saft mín"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "sumarþurrk"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sumar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:56.916123092Z",
+  "model": "glm-5.3"
+}

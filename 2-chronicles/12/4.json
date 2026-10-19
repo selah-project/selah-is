@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "víggirðinganna",
+      "rationale": "המצרות er samtöguð mynd 'borga víggirðinganna' — borgirnar og virkin ein heild"
+    }
+  ],
+  "translation": "Og hann lagði undir sig ⟨את⟩ borgir víggirðinganna sem til Júda heyrðu, og kom allt að Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/12\/1-4.1792415442139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Og hann lagði undir sig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borgir víggirðinganna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borgir"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "víggirðinganna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "til Júda heyrðu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt að"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:10:42.140799170Z",
+  "model": "glm-5.3"
+}

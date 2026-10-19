@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lífs",
+      "rationale": "נפש er lífskraftur, önd, ekki sála; 'leita lífs þeirra' í stað 'leita sálu þeirra'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצור\/מצוק",
+      "rationale": "Orðlekur á rótum þrengingar, umsátr (matsor) og þrenging (matsok), glataður á íslensku"
+    }
+  ],
+  "translation": "Og ég mun láta þá éta ⟨את⟩ kjöti syna sinna og ⟨את⟩ kjöti dætra sinna, og hvert mannskjöti náunga síns munu þeir eta, í umsátri og þrenging þeirri, er óvinir þeirra og þeir sem leita lífs þeirra munu þrengja þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8582fbfb4effbbd0d47082f303133cff0de2b57258bb9c7f90f9bae10d4fb959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/19\/9-12.1792405783654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "Og ég mun láta þá éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kjöti syna sinna"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kjöti"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "syna sinna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kjöti dætra sinna"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kjöti"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "dætra sinna"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hvert mann"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kjöti"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "náunga síns"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "munu þeir eta"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "í umsátri"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "og þrenging"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "munu þrengja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þá"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "óvinir þeirra"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "og þeir sem leita"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lífs þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:43.655582693Z",
+  "model": "glm-5.3"
+}

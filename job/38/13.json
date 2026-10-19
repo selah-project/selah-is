@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 38:13",
+  "book": "job",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כנפות er „vængir“ — myndin er jörðin sem breiðist út sem dúkur með vængja(enda), ekki „endir“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "myndin af jörðinni hristaði sem teppi svo óvættirnar falla af henni, eins avatasiða í breiðu"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Ja question addressed to Job, continuing challenge from v. 12"
+    }
+  ],
+  "translation": "að grípa í vængi jarðarinnar, og þeir ranglátu steypt af henni —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "188401379a24f745f8a0040a8865aea79e7c2bbff75178dc39924c3ae48ab16c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/38\/13-16.1792412528140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאחז",
+      "gloss": "að grípa í"
+    },
+    {
+      "surface": "בכנפות",
+      "gloss": "vængi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "וינערו",
+      "gloss": "steypt"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "þeir ranglátu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "af henni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:22:08.140678167Z",
+  "model": "glm-5.3"
+}

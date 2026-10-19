@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קולי ... קולי",
+      "rationale": "Endurtekið 'rödd mín' í spegluðum lýsingum, klifrtak sem varðveitt er í íslenskunni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Með' bætt við — hebreskan setur 'rödd mín' fremst í atvikssetningu án forsetningar"
+    }
+  ],
+  "translation": "Með rödd minni til Jahve öskra ég, með rödd minni til Jahve væri ég miskunnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/142\/1-4.1792410985280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Með rödd minni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "öskra ég"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "með rödd minni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "væri ég miskunnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:25.280937258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אך merkir hér takmörkun — 'aðeins' — en ekki staðfestingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשא",
+      "rationale": "orðrétt 'lyfta', hið sama og um merkisbera; 'taka' höfuð = telja"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "lysingar talningar — Levi undanskilin manntalinu"
+    }
+  ],
+  "translation": "Aðeins kunnir þú ekki að telja ⟨את⟩ kvísl Levi og ⟨את⟩ höfuð þeirra skalt þú ekki taka meðal sona Ísraels.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/49-52.1792396319784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvísl Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kvísl"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "að telja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "höfuð þeirra"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "höfuð þeirra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "skalt þú taka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "meðal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T07:51:59.785397050Z",
+  "model": "glm-5.3"
+}

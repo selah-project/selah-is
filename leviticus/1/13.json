@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir 'á altarinu' — íslenskan þarf samsvarandi setsningamynd með 'á altarinu' þar sem hásetning vantar sagnaruna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ניחח",
+      "rationale": "'þægilegur' fyrir ניחוח 'hvílandi, ilmur sem hvílist' — myndin af hvíld glatast að hluta"
+    }
+  ],
+  "translation": "Og hið innra og leggirnir tveir skulu þvegin í vatni, og presturinn skal færa ⟨את⟩ alt og láta reykja á altarinu; brennifórn ⟨það⟩ er, eldfórn, þægilegur ilmur fyrir Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/1\/13-16.1792395413223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "hið innra"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "leggirnir tveir"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "skal þvo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vatni"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "og skal færa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alt"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alt"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og láta reykja"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "á altarinu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brennifórn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨það⟩ er"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eldfórn"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ilmur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "þægilegur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:53.224236418Z",
+  "model": "glm-5.3"
+}

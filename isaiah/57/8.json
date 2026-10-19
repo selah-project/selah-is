@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יד חזית",
+      "rationale": "„sástu hönd“ er bókstætt; KJV les þetta sem staðsetningu („þar sem þú sást það“), JPS sem „þeirra hönd þú sást“ — hebreskan heldur myndinni hönd + sá."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משכב",
+      "rationale": "„rúm“ er bókstætt; rótin ber víðskipti í einkalífi (mjúk orð notuð um lengri samskipti)."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbótin „þig“ og „hverja“ er íslenskan bætir við; hebreskan hefur aðeins sögnina og orðið „hönd“."
+    }
+  ],
+  "translation": "Og á eftir hurðinni og dyrapóstinum settir þú minningu þína, því að frá ⟨את⟩ mér birtir þú þig, og þú steigst upp, þú breikkaðir rúm þitt og skorðir þér af þeim — þú elskaðir rúm þeirra, hverja hönd sást þú.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36660891eded0b2e5250ca3e4f7fd543e4ff859782529150b739610cd08ebc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/57\/8-8.1792416737608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "á eftir"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "hurðinni"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "og dyrapóstinum"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "settir þú"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "minningu þína"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "frá ⟨את⟩ mér",
+      "marks": "mér"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "birtir þú þig"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "og þú steigst upp"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "þú breikkaðir"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "rúm þitt"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "og þú skorðir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "af þeim"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "þú elskaðir"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "rúm þeirra"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hverja hönd"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "sást þú"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:17.609449825Z",
+  "model": "glm-5.3"
+}

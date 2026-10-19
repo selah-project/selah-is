@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þágufornafnið 'þær' bætt við eftir 'tók'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "ויעמד er bókstaflega 'og hann stal sér upp' — skilið 'hætti' samkvæmt samhengi"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "bein áttun konungi Ísraels: 'Sláðu í jörðina'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "talning högganna: þrjú sinni, ráðandi fyrir útkleepina"
+    }
+  ],
+  "translation": "Og hann sagði: Taktu örina. Og hann tók ⟨þær⟩. Og hann sagði við konung Ísraels: Sláðu í jörðina. Og hann sló þrisvar og hætti.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7b971ddd2d815b805b4e861976855288ac1bb7d4307c42daf7688b8b65960f6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/13\/17-20.1792403253055.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Taktu"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "örina"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og hann tók"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "við konung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Sláðu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "í jörðina"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og hann sló"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "þrisvar"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "sinni"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og hætti"
+    }
+  ],
+  "timestamp": "2026-10-19T09:47:33.056780867Z",
+  "model": "glm-5.3"
+}

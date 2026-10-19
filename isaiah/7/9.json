@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir ekki „er“ — sambandið er skilið í íslensku sem sögn"
+    },
+    {
+      "kind": "crux",
+      "subject": "תאמינו כי לא תאמנו",
+      "rationale": "Orðaleikur: tvo stofn af אמן — „trúa“ og „staðfastur vera“; bókstaflega: ef þið treystið ekki, verðið þið ekki staðfestir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאמינו\/תאמנו",
+      "rationale": "Örlítil hljóðbreyting milli tveggja mynda sömu rótar — endurómur sem glatast í þýðingu"
+    }
+  ],
+  "translation": "Og höfuð Efraím er Sjomron, og höfuð Sjomron er sonur Remalja. Ef þið trúið ekki, þá verðið þið ótraustir.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/7\/9-12.1792403715229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "og höfuð"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraím"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "og höfuð"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "þið trúið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "verðið þið ótraustir"
+    }
+  ],
+  "timestamp": "2026-10-19T09:55:15.230423566Z",
+  "model": "glm-5.3"
+}

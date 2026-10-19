@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornöfn og framtíðarhjálp 'munt þú' — hebreska ófullkomna sérnafnssögn ber ekki fornafn."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חן",
+      "rationale": "חן (náð) er nálgast ⟨נח⟩ í Mishlei 3:34 — hljóðvænni þekkt, en ekki í þessu versi."
+    }
+  ],
+  "translation": "Þá munt þú finna náð og góða skynseml í augum Elóhím og manna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/1-4.1792411191318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Þá munt þú finna"
+    },
+    {
+      "surface": "חן",
+      "gloss": "náð"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "og góða skynseml"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góða"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "og manna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:51.319647389Z",
+  "model": "glm-5.3"
+}

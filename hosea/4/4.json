@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ákveður á bak við 'enginn' — forsendan óviss: hver má áminna hvern? sumir lesa 'enginn áminni annan', aðrir 'enginn áminni æðsta prestinn'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "'fólk þitt' — áttun til spámannsins eða presta, ekki til lýðsins beint"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "endurtekning rótarinnar ריב — 'deila' og 'þeir sem deila við' — borið saman við ריב í versi 1"
+    }
+  ],
+  "translation": "Þó skal enginn maður deila og enginn maður áminna, því að fólk þitt er eins og þeir sem deila við prest.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/4\/1-4.1792408110864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Þó"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enginn maður"
+    },
+    {
+      "surface": "אל",
+      "gloss": "skal ekki"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "deila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "áminna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "fólk þitt"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "eins og þeir sem deila við"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prest"
+    }
+  ],
+  "timestamp": "2026-10-19T11:08:30.865811099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "skal",
+      "rationale": "íslensk framtíðarhjálparsögn bætt við; hebreskan hefur aðeins óperfectum"
+    },
+    {
+      "kind": "you",
+      "subject": "pílagrímurinn",
+      "rationale": "fleiryrt orðatiltæki: sólin og tunglið sem ógn — hiti daginn, kuldi og myrkur nætur"
+    }
+  ],
+  "translation": "Daginn skal sólin ekki slá þig, né tunglið um nóttina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/121\/5-8.1792410878499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Daginn"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "slá þig"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "né tunglið"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "um nóttina"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:38.499843219Z",
+  "model": "glm-5.3"
+}

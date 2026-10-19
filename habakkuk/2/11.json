@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפיס",
+      "rationale": "Bitinn, viðarbúturinn — aðeins hér í Tanakh kemur orðið fyrir."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'honum' er bætt við — hebreskan hefur endingar -נָה sem ýmist vísar til hans eða hennar."
+    }
+  ],
+  "translation": "Því að steinn úr vegginum mun hrópa, og biti úr trénu mun svara honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "26598228e083b9607a95e47a0fc940e2091217005aaac09c1fc9621c204cfcb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/habakkuk\/2\/9-12.1792408708974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "steinn"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "úr vegginum"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "mun hrópa"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "og biti"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "úr trénu"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "mun svara honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:18:28.975002275Z",
+  "model": "glm-5.3"
+}

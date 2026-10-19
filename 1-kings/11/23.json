@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שטן",
+      "rationale": "'andstæðing' — orðið er 'sátan' (mótspyrnumaður) án greinis; ekki nafn einkafalls andans"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'frá' tengir flúða við ⟨את⟩ í מאת (H854), en ⟨את⟩ er varðveitt"
+    }
+  ],
+  "translation": "Og Elóhím reisti honum upp andstæðing, ⟨את⟩ Rezon son Eljadá, sá er flúði frá ⟨את⟩ Hadadezer konungi í Sova, herra sínum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/11\/21-24.1792402360368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Og reisti upp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "andstæðing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljadá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "flúði"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "frá ⟨את⟩",
+      "marks": "Hadadezer konungi í Sova"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "í Sova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herra sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:32:40.369544625Z",
+  "model": "glm-5.3"
+}

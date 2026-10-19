@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Pronoun þér added; Hebrew has only 'all workers of iniquity'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ógilni",
+      "rationale": "און er 'tómeiki, hégómi, illska' — eitt orð valið af mörgum merkingum"
+    },
+    {
+      "kind": "you",
+      "subject": "to enemies",
+      "rationale": "Nafnháttarboðsform beint til óvinanna David"
+    }
+  ],
+  "translation": "Vikið frá mér, allir ⟨þér⟩ sem vandið ógilni, því að Jahve heyrði rödd grát míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/6\/9-11.1792409166133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Vikið"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "⟨þér⟩ sem vandið"
+    },
+    {
+      "surface": "און",
+      "gloss": "ógilni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "grát míns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:06.134431794Z",
+  "model": "glm-5.3"
+}

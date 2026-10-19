@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עלה",
+      "rationale": "עלה er 'það sem steig upp' — reykmyndin; 'brennifórn' heldur brennslunni en ekki stignuninni"
+    },
+    {
+      "kind": "addition",
+      "subject": "hana",
+      "rationale": "Fornafnið 'hana' bætt við til að gera hlut ⟨את⟩-merkis greinilegan í íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "לרצנו",
+      "rationale": "'Til ánægju hans' (fyrirborna) eða 'til að hann verði þeginn' — rætur í רצה, þiggja með góðu"
+    }
+  ],
+  "translation": "Ef fórn hans er brennifórn af nautgripum, skal hann færa karldýr, fullkomið; að opni tjaldbúðar fundarins skal hann færa ⟨את⟩ ⟨hana⟩, svo að hún verði honum þeginn, fyrir framan Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/1\/1-4.1792395407755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brennifórn"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "fórn hans"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nautgripum"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karldýr"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fullkomið"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "skal hann færa hana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjaldbúðar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundarins"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "skal hann færa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hana — brennifórnina"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "svo að hún verði honum þeginn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir framan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:47.756915382Z",
+  "model": "glm-5.3"
+}

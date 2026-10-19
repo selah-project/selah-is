@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לעג er að gera að gríni, að herma eftir sem útlendingur — 'gerir gys' heldur ádeilunni, en ekki brotinu sjálfu."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "reason": "orðabreyting",
+      "rationale": "Samhverf tvinn — hlær\/gerir gys — samsvarar hebresku tvennarinnar שחק\/לעג; engu að síður er 'að' í 'að þeim' fallbeygt inn í sagnfyllingu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "himnunum",
+      "rationale": "ðúatölumynd שמים — 'himninum' (eint.) yrði of þröng; tvinnhimnin helst."
+    }
+  ],
+  "translation": "Sá sem situr í himnunum hlær; Adónaí gerir þeim gys.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/2\/1-4.1792409225126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Sá sem situr"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "í himnunum"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "hlær"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "gerir þeim gys"
+    },
+    {
+      "surface": "למו",
+      "gloss": "að þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:05.127682168Z",
+  "model": "glm-5.3"
+}

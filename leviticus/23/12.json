@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "gamalt bætt við á íslensku — hebreskan segir bókstaflega „son ár síns“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בן שנתו, „sonur eins árs“, myndlíking um aldur lambsins"
+    }
+  ],
+  "translation": "Og þér skuluð á þeim degi er þið veifið ⟨את⟩ ómernum gjöra lamb óskaddað, eins árs ⟨gamalt⟩, til brennifórnar fyrir Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "98e274f8b302a2af8663a4b294c6326a67d21bde5b8b724ebb90ea9a35962d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/23\/9-12.1792396033818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Og þér skuluð gjöra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "er þið veifið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ómernum"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ómernum"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lamb"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "óskaddað"
+    },
+    {
+      "surface": "בן",
+      "gloss": "eins árs"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "gamalt"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brennifórnar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:47:13.819990083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eignin",
+      "rationale": "הרכוש er 'safnað eigna' — íslenskan notar eitt orð þar sem hebreskan hefur mynd sem safnist saman."
+    },
+    {
+      "kind": "elision",
+      "subject": "למלך",
+      "rationale": "Hebreska frumlagstið 'til konungsins' flutt yfir í sögnina 'átti Davíður konungur' — forsetnin vekur ekki athygli á íslensku."
+    }
+  ],
+  "translation": "Og yfir hjörðinni Jazís Hagríti; allir þessir voru höfðingjar yfir eignina ⟨sem⟩ átti Davíður konungur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bdf9f2faa315aa6f91a35708069059d736d78a19b2de8ad010eee77d2de8273d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/27\/29-32.1792415148271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "og yfir"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hjörðinni"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "Jazís"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "Hagríti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessir"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "höfðingjar"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "eignina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sem⟩"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "átti Davíður konungur"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíður"
+    }
+  ],
+  "timestamp": "2026-10-19T13:05:48.272146566Z",
+  "model": "glm-5.3"
+}

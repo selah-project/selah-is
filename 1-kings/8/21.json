@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "כרת ברית 'skera sáttmála' — hið hebreska myndar um sáttmála er varðveitt í 'skar'."
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "gloss-duplicate": false,
+      "rationale": "Endurtekið שם 'þar' (tvisvar) fellur nokkuð saman í íslenskri setningu."
+    }
+  ],
+  "translation": "Og ég setti þar stað fyrir örkina, þar sem sáttmáli Jahve er, sáttmálinn sem hann ég síðan skar með feðrum okkar, er hann færði ⟨את⟩ þá út úr landi Mitsrajím.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "aa28da6106495960b6f25e40efbc56f7b27b9827e93385863a3acbb500a77bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/21-24.1792402251292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "Og ég setti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "stað"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "fyrir örkina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmáli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "skar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "feðrum okkar"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "er hann færði út"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:51.293666399Z",
+  "model": "glm-5.3"
+}

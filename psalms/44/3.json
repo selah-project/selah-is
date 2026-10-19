@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קנ.ם endanir",
+      "rationale": "hvort suffíksin -ם vísar til þjóðanna (þær út sendar) eða til Ísraels (græddir þá) — formleg sögn er þjóðirnar"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨okkur⟩",
+      "rationale": "hlutmyndirnar á ותטעם bætt við til að gera hlut skýran"
+    }
+  ],
+  "translation": "Þú — með hendi þinni þjóðum þú lést og græddir ⟨okkur⟩; þjóðflokkum braust þú og þá sendir þú burt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/44\/1-4.1792409755709.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "með hendi þinni"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðum"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "þú lést"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "og græddir"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "braust þú"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "þjóðflokkum"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "og þá sendir þú burt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:55.710237034Z",
+  "model": "glm-5.3"
+}

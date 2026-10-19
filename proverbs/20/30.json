@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "תמריק (aðfersmynd af מרק, 'að skúra\/pússa') er eina tilfellið í Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "KJV 'blænusár hreinsar illt' gegn YLT 'þú fjarlægir með illunni' — מרק getur verið skúra eða fjarlægja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חדרי בטן er 'herbergi kviðarins' — myndlýsing um innsta sál mannsins"
+    }
+  ],
+  "translation": "Blekjur sárs ⟨þurrka⟩ út illuna, og högg ná til innsta hluta kviðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6f470061edb896d65a39e812fe8b9cc41b6faa1019529df174eadd0c44ea442f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/20\/29-30.1792411498530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "blekjur"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "sárs"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "⟨þurrka⟩ út"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "illuna"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "og högg"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "innsta hluta"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "kviðar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:58.531415865Z",
+  "model": "glm-5.3"
+}

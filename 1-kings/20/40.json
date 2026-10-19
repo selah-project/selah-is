@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 20:40",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הנה והנה",
+      "rationale": "„hitt og þetta” — hebreska orðtakið um að vera upptekinn til allra hliða."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרצת",
+      "rationale": "Rótin merkir „að skerpa, skera skörpu“; í sögu Samúels um konung Dövid notuð um að „skera úr“ — hér „þú hefur sjálfur úrskurðið málið”."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איננו",
+      "rationale": "Negunin „hann er ekki” gefin sem „var horfinn“ í mörgum þýðingum; hebreskan segir einfaldlega að hann sé ekki til."
+    }
+  ],
+  "translation": "Og er þjónn þinn var að gjöra hitt og þetta, þá var hann ekki til. Og konungur Ísraels sagði við hann: Rétt er dómur þinn; þú hefur sjálfur kveðið hann upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "60d7edb2583f365216b70fa1ccef0ed9f7b86e28aa9056440b2dce304c203ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/20\/40-40.1792416673780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það gerðist"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjónn þinn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "var að gjöra"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hitt"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og þetta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "var ekki til"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Rétt"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "dómur þinn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "חרצת",
+      "gloss": "hefur kveðið upp"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:13.781274139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תבל er „vátta jörðin“, heimsbyggð, ekki heimurinn almennt"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Nafnið Jahve er ekki í hebresku þessa vers en viðfangið kemur úr 9:8 og er skilið af samhenginu"
+    }
+  ],
+  "translation": "Og Jahve mun dæma ⟨את⟩ heimsbyggðina í tsedek, hann dæmir þjóðirnar í beinu rétti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/9\/9-12.1792409295853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Og hann"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "mun dæma"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heimsbyggðina"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "í tsedek"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "dæmir"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "í beinu rétti"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:15.854477774Z",
+  "model": "glm-5.3"
+}

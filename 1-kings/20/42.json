@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er lífskraft\/andi, 'sálin' er hefðbundin en ekki algjörlega jafngild."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפשך\/נפשו · עמך\/עמו",
+      "rationale": "Spegluð tvíeygja: líf fyrir líf, þjóð fyrir þjóð."
+    }
+  ],
+  "translation": "Og hann sagði við hann: Þannig segir Jahve: Af því að þú slepptir ⟨את⟩ manninum sem ég setti í bann, úr hendi þinni, þá skal sálin þín í stað sálar hans og þjóð þín í stað þjóðar hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/20\/41-43.1792402605692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Þannig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Af því að"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "þú slepptir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manninum sem ég setti í bann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manninum"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "sem ég setti í bann"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "þá skal"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sálin þín"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálar hans"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "og þjóð þín"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "þjóðar hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:36:45.693861640Z",
+  "model": "glm-5.3"
+}

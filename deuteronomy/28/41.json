@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "תוליד er orðið 'munir þú eignast' — framtíðarmynd ber merkingu 'barn getur'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fangavist",
+      "rationale": "בשבי er herfang\/útlegð; 'fangavist' heldur myndinni af því að fara fangi."
+    }
+  ],
+  "translation": "Syni og dætur munir þú eignast, en þeir munu ekki verða þínir, því að þeir fara í fangavist.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/41-44.1792398366358.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "syni"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og dætur"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "munir þú eignast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "munu verða"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þínir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "þeir fara"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "í fangavist"
+    }
+  ],
+  "timestamp": "2026-10-19T08:26:06.359025186Z",
+  "model": "glm-5.3"
+}

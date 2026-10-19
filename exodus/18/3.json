@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גרשם\/גר",
+      "rationale": "Nafnið Gersjóm byggir á גר (gestur\/útlendingi) — orðaleikurinn „gestur í framandi landi“ lifir enn í íslenskunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið „hann“ (sagði) er sett til að gera greinandann ljósan; hebreskan hefur ekkert fornafn."
+    }
+  ],
+  "translation": "Og ⟨את⟩ sonu hennar tvo — nafn hins sama Gersjóm, því að hann sagði: Gestur hef ég verið í framandi landi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/18\/1-4.1792394619879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "sonu hennar tvo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tvo"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "sonu hennar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hins"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersjóm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hann sagði"
+    },
+    {
+      "surface": "גר",
+      "gloss": "gestur"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "hef ég verið"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "framandi"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:39.880457768Z",
+  "model": "glm-5.3"
+}

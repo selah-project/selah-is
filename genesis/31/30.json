@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guðunum mínum",
+      "rationale": "אלהי hér um líkneski Lavans — guðir með litlum staf, ekki Elóhím"
+    },
+    {
+      "kind": "elision",
+      "subject": "הלך הלכת · נכסף נכספתה",
+      "rationale": "óþáguág myndin tvítekin til áherslu; sameinuð í eina íslenska sögn"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lavan spyr Jaakov beint: hvers vegna stalst þú guðunum mínum?"
+    }
+  ],
+  "translation": "Og nú — þú fórst, því að þú longaðist að heimili föður þíns; hvers vegna stalst þú ⟨את⟩ guðunum mínum?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "45dc9318c1baa20899fb0a3e612adc7f88e10d0ccbb27ffba8ecec4be1f073fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/31\/29-32.1792393439792.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨fórst⟩"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "þú fórst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "⟨longaðist⟩"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "longaðist þú"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "að heimili"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þíns"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvers vegna"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "stalst þú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guðunum mínum"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guðunum mínum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:03:59.793685880Z",
+  "model": "glm-5.3"
+}

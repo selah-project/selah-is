@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 14:44",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "עפל 'að þykjast stór, vera hrokafull' — sjaldgæft orð, hér 'þeir þorðu efast' um að fara gegn boði Jahve"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משו 'færu\/hreyfðu sig ekki' — kveðmynd skortir sagnorð í íslensku, 'færu' bætt við"
+    }
+  ],
+  "translation": "Og þeir þorðu efast að fara upp til höfðu fjallsins, en sáttmálsörk Jahve og Mósje færu ekki úr miðri herbúðinni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "71d9b5da3b8e720be56c866662c4864815b1bc49fd03e58193f7546baa540f6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/14\/41-44.1792396780368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעפלו",
+      "gloss": "Og þeir þorðu efast"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "að fara upp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfðu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "fjallsins"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "en sáttmálsörk"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmáls"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "og Mósje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "משו",
+      "gloss": "færu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "úr miðri"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "herbúðinni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:59:40.369529392Z",
+  "model": "glm-5.3"
+}

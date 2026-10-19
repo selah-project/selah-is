@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 5:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תושיה",
+      "rationale": "Sjaldgæft orð — 'dugnaður, framtak, verkkunnátta'; JPS 'ekkert raunverulegt', KJS 'framtak sitt', YLT 'hyggju'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערומים",
+      "rationale": "Sama stafsetning og 'naktir' í 1. Mós en hér með öðru hljóðvali — 'slægir, listir'."
+    }
+  ],
+  "translation": "Hann gerir óvirkar ráðagerðir hinna slægu, svo að hendur þeirra gjöra ekki dugnað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e6fe8e4c3e3c69c250163d17ea5765c1dcee36af2404f96997c4209f6d5aabec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/5\/9-12.1792411847827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפר",
+      "gloss": "gerir óvirkar"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ráðagerðir"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "hinna slægu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "svo að ... ekki"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "gjöra"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hendur þeirra"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "dugnað"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:47.828345628Z",
+  "model": "glm-5.3"
+}

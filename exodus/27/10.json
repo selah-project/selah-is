@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נחשת er eir (kopar), ekki 'brons' eða 'málmur'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "tuttugu stólpar og tuttugu undirstöður — talning helgistaröðvarinnar"
+    }
+  ],
+  "translation": "og stólpar þess tuttugu og undirstöður þeirra tuttugu, af eiri, en krókar stólpanna og festingar þeirra af silfri.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/27\/9-12.1792394790514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "og stólpar þess"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "og undirstöður þeirra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "eir"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "en krókar"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stólpanna"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "og festingar þeirra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfri"
+    }
+  ],
+  "timestamp": "2026-10-19T07:26:30.515217456Z",
+  "model": "glm-5.3"
+}

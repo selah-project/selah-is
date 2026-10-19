@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "forsagtenging og 'hann' frammi fyrir sagnlausu frumlagi — hebreskan myndar_setningu án sögnar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er 'lífsandi', önd og hungratör — 'sál vár' er nálgun"
+    }
+  ],
+  "translation": "Sál vár hefur beðist eftir Jahve; ⟨hann⟩ er hjálp vár og skjöldur vár.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/33\/17-20.1792409613694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "sál vár"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "hefur beðist eftir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "hjálp vár"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "og skjöldur vár"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:33.695396886Z",
+  "model": "glm-5.3"
+}

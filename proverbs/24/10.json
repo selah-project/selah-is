@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צרה\/צר",
+      "rationale": "sama rót tvísett: neyð — þröngt; orðaleikur að mestu glataður í íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fdem. greinir 'neýðar-' setur samsteðu sem hebreska segir með sambandi"
+    }
+  ],
+  "translation": "Gefur þú upp ⟨í⟩ neyðardag, þrengdur er kraftur þinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b21460712d161e9e89f8a281b5510a3f7f667341911f77897cee5f8080547c25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/24\/9-12.1792411578877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "gefur þú upp"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "neyðar"
+    },
+    {
+      "surface": "צר",
+      "gloss": "þrengdur"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "kraftur þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:18.878210431Z",
+  "model": "glm-5.3"
+}

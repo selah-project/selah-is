@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur enginn hlutinn — ⟨það⟩ er bætt við fyrir óvissuðaðan… um ógæfu sem kemur yfir Jób"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jób",
+      "rationale": "Elífaz talar beint til Jóbs í þúföllinu"
+    }
+  ],
+  "translation": "En nú er ⟨það⟩ komið til þín, og þú slitnar; ⟨það⟩ snertir þig, og þú skelfst.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "651daa9554ff663b765f401e04b5a09d155f23b9e7c5d81a545cd120ce53e323",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/4\/5-8.1792411754100.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "En nú"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "er komið"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "og þú slitnar"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "snertir"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "þig"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "og þú skelfst"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:14.101345422Z",
+  "model": "glm-5.3"
+}

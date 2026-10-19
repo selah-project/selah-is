@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sextíu\/áttatíu\/óteljandi",
+      "rationale": "Versið telur konur konungsins í þrjá flokka — tvennt raðað, þriðja ótal."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "'ungar konur' — ekki 'meyjar' sem kynþroskaáherming; orðið segir aldur, ekki meydóm."
+    },
+    {
+      "kind": "elision",
+      "subject": "המה",
+      "rationale": "Áherslufornafnið 'þær' fellur niður; 'eru' gefur sambandið á íslensku."
+    }
+  ],
+  "translation": "Sextíu eru drottningar og áttatíu frillur, og ungar konur óteljandi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/6\/5-8.1792412633852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "Sextíu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eru"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "drottningar"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "og áttatíu"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "frillur"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "og ungar konur"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ó-"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "teljandi"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:53.853890505Z",
+  "model": "glm-5.3"
+}

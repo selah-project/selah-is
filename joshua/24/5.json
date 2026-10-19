@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ואגף er bókstaflega 'stangaði\/gjöfraði'; 'bar höggum á' varðar plágurnar"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Jahve talar beint til Ísraels: 'leiddi ég ykkur út'"
+    }
+  ],
+  "translation": "Og ég sendi ⟨את⟩ Mósje og ⟨את⟩ Aharon, og ég bar höggum á ⟨את⟩ Mitsrajím, eins og ég gjörði í mitt þeirra, og eftir það leiddi ég ⟨את⟩ ykkur út.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/24\/5-8.1792399433075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Og ég sendi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mósje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "og ég bar höggum á"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajím"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ég gjörði"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "í mitt þeirra"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "og eftir það"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "leiddi ég út"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur"
+    }
+  ],
+  "timestamp": "2026-10-19T08:43:53.076111022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלפני ... מלפני",
+      "rationale": "endurtekningin 'fyrir andliti ... fyrir andliti' er vofvísisliður í hebreskri kvæðagerð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Adónaí",
+      "rationale": "אדון כל האררץ er um Guð, því Adónaí en ekki 'herra'"
+    }
+  ],
+  "translation": "Fjöllin bráðnuðu eins og vax fyrir andliti Jahve, fyrir andliti Adónaí allrar jarðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/97\/5-8.1792410475263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Fjöllin"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "eins og vax"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "bráðnuðu"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allrar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:55.264448919Z",
+  "model": "glm-5.3"
+}

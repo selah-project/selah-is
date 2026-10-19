@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "nafnsetning hebreskunnar — sagnir 'er' bætt við á íslensku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקלל\/יברך",
+      "rationale": "andstæðaparinn bölvja\/blessa í sömu línu — endurtekinn ritháttur varðveitt"
+    }
+  ],
+  "translation": "Kynslóð ⟨er⟩ sem föður sinn bölvjar og ⟨את⟩ móður sína blessar ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/30\/9-12.1792411712218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður sinn"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "bölvjar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "móður sína"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "móður sína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "blessar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:32.218933810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 8:11",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתו ber ⟨את⟩-merkið en er forskeyt weguðsetningu 'með honum' í hebresku einu orði"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הגי er 'gil' — gjörðin og dalsigðin milli hersins og borgarinnar, ekki almennt 'dalur'"
+    }
+  ],
+  "translation": "Og allur lýðurinn, herfólk það er ⟨את⟩ var með honum, fór upp og nálgaðist og kom andspænis borginni, og þeir héldu herskála norðan við Aí — en gilit var milli hans og Aí.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/8\/9-12.1792398943120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og allur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðurinn"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "herfólk það"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ var með honum"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "fór upp"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "og nálgaðist"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "andspænis"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borginni"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "og héldu herskála"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "norðan við"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "Aí"
+    },
+    {
+      "surface": "והגי",
+      "gloss": "en gilit"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "milli hans"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og milli"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Aí"
+    }
+  ],
+  "timestamp": "2026-10-19T08:35:43.121489439Z",
+  "model": "glm-5.3"
+}

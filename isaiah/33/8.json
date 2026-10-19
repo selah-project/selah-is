@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Passífsmynd þarf veruna sem hebreska styður ekki"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערים",
+      "rationale": "'borgir' vs (metathesis) עריב 'vitni' (BSB) — upphafleg lesning óvís"
+    }
+  ],
+  "translation": "Liggja auðnir hafa vegirnir, upphætt hefur sá er um stíginn fer; rofin ⟨er⟩ sáttmálinn, borgunum var lýst, enginn mann taldi hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/33\/5-8.1792404269088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "Liggja auðnir"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "vegirnir"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "upphætt hefur"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "sá er … fer"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "um stíginn"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "rofin"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmálinn"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "borgunum var lýst"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "borgir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "taldi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mann"
+    }
+  ],
+  "timestamp": "2026-10-19T10:04:29.089861659Z",
+  "model": "glm-5.3"
+}

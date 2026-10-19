@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפות\/חורפיך",
+      "rationale": "sama rót חרף í nafni og sögn — þýðing heldur henni með 'smán\/smána'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אכלתני",
+      "rationale": "'át mig' — myndrænt um öundina; haldið bókstaflega"
+    }
+  ],
+  "translation": "Því að öfund húss þíns át ⟨את⟩ mig, og smán þeirra sem smána þig féll á mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/9-12.1792410049237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "öfund"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "húss þíns"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "át mig"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "og smán"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "þeirra sem smána þig"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "féll"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "á mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:49.238585824Z",
+  "model": "glm-5.3"
+}

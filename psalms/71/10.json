@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki óhlutbundin sál"
+    }
+  ],
+  "translation": "Því að óvinir mínir hafa talað um mig, og þeir sem gæta sálar minar hafa ráðgert saman.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/71\/9-12.1792410059328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hafa talað"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "óvinir mínir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "um mig"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "þeir sem gæta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minar"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "hafa ráðgert"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:59.328800047Z",
+  "model": "glm-5.3"
+}

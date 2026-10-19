@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir „Ég vaktaði upp frá norðri“ án orðsins „einhverjum“; sá sem vaknað er ónefndur."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת",
+      "rationale": "Þýtt „og hann kom“ af sögninni c\/857, en sumir lesa אוֹת (tákn) eða fella saman við framhaldið."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יוצר\/ירמס",
+      "rationale": "Leirmyndarinn (jótser) troður (rómes) leirjösn — mynd mótuð og troðin í sömu líkingu um vald yfir sýslumenn."
+    }
+  ],
+  "translation": "Ég vaktaði upp ⟨einhverjum⟩ frá norðri, og hann kom; frá austri, þar sem sólin rís, kallar hann á nafn mitt; og hann kemur yfir sýslumenn eins og leir, og eins og leirmyndarinn troður leirjösmina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/25-28.1792404645720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "Ég vaktaði upp"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "frá norðri"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "og hann kom"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "frá upprisu"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sólar"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kallar hann"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "á nafn mitt"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og hann kemur"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "sýslumenn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "leir"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "og eins og"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "leirmyndarinn"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "troður"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "leirjösmina"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:45.721277325Z",
+  "model": "glm-5.3"
+}

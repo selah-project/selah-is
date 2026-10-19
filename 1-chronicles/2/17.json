@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'var' er bætt við — hebreskan sleppur sagnarinnu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Jether",
+      "rationale": "2Sam 17:25 kallar föður Amasa Jithra Jishmaelíta — mögulega sami maður undir tveimur nöfnum."
+    }
+  ],
+  "translation": "Og Avígæil ól ⟨את⟩ Amasa, og faðir Amasa var Jeter Jishmaelítinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "df66b52cd7b39d71470cbd0b8f9a80537e58d09120bdc00f2eac9dac8f1b1b62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/2\/17-20.1792414441829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Og Avígæil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ól"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "og faðir"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Jishmaelítinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:54:01.830313486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 20:11",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "על דבר („yfir máls“) er orðatiltæki um orsök, þýtt „vegna“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ótti fyrir Elóhím",
+      "rationale": "יִרְאַת אֱלֹהִים er heilt hugtak — virðingu og ótta Elóhíms — ekki bara hræðsla."
+    }
+  ],
+  "translation": "Og Avraham sagði: Því að ég hugsaði: Víst er enginn ótti fyrir Elóhím á þessum stað, og þeir munu drepa mig vegna konu minnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9f150a9b87b306c0dcb03392a78b32bcd176e710d372ed3bb1e68d8c7588c750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/20\/9-12.1792393017797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hugsaði ég"
+    },
+    {
+      "surface": "רק",
+      "gloss": "víst"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ótti fyrir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "á stað"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessum"
+    },
+    {
+      "surface": "והרגוני",
+      "gloss": "og þeir munu drepa mig"
+    },
+    {
+      "surface": "על",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "máls"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "konu minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T06:56:57.798048640Z",
+  "model": "glm-5.3"
+}

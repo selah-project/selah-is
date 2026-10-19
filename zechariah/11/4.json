@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "boðið beint til spámannsins að beita hjörð þeirra er slátra á"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צאן bæði sauðfé og geitur — 'hjörð' tekið sem sameiginlegt heiti"
+    }
+  ],
+  "translation": "Svo segir Jahve Elóhím minn: Beit ⟨את⟩ hjörðina ⟨sem⟩ ætluð er til slátrunar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/11\/1-4.1792409068992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Svo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjörðina"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hjörðina"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ætluð er til slátrunar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:24:28.993682954Z",
+  "model": "glm-5.3"
+}

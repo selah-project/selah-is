@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "spurningin um dauða",
+      "rationale": "Versið er innskotin röð spurninga — undrið, upprisan og lofgjöfin eru þagnir í dauðanum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skuggarnir",
+      "rationale": "רפאים (Refaim) eru 'slakir, máttlausir' — skuggar dauðra, ekki almennt 'dauðir'; KJV 'the dead' fær brotinn sérstakan blæ"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "Tvenn spurning sett saman með 'eða' — upphafsspurningin ה- bærist ekki í íslensku"
+    }
+  ],
+  "translation": "Fyrir dána — vilt þú gera undur? Munu skuggarnir ⟨Refaim⟩ risa og lofa þig? Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7202c5e9ab6c348b326964c2ce51f4edc620edd97d5875f8378fe4b1c8c4307c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/88\/9-12.1792410341618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "fyrir dána"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vilt þú gera"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "undur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "skuggarnir"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "risa þeir"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "lofa þig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:41.619711827Z",
+  "model": "glm-5.3"
+}

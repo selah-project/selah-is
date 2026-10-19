@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כסף",
+      "rationale": "'þrjátíu [siklar] silfurs' — hebreskan segir aðeins 'þrjátíu silfurs' án mælieiningar"
+    },
+    {
+      "kind": "you",
+      "subject": "to the flock's buyers",
+      "rationale": "Beint tilmæli: 'gefið mér laun mín... en ef ekki, haldið því aftur'"
+    }
+  ],
+  "translation": "Og ég sagði við þá: Ef það er gott í augum ykkar, gefið mér laun mín, en ef ekki, þá haldið því aftur. Og þeir vógu ⟨את⟩ laun mín — þrjátíu í silfri.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/11\/9-12.1792409062556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og ég sagði"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "í augum ykkar"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "gefið"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "laun mín"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "haldið því aftur"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "Og þeir vógu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laun mín"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "laun mín"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "þrjátíu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "í silfri"
+    }
+  ],
+  "timestamp": "2026-10-19T11:24:22.558304029Z",
+  "model": "glm-5.3"
+}

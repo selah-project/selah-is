@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 26:16",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hlutkesti",
+      "rationale": "Final lot of the gate-distribution: the west assignments."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמר לעמת משמר",
+      "rationale": "Repetition 'watch opposite watch' kept literally as 'vörður andspánnis vörðum'; KJV 'ward against ward' does the same."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שלכת",
+      "rationale": "Shalleketh, the name of this gate, occurs only here in the Tanakh."
+    }
+  ],
+  "translation": "Fyrir Sjúppím og fyrir Khosá til vesturs, með hliði Sjalleket, á götunni sem gengur upp: vörður andspánnis vörðum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/26\/13-16.1792415017109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפים",
+      "gloss": "fyrir Sjúppím"
+    },
+    {
+      "surface": "ולחסה",
+      "gloss": "og fyrir Khosá"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "til vesturs"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hliði"
+    },
+    {
+      "surface": "שלכת",
+      "gloss": "Sjalleket"
+    },
+    {
+      "surface": "במסלה",
+      "gloss": "á götunni"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "sem gengur upp"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "vörður"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "andspánnis"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "vörðum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:03:37.110569968Z",
+  "model": "glm-5.3"
+}

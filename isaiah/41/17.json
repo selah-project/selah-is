@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 41:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עניים\/אענם",
+      "rationale": "orðaleikur: 'ání' (fátækir) og 'áaném' (ég svara þeim) hljóma eins — einstök hljómfall týnist á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenksa setningin þarf 'það' þar sem hebreskan segir aðeins 'og engu'"
+    }
+  ],
+  "translation": "Hin fátæku og þarfa leita vatns og ⟨það⟩ er ekkert; tunga þeirra þornar úr þorsta. Ég, Jahve, mun svara þeim, Elóhím Ísraels yfirgefur þá ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/17-20.1792404653643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העניים",
+      "gloss": "hin fátæku"
+    },
+    {
+      "surface": "והאביונים",
+      "gloss": "og þarfa"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "leita"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatns"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨það⟩ er ekkert"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tunga þeirra"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "úr þorsta"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "þornar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אענם",
+      "gloss": "mun svara þeim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אעזבם",
+      "gloss": "yfirgefur þá"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:53.643846704Z",
+  "model": "glm-5.3"
+}

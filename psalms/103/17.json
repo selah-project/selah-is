@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsætislið 'er' bætt við — hebreskan hefur ekki sagnlið"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þeirra' bætt við 'börn barna' til skýrleika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעולם ועד עולם",
+      "rationale": "Endurtekning 'eilíft til eilífs' — tímafram fer í báðar áttir"
+    }
+  ],
+  "translation": "En khesed Jahve er frá eilífu og til eilífu yfir þá sem óttast hann, og tsedek hans yfir börn barna þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/17-20.1792410520851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "en khesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "frá eilífu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "þá sem óttast hann"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "og tsedek hans"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yfir börn"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "barna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:40.851959510Z",
+  "model": "glm-5.3"
+}

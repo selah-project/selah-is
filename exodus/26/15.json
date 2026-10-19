@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קרשים",
+      "rationale": "Bókstaflega 'spjöld\/planka'; ekki 'ramma' eða 'borð' í hússkjöldum"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Vísað í mál plankanna í næsta versi — smíði talin upp í álna"
+    }
+  ],
+  "translation": "Og þú skalt gera ⟨את⟩ plankana fyrir Misjkan, sítimtré, stöndum upprétt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "331c00d0f31b9cdf934854a631d010a5d7fb9e67d7eb5638665402abe3983456",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/26\/14-15.1792416304109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og þú skalt gera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plankana"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "plankana"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "fyrir Misjkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "tré"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sítim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stöndum upprétt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:04.110432905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 5:24",
+  "book": "job",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbútar 'er' og 'skalt þu' settir inn — hebreska kviðju-yfirlýsingin hefur enga tengisöng"
+    },
+    {
+      "kind": "crux",
+      "subject": "תחטא",
+      "rationale": "grunþýðing er 'að missa af'; KJV\/Geneva lesu 'synda', ASV\/JPS 'sakast ekkert' við heimsókn bústaðarins"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "áfram beint ræða Elífazar til Jobs"
+    }
+  ],
+  "translation": "Og þú skalt vita að friður er í tjaldbúð þinni, og heimsækja bústað þinn skalt þú, og sakast eigi um neitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/5\/21-24.1792411848526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Og þú skalt vita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "í tjaldbúð þinni"
+    },
+    {
+      "surface": "ופקדת",
+      "gloss": "og heimsækja"
+    },
+    {
+      "surface": "נוך",
+      "gloss": "bústað þinn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "sakast um neitt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:48.527541344Z",
+  "model": "glm-5.3"
+}

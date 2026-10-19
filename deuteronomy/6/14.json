@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guðir",
+      "rationale": "אלהים um guði þjóðanna er ritað með litlum staf samkvæmt D1 — ekki Elóhím"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "bann við átrúnaði á aðra guði, fléttað í Śema-heyrðina"
+    }
+  ],
+  "translation": "Eigi skuluð þér fara eftir öðrum guðum, af guðum þjóðanna sem í kringum yður eru.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/13-16.1792397660693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "skuluð þér fara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "af guðum"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "í kringum yður eru"
+    }
+  ],
+  "timestamp": "2026-10-19T08:14:20.693879023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki spurnarorð; íslenska spurningin fær 'villtu' úr אם"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערבון",
+      "rationale": "'veð' eða 'trygging'; hjá KJV 'pledge'"
+    }
+  ],
+  "translation": "Og hann sagði: Ég sendi þér geitarkind úr hjörðinni. En hún sagði: Villtu gefa mér veð, þar til þú sendir ⟨það⟩?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "36035d04b26f0f84ffc04c212e50a83983a380533ff71c6ee1d376c67c1122a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/38\/17-20.1792393675140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kind"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "geitar-"
+    },
+    {
+      "surface": "מן",
+      "gloss": "úr"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hjörðinni"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "En hún sagði"
+    },
+    {
+      "surface": "אם",
+      "gloss": "villtu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gefa"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "veð"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "þú sendir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:07:55.141173782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er bæði vindur og andardráttur; „rúakh“ heldur báðum merkingum, „vindur“ einn myndi týna andardráttar-myndinni"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Fornöfn (þá, þeir) vantar í hebreskuna en eru skiljanlegar út frá samhengi, öll í hornklofa eða ómerkt"
+    }
+  ],
+  "translation": "Þú blæst með rúakh þinni, hafið lagðist yfir ⟨את⟩ þá; þeir sökku sem blý í vötnum inum máttugu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/15\/9-12.1792394368744.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "Þú blæst"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "með rúakh þinni"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "lagðist yfir"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "sökku"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "sem blý"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vötnum"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "inum máttugu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:28.745165438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את פני",
+      "rationale": "antað 'speki er andliti skilningsríks saman' eða 'andlit hinns skilningsríku snúa að speki' — KJV 'fyrir' vs YLT 'andlit til'."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "sögn ['snýr'] bætt við — hebreskan hefur enga sögn, aðeins staðhæfingu með את."
+    }
+  ],
+  "translation": "⟨Að⟩ ⟨את⟩ andliti skilningsríks ⟨snýr⟩ speki, en augu fávíss í enda jarðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a0340a5198c891f57e666575f8d848db113868bbd78eff4185e348cede8b17d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/17\/21-24.1792411401240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andliti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "skilningsríks"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "speki"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "en augu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fávíss"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "í enda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:21.241806911Z",
+  "model": "glm-5.3"
+}

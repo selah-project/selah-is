@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישובו \/ וישבו",
+      "rationale": "Sama rót tvívegis: 'þeir sneru aftur' og 'létu (þá) snúa aftur' — íslenska fær varla náð þessu tvennu snúi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויכבישום",
+      "rationale": "Orðið er 'að troða niður, leggja undir sig' — 'köfnuðu undir' heldur myndinni frekar en 'gerðu að þrælum'"
+    }
+  ],
+  "translation": "En eftir þetta sneru þeir aftur og létu ⟨את⟩ þrælana og ⟨את⟩ ambáttirnar, þær sem þeir höfðu sent lausar, hverfa aftur, og köfnuðu þá undir að þrælum og ambáttum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/34\/9-12.1792406156821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "og sneru aftur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og létu hverfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þrælana"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "þrælana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "ambáttirnar"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ambáttirnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þær sem"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "þeir höfðu sent"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "lausar"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "og köfnuðu þá undir"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "að þrælum"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "og ambáttum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:35:56.822451807Z",
+  "model": "glm-5.3"
+}

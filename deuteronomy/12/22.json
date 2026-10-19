@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "forsagnar viðurlag í íslensku, hebreskan hefur endingarviðurlagið -נו"
+    },
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "samsett aleph-tav með og-, borið ⟨את⟩"
+    }
+  ],
+  "translation": "Aðeins, eins og gásellan og hjörturinn eru étin, svo skalt þú eta ⟨את⟩ ⟨það⟩; hinn óhreini og hinn hreini skulu það éta saman.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8d1b3e713cb1d090b5abae5f7fbd39ad84d361799bd94892e407978fa3980d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/12\/21-24.1792397925390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Aðeins"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eru étin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gásellan"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gásellan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hjörturinn"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "og hjörturinn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "skalt þú eta það"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "hinn óhreini"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "og hinn hreini"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "skulu það éta"
+    }
+  ],
+  "timestamp": "2026-10-19T08:18:45.391665066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברצח",
+      "rationale": "'Morðkast\/högg' — KJV 'sverð', JPS 'kross' (crushing); hebreskan hefur enga sverðsmynd."
+    },
+    {
+      "kind": "you",
+      "subject": "to the psalmist",
+      "rationale": "Háðsupp ávarps andstæðinganna: 'Hvar er Elóhím þinn?' er beint til höfundarins."
+    }
+  ],
+  "translation": "Með morðkasti í bein mín hæddu mig andstæðingarnir mínir, með því að segja við mig alla daginn: Hvar er Elóhím þinn?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/42\/9-12.1792409720895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "Með morðkasti"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "í bein mín"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "hæddu mig"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "andstæðingarnir mínir"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "með því að segja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Hvar er"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:20.896870774Z",
+  "model": "glm-5.3"
+}

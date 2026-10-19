@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פשע יעקב",
+      "rationale": "Sama frasi endurtekin tvisvar í versinu — spurningin svarar sjálfri sér, Klósettorið glatast að hluta til á íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenskan þarf fyllisetningu (er\/hverjer eru) sem hebreska spurningin skortir."
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels og Júda",
+      "rationale": "Réttráða spurning beint til lýðsins um orsakina fallsins."
+    }
+  ],
+  "translation": "Fyrir uppreisn Jaakobs er allt þetta, og fyrir syndir húss Ísraels. Hver er uppreisn Jaakobs? Er það ekki Sjomron? Og hverjar eru bámót Júda? Er það ekki Jerúsjalajím?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f23bbf7893dbd1f65357db5290689e8ff814bde0b8e15661ca11a7e96f050348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/1\/5-8.1792408630325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "fyrir uppreisn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "og fyrir syndir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "uppreisn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "er það ekki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hverjar"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bámót"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "er það ekki"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:17:10.325914337Z",
+  "model": "glm-5.3"
+}

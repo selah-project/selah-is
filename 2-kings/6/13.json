@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 6:13",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf umgjörð fyrrirbæra sem framkvæmdin í ויגד og frumlag sendiherrans í ואשלח"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Leiðarsetning eftir ópersónulegri sogmynd tekin sem umgjörð, ekki sérstaklega þýdd"
+    }
+  ],
+  "translation": "Og hann sagði: Farið og sjáið hvar hann er, og ⟨ég⟩ sendi og taki hann. Og tilkynnt var honum: Sjá, ⟨hann er⟩ í Dotan.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/6\/13-16.1792402938581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og-hann-sagði"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Farið"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "og-sjáið"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "hvar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann-er"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "og-⟨ég⟩-sendi"
+    },
+    {
+      "surface": "ואקחהו",
+      "gloss": "og-taki-hann"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "Og-tilkynnt-var"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "með-því-að-segja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "בדתן",
+      "gloss": "í-Dotan"
+    }
+  ],
+  "timestamp": "2026-10-19T09:42:18.581878287Z",
+  "model": "glm-5.3"
+}

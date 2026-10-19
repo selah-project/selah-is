@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "forskeytið מִן í ומחית fellur inn í íslensku forsetninguna 'við'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שד",
+      "rationale": "sama orð שד í 5:21 og 5:22 — 'eyðileggingin' endurtekin, endurspeglun sem týnist ekki alveg"
+    }
+  ],
+  "translation": "Að eyðileggingu og hungri skalt þú hlæja, og við villidýr jarðarinnar skalt þú eigi hræðast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "325f672c65ba168587457e0045b3f75e41c77dfda36e1be0051939b904abf201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/5\/21-24.1792411848526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "að eyðileggingu"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "og hungri"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "skalt þú hlæja"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "og við villidýr"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "skalt þú hræðast"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:48.527276972Z",
+  "model": "glm-5.3"
+}

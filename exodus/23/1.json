@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נשא שמע שוא er borið út sem 'bera skáksögur'; orðrétt: 'lyfta hljóði eyðunnar'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חמס",
+      "rationale": "'ofbeldisvottur' vs. 'rangur vottur' (KJV) — חמס er ofbeldi\/rangindi, ekki bara lygi."
+    }
+  ],
+  "translation": "Þú skalt ekki bera út þögulegan hljóðgrunn — heldur ekkert; ekki setja hönd þína með rangan manni til að vera ofbeldisvottur.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "64efbb903aea9c270f08c2379ee5d2554e5466c39e48e9c33e277483aa75651c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/1-4.1792394743615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "skalt bera"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hljóðgrunn"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "þögulegur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "setja"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hönd þína"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rangur maður"
+    },
+    {
+      "surface": "להית",
+      "gloss": "til að vera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vottur"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldis-"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:43.616066276Z",
+  "model": "glm-5.3"
+}

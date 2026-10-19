@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hræðslum",
+      "rationale": "מגורות er 'óttarógn\/útti'; 'hræðsla' gefur myndina en ekki flóknaið orð"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "sagnirnar þurfa fallandi frumlag á íslensku; 'hann' bætt við"
+    }
+  ],
+  "translation": "Ég leitaði ⟨את⟩ Jahve, og hann svaraði mér, og úr öllum hræðslum mínum frelsaði hann mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/34\/5-8.1792409590347.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ég leitaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "og hann svaraði mér"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "og úr öllum"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "hræðslum mínum"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "frelsaði hann mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:10.347997374Z",
+  "model": "glm-5.3"
+}

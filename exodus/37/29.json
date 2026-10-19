@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רקח er sögn 'að blanda ilmefnum' — 'illyfjasmiður' heldur myndinni, en ýmsar þýðingar segja 'apótekari'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הסמים",
+      "rationale": "סמים (ilmtöflur) er sjaldgæft orð; 'ilmatáfa' heldur efnis-myndinni frekar en 'krydd'"
+    }
+  ],
+  "translation": "Og hann gerði ⟨את⟩ smurningarolíuna, heilaga, og ⟨את⟩ reykelsið úr ilmatáfum, hreint — smíði illyfjasmiðs.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c9b29592e59a5fa8f12d2ce8938d8de31ab05f60907ffca4bc52177d82a999d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/37\/29-29.1792395160260.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gerði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smurningarolíuna"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olíuna"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smurningar-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "reykelsið"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "reykelsið"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "úr ilmatáfum"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hreint"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "smíði"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "illyfjasmiðs"
+    }
+  ],
+  "timestamp": "2026-10-19T07:32:40.261206450Z",
+  "model": "glm-5.3"
+}

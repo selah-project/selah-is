@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "tehom",
+      "rationale": "תהום er sömu rætur og í 1. Mós 1:2 — útflutningssagan speglar sköpunina; orðið tehom haft óþýtt til að varðveita tenginguna."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨þá⟩",
+      "rationale": "Íslenskan þarf viðfang í nafnhætti — hebreskan segir aðeins „fyrir endurleysta að fara yfir“."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "אַתְּ er fornfemínisnlegt „þú“, ekki H853."
+    },
+    {
+      "kind": "you",
+      "subject": "armur Jahve",
+      "rationale": "Spurningin beinist enn að armi Jahve úr 9. versi — ályktun áskorunarinnar."
+    }
+  ],
+  "translation": "Varst það ekki þú sem þurrkaði hafið, vötn miklu tehom, þú sem gerði djúpur hafsins að vegi fyrir ⟨þá⟩ endurleystu að fara yfir?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/51\/9-12.1792404866906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Varst…ekki"
+    },
+    {
+      "surface": "את",
+      "gloss": "þú"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨hún⟩"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "sem þurrkaði"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vötn"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "miklu"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "gerði að"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "djúpur"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hafsins"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vegi"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "að fara yfir"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "endurleystu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:14:26.907470614Z",
+  "model": "glm-5.3"
+}

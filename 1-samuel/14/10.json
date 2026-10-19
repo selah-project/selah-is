@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin „er“ er sett inn; hebreskan segir aðeins „og þetta fyrir okkur merkið“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלו\/ועלינו",
+      "rationale": "Sömu rót עלה í boði Filista og svari Jónatans; upprifjunin sker ekki eins í íslensku"
+    }
+  ],
+  "translation": "En ef þeir segja svona: Gangið upp til okkar, þá gongum við upp, því að Jahve hefur gefið þá í hönd okkar, og þetta er ⟨er⟩ merkið fyrir okkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "10018b4478227d75f97b3a7f3bb705d85c3f89b6fcba2a78850440bfa3f2ce0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/9-12.1792400553255.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "כה",
+      "gloss": "svona"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "segja"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Gangið upp"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "til okkar"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "þá gongum við upp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "hefur gefið þá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "í hönd okkar"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "og þetta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir okkur"
+    },
+    {
+      "surface": "האות",
+      "gloss": "er merkið"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:33.256834879Z",
+  "model": "glm-5.3"
+}

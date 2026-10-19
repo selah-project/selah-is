@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the beloved",
+      "rationale": "Hic causative imperative השמיעיני ('láttu mig heyra') beckons the addressee to speak — the book closes with a summons."
+    },
+    {
+      "kind": "addition",
+      "subject": "hana",
+      "rationale": "Hebrew has no object pronoun; 'hana' is added in Icelandic to complete the sense."
+    }
+  ],
+  "translation": "Sú sem situr í görðunum — félagar gefa gaum að röddu þinni — láttu mig heyra hana!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/8\/13-14.1792412677131.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "sú sem situr"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "í görðunum"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "félagar"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "gefa gaum að"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "röddu þinni"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "láttu mig heyra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:37.131655138Z",
+  "model": "glm-5.3"
+}

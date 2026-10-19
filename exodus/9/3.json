@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "„hönd“ fyrir יד — myndlíking um vald og áhrif Jahve, ekki líkamlega hond."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "דבר — „fár“ eða „útplágan“; hér „dúdarrótt“ (skepnupesta) sem nær yfir allt búféð."
+    }
+  ],
+  "translation": "sjá, hönd Jahve kemur yfir búfé þitt, það sem er á vellinum — yfir hesta, asna, úlfalda, naut og sauðfé — dúdarrótt mikil og þung",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d9536b8f02f1201db2c51c8e5dd43a6ce8c11a3e40892dcd9981106108b1927a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/1-4.1792394286403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "kemur yfir"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "búfé þitt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "er á vellinum"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "yfir hesta"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "asna"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "úlfalda"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "naut"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "og sauðfé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dúdarrótt"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "þung"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mikil"
+    }
+  ],
+  "timestamp": "2026-10-19T07:18:06.404009224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יעור",
+      "rationale": "'gerir blinda' — tekið 'þröngvar sjónarsiðum' til að halda myndlíkingunni um augu; 'blinda' einn og sér flækir viðtakanda"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "afturkvæmt fornafn 'þeirra' sett fram með ⟨…⟩ — hebreskan hefur enginn viðtakanda í setningunni"
+    }
+  ],
+  "translation": "Og mútulaun skaltu ekki taka, því mútulaunin þröngvar sjónarsiðum ⟨þeirra⟩ og skekkja orð réttlátra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c0c585789626f2fee303a3e7af77154ea080d0f936fa8dcc57a77b1c213ca524",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/5-8.1792394647784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "Og mútulaun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "skaltu taka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "mútulaunin"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "þröngvar sjónarsiðum"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "sjónarsiðum"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "og skekkja"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orð"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "réttlátra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:24:07.785617874Z",
+  "model": "glm-5.3"
+}

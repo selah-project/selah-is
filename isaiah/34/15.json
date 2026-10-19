@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "קפוז kemur aðeins fyrir hér — 'örn-náðra', dýnt skotandi náðra; KJS les 'great owl'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "קפוז: 'örn-ormur' (ASV\/JPS 'dart-snake') móti 'ugla' (KJS) — rótin er 'að skjótast fram'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "אשה רעותה má einnig lesast 'hver og hin' — 'kona' og 'sú annara' í sama ljósi"
+    }
+  ],
+  "translation": "Þar byggir örnanáðran hreiður sitt og verpur og klekir og safnar ungum sínum undir skugga sinn; einmitt þar safnast fálkarnir, hver og sín félagkona.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/34\/13-16.1792404478272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "þar"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "byggir hreiður"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "örnanáðran"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "og verpur"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "og klekir"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "og verpir undir sér"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "í skugga sínum"
+    },
+    {
+      "surface": "אך",
+      "gloss": "einmitt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "safnast"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "fálkarnir"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hver kona"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "sín félagkona"
+    }
+  ],
+  "timestamp": "2026-10-19T10:07:58.273590978Z",
+  "model": "glm-5.3"
+}

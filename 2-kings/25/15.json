@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב \/ כסף כסף",
+      "rationale": "endurtekið orð — 'gull, allt gull' — undirstrikar að ekkert var skilið eftir; endurtekningin varðveitt bókstaflega"
+    },
+    {
+      "kind": "crux",
+      "subject": "רב טבחים",
+      "rationale": "'foringi slátranna' bókstaflega; óvíst hvort 'slátrar' eru lífverðir (aftökuverðir) eða einfaldlega hermenn — þýðing heldur bókstafnum"
+    },
+    {
+      "kind": "elision",
+      "subject": "זהב זהב",
+      "rationale": "tvöföld orðmynd hefur ekki hreina íslenska samsvarandi; endurtekningin gefin eftir með 'sem gull, sem silfur'"
+    }
+  ],
+  "translation": "Og ⟨את⟩ kolbakkana og ⟨את⟩ stúkurnar — það sem gull var, sem gull, og það sem silfur var, sem silfur — tók foringi slátranna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6930998f7b528be7045eec052c4750e3885d63fad5d06dbf75a87e8ba46170c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/25\/14-15.1792416755288.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kolbakkana"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "kolbakkana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stúkurnar"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "stúkurnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gull var"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gull"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og sem"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfur var"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "tók"
+    },
+    {
+      "surface": "רב",
+      "gloss": "foringi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "slátranna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:35.288773264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint ávarp til þjóðanna og söfnuðarins — vitni sem kallað er að dæma Ísrael."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenska þarf sagnirnar 'skalt' og 'er'; hebreskan hefur berar setningamyndir."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר בם",
+      "rationale": "'Það sem er með þeim' eða 'það sem kemur yfir þeim' — merkileg óvissa í gömlum þýðingum."
+    }
+  ],
+  "translation": "Þess vegna hljóðið, þjóðirnar, og þú skalt þekkja, söfnuður, ⟨את⟩ það sem er með þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9610bbfd37b9db254420e9a71d766517bc5920cab2dd015511adfa42c3b98340",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/6\/17-20.1792405408768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hljóðið"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "og þú skalt þekkja"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "söfnuður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það sem er með þeim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "בם",
+      "gloss": "er með þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:23:28.769691501Z",
+  "model": "glm-5.3"
+}

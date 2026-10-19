@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "minkha er skattur þegar greitt er til konungs, ekki fórnargjöf; skatt bætt við sem skýringu."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Móabitarnir' í fleirtölu — hebreskan segir Móab sem þjóð, íslenskan þarf fólkið."
+    }
+  ],
+  "translation": "Og hann lagði ‹את› ⟨את⟩ Móab að velli, og Móabitarnir urðu þjónar Davíðs, sem báru minkha — skatt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/18\/1-4.1792414886909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lagði að velli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Móab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "urðu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móabitarnir"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "þjónar"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "sem báru"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha — skatt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:01:26.910310002Z",
+  "model": "glm-5.3"
+}

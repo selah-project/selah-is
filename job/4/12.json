@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "orð stolið",
+      "rationale": "Sjónin kemur í dulúð — orðið 'stolið' til Elífaz og aðeins vætta tekin við"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שמץ",
+      "rationale": "'vætta' — orðið kemur aðeins hér í Tanakh"
+    }
+  ],
+  "translation": "Og að mér var orð stolið, og eyra mitt tók við vættu af því.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fdd7d232f465760fe5b11d95840d7007d9f56feebfeacae54c5e2332999585d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/4\/9-12.1792411751096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "og að mér"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "var stolið"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "og tók við"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "eyra mitt"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "vættu"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "af því"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:11.097667634Z",
+  "model": "glm-5.3"
+}

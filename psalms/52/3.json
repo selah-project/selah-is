@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨er⟩",
+      "rationale": "Hebreska nafnliðin „khesed El allan daginn“ hefur enga sögn — umritun setur ⟨er⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד haldið óþýtt sem khesed samkvæmt reglu D2 — miskunn ein né elska ná merkingunni."
+    },
+    {
+      "kind": "you",
+      "subject": "til höfðingjans (Doeg)",
+      "rationale": "Beint ræðulýsing með spurningu til auðugi hins vonda."
+    }
+  ],
+  "translation": "Hví hrósar þú þér í illsku, höfðingi? Khesed Els ⟨er⟩ alla daginn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/52\/1-4.1792409909598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "hrósar þú þér"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "í illsku"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "höfðingi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Els"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:29.599271348Z",
+  "model": "glm-5.3"
+}

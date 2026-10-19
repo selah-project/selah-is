@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משכית er „myndskreyttur steinn“ — orðið er tekið bókstaflega, ekki sem „guðmynd“."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Bannorð beint til Ísraels í fleirtölu."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "עליה er kvenkyns (um steininn) en íslenskan segir „fyrir honum“ vegna kyns orðsins steinn."
+    }
+  ],
+  "translation": "Þér skuluð ekki gjöra yður skurðgoð, og höggmynd og minnisstein skuluð þér ekki reisa yður, og myndskreyttan stein skuluð þér ekki setja í landi yðru til að falla á kné fyrir honum; því að ég er Jahve Elóhím yðar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/1-4.1792396222755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "þér skuluð gjöra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "skurðgoð"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "og höggmynd"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "og minnisstein"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "skuluð þér reisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og stein"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "myndskreyttan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "skuluð þér setja"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "í landi yðru"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "til að falla á kné"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:50:22.756013270Z",
+  "model": "glm-5.3"
+}

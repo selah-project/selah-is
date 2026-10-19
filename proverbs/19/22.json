@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאות אדם חסדו",
+      "rationale": " erfið setning: 'þrá mannsins er khesed hans' (KJV), 'það sem gerir mann aðsóknarverðan er khesed hans' (ASV), eða 'skömmin mannsins' (JPS, með öðrum sérhljóðum)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": " חסד skilið sem 'khesed' sjálft — trygð, gæska — ekki fellt niður í eitt íslenskt orð."
+    }
+  ],
+  "translation": "Þrá mannsins er khesed hans, og betri er fátækur en lygari.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f3c37f1b94bb87d26d2143964b5ddc38aba25361142ea20519786dd7e9fd4257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/19\/21-24.1792411467358.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Þrá"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "og betri"
+    },
+    {
+      "surface": "רש",
+      "gloss": "fátækur"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "en"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lygari"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:27.359287342Z",
+  "model": "glm-5.3"
+}

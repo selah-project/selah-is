@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקם",
+      "rationale": "'Rise' = varð lögleyst\/staðfest, lögfræðilegt myndmál."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Samsett forsetning מן+את; את-merkið varðveitt innan forsetningarinnar."
+    }
+  ],
+  "translation": "Og varð staðfastur akurinn og hellirinn sem í honum er, til Avraham, til eignar grafreits, frá ⟨את⟩ sonum Het.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ade1faa765ae617b9c1f9c73aeec578e005fb612bedfdb608b815e83c41af3c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/23\/17-20.1792393048204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "varð staðfastur"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "akurinn"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "og hellirinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í honum"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "til Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "til eignar"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "grafreits"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "frá ⟨את⟩",
+      "marks": "sonum Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonum"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-10-19T06:57:28.205418637Z",
+  "model": "glm-5.3"
+}

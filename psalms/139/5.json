@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צרתני frá צור merkir bókstaflega 'þröngvaðir\/höfðu mig í mynd' — 'innsiglað' varðar myndgervinguna en ekki þýðingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחור וקדם",
+      "rationale": "aftur-og-fram tvennd: vestur-austur þegar horft er norður, tími og stöð í tveim orðum"
+    }
+  ],
+  "translation": "Aftur og fram hefur þú innsiglað mig, og lagt lófa þinn yfir mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/5-8.1792410992521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "aftur"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "og fram"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "hefur þú innsiglað mig"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "og lagðir"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "lófa þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:32.521995572Z",
+  "model": "glm-5.3"
+}

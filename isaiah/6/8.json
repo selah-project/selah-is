@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את מי",
+      "rationale": "Aleph-tav fyrir spurnarfornafn er óvenjulegt; varðveitt sem ⟨את⟩ en hefur enga merkingu í íslenskri setning."
+    },
+    {
+      "kind": "you",
+      "subject": "to Isaiah",
+      "rationale": "Adónaí talar — Jesaja svarar sjálfboðalega: 'Hér er ég, send þig mig'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנני שלחני",
+      "rationale": "Boðið 'Hvern skal ég senda?' opnar fyrir sjálfboðan — klassísk köllunarsena."
+    }
+  ],
+  "translation": "Og ég heyrði rödd Adónaí sem sagði: Hvern ⟨את⟩ skal ég senda, og hver skal fara fyrir oss? Og ég sagði: Hér er ég — send þig mig.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "fef9c6b9dcfca1860b3b168469ab5af68c9ef8deefbc89fb561c9ae51d48d98e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/6\/5-8.1792403782954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Og ég heyrði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rödd Adónaí"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hvern"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hvern"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "skal ég senda"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "skal fara"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir oss"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Og ég sagði"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hér er ég"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "send þig mig"
+    }
+  ],
+  "timestamp": "2026-10-19T09:56:22.955319150Z",
+  "model": "glm-5.3"
+}

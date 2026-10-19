@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרה אף",
+      "rationale": "bókstaflega 'nasinn mun brenna' — reiði Jahve mynduð sem eldur í nösinni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יסיר",
+      "rationale": "nútíðar boðháttur geti verið þýddur 'hann mun snúa' eða sem ósk: 'að hann snúi ekki' — þýðingin heldur framtíðarmerkingunni"
+    }
+  ],
+  "translation": "Því að hann mun snúa ⟨את⟩ syni þínum frá eftir mér, og þeir munu þjóna öðrum guðum, og reiði Jahve mun kvikna gegn ykkur og hann mun eyða ykkur fljótt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/7\/1-4.1792397770982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "hann mun snúa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syni þínum"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "syni þínum"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "frá eftir"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "og þeir munu þjóna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "og mun kvikna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "gegn ykkur"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "og hann mun eyða ykkur"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "fljótt"
+    }
+  ],
+  "timestamp": "2026-10-19T08:16:10.983805382Z",
+  "model": "glm-5.3"
+}

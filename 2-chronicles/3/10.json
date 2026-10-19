@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צעצועים",
+      "rationale": "צַעְצֻעִים 'skurðmyndir' kemur aðeins hér í Tanakh (og samstofna í 2. Krón 3:16)."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fleirtala Þriðja persónu í 'þær klæddu' — hebreska ויצפו er óákveðin um geranda."
+    }
+  ],
+  "translation": "Og í húsi heilagleikans helga gerði hann tvo kerúba, skurðmyndaverk, og þær klæddu ⟨את⟩ þeim í gull.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f8eba62acef14d8203e1d5769e9688cdc596aa4f202f43cf60ee1384c9b52625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/3\/9-12.1792415248402.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gerði hann"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilagleika"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "helga"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerúba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tvo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "skurðmynda"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "og þær klæddu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim (kerúbana)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "í gull"
+    }
+  ],
+  "timestamp": "2026-10-19T13:07:28.403452561Z",
+  "model": "glm-5.3"
+}

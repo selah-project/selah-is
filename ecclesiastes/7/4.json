@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnirnar 'er' og er í hebreskunni ekki — nafnsetning án sagnar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב ... ולב",
+      "rationale": "Endurtekið 'hjarta' í spegilútfærslu vitrir\/fávísir — stellingin helst í íslenskunni."
+    }
+  ],
+  "translation": "Hjarta hinna vitru er í sorgarhúsi, en hjarta fávísa í gleðihúsi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/7\/1-4.1792413088429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hinna vitru"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í sorgarhúsi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sorgar"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en hjarta"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "fávísa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í gleðihúsi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gleði"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:28.430737178Z",
+  "model": "glm-5.3"
+}

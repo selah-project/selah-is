@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "reiði",
+      "rationale": "אף er orðrétt 'nef, andlit' — myndlíking um reiði; íslenskan týnir líkamamyndinni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "í brennandi reiði þeirra",
+      "rationale": "בחרות er orðrétt 'í uppkasti\/brennslu' — hitamyndin gæti haldið sér"
+    }
+  ],
+  "translation": "þá hefðu þeir gleypt oss lifandi, í útkasti reiði þeirra á oss,",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "658341c03d66423cfb1a962a8256865e84d5c0cf7bb56bf7567f8b45687a7d20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/124\/2-3.1792416977445.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "þá"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lifandi"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "hefðu þeir gleypt oss"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "í útkasti"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "reiði þeirra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "á oss"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:17.445918046Z",
+  "model": "glm-5.3"
+}

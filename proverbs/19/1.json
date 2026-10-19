@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רש er „sá sem er eiginnauðugur“ — myndin er eignarleysi, ekki siðferðileg dofni"
+    },
+    {
+      "kind": "crux",
+      "subject": "בתמו",
+      "rationale": "„óspilltur“ vs „fullkominn\/einfaldur“ — töfluhöfundar skiptast á integrity\/innocence"
+    }
+  ],
+  "translation": "Betri er sá fátæki er gengur í ⟨því⟩ óspilltur en sá er tvísýn er varðar vara sína — og hann er fávís.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/19\/1-4.1792411502077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "betri"
+    },
+    {
+      "surface": "רש",
+      "gloss": "sá fátæki"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "í óspilltur"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "sá er tvísýn"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "vara sína"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fávís"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:02.078048009Z",
+  "model": "glm-5.3"
+}

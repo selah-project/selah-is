@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eiginkona",
+      "rationale": "לאשה er bókstaflega ‚til konu‘; ‚eiginkona‘ gerir tengslin skýr á íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Ættartala — kynntar fjórar synir Aharons"
+    }
+  ],
+  "translation": "Og Aharon tók ⟨את⟩ Elísheva, dóttur Ammínadavs, systur Nakhshons, sér eiginkonu, og hann ól ⟨את⟩ Nádab og ⟨את⟩ Avíhú, ⟨את⟩ Elazar og ⟨את⟩ Itamar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6e4aa2116007e9e3b839b1acc90bbc30aa80774b5703d0654ca0e53ee0cfc1e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/6\/21-24.1792394119118.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Og hann ól",
+      "variant": "ותלד",
+      "alt": "Og hún ól",
+      "note": "K4518 (tóka) — Levg 27:29 og 4Mos 18:15-17: mannvekta helgun. Ex 6:20 notar óbeina frásögn (בלדה-Piel, H3205), þannig að ותלד hér (H3205 qal-pref) er aðeins „hún ól“ — en Qal-þátttökinn er vanalegur og miðlar vel kvenhelgun Jókebedar; „hann ól“ samsvarar hálfparti Ekka.",
+      "elision": "einföldun: aðeins qal-túlkun",
+      "adjust": "aðlaga: vinna úr aukamyndum með aðalmerkingu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nádab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nádab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Avíhú"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avíhú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:19.120164020Z",
+  "model": "glm-5.3"
+}

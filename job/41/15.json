@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 41:15",
+  "book": "job",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "flögurnar",
+      "rationale": "מפלי er 'föll flögur' — KJV les 'skeljót'; flögur halda mynd hebreskunnar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "skeljót",
+      "rationale": "samhengið (v. 17) styður skeljar drekans, en orðið sjálft segir aðeins 'flögur'"
+    }
+  ],
+  "translation": "Flögurnar á holdi hans límast saman, steyptar yfir hann, og alls ekki munu þær hrasa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/41\/13-16.1792412559104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפלי",
+      "gloss": "flögurnar"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "á holdi hans"
+    },
+    {
+      "surface": "דבקו",
+      "gloss": "límast saman"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "steyptar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir hann"
+    },
+    {
+      "surface": "בל",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "munu hrasa"
+    }
+  ],
+  "timestamp": "2026-10-19T12:22:39.105736281Z",
+  "model": "glm-5.3"
+}

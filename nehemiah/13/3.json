@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "„blandning“ — blandað fólk (sama orð og í 2. Mós 12:38); ýmissar þýðingar: „úlendingar“, „blandað mannþyrping“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Tóra — ekki „lögmálið“, samkvæmt D2"
+    }
+  ],
+  "translation": "Og þegar þeir heyrðu ⟨את⟩ Tóruna, þá aðskildu þeir hvern blandning frá Ísrael.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/13\/1-4.1792414358142.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og þegar"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "þeir heyrðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tóruna"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tóruna"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "þá aðskildu þeir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvern"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "blandning"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "frá Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T12:52:38.143568407Z",
+  "model": "glm-5.3"
+}

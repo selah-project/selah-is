@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hið beina",
+      "rationale": "הישר er „hið beina, hið rétta“ — ekki tiltekin gerð, heldur mynd orðsins sjálfs; venjulegar þýðingar segja „það sem rétt var“."
+    },
+    {
+      "kind": "crux",
+      "subject": "אביו faðir hans",
+      "rationale": "Davíð var langafa Hizkía; hebreskan kallar forfaðir „föður“ eins og venja er."
+    }
+  ],
+  "translation": "Og hann gjörði hið beina í augum Jahve, að öllu því sem Davíð faðir hans hafði gjört.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b9a9be179069d20ac4b5e00cf707e4171bd1ea5b311859722fc2703ef06e0e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/18\/1-4.1792403369081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "hið beina"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "að öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hafði gjört"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "faðir hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:49:29.082696298Z",
+  "model": "glm-5.3"
+}

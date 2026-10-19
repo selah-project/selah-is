@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 36:11",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur enga sögn í 'Ég Jahve'; íslenskan þarf 'er'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yður",
+      "gloss": "אתכם bendir á fjöllin Ísraels — 'yður' í glósunni ber merkt fyrirkomulagið."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Boðskapurinn endar á 'þér skuluð vita' — beint tilsögn til Ísraels."
+    }
+  ],
+  "translation": "Og Ég margfaldi á yður mann og búfé, og þau margfoldast og bera ávöxt, og Ég geri yður byggða eins og áður fyrr, og Ég gjöri yður betur en í upphöfum yðar, og þér skuluð vita að Ég er Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "64e9d588819c13e4e36c242a7a78a2b9015ff822bbffaaa0184400878c1def50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/36\/9-12.1792407681787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "og Ég margfaldi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "á yður"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mann"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "og búfé"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "og þau margfoldast"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "og bera ávöxt"
+    },
+    {
+      "surface": "והושבתי",
+      "gloss": "og Ég geri byggða"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כקדמותיכם",
+      "gloss": "yður, eins og áður fyrr"
+    },
+    {
+      "surface": "והטבתי",
+      "gloss": "og Ég gjöri betur"
+    },
+    {
+      "surface": "מראשתיכם",
+      "gloss": "en í upphöfum yðar"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "og þér skuluð vita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "er Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:01:21.788615847Z",
+  "model": "glm-5.3"
+}

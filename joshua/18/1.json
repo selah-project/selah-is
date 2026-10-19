@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 18:1",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "í",
+      "rationale": "hebreskan segir Sjíló án forsetningar; íslenska þarf 'í'"
+    },
+    {
+      "kind": "elision",
+      "subject": "וישכינו",
+      "rationale": "orðið er 'að setja að vera\/sett fast' — 'settu' heldur ekki fullri mynd 'að láta tjaldbúðina búast þar'"
+    }
+  ],
+  "translation": "Og allur söfnuður Ísraelsmanna safnaðist saman í Sjíló, og þeir settu þar ⟨את⟩ tjaldbúð fundarins, og landið var undirgegnt fyrir þeim.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "41539cac0c1f8898f77ebb824959dfdc05f35696e8945471499554c7b57532b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/18\/1-4.1792399232784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "safnaðist saman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "söfnuður"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "í Sjíló"
+    },
+    {
+      "surface": "וישכינו",
+      "gloss": "og þeir settu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjaldbúð fundarins"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjaldbúð"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundarins"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og landið"
+    },
+    {
+      "surface": "נכבשה",
+      "gloss": "var undirgegnt"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fyrir þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T08:40:32.785093849Z",
+  "model": "glm-5.3"
+}

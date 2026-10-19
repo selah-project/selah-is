@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמלה",
+      "rationale": "Lítur hvort heldur á 'Þú hefur yfirhöfn' (áttklæði sem tákn um tign) eða 'Yfirhöfnin sé þín' — SETNINGARSKEIÐ óljóst."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המכשלה",
+      "rationale": "'Brölt\/brekka' → 'hrun'; myndin af því að stiga á rangt færi."
+    }
+  ],
+  "translation": "Því að maður mun grípa bróður sinn, í húsi föður síns, og segja: Þú hefur yfirhöfn, vertu höfðingi vor, og þetta hrun sé undir hendi þinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/3\/5-8.1792403660028.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "mun grípa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "bróður sinn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður síns"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "yfirhöfn"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "vertu"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "höfðingi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sé"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vor"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "og þetta hrun"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hendi þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:54:20.029702419Z",
+  "model": "glm-5.3"
+}

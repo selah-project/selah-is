@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nælachu",
+      "rationale": "Sjaldgæft orð: 'súrnudu\/skýldust' — KJV 'filthy', JPS 'impure'; líklega um mjólk sem sýrðist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "óhreinir",
+      "rationale": "alach: bókstaflega 'súraðist' um siðferðilega spillingu."
+    }
+  ],
+  "translation": "Allt hefir víkst; allsaman urðu þeir óhreinir; enginn er sem gerir gott — enginn, já, ekki einn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/53\/1-4.1792409881665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "allt"
+    },
+    {
+      "surface": "סג",
+      "gloss": "hefir víkst"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "allsaman"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "urðu óhreinir"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sem gerir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "גם",
+      "gloss": "já"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ekki einn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:01.666414187Z",
+  "model": "glm-5.3"
+}

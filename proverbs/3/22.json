@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki sál í póstklassískum skilning"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "frumlagið ‚þau‛ (vizkan) bætt við, hebreskan hefur aðeins sögn"
+    }
+  ],
+  "translation": "Þau verða líf fyrir sálu þína og náð fyrir háls þinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cbd2feae047deb75fd33cbff78480b913b58e7ffbe45038204beb8b8b2b4845b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/21-24.1792411142251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Þau verða"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "líf"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "fyrir sálu þína"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "og náð"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "fyrir háls þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:02.251920564Z",
+  "model": "glm-5.3"
+}

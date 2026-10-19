@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חפץ 'vilja, finna geðþó' — 'hafði velgði af' heldur lyndrinu, ekki 'elskaði'."
+    }
+  ],
+  "translation": "Og hann leiddi mig út í víðáttuna, hann greip mig undan, því að hann hafði velgði af mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ac8296ab4ed3e869e4133be596bb5fb7435700ed43ccd28ec2a808737651474",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/17-20.1792409408124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Og hann leiddi mig út"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "í víðáttuna"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "hann greip mig undan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hann hafði velgði af"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:08.125008237Z",
+  "model": "glm-5.3"
+}

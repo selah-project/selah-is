@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא בקרוב",
+      "rationale": "'það er ekki nálægt' (örlögin seint) — eða 'það kemur ekki bráðum'; eða lesningin 'í nálægt (erum við) — byggjum hús'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨er⟩ · ⟨erum⟩",
+      "rationale": "hebreskan hefur enga sögn; potturinn\/kjötið-myndlíkingin er nefning án sagnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הסיר \/ הבשר",
+      "rationale": "potturinn og kjötið — jáðarmyndlíking um borgina og fólkið, endurtekin í 11:7, 11"
+    }
+  ],
+  "translation": "Þeir sem segja: Ekki er það nálægt — byggjum hús — hún ⟨er⟩ potturinn, og vér ⟨erum⟩ kjötið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "519c33d5a2fc9ad3e49813bee7f46ff0b040b8ee6ad869621c56c8255613ef6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/11\/1-4.1792406974789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Þeir sem segja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "er það nálægt"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "byggjum"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hús"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "potturinn"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "og vér"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kjötið"
+    }
+  ],
+  "timestamp": "2026-10-19T10:49:34.790814887Z",
+  "model": "glm-5.3"
+}

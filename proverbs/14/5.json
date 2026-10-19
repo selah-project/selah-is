@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כזב\/שקר",
+      "rationale": "Tvenns konar lygar í versinu — כזב og שקר — endurtaka rótina כזב tvisvar (יכזב, כזבים) og skapa samhljóð."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויפיח",
+      "rationale": "„Að blása út“ lygar — myndrænt um andardrátt, látinn „andar út lygar“."
+    }
+  ],
+  "translation": "Vottur trúr lygar ekki, en lygavottur andar út lygar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/14\/5-8.1792411370536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Vottur"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "trúr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "lygar"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "en andar út"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lygar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vottur"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lyga-"
+    }
+  ],
+  "timestamp": "2026-10-19T12:02:50.536841416Z",
+  "model": "glm-5.3"
+}

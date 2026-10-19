@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreskan hefur enga sögn við אין — íslenskan þarf 'er' eða 'er ekki til'."
+    }
+  ],
+  "translation": "Og enn svolítið, og ranglátur ⟨er⟩ ekki; og þú granar á stað hans, og hann er ekki til.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/9-12.1792409630491.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Og enn"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "svolítið"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨er⟩ ekki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranglátur"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "og þú granar"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "stað hans"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "og hann er ekki til"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:50.492738472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקה skilað sem tsedek samkvæmt D2, ekki „réttlæti“"
+    },
+    {
+      "kind": "crux",
+      "subject": "המצוה",
+      "rationale": "eintala á hebresku („þessi boð“) en fleirtölu í mörgum þýðingum; hin eintaliga boðin vísa til alls lagaboðsins"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "framtíðarhjálp „mun“ bætt við תהיה, hebreskan hefur aðeins sagnbeygingu"
+    }
+  ],
+  "translation": "Og tsedek mun vera okkur, ef vér geymum ⟨את⟩ allar þessar boðir frammi fyrir Jahve Elóhím okkar, eins og hann bauð okkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/25-25.1792397632937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "Og tsedek"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mun vera"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "okkur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "vér geymum"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allar boðirnar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "boðirnar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frammi fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím okkar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "bauð okkur"
+    }
+  ],
+  "timestamp": "2026-10-19T08:13:52.938240270Z",
+  "model": "glm-5.3"
+}

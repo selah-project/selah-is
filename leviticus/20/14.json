@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Samhengisfall á íslensku krefst „móður hennar“ í eignarfalli; hebreska hefur aðeins „móður hennar“ án breytingar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמה",
+      "rationale": "Orðið kemur tvisvar í versinu og ramar versið inn — endurtekunin er varðveitt"
+    }
+  ],
+  "translation": "Og maður sem tekur ⟨את⟩ konu og ⟨את⟩ móður hennar — það er ódæði; í eldi skal brenna hann og þær, og eigi skal verða ódæði meðal ykkar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/20\/13-16.1792396048152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og maður"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "tekur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "móður hennar"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "móður hennar"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ódæði"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það er"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eldi"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "skal brenna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "og ⟨את⟩",
+      "marks": "þær"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal verða"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ódæði"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "meðal ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:47:28.153035482Z",
+  "model": "glm-5.3"
+}

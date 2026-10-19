@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצו\/עצה",
+      "rationale": "sögn og nafn af sömu rót (עצה) — 'ráðgerið ráð' heldur hljóminum."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמנו אל",
+      "rationale": "'El er með oss' hljómar nálægt Immanú-El (עמנו אל) úr v. 8 — orðleikur sem rennur saman við fyrri vers."
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "íslenska þarf þolfalls-andeigingu 'það' þar sem hebreskan notar ópersónulega mynd"
+    }
+  ],
+  "translation": "Ráðgerið ráð og það verður sundrað; talið orð og það mun ekki standast, því El er með oss.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/8\/9-12.1792403746793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Ráðgerið"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ráð"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "og það verður sundrað"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "talið"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "mun standast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "með oss"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T09:55:46.794454756Z",
+  "model": "glm-5.3"
+}

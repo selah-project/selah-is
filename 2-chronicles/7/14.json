@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 7:14",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "leita andlits míns",
+      "rationale": "Hebreskt tengslastytt: פני (andlit) sem nánd Guðs; bókstæð mynd höfð"
+    },
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Íslenska þarf tengilið á milli skilyrðis og svars; hebreska setur ואני (en ég) í staðinn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "þjóð mín",
+      "rationale": "עם er samkundað fólk, ekki landsvæði; „þjóð“ heldur samheildarmyndinni"
+    }
+  ],
+  "translation": "og þjóð mín, sem Nafn mitt er kallat yfir, lúta sér og bænast og leita andlits míns og snúa sér frá vonda vegi sínum — þá mun ég heyra af himnum og fyrirgefa syndir þeirra og græða ⟨את⟩ land þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f12b1278fbe3478e6b3a4dbddccf5321920383b4174128ff7aeeac77c38ef5a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/7\/13-16.1792415432991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "lúta sér"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "þjóð mín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "er kallat"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Nafn mitt"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "yfir þeim"
+    },
+    {
+      "surface": "ויתפללו",
+      "gloss": "og bænast"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "og leita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlits míns"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og snúa sér"
+    },
+    {
+      "surface": "מדרכיהם",
+      "gloss": "frá vegi sínum"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "vonda"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "þá mun ég"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "heyra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnum"
+    },
+    {
+      "surface": "ואסלח",
+      "gloss": "og fyrirgefa"
+    },
+    {
+      "surface": "לחטאתם",
+      "gloss": "syndir þeirra"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "og græða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land þeirra"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "land þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:10:32.992682507Z",
+  "model": "glm-5.3"
+}

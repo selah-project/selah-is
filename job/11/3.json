@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדיך",
+      "rationale": "בד: 'lygar\/bragð' (KJV 'lies') eða 'tóm orð' (ASV 'boastings') — valið 'tómþyrðir' sem hitt hvoru"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'þér\/þig' bætt við — hebreska segir aðeins 'driftir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מכלם",
+      "rationale": "Orðið merkir bókstaflega 'sára' — hið siðferðislega 'sköpmin' gefið með 'sviða skömminni'"
+    }
+  ],
+  "translation": "Tómþyrðir þínir gera menn þögul, og þú driftir — og enginn til að sviða þig skömminni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "31ae1a681698ef5e1c64f27632933ddc069c224af69af52fc2ad4c44aecc464c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/11\/2-3.1792416991390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "Tómþyrðir þínir"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "gera þögul"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "og þú driftir"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "til að sviða þig skömminni"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:31.391564146Z",
+  "model": "glm-5.3"
+}

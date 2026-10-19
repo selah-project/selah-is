@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Vottorðin 'hann', 'þeim' og greinir við 'réttslausu' eru íslensku bætt við; hebreskan segir aðeins 'tröðku réttslausu undir þeim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הכניעהו er orðrétt 'hnébeyg hann' — að beygja kné; 'hnébeyg' heldur líkamsmyndinni sem 'auðmýkja' týnir."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "V. 12 endurtekur rófuna 'lít… hinn stóræsti' úr v. 11 og skerpti hana — hinn uppháni verður tröðkaður undir."
+    }
+  ],
+  "translation": "Lít á hvern þann er stóræstur, hnébeyg ⟨hann⟩, og tröðku niður ⟨réttslausu⟩ undir ⟨þeim⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "024a03fb026343569a212a262171276876342a59d957a09266fa649324ab6bda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/40\/11-12.1792417057547.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lít"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvern þann"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "er stóræstur"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "hnébeyg ⟨hann⟩"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "og tröðku niður"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨réttslausu⟩"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "undir ⟨þeim⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:37.547917546Z",
+  "model": "glm-5.3"
+}

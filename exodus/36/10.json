@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'samana' bætt við; חבר segir 'tengja' en íslenska þarf forsenduna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחבר\/חבר",
+      "rationale": "sama rót endurtekin tvisvar í versinu — endurtekning verksins sem fallið í hljóði, glatað í þýðingu"
+    }
+  ],
+  "translation": "Og hann batt ⟨את⟩ fimm tjalda⟨na⟩ saman, eitt við annað, og hin fimm tjöldin batt hann saman, eitt við annað.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "500de5f61b8301ee5cb6ec91fd67a68edf2f38e26f299df29e4dbd2519f3cbb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/36\/9-12.1792395215719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Og hann batt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimm tjalda"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "tjalda"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eitt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "annað"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "hin fimm"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "tjöldin"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "batt saman"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eitt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "annað"
+    }
+  ],
+  "timestamp": "2026-10-19T07:33:35.720354656Z",
+  "model": "glm-5.3"
+}

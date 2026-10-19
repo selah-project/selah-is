@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 38:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אדדה",
+      "rationale": "Sagnin דדה 'að ganga hægt\/þögull' kemur aðeins hér fram í Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur og svengd — 'sál' er þröng íslensk nálgun."
+    }
+  ],
+  "translation": "Hvað skal ég tala? En hann hafði talað til mín, og sjálfur hefur hann gjört það; ég fer hægt alla mína ára vegna beiskju sálar minnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/38\/13-16.1792404456933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "skal ég tala"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og hafði talað"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og sjálfur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hefur gjört"
+    },
+    {
+      "surface": "אדדה",
+      "gloss": "fer ég hægt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "mína ára"
+    },
+    {
+      "surface": "על",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "מר",
+      "gloss": "beiskju"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:07:36.934813288Z",
+  "model": "glm-5.3"
+}

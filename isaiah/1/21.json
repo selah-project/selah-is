@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 1:21",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagnarfornafnið ⟨Hún⟩ bætt við — hebreskan sleppir undirtilvísun í villu yfir „מלאתי משפט“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נאמנה\/לזונה",
+      "rationale": "Andstaðan trúfest (byggð á אמן) gegn hórú — orðmyndin speglar sirðringuna."
+    },
+    {
+      "kind": "elision",
+      "subject": "מרצחים",
+      "rationale": "Sagnfrumerkið vantar: „en nú ⟨eru⟩ morðingjar“ — nafnliður án sagnar, varðveitt eins og hebreskan hefur hann."
+    }
+  ],
+  "translation": "Hversu varð trúfasta borgin að hórú! ⟨Hún⟩ var full dóms — tsedek bíður í henni — en nú morðingjar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "68ff086ef7d29672bce62a38d974b7b0bb789a3e5bdcac2de4c320c88002fade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/1\/21-24.1792403570378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Hversu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "varð"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "að hórú"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "borgin"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "trúfasta"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "full"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dóms"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bíður"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í henni"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nú"
+    },
+    {
+      "surface": "מרצחים",
+      "gloss": "morðingjar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:52:50.378810008Z",
+  "model": "glm-5.3"
+}

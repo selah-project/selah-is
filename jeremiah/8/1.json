@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf greini og eigingarfalli þar sem hebreskan hefur ber nafnboroð"
+    },
+    {
+      "kind": "elision",
+      "subject": "bein",
+      "rationale": "Hebreskan endar ekki orðið „bein“ í hverri tilgreiningu en innsiglið endurtekningar er varðveitt"
+    }
+  ],
+  "translation": "Á þeirri tíð, segir Jahve, munu þeir bera út bein konunganna í Júda, og ⟨את⟩ bein höfðingja hans, og ⟨את⟩ bein prestanna, og ⟨את⟩ bein spámanna, og ⟨את⟩ bein íbúanna í Jerúsjalajím, úr gröfum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7ead3dc54f29b85c3152caf1608472c3fe47d6f0ff29a9e053dc93b66b485668",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/8\/1-4.1792405559018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Á þeirri tíð"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "þeirri"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "munu þeir bera út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bein konunganna í Júda"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bein"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konunganna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "í Júda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bein höfðingja hans"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bein"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "höfðingja hans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bein prestanna"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bein"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bein spámanna"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bein"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "spámanna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bein íbúanna í Jerúsjalajím"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "bein"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "íbúanna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "úr gröfum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:25:59.019724953Z",
+  "model": "glm-5.3"
+}

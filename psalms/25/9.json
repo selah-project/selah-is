@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ענוים er tvívegis; gefið tvennt (humlkuð\/hófstillt) til að halda endurtekningu án eins orðs"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענוים ... ענוים",
+      "rationale": "sama orð endurtekið í vísunarljóði, brotið með tveim íslenskum orðum"
+    }
+  ],
+  "translation": "Hann lætur humlguína troða í dómi, og hann kennir hófstilltu veg sinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/25\/9-12.1792409493530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "lætur troða"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "humlguína"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "í dómi"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "og hann kennir"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "hófstilltu"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "veg sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:33.531049627Z",
+  "model": "glm-5.3"
+}

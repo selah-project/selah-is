@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה בצע",
+      "rationale": "'Hví ábótningur' vs 'hvaða gagn' — rót בצע er raun\/óréttur gróði; spurningin er ræðuleg, ekki spurning."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחת",
+      "rationale": "gryfja — grafhola; ekki Sjeól-hugtakið hér, heldur líkamleg dýfa."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Spurning beint til Guðs — réttlæting bænarins."
+    }
+  ],
+  "translation": "Hvína ábótningur í blóði mínu, er eg steig niður í gryfjuna? Mun rykkið lofa þér, mun það boða sannleika þinn?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9868f0f34f6039889bf7a90527c922a354613e4b4377ce6cf4458660abda6040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/30\/9-12.1792409493170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hví"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ábótningur"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "í blóði mínu"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "er eg steig niður"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gryfjuna"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "mun lofa þér"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "rykkið"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "mun það boða"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sannleika þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:33.170992409Z",
+  "model": "glm-5.3"
+}

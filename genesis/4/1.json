@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אִישׁ אֶת יְהוָה",
+      "rationale": "'mann með Jahve' — את hér getur verið forsetningin 'með' eða rökgjörð; YLT\/JPS 'með aðstoð Jahve', KJV 'frá Jahve'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קַיִן \/ קָנִיתִי",
+      "rationale": "Nafn Kajín (קין) og sögnin קניתי ('ég hef getið') deila rót — orðaleyfi sem týnist á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "þekkti",
+      "rationale": "יָדַע 'kunni' er hjávega um holdlegt samband — 'þekkti' er hefðbundið en viðamarkað orð"
+    }
+  ],
+  "translation": "Og maðurinn þekkti ⟨את⟩ Höttu konu sína, og hún varð ólétt og fæddi ⟨את⟩ Kajín, og hún sagði: Ég hef getið mann ⟨את⟩ með Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ae71745516a81d20b0c22d9ff1bcaa877084e125fc4f421a4d4ba208bda0dd9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/4\/1-4.1792392610163.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Og maðurinn"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "þekkti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Höttu"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Höttu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "konu sína"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "og hún varð ólétt"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og fæddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajín"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajín"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hún sagði"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Ég hef getið"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ með"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T06:50:10.164784880Z",
+  "model": "glm-5.3"
+}

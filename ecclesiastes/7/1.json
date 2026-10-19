@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnirnar 'er' og 'betri' í seinni helmingnum eru ekki í hebreskunnar — hún styttir sig við sama 'טוב' og í fyrri helmingnum."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב ... טוב",
+      "rationale": "Orðið 'gott' endurtekið í upphafi og mitt í versinu — kjaftæðið tapast að hluta til í íslenskunni."
+    },
+    {
+      "kind": "alternative",
+      "subject": "שם",
+      "rationale": "Orðið merkir bæði 'nafn' og 'orðstír'; 'orðstír er betri en gott smyrsl' er önnur lesning."
+    }
+  ],
+  "translation": "Betra er nafn en gott smyrsl, og dagur dauðans betri en dagur fæðingar hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/7\/1-4.1792413088429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "betra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "smyrsl"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "og dagur"
+    },
+    {
+      "surface": "המות",
+      "gloss": "dauðans"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "en dagur"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "fæðingar hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:28.430277374Z",
+  "model": "glm-5.3"
+}

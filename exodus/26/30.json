@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כמשפטו er bókstaflega 'samkvæmt dómi\/mishpat hans' — 'mynstur' er túlkanleg í stað lagalega forms."
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "Mynstur sem 'sýnt var á fjallinu' — vísað í opinberun sem lesandinn fær ekki að sjá."
+    }
+  ],
+  "translation": "Og þú skalt reisa ⟨את⟩ Misjkaninu eftir dómi hans, því sem þér var sýnt á fjallinu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/26\/29-32.1792394890789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "Og þú skalt reisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misjkaninu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkaninu"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "eftir dómi hans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "þér var sýnt"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "á fjallinu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:28:10.789922251Z",
+  "model": "glm-5.3"
+}

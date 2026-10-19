@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יאכלו...יאכלו",
+      "rationale": "Sögnin 'éta' endurtekin í khíasmynd: deyr–borg–éta–hundar \/ deyr–völlur–éta–fuglar — tveim tónum áfallaljóðsins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשדה",
+      "rationale": "'á vellinum' (sing.) — hebreska 'ákveðna svæðið\/völlinn', flöturinn utan bæjarinnar."
+    }
+  ],
+  "translation": "Sá sem deyr af Akhab í borginni — hundarnir munu éta hann, og sá sem deyr á vellinum — fugl himinsins mun éta hann.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/21\/21-24.1792402579489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Sá sem deyr"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "af Akhab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borginni"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "munu éta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundarnir"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "og sá sem deyr"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "á vellinum"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "munu éta"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugl"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himinsins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:36:19.490697914Z",
+  "model": "glm-5.3"
+}

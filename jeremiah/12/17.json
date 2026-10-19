@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ונתשתי \/ נתוש",
+      "rationale": "Sama rót endurtekin — rífa upp, rífa upp — innri rím sem íslenskan heldur með endurtekningu."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Tákn íslenskar orðarðar bætt við sem hebreskan heldur í gegnum sambandið."
+    }
+  ],
+  "translation": "En ef þeir hlýða ekki, þá mun ég rífa upp ⟨את⟩ þjóðina þá — rífa upp og eyða — segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3bf16125604b4b9b6242544935f485eac6e5a1b15f83f722058cc61b3aa4000a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/12\/17-17.1792405608685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hlýða"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "þá mun ég rífa upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóðina þá"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "þjóðin"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þá"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "rífa upp"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "og eyða"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:26:48.685944574Z",
+  "model": "glm-5.3"
+}

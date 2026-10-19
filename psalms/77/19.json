@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hvirfilvindinum",
+      "rationale": "בגלגל — 'í hvirfil\/hjóli'; KJV 'í himninum', ASV\/JPS 'í hvirfilvindinum'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "heiminum",
+      "rationale": "תבל — 'heimurinn, byggða landið', annað orð en הארץ seinna í versinu."
+    }
+  ],
+  "translation": "Hljóð þrumna þinna í hvirfilvindinum; eldingar lýstu heiminum; jörðin skalf og rak.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/77\/17-20.1792410184197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hljóð"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "þrumna þinna"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "í hvirfilvindinum"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "lýstu"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "eldingar"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heiminum"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "skalf"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "og rak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:04.198008753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mishor",
+      "rationale": "מישור er 'slétt jörð, jafnvægi'; hér látég við halda hljóði orðsins — 'með mishor' — en túlkanirnar eru 'réttlátlega' eða 'með réttvísi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנחם",
+      "rationale": "נחה getur merkt 'leiða' (JPS) eða 'stjórna' (KJV 'govern'); 'leiða' er hin bóklegri mynd"
+    }
+  ],
+  "translation": "Fagna skulu og hrópa af gleði þjóðirnar, því að þú dæmir þjóðir með mishor, og þjóðirnar á jörðinni leiðir þú. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/67\/5-8.1792410000668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "fagna skulu"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "og hrópa af gleði"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "þú dæmir"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðir"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "með mishor"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "og þjóðirnar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "leiðir þú"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:00.669499170Z",
+  "model": "glm-5.3"
+}

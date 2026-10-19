@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'maður' bætt við — hebreskan notar aðeins lýsingarorðið ערום sem nafnorð"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערום",
+      "rationale": "'kænn\/klár' — sömu stafir og 'nakinn' (ערום) í 1. Mós; orðmyndin er þó önnur og merkir slægju eða fyrirhyggju"
+    }
+  ],
+  "translation": "Kænn maður sér ógæfuna og felur sig, en hinir einföldu fara áfram og eru refsaðir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/22\/1-4.1792411546979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Kænn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sér"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ógæfuna"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "og felur sig"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "en hinir einföldu"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "fara áfram"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "og eru refsaðir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:46.980789793Z",
+  "model": "glm-5.3"
+}

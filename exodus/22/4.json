@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבער ... ובער",
+      "rationale": "sama rót tvívegis — „lætur éta ... og beitir“ — orðatiltækið speglar að sömu athöfn sé hjá manninum og dýrunum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעירה",
+      "gloss": "„búfé“ — hebreska orðið er samheiti yfir skepnur almennt, ekki ein tegund."
+    },
+    {
+      "kind": "addition",
+      "subject": "mannss",
+      "rationale": "hebreska אחר segir aðeins „annar“; „mannss“ bætt við til skýrleika."
+    }
+  ],
+  "translation": "Ef maður lætur akur eða vínegarð éta sig og sendir út ⟨את⟩ búfénað sinn og það beitir í akri annars mannss, af hinum besta hluta akurs síns og af hinum besta vínegarðs síns skal hann bæta.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/1-4.1792394747895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "lætur éta sig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "akur"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vínegarð"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "og sendir út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "búfénað sinn"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "búfénað sinn"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "og það beitir"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "í akri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "annars mannss"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "af hinum besta hluta"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "akurs síns"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "og af hinum besta"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "vínegarðs síns"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal hann bæta"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:47.897570751Z",
+  "model": "glm-5.3"
+}

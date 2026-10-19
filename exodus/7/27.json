@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Íslensk framtíðarsetning krefst þá-viðskeytis sem hebreskan vantar."
+    },
+    {
+      "kind": "you",
+      "subject": "að faraó",
+      "rationale": "Ógnun beint að faraó í öðrum persónu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "froskdýr",
+      "rationale": "צפרדעים er fleirtala; „froskar“ væri venjulegasta orðið en froskdýr heldur mynd sværmisins."
+    }
+  ],
+  "translation": "En ef þú neitar að láta þá fara, sjá, þá mun ég ljústa alla landamæri þín með froskdýrum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/7\/25-28.1792394344604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "neitar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "að láta fara"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mun ljústa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öll landamæri þín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "landamæri þín"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "með froskdýrum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:04.605163138Z",
+  "model": "glm-5.3"
+}

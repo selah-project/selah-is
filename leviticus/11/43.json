@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nearer „lífsandi, andardráttur,vera“ — „sál“ hér fyrir „sjálfa ykkar“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תטמאו \/ נטמתם",
+      "rationale": "Sama rót טמא snúið — „óhreinkið... verðið óhrein“; stigvaxandi ítök"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Bannein viðvörun beint til Ísraels í annarri persónu fleirtölu"
+    }
+  ],
+  "translation": "Makið ekki ⟨את⟩ sálum ykkar að viðbjóði með neinu skriðdýri sem skríður, og óhreinkið ykkur ekki með þeim, svo að þér verðið óhrein með þeim.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/41-44.1792395649297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "Makið að viðbjóði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálum ykkar"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "sálum ykkar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með neinu"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "skriðdýri"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sem skríður"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "óhreinkið"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "með þeim"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "og verðið óhrein"
+    },
+    {
+      "surface": "בם",
+      "gloss": "með þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:49.299066483Z",
+  "model": "glm-5.3"
+}

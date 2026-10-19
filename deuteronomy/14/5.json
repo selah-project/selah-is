@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דישן",
+      "rationale": "þetta er eina staðurinn þar sem díshon (sennilega antílópa) kemur fyrir í Tanakh; dýraheitið er óvíst og ritað eftir hljóði."
+    },
+    {
+      "kind": "crux",
+      "subject": "תאו \/ זמר",
+      "rationale": "teó og zamer eru óviss antílópu- eða fjálfétegundir; KJV hefur 'pygarg' og 'wild ox', JPS 'antelope' og 'mountain-sheep' — hljóðmynd hebreskunnar er höfð."
+    }
+  ],
+  "translation": "hjörtur og gasella og dádýr, steingeit og díshon og teó og zamer.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/14\/5-8.1792398006663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "hjörtur"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "og gasella"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "og dádýr"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "og steingeit"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "og díshon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "og teó"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "og zamer"
+    }
+  ],
+  "timestamp": "2026-10-19T08:20:06.664376291Z",
+  "model": "glm-5.3"
+}

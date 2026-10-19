@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 41:27",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראשון לציון",
+      "rationale": "Orðröðin er víðlesin: „Fyrsti [til að segja] til Síon“ — JPS les hana öðruvísi („boðanda gef ég Síon“), KJV\/ASV með ónefndum falaráðanda."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin „að segja“ er ekki í hebreskunni; orðið „er ég“ bætt við til að gera setninguna skiljanlega."
+    }
+  ],
+  "translation": "Fyrsti ⟨er ég⟩ til að segja Síon: Sjá, sjá þá; og Jerúsjalajím gef ég boðanda gleðifréttar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/25-28.1792404645720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשון",
+      "gloss": "Fyrsti"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "til Síon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "sjá þá"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "og Jerúsjalajím"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "boðanda gleðifréttar"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "gef ég"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:45.721655337Z",
+  "model": "glm-5.3"
+}

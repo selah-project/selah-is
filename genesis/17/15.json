@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Avraham",
+      "rationale": "Elóhím talar beint til Avrahams og segir honum nýtt nafn konu hans."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרי\/שרה",
+      "rationale": "Nafnbreytingin er einungis staf — úr -ai í -ah; hreyfingin sem tapast að hluta í hljóðritun."
+    }
+  ],
+  "translation": "Og Elóhím sagði við Avraham: Sarai, kona þín — ekki skal þú kalla ⟨את⟩ nafn hennar Sarai, heldur er Sarah nafn hennar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/17\/13-16.1792392921600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "kona þín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "skal þú kalla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn hennar"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nafn hennar"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nafn hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T06:55:21.601972004Z",
+  "model": "glm-5.3"
+}

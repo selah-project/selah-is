@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenzka krefst tíðarháttar „var“ (sem var undir \/ sem var ofan); hebreskan notar aðeins athugasemdarsnúð"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין … ובין",
+      "rationale": "stefið „á milli … og á milli“ endurtekur orðið בין tvisvar eins og hebreskan"
+    }
+  ],
+  "translation": "Og Elóhím gjörði ⟨את⟩ tökvina, og skilði á milli vatnsins sem var undir tökvina og á milli vatnsins sem var ofan tökvina; og það varð svo.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/5-8.1792392599425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjörði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tökvina"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "tökvina"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "skilði"
+    },
+    {
+      "surface": "בין",
+      "gloss": "á milli"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnsins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "tökvina"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og á milli"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnsins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ofan"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "tökvina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og það varð"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:59.428394653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יחל",
+      "rationale": "Pual-myndin af חלל ('vansælast\/vanhelgast') kemur aðeins fyrir hér í Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'nafn mitt' bætt við — hebreskan létt óbreyttan þolanda, KJV\/ASV bæta einnig 'my name' við"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Tvítekið למעני למעני — endurtekningin undirstrikar að Jahve breytir aðeins vegna sjálfs síns"
+    }
+  ],
+  "translation": "Vegna mín, vegna míns mun ég gjöra, því hvernig mundi ⟨nafn mitt⟩ vanhelgast? Og dýrð mína mun ég ekki gefa öðrum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/48\/9-12.1792404688566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "vegna mín"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "vegna míns"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mun ég gjöra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hvernig"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "mundi vanhelgast"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "og dýrð mín"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mun ég gefa"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:28.567077961Z",
+  "model": "glm-5.3"
+}

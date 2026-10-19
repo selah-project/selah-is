@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רדה merkir bókstaflega 'troða niður, leggja undir' — 'stjórna' er mýkt fyrir myndina af að troða fæti á."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ים ... ים",
+      "rationale": "'Frá hafi til hafs' — sami stofn endurtekinn; endasamband sem merkir heim allan."
+    }
+  ],
+  "translation": "Og hann mun stjórna frá hafi til hafs, og frá ánni að endimörkum jarðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/72\/5-8.1792410124351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "og mun stjórna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "frá hafi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hafs"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "og frá ánni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "að"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "endimörkum"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:04.353265975Z",
+  "model": "glm-5.3"
+}

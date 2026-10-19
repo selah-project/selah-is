@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 7:16",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פלטו\/פליטיהם",
+      "rationale": "Sömu rót tvítekin: 'sleppa' og 'flóttamenn' — innri rím í hebresku."
+    },
+    {
+      "kind": "crux",
+      "subject": "המות",
+      "rationale": "'hljóða\/kæna' — KJV 'mourning' (sorg) vs YLT 'make a noising'; dúfugælningi er myndin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גאיות",
+      "rationale": "Bókstaflega 'gorður\/djúpt dalfarðal' — endursagt 'dalfall'."
+    }
+  ],
+  "translation": "Og flóttamenn þeirra munu sleppa og verða á fjöllunum eins og dúfur dalfallanna, allir þeir með kænu, hver um sína ögu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cf9721e4dacf5dabed144d5e47944140e38dd0231524cad43881d6aa5abfc196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/7\/13-16.1792406803713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלטו",
+      "gloss": "munu sleppa"
+    },
+    {
+      "surface": "פליטיהם",
+      "gloss": "flóttamenn þeirra"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og verða"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "fjöllunum"
+    },
+    {
+      "surface": "כיוני",
+      "gloss": "eins og dúfur"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "dalfallanna"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir þeir"
+    },
+    {
+      "surface": "המות",
+      "gloss": "með kænu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvor um sig"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "sína ögu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:46:43.714360119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 7:14",
+  "book": "ezra",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögningar sem íslenska krefst en araméskan sleppir, í sviga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dat",
+      "rationale": "בדת er aramésk orðmynd af תורה — skilað sem Tóra, ekki „lögmál“ einn."
+    },
+    {
+      "kind": "you",
+      "subject": "to Esra",
+      "rationale": "Bréf konungs beinist til Esra með þú-formi."
+    }
+  ],
+  "translation": "Því að frá andliti konungsins og ræðismanna hans sjö ert þú sendur til að kanna í Júda og Jerúsjalajím eftir Tóru Els þíns, sem ⟨er⟩ í hendi þinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e176927bf031fd35e0ac726b6118fc75e9224b8839d3735e3e18d8c67dea0508",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/7\/13-16.1792413993047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "samkvæmt"
+    },
+    {
+      "surface": "די",
+      "gloss": "að"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "og sjö"
+    },
+    {
+      "surface": "יעטהי",
+      "gloss": "ræðismanna hans"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "ert þú sendur"
+    },
+    {
+      "surface": "לבקרא",
+      "gloss": "til að kanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "יהוד",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "og Jerúsjalajím"
+    },
+    {
+      "surface": "בדת",
+      "gloss": "eftir Tóru"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Els þíns"
+    },
+    {
+      "surface": "די",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "í hendi þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:46:33.048756036Z",
+  "model": "glm-5.3"
+}

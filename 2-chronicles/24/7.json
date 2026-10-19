@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בניה",
+      "gloss": "synir hennar",
+      "rationale": "KJV les 'synir Atalíu' en hebreskan segir bókstaflega 'sonum hennar brutu' — Atalía sjálf með sonum sínum."
+    },
+    {
+      "kind": "crux",
+      "subject": "פרצו",
+      "gloss": "brutu",
+      "rationale": "'Brutu' eða 'rásuðu í gegnum' — rótin þýðir að brjótast út\/í gegn; sumir þýða 'rændu'."
+    }
+  ],
+  "translation": "Því að synir Atalíu, þeirrar vondu konu, brutu ⟨את⟩ hús Elóhím, og einnig öll helgu gögn húss Jahve gerðu þeir að eign Baalanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4865c8f31af270c43530fd353ea649851153f320a1f1de8b3afedcd87abd2120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/24\/5-8.1792415742861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalíu"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "þeirrar vondu konu"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "synir"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "brutu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hús"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og einnig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "helgu gögn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gerðu þeir"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "að eign Baalanna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:15:42.862398354Z",
+  "model": "glm-5.3"
+}

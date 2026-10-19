@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ákvæðisþátturinn 'til að' er viðbót; hebreskan hefur aðeins infinitivus להאיר"
+    },
+    {
+      "kind": "measurement",
+      "subject": "creation-day structure",
+      "rationale": "fjórði skaparadagurinn heldur áfram taldaga-mynstri kaflans"
+    }
+  ],
+  "translation": "Og Elóhím gaf ⟨את⟩ þau í himinfestu himnanna, til að lýsa um jörðina.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/17-20.1792392553644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og gaf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þau",
+      "marks": "tvenn stór ljósin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "í himinfestu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "til að lýsa"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:13.647939041Z",
+  "model": "glm-5.3"
+}

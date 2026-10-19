@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקשרים",
+      "rationale": "þá er bundnir — þeir sem áttu hönd í samsærinu; myndin afbindingu týnist á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "\"að konungi\" bætt við fyrir וימליכו, sem er orsögnin 'gera konung'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם הארץ",
+      "rationale": "endurtekningin 'fólkið í landinu' í báðum málsgreinum — réttlæting lýðsins — helst í íslensku"
+    }
+  ],
+  "translation": "Og fólkið í landinu drap ⟨את⟩ alla þá sem áttu hönd í samsærinu gegn konunginum Amón, og fólkið í landinu gerði ⟨את⟩ Jósjíjahu, son hans, að konungi í stað hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f6723c5173858e445fb3d64c8378a3cdd27b1a737dbe723e96067cef908f7f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/33\/25-25.1792416085294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "drap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "í landinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla þá sem áttu hönd í samsærinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "þá sem áttu hönd í samsærinu"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amón"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "gerði ... að konungi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "í landinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósjíjahu, son hans"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jósjíjahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "son hans"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "í stað hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:21:25.295023083Z",
+  "model": "glm-5.3"
+}

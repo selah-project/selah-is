@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לפניהם („fyrir andlit þeirra“) þýtt „fyrir augum þeirra“ — hebreskan notar andlitið þar sem íslenskan notar augað."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "שמעו בקולי og הלכו בה — „hlýða rödd“ og „ganga eftir“ endurtaka hlýðnina í tveimur myndum; áherslan á öruggu hlutfallinu Tóra–rödd–ganga."
+    }
+  ],
+  "translation": "Og Jahve sagði: Af því að þeir yfirgáfu ⟨את⟩ Tóra mína, er ég setti fyrir augum þeirra, og hlýddu ekki á rödd mína og gingu ekki eftir henni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "701b3678bb719311701aff54e5be955aa73e98dd77c779cc44587485922f1345",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/9\/9-12.1792405527998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "Af því að"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "þeir yfirgáfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tóra mína"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tóra mína"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ég setti"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fyrir augum þeirra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hlýddu"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "á rödd mína"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gingu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "eftir henni"
+    }
+  ],
+  "timestamp": "2026-10-19T10:25:27.999785416Z",
+  "model": "glm-5.3"
+}

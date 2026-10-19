@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "JPS les setninguna öfugt: þjónninn réttlætir 'hinn réttláta' fyrir marga; KJV\/ASV: þjónninn réttlætir marga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש aftur sem 'lífskraftur', ekki 'sál'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'mun' bætt við — hebresk framtidarmynd berst með hjá sagninnu."
+    }
+  ],
+  "translation": "Úr erfiði lífskrafts sins mun hann sjá, mun mettast; með þekkingu sinni réttlætir réttláti þjónn minn marga, og missgerninga þeirra ber hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/53\/9-12.1792404855037.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "Úr erfiði"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lífskrafts sins"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "munist mettast"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "með þekkingu sinni"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "réttlætir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "réttláti"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjónn minn"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "marga"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "og missgerninga þeirra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "ber"
+    }
+  ],
+  "timestamp": "2026-10-19T10:14:15.038441778Z",
+  "model": "glm-5.3"
+}

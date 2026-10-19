@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח ritað eftir hljóði — vindur, andi og andardráttur í einu orði"
+    },
+    {
+      "kind": "idiom",
+      "subject": "staðurinn þekkir það ekki framar",
+      "rationale": "hebresk persónuvæðing: ' staðurinn skal þekkja hann ekki'"
+    }
+  ],
+  "translation": "Því að rúakh fer yfir það og það er ekki lengur, og staðurinn þekkir það ekki framar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/13-16.1792410515631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "fer yfir"
+    },
+    {
+      "surface": "בו",
+      "gloss": "það"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "og það er ekki lengur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "þekkir það"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "framar"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "staðurinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:35.632126909Z",
+  "model": "glm-5.3"
+}

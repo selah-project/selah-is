@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er ritað eftir hljóði — vindur, andi og andardráttur í einni rót, ekki aðeins 'vindur'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kistan",
+      "rationale": "תבה er 'kista' eða 'box', ekki 'skip'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את sem forsetningin 'með' — merkt ⟨את⟩ en ekki beint hljóðfall í íslensku."
+    }
+  ],
+  "translation": "Og Elóhím minntist ⟨את⟩ Nóakh og ⟨את⟩ alls livandi dýrs og ⟨את⟩ alls búfésins sem ⟨את⟩ með honum var í kistunni; og Elóhím lét rúakh fara yfir jörðina, og vötnin viku.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/1-4.1792392698961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "minntist"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nóakh"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nóakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alls livandi dýrs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "livandi dýrs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alls búfésins"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "búfésins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "með honum ⟨את⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "í kistunni"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "lét fara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "viku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vötnin"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:38.962244985Z",
+  "model": "glm-5.3"
+}

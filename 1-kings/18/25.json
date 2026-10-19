@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 18:25",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Skjöldurin 'skuluð þér' er íslensk hjálparsmynd sem hebreskan framkvæmdir eingöngu með sagnfyrirsögn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guð ykkar",
+      "rationale": "אלהיכם um guð Baals er ritað með litlum staf 'guð', ekki Elóhím, því að það er guð þjóðarinnar."
+    }
+  ],
+  "translation": "Og Elía sagði við spámenn Baals: Kjósið ykkur naut hitt eina og gjörið fyrst, því að þér eruð margir, og kallið á nafn guðs ykkar, en eld skuluð þér ekki setja.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e6682e760f10a58bca14e17203317927fd8fade6e22f517e67ddb7d7621bfceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/18\/25-28.1792402716879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og Elía sagði"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elía"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "við spámenn"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baals"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "Kjósið"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "naut"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hitt eina"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "og gjörið"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "fyrst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "eruð margir"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "og kallið"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "á nafn"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "guðs ykkar"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "en eld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "skuluð setja"
+    }
+  ],
+  "timestamp": "2026-10-19T09:38:36.880248892Z",
+  "model": "glm-5.3"
+}

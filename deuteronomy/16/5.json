@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שעריך er bókstaflega 'hliða þinna', þýtt sem 'í hafnarþorpi þínu' eins og samtíma þýðingar gera"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Táknorðið 'því' bætt við fyrir אשר til að tengja setninguna á íslensku"
+    }
+  ],
+  "translation": "Þú mátt ekki slátra pésak-fœrninni ⟨את⟩ í neinu hafnarþorpi þínu, því Jahve Elóhím þinn gefur þér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/16\/5-8.1792397987859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "þú mátt"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "slátra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pésak-fœrninni"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pésak-fœrninni"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "í neinu"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "hafnarþorpi þínu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T08:19:47.860048915Z",
+  "model": "glm-5.3"
+}

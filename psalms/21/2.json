@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישמח\/יגיל",
+      "rationale": "Tvö ólik glæðisorð í paraðri ljóðlínu; íslenskan notar fegnast\/fagna til að halda muninum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאד",
+      "gloss": "upphrópunarmörk",
+      "rationale": "מאד 'mjög, ötuliga' fellur inn í upphrópunina; glósan merkir verknöfnuna"
+    }
+  ],
+  "translation": "Jahve, í styrk þínum fegnist konungur, og í frelsun þinni — hversu mun hann fagna!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/21\/1-4.1792409467843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "í styrk þínum"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "fegnist"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "og í frelsun þinni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hversu"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "mun hann fagna"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "!"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:07.844294741Z",
+  "model": "glm-5.3"
+}

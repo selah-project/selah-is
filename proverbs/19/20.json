@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Beint boð til lesandans: Heyr ráð og tak við aga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באחריתך",
+      "rationale": "Bókstaflega 'í enda þínum' — ævilok eða ævidagar; 'á efstu dögum þínum' heldur myndinni."
+    }
+  ],
+  "translation": "Heyr ráð og tak við aga, til þess að þú verðir vitur á efstu dögum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/19\/17-20.1792411504891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Heyr"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ráð"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "og tak við"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "aga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "þú verðir vitur"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "á efstu dögum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:04.892031466Z",
+  "model": "glm-5.3"
+}

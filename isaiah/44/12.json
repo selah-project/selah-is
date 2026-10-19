@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 44:12",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרש ברזל מעצד",
+      "rationale": "Lestur: „smiðurinn [vinnur] járn með öxi“ (ylt) eða „smið járn-öxarinnar“ — KJS „með töngunum“; sambinding atviksmyndar er umdeild."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויעף",
+      "rationale": "Orðið er að þreytast úr fluglagni — myndin af fuglinum sem fellur af þreytu glatarst í „verður þreyttur“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפעלהו … ויעף",
+      "rationale": "Sömu stafir í יפעל (gerir) og יעף (þreytist): guðsmiðurinn verkar og verkinn vitnar sig — óþýðanlegt orðleikur."
+    }
+  ],
+  "translation": "Smiður járnar ⟨með⟩ öxi og vinnur við kolin, og með sleggjum mótar hann það; og hann gerir það með armlegg krafts síns — jafnvel svangur og án máttar; hann drekkur ekki vatn og verður þreyttur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "568802be28bbe9a40bc47a03890735dc4eade70cf24bd44470cb9a3a3cdc4a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/44\/9-12.1792404690608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "smiður"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "járnar"
+    },
+    {
+      "surface": "מעצד",
+      "gloss": "öxi"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "og vinnur"
+    },
+    {
+      "surface": "בפחם",
+      "gloss": "við kolin"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "og með sleggjum"
+    },
+    {
+      "surface": "יצרהו",
+      "gloss": "mótar hann það"
+    },
+    {
+      "surface": "ויפעלהו",
+      "gloss": "og hann gerir það"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "með armlegg"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "krafts síns"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jafnvel"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "svangur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og án"
+    },
+    {
+      "surface": "כח",
+      "gloss": "máttar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drekkur"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "וייעף",
+      "gloss": "verður þreyttur"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:30.609287629Z",
+  "model": "glm-5.3"
+}

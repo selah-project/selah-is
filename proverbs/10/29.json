@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur enga sagnir; íslenskan bætir við 'er' í báðum liðum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לתם",
+      "rationale": "Orðið merkir 'heilleika, fullkomnun' — hér rutt sem 'saklausa' (siðferðileg merking)."
+    }
+  ],
+  "translation": "Veginn Jahve er vígi fyrir saklausa, en hrun fyrir gerðarmenn íllsku.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ca03a8feeef7ae496d86cc0c3560d14f4e5ecd8d2455c1a7a8145c7eaf011ab5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/10\/29-32.1792411303412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "vígi"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "saklausa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vegur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "hrun"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "gerðarmenn"
+    },
+    {
+      "surface": "און",
+      "gloss": "íllsku"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:43.413041610Z",
+  "model": "glm-5.3"
+}

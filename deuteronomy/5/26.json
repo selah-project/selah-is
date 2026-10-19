@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sá",
+      "rationale": "aftengd spurningarsetning á íslensku þarf tengiorð sem hebreska samsetningin מי...אשר ber innbyrðis"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "tengiorðið fellur niður í íslenskri spurningargerð"
+    }
+  ],
+  "translation": "Því að hver ⟨sá⟩ af öllu holdi heyrði rödd lifandi Elóhím tala úr miðjunni af eldinum, eins og vér, og lifði?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d762a56b61737f74e76d63905a84f0ecd1638d7fe2bead7c661b50d10b77b28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/5\/25-28.1792397718653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af öllu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "holdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lifandi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tala"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "úr miðjunni af"
+    },
+    {
+      "surface": "האש",
+      "gloss": "eldinum"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "eins og vér"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "og lifði"
+    }
+  ],
+  "timestamp": "2026-10-19T08:15:18.654181850Z",
+  "model": "glm-5.3"
+}

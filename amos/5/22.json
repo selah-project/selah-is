@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "amos 5:22",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מנחה hér er matfórn, ekki 'minkha' — gjöfinni er hafnað, ekki skattur"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þær og 'á honda' — íslenskan þarf þolfall andstæðings sem hebreskan fléttar í sagnirnar"
+    }
+  ],
+  "translation": "Þótt þér færið mér upp brennifórnir og matgjafir ykkar, eigi mun ég þær sækjast við, og þakkarfórn alikálfa ykkar eigi mun ég á honda.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d5eaed421cdd709104698850b82996d13217bc65fe642a6efecda9189b37aa96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/5\/21-24.1792408408646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Þótt"
+    },
+    {
+      "surface": "אם",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "þér færið upp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "brennifórnir"
+    },
+    {
+      "surface": "ומנחתיכם",
+      "gloss": "og matgjafir ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mun ég þær sækjast við"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "og þakkarfórn"
+    },
+    {
+      "surface": "מריאיכם",
+      "gloss": "alikálfa ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "mun ég á honda"
+    }
+  ],
+  "timestamp": "2026-10-19T11:13:28.647496989Z",
+  "model": "glm-5.3"
+}

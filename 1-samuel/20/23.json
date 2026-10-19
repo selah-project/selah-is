@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan segir aðeins 'Jahve á milli mín og þín' — sagnliður bætt við."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דברנו",
+      "rationale": "Sömu rót tvívegis: 'málið sem við tölum' — orð og efni eru eitt."
+    }
+  ],
+  "translation": "Og hvað málið snýr að, sem ég og þú höfum talað — sjá, Jahve ⟨er⟩ á milli mín og þín, að eilífu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/20\/21-24.1792400668813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "Og málið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "höfum talað"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "á milli mín"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "og þín"
+    },
+    {
+      "surface": "עד",
+      "gloss": "að"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:04:28.816629536Z",
+  "model": "glm-5.3"
+}

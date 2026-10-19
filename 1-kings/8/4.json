@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "אתם er fornafnið „þau“ (andlag sögnarinnar), ekki venjulegt את-mark; gæti líka lesið sem את + ם"
+    }
+  ],
+  "translation": "Og þeir fluttu upp ⟨את⟩ örk Jahve og ⟨את⟩ samfundatjaldið og ⟨את⟩ öll helgitég hn sem voru í tjaldinu; og prestarnir og levítarnir fluttu ⟨את⟩ þau upp.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d4f6c78c3efa6e5588a26194cd13d66b9349a06709dd0a0ab109b05517d5f108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/1-4.1792402180990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "fluttu upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örk Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "örk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "samfundatjaldið"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjald"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "samfundar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "öll helgitégin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "helgitégin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgi-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "í tjaldinu"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "fluttu upp"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "örkina, tjaldið og tækin — þau"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og levítarnir"
+    }
+  ],
+  "timestamp": "2026-10-19T09:29:40.992282489Z",
+  "model": "glm-5.3"
+}

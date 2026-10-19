@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guði",
+      "rationale": "אלהיהם um líkneski Filista er ritað með litlum staf — guðir þjóðanna, ekki Elóhím."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאמר דויד",
+      "rationale": "Orðrétt 'og Davíð sagði'; KJV\/ASV lesa 'gaf skipun' — tómir setningarskautin gefa tilefni, en hebreskan segir aðeins 'sagði'."
+    }
+  ],
+  "translation": "Og þeir skildu eftir þar ⟨את⟩ guði sína, og Davíð bauð, og þeir voru brennd í eldi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f5152e0182668c46a733286843579704ca1972295636f3d7003dc8295cca337a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/14\/9-12.1792414739965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Og þeir skildu eftir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guði sína"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guði sína"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og bauð"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "og þeir voru brennd"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eldi"
+    }
+  ],
+  "timestamp": "2026-10-19T12:58:59.967161984Z",
+  "model": "glm-5.3"
+}

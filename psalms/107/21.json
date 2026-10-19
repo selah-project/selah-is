@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "óskarháttur — „megu þeir“ er notað til að gefa jussívinn til kynna á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lofa",
+      "rationale": "יודו er frá ידה, að „kasta“ hönd — verknaðurinn varðveitt sem lofa"
+    }
+  ],
+  "translation": "Megu þeir lofa Jahve fyrir khesed hans og undraverk hans fyrir sonum manna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "32b3bdf2ef70ff9323cc2b8bb60a56545d3f518e1d08e8a3fe1e66c14c6b3938",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/21-24.1792410650533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "megu þeir lofa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "og undraverk hans"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fyrir sonum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:50.534161487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbúturinn ⟨var⟩ er settur inn; hebreskan segir bara nafn og titil."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגיד",
+      "rationale": "'höfðingi' fyrir nágíd — orðið er fremsti maður, leiðtogi, ekki konunglegur ('ríkisstjóri')."
+    }
+  ],
+  "translation": "Og Sjevúel, sonur Gersjoms, sonar Mósje, ⟨var⟩ höfðingi yfir fjárhúsunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2d2de21469c519f142704979ab883ba00839c62243d8a8c5d1f9735bd600e78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/26\/21-24.1792415074026.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "Og Sjevúel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Gersjoms"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "höfðingi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "fjárhúsunum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:04:34.027435465Z",
+  "model": "glm-5.3"
+}

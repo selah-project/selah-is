@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Í-Kavód",
+      "rationale": "Nafnið er sjálft orðskýring: אִי (fjarri) + כָבוֹד (sigur\/þungi) — „fjarri er sigurinn“ — og þýðingin segir sömu orð strax á eftir nafninu."
+    },
+    {
+      "kind": "crux",
+      "subject": "כבוד",
+      "rationale": "„Sigur\/þungi\/hjá“ — samt sem áður er „sigur“ hið venjulega lesmál; orðið merkir eiginlega þunga og gljáa."
+    },
+    {
+      "kind": "addition",
+      "subject": "því",
+      "rationale": "Hebreska setningin segir aðeins „til þess að“ — „tekinn var arkurinn“ — en íslenskan krefst tengingar orða."
+    }
+  ],
+  "translation": "Og hún kallaði sveininn Í-Kavód og sagði: Fjarri er sigrið frá Ísrael — tekinn var arks Elóhím, og tengdafaðir hennar og maður hennar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "26ad8c9af735c88c013d8c8fa56c2e603aab2aa4da8e09f75da8de37ae35ec8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/4\/21-22.1792400212796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Og hún kallaði"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "sveininn"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Í-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kavód"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "Fjarri er"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sigrið"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "frá Ísrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— ⟨því⟩"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "tekinn var"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arks"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ⟨því⟩"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "tengdafaðir hennar"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "og maður hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:56:52.797218362Z",
+  "model": "glm-5.3"
+}

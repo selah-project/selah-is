@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífgæfa, andardráttur og verandi — 'sál' er íslensk venja en ekki full mynd hebreskunnar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bera vitni",
+      "rationale": "יענה er bókstaflega 'svara'; hér í lögfræðilegu samhengi: bera vitni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Hver sá sem' og 'hún' bætt við til skýrleika; hebreskan segir stutt 'hver slær sál'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "einn vitni",
+      "rationale": "Lögin telja vitna: tveir eða fleiri gilda, einn ekki — lágmarkstala vitna."
+    }
+  ],
+  "translation": "Hver sá sem slær sál, að munni vitna skal myrða ⟨את⟩ manndráparann; en einn vitni skal ekki bera vitni gegn sál til að hún deyi.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/35\/29-32.1792397485657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slær"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sál"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "að munni"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vitna"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "skal myrða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manndráparann"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "manndráparann"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en vitni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "skal bera vitni"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "gegn sál"
+    },
+    {
+      "surface": "למות",
+      "gloss": "til að hún deyi"
+    }
+  ],
+  "timestamp": "2026-10-19T08:11:25.657911998Z",
+  "model": "glm-5.3"
+}

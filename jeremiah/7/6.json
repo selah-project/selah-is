@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 7:6",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Þverbundin áttun: skilyrðing hins leiðuga Jahve til fólksins í Jerúsalem, í öðru persóni fleirtölu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "útlendingur",
+      "rationale": "גר er 'gestur\/landamaður' — sá sem dvelst meðal Ísraelsmanna en tilheyrir ekki þjóðinni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ... אל",
+      "rationale": "Tvö neitunarorð í sömu verslínunni, לא og אל, skapa hrynjandi stöðugleika sem fellur brott á íslensku."
+    }
+  ],
+  "translation": "Útlendinginn, faðirlausan og ekkjuna skuluð þér ekki kúga, og saklaust blóð skuluð þér ekki úthella á þessum stað, og eftir öðrum guðum skuluð þér ekki ganga, ⟨það⟩ er yður til ills.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc0d60393ad49d18a7b45fa93d530229dd4903eda52fee8d9b3b794ae2c9b4ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/7\/6-7.1792416787563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Útlendinginn"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "faðirlausan"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "og ekkjuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "skuluð kúga"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "og blóð"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "saklaust"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשפכו",
+      "gloss": "skuluð úthella"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "á stað"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessum"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "og eftir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "skuluð ganga"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "til ills"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:33:07.564278731Z",
+  "model": "glm-5.3"
+}

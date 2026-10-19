@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם ×3",
+      "rationale": "„Einnig“ endurtekið þrisvar — Paró gefur eftir í þrem skrefum: fé, brottför, blessun."
+    },
+    {
+      "kind": "crux",
+      "subject": "וברכתם",
+      "rationale": "Orðið ברך getur líka þýtt „blessa“ og „biðja fyrir“; sumir telja jafnvel hálfgert „vertu mér hlyðinn“ — hér er „blessið“ valin bókstæflega."
+    }
+  ],
+  "translation": "Einnig sauðfé ykkar, einnig nautgripi ykkar, takið, eins og þér hafið talað, og farið — og blessið ⟨את⟩ mig einnig.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/29-32.1792394471385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Einnig"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "sauðfé ykkar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "nautgripi ykkar"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "takið"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "þér hafið talað"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "og farið"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "og blessið"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig (Paró)"
+    }
+  ],
+  "timestamp": "2026-10-19T07:21:11.387452419Z",
+  "model": "glm-5.3"
+}

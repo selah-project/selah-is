@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'við þá' er bætt við — hebreskan segir aðeins 'og hann sagði' án viðtakanda."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'með' í 'Friður ⟨með⟩ komu þinni' — hebreska heilskiptið שלום בואך er 'friður komu þinni', nafnsetning án samskipta."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Öldungarnir í Bet-Lekhem ganga Sjmúeli á móti með ótta og spyrja hann beint um friðinn."
+    }
+  ],
+  "translation": "Og Sjmúel gjörði ⟨את⟩ það sem Jahve hafði talað, og hann kom til Bet-Lekhem, og öldungar bæjarins skulfu við að hitta hann, og hann sagði við þá: Friður ⟨með⟩ komu þinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/16\/1-4.1792400611892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjörði"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjmúel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það sem Jahve hafði talað"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hafði talað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og hann kom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "skulfu"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "öldungar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bæjarins"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "við að hitta hann"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Friður"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "komu þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:03:31.894729506Z",
+  "model": "glm-5.3"
+}

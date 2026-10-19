@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨það⟩ bætt við — hebresku yfirfallsmyndina 'sér' skortir andlag."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "רשע\/רשעים og תאות\/תאבד — endursagður stofn, rof í hljóðlífinu glatast að hluta."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lokav-versið speglar hinn rangláta gegn réttláta úr versi 9 — andstæðan sem ramma psálmins."
+    }
+  ],
+  "translation": "Hinn rangláti sér ⟨það⟩ og gramur; tennurnar gnamrar hann og bráðnar; girnd ranglátra mun farast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/112\/9-10.1792410668070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Hinn rangláti"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sér"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "og gramur"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tennurnar"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "gnamrar hann"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "og bráðnar"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "girnd"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ranglátra"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mun farast"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:08.071563454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 8:34",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur enga sagnar; orðatiltækið אשרי er hróp án sagnar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום יום",
+      "rationale": "Tvítekin orð — 'dag dag' — gefa íslensku 'dag eftir dag', en tvennin sjálf hverfur."
+    }
+  ],
+  "translation": "Sæll ⟨er⟩ sá maður sem hlýðir mér, sem vekur við dyr mínar dag dag eftir degi, til að gæta dyrastafanna við inngang minn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8cc56c21299aba6ea5c86e45f113c42bf0fce5c2d6d534b0979a02b4ae1051a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/8\/33-36.1792411252169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sæll"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sá maður"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sem hlýðir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לשקד",
+      "gloss": "sem vekur"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "דלתתי",
+      "gloss": "dyr mínar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag eftir degi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "til að gæta"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "dyrstafanna"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "inngang minn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:52.169915801Z",
+  "model": "glm-5.3"
+}

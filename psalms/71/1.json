@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beðið beint til Jahve, vitninn talar til Guðs"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf hjálparsagn í þýðingu á lið þáttarins, hebreskan hefur ekki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "blygðast",
+      "rationale": "בוש er að verða fölr\/feiminn — skömm, íslenskan notar blygðun"
+    }
+  ],
+  "translation": "Í þér, Jahve, hef ég leitað skjóls; má ég aldrei blygðast til eilífar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/71\/1-4.1792410076772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Í þér"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "hef ég leitað skjóls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "má ég ekki"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "blygðast"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til eilífar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:16.773233708Z",
+  "model": "glm-5.3"
+}

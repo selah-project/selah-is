@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 22:12",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þetta",
+      "rationale": "Hebreskan hefur aðeins 'og heyrðu' — andlag bætt við á íslensku"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לעלות...לצבא",
+      "rationale": "'Að fara upp...til hers' — 'fara upp' er fastyrðing um herferð í hebresku"
+    }
+  ],
+  "translation": "Og þegar synir Ísraels heyrðu þetta, söfnuðust allar söfnuðir synja Ísraels saman í Sjíló til að fara á hendur þeim í herferð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0fe005bd6873b371722a267d59c5167fc5781f73a3d271d1c00111d3c8fc9dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/22\/9-12.1792399325307.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Og heyrðu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "söfnuðust saman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "söfnuður"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "í Sjíló"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "til að fará upp"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "á hendur þeim"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "í herferð"
+    }
+  ],
+  "timestamp": "2026-10-19T08:42:05.308922745Z",
+  "model": "glm-5.3"
+}

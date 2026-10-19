@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "'heldur' — Hebreska segir 'ki' (að), en samhengið er andstæða: ekki deyja, heldur lifa."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Yfirlýsing súttarhoffsins, talin sem tjáning þakklætis þjóðarinnar."
+    }
+  ],
+  "translation": "Ekki skal ég deyja, heldur lifa, og segja frá verkum Ja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/118\/17-20.1792410760902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "skal ég deyja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "lifa"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "og segja frá"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "verkum"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:40.902950216Z",
+  "model": "glm-5.3"
+}

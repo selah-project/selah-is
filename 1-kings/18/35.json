@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hann' bætt við — hebreskan hefur enga sögn í aðalsetningunni, málmyndin 'fylldi' fer með ónefndum geranda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "התעלה er grafa\/rás; 'gröf' valin yfir 'skuð'"
+    }
+  ],
+  "translation": "Og vatnið rann kringum altarið, og ⟨את⟩ gröfinni fylldi hann líka með vatni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/18\/33-36.1792402616617.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "rann"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnið"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kringum"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "líka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gröfinni"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "gröfinni"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fylldi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "með vatni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:36:56.618640931Z",
+  "model": "glm-5.3"
+}

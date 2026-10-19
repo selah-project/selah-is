@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf hjálparsagnir ('skaltu hlýða') sem hebreskan segir með ópersónulegri skipun 'hlýð'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Saul",
+      "rationale": "Sámúel beinist beint að Sáúl með tilskipunina 'hlýððu rödd orða Jahve'"
+    }
+  ],
+  "translation": "Og Sámúel sagði við Sáúl: Mig ⟨את⟩ sendi Jahve til að smurða þig til konungs yfir lýð hans, yfir Ísrael, og nú skaltu hlýða á rödd orða Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/1-4.1792400577294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og-sagði"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sámúel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sáúl"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "mig ⟨את⟩",
+      "marks": "Mig — sendi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "til-að-smurða-þig"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til-konungs"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lýð-hans"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og-nú"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hlýða"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "á-rödd"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orða"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:57.295190455Z",
+  "model": "glm-5.3"
+}

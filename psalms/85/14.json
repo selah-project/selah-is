@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "KJV les „setja okkur í veg fótspora hans“ (með viðbættum fornöfnum); JPS\/ASV lesa að tsedek geri fótsporin að vegi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פעמיו er bókstaflega „skref\/högg hans“, gefið sem „fótspor“"
+    }
+  ],
+  "translation": "Tsedek gengur fyrir andliti hans og gerir fótspor sín að vegi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/85\/13-14.1792410319070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir andliti hans"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og gerir"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "að vegi"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "fótspor sín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:19.071408774Z",
+  "model": "glm-5.3"
+}

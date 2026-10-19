@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aðskilnaðarsvæði",
+      "rationale": "הגזרה er 'það sem er skorið út' — hið aðskilda svæði; KJV 'separate place'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "musterísmælingar",
+      "rationale": "Staðsetning herbergjanna skýrð með mælingum og áttum"
+    }
+  ],
+  "translation": "Á breidd veggjar húsagarðsins, vegur að austri, gagnvart aðskilnaðarsvæðinu og gagnvart byggingunni — herbergi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5777e8551d22f600cc5b2629594a64f84dbbd8935ee4c52bcf01828cf0b1d571",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/42\/9-12.1792407808398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "Á breidd"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "veggjar"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "húsagarðsins"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vegur"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "að austri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "aðskilnaðarsvæðinu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og að"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "byggingunni"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "herbergi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:03:28.399874930Z",
+  "model": "glm-5.3"
+}

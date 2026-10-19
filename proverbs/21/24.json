@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זד\/זדון",
+      "rationale": "sama rót זיד í upphafi og enda verss — 'hrokafullur…ofbeldi' heldur ekki í samhljóða í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ofbeldi",
+      "rationale": "זדון er 'þrjósk hroki, ofstopi' — hér reynt að halda skyldleika við זד"
+    }
+  ],
+  "translation": "Hrokafullur og upphátt glettinn — það er nafn hans — sá sem gjörar í geðs æði ofbeldi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/21\/21-24.1792411464380.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "Hrokafullur"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "og upphátt"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "glettinn"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "sá sem gjörar"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "í geðs æði"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ofbeldi"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:24.381452245Z",
+  "model": "glm-5.3"
+}

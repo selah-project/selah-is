@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 54:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נשבעתי er 'svarið eg' (sver við sjöfeldum); 'sver' heldur ekki mynd sjöfelda"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקצף\/ומגער",
+      "rationale": "tvö orð um reiði og áminnun í samstöðu, kíasm myndast í 'עליך\/בך'"
+    }
+  ],
+  "translation": "Því að sem vötn Noachs er þetta fyrir mig — svarið eg því að vötn Noaks skulu ekki aftur fara yfir jörðina — svoruðum eg því að ekki skuli ég reiðast þér og ekki áminna þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b119c6431051b02e1ac2863b70b1d9a0e8f4dddb0bdfe5efd40691395e95d655",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/54\/9-12.1792404835777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vötn"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaks"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "svarið eg"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "fara yfir"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vötn"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaks"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aftur"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svoruðum eg"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "því að ekki skuli ég"
+    },
+    {
+      "surface": "מקצף",
+      "gloss": "reiðast"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ומגער",
+      "gloss": "og áminna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "þig"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:55.778231208Z",
+  "model": "glm-5.3"
+}

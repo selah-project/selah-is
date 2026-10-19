@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tuttugu siklur á dag",
+      "rationale": "Ration weighed by shekels — about 220 grams, famine portion."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska hefur ekki sögn í aðalsetningunni; íslenska þarf 'skal vera'."
+    }
+  ],
+  "translation": "Og fæði þín, sem þú etur, skal vera ⟨er⟩ í vigt, tuttugu siklur á dag — frá tíma til tíma skalt þú éta hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "68bd07354b3da894aa07455ecb1e1e28f515dd6611bde1ce205b3aed1fa3a727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/4\/9-12.1792406787396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "Og fæði þín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "þú etur"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "í vigt"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikla"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "á dag"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "frá tíma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tíma"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "skalt þú éta hana"
+    }
+  ],
+  "timestamp": "2026-10-19T10:46:27.397011794Z",
+  "model": "glm-5.3"
+}

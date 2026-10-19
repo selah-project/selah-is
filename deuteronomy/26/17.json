@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האמרת",
+      "rationale": "Sjaldgæft Hiphil af אמר: 'útkvatta\/lýsta' (KJV 'avouched') á móti 'heita\/einkunna'; sambýlingarsáttmáli — Ísrael segir Jahve að Elóhím sínum."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Beint talað til Ísraels í samnýtingarsáttmálanum við Móse."
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "rationale": "Hebreska persónuviðskiptið 'fyrir þig' tekið inn í 'þér' á íslensku."
+    }
+  ],
+  "translation": "Jahve hefur þú útkvatt ⟨את⟩ í dag, að vera þér að Elóhím og að ganga í vegum hans og að gæta ákvæða hans og boða hans og dóma hans, og að hlýða á rödd hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cf6b3f9646d291ccfc80b1051ac25a330f3281f7744b92bf839d189f61d679ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/26\/17-19.1792398273748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "hefur þú útkvatt"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í dag"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "að vera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "að Elóhím"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "og að ganga"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "í vegum hans"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "og að gæta"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ákvæða hans"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "og boða hans"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "og dóma hans"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "og að hlýða á"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "rödd hans"
+    }
+  ],
+  "timestamp": "2026-10-19T08:24:33.749020648Z",
+  "model": "glm-5.3"
+}

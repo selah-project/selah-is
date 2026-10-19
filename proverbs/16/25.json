@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לפני איש er tvennt: „beint manni“ eða „sýnilegur manni“; Flestþýðingar taka hið síðara."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fleirtölumyndin í „dánarvegir“ er í hebresku דרכי."
+    }
+  ],
+  "translation": "Vegur er sem réttur er sýnilegur manni, en endir hans eru dánarvegir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0cf071747af59804ffa791b5ff4fdb3e309376c98002a761a828368a35808735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/16\/25-28.1792411394324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "er"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vegur"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "réttur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sýnilegur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manni"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "endir hans"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "dánarvegir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dánar-"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:14.324780613Z",
+  "model": "glm-5.3"
+}

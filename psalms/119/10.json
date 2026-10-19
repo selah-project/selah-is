@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Bein bæn til Jahve: 'ekki lát mig villast frá boðum þínum'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "seek",
+      "rationale": "דרש tyðir 'að leita' — að fylgja eftir — og er tæknilegt orð um að leita Guðs; 'leitað þín' heldur bæði merkingunum."
+    }
+  ],
+  "translation": "Með öllu hjarta mínu hefi ég leitað þín; ekki lát þig villast — ekki lát mig villast frá boðum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/9-12.1792410803966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mínu"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "hefi ég leitað þín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "lát mig villast"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "frá boðum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:23.967371214Z",
+  "model": "glm-5.3"
+}

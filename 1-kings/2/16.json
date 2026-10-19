@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תשבי את פני",
+      "rationale": "hlutlægt: 'ekki snúa andliti mínu burt' — íslenska: 'verða ekki andliti mínu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאלה\/שאל",
+      "rationale": "sama rót tvívetnuð: 'beiðnina bið ég'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Bat-Sheva",
+      "rationale": "Adoníja biður Bat-Sjeva beint með neitun"
+    }
+  ],
+  "translation": "Og nú, eina beiðni bið ég ⟨את⟩ þig um — verða ekki ⟨את⟩ andliti mínu. Og hún sagði við hann: Talaðu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/2\/13-16.1792401917926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "beiðni"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eina"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bið"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ þig um"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "verða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andliti mínu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti mínu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hún sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Talaðu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:25:17.927617412Z",
+  "model": "glm-5.3"
+}

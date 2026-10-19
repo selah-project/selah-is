@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד er skilið sem lánt orð 'khesed' samkvæmt reglum; venjuleg þýðing 'miskunn' glatar vídd kærleika og tryggðar í einu orði"
+    },
+    {
+      "kind": "crux",
+      "subject": "רחמים",
+      "rationale": "Raðfjöldi 'líkamsorganna' (rót = móðurbrjóst); 'miskunnir' er venjuleg og góð þýðing en mynd móðurinnar glatast"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Davíð beinir bæn sinni til Elóhím í öðru persóni eintölu"
+    }
+  ],
+  "translation": "Sýn mér náð, Elóhím, samkvæmt khesed þínu; samkvæmt fjölmörgum miskunnum þínum þverrtu af uppreist mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/1-4.1792409861938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Sýn mér náð"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "samkvæmt khesed þínu"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "samkvæmt fjölmörgum"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "miskunnum þínum"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "þverrtu af"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "uppreist mína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:41.939578113Z",
+  "model": "glm-5.3"
+}

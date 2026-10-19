@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "אף merkir bókstaflega 'nef, nos' — hér myndmál um reiði; 'reiði' í stað líkamsmyndarinnar."
+    },
+    {
+      "kind": "alternative",
+      "subject": "hlutiðfalls",
+      "rationale": "Aðrar þýðingar tengja uppreisn Tsidkíaúar við reiði Jahve ('þess vegna gerði hann uppreisn') en textinn segir það ekki beint."
+    }
+  ],
+  "translation": "Því að af reiði Jahve bar þetta að í Jerúsjalajím og í Júda, þar til hann hafði varpað ⟨את⟩ þeim frá andliti sínu; og Tsidkíaú gerði uppreisn gegn konungi Babel.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ee63cec80bc7787ee7ba87ba6f8918cf90a2296d933781515bf74d13fbb3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/52\/1-4.1792406725340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "על",
+      "gloss": "af"
+    },
+    {
+      "surface": "אף",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bar þetta að"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og í Júda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "hann hafði varpað"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "frá"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "andliti sínu"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "gerði uppreisn"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkíaú"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "gegn konungi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-10-19T10:45:25.341975049Z",
+  "model": "glm-5.3"
+}

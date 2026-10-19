@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 34:15",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þeir' bætt við — hebreskan segir þáðingu án frumlags"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זנו er 'drýgja hór' — myndlíking um trúarkunnáttu við aðra guði, JPS 'go astray' sleppir myndlíkingunni"
+    }
+  ],
+  "translation": "Svo að þú gerir ekki sáttmála við íbúa landsins, og ⟨þeir⟩ drýgja hór með guðum sínum og slátra guðum sínum, og einhver kallar á þig, og þú étur af slátrun hans —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ee0715402b3258dedc41e0ed42b2c7c9aa9b1feb58c64b69706f7868f29e4bdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/34\/13-16.1792395088549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "svo að þú gerir ekki"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "gerir sáttmála"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmála"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "við íbúa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landsins"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "og ⟨þeir⟩ drýgja hór"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "með"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guðum sínum"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "og slátra"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "guðum sínum"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "og kallar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "á þig"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "og þú étur"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "af slátrun hans"
+    }
+  ],
+  "timestamp": "2026-10-19T07:31:28.550179696Z",
+  "model": "glm-5.3"
+}

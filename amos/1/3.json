@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Formúlan „fyrir þrjár ... og fyrir fjórar“ telur brot og endurtekin í Amosi — ljónþula."
+    },
+    {
+      "kind": "crux",
+      "subject": "לא אשיבנו",
+      "rationale": "„Mun ég ekki snúa því aftur“ — KJV bætir við „refsingunni“; hebreskan hefur aðeins forsögnina með viðskipti."
+    },
+    {
+      "kind": "elision",
+      "subject": "פשעי",
+      "rationale": "„Uppreisnir“ — פשע merkir uppreisn syndaverk; orðið „synd“ of þrengt."
+    }
+  ],
+  "translation": "Svo segir Jahve: Fyrir þrjár uppreisnir Damaskusar og fyrir fjórar mun ég ekki snúa því aftur, fyrir að hafa tráð ⟨את⟩ Gílead með slöðum af járni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/1\/1-4.1792408390745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Svo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "Fyrir"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "þrjár"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "uppreisnir"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskusar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og fyrir"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fjórar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "mun ég snúa því aftur"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "að hafa tráð"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "með slöðum"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "af járni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gílead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gílead"
+    }
+  ],
+  "timestamp": "2026-10-19T11:13:10.746325207Z",
+  "model": "glm-5.3"
+}

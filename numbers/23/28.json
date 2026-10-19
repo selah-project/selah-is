@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tind",
+      "rationale": "ראש er 'höfuð' — 'höfuð Peor' er myndin; 'tind' skýrir landlagið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "andlit eyðimörkinnar",
+      "rationale": "פני er 'andlit\/framhlið' — hebreskan sér eyðimörkina sem andlit sem landið snýr að."
+    }
+  ],
+  "translation": "Og Balak tók ⟨את⟩ Bíleam upp á tind Peor, þann sem sýnir yfir andlit eyðimörkinnar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c3b31df4a71248b783e76668eac1d073e098db14a578b995522147c3a6dde198",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/23\/25-28.1792397092838.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bíleam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bíleam"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "upp á tind"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "þann sem sýnir yfir"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "eyðimörkinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:04:52.840059690Z",
+  "model": "glm-5.3"
+}

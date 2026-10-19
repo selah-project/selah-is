@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„lengur“ bætt við til að gera neitunINA skýra; hebreskan segir bara „og ég er ekki“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ryk",
+      "rationale": "עפר er ryk eða mold; leggjast í rykið er mynd dauðans."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושחרתני",
+      "rationale": "שחר merkir að döggva — að leita fyrir dögun; sú mynd glatarst í „leita“."
+    },
+    {
+      "kind": "mystery",
+      "subject": "og ég er ekki",
+      "rationale": "Versið lýkur með felldu framvindu hjá Ijóbi: ekki helvíti, heldur eyða — andinn hverfur."
+    }
+  ],
+  "translation": "Og hvers vegna ber þú ekki upprétt ⟨את⟩ uppreisn mína og lætur ⟨את⟩ misgjörð mína fara hjá? Því að nú leggst ég í rykið, og þú leitar að mér — en ⟨ég⟩ er ekki lengur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "229a8f79207f463e03495fdfde791c55c65d023fdeaa083af382fa18be1ab479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/7\/21-21.1792411813216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "og hvers vegna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ber þú upprétt"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "uppreisn mína"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "og lætir fara hjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misgjörð mína"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "misgjörð mína"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "í rykið"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "leggst ég"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "og þú leitar að mér"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "er ekki lengur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:13.217581214Z",
+  "model": "glm-5.3"
+}

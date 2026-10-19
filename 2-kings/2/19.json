@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 2:19",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elísa",
+      "rationale": "Menn borgarinnar beina orðum sínum til Elísa og kalla hann 'herra minn'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משכלת",
+      "rationale": "Bókstaflega 'föðurlaus' \/ 'sem hefur misburði' — mynd þar sem jörðin 'fæður' ekki afkvæmi; 'ber ávöxt ekki' skýrir myndina."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska setningin saknar sögn við והארץ í sömu línu — 'er' er bætt við á íslensku."
+    }
+  ],
+  "translation": "Og menn borgarinnar sögðu til Elísa: Sjá, nú, staðsetning borgarinnar er góð, eins og herra minn sér, en vötnin eru slæm og jörðin er kreppu-þung ⟨og ber ávöxt ekki⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bba3e129d9afeb23961d05fe90aa1caa05ef3c15b0a12ac366cf52a21907c624",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/2\/17-20.1792402795722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og sögðu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "menn"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgarinnar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elísa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "staðsetning"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgarinnar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "er góð"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sér"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "en vötnin"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "eru slæm"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og jörðin"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "er kreppu-þung ⟨og ber ávöxt ekki⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T09:39:55.723832687Z",
+  "model": "glm-5.3"
+}

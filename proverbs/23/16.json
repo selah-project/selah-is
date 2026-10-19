@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nýrnun",
+      "rationale": "כליות (nýru) eru í hebreskri hugsun innsta mannseðli, samlægi hjarta; gamlar þýðingar segja „lendar“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב\/כליות",
+      "rationale": "v. 15 segir hjarta, v. 16 nýru — samstæða innyfli ímyndar"
+    }
+  ],
+  "translation": "Og nýrnun mín skipa upp gleði, þegar varir þínar tala það sem rétt er.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/13-16.1792411559193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "og skipa upp gleði"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "nýrnun mín"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "þegar tala"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "varir þínar"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "það sem rétt er"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:59.194503045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בתחתית er 'neðst undir' — flestar þýðingar segja 'fót fjallsins', en orðið er sömu rótar og 'djúp'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lýðurinn Israel leiddur fram úr herbúðunum til fundar við Elóhím"
+    }
+  ],
+  "translation": "Og Mósje leiddi ⟨את⟩ lýðinn til að hitta Elóhím, út ús herbúðunum, og þeir settust ⟨í⟩ stað við tind rótar fjallsins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/19\/17-20.1792394563465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Og leiddi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lýðinn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðinn"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "til að hitta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מן",
+      "gloss": "út úr"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "herbúðunum"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "og þeir settust"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "við tind rótar"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "fjallsins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:22:43.466011125Z",
+  "model": "glm-5.3"
+}

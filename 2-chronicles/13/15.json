@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sló",
+      "rationale": "נגף er að knúast, stanga, höggva — hið sama og yfirmáttarháttur flóttans í 2. Mós; 'sló' heldur höggmyndinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויריעו\/בהריע",
+      "rationale": "Endurtekning stríðsrópsins 'ómuðu … ómuðu' er lykill versins og varðveitt"
+    }
+  ],
+  "translation": "Og menn Júda ómuðu hershlátt, og þegar menn Júda ómuðu, þá sló Elóhím ⟨את⟩ Jeróvam og allan Ísrael fyrir auglit Avíja og Júda.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "40cd89af7af7c49e1179eeecfb7db93607eed353918f85d83f124c35ee587978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/13\/13-16.1792415561882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "Og ómuðu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og þegar"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "ómuðu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "sló"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeróvam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeróvam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir auglit"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avíja"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T13:12:41.883315166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק haldið óþýtt sem tsedek samkvæmt reglu D2, ekki 'réttlæti'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Náðunarmálsorð beint til tilheyðandi safnaðarins"
+    }
+  ],
+  "translation": "Slátrunið sláturförum tsedek og treystið á Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9640a672f8a26b00d7bf4a43f50b0fe8d29884629ce735095f24d1e0fff76cea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/4\/6-7.1792416913506.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Slátrunið"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sláturförum"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "og treystið"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:13.507016898Z",
+  "model": "glm-5.3"
+}

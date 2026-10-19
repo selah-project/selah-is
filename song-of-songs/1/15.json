@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Íslenska þarf samkeyrslu sem hebreskan sleppir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנך יפה",
+      "rationale": "Endurtekningin 'sjá, þú ert falleg' tvítekin — ástaróðurinn byggir á endurtökunni"
+    }
+  ],
+  "translation": "Sjá, þú ert falleg, vinkona mín; sjá, þú ert falleg; augu þín ⟨eru⟩ dúfur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/1\/13-16.1792412588203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "Sjá, þú ert"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "falleg"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "vinkona mín"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "sjá, þú ert"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "falleg"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "augu þín"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "dúfur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:08.203858280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נושקי רומי קשת",
+      "rationale": "'þeir sem kyldu\/slögnuðu boga' — frá rót שׁקק\/נשק 'vopnast'; 'kyssa' og 'bera vopn' deilast um sömu stafina; KJv 'armed and carrying bows', JPS 'as archers handling the bow'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הפכו",
+      "rationale": "'snúa við' — gjörð í orrustu, þýtt sem 'sneru baki við' á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביום",
+      "rationale": "'á degi' sett í fleirtölu 'orrustudögnum' í samræmi við sögulega þýðinguhefð."
+    }
+  ],
+  "translation": "Synir Efraíms, þeir sem drógu boga, sneru baki við á orrustudögnum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/9-12.1792410200881.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraíms"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "þeir sem drógu"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "skutu með"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boga"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "sneru baki við"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "orrustudægnum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:20.882237251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רגז er óróa\/uppnám; gamlar þýðingar segja 'vandræði' en orðið er hvellt af ótta"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Engin sagnbeyging í hebresku — 'er' og 'og er' bætast við á íslensku"
+    }
+  ],
+  "translation": "Maður, borinn af konu, stuttra daga og mettaður óeirð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/14\/1-4.1792411999801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Maður"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "borinn"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "af konu"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "stuttra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og mettaður"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "óeirð"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:19.802481596Z",
+  "model": "glm-5.3"
+}

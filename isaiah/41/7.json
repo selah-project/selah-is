@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "פעם er annars vegar 'hög' (á steðja, samkvæmt Gemaru) hins vegar 'sá sem hamrar slíkt og slíkt' — KJK les steðja úr arömunni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חרש er smiður í hvaða efni sem er; 'smiðurinn' án ákvörðunar heldur víðni orðsins"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'svo að hann' er sett inn; hebreskan segir bara לא ימוט — 'ekki hrökkvi'"
+    }
+  ],
+  "translation": "Og smiðurinn styrkti ⟨את⟩ málmsmiðinn, sá sem slétti með sleggju ⟨את⟩ hann sem hamrar hogg, og hann sagði um tenginguna: Hún er góð; og hann festi hann með nöglum, ⟨svo að hann⟩ hrökkvi ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1dc903695f7053f3f1e8b90fa48511e2e19d713141337230f5c7f827f7143126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/5-8.1792404568357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Og styrkti"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "smiðurinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "málmsmiðinn"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "málmsmiðinn"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "sá sem slétti"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "með sleggju"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hann sem hamrar hogg"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "hamrar"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "hogg"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "um tenginguna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góð"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hún er"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "og festi hann"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "með nöglum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hrökkvi"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:28.358304600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sjálóm",
+      "rationale": "שלום er haft óþýtt — það merkir heild, velgengni og frið í senn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרכיה\/דרכי",
+      "rationale": "endurtekning orðsins דרך, varðveitt í íslensku með 'vegir\/vegir'"
+    }
+  ],
+  "translation": "Vegir hennar eru vegir nægðar, og allar stígur hennar ⟨eru⟩ sjálóm.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/17-20.1792411181444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "vegir hennar"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vegir"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "nægðar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allar"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "stígur hennar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjálóm"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:41.445167368Z",
+  "model": "glm-5.3"
+}

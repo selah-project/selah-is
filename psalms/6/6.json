@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sjeól",
+      "rationale": "שאול er heiti Staðarins dauðu, ekki refsing eftir dauðann"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "reglan beinist að Jahve í spurningunni"
+    }
+  ],
+  "translation": "Því að í dauðanum er engin minning um þig; í Sjeól — hver þakkar þér?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/6\/5-8.1792409190655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "engin"
+    },
+    {
+      "surface": "במות",
+      "gloss": "í dauðanum"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "minning ⟨um þig⟩"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "í Sjeól"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "þakkar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:30.656359962Z",
+  "model": "glm-5.3"
+}

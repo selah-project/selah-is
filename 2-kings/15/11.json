@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 15:11",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "annála",
+      "rationale": "ספר דברי הימים er bók orðanna daga — 'annál' er venjuleg íslensk mynd"
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreska hefur enga sagnaruna við כתוביע — þýðingin bætir 'eru'"
+    }
+  ],
+  "translation": "Og afgangur af orðum Sekaríu — sjá, þeir eru ritaðir á bók annála konunga Ísraels.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f108304d1e7bfc981f5b1a1aee323a7a651ec9014b736040a583409c6dce1117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/15\/9-12.1792403161991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Og afgangur"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "af orðum"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Sekaríu"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "þeir eru ritaðir"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bók"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "annála"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "konunga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T09:46:01.992483274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "אחר: eigin nafn 'Akhér' eða 'annars' (JPS: 'son of another') — tvennt lesmögulegt"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnirnar 'voru' bættar við — hebreska nafnalistanum vantar sagnir"
+    }
+  ],
+  "translation": "Og Sjuppím og Kjuppím voru synir Írs; Kjúsjím voru synir Akhers.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bd9f02f896632dce40a8e82ac6afb9264757071c455df73ee8a02be6c58693d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/7\/9-12.1792414582575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Og Sjuppím"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "og Kjuppím"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Írs"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Kjúsjím"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Akhers"
+    }
+  ],
+  "timestamp": "2026-10-19T12:56:22.576927345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "'Af mér' — greinilegt í hebresku en fellur náttúrulega í íslenskri orðræðu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרי",
+      "rationale": "Endurtekning kerí frá v. 21 og aftur í v. 24 — viðbrögð Jahve spegla gjörðum Ísraels."
+    }
+  ],
+  "translation": "Og ef þér látið yður ekki tuga af þessu, heldur gangið gegn mér í óvinættu —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/21-24.1792396249350.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "af þessu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "látið yður tuga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "—"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "heldur gangið"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "í óvinættu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:50:49.351590629Z",
+  "model": "glm-5.3"
+}

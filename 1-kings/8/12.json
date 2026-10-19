@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערפל",
+      "rationale": "'þykkt myrkur' vs 'þykkt ský' — LXX les 'skýinu', hebreskan segir myrkur\/dimmu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'að hann myndi' — íslenska krefst frumlags við infinitífinn, hebreskan hefur engan"
+    }
+  ],
+  "translation": "Þá talaði Sjelómo: Jahve sagði að hann myndi búa í þykka myrkrinu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/9-12.1792402202570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "talaði"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelómo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "að búa"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "í þykka myrkrinu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:02.571873206Z",
+  "model": "glm-5.3"
+}

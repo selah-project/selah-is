@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 16:20",
+  "book": "job",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מליצי רעי",
+      "rationale": "'Spottendur mínir eru vinir mínir' (KJV) gegn 'Mínn þýðandi er vinur minn' (YLT) — rótin לוץ merkir bæði að gera grín og að þýða\/túlk"
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan sleppir sögninni; íslenskan krefst ljósletningar"
+    },
+    {
+      "kind": "elision",
+      "subject": "dropar",
+      "rationale": "דלפה er mynd um rennslu — tárin falla í dropum, en 'tár' er ekki ritað"
+    }
+  ],
+  "translation": "Spottendur mínir eru vinir mínir; til Elóa dropar auga mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dec02a82d0e9b8e9a3a8401e5f3db1ceb25f5ab05b84426a587ec3daee6cf823",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/16\/17-20.1792412057036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מליצי",
+      "gloss": "Spottendur mínir"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "vinir mínir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elóa"
+    },
+    {
+      "surface": "דלפה",
+      "gloss": "dropar"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "auga mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:14:17.037438496Z",
+  "model": "glm-5.3"
+}

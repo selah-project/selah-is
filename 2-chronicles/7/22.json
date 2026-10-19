@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 7:22",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elóhím aðrir",
+      "rationale": "'aðra guði' með litlum staf — um guði þjóðanna, ekki Elóhím."
+    },
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "Tvö orð merktu eitt — 'þess vegna' lagt yfir bæði, en tvennur fjöldi worda helst í tölum tokens."
+    }
+  ],
+  "translation": "Og þeir munu segja: Af því að þeir yfirgáfu ⟨את⟩ Jahve, Elóhím feðra sinna, er leiddi þá út úr landi Mitsrajím, ogfestu sig við aðra guði og lögðust niður fyrir þeim og þjónuðu þeim — þess vegna hefur hann fært yfir þá ⟨את⟩ allt þetta illa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e648513a69764597500a1be4d0661eca8dc208b697db0994eb5811f334379434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/7\/21-22.1792415366182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Og þeir munu segja"
+    },
+    {
+      "surface": "על",
+      "gloss": "af því að"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "þeir yfirgáfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "feðra sinna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "leiddi þá út"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "út úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "ויחזיקו",
+      "gloss": "ogfestu sig við"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "aðra guði"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "aðra"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "lögðust niður fyrir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "og þjónuðu þeim"
+    },
+    {
+      "surface": "על",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "hefur hann fært"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "yfir þá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt þetta illa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "þetta illa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T13:09:26.183461109Z",
+  "model": "glm-5.3"
+}

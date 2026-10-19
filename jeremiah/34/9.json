@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir 'bróður hans, hver mann' — íslenska setur 'sinn' í eintölu til að gera sambandið ljóst"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבד בם",
+      "rationale": "'að þjóna með þeim' — önnur lesháttur: 'að láta þá þjóna', þ.e. að nýta þá sem þræla"
+    }
+  ],
+  "translation": "Að senda hvern mann ⟨את⟩ þræl sinn og hvern mann ⟨את⟩ ambátt sína, hinn hebreska og hina hebresku, lausa, til að eigi þjóna með þeim — Júða, bróður sinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/34\/9-12.1792406156821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "að senda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvern mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þræl sinn"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "þræl sinn"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hvern mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambátt sína"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "ambátt sína"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "hinn hebreska"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "og hina hebresku"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "lausa"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "til að eigi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þjóna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "með þeim"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "Júða"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "bróður sinn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    }
+  ],
+  "timestamp": "2026-10-19T10:35:56.822031187Z",
+  "model": "glm-5.3"
+}

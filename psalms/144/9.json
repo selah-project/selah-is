@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נבל",
+      "rationale": "nabla, strengjahljóðfæri; 'neglu' heldur myndinni en ekki íslenskt heilt orð"
+    },
+    {
+      "kind": "you",
+      "subject": "Elóhím",
+      "rationale": "beint ávarp til Elóhím — lofgjörðingin til hans"
+    }
+  ],
+  "translation": "Elóhím, nýjan söng syng ég þér, á neglu-tíu-strenga ljóðharpu spila ég þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/144\/9-12.1792411058773.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "söng"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nýjan"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "syng ég"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "á neglu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tíu-strenga"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "spila ég"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:38.774681305Z",
+  "model": "glm-5.3"
+}

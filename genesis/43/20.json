@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירד ירדנו",
+      "rationale": "óendanlegt sagnmynd stytt (infinitivus absolutus) — sögnin tvítekin til áherslu; „sannarlega“ innan merkis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "„herra minn“ um mann — ekki Nafn Guðs, því D1-reglan um Adónaí beinist að Guði"
+    },
+    {
+      "kind": "you",
+      "subject": "to the steward of Joseph's house",
+      "rationale": "beint ávarp við ráðsmanninn við dyraþrep hússins"
+    }
+  ],
+  "translation": "Og þeir sögðu: Með leyfi, herra minn, niður fórum vér ⟨sannarlega⟩ niður í upphafi til að kaupa mat.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8bfaadb19cb1dd2a0f16b19a3632f1fdb933e5d6e836695ab8319008c57dda33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/17-20.1792393831367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "og sögðu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "með leyfi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "niður ⟨sannarlega⟩"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "fórum vér niður"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "í upphafi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "til að kaupa korn"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    }
+  ],
+  "timestamp": "2026-10-19T07:10:31.368173617Z",
+  "model": "glm-5.3"
+}

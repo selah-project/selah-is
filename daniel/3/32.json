@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 3:32",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתיא",
+      "rationale": "aramískt nafnorð 'merki' — ekki aleph-tav-merki (H853), þótt stafirnir séu þeirrir sömu"
+    },
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "íslenskan þarf andlag að 'boða'; hebreskan hefur aðeins ópersónulega smásögu-mynd 'að sýna'"
+    }
+  ],
+  "translation": "Merkin og undrin sem Elóa, hinn æðsti, gjörði við mig — fagurt er fyrir mér að boða ⟨þau⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "55408bb28e8f7bdbfc0d01e54c7986d85acaedbcf3c9e839ba4bc0262654dbcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/3\/29-32.1792413444948.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתיא",
+      "gloss": "Merkin"
+    },
+    {
+      "surface": "ותמהיא",
+      "gloss": "og undrin"
+    },
+    {
+      "surface": "די",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elóa"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "hinn æðsti"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "fagurt er"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "fyrir mér"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "að boða"
+    }
+  ],
+  "timestamp": "2026-10-19T12:37:24.949594901Z",
+  "model": "glm-5.3"
+}

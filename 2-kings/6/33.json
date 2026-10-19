@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 6:33",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hver talar",
+      "rationale": "ויאמר hefur ekki nafn — JPS og BSB bæta við 'konunginum', en textinn segir það ekki; sendimaðurinn ber orð konungsins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ógæfa",
+      "rationale": "הרעה er 'hið illa' — ógæfa er nálgun, orðið sjálft er 'illan'.",
+      "lang": "is"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאת יהוה \/ ליהוה",
+      "rationale": "Nafn Jahve kemur tvisvar, í ógöfunni og voninni — spurningin snýr að sama Nafni."
+    },
+    {
+      "kind": "you",
+      "subject": "spurning konungs",
+      "rationale": "Endanleg spurning snýr að Jahve: hví bíða lengur — hvatning eða örvænting."
+    }
+  ],
+  "translation": "Enn var hann að tala við þá, og sjá, sendimaðurinn kom niður til hans, og hann sagði: Sjá, þessi ógæfa er frá ⟨את⟩ Jahve — hví ætti ég að bíða eftir Jahve lengur?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5f160898a5af93b0bf3f15b7794a5834234bf79a6d19745fcdb34e22388d8fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/6\/33-33.1792402834448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "enn var hann"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "að tala"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sendimaðurinn"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kom niður"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ógæfan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "frá ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hví"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ætti ég að bíða eftir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lengur"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:34.449003712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbundið 'var' bætt við — hebreskan hefur enga sögn í fyrri setningunni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עניתי",
+      "rationale": "'var hópaður' — sögnin er Þúshálmur 'að lækka, lægja', ekki andleg hreinsun í sjálfu sér"
+    }
+  ],
+  "translation": "Gott var fyrir mig að ég var hópaður, til þess að ég lærði lögmál þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7d73ce756908b15529b62e7c3c91224c6cf0c10a86e597b520a6dc97ec710c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/69-72.1792410846834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ég var hópaður"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "að ég lærði"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "lögmál þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:06.835165877Z",
+  "model": "glm-5.3"
+}

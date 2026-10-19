@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tóra",
+      "rationale": "תורה ritað Tóra — ekki 'lögmál' eitt, því orðið merkir kennslu og vísbendingu, ekki lagasetningu eingöngu"
+    },
+    {
+      "kind": "addition",
+      "subject": "hafa",
+      "rationale": "íslenzka þarf sögn sem hebreskan sleppir í upptalningunni"
+    }
+  ],
+  "translation": "Og mörgum dögum hafa Ísraelsmenn verið án Elóhím sannleikans, án kennandi prests og án Tóru.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/15\/1-4.1792415610949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "Og dögum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mörgum"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "hafa Ísraelsmenn"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "án"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleikans"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "og án"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prests"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "kennandi"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "og án"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tóru"
+    }
+  ],
+  "timestamp": "2026-10-19T13:13:30.950986260Z",
+  "model": "glm-5.3"
+}

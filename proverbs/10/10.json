@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ילבט",
+      "rationale": " kemur aðeins fyrir hér í Tanakh; merking 'verður felldur\/sleginn' er tekin af rótinni."
+    },
+    {
+      "kind": "crux",
+      "subject": "עצבת",
+      "rationale": " 'sár' eða 'sorg' gegn 'óþökk' (Peshitta); rótin bendir til meinviða."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואויל שפתים",
+      "rationale": " orðrétt 'heimskur varra' — samsett mynd, ekki aðskilin lýsing."
+    }
+  ],
+  "translation": "Sá sem aprar auga veldur sár, en heimskur varra verður sleginn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/10\/9-12.1792411291482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "sá sem aprar"
+    },
+    {
+      "surface": "עין",
+      "gloss": "auga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "veldur"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "sár"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "en heimskur"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "varra"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "verður sleginn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:31.483063704Z",
+  "model": "glm-5.3"
+}

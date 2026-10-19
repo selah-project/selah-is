@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 34:25",
+  "book": "job",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "וידכאו er ópersónuleg; íslenskan þarf 'eru' og þolmynd"
+    },
+    {
+      "kind": "crux",
+      "subject": "והפך לילה",
+      "rationale": "'snúa nóttinni' — annað hvort breyta nóttinni í ógæfu eða styrta þeim um nótt"
+    }
+  ],
+  "translation": "Þess vegna þekkir hann gerninga þeirra, og hann snýr ⟨þeim⟩ yfir um nóttina, og þeir eru mylmdir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "49d02fb502258b9d04dee6e3b91addb9242f28ff4005e2a17b5ac4b391148848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/34\/25-28.1792412401138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "þekkir hann"
+    },
+    {
+      "surface": "מעבדיהם",
+      "gloss": "gerninga þeirra"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "og hann snýr"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yfir um nóttina"
+    },
+    {
+      "surface": "וידכאו",
+      "gloss": "og þeir eru mylmdir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:20:01.138669576Z",
+  "model": "glm-5.3"
+}

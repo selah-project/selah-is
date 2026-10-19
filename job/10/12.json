@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "khesed haldið eftir hljóði — tryggðarkærliek, ekki 'miskunn' ein."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "rúakh — andardráttur\/andi; ekki 'andi' einn samkvæmt reglu D2."
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדתך",
+      "rationale": "'varðveitan þín' — פקודה getur líka merkt 'heimsókn' eða 'eftirlit'; kontext styður gæslu."
+    }
+  ],
+  "translation": "Líf og khesed gerðir þú með mér, og varðveitan þín gætti rúakh minnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5b244dc857c8dc500384d425383971a53fb7804a31da230e00b822d82ca665e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/10\/9-12.1792411922597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Líf"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "og khesed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gerðir þú"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "með mér"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "og varðveitan þín"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "gætti"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rúakh minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:02.598837234Z",
+  "model": "glm-5.3"
+}

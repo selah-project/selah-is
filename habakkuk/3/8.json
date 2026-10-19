@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 3:8",
+  "book": "habakkuk",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan segir-nafn-orð: 'vagnar þínir frelsun'; sagnir bætt við á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישועה",
+      "rationale": "'Vagnar frelsis' (KJV, smíð) á móti 'vagnar þínir eru frelsun' (jákvæð frásögn)."
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "Versið spyr Jahve beint spurninga og snýr sér að honum í annarri persónu."
+    }
+  ],
+  "translation": "Var Jahve reiður gegn ámótunum, eða gegn ámótunum reiði þín, eða gegn hafinu heift þín, því að þú riður hestum þínum, vögnum þínum ⟨eru⟩ frelsun?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a712c69cc2b1238de8ff2dd2316f0d39f63c5a08a610543012cf9f6b69a97904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/habakkuk\/3\/5-8.1792408858518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבנהרים",
+      "gloss": "gegn ámótunum"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "reiður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "בנהרים",
+      "gloss": "gegn ámótunum"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "reiði þín"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "בים",
+      "gloss": "gegn hafinu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "heift þín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תרכב",
+      "gloss": "þú riður"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "hestum þínum"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "vögnum þínum"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "frelsun"
+    }
+  ],
+  "timestamp": "2026-10-19T11:20:58.519731164Z",
+  "model": "glm-5.3"
+}

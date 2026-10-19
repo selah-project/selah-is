@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ert",
+      "rationale": "Hebreskan sleppur sagnliðnum; íslenskan þarf ⟨ert⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רפאני\/וארפא",
+      "rationale": "Sögn og endursögn af sömu rót — gripið til í íslensku með 'lækna\/læknast'"
+    }
+  ],
+  "translation": "Lækna mig, Jahve, og ég mun læknast; hjálpa mér og ég mun hjálpaður verða, því að lofgjörð mín ⟨ert⟩ þú.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/17\/13-16.1792405759293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "Lækna mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "og ég mun læknast"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hjálpa mér"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "og ég mun hjálpaður verða"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lofgjörð mín"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:19.294569497Z",
+  "model": "glm-5.3"
+}

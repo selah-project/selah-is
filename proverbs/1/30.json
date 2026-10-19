@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נאצו er 'háðu, ógðust' — 'flá gagnvart' heldur hvatleikanum sem 'háðu' missir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצתי\/תוכחתי",
+      "rationale": "endurtekið '-תי' (mín) í v. 29–30 keyrir persónulega tögl hinnar vísdóms; fellur brot í íslensku"
+    }
+  ],
+  "translation": "Þeir vildu ekki ráðgjöf mína, þeir flá gagnvart öllum áminningu minni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bd62cb4243bf87e44225af445a3c7ca66d0f575545091efdc0a348a86ba78cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/1\/30-31.1792416990229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "vildu"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "ráðgjöf mína"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "flá gagnvart"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "áminningu minni"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:30.230335368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "נטתי er ópersónlegur sagnmynd þýddur með 'þegar ég'-smið á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "Mitsrajím",
+      "rationale": "þekkingartilskipun: Egyptar skulu vita að ég er Jahve — æðsta yfirlýsing:;"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתוכם",
+      "rationale": "bókstaflega 'úr miðju þeirra', þýtt sem 'út úr hjá þeim'"
+    }
+  ],
+  "translation": "Og Mitsrajím skal vita að ég er Jahve, þegar ég rétti ⟨את⟩ hönd mína yfir Mitsrajím, og ég leiði ⟨את⟩ sona Ísraels út úr hjá þeim.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a56b00862ee25365d28a59932fcb28df1030eb55df348801226a9d293a15abb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/7\/5-8.1792394153681.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "skal vita"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "þegar ég rétti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hönd mína"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hönd mína"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "og ég leiði út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sona Ísraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "út úr hjá þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:53.682687226Z",
+  "model": "glm-5.3"
+}

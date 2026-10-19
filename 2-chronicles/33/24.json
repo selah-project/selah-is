@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 33:24",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Markið ⟨את⟩ bendir á beint andlag „hann“ — hebreska markið fellur niður í íslensku fallkerfi"
+    }
+  ],
+  "translation": "Og þjónar hans götust saman gegn honum og drápu ⟨את⟩ hann í húsi hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "297338e508f900282c9279f692e027bdc01c6186fa2b0c1cf026eda34dc7946f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/33\/21-24.1792415931705.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "götust saman"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegn honum"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þjónar hans"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "drápu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "í húsi hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:18:51.706145114Z",
+  "model": "glm-5.3"
+}

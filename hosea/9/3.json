@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mat",
+      "rationale": "Hebreskan hefur aðeins lýsingorðið 'óhreint'; 'mat' er bætt við á íslensku."
+    },
+    {
+      "kind": "secret",
+      "subject": "land Jahve",
+      "rationale": "Landið kallast land Jahve sjálfs — þjóðin missir ekki aðeins landamæri heldur nærveru Nafnsins."
+    }
+  ],
+  "translation": "Þau skulu ekki búa í landi Jahve, og Efraím snýr aftur til Mitsrajím, og í Assúr munu þeir éta óhreint ⟨mat⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc2a195ac3ffcd3d266f437cbe454d7274ccb39fe0d35b022f146ac78d242fa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/9\/1-4.1792408249931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "skulu búa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og snýr aftur"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraím"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "til Mitsrajím"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "og í Assúr"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "óhreint"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "munu þeir éta"
+    }
+  ],
+  "timestamp": "2026-10-19T11:10:49.932634097Z",
+  "model": "glm-5.3"
+}

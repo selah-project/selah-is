@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בן ארבעים שנה",
+      "rationale": "Hebreskan segir bókstaflega 'sonur fertíu ára'; íslenskan segir 'fertugamál' — myndin látin í té með eigin orði."
+    },
+    {
+      "kind": "elision",
+      "subject": "בן",
+      "rationale": "'Sonur' í aldursummæri hefur ekki sambærilega íslenska mynd og fellur undir 'fertugamál'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fertugamál",
+      "rationale": "Aldur Esavs talinn í fertíu ár við giftingu."
+    }
+  ],
+  "translation": "Og Esav var fertugamál, og hann tók sér konu: ⟨את⟩ Júdíta, dóttur Be'erí hetítans, og ⟨את⟩ Bosmata, dóttur Elón hetítans.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "87e152307804b1547e662f81c4918f982e25e5a16c97088a74a3ded420bd283e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/26\/33-35.1792393157290.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fertugamál"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og hann tók sér"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Júdíta"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Júdíta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttur"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "Be'erí"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetítans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Bosmata"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttur"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "Elón"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hetítans"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:17.290830373Z",
+  "model": "glm-5.3"
+}

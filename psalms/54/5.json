@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur; 'sál' er vænasta íslenska orðið en ekki full samsvörun"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "סלה er tónlistarmerki, hlé; ritað óbreytt"
+    }
+  ],
+  "translation": "Því að framandi menn hafa risið upp gegn mér, andsnúnir leita sálar minnar; þeir settu Elóhím ekki fyrir augum sér. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/54\/5-8.1792409883509.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "framandi menn"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "hafa risið upp"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "andsnúnir"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "leita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "þeir settu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "fyrir augum sér"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:03.510298753Z",
+  "model": "glm-5.3"
+}

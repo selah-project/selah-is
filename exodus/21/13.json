@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 21:13",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨það⟩ bætt við — hebreskan hefur ekki andlýsingarþolmynd fyrir 'að koma undir hönd'"
+    },
+    {
+      "kind": "crux",
+      "subject": "צדה",
+      "rationale": "'lá í leyni' (veiða með vítni) — sumir þýða 'elti ekki' eða 'settist ekki í gildru'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "undir hönd hans",
+      "rationale": "לידו er bókstaflega 'að hönd hans' — hebresk mynd um að Elóhím læti atburðinn skein í hönd veginna manns"
+    }
+  ],
+  "translation": "En sá sem ekki lá í leyni, og Elóhím lét ⟨það⟩ koma undir hönd hans — og ég mun gefa þér stað þangað sem hann má flýja.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/13-16.1792394719401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "En sá sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "lá í leyni"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "og Elóhím"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "lét koma"
+    },
+    {
+      "surface": "לידו",
+      "gloss": "undir hönd hans"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "og ég mun gefa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "stað"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þangað sem"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "hann má flýja"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þangað"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:19.401684851Z",
+  "model": "glm-5.3"
+}

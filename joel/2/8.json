@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 2:8",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Hann' og 'þeir' eru settir inn — hebreskan heldur uppi frumlögunum með sögnumni einu."
+    },
+    {
+      "kind": "crux",
+      "subject": "יבצעו",
+      "rationale": "'Slitna' (kjv 'shall not be wounded') á móti asv\/jps 'brjóta í gegnum' — rótin בצע merkir að brjóta af, og ýmsir lesa hana hvorum veg."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובעד השלח",
+      "rationale": "'Um spjótið falla' — fellast um á spjót eða brjóta í gegnum vopnin án meiðsla."
+    }
+  ],
+  "translation": "Og hver maður bróður sínum þrýstir ekki; karlmaður á götu sinni gengr ⟨hann⟩, og um spjótið falla ⟨þeir⟩ — slitna ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6af798d15abeb930621a55d63e9c20f8056d967729bdf5e77dec50bb75b43a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/2\/5-8.1792408325571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og hver maður"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður sínum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידחקון",
+      "gloss": "þrýstir"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "karlmaður"
+    },
+    {
+      "surface": "במסלתו",
+      "gloss": "á götu sinni"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "gengr"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og um"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "spjótið"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "falla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבצעו",
+      "gloss": "slitna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:12:05.572432926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ועד",
+      "rationale": "'jafnvel allt að' endurtekið fjórum sinnum — sett upp sem 'og' til að halda takti textans",
+      "language": "is"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sáttmálagjöfin",
+      "rationale": "Jónatan gefur Davíð skikkju, klæði og vopn — konungleg tákn; gjöfin er sjálf sáttmálinn úr v. 3 látinn verða sýnilegan",
+      "language": "is"
+    },
+    {
+      "kind": "measurement",
+      "subject": "talning gjafanna",
+      "rationale": "fimm hlutir taldir upp: skikkja, klæði, sverð, bogi, belti",
+      "language": "is"
+    }
+  ],
+  "translation": "Og Jónatan færði sig úr ⟨את⟩ skikkjunni sem á honum var og gaf Davíð hana, og klæði sín og sverð sitt og boga sinn og belti sitt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/18\/1-4.1792400707829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Og færði sig úr"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skikkjunni"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "skikkjunni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á honum var"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "hana, og klæði sín"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sverð sitt"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "boga sinn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "belti sitt"
+    }
+  ],
+  "timestamp": "2026-10-19T09:05:07.831186497Z",
+  "model": "glm-5.3"
+}

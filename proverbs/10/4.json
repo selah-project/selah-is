@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "slappleiki",
+      "rationale": "רמיה merkir bæði 'svik' og 'slappleiki\/limpindi' — 'slappur lófi' gegn 'sviksamleg hond'"
+    },
+    {
+      "kind": "crux",
+      "subject": "fljótir",
+      "rationale": "חרוצים: 'þeir er skera djúpt\/öruggir' — 'fljótir', 'þrifnir' eða 'hugarkarar' allar mögulegar"
+    }
+  ],
+  "translation": "Sá verður fátækur sem gerir með lófa slappleika, en hond þeirra er fljótir gerir ríkan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/10\/1-4.1792411301623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "verður fátækur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gerir"
+    },
+    {
+      "surface": "כף",
+      "gloss": "með lófa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "slappleika"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "en hond"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "þeirra er fljótir"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "gerir ríkan"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:41.624850235Z",
+  "model": "glm-5.3"
+}

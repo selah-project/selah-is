@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Hebreska eiðinn 'Jahve lifir' — íslenska eiðsformið 'svo lifi Jahve'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "'nema' (ylt, jps) eða 'vissulega mun' (kjv, asv) — lestrið skiptir merkingu"
+    }
+  ],
+  "translation": "Og Davíð sagði: Svo lifi Jahve — nema Jahve slái hann, eða dagur hans komi og hann deyi, eða hann stígni niður í orustu og farist.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/26\/9-12.1792401014507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "svo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "slái hann"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "dagur hans"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "komi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og hann deyi"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "í orustu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "stígni niður"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "og farist"
+    }
+  ],
+  "timestamp": "2026-10-19T09:10:14.507992925Z",
+  "model": "glm-5.3"
+}

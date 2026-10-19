@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חוץ ממני",
+      "rationale": "'fyrir utan mig' (BSB\/JPS: nautnin kemur ekki nema frá honum\/honum sem mælt er um) á móti 'meira en ég' (KJV\/Geneva), þar sem sagnarinn er talmælandinn sjálfur."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחוש",
+      "rationale": "Rótin þýðir 'flýta sér, vera lostinn' — 'njóta' (ASV\/JPS) eða 'sækjast í' er túlkan, ekki orðrétt."
+    }
+  ],
+  "translation": "Því að hver mun éta, og hver mun sækjast í nautn, fyrir utan mig?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80fadad80666ca7cdefb2aa659c6c768f3ac030e0dba222d49698dda147f3b27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/2\/25-26.1792412949703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mun éta"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "mun sækjast í nautn"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "fyrir utan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:09.703625775Z",
+  "model": "glm-5.3"
+}

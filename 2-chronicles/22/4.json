@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 22:4",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'⟨gjörði⟩' bætt við í samanburðinum, því hebreskan skilur sögnina eftir óskrifaða."
+    },
+    {
+      "kind": "substitution",
+      "subject": "למשחית",
+      "rationale": "Myndin er af 'eyðileggingu'; 'til að tortíma honum' heldur afleiðingunni, en orðið sjálft er nafnháttarmynd af skaða."
+    }
+  ],
+  "translation": "Og hann gjörði það sem illt er í augum Jahve, eins og Akhabs-hús ⟨gjörði⟩, því að þeir voru honum til ráðgjafa eftir dauða föður hans, til að tortíma honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bbd22f21c97c920e672bc73dad2cf3061b99f803b2d36df352e0561f6d792e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/22\/1-4.1792415760263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "það sem illt er"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "eins og…hús"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhabs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "til ráðgjafa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður hans"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "til að tortíma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:16:00.264469146Z",
+  "model": "glm-5.3"
+}

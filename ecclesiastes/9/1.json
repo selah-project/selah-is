@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גם אהבה גם שנאה",
+      "rationale": "'bæði ást og hati' vs 'hvorki ást né hati kann maðurinn' — sá sem elskar og sá sem hatar; NEI-dálkur kemur ekki við, en orðið 'hati' er tekið úr D3 (שנא → hata)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולבור",
+      "rationale": "Nær rót 'að bora' í mynd ræðslu; 'og til að rannsaka' vs 'og að skýra' (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכל לפניהם",
+      "rationale": "Bókstaflega 'allt er fyrir andlit þeirra' — framtíðin er falin; 'fyrir framan þá' heldur myndinni."
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "Maðurinn veit ekki hvort Elóhím elskar eða hatar — hið óþekka er vísað til handar Guðs einum."
+    }
+  ],
+  "translation": "Því að ⟨את⟩ allt þetta lagði ég í hjarta mitt, og til að rannsaka ⟨את⟩ allt þetta: að tsadíkarnir og þeir vitru og verk þeirra eru í hendi Elóhím — hvorki ást né hati kann maðurinn; allt er fyrir framan þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4cd7115eadb43106d51f68cd3f6c5b4c96fe8f0204e1b497ec13331bc7484705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/9\/1-4.1792413127775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt þetta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "lagði ég"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "og til að rannsaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt þetta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "tsadíkarnir"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "og þeir vitru"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "og verk þeirra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hendi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hvorki"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ást"
+    },
+    {
+      "surface": "גם",
+      "gloss": "né"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hati"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "kann"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fyrir framan þá"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:07.776180003Z",
+  "model": "glm-5.3"
+}

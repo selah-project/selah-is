@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Zífarnir beina spurning sinni til Sjáúl — bein áletrun í frásögninni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gagnvart Jeshímon",
+      "rationale": "על פני er bókstaflega 'á andliti\/á móti', flatur staðarhægur í íslensku"
+    }
+  ],
+  "translation": "Og Zífarnir komu til Sjáúl í Gívea og sögðu: Er Davíð ekki að fela sig á hæð Hakhíla, gagnvart Jeshímon?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "82e5e74b0536333054c652363fbbf2e62bc35524e739e4c18f504836c58271c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/26\/1-4.1792400940866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og komu"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "Zífarnir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "í Gívea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sögðu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Er ekki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "að fela sig"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "á hæð"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "Hakhíla"
+    },
+    {
+      "surface": "על",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andliti"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "Jeshímon"
+    }
+  ],
+  "timestamp": "2026-10-19T09:09:00.867327227Z",
+  "model": "glm-5.3"
+}

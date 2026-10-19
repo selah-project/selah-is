@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Það sem“ er bætt við — hebreskan segir einfaldlega „og hann gjörvi illt í augum Jahve“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת\/החטיא",
+      "rationale": "Sama rót „synd“ í nafnorði og sögn — „syndum … lét syndga“ — endurspeglað með samstofu."
+    }
+  ],
+  "translation": "Og hann gjörvi það sem illt er í augum Jahve, og gekk eftir syndum Jaróbeam, sonar Nevat, er lét Ísrael syndga ⟨את⟩; hann vék ekki frá henni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/13\/1-4.1792403261216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gjörvi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "það sem illt er"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gekk eftir"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "syndum"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaróbeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "lét syndga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "vék"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "frá henni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:47:41.216877147Z",
+  "model": "glm-5.3"
+}

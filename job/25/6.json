@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebrew lacking copula: ⟨sem er⟩ added before both nouns"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אף כי rendered as rhetorical 'how much less' following Bildad's argument from v. 5"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש\/רמה",
+      "rationale": "Two words for maggot (רמה maðkur, תולעה ormur) keep the parallel degradation of humankind"
+    }
+  ],
+  "translation": "Hversu miklu heldur maðurinn, ⟨sem er⟩ maðkur, og mannssonurinn, ⟨sem er⟩ ormur!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "85afacd31defa7ee3599de0769e68d346ecb4e8f39d72fa94fdf4926d31fcaf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/25\/6-6.1792417034933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hversu miklu heldur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "maðkur"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og sonur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manns"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "ormur"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:14.933720221Z",
+  "model": "glm-5.3"
+}

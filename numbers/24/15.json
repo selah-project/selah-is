@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 24:15",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שתם",
+      "rationale": "שָׁתַם kemur aðeins fyrir hér í Tanakh — 'að opinbera augu', ör tungustaður í titli spámansins"
+    },
+    {
+      "kind": "crux",
+      "subject": "opinberuð augu",
+      "rationale": "KJV les 'augu opin', LXX og margir lesa lokin\/dulð augu (saman v. 3–4); rótin שתם er tvíræð og einungis notuð hér"
+    },
+    {
+      "kind": "substitution",
+      "subject": "orð Bíleams",
+      "rationale": "נאם frammi fyrir mannsnafni verður 'orð' en ekki 'segir Jahve'-myndin, samkvæmt reglunni"
+    }
+  ],
+  "translation": "Og hann lyfti kvæði sínu og sagði: orð Bíleams, sonar Beors, og orð mannsins ⟨sem hefir⟩ opinberuð augu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "89b44a8c43887a2093bc4852eb13ce5672b499131a8707967ec21c0d2c98abc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/24\/13-16.1792397145795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Og hann lyfti"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "kvæði sínu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orð"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bíleams"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "בער",
+      "gloss": "Beors"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "og orð"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "hefir opinberað"
+    },
+    {
+      "surface": "העין",
+      "gloss": "augu"
+    }
+  ],
+  "timestamp": "2026-10-19T08:05:45.796262058Z",
+  "model": "glm-5.3"
+}

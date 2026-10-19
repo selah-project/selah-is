@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עשור",
+      "rationale": "עשור (tístrengja) kemur aðeins hér í Tanakh — stytt mynd af „tíu strengir“."
+    },
+    {
+      "kind": "crux",
+      "subject": "הגיון",
+      "rationale": "„Higgaion“ — þýtt sem duldarður hljómur, murmur eða tónlistarmerki; sumir lesa það sem hljóðfestu á strengjum, aðrir sem nafn á takti."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Fjöldi strengja telinn — tístrengja — og þrjú hljóðfæri nefnd í röð."
+    }
+  ],
+  "translation": "Á tístrengja og á navel, á dústrum með kinor.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/92\/1-4.1792410447911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Á"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tístrengja"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "og á"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "navel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "á"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "dústrum"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "með kinor"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:27.912838397Z",
+  "model": "glm-5.3"
+}

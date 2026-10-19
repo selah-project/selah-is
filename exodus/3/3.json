@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "אסורה נא er lágtækisáhrift („megi ég víkja“), gefin sem „Ég skal víkja nú“"
+    },
+    {
+      "kind": "you",
+      "subject": "to sjónin",
+      "rationale": "Mósje talar við sig sjálfan — innri hvöt sem dregur hann að duldum sjónarmuni"
+    }
+  ],
+  "translation": "Og Mósje sagði: Ég skal víkja nú og sjá ⟨את⟩ þessa miklu sjón, hvers vegna þyrnirinn brennur ekki.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/3\/1-4.1792394117575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagði"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Ég skal víkja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessa miklu sjón"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "sjón"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "miklu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "hvers vegna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "brennur"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "þyrnirinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:17.577885735Z",
+  "model": "glm-5.3"
+}

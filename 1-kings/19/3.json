@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fór fyrir lífi sínu",
+      "rationale": "Hebreska 'וילך אל נפשו' — 'gekk að lífi sínu' — flúið fyrir lífi; bókstæð mynd glatast í íslensku orðatiltæki"
+    },
+    {
+      "kind": "crux",
+      "subject": "Og hann sá þetta",
+      "rationale": "וירא — 'sá hann' eða (sama rót) 'óttaðist hann'; eldri þýðingar lesa ótta, KJV-lestur les sjón"
+    }
+  ],
+  "translation": "Og hann sá þetta, og reis upp og fór fyrir lífi sínu, og kom til Beer-Sjeva, sem tilheyrir Júda, og lét ⟨את⟩ svein sinn þar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/19\/1-4.1792402699559.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og hann sá"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "og reis upp"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og fór"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "lífi sínu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tilheyrir Júda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "og lét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svein sinn"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "svein sinn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:38:19.560254298Z",
+  "model": "glm-5.3"
+}

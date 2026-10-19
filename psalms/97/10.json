@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sála",
+      "rationale": "נפשות er lífleiki, andardráttur — ekki sál í grískum skilning"
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Fornafnið er sett fram til að greina framkvæmdaraðilann"
+    }
+  ],
+  "translation": "Þér sem elskið Jahve, hatið hið illa; hann gætir sála hinna kheisída sinna; úr hendi hinna ráðugu hann frelsar þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/97\/9-12.1792410487593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Þér sem elskið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "hatið"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hið illa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gætir"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "sála"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hinna kheisída sinna"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hinna ráðugu"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "hann frelsar þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:07.594233489Z",
+  "model": "glm-5.3"
+}

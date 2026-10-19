@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כתנים",
+      "rationale": "Orðið merkir bæði 'sjakalar' og 'síder' (see-óður) — 'sjakalar' er vinsælasta lesningin."
+    },
+    {
+      "kind": "crux",
+      "subject": "בנות יענה",
+      "rationale": "Orðrétt 'dætur fuglsins jának' — hefðin les 'strúts', sumar þýðingar 'uggla'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שילל",
+      "gloss": "Rótin merkir 'bera, á brott tekinn' — 'berfættur' heldur sorgarsiðnum sem orðið vísar í."
+    }
+  ],
+  "translation": "Yfir þetta mun ég syrgja og æla, ég mun gang berfættur og nakinn; ég mun gjöra harmkvæli eins og sjakalar og sorg eins og dætur strúthsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f23bbf7893dbd1f65357db5290689e8ff814bde0b8e15661ca11a7e96f050348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/1\/5-8.1792408630325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אספדה",
+      "gloss": "mun ég syrgja"
+    },
+    {
+      "surface": "ואילילה",
+      "gloss": "og æla"
+    },
+    {
+      "surface": "אילכה",
+      "gloss": "ég mun gang"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "berfættur"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "og nakinn"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ég mun gjöra"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "harmkvæli"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "eins og sjakalar"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "og sorg"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "eins og dætur"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "strúthsins"
+    }
+  ],
+  "timestamp": "2026-10-19T11:17:10.326553227Z",
+  "model": "glm-5.3"
+}

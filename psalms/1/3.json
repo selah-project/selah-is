@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skurðir",
+      "rationale": "פלג merkir lítinn áveituskip eða farveg, ekki stóra á — myndin er áveiting"
+    },
+    {
+      "kind": "addition",
+      "subject": "vel",
+      "rationale": "Íslenskt sögn „tekst“ þarf viðfang; hebreska יצליח ber merkinguna sjálf"
+    }
+  ],
+  "translation": "Og hann verður ⟨samur⟩ tré gróðursett við skurðir vatns, sem ávöxt þess gefur á tíma sínum, og lauf þess fölnar ekki — allt það sem hann gerir tekst ⟨vel⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/1\/1-4.1792409254363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og verður"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "samur tré"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "gróðursett"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "skurðir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatns"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ávöxt þess"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "á tíma sínum"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "og lauf þess"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "fölnar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hann gerir"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "tekst"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:34.364521861Z",
+  "model": "glm-5.3"
+}

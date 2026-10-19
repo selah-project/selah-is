@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sála mín",
+      "rationale": "נפש er heldur lífskraftur\/önd en 'sála' í síðari merkingu"
+    },
+    {
+      "kind": "crux",
+      "subject": "með sverði þínu",
+      "rationale": "KJV les 'which is thy sword' (hljóðstilling), aðrir 'með sverði þínu'"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "beint ávarp til Jahve í bæninni"
+    }
+  ],
+  "translation": "Rís þú, Jahve, far fyrir andliti hans, legg hann upp á kné, bjarga sálu minni frá hinum illa með sverði þínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/17\/13-15.1792409295720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Rís þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "far fyrir"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "andliti hans"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "legg hann upp á kné"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "bjarga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "frá hinum illa"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "með sverði þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:15.720734666Z",
+  "model": "glm-5.3"
+}

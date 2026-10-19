@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "'múta' (þvingunargreiðsla) gegn 'gjöf' eins og KJV\/JPS þýða; samhengið (Akhas leysti sig úr hendi óvina með peningum) styður 'mútu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Akhas",
+      "rationale": "Hebreska אחז ritað eftir hljóði, ekki 'Ahas' eða 'Akas'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf viðtengingarhátt 'sem fannst' fyrir הנמצא, en hebreskan notar hluthátt."
+    }
+  ],
+  "translation": "Og Akhas tók ⟨את⟩ silfrið og ⟨את⟩ gullið sem fannst í húsi Jahve og í fjárgeymslum húss konungsins, og sendi konungi Assýríu mútu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "06d1c2ed9ddb019354f774e82d1266257ce9cf03d6d7dbbded1bd51f352a2956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/16\/8-8.1792416690155.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og Akhas tók"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silfrið"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silfrið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "gullið"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gullið"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "sem fannst"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "og í fjárgeymslum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konungi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assýríu"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mútu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:30.156078684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 17:2",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כזכר בניהם",
+      "rationale": "'eins og sona þeirra' (JPS: altarin eins og börn þeirra) vs 'meðan synir þeirra muna' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשרים",
+      "rationale": "Aséra er nafn gyðjunnar og stallar hennar; 'lundenir' gefur ekki nafnið"
+    }
+  ],
+  "translation": "Eins og synir þeirra muna altari þeirra og Aséra-styttur þeirra, undir grænu tré, á hæstu hæðunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/17\/1-4.1792405731050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כזכר",
+      "gloss": "eins og ... muna"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "synir þeirra"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "altari þeirra"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "og Aséra-styttur þeirra"
+    },
+    {
+      "surface": "על",
+      "gloss": "undir"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tré"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "grænu"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "hæðunum"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "hæstu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:28:51.051804498Z",
+  "model": "glm-5.3"
+}

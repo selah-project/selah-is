@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את בגדי",
+      "rationale": "Seinna אֵת er samtengd við forsetningu ('með\/í'), ekki viðmatár; merkt sem ⟨את⟩ samkvæmt reglu Selah"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משחת\/וקדשת",
+      "rationale": "Þrjár pílar í röð (klæða, smurja, helga) — samstöðuleg fallhæfing prestsdæmis"
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "Boðsmynd beint að Mósje um vígslu Aharons"
+    }
+  ],
+  "translation": "Og þú skalt klæða Aharon ⟨את⟩ ⟨את⟩ helgu klæðunum, og smurja hann og helga hann, og hann skal gegna prestþjónustu fyrir mér.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/40\/13-16.1792395342589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "og þú skalt klæða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helgu klæðunum"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæðunum"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "og smurja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og helga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "gegn prestþjónustu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mér"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:42.589774577Z",
+  "model": "glm-5.3"
+}

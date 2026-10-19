@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "Hallelú-Ja er upphaf lofsins; nafnið Ja fellur saman við boðið sjálft, tapast að hluta til á íslensku."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Ferðaboð í austurvígi: þrjú 'Lofið' kalla á himininn sjálfan."
+    }
+  ],
+  "translation": "Lofið Ja! Lofið ⟨את⟩ Jahve af himnunum, lofið hann á hæðunum!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/148\/1-4.1792411080898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lofið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lofið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnunum"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "lofið hann"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "á hæðunum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:00.899266179Z",
+  "model": "glm-5.3"
+}

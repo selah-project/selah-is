@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עין תחת עין",
+      "rationale": "Fjórföld spegil-löggjöf: sama orð, sama fall, í hvert skipti — mætingarbundið tal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fyrir",
+      "rationale": "תחת merkir bókstaflega „undir“ en er hér í kvenkyns atvikshætti í merkingunni „í staðinn fyrir“."
+    }
+  ],
+  "translation": "auga fyrir auga, tönn fyrir tönn, hönd fyrir hönd, fót fyrir fót.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/21-24.1792394706892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "auga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "עין",
+      "gloss": "auga"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tönn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tönn"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fót"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fót"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:06.893985415Z",
+  "model": "glm-5.3"
+}

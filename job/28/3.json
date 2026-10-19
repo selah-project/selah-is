@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 28:3",
+  "book": "job",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Frumlag ónefnt: KJV\/ASV\/JPS lesa 'maðurinn' (námamaðurinn), Wycliffe og Geneva 'Guð' — hebreskan segir aðeins 'setur enda'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תכלית merkir 'fullnending, ystu mörk' — ekki 'fullkomleika' siðrænan."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "אפל og צלמות tvennd í samstöðu — 'myrkur og skuggi dauðans' — endurtekið í kveðskapnum."
+    }
+  ],
+  "translation": "Enda setur ⟨maðurinn⟩ myrkvinu, og alla yfirstöð rannsakar hann — stein þykka myrkurs og skugga dauðans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "52dae17b43d3f36ab5283c0c1e3c298701dda8eeb7cf35161e78385598fda6ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/28\/1-4.1792412277732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "enda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "setur"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "myrkvinu"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og alla"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "yfirstöð"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "חוקר",
+      "gloss": "rannsakar"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "stein"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "þykka myrkurs"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "og skugga dauðans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:57.732998628Z",
+  "model": "glm-5.3"
+}

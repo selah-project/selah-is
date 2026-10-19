@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Parasambindingin 'heldur' fær ein orðmynd; אם fellur saman við כי."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guðir",
+      "rationale": "guðanna þjóðanna er ritað með litlum staf — Elóhím um hinn sanna er ritað Elóhím."
+    }
+  ],
+  "translation": "og gáfu ⟨את⟩ guði þeirra í eld, því að þeir eru ekki guðir, heldur verk handa manns, tré og steinn — og þeir útrýmtu þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/37\/17-20.1792404499899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "og gáfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guði þeirra"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guði þeirra"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðir"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "handa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mans"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tré"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og steinn"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "og þeir útrýmtu þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:08:19.900760907Z",
+  "model": "glm-5.3"
+}

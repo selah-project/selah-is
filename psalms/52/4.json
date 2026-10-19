@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tungan þín",
+      "rationale": "„Groumr“ er kennimynd — hebreskan segir bókstaflega að tungan ÞRæði\/grói eyðilegginguna."
+    },
+    {
+      "kind": "alternative",
+      "subject": "sá sem gerir svik",
+      "rationale": "Áttækis rök fyrir að þetta sé lýsing á tunganni sjálfri („tunga sem vinnur svik“), en nafnorðamynd עושה ber „gerandann“."
+    }
+  ],
+  "translation": "Eyðileggingar groumr tungan þín, sem skimtað tæra — sá sem gerir svik.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/52\/1-4.1792409909598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Eyðileggingar"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "groumr"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "tungan þín"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "sem … tæra"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "skimtað"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sá sem gerir"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svik"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:29.599401264Z",
+  "model": "glm-5.3"
+}

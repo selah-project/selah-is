@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sögnín 'er' vantar í hebreskuni — 'rödd mín ⟨er⟩ til' — en íslenska dregur fram sambandið án hennar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "lína sem endar og endurtekur 'rödd mín til Elóhím' — upphaf sálmsins byrjar á tvöfaldri ákallingu, endurtekningin varðveitt"
+    }
+  ],
+  "translation": "Rödd mín til Elóhím, og ég öskra; rödd mín til Elóhím, og hann hlýðir á mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/77\/1-4.1792410205126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Rödd mín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "og ég öskra"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "rödd mín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "og hann hlýðir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "á mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:25.127676368Z",
+  "model": "glm-5.3"
+}

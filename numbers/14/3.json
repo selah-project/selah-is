@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 14:3",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Mósje og Aharon",
+      "rationale": "söfnuðurinn talar beint til þeirra, en kvörtunin beinist að Jahve."
+    },
+    {
+      "kind": "substitution",
+      "subject": "betra",
+      "rationale": "„er það ekki gott“ — hebreskan segir „gott“, íslenskan vill samanburðarform."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצרימה",
+      "rationale": "endingin -ה mýkir „til Mitsrajím“; att við enda vers 4."
+    }
+  ],
+  "translation": "Og hvers vegna færir Jahve ⟨את⟩ okkur inn í þetta land til að falla fyrir sverði? Konur vorar og börn vor munu verða að herfangi. Er það ekki betra fyrir okkur að snúa aftur til Mitsrajím?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "dedcc3676921b5bc0bcf2a59f83cbbebef32b168255c34a6199336aeeb9d4dfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/14\/1-4.1792396754769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "og hvers vegna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "færir"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ okkur",
+      "marks": "okkur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inn í"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "til að falla"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "fyrir sverði"
+    },
+    {
+      "surface": "נשינו",
+      "gloss": "konur vorar"
+    },
+    {
+      "surface": "וטפנו",
+      "gloss": "og börn vor"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "munu verða"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "að herfangi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "það ekki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "betra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir okkur"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "að snúa aftur"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "til Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:59:14.770652164Z",
+  "model": "glm-5.3"
+}

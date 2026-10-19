@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תמים er 'heill, órjúfaður' — 'óspilltur' heldur myndinni af því sem er eitt stykki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נעקש er 'hnúttóttur, boginn' — 'krókóttr' varðveitir ljóðmyndina"
+    }
+  ],
+  "translation": "Sá er óspilltur gengr verður hjálpaður, en sá sem krókóttr er í vegum sínum mun falla í einu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3181c1b9699163fd3d4412d818a1b05e9d3579f6e99f1224b2187ac140a7f885",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/28\/17-20.1792411688076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gengr"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "óspilltur"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "verður hjálpaður"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "en sá sem krókóttr er"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "í vegum"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "mun falla"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "í einu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:08.076913156Z",
+  "model": "glm-5.3"
+}

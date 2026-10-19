@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וחמת er 'heitinn\/hitan' — reiði; 'heift' nær hitamyndinni betur en 'reiði'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "hamar vélar söguna: Haman hengdur á tréð sjálft sem hann bjó til fyrir Mordekai — endurgjaldið passar við 7:9"
+    }
+  ],
+  "translation": "Og þeir hengu ⟨את⟩ Haman á tréð sem hann hafði búið til fyrir Mordekai, og heift konungsins lay down — ⟨lagðist⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/7\/9-10.1792413274350.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Og þeir hengu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "tréð"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hafði búið til"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "fyrir Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "og heift"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "lagðist"
+    }
+  ],
+  "timestamp": "2026-10-19T12:34:34.351410995Z",
+  "model": "glm-5.3"
+}

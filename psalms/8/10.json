@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hebreskan sleppur sögninni; ⟨er⟩ bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "örlát",
+      "rationale": "אדיר merkir víður, mikill, máttugur; eitt íslenskt orð fær ekki alla myndina"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "beint ávarp salmins endurtekið af versi 2, inngangs- og lokatilhlýðing"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדנינו",
+      "rationale": "אדני um Guð → Adónaí samkvæmt D1, ekki 'Drottinn'"
+    }
+  ],
+  "translation": "Jahve, Adónaí vor, hve örlát ⟨er⟩ nafn þitt um alla jörðina!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/8\/9-10.1792409276057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adónaí vor"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hve"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "örlát"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nafn þitt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "um alla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:56.058238336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Assýría",
+      "rationale": "Harmkveðjan beinist beint til Assýríu — bein áttun þrátt fyrir að þjóðin sjái þetta ekki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "Hebreska orðið er 'násir minn' — andlit og reiði í sama orði; 'reiði minnar' týnir mynd nasaranna."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan lýkur með nafnlið án sagnar; íslenskan þarf sögn."
+    }
+  ],
+  "translation": "Harmlegur þú, Assýría, kylfa reiði minnar, og stöngin í höndum þeirra ⟨er⟩ grimmd mín.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "72a4b3ba927cd8fca3378ed039270af7912f4756d2bef4ce077f09bd8f6979eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/10\/5-8.1792403850106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Harmlegur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assýría"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kylfa"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "reiði minnar"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "og stöngin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "í"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "höndum þeirra"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "grimmd mín"
+    }
+  ],
+  "timestamp": "2026-10-19T09:57:30.106714499Z",
+  "model": "glm-5.3"
+}

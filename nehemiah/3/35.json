@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 3:35",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnfylling 'var' bætt við — hebreskan segir aðeins 'hjá honum'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שועל",
+      "rationale": "orðið þýðir 'schakal' — gamlar þýðingar segja 'refur', en schakal er grafarenn og passar spótþyttnni"
+    }
+  ],
+  "translation": "Og Tovíja ammonítinn var hjá honum, og hann sagði: Jafnvel það sem þeir eru að byggja — ef schakal klifrar upp, mun hann brjóta niður steinvegg þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f16d3f84a04fe79f569cec08e2a753dffd580cdc8280b4b3c89766beef6e1d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/3\/34-35.1792417148935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטוביה",
+      "gloss": "Og Tovíja"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "ammonítinn"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "var hjá honum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Jafnvel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "eru að byggja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "klifrar upp"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "schakal"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "mun hann brjóta niður"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "steinvegg"
+    },
+    {
+      "surface": "אבניהם",
+      "gloss": "þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:39:08.936072876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מגרש = opin beitarlönd, ekki 'förubæir'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "hluti af borgarlista Levíta — skipulögð talning landmarka"
+    }
+  ],
+  "translation": "og ⟨את⟩ Ajalón og ⟨את⟩ beitilönd sín og ⟨את⟩ Gat-Rimmon og ⟨את⟩ beitilönd sín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3318a7c8a9b65949d1784607e4149e30e3af811be872ef5b4adaa35e6ca0bcb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/6\/53-56.1792414592779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Ajalón"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalón"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "beitilönd sín"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beitilönd sín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "beitilönd sín"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "beitilönd sín"
+    }
+  ],
+  "timestamp": "2026-10-19T12:56:32.780046710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan hefur enga sögn; íslenskan krefst sambandssagnar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשרו",
+      "rationale": "Eintölu 'hold hans' — sérhver þeirra sem finnandi er; ekki breytt í fleirtölu."
+    }
+  ],
+  "translation": "Því að þau eru líf þeim sem finna þau, og læknun öllu holdi hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b2539e7a0347d7f16fae38d48b1d93f538331f1377a1e8c55e0c515a02a0cdd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/4\/21-24.1792411155629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "líf"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þau ⟨eru⟩"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "þeim sem finna þau"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og öllu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "holdi hans"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "læknun"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:15.629933566Z",
+  "model": "glm-5.3"
+}

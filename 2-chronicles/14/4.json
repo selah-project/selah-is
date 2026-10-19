@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "החמנים 'sólarstyttur' — sólsteinn\/súlpillur, ekki 'myndir' almennt"
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "חמנים sjaldgæft orð — sólpylkar, rót חמן tengd sólinni"
+    }
+  ],
+  "translation": "Og hann tók burt úr öllum borgum Júda ⟨את⟩ hámstöðurnar og ⟨את⟩ sólarstytturnar, og ríkið hlaut kyrru fyrir augum hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/14\/1-4.1792415554455.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "tók burt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "úr öllum"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borgum"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hámstöðurnar"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "hámstöðurnar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sólarstytturnar"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "sólarstytturnar"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "hlaut kyrru"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ríkið"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir augum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:12:34.456762269Z",
+  "model": "glm-5.3"
+}

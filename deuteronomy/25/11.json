@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 25:11",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kynfæri",
+      "rationale": "מְבֻשָׁיו er flæmingjurð um getnaðarlim; 'kynfæri' er þaggað en rétt — 'limgerfi' myndi bæta við mynd sem hebreskan hefur ekki"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sendir hönd sína",
+      "rationale": "hebreskt myndmál 'senda hönd' = rétta út hönd; íslenska heldur myndinni til að varðveita tveggja-orða formið"
+    }
+  ],
+  "translation": "Ef menn berjast saman, hver við annan, og kona hins eins kemur nálægt til að frelsa ⟨את⟩ mann sinn úr hendi þess sem slær hann, og sendir hönd sína og grípur í kynfæri hans —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7369d287e76f72dcaebff46f62ebe7e519d5637ba313f83d3084c85a7c309bf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/25\/9-12.1792398245449.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "ינצו",
+      "gloss": "berjast"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "við annan"
+    },
+    {
+      "surface": "וקרבה",
+      "gloss": "og kemur nálægt"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "kona"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hins eins"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "til að frelsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mann sinn"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mann sinn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "þess sem slær hann"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "og sendir"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "hönd sína"
+    },
+    {
+      "surface": "והחזיקה",
+      "gloss": "og grípur"
+    },
+    {
+      "surface": "במבשיו",
+      "gloss": "í kynfæri hans"
+    }
+  ],
+  "timestamp": "2026-10-19T08:24:05.450161803Z",
+  "model": "glm-5.3"
+}

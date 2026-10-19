@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ógjöld",
+      "rationale": "האון er 'tómsemd, forgengileiki, illska' — 'ógjörð' valin sem formgerð orðsins, en orðið merkir bæði tómvindi og ódæði"
+    },
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Hebreska hefur enga fornafnsmerkingu — והמטים er lýsingarháttur núverandi ('og hinir sem benda af')"
+    },
+    {
+      "kind": "crux",
+      "subject": "עקלקלותם",
+      "rationale": "Afstöðuorðið 'vegna' eða 'til' — 'benda á æði krókóttra vega sinna' vs. 'með krókótta vegu sína' (KJV 'unto', JPS 'away with')"
+    }
+  ],
+  "translation": "Enn þeir sem benda á æði vegna krókóttra vega sinna — Jahve mun leiða ⟨את⟩ þá sem fremja ógjöld: friður yfir Ísrael!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/125\/5-5.1792410868906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "þeir sem benda á æði"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "krókóttra vega sinna"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "mun leiða"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þá sem fremja ógjöld"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "þá sem fremja"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ógjöld"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:28.907223333Z",
+  "model": "glm-5.3"
+}

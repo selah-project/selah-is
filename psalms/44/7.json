@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mun",
+      "rationale": "framtíðarháttur bætt við á íslensku; hebreskan notar þátíð við vanatrú á vopnin"
+    }
+  ],
+  "translation": "Því að ekki í boga mína treysti ég, og sverð mitt mun ekki frelsa mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/44\/5-8.1792409745869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "í boga mína"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "treysti ég"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "og sverð mitt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "mun frelsa mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:45.870440278Z",
+  "model": "glm-5.3"
+}

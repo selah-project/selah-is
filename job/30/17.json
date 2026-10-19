@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 30:17",
+  "book": "job",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וערקי",
+      "rationale": "'þeir sem naga mig' (sársaukinn sem nagar) á móti YLT 'augeföðin mín leggjast ekki' — sömu stafir, tvær lesningar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצמי",
+      "rationale": "עצם er 'bein' sem undirstöðu líkamans; ekki sál eða líf."
+    }
+  ],
+  "translation": "Um nótt er bein mín boruð úr mér, og þeir sem naga mig leggjast ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d9e472ef1d53024c6fc49c9449aec97a376dde5d77f5b2b8c5e0cc19a21f3ca7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/30\/17-20.1792412335770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "um nótt"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "bein mín"
+    },
+    {
+      "surface": "נקר",
+      "gloss": "boruð"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "úr mér"
+    },
+    {
+      "surface": "וערקי",
+      "gloss": "og þeir sem naga mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "leggjast"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:55.770820478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "'Steig niður' fyrir ירד — hebreskan segir bókstaflega 'förum niður', myndrænt, engin útskýring á hvernig."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנו\/בני",
+      "rationale": "'byggt' (בנו) og 'synir' (בני) — sömu stafir, orðaleikur sem hverfur á íslensku."
+    }
+  ],
+  "translation": "Og Jahve steig niður til að sjá ⟨את⟩ borgina og ⟨את⟩ turninn, sem synir mannanna höfðu byggt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/11\/5-8.1792392846225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "steig niður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "til að sjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borgina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "turninn"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "turninn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "höfðu byggt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mannanna"
+    }
+  ],
+  "timestamp": "2026-10-19T06:54:06.226056925Z",
+  "model": "glm-5.3"
+}

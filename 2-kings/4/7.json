@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elisha to the widow",
+      "rationale": "is: boðsitlar í fermi einkum réttast að einkenni tölu — 'Farðu, selj, greiðu' til konunnar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "manni Elóhím",
+      "rationale": "is: 'maður Elóhím' er titill spámansins Elísja, ekki almennt 'guðsmaður'"
+    }
+  ],
+  "translation": "Þá kom hún og sagði manninum Elóhím frá þessu, og hann mælti: Farðu, selj ⟨את⟩ olíuna og greiðu ⟨את⟩ skuld þína, og þú og synir þínir skulið lifa á því sem eftir er.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/4\/5-8.1792402951713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "kom hún"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "sagði frá"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "manninum"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mælti hann"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "farðu"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "selj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olíuna"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olíuna"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "og greiðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skuld þína"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "skuld þína"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "synir þínir"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "skulið lifa"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "á því sem eftir er"
+    }
+  ],
+  "timestamp": "2026-10-19T09:42:31.714474908Z",
+  "model": "glm-5.3"
+}

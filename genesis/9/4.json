@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er 'sál' sem lífskrafti\/andingur — nær 'lífsandi' en sál í filosófískum skilningi; בנפשו דמו: blóðið er lífsandi holdsins."
+    },
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "אך hér: 'aðeins\/akenning' — ýmist 'einungis' (takmarkun) eða 'hins vegar' (andstæðingur v. 3)."
+    },
+    {
+      "kind": "you",
+      "subject": "vers 9:4",
+      "rationale": "Bann beint að Nóakh og sonum hans í fleirtölu."
+    }
+  ],
+  "translation": "Aðeins hold — með sálu sinni, blóði sínu — skuluð þér ekki eta.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "47fad036896cddc179b998e31d3fc70a28b26b35f101949440c727cbb289724d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/9\/1-4.1792392718041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Aðeins"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hold"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "með sálu sinni"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blóði sínu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skuluð þér eta"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:58.042751674Z",
+  "model": "glm-5.3"
+}

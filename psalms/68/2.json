@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fyrir andliti",
+      "rationale": "מפניו er bókstaflega 'af andliti hans', íslenskan þarf viðtökuna 'fyrir'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקום\/יפוצו",
+      "rationale": "rís\/dreifist — jussívar í stöðugu málfaroti, afturtekið mynstur sem vísa til 4. Mósebókar 10:35"
+    }
+  ],
+  "translation": "Elóhím rísi upp — óvinir hans dreifist, og þeir sem hata hann flýi fyrir andliti hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/1-4.1792410037622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "rísi upp"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "dreifist"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "óvinir hans"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "og flýi"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "þeir sem hata hann"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "fyrir andliti hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:37.623624766Z",
+  "model": "glm-5.3"
+}

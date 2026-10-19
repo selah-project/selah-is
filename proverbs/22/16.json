@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": "Tilfalla: 'til að fjölga sér' (kúgarinn), eða 'til að fjölga honum' (hinum fátæka) — JPS velur hið síðarnefnda."
+    },
+    {
+      "kind": "crux",
+      "subject": "אך למחסור",
+      "rationale": "Stutt frumlag: 'aðeins til skorts' — hver endar í skorti, kúgarinn eða gefandinn eða báðir; KJV les báða saman."
+    }
+  ],
+  "translation": "Sá sem kúgar fátæka til að fjölga sér, sá sem gefur ríka — aðeins til skorts.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/22\/13-16.1792411530042.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "kúgar"
+    },
+    {
+      "surface": "דל",
+      "gloss": "fátæka"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "til að fjölga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ríka"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "til skorts"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:30.043649879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mér",
+      "rationale": " hebreska hefur ekki 'munninn á mér' — myndir móttakanda eru faldar í orðinu 'פי'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "þrjár vikur daga",
+      "rationale": " Fastatalning fasta-tíma — þrjár 'vikur daga' eru taldar í versinu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמדות",
+      "rationale": "'brauð sem mikill listar' (brúðileg afleiðsla frá 'חמד' — að girnast) er vísvitandi þýtt sem 'léttbrauð' frekar en 'brauð án ávaxtar'."
+    }
+  ],
+  "translation": "Léttbrauð át ég ekki, og hold og vím kom ekki í munn ⟨mér⟩, og smyrsli smurði ég ekki, þar til fullnaður þriggja vikna daga.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f9035113407ed5927104eefd1ae34db27ae4476209c2a9dbd257238356d4f4ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/10\/3-4.1792417129785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "æskilegt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "át ég"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "og hold"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "og vím"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munn"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "og smyrsl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "smurði ég"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "fullnaður"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "þriggja"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "vikna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-10-19T13:38:49.786418206Z",
+  "model": "glm-5.3"
+}

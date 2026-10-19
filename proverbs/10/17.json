@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan vantar sagnlið; íslenskan þarf ‘er’"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסר",
+      "rationale": "músar er þjálfun\/agi, ekki refsing ein"
+    }
+  ],
+  "translation": "Slóði að lífi ⟨er⟩ sá sem gætir agans, en sá sem yfirgefir átökun villast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6004be6665a2f45108881f2f64729fd60c8ae796fc115f9b8e4f5324dc1b2616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/10\/17-20.1792411295166.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "slóði"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "að lífi"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "sá sem gætir"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "agans"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "en sá sem yfirgefir"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "átökun"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "villast"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:35.166575179Z",
+  "model": "glm-5.3"
+}

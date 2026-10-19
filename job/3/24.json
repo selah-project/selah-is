@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "לפני לחמי — 'fyrir brauði mínu': KJV 'kemur áður en égæt' vs JPS 'í stað brauðs míns'; hið síðarí passa við samhengið"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שאגתי — orðrétt 'brýlur eins og ljón', rendering sem 'öskur'"
+    }
+  ],
+  "translation": "Því að stynkur minn kemur í stað brauðs míns, og öskur minn rennur út eins og vatn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/3\/21-24.1792411747420.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "brauðs míns"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "stynkur minn"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "rennur út"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "eins og vatn"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "öskur minn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:07.421103829Z",
+  "model": "glm-5.3"
+}

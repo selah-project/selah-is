@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 23:5",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צמח er ‚sproti, kvistur‘ — formmynd orðsins er varðveitt, ekki titill"
+    },
+    {
+      "kind": "crux",
+      "subject": "לדוד",
+      "rationale": "„til Davíðs“ eða „fyrir Davíð“ — afkvæm ættar Davíðs"
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "„Sjá, dagar koma“ — fyrirliggjandi framtíðarheiti, uppfyllt ekki enn"
+    }
+  ],
+  "translation": "Sjá, dagar koma, segir Jahve, og ég mun reisa Davíð réttann sprota, og hann mun ríkja sem konungur og fara vitlega og gjöra dóm og tsedek í landinu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/5-8.1792405891644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "koma"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "og ég mun reisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "sprota"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "réttan"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og hann mun ríkja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sem konungur"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "og fara vitlega"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gjöra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dóm"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "og tsedek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landinu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:31:31.645220362Z",
+  "model": "glm-5.3"
+}

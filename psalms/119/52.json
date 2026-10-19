@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 119:52",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hóttaðist",
+      "rationale": "נחם getur merkt 'huggaðist' eða 'fann huggun'; endurspeglað er með víxlverkun við נחמתי í v. 50"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/נחם",
+      "rationale": "minnast og huggast birtast í v. 49 og 52 — rammaformúlaúpptökpsálmsins, glatað að hluta í íslensku"
+    }
+  ],
+  "translation": "Ég minntist dómanna þinna frá ævingi, Jahve, og ég hóttaðist.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/49-52.1792410794867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Ég minntist"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dómanna þinna"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "frá ævingi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואתנחם",
+      "gloss": "og ég hóttaðist"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:14.868590288Z",
+  "model": "glm-5.3"
+}

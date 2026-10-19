@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אנוש merkir 'dauðlegur' (lítt sveigjanlegt orð um mann), flutt sem lýsingarorð með bikuðum greini"
+    },
+    {
+      "kind": "crux",
+      "subject": "heimsækir",
+      "rationale": "פקד getur merkt vinræna eða óvinræna heimsókn, eftirlit eða talningu — 'heimsækir' heldur tvíræðninni"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Óbein áttun til Elóhím í öðrum persónu ('þú'), ljóðmælandi snýr sér að Guði"
+    }
+  ],
+  "translation": "Hvað er ⟨sá⟩ dauðlegi, að þú mant hann, og mannssonurinn, að þú heimsækir hann?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/8\/5-8.1792409289762.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvað"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "dauðlegi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "þú mant hann"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og mannssonurinn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "þú heimsækir hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:09.762661314Z",
+  "model": "glm-5.3"
+}

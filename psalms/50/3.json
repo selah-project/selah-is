@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יחרש",
+      "rationale": "Grunnmerking orðsins er 'að rispa, hjólfesta' — hér notað um að þegja; 'þegja' er viðurkennd merking en myndin tapast."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשערה",
+      "rationale": "Sjaldgæft orð — annað hvort 'stormar geisar' (frá שׂער, stormur) eða 'skelfst'; sambandið við סער 'stormur' ríkir í þýðingum."
+    }
+  ],
+  "translation": "Elóhím vors kemur og má ekki þegja; eldur fyrir framan hann ét, og í kringum hann er stormur með afli.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/50\/1-4.1792409847514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vors"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og má ekki"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "þegja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldur"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir framan hann"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ét"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "og í kringum hann"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "er stormur"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "með afli"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:27.515374177Z",
+  "model": "glm-5.3"
+}

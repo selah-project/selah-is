@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "את vantar í þessu versi; beint andlag fellur saman við fornafnið í יקריבנו."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלמים",
+      "rationale": "Sjeólamím — sjeólamím er með rót שלום; merkir fórn heildar eða friðar, glatað í íslensku orði."
+    }
+  ],
+  "translation": "Og ef kórban hans er af sauðfénu, til sláturfórnar sjeólamím fyrir Jahve, karl eða ker, óflett skal hann færa hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/3\/5-8.1792395386497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sauðfénu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kórban hans"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "til sláturfórnar"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sjeólamím"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karl"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ker"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "óflett"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "skal hann færa hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:26.499087362Z",
+  "model": "glm-5.3"
+}

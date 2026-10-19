@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 4:10",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Hebreska orðið merkir bæði 'nef' og 'angur'; 'nösum' heldst við bókstæða mynd."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדרך מצרים",
+      "rationale": "'Á leið Mitsrajím' — 'eins og í Egyptalandi' (KJV) eða bókstætt 'á veginu til Egyptalands' (YLT)."
+    },
+    {
+      "kind": "crux",
+      "subject": "עם שבי סוסיכם",
+      "rationale": "'Ásamt hersteldum hestum ykkar' — aðrar þýðingar lesa 'ásamt hernumið hesta ykkar' eða 'ásamt fangaðri ungdómsheershópflokka'."
+    }
+  ],
+  "translation": "Ég sendi með ykkur faraldur á leið Mitsrajím; ég drap sverði unga menn ykkar ásamt hersteldum hestum ykkar, og ég lét óþefi búða ykkar rísa upp í nösum ykkar — og ekki snérust þér til baka til mín, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3c1fb91850ce2d78f25e72d0585cceaf22a9390578a5abb5c4c90293c79c7dd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/4\/9-12.1792408452322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחתי",
+      "gloss": "Ég sendi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "með ykkur"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "faraldur"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á leið"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "הרגתי",
+      "gloss": "ég drap"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "með sverði"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "unga menn ykkar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ásamt"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "hersteldum"
+    },
+    {
+      "surface": "סוסיכם",
+      "gloss": "hestum ykkar"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "og ég lét rísa upp"
+    },
+    {
+      "surface": "באש",
+      "gloss": "óþefi"
+    },
+    {
+      "surface": "מחניכם",
+      "gloss": "búða ykkar"
+    },
+    {
+      "surface": "ובאפכם",
+      "gloss": "og í nösum ykkar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "snérust þér til baka"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:14:12.323036801Z",
+  "model": "glm-5.3"
+}

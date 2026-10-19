@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק geymt óþýtt sem tsedek samkvæmt reglunni; venjulega 'réttlæti'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Beinn ávarpur á Jahve með nafni."
+    }
+  ],
+  "translation": "Ég veit, Jahve, að tsedek eru dómar þínir, og í trúfesti þjáðir þú mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/73-76.1792410817923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ég veit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dómar þínir"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "og í trúfesti"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "þjáðir þú mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:37.924656263Z",
+  "model": "glm-5.3"
+}

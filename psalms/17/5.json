@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "תמך getur verið 'stuðstu' (þú stuðlar) eða 'héldust' (skrefin héldu fast); siðvenja les 'stuðla skrefum mínum' eins og boðbeiðni"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "nánframekkir talar til Jahve sem svarar í 17:6"
+    }
+  ],
+  "translation": "Skref mín héldust á slóðum þínum, fætur mínir viknuðu ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/17\/5-8.1792409337403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "héldust"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "skref mín"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "á slóðum þínum"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "viknuðu"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "fætur mínir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:57.403862381Z",
+  "model": "glm-5.3"
+}

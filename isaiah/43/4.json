@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lífs",
+      "rationale": "נֶפֶשׁ er lífskraftur\/andi, ekki ódauðleg sála; 'lífs' heldur myndinni"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "beint ávarp í öðru persónu framhalds 43:1–3"
+    }
+  ],
+  "translation": "Þar sem þú varst dýrmætur í augum mínum, vegsamaður, og ég elskaði þig, þá gef ég menn í þinn stað og þjóðir í stað lífs þíns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/43\/1-4.1792404649708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "þú varst dýrmætur"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum mínum"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "vegsamaður"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "elskaði þig"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "þá gef ég"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "menn"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "í þinn stað"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "og þjóðir"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lífs þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:49.710301690Z",
+  "model": "glm-5.3"
+}

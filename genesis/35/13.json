@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עלה 'steig upp' merkir virkt uppstig, ekki bara 'fór' — myndin er afhimninfarði Elóhím frá Jáakob"
+    }
+  ],
+  "translation": "Og Elóhím steig upp frá honum, á þeim stað sem hann hafði talað ⟨את⟩ við hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "12621bee20c0f198d5670f1fb24ec6f5514dfef2edb7ff482140f6e955f2ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/35\/13-16.1792393532507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "og steig upp"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "frá honum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "á staðnum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hafði talað"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ við hann",
+      "marks": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:05:32.508487848Z",
+  "model": "glm-5.3"
+}

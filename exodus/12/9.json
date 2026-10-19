@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נא",
+      "rationale": "orðið נא 'hrátt (kjöt)' kemur aðeins fyrir hér í Tanakh"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "hebresk neitunarlofað smástúkt 'heldur \/ nema' — tvö orð í einni merkingu"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "boð til Ísraelsmanna um mat Pesach-lambsins"
+    }
+  ],
+  "translation": "Eigi skuluð þér eta af ⟨á₂⟩ hrátt, né soðið með suðu í vatni, heldur steikt með eldi — höfuð ⟨á₂⟩ á fótleggjunum og á ínyflunum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/9-12.1792394330756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "skuluð þér eta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af ⟨á₂⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hrátt"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "né soðið"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "með suðu"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vatni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "צלי",
+      "gloss": "steikt"
+    },
+    {
+      "surface": "אש",
+      "gloss": "með eldi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "höfuð ⟨á₂⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "fótleggjunum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ínyflunum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:18:50.757455536Z",
+  "model": "glm-5.3"
+}

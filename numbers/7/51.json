@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "איל merkir hrútur (veiðihjörð), en D4-taflan festir 'hjörtur' — hér um fórnardýr, hrútur væri eðlilegra"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "בן בקר og בן שנתו eru hebresk tillögumynd ('sonr búfésins', 'sonr árs') endursagðar með viðskeytingu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Taldverin fórn: eitt naut, einn hjörtur, eitt lamb — tölvan ber upp á dýrunum"
+    }
+  ],
+  "translation": "Eitt ungt naut, sonr búfésins, einn hjörtur, eitt lamb, eitt árs gamalt, til brennifórnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4d8f98e9d7375d023c719f44e5e51bcfadbc2575c15e76b7567b2ff9f04398ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/7\/51-52.1792416392352.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ungt naut"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eitt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonr"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "búfésins"
+    },
+    {
+      "surface": "איל",
+      "gloss": "hjörtur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "lamb"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eitt"
+    },
+    {
+      "surface": "בן",
+      "gloss": "eitt ⟨árs⟩ gamalt"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "árs síns"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brennifórnar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:32.352530288Z",
+  "model": "glm-5.3"
+}

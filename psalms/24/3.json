@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "psalms 24:3",
+      "rationale": "Spurning beint til hlustandans — inngangsportrétð dregur lesandann inn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "helgistað",
+      "rationale": "מקום קדשו er bókstaflega „staður helgi hans“ — bundin smíð gefin sem eitt orð"
+    }
+  ],
+  "translation": "Hver skal ganga upp fjall Jahve, og hver má standa á helgistað hans?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/24\/1-4.1792409522293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "skal ganga upp"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "fjall"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "má standa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "á stað"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "helgi hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:02.294531541Z",
+  "model": "glm-5.3"
+}

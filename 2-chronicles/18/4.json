@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כיום",
+      "rationale": "'sem í dag' vs 'fyrst' (LXX 'πρῶτον', ASV\/BSB 'first') — hebreskan bókstaflega 'eins og daginn í dag'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jehosjafat talar við konung Ísraels",
+      "rationale": "boðsorð beint til Akabs"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Jahve",
+      "rationale": "יהוה ritað eftir hljóði — aldrei 'Drottinn' í sæti Nafnsins"
+    }
+  ],
+  "translation": "Og Jehosjafat sagði við konung Ísraels: Leita ⟨þú⟩ nú ⟨fyrst⟩ sem í dag ⟨את⟩ orð Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c2d761bb9e2a0804c12ef98992ba61f43b54c578b4ead2620dcce9be90f42a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/18\/1-4.1792415622507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og…sagði"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Leita"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú ⟨þú⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "⟨fyrst⟩ sem í dag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orð Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T13:13:42.508882428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Míkja talar í fyrstu persónu og stillir sér gegn röngu spámönnunum — 'en ég'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח merkir andi\/vindur\/andslétt — hér rúakh Jahve, ekki aðeins 'andi'."
+    }
+  ],
+  "translation": "En ég, ég er fullur krafts, me ⟨את⟩ rúakh Jahve og dóm og styrk, til að boða Jaakov uppreisn hans og Ísrael synd sína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/3\/5-8.1792408600934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "En"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "er fullur"
+    },
+    {
+      "surface": "כח",
+      "gloss": "krafts"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rúakh Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dóm"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "og styrk"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "til að boða"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "uppreisn hans"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "og Ísrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "synd sína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:40.936054778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "afkominn",
+      "rationale": "זרע er bókstaflega 'fræ' eða 'sáð'; 'afkomendur' gefur merkinguna en myndin glatast."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Passífsmynd 'verður blessuð' krefst hjávegu í íslensku sem hebreskan setur ekki fram."
+    }
+  ],
+  "translation": "Afkominn verður kappi á jörðinni; kynslóð hinna réttláta verður blessuð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/112\/1-4.1792410676878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "kappi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "afkominn hans"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "hinna réttlátu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "verður blessuð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:16.879118697Z",
+  "model": "glm-5.3"
+}

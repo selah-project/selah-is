@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רשפי קשת",
+      "rationale": "Bókstaflega 'eldglóðir bogans' — örvar sem blikta sem eldingar; sumir þýða 'örvar bogans', aðrir 'eldingarnar'."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Sela — tónlistarmerki um hlé, óþýðanlegt, varðveitt í hljóðritun."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'hann' bætt við — hebreskan segir aðeins 'braut', gerandinn ór skýrður."
+    }
+  ],
+  "translation": "Þar braut hann eldörvar bogans, skjöld og sverð og ófrið. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/76\/1-4.1792410161621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Þar"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "braut hann"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "eldörvar"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "bogans"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skjöld"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "og sverð"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "og ófrið"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:41.622219707Z",
+  "model": "glm-5.3"
+}

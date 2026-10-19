@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדרש ×3",
+      "rationale": "Sögnin darash endurtekin þrisvar — lögmálsleg krafa sem hamra orðinu; endurtekningin berst á íslensku með sömu setningamynd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lífi",
+      "rationale": "נפש er önd\/lífskraftur, ekki sála; 'lífi' heldur myndinni."
+    },
+    {
+      "kind": "you",
+      "subject": "til Nóachs og sona hans",
+      "rationale": "Elóhím talar beint til viðmælanda."
+    }
+  ],
+  "translation": "En ⟨את⟩ blóð ykkar — fyrir lífi ykkar — mun ég krefjast; af hendi alls livandi dýrs mun ég krefjast þess, og af hendi mannins, af hendi hvers manns bróður, mun ég krefjast ⟨את⟩ lífs mannlegu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/9\/5-8.1792392649346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "En"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóð ykkar"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "blóð ykkar"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "fyrir lífi ykkar"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "krefjast"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hendi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "livandi dýrs"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "krefjast þess"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "og af hendi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mannins"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hendi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvers manns"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "krefjast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lífs mannlegu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lífs"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mannlegu"
+    }
+  ],
+  "timestamp": "2026-10-19T06:50:49.346919516Z",
+  "model": "glm-5.3"
+}

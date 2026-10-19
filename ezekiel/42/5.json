@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יוכלו er frá אכל 'að éta' — svölðin 'éta' rýmið; endurgerð sem 'tóku frá'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "קצרות: 'styttri' (KJV) gegn 'þrengri\/neðri' — hvað gerist við efri klefana vegna svalanna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Lýsing á stærðarrýmist þriggja hæða mustersins"
+    }
+  ],
+  "translation": "Og hæstu klefarnir voru styttri, því að svölðin ⟨tóku⟩ frá þeim — frá neðstu og frá miðju byggingarinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fd938c5922968df263bd710e4a0007e74253d68c8f95eec7451012d2e33eec22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/42\/5-8.1792407868681.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "Og klefarnir"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "hæstu"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "voru styttri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "tóku"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "svölðin"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "frá þeim"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "frá neðstu"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "og frá miðju"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "byggingarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:04:28.682070602Z",
+  "model": "glm-5.3"
+}

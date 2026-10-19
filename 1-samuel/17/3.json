@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 17:3",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨var⟩",
+      "rationale": "hebreskan sleppir sögninni í sístu-liðnum; íslenskan krefst fyllingar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמדים ... עמדים",
+      "rationale": " fullkominn samstöðuliður: her stendur gagnvart her, mynstrið búð sviðið fyrir manninn milli þeirra."
+    }
+  ],
+  "translation": "Og Filistíar stóðu við fjallið þetta megin, og Ísrael stóð við fjallið hitt megin, og gljúfurinn ⟨var⟩ milli þeirra.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/1-4.1792400618221.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Og Filistíar"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stóðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "fjallið"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "þetta megin"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "og Ísrael"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stóð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "fjallið"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hitt megin"
+    },
+    {
+      "surface": "והגיא",
+      "gloss": "og gljúfurinn"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "milli þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T09:03:38.222965080Z",
+  "model": "glm-5.3"
+}

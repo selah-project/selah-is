@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 15:24",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahve",
+      "rationale": "יהוה ritað eftir hljóði — ekki „Drottinn“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "lét syngja",
+      "rationale": "החטיא orðrétt „lét missta“ — valdssýn: hann lét Ísrael syngja"
+    }
+  ],
+  "translation": "Og hann gjörði það sem illt er í augum Jahve; hann sótti ekki frá syndum Jarovam sonar Nevats, er hann lét ⟨את⟩ Ísrael syngja.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "74b205606fd25b1645b177ed4ffd7d06409f6cadca7dbf67b452fb7e3e935c08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/15\/21-24.1792403155250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "það sem illt er"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "sótti frá"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "frá syndum"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hann lét syngja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T09:45:55.251566061Z",
+  "model": "glm-5.3"
+}

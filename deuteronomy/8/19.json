@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכח תשכח \/ אבד תאבדון",
+      "rationale": "innsetning um tvítekna sögn: 'gleymir-gleymir' og 'farist-faristuð' — örugglega áhersla, glatað að hluta í íslensku"
+    },
+    {
+      "kind": "elision",
+      "subject": "תשכח \/ תאבדון",
+      "rationale": "tvítekning sagnarinnar tolkunsett í einni glósu, annað eintakið vitlaust"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אלהים אחרים",
+      "rationale": "'guðir' fleirtölu með litlum staf — um guði þjóðanna, ekki Elóhím"
+    }
+  ],
+  "translation": "Og það mun verða: ef þú gleymir alveg ⟨את⟩ Jahve, Elóhím þínum, og gengur eftir öðrum guðum og þjónar þeim og fellur fram fyrir þeim — ég hef borið vitni gegn yður í dag að þér munuð örugglega farast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "54914e1aceba12c75eb5e01977c7ff3551e17bc3a8a30d32e6abafda8da186b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/8\/18-19.1792416536403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það mun verða"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "gleymir alveg"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "(gleymir)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þínum"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "og gengur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "og þjónar"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "og fellur fram fyrir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "ég hef borið vitni"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "gegn yður"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í dag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "farast örugglega"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "(munuð farast)"
+    }
+  ],
+  "timestamp": "2026-10-19T13:28:56.404061539Z",
+  "model": "glm-5.3"
+}

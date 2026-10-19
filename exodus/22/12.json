@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף יטרף",
+      "rationale": "öldungaþáttun endurtekin sömynd, 'slitnað í sundur'"
+    },
+    {
+      "kind": "crux",
+      "subject": "til vitnis",
+      "rationale": "עד: 'leiðir það sem slitið var sem vitnisburð' — hverju er komið og í hvaða hlutverki"
+    }
+  ],
+  "translation": "ef það er slitnað í sundur, skal hann koma ⟨því⟩ til vitnis; það sem slitið var þarf hann ekki að bæta.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/9-12.1792394653215.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "slitnað"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "í sundur"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "skal koma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til vitnis"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "það sem slitið var"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "þarf að bæta"
+    }
+  ],
+  "timestamp": "2026-10-19T07:24:13.216889571Z",
+  "model": "glm-5.3"
+}

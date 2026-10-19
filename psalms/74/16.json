@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreskan sleppur sagnorðinu; íslenskan krefst þess"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאור",
+      "rationale": "'ljósaldi' almennt; BSB segir 'tunglið' — textinn segir aðeins ljósbera"
+    }
+  ],
+  "translation": "Þinn er dagurinn, einnig þinn er nóttin; þú settir ⟨upp⟩ ljósaldinn og sólu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/74\/13-16.1792410196715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Þinn er"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagurinn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þinn er"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nóttin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "settir ⟨upp⟩"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ljósaldinn"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "og sólu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:16.716819405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "'þeirra' (folkinu, v. 9) eða 'honum' (konunginum) — LXX og Rönsk lesa ýmist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משיחו",
+      "rationale": "'smurður' — konungur Ísraels, ekki Messías með síðari merkingu."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Samtenging 'er það' bætt við á undan lokuorðinu הוא."
+    }
+  ],
+  "translation": "Jahve er styrkur ⟨þeirra⟩ og vígi sünunar smurðs hans — hann ⟨er það⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/28\/5-8.1792409514618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrkur"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨þeirra⟩"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "og vígi"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "sünunar"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "smurðs hans"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann ⟨er það⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:54.619201862Z",
+  "model": "glm-5.3"
+}

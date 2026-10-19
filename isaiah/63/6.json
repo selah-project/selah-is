@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "נִצְחָם: 'safi þeirra (vínberjablóð)' — KJV 'strength' gegn ASV\/JPS 'lifeblood'; myndin er vinber sem troðið er í pressunni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בְּאַפִּי er rætt 'í nefi mínu' — reiðin sem andardráttur; íslenskan fær 'reiði' og týnir líkamsmyndinni."
+    }
+  ],
+  "translation": "Og ég tróð þjóðirnar niður í reiði minni, og gerði þær drukknar í bræði minni, og ég féllti blóði þeirra niður á jörðina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/63\/5-8.1792405055074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "og ég tróð niður"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "í reiði minni"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "og gerði þær drukknar"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "í bræði minni"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "og ég féllti niður"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "á jörðina"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "blóði þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:35.074965493Z",
+  "model": "glm-5.3"
+}

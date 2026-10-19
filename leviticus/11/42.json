@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨eru⟩ — hebreskan hefur ekki sögnina við הם"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„fótum“ bætt við „fjórum“ — hebreskan segir aðeins „fjórum“ en mannveldið skilur"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רגלים",
+      "rationale": "„fætur“ — רגל er fótur\/skref, ekkert kynnorð hér eins og Strong-vísbendingin getur"
+    }
+  ],
+  "translation": "Allt það sem gengur á kviði og allt það sem gengur á fjórum fótum, allt það sem margfaldar fætur, allt skriðdýrið sem skríður á jörðinni — það skuluð þér ekki éta, því viðbjóður ⟨eru⟩ þau.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/41-44.1792395649297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "það sem gengur"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "kviði"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "það sem gengur"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "fjórum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt það sem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "margfaldar"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "fætur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "skriðdýrið"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sem skríður"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "skuluð þér éta það"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "viðbjóður"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þau"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:49.298882577Z",
+  "model": "glm-5.3"
+}

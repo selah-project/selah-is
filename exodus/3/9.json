@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אשר orðrétt 'sem', en sett sem 'því' til að tengja setninguna"
+    }
+  ],
+  "translation": "Og nú, sjá, öskruni sona Ísraels hefur komið til mín, og ég hef einnig séð ⟨את⟩ þrenginguna, því hvernig Mitsráítar þrýsta ⟨את⟩ á þá.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/3\/9-12.1792394149469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "öskruni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "באה",
+      "gloss": "hefur komið"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og einnig"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hef ég séð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þrenginguna"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "þrenginguna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsráítar"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "þrýsta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ á þá",
+      "marks": "þá (sonur Ísraels)"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:49.470865589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רבה קשת",
+      "rationale": "Raðun orðanna er deilt: 'vaxandi bogamaður' (að sjálfsögðu um mann) eða 'hann jók boga sína'; KJV 'became an archer' vs YLT 'is an archer'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Hér er אֵת forsetningin 'með' (systurorð עם), ekki beinar-nafnornarinn ⟨את⟩; þess vegna glossað 'með' án merkis."
+    }
+  ],
+  "translation": "Og Elóhím var ⟨את⟩ með drengnum, og hann óx og settist að í eyðimörkinni og varð handbogi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a1d7e8693fefbb1d2c931627856edfc5093d96fc422e7ed381e7758abe70641a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/21\/17-20.1792393049729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "var"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ með"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "drengnum"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "óx"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "setti að"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "varð"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "vaxandi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "handbogi"
+    }
+  ],
+  "timestamp": "2026-10-19T06:57:29.730547339Z",
+  "model": "glm-5.3"
+}

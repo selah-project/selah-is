@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„enginn er“ — hebreskan segir ‚og enginn grafandi‘, áherslan bætt með „er til“"
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "fornafnið „hann“ (ungi spámaðurinn) bætt við, hebreskan nefnir hann ekki"
+    }
+  ],
+  "translation": "Og ⟨את⟩ Jesebel skulu hundarnir éta í hluta Jisreel, og enginn er til að grafa hana. Og ⟨hann⟩ opnaði hurðina og flúði.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/9\/9-12.1792403035511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Jesebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jesebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "skulu éta"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "hundarnir"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "í hluta"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn er"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "til að grafa"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "og opnaði"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "hurðina"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "og flúði"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:55.512504026Z",
+  "model": "glm-5.3"
+}

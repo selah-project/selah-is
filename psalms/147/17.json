@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפתים",
+      "rationale": "hlutmynd, 'bitar\/molar' — stuðningstextar: morsels, crumbs, pebbles"
+    },
+    {
+      "kind": "addition",
+      "subject": "getur",
+      "rationale": "íslenzka þarf hjáarsagn til spurningar; hebreskan segir aðeins 'hver mun standa'"
+    }
+  ],
+  "translation": "Hann varpar út ísnum sínum eins og mola; fyrir kulda hans — hver ⟨getur⟩ staðið?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/147\/17-20.1792411080478.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "varpar út"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ísnum hans"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "eins og mola"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "kulda hans"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "staðið"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:00.478636803Z",
+  "model": "glm-5.3"
+}

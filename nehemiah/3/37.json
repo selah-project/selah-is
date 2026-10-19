@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 3:37",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið ⟨þú⟩ og neikvæðisþátturinn ⟨ekki⟩ bætt við — hebreskan hefur aðeins deprekatífa neitunina אל"
+    },
+    {
+      "kind": "substitution",
+      "subject": "andlit",
+      "rationale": "מלפניך er „frá andliti þínu“ — íslenskan myndi segja „frá þér“, en mynd hebreskunnar er haldið"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "bænin beinist til Jahve um að eigi fyrna synd óvinanna"
+    }
+  ],
+  "translation": "Og þekja ⟨ekki⟩ ⟨þú⟩ ⟨את⟩ misgjörning þeirra, og synd þeirra skuli eigi útþurrast frá andliti þínu; því að þeir óþruðu ⟨þig⟩ gagnvart þeim sem byggja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "97d6c9fdbf6da73c636b752818484804bfb950050ba172f69c81a76bfd5b4b52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/3\/37-38.1792414080106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "תכס",
+      "gloss": "þekja"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "misgjörning þeirra"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "og synd þeirra"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "frá andliti þínu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "útþurrast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הכעיסו",
+      "gloss": "þeir óþruðu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "þeim sem byggja"
+    }
+  ],
+  "timestamp": "2026-10-19T12:48:00.107399558Z",
+  "model": "glm-5.3"
+}

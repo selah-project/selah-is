@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "iðrast ég",
+      "rationale": "נחם — 'iðrast' eða 'huggast\/breyta dómi'; Jákovs 4:6 notar 'repent', en rótin er öndun — 'ég tek til eigin anda'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבלתי",
+      "rationale": "neitunarefnið er spjalt á milli 'svo að' og 'ekki' í íslensku — eitt hebreskt orð, tvö íslensk"
+    }
+  ],
+  "translation": "og hún gerir hið illa í augum mínum, svo að hlýða ekki á rödd mína, þá iðrast ég yfir því góða er ég hafði sagt að gera ⟨את⟩ honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cb81abf17754ffca6a0538ed112c745fa2257be1153f34b19028f34897ea6f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/18\/9-12.1792405771148.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og hún gerir"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hið illa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum mínum"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "svo að ... ekki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hlýða"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "á rödd mína"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "þá iðrast ég"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "því góða"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ég hafði sagt"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "að gera gott"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:31.149715156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי",
+      "rationale": "„Eftir munni“ — hebreskt myndmál um að fylgja orðsendingu, varðveitt bókstæft"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Boðsenting til Ísraels um að hlýða dómi þeirra sem Jahve kýs"
+    }
+  ],
+  "translation": "Og þú gerir eftir munni þess orðs er þeir kunna þér, frá þeim stað er Jahve kýs, og þú gætir þess að gera eftir öllu því er þeir vísa þér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b1ded04132e8a95a4d48ca205128ebc9579a668b688ff4829cd1001956e15cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/17\/9-12.1792398139302.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og þú gerir"
+    },
+    {
+      "surface": "על",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "þess orðs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "þeir kunna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "þeim stað"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "Jahve kýs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "og þú gætir þess"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "eftir öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því er"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "þeir vísa þér"
+    }
+  ],
+  "timestamp": "2026-10-19T08:22:19.303237112Z",
+  "model": "glm-5.3"
+}

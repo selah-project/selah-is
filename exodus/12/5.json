@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "karldýr — 'dýr' er bætt við; hebreska orðið זכר er simply 'karl'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "fyrirmæli til Ísraels: 'ykkur', 'skulið þið'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ben-shana",
+      "rationale": "aldur dýrsins talinn: 'sonur eins árs', rétt eins og hebreskan"
+    }
+  ],
+  "translation": "Lamb, heilt, karldýr, ⟨sonur eins árs⟩, skal vera ykkur; frá lömbunum og frá geitunum skulið þið taka.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/5-8.1792394357386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "lamb"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "heilt"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karldýr"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eins árs"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "lömbunum"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og frá"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "geitunum"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "skulið þið taka"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:17.386766224Z",
+  "model": "glm-5.3"
+}

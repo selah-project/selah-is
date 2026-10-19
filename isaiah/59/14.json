@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 59:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה haldið sem tsedek samkvæmt reglu D2 — eitt orð, ein rót, ekki 'réttlæti' eitt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כשלה",
+      "rationale": "sannleikinn 'hratt' eins og maður með veika ökkla — persónugerving réttlætisins og sannleikans sem menn sem falla á torginu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ברחוב",
+      "rationale": "'torg' eða 'gata' — breið rýmisgata borgarinnar, opinber vettvangur"
+    }
+  ],
+  "translation": "Og dómur hafði aftur snúist og tsedek stendur fjarri, því að sannleikinn hratt á torginu og réttsæi ⟨má⟩ ekki koma inn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/13-16.1792405024772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסג",
+      "gloss": "og hafði aftur snúist"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "aftur"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dómur"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "og tsedek"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "fjarri"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stendur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "hratt"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "á torginu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleikurinn"
+    },
+    {
+      "surface": "ונכחה",
+      "gloss": "og réttsæi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "⟨má⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "að koma inn"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:04.773583064Z",
+  "model": "glm-5.3"
+}

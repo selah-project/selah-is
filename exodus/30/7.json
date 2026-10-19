@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 30:7",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "Tvítekin dagatíð: 'morgun eftir morgun' — reglan um daglega þjónustu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "búinn til",
+      "rationale": "בהיטיבו er bókstaflega 'þegar hann gerir gott' — um að gera lampana rétta."
+    }
+  ],
+  "translation": "Og Aharon skal reykja á því ilmreykelsi af kryddjurtum morgun eftir morgun; þegar hann búinn ⟨את⟩ lampana til, skal hann reykja það.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/30\/5-8.1792394925298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "skal reykja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á því"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "reykelsi"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "af kryddjurtum"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morgun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "eftir morgun"
+    },
+    {
+      "surface": "בהיטיבו",
+      "gloss": "þegar hann búinn ... til"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampana"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lampana"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "skal hann reykja það"
+    }
+  ],
+  "timestamp": "2026-10-19T07:28:45.299691358Z",
+  "model": "glm-5.3"
+}

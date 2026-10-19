@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hetrun: hebreskan segir einungis ‚hann mun blessa‘; frumlagsnavnorð bætt við."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחלה",
+      "rationale": "‚Sjúkdóm‘ — YLT þýðir ‚úr hjarta þínu‘ en orðið er ‚miðja‘, ekki hjarta."
+    }
+  ],
+  "translation": "Og þér skuluð þjóna ⟨את⟩ Jahve, Elóhím ykkar, og hann mun blessa ⟨את⟩ brauð þitt og ⟨את⟩ vatn þitt, og ég mun snúa burt sjúkdómi úr innra þínu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/25-28.1792394735123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "og þér skuluð þjóna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "og hann mun blessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brauð þitt"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "brauð þitt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "vatn þitt"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "vatn þitt"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "og ég mun snúa burt"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "sjúkdómi"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "úr innra þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:35.124402898Z",
+  "model": "glm-5.3"
+}

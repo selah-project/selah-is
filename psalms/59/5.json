@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenaska þarf frumlagið 'þeir' sem hebreskan segir í sögninni sjálfri"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Bein ákall: 'vaknaðu... og sjá' talar málsvarandinn til Jahve"
+    }
+  ],
+  "translation": "Án misgerðar hljópa þeir og búast; vaknaðu til að mæta mér og sjá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/5-8.1792409935158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "án"
+    },
+    {
+      "surface": "עון",
+      "gloss": "misgerðar"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "þeir hljópa"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "og búast"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "vaknaðu"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "til að mæta mér"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og sjá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:55.159321627Z",
+  "model": "glm-5.3"
+}

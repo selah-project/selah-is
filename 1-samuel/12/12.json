@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 12:12",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ávarp Ísraels",
+      "rationale": "Samúel talar beint til lýðsins: „þér sáðuð… þér sögðuð mér.“"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלככם",
+      "rationale": "Sögn eða nafnorð? „Jahve var konungur yðar“ eða „Jahve konunglegist yður“; nafnorðslesing valin."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Nei, heldur",
+      "rationale": "לא כי er hebreskt neitunar- og leiðréttingarsamband, gefið sem „Nei, heldur“."
+    }
+  ],
+  "translation": "Og þér sáðuð að Nakhasj, konungur barna Ammons, kom gegn yður, og þér sögðuð mér: Nei, heldur skal konungur ráða yfir oss — þótt Jahve Elóhím yðar var konungur yðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/12\/9-12.1792400395269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "sáðuð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakhasj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammons"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "gegn yður"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "sögðuð"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "skal ráða"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yfir oss"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "var konungur yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:59:55.271558915Z",
+  "model": "glm-5.3"
+}

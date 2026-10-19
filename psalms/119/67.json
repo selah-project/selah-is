@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ענה hér 'að þjást\/pyntast' — aðrar þýðingar fara með sögnina í 'svara'; samhengi kafla styður þjáningu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslaenska setur 'villist ég' í nútíð þótt samhengið sé liðin — hebreskan notar sama tíma"
+    }
+  ],
+  "translation": "Áður en ég þjáðist villist ég; en nú hef ég geymt orð þitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/65-68.1792410838752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Áður en"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ég þjáðist"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "villist"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nú"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "orð þitt"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "hef ég geymt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:58.753238537Z",
+  "model": "glm-5.3"
+}

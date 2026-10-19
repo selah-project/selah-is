@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חקות skilið 'lög' — sett regla, ekki 'siðir'; mishpát er 'dómar' sem D2-málinu fylgir"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "'maðurinn' getti verið óákveðinn: 'hver sá sem gjörir þau' — greinirinn ה- styður fremur 'maðurinn' almennt"
+    }
+  ],
+  "translation": "Og ég gaf þeim ⟨את⟩ lögmin þín og ⟨את⟩ dóma mína kunngjörði ég þeim, þau sem maðurinn gjörir og lifir í þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b7b7d84e98cce438ce2136fbdb288b77e2342ba6b17ce96403181e923a211fad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/20\/9-12.1792407198735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Og ég gaf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lögmin mín"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "lögmin mín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dóma mína"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dóma mína"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "kunngjörði ég"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ þeim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þau sem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gjörir"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "maðurinn (gerir þau)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og lifir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "í þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:53:18.736489104Z",
+  "model": "glm-5.3"
+}

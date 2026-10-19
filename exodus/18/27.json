@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וילך לו",
+      "rationale": "Orðrétt „og hann gekk sér“ — haft um að fara sinn veg; íslenskan þarf umritun."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„sinn“ bætt við — hebreskan á eignarendinguna í חתנו."
+    }
+  ],
+  "translation": "Og Mósje lét ⟨את⟩ mági sinn fara, og hann fór ⟨sín vegar⟩ til lands síns.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/18\/25-27.1792394528085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og lét fara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mági sinn"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "mági sinn"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og hann fór"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sín vegar⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lands síns"
+    }
+  ],
+  "timestamp": "2026-10-19T07:22:08.086301222Z",
+  "model": "glm-5.3"
+}

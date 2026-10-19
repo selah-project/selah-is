@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Sagnliður 'var' bætt við — hebreskan sleppir honum."
+    },
+    {
+      "kind": "crux",
+      "subject": "man",
+      "rationale": "Hebreska 'מן' tengist spurningunni 'man hu' — 'hvað er þetta?' (2. Mós 16:15); orðvilningur tapast í íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מן \/ מה",
+      "rationale": "Nafnið 'man' er hljóðlega spurningin sjálf — muninn sagði 'hvað er þetta?'."
+    }
+  ],
+  "translation": "Og hús Ísraels kallaði ⟨את⟩ nafn hans man, og hann var eins og kóríanderfræ, hvítt, og bragðið af honum eins og þunnt kaka með hunangi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/16\/29-32.1792394532512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Og kallaði"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn hans"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann var"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "eins og fræ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kóríander"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "hvítt"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "og bragðið af honum"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "eins og þunnt kaka"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "með hunangi"
+    }
+  ],
+  "timestamp": "2026-10-19T07:22:12.513043970Z",
+  "model": "glm-5.3"
+}

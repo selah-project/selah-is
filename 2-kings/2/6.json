@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 2:6",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin þín",
+      "rationale": "נפש er lífsandi\/óndráttur, ekki sála í enskum\/íslenskum skilningi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "svo sannarlega sem Jahve lifir",
+      "rationale": "hebresk eiðsformúla 'חי יהוה' — lifandi er Jahve"
+    },
+    {
+      "kind": "you",
+      "subject": "Elía til Elísa",
+      "rationale": "bein skipun: vertu hér"
+    }
+  ],
+  "translation": "Og Elía sagði við hann: Vertu ⟨þú⟩ hér, bið ekki, því að Jahve hefur sent mig til Jórdan. En hann sagði: Svo sannarlega sem Jahve lifir og sálin þín lifir, skil ég þig aldrei eftir. Og þeir fóru báðir.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/2\/5-8.1792402805558.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elía"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vertu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bið ekki"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "hefur sent mig"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "til Jórdan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hann sagði"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og lifir"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sálin þín"
+    },
+    {
+      "surface": "אם",
+      "gloss": "svo sannarlega sem"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "skil ég þig eftir"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og þeir fóru"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "báðir"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:05.559701923Z",
+  "model": "glm-5.3"
+}

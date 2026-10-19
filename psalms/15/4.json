@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבזה\/נמאס",
+      "rationale": "Tvö samstofu lægðarorð í samtengingu — 'fyrirlitinn\/fordæmdur' — pörun sem viðheldur djúpri hljóðrænni samstöðu."
+    },
+    {
+      "kind": "crux",
+      "subject": "להרע",
+      "rationale": "'Til að skaða sér' — sumir lesa 'til að gera illt' almennt (svo eiðurinn sé haldinn þótt hann reynist kostnaðarsamur)."
+    },
+    {
+      "kind": "addition",
+      "subject": "sér",
+      "rationale": "Fornafni 'sér' bætt við til að greina að eiðurinn snýr að sjálfum honum."
+    }
+  ],
+  "translation": "Í augum hans er fyrirlitinn sá er fordæmdur er, en ⟨את⟩ þá er óttast Jahve heiðar hann; hann hefur sannheitað að skaða sér og breytir ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/15\/1-4.1792409343517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "fyrirlitinn"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "Í augum hans"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "sá er fordæmdur er"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "þá er óttast Jahve"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "þá er óttast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "heiðar"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sannheitað"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "að skaða sér"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "breytir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:03.518868292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf fyllingu 'er það' og 'hér' sem hebreskan fellur niður; אני stendur eitt og הנה bendir á nærveru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאדניך",
+      "rationale": "אדון um mann (Akab) — 'herra' en ekki 'Adónaí', því Nafnið er ekki í textanum"
+    }
+  ],
+  "translation": "Og hann sagði við hann: Ég er ⟨það⟩; far og segðu herra þínum: Sjá, Élía er ⟨hér⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "12024e2f6c5611646f6d2bd8170462f756c18fb28194befbb42a410a5c13371d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/18\/8-8.1792416695390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ég er"
+    },
+    {
+      "surface": "לך",
+      "gloss": "far"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segðu"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "herra þínum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Élía"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:35.391106743Z",
+  "model": "glm-5.3"
+}

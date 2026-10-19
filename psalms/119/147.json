@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kom fyrir",
+      "rationale": "קדמתי er 'að komast fyrir, fyrirkomast' — gamla 'prevent' merkir einmitt 'koma fyrir', ekki 'hindra'."
+    },
+    {
+      "kind": "crux",
+      "subject": "aftanmeldan",
+      "rationale": "נשף: 'skammdegi\/aftanmelda' vs. 'morgunroði' — kjarninn er 'kvöldvindur', myrkrastund áður en dagur brýst."
+    }
+  ],
+  "translation": "Ég kom fyrir aftanmeldu og hrópaði; vegna orða þinna óttaðist ég von.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f6356460a213928bd5c60e79af546478b582d94566fceb038c9a63b113fd4134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/146-147.1792417007033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדמתי",
+      "gloss": "Ég kom fyrir"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "aftanmeldu"
+    },
+    {
+      "surface": "ואשועה",
+      "gloss": "og hrópaði"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "vegna orða þinna"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "óttaðist ég von"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:47.034175555Z",
+  "model": "glm-5.3"
+}

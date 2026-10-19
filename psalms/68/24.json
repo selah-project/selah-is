@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תמחץ",
+      "rationale": "Sama sögn og v. 22 — 'krossa\/bresta sundur'; hér um fót í blóði er 'bleyta' (KJV 'dipped') en orðmyndin er sömu og 'að krossa'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מנהו",
+      "rationale": "'frá honum\/því' — fleirtala ending enalegt; þýtt 'af þeim sjálfum' (KJV 'in the same'), JPS les 'fá sitt skammt af óvinum'."
+    },
+    {
+      "kind": "elision",
+      "subject": "mibadám leóyvim",
+      "rationale": "Hebreska tengir 'blóð óvina' við bæði fótinn og tunguna; íslenskan setur 'óvina' einu sinni til að forðast þyngsli."
+    }
+  ],
+  "translation": "Til þess að fóti þinn megi bleyta í blóði óvina, og tunga hunda þinna fá sitt hljóð af þeim — af þeim sjálfum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/21-24.1792410046822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Til þess að"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "bleyta"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "fóti þinn"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "í blóði"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "og tunga"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "hunda þinna"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "óvina"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "af þeim sjálfum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:46.823935148Z",
+  "model": "glm-5.3"
+}

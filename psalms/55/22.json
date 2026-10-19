@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קרב er 'ólíga\/ófriður' — orðið merkir átök, ekki almenn 'stríð'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלקו\/מחמאת\/רכו",
+      "rationale": "þríveggja mótsetning slétt—mjúkt—sverð; endurtekin samsetning 'orð munns\/orð hans' kemur tvisvar í versinu"
+    }
+  ],
+  "translation": "Sléttara en smjör eru orð munns hans, og hjarta hans er ófriður; mýkri en olía eru orð hans, en ⟨þau⟩ ⟩eru⟨ opin ⟩sverð⟨.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/55\/21-24.1792409907889.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "sléttara"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "en smjör"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "orð munns hans"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "og hjarta hans er ófriður"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hjarta hans"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "mýkri"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "orð hans"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "en olía"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "en þau"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "opin sverð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:27.890468307Z",
+  "model": "glm-5.3"
+}

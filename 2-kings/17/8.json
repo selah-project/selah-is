@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'í lögum' endurtekið við konunga Ísraels — hebreskan hefur aðeins eina forskeytingu ומלכי sem deilir byrjuninni"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר עשו",
+      "rationale": "'lög konunga Ísraels sem þeir (konungarnir) gerðu' eða 'sem þeir (Ísraelsmenn) gerðu' — KJV les síðara, JPS fyrra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפני",
+      "rationale": "bókstaflega 'frá andliti' — flutt 'frá ásjánu'"
+    }
+  ],
+  "translation": "Og fóru í lögum þjóðanna, þeirra sem Jahve hafði hrifið burt frá ásjánu synja Ísraels, og í lögum konunga Ísraels, þeirra sem þeir höfðu gert.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/5-8.1792403320909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Og fóru"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "í lögum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeirra sem"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "hafði hrifið burt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "frá ásjánu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synja"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "og konunga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeirra sem"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "höfðu gert"
+    }
+  ],
+  "timestamp": "2026-10-19T09:48:40.910417342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið ⟨þá⟩ bætt við — hebreskan segir aðeins 'og þú breiptir'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "נתתי er 1. pers. égógaf — sumir lesa 'mín' sem eign, en sagnmyndin er frétt frá Jahve sjálfum"
+    }
+  ],
+  "translation": "Og þú tokst ⟨את⟩ föt þín brodduðu og þú breiptir þau yfir ⟨þá⟩, og olíu mína og reykelsi mínt setti ég þér — og þú gafst það frammi fyrir þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e3871291f1a1296e9a2db91200bb5184e7e59401ec76bd4af1b1e8d1b0405e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/16\/17-20.1792407061409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Og þú tokst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föt þín brodduðu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "föt"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "þín brodduðu"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "og þú breiptir þau yfir"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "og olíu mína"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "og reykelsi mínt"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ég gaf — þú settir"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "frammi fyrir þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:51:01.410455062Z",
+  "model": "glm-5.3"
+}

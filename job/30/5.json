@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan á ekki sagnfyllingu; ⟨eru⟩ og ⟨sem⟩ bætt við"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גו",
+      "rationale": "„midjan\/bakið“ túlkað sem mannleg nágildni — „úr miðju (mannanna)“"
+    },
+    {
+      "kind": "crux",
+      "subject": "יריעו",
+      "rationale": "rúakh: „opna munninn\/öskra“ — ýmist „þeir öskra“ eða „(aðrir) öskra gegn þeim“"
+    }
+  ],
+  "translation": "Úr grennd mannanna ⟨eru⟩ þeir reknir burt; hrópa máttuglega gegn þeim, ⟨sem⟩ á þjóf.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "53c8d168e6f4d334a9c9080ac79a6c7d7f46d1a0211304f77bb4067869e04eb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/30\/5-6.1792417045584.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Úr"
+    },
+    {
+      "surface": "גו",
+      "gloss": "grennd mannanna"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "eru þeir reknir burt"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "hrópa máttuglega"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "gegn þeim"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "sem á þjóf"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:25.585260053Z",
+  "model": "glm-5.3"
+}

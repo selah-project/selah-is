@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Þá' við bókstafinn — óskáttæki framhald af v. 34, hebreskan segir aðeins 'ég tæki'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמדי",
+      "rationale": "'með mér sjálfum' — YLT 'I am not right with myself' vs KJV 'so with me'; upphaflega tóku sumir 'עִמָּדִי' sem 'af mér' (í eigin augum)"
+    }
+  ],
+  "translation": "Þá myndi ég tala og eigi óttast hann, en svo er það ekki með mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "933871900b4a241ea5300255c5268a3a0eecc49e69c48b81563f3ae23709be21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/9\/33-35.1792411924411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "myndi ég tala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "óttast hann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "en"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "með mér"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "með mér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:04.412144342Z",
+  "model": "glm-5.3"
+}

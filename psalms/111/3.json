@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreska sleppir sagnliðnum; íslenska krefst 'er'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה ritað eftir hljóði samkvæmt D2 — réttlæti, en rótin er 'beint, fast'"
+    }
+  ],
+  "translation": "Prýði og dýrð er verk hans, og tsedek hans stendur að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/111\/1-4.1792410711732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Prýði"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "og dýrð"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "verk hans"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "og tsedek hans"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stendur"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "að eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:51.733187041Z",
+  "model": "glm-5.3"
+}

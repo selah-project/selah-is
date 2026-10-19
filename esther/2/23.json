@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "וימצא — 'fannst' — skilið '⟨satt⟩' bætt við svo setningin botni, hebreskan segir aðeins 'fannst'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עץ merkir 'viður, tré' — ekki 'galdramiðill'; hengt á viðinn"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Málið ritað í annálkonungs — skráning, dagbók fyrir konunginum"
+    }
+  ],
+  "translation": "Og málið var rannsakað og fannst ⟨satt⟩, og þeir voru báðir hengdir á við, og það var ritað í bók annála daganum fyrir andliti konungsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/2\/21-23.1792413154583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Og málið var rannsakað"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "málið"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "og fannst"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "og voru hengdir"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "þeir báðir"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "við"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "og það var ritað"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "í bók"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "annála"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daganum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:34.584684894Z",
+  "model": "glm-5.3"
+}

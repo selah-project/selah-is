@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hann — forsögn bætt við, hebreskan hefur aðeins sagnliðinn"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "lýsing á verkum Jahve gagnvart lýð hans, svarið við lofgjörðinni"
+    }
+  ],
+  "translation": "Hann gjörði banablóð á frumburðum Mitsrajím, frá manni og til skepnu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/135\/5-8.1792410937639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "hann gjörði banablóð á"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "frumburðum"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "frá manni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "skepnu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:37.640872136Z",
+  "model": "glm-5.3"
+}

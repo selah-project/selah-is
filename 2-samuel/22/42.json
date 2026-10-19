@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ישעו: „lituðust um (eftir hjálp)“ samkvæmt שׁוע eða „óttuðust“ samkvæmt שׂוע — sérhljóði greinir milli orða."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„var“ bætt við; hebreskan segir aðeins ואין מושיע „og engan bjargvætt“."
+    }
+  ],
+  "translation": "Þeir litust um en enginn var til að bjarga; til Jahve, en hann svaraði þeim ekki.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b75fdaae818cbd2e8bb81776f209da940ba35380ff2582dc6423cfedbaeb3bbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/22\/41-44.1792401788921.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "þeir litust um"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en enginn var"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "til að bjarga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "svaraði hann þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T09:23:08.922572518Z",
+  "model": "glm-5.3"
+}

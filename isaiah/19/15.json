@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "höfuð eða hali",
+      "rationale": "hebreskt myndmál: öll stétt frá efsta til neðsta — palmblað (efst á tré) og sef (neðst í mýri) halda myndinni"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨neitt⟩",
+      "rationale": "íslenskan þarf greinilið við neitunina, hebreskan segir einfaldlega 'ekki verður verk'"
+    }
+  ],
+  "translation": "Og eigi verður Mitsrajím ⟨neitt⟩ verk, sem höfuð eða hali, palmblað eða sef, muni gera.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/19\/13-16.1792404021235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "muni gera"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "eða hali"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palmblað"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "eða sef"
+    }
+  ],
+  "timestamp": "2026-10-19T10:00:21.236835480Z",
+  "model": "glm-5.3"
+}

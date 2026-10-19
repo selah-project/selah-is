@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נגע er högg\/áverk, ekki 'plága'; hér 'áverk'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טהר\/טהור",
+      "rationale": "sömu rót tvöfalt, 'lýsir hreinn — hann er hrein', endurtekið í íslensku"
+    }
+  ],
+  "translation": "Og presturinn sér hann, og sjá, áverkinn hefur snúist til hvítleika, og presturinn lýsir ⟨את⟩ áverkinn hreinn; hann er hrein.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c665129c6aeaa9a3b860aa251de1384f78dc272012315e2c1f032831b3f63406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/17-20.1792395753411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "og sér hann"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "hefur snúist"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "áverkinn"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "til hvítleika"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "og lýsir hreinn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áverkinn"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "áverkinn"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hreinn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:42:33.412232611Z",
+  "model": "glm-5.3"
+}

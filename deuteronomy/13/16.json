@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "bókstaflega 'að munni sverðs' — haldið líterötu; hefð er 'með sverðs oddi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכה תכה",
+      "rationale": "nafnháttarupptök sagnarinnar endurtekin fyrir fullnægingu — 'högga skalt þú víslega högga'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "החרם",
+      "rationale": "khérem er bannhelgi — fært til eyðingar; 'leggja í bann' heldur helgidómsmyndinni"
+    }
+  ],
+  "translation": "Högga skalt þú víslega högga ⟨את⟩ íbúana þeirrar borgar að sverðs munni; leggja skalt þú ⟨את⟩ hana í bann og ⟨את⟩ allt það sem í henni er og ⟨את⟩ búfé hennar að sverðs munni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/13\/13-16.1792397969699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Högga"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "skalt þú víslega högga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "íbúana þeirrar borgar"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "íbúana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "þeirrar borgar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeirrar"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "að"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðs munni"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "leggja skalt þú í bann"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "hana ⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt það sem í henni er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í henni er"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "búfé hennar"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "búfé hennar"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "að"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðs munni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:19:29.701132057Z",
+  "model": "glm-5.3"
+}

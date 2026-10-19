@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "השב תשיבו er ósamkvæmni í þýðingu (infinitivus absolutus) — 'vissulega skuluð þið endurgjalda'."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "אשם getur verið 'sekt' eða 'sektarfórn'; valið 'sektarfórn' vegna samhengis gjafarinnar."
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "'víkur ekki frá yður' — תסור getur einnig merkt 'heldur ekki aftur'."
+    }
+  ],
+  "translation": "Og þeir sögðu: Ef þið sendið ⟨את⟩ örk Elóhím Ísraels, þá sendið ⟨את⟩ hana ekki tóma; því að vissulega skuluð þið endurgjalda honum sektarfórn; þá munuð þið læknast, og það mun yður kunnugt verða hvers vegna hönd hans víkur ekki frá yður.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "53cb481dcbf63fcb3767efb73f11797f92619438c26a078ee4494b40951fe386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/6\/1-4.1792400310971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og þeir sögðu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "þið sendið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örk"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "örk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "sendið"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hana"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tóma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vissulega"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "skuluð þið endurgjalda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sektarfórn"
+    },
+    {
+      "surface": "אז",
+      "gloss": "þá"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "munuð þið læknast"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "og það mun kunnugt verða"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvers vegna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "víkur"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hönd hans"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "frá yður"
+    }
+  ],
+  "timestamp": "2026-10-19T08:58:30.973185095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 4:4",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þýðing bætir við tökuorðunum 'það' og 'þeir' sem hebreskan felur í sagnmyndinni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "erkin",
+      "rationale": "וישאו er 'lyftu\/upphófu' — endursagt sem 'fluttu', því taka örkina upp er flytja hana"
+    },
+    {
+      "kind": "crux",
+      "subject": "situr yfir kerúbunum",
+      "rationale": "יֹשֵׁב הַכְּרֻבִים — 'sá sem situr (á\/ milli) kerúbanna'; sagnirnar eru óljósar: situr YHWH á kerúbunum eða býr þar á milli"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tveir synir",
+      "rationale": "vers telur og nefnir alla： tveir synir Elís, Khofní og Fínehas"
+    }
+  ],
+  "translation": "Og fólkið sendi til Sjíló, og þeir fluttu þaðan ⟨את⟩ sáttmálsörkina Jahve Tsevaót, hann sem situr yfir kerúbunum, og þar voru ⟨það⟩ tveir synir Elís með sáttmálsörk Elóhíms, Khofní og Fínehas.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5e6d9610f076aa02c72bdc6b14c7e37ef5ed75ee1096732b6165470a3fae7404",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/4\/4-4.1792416563252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og sendi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "til Sjíló"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "og þeir fluttu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "þaðan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáttmálsörkina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sáttmálsörkina"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmáls"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "situr"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "yfir kerúbunum"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og þar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tveir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elís"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sáttmálsörk"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmáls"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhíms"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Khofní"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "og Fínehas"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:23.252968702Z",
+  "model": "glm-5.3"
+}

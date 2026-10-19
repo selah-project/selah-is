@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היטיב\/הרע",
+      "rationale": "Andstæðan 'gjörði gott' — 'gjörir illt' er varðveitt í sömu rótum góð\/illt."
+    },
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Íslensk setningaskipan krefst forsagnar við skilyrtu setningu."
+    }
+  ],
+  "translation": "Ef þér yðgefið ⟨את⟩ Jahve og þjónið framandi guðum, þá mun hann snúa aftur og gjöra yður illt og eyða ⟨את⟩ yður, eftir að hann hefur gjört yður gott.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ddfa6e961e9ee9ac254b2062ec70179d9df427332086c57aceced4a5edc15e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/24\/17-20.1792399481634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "þér yðgefið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "og þjónið"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "framandi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "þá mun hann snúa aftur"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "og gjöra illt"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "og eyða"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yður"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því að"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "hefur gjört gott"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    }
+  ],
+  "timestamp": "2026-10-19T08:44:41.636268695Z",
+  "model": "glm-5.3"
+}

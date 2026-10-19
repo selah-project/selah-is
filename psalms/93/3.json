@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשאו...נשאו...ישאו",
+      "rationale": "Þreföld endurtekning sögu sagnarinnar 'lyfta' heldst í íslensku með 'hækka'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דכים",
+      "rationale": "ד׳׳כִי 'söguþyrla brims' kemur aðeins hér í Tanakh"
+    }
+  ],
+  "translation": "Hækkaðu hafa vatnsfallin, Jahve, hækkaðu hafa vatnsfallin rödd sína, hækka munu vatnsfallin brim þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/93\/1-4.1792410471067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "hækkaðu hafa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "vatnsfallin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hækkaðu hafa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "vatnsfallin"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "rödd sína"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hækka munu"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "vatnsfallin"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "brim þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:51.068524710Z",
+  "model": "glm-5.3"
+}

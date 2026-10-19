@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 20:13",
+  "book": "job",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gómur",
+      "rationale": "חך er gómur (himnuBotn munnins), ekki almennt 'háls' eða 'kok' eins og sumar þýðingar gera"
+    },
+    {
+      "kind": "alternative",
+      "subject": "heldur varðveitir",
+      "rationale": "וימנענה getur einnig merkt 'heldur eftir' — báðar lesningar falla að myndinni af illgirnd geymd í munninum"
+    }
+  ],
+  "translation": "Hann sparar hana og yfirgefur hana ekki, heldur geymir henni í miðju gómi hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2eeb078858b3bfce377c3c30b05a714e374dc5aba42beba5a3fadfc2968462a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/20\/13-16.1792412151502.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחמל",
+      "gloss": "sparar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ... ekki"
+    },
+    {
+      "surface": "יעזבנה",
+      "gloss": "yfirgefur hana"
+    },
+    {
+      "surface": "וימנענה",
+      "gloss": "geymir henni"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "gómi hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:51.502520412Z",
+  "model": "glm-5.3"
+}

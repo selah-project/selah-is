@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Fertíu ár í eyðimörkinni — ártala talin."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Breytt viðtalsmynd: fleirtala (yður, föt þín) en skórinn í eintölu — hebreskan skiptir um mynd eins og hún er."
+    }
+  ],
+  "translation": "Og ég leiddi ⟨את⟩ yður fertíu ár í eyðimörkinni; föt þín slitnuðu ekki af yður, og skór þinn slitnaði ekki af fæti þínum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/29\/1-4.1792398434149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "Og ég leiddi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður (beint andlag)"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fertíu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "slitnuðu"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "föt þín"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "af yður"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "og skór þinn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "slitnaði"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "fæti þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:27:14.150442098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 20:11",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnsliðinn ⟨er⟩ og nafnið ⟨kappi⟩ eru bætt við — hebreskan segir aðeins „Jahve með mér sem voldugur ógurlegur“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "Greiðan אותי hér er meðfram „með mér“, sjaldgæf notkun á tákni את með forskeytið 2. persónu."
+    }
+  ],
+  "translation": "En Jahve ⟨er⟩ ⟨את⟩ með mér sem voldugur ógurlegur ⟨kappi⟩; þess vegna munu ofsælar mínir typast og eigi geta, þeir skammast sín mjög, því að þeir fóru eigi viturlaga; eilíf smán verður eigi gleymd.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1cd73a94dab467f59f582ca81fa9d1ff04ed6bbe6d9d07a97bc24bff29c6892b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/20\/9-12.1792405836622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahve"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "með mér"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "sem voldugur"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "ógurlegur ⟨kappi⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(við þetta)"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ofsælar mínir"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "munu typast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "geta"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "þeir skammast sín"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "fóru viturlaga"
+    },
+    {
+      "surface": "כלמת",
+      "gloss": "smán"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilíf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "verður gleymd"
+    }
+  ],
+  "timestamp": "2026-10-19T10:30:36.623410902Z",
+  "model": "glm-5.3"
+}

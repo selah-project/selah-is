@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fór út og inn",
+      "rationale": "יוצא ובא — fast myndmál fyrir að leiða herdeildir út og aftur heim"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sögnin אהב er eintölu þó tveggja nafna sé getið — íslenskan setur fleirtölu"
+    }
+  ],
+  "translation": "En allt Ísrael og Júda elskaðu ⟨את⟩ Davíð, því að hann fór út og inn fyrir þeim.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4e4b14f2836feb455bdd817b3ffdfc37829c269a7813f5690645f4c833be3912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/18\/13-16.1792400663055.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En allt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Júda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskaðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "fór út"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og inn"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fyrir þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T09:04:23.057039409Z",
+  "model": "glm-5.3"
+}

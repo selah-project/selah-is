@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin",
+      "rationale": "נפש er önd\/lífskraftur, ekki ósálarhugtakið 'sál' í viðtækari merkingu"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "frægt crux: 'réttláti mun lifa í trúfesti sinni' — hebreska אמונה er það sem ber, stoðfesti og trúfesti, ekki aðeins 'trú' í hugmyndfræðilegri merkingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "עפלה (upphlaupin) gegn ישרה (rétt\/bein) — þunnið og íbelgt gegn beinu"
+    }
+  ],
+  "translation": "Sjá, upphlaupin er sálin hans — ekki er hún rétt ⟨í⟩ honum; en réttláti mun lifa í trúfesti sinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e9bb43088c6a26ccedc2ae0806c882cdff61045a6b946e3af7165b05ace4c4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/habakkuk\/2\/1-4.1792408780407.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "upphlaupin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "rétt"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálin hans"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í honum"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "en réttláti"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "í trúfesti sinni"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "mun lifa"
+    }
+  ],
+  "timestamp": "2026-10-19T11:19:40.409287804Z",
+  "model": "glm-5.3"
+}

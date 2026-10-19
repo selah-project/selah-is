@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קרסלי",
+      "rationale": "קַרְסֹל (ökkli) er mjög sjaldgæft orð, aðeins hér og í Sálm 18 samsvarandi versi 2. SamúelsbókAR."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ökklar",
+      "rationale": "KJK\/ASV\/JPS þýða קרסלי sem 'fætur'; hebreskan segir nákvæmlega ökklana."
+    }
+  ],
+  "translation": "Þú víðkar skref mitt undir mér, og ökklarnir mínir vögvuðu ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/37-40.1792409383807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "Þú víðkar"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "skref mitt"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "undir mér"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "vögvuðu"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "ökklarnir mínir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:43.807860536Z",
+  "model": "glm-5.3"
+}

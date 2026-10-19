@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "גוי רחוק",
+      "rationale": "Fjarlægðin mæld aftur: 'þjóð langt í burtu' — spegill 4:6."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכר",
+      "rationale": "Söluþrjálsagan: þeir seldu (4:6), Jahve selur þá nú — sömu rót þrisvar sinnum."
+    }
+  ],
+  "translation": "Og ég mun selja syni yðar ⟨את⟩ og dætur yðar ⟨את⟩ í hönd syna Júda, og þeir munu selja þá mönnum Sjeba, þjóð langt í burtu; því að Jahve hefur talað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b107c57d1e633adaa6c4b3d7aa35584fa5aa12ffa34b8d326361becda6a8ba54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/4\/5-8.1792408318535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "og ég mun selja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syni yðar"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "syni yðar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dætur yðar"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "dætur yðar"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "og þeir munu selja þá"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "mönnum Sjeba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "þjóðar"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "langt í burtu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hefur talað"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:58.536363992Z",
+  "model": "glm-5.3"
+}

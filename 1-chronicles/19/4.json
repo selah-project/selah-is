@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המפשעה",
+      "rationale": "Umfjöllun orðsins er eumfemismi fyrir skörun — 'mittisspor' í stað þess að segja orðið beint."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויגלחם",
+      "rationale": "'Hélt þeim rakka' — samanburðar textar (2. Sam 10:4) bæta við skeggjum; 1. Krón segir aðeins að raka."
+    }
+  ],
+  "translation": "Þá tók Khanun ⟨את⟩ þjóna Davíðs og hélt þeim rakka og skar ⟨את⟩ klæði þeirra til helmingar, allt að mittissporum, og sendi þá burt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "be16f8b43491578d4fce48d2323a0323be521e080bd1693bd8c2498cff97e28a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/19\/1-4.1792414915367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Þá tók"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Khanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóna Davíðs"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjóna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "og hélt þeim rakka"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "og skar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "klæði þeirra"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "klæði þeirra"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "til helmingar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt að"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "mittissporum"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "og sendi þá burt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:01:55.368711812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 22:17",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קבה",
+      "rationale": "Sjáaldanorð, 'að grafa út \/ stinga með orðum'; flest þýðingar segja 'bölvum', en bókmyndin er orðastungur."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבד אכבדך",
+      "rationale": "Sömu rót tvívegis — 'þyngi mun ég þyngja þig' — afturbeygt sögn glatast á íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'því að' — upphaflega כí tengir boð Balaks við undanfarandi orð."
+    }
+  ],
+  "translation": "því að ríkulega mun ég heiðra þig, og allt sem þú segir við mig mun ég gjöra; og far því nú, bíð ég, og sting með orðum fyrir mig ⟨את⟩ þenna lýð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "932bc8638c3cd4c14cf38c2cde87d32042533d7891be59d9997e47e0393fd8fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/22\/17-20.1792397057101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ríkulega"
+    },
+    {
+      "surface": "אכבדך",
+      "gloss": "mun ég heiðra þig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ríkulega"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "þú segir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mun ég gjöra"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "og far"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bíð ég"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "sting með orðum"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þenna lýð"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðinn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þennan"
+    }
+  ],
+  "timestamp": "2026-10-19T08:04:17.102429023Z",
+  "model": "glm-5.3"
+}

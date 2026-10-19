@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framsögnarorðið ⟨Jahve⟩ er sett úr 2:8, hebreskan nefnir hálflykilsins ekki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסיד er lýsingarorð af sömu rót og khesed — hinn trúfasti, geymt sem khesed"
+    }
+  ],
+  "translation": "Fætur khesed-síns ⟨Jahve⟩ gætir, en rangir þagna í myrkri, því ekki með krafti verður maður máttugur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/9-12.1792400146067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "fætur"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "khesed-síns"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "gætir"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "en rangir"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "í myrkri"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "þagna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "með krafti"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "verður máttugur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:46.068056934Z",
+  "model": "glm-5.3"
+}

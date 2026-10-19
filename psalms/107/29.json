@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יקם 'reisa' myndað — hann 'reisir storminn' að lækki; íslenskan heldur virkninni með 'gerir'"
+    }
+  ],
+  "translation": "Hann gerir storminn að hljóðlæti, og bylgjurnar þeirra þagna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/29-32.1792410659966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "Hann gerir"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "storminn"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "að hljóðlæti"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "og þagna"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "bylgjurnar þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:59.966551237Z",
+  "model": "glm-5.3"
+}

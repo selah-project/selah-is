@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "Tíð sem þýðandi: hebreska er ófullkomnin þátíð 'elskað hef ég', en nútíð er eðlilegri á íslensku."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Faðmaðurinn talar í fyrstu persónu til Jahve — persónulegt lof."
+    }
+  ],
+  "translation": "Ég elska, því að Jahve heyrir ⟨את⟩ röddmina, bænir mínar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/116\/1-4.1792410767765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ég elska"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "heyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "röddmina"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "röddmina"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "bænir mínar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:47.766068331Z",
+  "model": "glm-5.3"
+}

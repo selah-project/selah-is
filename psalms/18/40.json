@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hnígja",
+      "rationale": "כרע er bókstaflega að beygja kné; 'leggja undir' (KJK) missir knémyndina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קמי \/ תחתי",
+      "rationale": "þeir sem 'rísa upp' (קום) eru lagðir 'undir' (תחת) — andstæðan rísa\/fallast hverfur að hluta í þýðingu."
+    }
+  ],
+  "translation": "Og þú gyrtir mig krafti til orrustunnar; þú lætur þá sem rísa gegn mér hnígja undir mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3592fb4a228b3904063d69dd3b8e8d0d462e7e6a2ba99387922a948eb95a95bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/37-40.1792409383807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "Og þú gyrtir mig"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "krafti"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "til orrustunnar"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "þú lætur hnígja"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "þá sem rísa gegn mér"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "undir mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:43.808370349Z",
+  "model": "glm-5.3"
+}

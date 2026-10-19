@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אשריו er bæði gyðjan Asjera og viðarstykkin hennar; KJV 'groves' er rangt, rótin er nafn"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מצבתם: 'styttusteinar' vs 'lígneski' — orðið er upphaflega minnissteinn"
+    }
+  ],
+  "translation": "Því að ⟨את⟩ öltunum þeirra skaltu rífa niður, og ⟨את⟩ styttusteinum þeirra skaltu brjóta, og ⟨את⟩ Asjera-stykkjunum hans skaltu höggva niður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ee0715402b3258dedc41e0ed42b2c7c9aa9b1feb58c64b69706f7868f29e4bdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/34\/13-16.1792395088549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öltunum þeirra"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "öltunum þeirra"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "skaltu rífa niður"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "styttusteinum þeirra"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "styttusteinum þeirra"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "skaltu brjóta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Asjera-stykkjunum hans"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Asjera-stykkjunum hans"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "skaltu höggva niður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:31:28.549762429Z",
+  "model": "glm-5.3"
+}

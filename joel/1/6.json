@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨er⟩ án talningar",
+      "rationale": "Hebreskan segir 'og enginn tölu' án sagnar; íslenskan þarf sögn."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שניו שני",
+      "rationale": "Endurtekning á 'tennur' í röð tann — tennur hennar, tennur ljóns — stílbrigði sem glatast að hluta."
+    },
+    {
+      "kind": "alternative",
+      "subject": "גוי",
+      "rationale": "Sóraett 'þjóð' getur líka verið myndlíking um grashoppuna sjálfa sem 'þjóð' utan úr norðri."
+    }
+  ],
+  "translation": "Því að þjóð hefur staðið upp á land mitt, öflög og ⟨er⟩ án talningar; tennur hennar eru tennur ljóns, og jaxlar ljónynju ⟨eru⟩ henni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eb19395cae460333275cc61b3c8eeb117bc76aacfc17371649ddbb54cb86eb24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/1\/5-8.1792408266369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "hefur staðið upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "land mitt"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "öflög"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨er⟩ ekki"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "talning"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tennur hennar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tennur"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ljóns"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "og jaxlar"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ljónynju"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨eru⟩ henni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:06.370003327Z",
+  "model": "glm-5.3"
+}

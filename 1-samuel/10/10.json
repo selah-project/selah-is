@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 10:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hópur",
+      "rationale": "חבל er literally „reip“ eða „taug“, hér mynd yfir hóp spámanna"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותצלח",
+      "rationale": "„gekk yfir\/rysrti yfir“ — sögnin þýðir að skjóta fram; „kom kraftsamlega yfir“ eða „rysti yfir“"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "á meðal — בתוכ׾ merkir „í miðju þeirra“, íslenska þarf viðtekningu"
+    }
+  ],
+  "translation": "Og þeir komu þangað til Gíbea, og sjá, hópur spámanna fyrir móti honum, og rúakh Elóhím ⟨kom⟩ yfir hann, og hann spáði ⟨á meðal⟩ þeirra.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/10\/9-12.1792400424377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og þeir komu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þangað"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "til Gíbea"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "hópur"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "spámanna"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "fyrir móti honum"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "gekk yfir"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir hann"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "og hann spáði"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "í miðju þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T09:00:24.378520899Z",
+  "model": "glm-5.3"
+}

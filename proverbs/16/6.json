@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד haldið sem khesed — miskunn, trúfest, gæska í einu orði."
+    },
+    {
+      "kind": "addition",
+      "subject": "maður",
+      "rationale": "Hebreska sögnin סור hefur eigi nafnmynd; íslenskan þarf þolmynd með nafni."
+    }
+  ],
+  "translation": "Með khesed og trúfesti er sövn þakin, og með ótta Jahve snýst ⟨maður⟩ frá illu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/16\/5-8.1792411409803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "Með khesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "og trúfesti"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "er þakin"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sövn"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "og með ótta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סור",
+      "gloss": "snýst frá"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "illu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:29.804122608Z",
+  "model": "glm-5.3"
+}

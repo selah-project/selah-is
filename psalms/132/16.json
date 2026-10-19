@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ישע er 'frels, hjálpræði' — 'sigurbyrði' heldur myndinni af klæðnaði frekar en abstraktu 'frelsi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חסידים eru 'hín kærulausu, trúföstu' — 'heilög' er rúm íslensk venja"
+    }
+  ],
+  "translation": "Og presta hennar mun ég klæða sigurbyrði, og heilaga hennar munu fögnuðarfjölda syngja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/132\/13-16.1792410891298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "og presta hennar"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "mun ég klæða"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "sigurbyrði"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "og heilaga hennar"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "fögnuðarfjölda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "munu syngja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:51.299611477Z",
+  "model": "glm-5.3"
+}

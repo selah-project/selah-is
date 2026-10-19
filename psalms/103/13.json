@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רחם",
+      "rationale": "miskunn notuð fyrir רחם; orðið er inrifað málsefni ljóðsins"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרחם\/רחם",
+      "rationale": "sömu rót endurtekin í símilíu og uppfyllingu, rúmhafð í íslensku"
+    }
+  ],
+  "translation": "Eins og faðir sýnir miskunn sonum sínum, sýnir Jahve miskunn þeim sem óttast hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/13-16.1792410515631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Eins og sýnir miskunn"
+    },
+    {
+      "surface": "אב",
+      "gloss": "faðir"
+    },
+    {
+      "surface": "על",
+      "gloss": "sonum"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sonum sínum"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "sýnir miskunn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "þeim sem óttast hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:35.631612346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זנח",
+      "rationale": "'Horfnað hefur kálfurinn þinn' vs 'kálfurinn þinn horfnaði þér' (KJV) — sögnin getur verið virk eða óvirk."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפי",
+      "rationale": "lit. 'nefblástur minn' — reiði Elóhím ritað með líkamstaðmynd andlits."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נקין",
+      "rationale": "נִקָּיוֹן, 'ósnortinnleiki\/hreinleiki', kemur aðeins fyrir hér í Tanakh."
+    }
+  ],
+  "translation": "Horfnað hefur kálfurinn þinn, Shomeron; andinn minn kviknaði gegn þeim; hversu langa mund geta þeir ekki hreinsast?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/8\/5-8.1792408239027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "horfnað hefur"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "kálfurinn þinn"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kviknaði"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "andinn minn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "gegn þeim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hversu langa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mund"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "geta þeir"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "hreinsast"
+    }
+  ],
+  "timestamp": "2026-10-19T11:10:39.028137805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": " Hebreskan vantar sagnaruna; íslenskan krefst hennar."
+    },
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Fornafni bætt við til að gera hlutfallssetningu skýra á íslensku."
+    },
+    {
+      "kind": "elision",
+      "subject": "את Jaakov",
+      "rationale": "Merkið beins halls og nafnið standa framan til; íslenska orðrásin setur Jaakov fremst og hallinn brestur saman."
+    }
+  ],
+  "translation": "Og þetta eru nöfn sona Ísraels, ⟨sem⟩ komu til Mitsrajím; ⟨את⟩ Jaakov, hvern mann og hús hans, komu ⟨þeir⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b38a24f04bb804665731a3d0914fac7206ba14193922a5f26e45f04c7f21c9a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/1\/1-4.1792394083307.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "eru nöfn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "⟨sem⟩ komu"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "til Mitsrajím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvern mann"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "og hús hans"
+    },
+    {
+      "surface": "באו",
+      "gloss": "komu ⟨þeir⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:43.307933932Z",
+  "model": "glm-5.3"
+}

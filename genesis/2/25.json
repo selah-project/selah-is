@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skömmuðust",
+      "rationale": "בוש er bókstaflega 'að fölna', víkkast í 'að skammast' — myndin af blökkun tapast"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbeygingin 'voru' fylgir viktivirka sagnarsetningu en ekki tæka afstöðu"
+    }
+  ],
+  "translation": "Og þau voru bæði nakin, maðurinn og kona hans, og skömmuðust ekki.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0818fae54973337d1740a68c6986017050363276d8b7333857d2d2d6a1ef99ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/25-25.1792392492211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "og voru"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "þau bæði"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "nakin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og kona hans"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "skömmuðust"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:12.740585099Z",
+  "model": "glm-5.3"
+}

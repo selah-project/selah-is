@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 66:18",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מעשיהם ומחשבתיהם",
+      "rationale": "tveir agarar: 'þekki ég verk þeirra' (KJV\/JPS bæta inn sagnorði) eða 'verkin og hugmyndirnar koma' — hebreskan hefur ekkert sagnorð"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'⟨vitandi⟩' bætt við til að gera agarann skýran; hebreskan segir aðeins 'ég — verk þeirra og hugmyndir þeirra'"
+    },
+    {
+      "kind": "secret",
+      "subject": "dýrð mín",
+      "rationale": "dýrð Jahve birtist hinum fjarlægu þjóðum — það sem áður var ósýnilegt verður opinbert"
+    }
+  ],
+  "translation": "Og ég — ⟨vitandi⟩ verk þeirra og hugmyndir þeirra — kem ég til að safna ⟨את⟩ öllum þjóðunum og tungumálunum, og þeir munu koma og sjá ⟨את⟩ dýrð mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a756507780e62a250ad5e9b62395a8ccc38398181d4739e90a1a13b3f4f31bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/66\/17-20.1792405214345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Og ég"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "verk þeirra"
+    },
+    {
+      "surface": "ומחשבתיהם",
+      "gloss": "og hugmyndir þeirra"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kem"
+    },
+    {
+      "surface": "לקבץ",
+      "gloss": "til að safna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllum þjóðunum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "והלשנות",
+      "gloss": "og tungumálunum"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "og þeir munu koma"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dýrð mína"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "dýrð mína"
+    }
+  ],
+  "timestamp": "2026-10-19T10:20:14.346452962Z",
+  "model": "glm-5.3"
+}

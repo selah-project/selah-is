@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "לו er aukafall frá לוט, ekki sögn; 'hann átti' er sett inn til skýringar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנגבה",
+      "rationale": "Negev er þurrka-suðurhéruðið; 'suður' einu myndi missta"
+    }
+  ],
+  "translation": "Og Avram fór upp frá Mitsrajím, hann og kona hans og allt það sem hann átti, og Lót með honum, suður til Negev.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "766851734e096eb45e73f6bc924153185c4ec4b082a5c2178bd489d72f317258",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/13\/1-4.1792392830275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "fór upp"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "frá Mitsrajím"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og kona hans"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hann átti"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "og Lót"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "með honum"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "suður til Negev"
+    }
+  ],
+  "timestamp": "2026-10-19T06:53:50.276386006Z",
+  "model": "glm-5.3"
+}

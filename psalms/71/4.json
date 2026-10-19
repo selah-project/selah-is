@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beðið beint til Elóhím, áframhald bænar vitningsins"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ranga",
+      "rationale": "רשע er raunverulega persóna — hinn rangi — ekki ópersónuleg vondur kraftur"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעול וחומץ",
+      "rationale": "Fáein lesningar: Sírum ‚hinn óvin-skeggjaði‘ les חומץ sem kverk\/únz, aðrar ‚grimmur og harður‘ — tvennt myndmál eftir samhljóða rótum"
+    }
+  ],
+  "translation": "Elóhím minn, gef mér undanleið úr hendi hinum ranga, úr lófa hins óvin-skeggjaða og harðsnúna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/71\/1-4.1792410076772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "gef mér undanleið"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hinum ranga"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "úr lófa"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "óvin-skeggjaðs"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "og harðsnúins"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:16.773682825Z",
+  "model": "glm-5.3"
+}

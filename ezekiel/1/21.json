@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 1:21",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hjólín",
+      "rationale": "hebreska segir aðeins „fóru“ og „stóðu“ í öðru og þriðja lið; gerandinn hjólín er skilinn út frá samhengi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "rúach haft óþýtt eftir D2 — vindur\/andi\/ lifandi andardráttur í einni rót"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילכו\/יעמדו\/ינשאו",
+      "rationale": "endurtekning atkvæða í hvert sinn sömu sagnir — attorðaskipti sem glatast að hluta til í íslensku"
+    }
+  ],
+  "translation": "Þegar þeir fóru, fóru ⟨hjólín⟩; og þegar þeir stóðu, stóðu ⟨hjólín⟩; og þegar þeir voru hafðir upp af jörðinni, voru hjólín höfð upp jafnhliða þeim, því að rúakh hins lifanda var í hjólunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/1\/21-24.1792406715269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלכתם",
+      "gloss": "þegar þeir fóru"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "fóru"
+    },
+    {
+      "surface": "ובעמדם",
+      "gloss": "og þegar þeir stóðu"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stóðu"
+    },
+    {
+      "surface": "ובהנשאם",
+      "gloss": "og þegar þeir voru hafðir upp"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "voru höfð upp"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "hjólín"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "jafnhliða þeim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "hins lifanda"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "í hjólunum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:45:15.270011419Z",
+  "model": "glm-5.3"
+}

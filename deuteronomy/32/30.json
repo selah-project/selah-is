@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "klettur",
+      "rationale": "צור er klettur en táknar Guð þeirra; 'klettur' heldur myndinni"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא כי",
+      "rationale": "Rétthætispurning: 'er það ekki því að...'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "einn\/þúsund\/tveir\/tíu þúsund",
+      "rationale": "Tölurnar 1:1000 og 2:10000 gera ójafnan aflið mælanlegan"
+    }
+  ],
+  "translation": "Hvernig eltir einn þúsund, og flýja tveir tíu þúsund — er það ekki því að klettur ⟨þeirra⟩ seldi þá, og Jahve gaf ⟨þá⟩ upp?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/32\/29-32.1792398533431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Hvernig"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "eltir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "og tveir"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "flýja"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "tíu þúsund"
+    },
+    {
+      "surface": "אם",
+      "gloss": "er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "klettur ⟨þeirra⟩"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "seldi þá"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "gaf ⟨þá⟩ upp"
+    }
+  ],
+  "timestamp": "2026-10-19T08:28:53.432002560Z",
+  "model": "glm-5.3"
+}

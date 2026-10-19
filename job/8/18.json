@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„einhver“ og „staðurinn“ bætt við — hebreskan leyfir ónafngreint frumlag"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וכחש בו",
+      "rationale": "Bókstaflega „lygur um hann“ — staðurinn dulkennir tréð eins og maður"
+    }
+  ],
+  "translation": "Ef ⟨einhver⟩ gleypir hann frá stað hans, þá afneitar ⟨staðurinn⟩ honum: Ég hef ekki séð þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "115f7f93859ebda55517b4ccb791b2859a05f7e8c6da8d5efda980af002312ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/8\/17-20.1792411851959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "gleypir hann"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "frá stað hans"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "þá afneitar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "Ég hef ekki séð þig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:51.960759112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המעתיק",
+      "rationale": "Sjaldgæft orð — 'að fjarlægja\/bera í burtu'; lesendur deila um hvort það þýði 'að flytja fjöllin' eða 'að eldast'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באפו",
+      "rationale": "Orðlegt 'í nasinu sínum' — í hebresku er reiðin í nasinum; 'í reiði sinni' fær merkinguna en myndin glatarast."
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Íslenskan þarf viðfang við 'vita'; hebreskan segir bara 'og ekki þekktu þau'."
+    }
+  ],
+  "translation": "sá sem fjarlægir fjöllin, og þau vita ⟨það⟩ ekki, er hann hvelfir þeim í reiði sinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/9\/5-8.1792411892489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "sá sem fjarlægir"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fjöllin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "hvelfir þeim"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "í reiði sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:32.489800318Z",
+  "model": "glm-5.3"
+}

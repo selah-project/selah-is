@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "óræður",
+      "rationale": "בער er 'nautalegt, groddalegt' — ekki 'heimskur' heldur nautavits"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב…אהב \/ שנא",
+      "rationale": "Endurtekið 'elskar' gagnstætt 'hatar' — parateltímverk sem helst í íslensku"
+    }
+  ],
+  "translation": "Sá er elskar aga elskar þekkingu, en sá sem hatar áminningu er óræður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/12\/1-4.1792411360494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elskar"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "aga"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskar"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "þekkingu"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "en hatar"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "áminningu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "óræður"
+    }
+  ],
+  "timestamp": "2026-10-19T12:02:40.495468283Z",
+  "model": "glm-5.3"
+}

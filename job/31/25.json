@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sögnin krefst andlags 'fégnaði því að' — hebreska hefur aðeins אשמח כי"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חילי",
+      "rationale": "חיל merkir bæði afl, hersveit og auð; 'auður' valinn samkvæmt samhenginu"
+    }
+  ],
+  "translation": "Ef ég fagnaði því að auður minn var mikill, og því að hönd mín hafði fengið ⟨af⟩ gnótt,",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "260588f1bfd20e912f88aa3aa7fac0f561a32d708c15a1fed35108765099b82e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/31\/25-28.1792412323964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "ég fagnaði"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "auður minn"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og því að"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "gnótt"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "hafði fengið"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hönd mín"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:43.965131275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Reflexive 'þig' supplied — Hebrew says only 'will you hide'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Hve lengi' repeated before the second question; Hebrew carries it over from עד מה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "heift",
+      "rationale": "חמה is 'hití, bruni' — heat\/anger; 'heift' captures the burning sense"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Bein röð til Jahve — hvörva spurning nálgar lesandann"
+    }
+  ],
+  "translation": "Hve lengi, Jáhve, mun þú fela þig að eilífu? Hve lengi mun heift þín brenna sem eldur?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6b743e9db5660e27197683c6b57fe58f6415eefe456bd947d764677f0ed5e310",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/46-47.1792416944985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hve lengi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jáhve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "mun þú fela þig"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mun brenna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldur"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "heift þín"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:44.986222522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יחבלו er myndað af taugeymslu — að binda með reipi — og þýtt 'taka veð', þ.e. kröfu um veð."
+    },
+    {
+      "kind": "crux",
+      "subject": "mishod",
+      "rationale": "'Frá brjóstinu' (KJV, JPS) gegn 'þeir ræna brjóstit sjálft' — hvort sniðgöngun snúist að barni eða brjóstinu."
+    }
+  ],
+  "translation": "Þeir rífa munaðarleysingjann frá brjóstinu og taka veð af fátæku.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "162591c073d69330d3c9b4a8b6f31d674c9395e593d4f8faab5139bd4a991159",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/24\/9-12.1792412250751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "Þeir rífa"
+    },
+    {
+      "surface": "משד",
+      "gloss": "frá brjóstinu"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "munaðarleysingjann"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og af"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fátæku"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "taka veð"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:30.752227273Z",
+  "model": "glm-5.3"
+}

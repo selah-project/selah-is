@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נגף",
+      "rationale": "'að stiga á \/ höggva á' bókstaflega 'að stanga', smella — 'að feisa' gegn 'að verða fyrir áverka'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "í ótta",
+      "rationale": "לבטח merkir 'í tryggð\/öruggt', íslenska 'í ótta' er staðgengill fyrir öryggi"
+    }
+  ],
+  "translation": "Þá gengur þú í ótta á vegi þínum, og fótur þinn skal ekki stiga á.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cbd2feae047deb75fd33cbff78480b913b58e7ffbe45038204beb8b8b2b4845b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/21-24.1792411142251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gengur þú"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "í ótta"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "á vegi þínum"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "og fótur þinn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "stiga á"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:02.252062563Z",
+  "model": "glm-5.3"
+}

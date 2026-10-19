@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימישון",
+      "rationale": "Lemma מושׁ 'snerta\/breyta' — gott er 'snerta ekki' (KJV 'handle not') gegn 'færa ekki'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יהגו",
+      "rationale": "הגה er 'murra\/glenna' — 'gefa hljóð' í stað bókstaflegs 'murra'."
+    }
+  ],
+  "translation": "Hendur ⟨þeirra⟩ og snerta ekki, fætur ⟨þeirra⟩ og ganga ekki, ekki gefa ⟨þeir⟩ hljóð í háls sér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/115\/5-8.1792410721200.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "hendur ⟨þeirra⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "snerta"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "fætur ⟨þeirra⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ganga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "gefa hljóð"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "í háls sér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:01.201049228Z",
+  "model": "glm-5.3"
+}

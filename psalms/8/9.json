@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "עבר ארחות er sögn með viðbjóð; íslenskan þarf umtilbeirni ⟨sá sem⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hjáanna",
+      "rationale": "ימים er fleirtala 'hafa'; íslenska hefur ekki fleirtölu í þessu orði"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארחות ימים",
+      "rationale": "'stígar hjáanna' — mynd af skipaleiðum í sjó; endurtekning vers 4 lokar listann um skepnurnar"
+    }
+  ],
+  "translation": "Fugl himnanna og fiskur hafsins, ⟨sá sem⟩ ferðast stígil hjáanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/8\/9-10.1792409276057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "fugl"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "og fiskur"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafsins"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ferðast"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "stígil"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hjáanna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:56.058050238Z",
+  "model": "glm-5.3"
+}

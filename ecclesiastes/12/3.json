@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "varðar hússins",
+      "rationale": "Myndrænt stífla öryrðis: „varðar hússins“ eru armarnir, „kappar aflsins“ fótleggirnir, „kvernarnar“ tennurnar, „þeir sem lita út um gluggana“ augun — eða bókstaflegt aldrað fólk."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gluggana",
+      "rationale": "אֲרֻבּוֹת er glergluggar (skeiðar) — hurðaraugar, ekki venjuleg gluggi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויזעו\/מעטו",
+      "rationale": "Endurtekin þáttarsagnmynd viðtengingarháttar (zú‘u, ‛attú, batelu, khashkhu) í stíflunni — endursagðan takt sem tapast í íslenskunni."
+    }
+  ],
+  "translation": "Á degi er verða hreyft varðar hússins, og teygjast kappar aflsins, og kvernarnar hljóta, því að fækkað hefur, og myrkna þeir sem lita út um gluggana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/12\/1-4.1792413169232.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Á degi"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "er verða hreyft"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "varðar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "og teygjast"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kappar"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "aflsins"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "og hljóta"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "kvernarnar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "fækkað hefur"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "og myrkna"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "þeir sem lita"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "út um gluggana"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:49.233372669Z",
+  "model": "glm-5.3"
+}

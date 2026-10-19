@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שטני — 'andstæðingar'; bókstaflega 'akvarararnir\/minir sökvarar', sömu rót og Satán."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש — 'sálu'; orðið er nær 'háls\/lífskraftur' en sála sem aðskilin vera."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sé' — hebreskan notar framvísun án sagnar; óskarháttur skín fram af samhenginu."
+    }
+  ],
+  "translation": "Þetta sé laun andstæðinga minna frá ⟨את⟩ Jahve, og þeirra sem tala illt um sálu mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/17-20.1792410714295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "laun"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "andstæðinga minna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "frá ⟨את⟩ Jahve",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "og þeirra sem tala"
+    },
+    {
+      "surface": "רע",
+      "gloss": "illt"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:54.296164248Z",
+  "model": "glm-5.3"
+}

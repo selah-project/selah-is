@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רפאים — skuggar dauðra; ort eftir hljóði sem refaím, ekki 'hinir dauðu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf oglokaða setningu og sögnina 'eru' sem hebreskan sleppir."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "קראיה — boðnir gestir hennar; svarið við boði konunnar í v. 16, glatað í þýðingu."
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "Hinn einfaldi veit það ekki — hulin þekking um endalok boðs Folly-konunnar."
+    }
+  ],
+  "translation": "Og hann veit ⟨það⟩ ekki, að þar eru refaím; í dýpri Sjeól ⟨eru⟩ þeir sem hún hefur boðið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6fa2c59682590fb39dcd4b7409845d04b1d5edf387481cb32aebb8bbd0fe9104",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/9\/17-18.1792411211178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ... ekki"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "veit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaím"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "í dýpri"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeól"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "þeir sem hún hefur boðið"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:11.179351393Z",
+  "model": "glm-5.3"
+}

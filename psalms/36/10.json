@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אור\/נראה",
+      "rationale": "'ljós' og 'sjá' standa saman — orðaleyndin (אור…נראה אור) týnast ekki alveg í íslensku"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Versið varpar ljósi á samfélag biðjandans við Guð — 'hjá þér'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fleirtölu fátt 'vér' er af leiddinni; hebreska sögnin hefur engaSkyldna persónu"
+    }
+  ],
+  "translation": "Því að hjá þér er uppsprettu lífs; í ljósi þínu sjáum vér ljós.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "770e5f4e7b6cd2b3a2e29726d5bc1fe99ae4427a2ffaeba58196f77c6a6039b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/36\/9-12.1792409587332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hjá þér"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "uppsprettu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lífs"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "í ljósi þínu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "sjáum vér"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljós"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:07.333050338Z",
+  "model": "glm-5.3"
+}

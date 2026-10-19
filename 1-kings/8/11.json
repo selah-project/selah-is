@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dýrð",
+      "rationale": "כבוד er 'þyngd, þungavigt' — 'dýrð' er myndræn en ekki bókstafleg"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jahve",
+      "rationale": "Nafnið Jahve kemur tvisvar í sömu verslínunni — endurtekning er varðveitt"
+    }
+  ],
+  "translation": "Og prestarnir gátu ekki staðið þar til að þjóna vegna skýsins, því að dýrð Jahve fyllti ⟨את⟩ hús Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5a4410f162ccfad969b89850ef66aa415dd1b91d9b54a93cb4d14de09287504e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/9-12.1792402202570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og … ekki"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "gátu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "staðið"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "að þjóna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skýsins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllti"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dýrð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hús Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:02.571745805Z",
+  "model": "glm-5.3"
+}

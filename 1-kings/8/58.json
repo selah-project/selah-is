@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-kings 8:58",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבב",
+      "rationale": "לבב er hjartað sem innsta líffæri — íslenska 'hjarta' nær myndinni en ekki viljann sem orðið ber oft með sér."
+    },
+    {
+      "kind": "addition",
+      "subject": "svo að vér",
+      "rationale": "Hebreskan notar infinitifus í áttlausri rað (að ganga, að varðveita) — greinandi frásögn bætir við nafnórum."
+    }
+  ],
+  "translation": "Til að beyja hjarta vor til hans, svo að vér gangum alla vegi hans og varðveitum boðorð hans og settir hans og dóma hans, þau er hann bauð ⟨את⟩ feðrum vorum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/57-60.1792402225730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "Til að beyja"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "hjarta vor"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "að ganga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "vegi hans"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "og varðveitum"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "boðorð hans"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "og settir hans"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "og dóma hans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þau er"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feðrum vorum"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "feðrum vorum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:25.731246252Z",
+  "model": "glm-5.3"
+}

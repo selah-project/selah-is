@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskeytið 'með' við söngvunum er sett fram því hebreskan setur רני פלט án forsetningar."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Bein áttun til Jahve í annarri persónu."
+    }
+  ],
+  "translation": "Þú ert felustaður fyrir mér, úr þrenging gætir þú mín, með söngvum frelsis umkringir þú mig. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/32\/5-8.1792409661019.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "felustaður"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mér"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "úr þrenging"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "gætir þú mín"
+    },
+    {
+      "surface": "רני",
+      "gloss": "með söngvum"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "frelsiss"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "umkringir þú mig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:21.019925067Z",
+  "model": "glm-5.3"
+}

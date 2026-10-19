@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ba'alim",
+      "rationale": "מסכות er mótuð mynd úr bráðnu málm — 'steypt líkneski' heldur myndinni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hann' bætt við í síðari setningu þar sem hebreskan heldur sögn eins (עשה)."
+    }
+  ],
+  "translation": "Og hann fótgaðist í vegum konunganna Ísraels, og hann gjörði jafnvel steypta líkneski fyrir Ba'alim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d9e594cb3f5e8af00810fa4bc7664f313392e5d5b0ca9987195954ae866c9da6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/28\/1-4.1792415820662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "fótgaðist hann"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "í vegum"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konunganna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og jafnvel"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "steypta líkneski"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði hann"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "fyrir Ba'alim"
+    }
+  ],
+  "timestamp": "2026-10-19T13:17:00.663483613Z",
+  "model": "glm-5.3"
+}

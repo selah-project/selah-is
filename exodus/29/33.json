@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "מלא את היד, 'að fylla hönd', er mynd fyrir að vígja til embættis; yfirborðsþýðing höldin."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Setningin snýr að Aharon og sonum hans — hver má éta og hver ekki."
+    }
+  ],
+  "translation": "Og þeir skulu eta ⟨את⟩ þeim hlutum er sœtt var með þeim, til að fylla hönd þeirra, til að helga ⟨את⟩ þá; og útlendingur má ekki éta, því að heilagt eru þeir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/29\/33-36.1792394957678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "og þeir skulu eta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hlutirnir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "sœtt var"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "með þeim"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "til að fylla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hönd þeirra"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hönd þeirra"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "til að helga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "og útlendingur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "má éta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilagt"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:29:17.679471822Z",
+  "model": "glm-5.3"
+}

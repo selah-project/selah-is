@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "לאמר er endurtekið segjuorð; Íslenska þarf 'og sagði' til að bera tvíþveru sögjunnar."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jósef",
+      "rationale": "Paró talar beint til Jósefs með annarri persónu eintölu."
+    }
+  ],
+  "translation": "Og Paró sagði við Jósef og sagði: Faðir þinn og bræður þínir hafa komið til þín.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "de91aa49e0887abd0345def5187086bef1cf4696be0404be5e348d1a1f070434",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/47\/5-8.1792393945756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "faðir þinn"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "og bræður þínir"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hafa komið"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    }
+  ],
+  "timestamp": "2026-10-19T07:12:25.757412753Z",
+  "model": "glm-5.3"
+}

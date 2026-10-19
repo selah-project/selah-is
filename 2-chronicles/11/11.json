@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "Íslenska þarf viðtaks fornafn þar sem hebreska notar sniðið «settí-í-þau»."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Listi yfir birgðir — matur, olía, vín — og undirbúningur virkjanna."
+    }
+  ],
+  "translation": "Og hann styrkti ⟨את⟩ virkin og setti í ⟨þau⟩ höfðingja og forðabúr matar og olíu og vín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d61eac73f0d9b36e15d62a28afb734e7e8c733e2a90a1038c8e538cb18acf4f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/11\/9-12.1792415366380.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Og hann styrkti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "virkin"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "virkin"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og setti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "í ⟨þau⟩"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "höfðingja"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "og forðabúr"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "matar"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "og olíu"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "og vín"
+    }
+  ],
+  "timestamp": "2026-10-19T13:09:26.381612614Z",
+  "model": "glm-5.3"
+}

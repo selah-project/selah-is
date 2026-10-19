@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפשכם er 'geð\/þrá ykkar' — lífskrafti, ekki sál í síðari merkingu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'það' og 'að ég' — íslenskan þarf fylgniör í aukasetningu sem hebreskan heldur í smáorðum"
+    }
+  ],
+  "translation": "Og hann talaði ⟨את⟩ við þá og sagði: Ef það er ⟨את⟩ í geði ykkar að ég grafi ⟨את⟩ minn dána undan sýn minni, hljóðið mig, og leitið fyrir mig til Efron, sonar Tsokhar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e5130f2f5f44e5c266f3cbda3822c02e2e4d5f8c283fb3503540e0297589675b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/23\/5-8.1792393049982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og hann talaði"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ við"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "יש",
+      "gloss": "það er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geði ykkar"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "í geði ykkar"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "að grafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minn dána"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "minn dána"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "undan sýn minni"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "hljóðið mig"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "og leitið"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "til Efron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsokhar"
+    }
+  ],
+  "timestamp": "2026-10-19T06:57:29.983421228Z",
+  "model": "glm-5.3"
+}

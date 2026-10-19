@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הולך ... ילך",
+      "rationale": " sömu rót endurtekin: 'gengur ... gengur', stíllmypnd sem týnist í íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": " 'verður þekktur' (passív, sbr. KJV\/ASV) gegn 'finnur hann út' (virk merking); passívin er ríkjandi lesning."
+    }
+  ],
+  "translation": "Sá sem gengur í heilleika gengur ⟨öryggi⟩, en sá sem skekkjar vegi sína verður þekktur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/10\/9-12.1792411291482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "sá sem gengur"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "í heilleika"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "öryggi"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "en sá sem skekkjar"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "vegi sína"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "verður þekktur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:31.482833278Z",
+  "model": "glm-5.3"
+}

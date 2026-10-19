@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "נקם ינקם — óendanleg sagnmynd („hefnd skal hefnast“); endursöguð með „örugglega“."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Hverjar þrælgyltingarhalda segja sumir að נקם ינקם meini dauðarefsingu (samhliða v.12), en aðrir aðeins refsingu dóms — textinn sjálfur segir aðeins „hefnt skal hefnast“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "„undir höndum hans“ — hebreskan segir „undir hönd hans“ (eintölu), tekið í fleirtölu samkvæmt íslenskri vanða."
+    }
+  ],
+  "translation": "Og ef maður slær ⟨את⟩ þræl sinn eða ⟨את⟩ ambátt sína með staf, og sá deyr undir höndum hans — hefnt skal örugglega hefst.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/17-20.1792394766045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "og ef"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slær"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þræl sinn"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "þræl sinn"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambátt sína"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ambátt sína"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "með staf"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og deyr"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "höndum hans"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hefnt skal"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "örugglega hefst"
+    }
+  ],
+  "timestamp": "2026-10-19T07:26:06.047742347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא ויצא",
+      "rationale": "„Fór inn og út“ — hebreska myndin um að vera frjáls að komast um meðal fólksins."
+    },
+    {
+      "kind": "elision",
+      "subject": "בית הכליא",
+      "rationale": "Orðrétt „hús fangelsisins“; „í fangelsið“ nær merkingunni án tvíhlyðnar orðmyndar."
+    }
+  ],
+  "translation": "Og Jirmejahu fór inn og út meðal lýðsins, því að þeir höfðu ekki sett ⟨את⟩ hann í fangelsið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "696216b146a56e8f7ae503e0d58deb0929d5b0e290572e44099b32b2f533e0de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/37\/4-4.1792416828956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Og Jirmejahu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "fór inn"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og út"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "meðal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðsins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "því að ekki"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "höfðu þeir sett"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í hús"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "fangelsisins"
+    }
+  ],
+  "timestamp": "2026-10-19T13:33:48.957160013Z",
+  "model": "glm-5.3"
+}

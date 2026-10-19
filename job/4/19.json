@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 4:19",
+  "book": "job",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Hversu meira“ í stað einfalds אף („einng“) — framhald röksemdar 4:18"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "לפני עש: „fyrir munni mýlar“ (YLT „before a moth“) vs. KJV „before the moth“; mynstrið er smættun — maðurinn brotnar eins og klæði fyrir mýl"
+    }
+  ],
+  "translation": "Hversu meira þeir sem búa í húsum úr leir, þeir er grundvöllur er í ryki — þeir eru sundurriknir fyrir munni mýlar?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9fe6f964e9f0c9b2044212bfd797a58e4a1e5195b4fcad09549ad5728e7be682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/4\/17-20.1792411768125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Hversu meira"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "þeir sem búa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "í húsum"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "úr leir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir er"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "í ryki"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "grundvöllur"
+    },
+    {
+      "surface": "ידכאום",
+      "gloss": "þeir eru sundurriknir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir munni"
+    },
+    {
+      "surface": "עש",
+      "gloss": "mýlar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:28.126371708Z",
+  "model": "glm-5.3"
+}

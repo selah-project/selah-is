@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "hidden",
+      "rationale": "צפן — að fela, hylja, geyma; orðið er geymt út af sýn, upphafið í hjartanu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "word",
+      "rationale": "אמרה er sérstakt orð um boðan\/mál þitt, ekki almenna orðið דבר; 'orð þitt' nær því ekki alveg."
+    }
+  ],
+  "translation": "Í hjarta mínu hefi ég falið orð þitt, til þess að ég syndi ekki gegn þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/9-12.1792410803966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "í hjarta mínu"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "hefi ég falið"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "orð þitt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "syndi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gegn þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:23.967545413Z",
+  "model": "glm-5.3"
+}

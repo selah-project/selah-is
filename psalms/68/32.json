@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חשמנים",
+      "rationale": "Orðið חשמן kemur aðeins fyrir hér í Tanakh — þýtt \"ríkismenn\", \"sendimenn\" eða \"smurðu frekar\"."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תריץ ידיו",
+      "rationale": "Bókstaflega \"lætur hendur sínar hlaupa\" — hjálfyndi mynd fyrir \"flýtir sér að rétta hendur\"."
+    }
+  ],
+  "translation": "Ríkmenn munu koma frá Mitsrajím; Kús lætur hendur sínar fljúga til Elóhím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/29-32.1792410118006.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "munu koma"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "Ríkmenn"
+    },
+    {
+      "surface": "מני",
+      "gloss": "frá"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "lætur ... fljúga"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "hendur sínar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "til Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:58.007690889Z",
+  "model": "glm-5.3"
+}

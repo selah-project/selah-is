@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "áherslufornafnið היא bætt við sem ⟨הוא⟩ til að halda setningarfyrirkomulagi íslenskunnar"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשיחך",
+      "rationale": "שיח getur verið 'tala' eða 'hugleiða'; KJB 'talk with thee' vs. 'hugleiða með þér'"
+    }
+  ],
+  "translation": "Þegar þú gengur mun ⟨הוא⟩ leiða ⟨את⟩ þig; þegar þú leggst mun ⟨הוא⟩ gæta þín; og þegar þú vaknar mun ⟨הוא⟩ tala við þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5152fe1bf7cddc63c997e06eb86ac3baa130441dbdc05dba57b145aa02360e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/6\/21-24.1792411224664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Þegar þú gengur"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "leiða"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "þig"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "þegar þú leggst"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "gæta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "þín"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "og þegar þú vaknar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨הוא⟩"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "tala við þig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:24.665485083Z",
+  "model": "glm-5.3"
+}

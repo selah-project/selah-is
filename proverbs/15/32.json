@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er önd\/lífskraftur, ekki ósýnileg sál í síðari merkingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "öðlast hjarta",
+      "rationale": "קונה לב er bókstaflegt 'kaupir sér hjarta' — hjarta = skilningur; flestar þýðingar segja understanding"
+    }
+  ],
+  "translation": "Sá sem hafnar aga fyrirgangi sér sál sinni, en sá sem hlustar á áminningu öðlast hjarta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a48a3aa2832e661bbdea4bf222c5a7e084844425869bfeb5476f4b34fe5dbef3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/15\/29-32.1792411430632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "hafnar"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "aga"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "fyrirgangi sér"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sál sinni"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "en sá sem hlustar"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "áminningu"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "öðlast"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:50.633966902Z",
+  "model": "glm-5.3"
+}

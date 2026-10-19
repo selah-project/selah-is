@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "stjörnuheiti",
+      "rationale": "עש, כסיל og כימה — margar þýðingar setja 'Miklavagn', 'Óríon' og 'Sjöstirnina'; hljóðritun hebresku nafnanna hér"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עַיִשׁ",
+      "rationale": "Stjörnumerkið Eish (עש) kemur aðeins fyrir hér í Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חדרי תימן",
+      "rationale": "Lítið 'herbergi suðsins' — mynd stjörnanna sem rýma himinsins í suðri"
+    }
+  ],
+  "translation": "sá sem gerir ⟨את⟩ Eish, ⟨את⟩ Kesil og ⟨את⟩ Kimah, og herbergi suðsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0c51e8bd1914b1a3ee1084ecbb0bc5b003343e282b6507467ec596a13459b512",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/9\/9-12.1792411839944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "gerir"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Eish"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Kesil"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "og Kimah"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "og herbergi"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "suðsins"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:39.945187842Z",
+  "model": "glm-5.3"
+}

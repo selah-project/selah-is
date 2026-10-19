@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Misjkan",
+      "rationale": "משכן ritað eftir hljóði (D2), ekki 'tjaldbúð'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ítrent sagnfylling 'er' bætt við í ⟨…⟩, hebreskan notar והיה sem er ekki ómerk sagnfylling"
+    }
+  ],
+  "translation": "Og þú skalt taka ⟨את⟩ smyrslis-olíuna og smurja ⟨את⟩ Misjkan-inn og ⟨את⟩ allt það sem í honum er, og þú skalt helga ⟨את⟩ hann og ⟨את⟩ allt tilhögun hans, og ⟨er⟩ hann helgur.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/40\/9-12.1792395328460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "og þú skalt taka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smyrslis-olíuna"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olíu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smurningar-"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "og smurja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misjkan-inn"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkan-inn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allt það sem í honum er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í honum er"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og þú skalt helga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann (Misjkan-inn)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allt tilhögun hans"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "tilhögun hans"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og ⟨er⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "hann helgur"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:28.461568591Z",
+  "model": "glm-5.3"
+}

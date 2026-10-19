@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כל האדם",
+      "rationale": "'hið heila hjá manninum' (JPS\/ylt: 'the whole of man') gegn 'allur skylda mannsins' (KJV: 'whole duty of man') — hebreskan segir ekki 'skylda'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "נשמע er ópersónuleg (þolmynd); íslenskan þarf eintölu karlkyns 'heyrdur' og samboðinn greini."
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "Nafnháttar boðsanir óttast og geym beinast til lesandans — lokaupphvatning bókarinnar."
+    }
+  ],
+  "translation": "Endinn alls orðsins ⟨er⟩ heyrdur: óttast ⟨את⟩ Elóhím og geym ⟨את⟩ boðorð hans, því þetta er hið heila hjá manninum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f54211c6719b6fd9a8034a900125db913846010ef32518f189808d8dc58e8d62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/12\/13-14.1792413138168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "endinn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orðsins"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨er⟩ heyrdur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elóhím"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "óttast"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "boðorð hans"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "boðorð hans"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "geym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hið heila"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "hjá manninum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:18.169167573Z",
+  "model": "glm-5.3"
+}

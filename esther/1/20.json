@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פתגם",
+      "rationale": "persneskt lánsorð — upprunaleg mynd kemur aðeins í Esterarbók og Danielsbók."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "samtenging sem hebreskan sleppir við היא ρבה — kópa bætt við á íslensku."
+    },
+    {
+      "kind": "measurement",
+      "subject": "למגדול ועד קטן",
+      "rationale": "hebreska mælitáknið „frá stærsta og til minnsta“ — fullt svið, enginn undanskilinn."
+    }
+  ],
+  "translation": "Og dómsorð kóngsins, það sem hann gerir, verður heyrt í öllu konungsríki hans — því að það ⟨er⟩ mikill — og allar konurnar munu gefa eiginmönnum sínum virðingu, frá þeim mæsta og til þess minnsta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/1\/17-20.1792413248108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "Og verður heyrt"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "dómsorð"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kóngsins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hann gerir"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í öllu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "konungsríki hans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "היא",
+      "gloss": "það"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allar"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "konurnar"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "munu gefa"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "virðingu"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "eiginmönnum sínum"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "frá þeim mæsta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "þess minnsta"
+    }
+  ],
+  "timestamp": "2026-10-19T12:34:08.109565154Z",
+  "model": "glm-5.3"
+}

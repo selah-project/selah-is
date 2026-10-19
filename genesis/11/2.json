@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Fornafnið 'þeir' vantar í hebreskuna, bætt við til skýrleika"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mikdkjem",
+      "rationale": "'Af austri' (KJV\/JPS) gegn 'til austurs' — rótin merkir 'framhlut\/austri'"
+    }
+  ],
+  "translation": "Og var, er ⟨þeir⟩ fóru upp úr austri, að ⟨þeir⟩ fundu dal í landi Sínar og settust þar að.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/11\/1-4.1792392839199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og var"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "er þeir fóru"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "upp úr austri"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "fundu"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "dal"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Sínar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og settust að"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    }
+  ],
+  "timestamp": "2026-10-19T06:53:59.200132041Z",
+  "model": "glm-5.3"
+}

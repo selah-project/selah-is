@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Forsagður fornafni bætt við, hebreskan segir aðeins „og dó“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שת \/ שתים",
+      "rationale": "Nafn Sets og töluna „tveir“ hljóma eins á hebresku, glatað á íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tólf ár og níu hundruð ár",
+      "rationale": "Ævilengd talda upp í árum"
+    }
+  ],
+  "translation": "Og allir dagar Sets urðu tólf ár og níu hundruð ár, og hann dó.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/5\/5-8.1792392567178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "urðu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sets"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tólf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-f"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "og níu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og hann dó"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:27.180328921Z",
+  "model": "glm-5.3"
+}

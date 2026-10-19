@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin",
+      "rationale": "נפש er andardráttur\/lífsafli — 'sál' er víða notað en ekki fang"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מר\/מתוק",
+      "rationale": "andstæðan beitt\/sætt stendur hvörgum við hlið í hebresku — málsgrein endar á snúningi"
+    }
+  ],
+  "translation": "Sætta sálin trampar niður hunangsdropa, en hungraðri sálin er allt beitt sætt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/5-8.1792411676356.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sálin"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Sætta"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "trampar niður"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "hunangsdropa"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "en sálin"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "hungraðri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מר",
+      "gloss": "beitt"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sætt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:56.357513918Z",
+  "model": "glm-5.3"
+}

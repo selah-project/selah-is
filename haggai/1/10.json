@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כלאו\/כלאה",
+      "rationale": "Sömu rót כלא endurtekin um himinn og jörð — samhljóm sem glatist ekki á íslensku með 'hjalda'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "himnarímin",
+      "rationale": "שמים er tvítala (himnarímin, tvö hvelfing) — flertala hebreskunnar varðveitt"
+    }
+  ],
+  "translation": "Þess vegna hefur himnarímin hjaldið dögg yfir ykkur, og jörðin hefur hjaltað ávöxtum sínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "37d25f0e976b38aa496e47dcd84ef3707c7c2ad8fff4b797c2b7fcd54c7743b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/haggai\/1\/10-11.1792416916110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "hefur hjaltað"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnarímin"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "dögg"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og jörðin"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "hefur hjaltað"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ávöxtum sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:16.111413075Z",
+  "model": "glm-5.3"
+}

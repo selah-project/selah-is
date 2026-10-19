@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "khesed haft óþýtt — 'miskunn' náði ekki vængnum"
+    }
+  ],
+  "translation": "Því að khesed þinn er fyrir augum mér, og ég hef gengt í sannleika þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/26\/1-4.1792409532426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed þinn"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augum mér"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "og hef ég gengt"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "í sannleika þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:12.427820965Z",
+  "model": "glm-5.3"
+}

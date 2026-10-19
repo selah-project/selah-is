@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "Hér er אִתָּךְ forsetningin 'með þér' (H854), ekki beginingsmerkið; merkið ⟨את⟩ er varðveitt í glósu samkvæmt reglu."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'inn' og 'svo að' bætt við — íslenska þarf áttavísun og tilgangstengingu sem hebreskan bendir með atkvæðum."
+    },
+    {
+      "kind": "you",
+      "subject": "Aharon og synir hans",
+      "rationale": "Boð tiltækt beint til Aharonar og sona hans — prestar í tjaldbúðinni."
+    }
+  ],
+  "translation": "Vín og sterkan drykk skalt þú ekki drekka, þú og synir þínir ⟨את⟩ með þér, þegar þið gangið inn í samfundartjaldið, svo að þið deyið ekki — regla að eilífu fyrir kynslóðir ykkar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "7e2d65fcf001e04082906623344a463529b459d903ef2e418d137a3e6b2cbf8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/10\/9-12.1792395629705.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "Vín"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "og sterkan drykk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "skalt þú drekka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "og synir þínir"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ með þér",
+      "marks": "þú"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "þegar þið gangið inn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjald"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "samfundar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "svo að þið ekki"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "deyið"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "regla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "fyrir kynslóðir ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:29.706277572Z",
+  "model": "glm-5.3"
+}

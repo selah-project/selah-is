@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לקד er 'veidd' (sem í net eða gildru) — 'tekin' heldur mynd útvelgingarinnar um lotdragu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kyn",
+      "rationale": "שבט er bókasproti\/stjórnis; 'kyn' er þýðing hlutverksins, ekki myndarinnar"
+    }
+  ],
+  "translation": "Og hann lét koma ⟨את⟩ kyn Bínjamín að ættum sínum, og ætt Matri var tekin, og Sjáúl sonur Kís var tekinn, og þeir leituðu hans, en hann fannst ekki.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ee671a96678cb4779c857e04855f218a58b66e975216d6c0b86c63b66c8127c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/10\/21-24.1792400365093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Og hann lét koma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyn Bínjamín"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kyn"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bínjamín"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "að ættum sínum"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "og var tekin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ætt"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matri"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "og var tekinn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kís"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "og þeir leituðu hans"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "hann fannst"
+    }
+  ],
+  "timestamp": "2026-10-19T08:59:25.094808523Z",
+  "model": "glm-5.3"
+}

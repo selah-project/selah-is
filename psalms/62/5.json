@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משאתו",
+      "rationale": "Sjá KwV: 'tign hans' — en orðið er 'upphæð\/upphækkan'; sumir lesa 'aðeins ráðið hans' með endurlesningu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכו\/יקללו",
+      "rationale": "Andstæða blessunar í munni og bölvunar í brjósti — kjarninn í versinu, varðveitt í íslenskunni"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Tóntákn í sálmunum, skilið óþýtt sem 'Sela'"
+    }
+  ],
+  "translation": "Aðeins til þess að steypa honum niður frá upphæð hans ráðgerða þeir; þeir girðast á lygi; með munni sínum bjóða þeir blessun, en í brjósti þeirra bölva þeir. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/62\/5-8.1792409994890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "upphæð hans"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ráðgerða þeir"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "að steypa niður"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "þeir girðast á"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lygi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "með munni sínum"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "bjóða þeir blessun"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "en í brjósti þeirra"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "bölva þeir"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:54.890934814Z",
+  "model": "glm-5.3"
+}

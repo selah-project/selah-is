@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 21:9",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska myndar setningu með יען אשר; íslenskan þarf samsettuna 'þar sem ⟨að⟩'"
+    },
+    {
+      "kind": "elision",
+      "subject": "צדיק ורשע",
+      "rationale": "greinirinn bætt við á íslensku: 'hinn réttláti og hinn rangláti'"
+    }
+  ],
+  "translation": "Þar sem ég hef haggurt frá þér ⟨את⟩ hinn réttláta og ⟨את⟩ hinn rangláta, þess vegna mun sverð mitt fara úr slíðri sinni á allt hold, frá suðri til norðurs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a10d42eeb63e6229eba5cbd5ce9b5ddf8664549a8e04c0dfc3bc1b9974d810a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/21\/9-12.1792407173337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨að⟩"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "hef ég haggurt"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "frá þér"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hinn réttláti"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "og hinn rangláti"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mun fara"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "sverð mitt"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "úr slíðri sinni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hold"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "frá suðri"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "til norðurs"
+    }
+  ],
+  "timestamp": "2026-10-19T10:52:53.337688301Z",
+  "model": "glm-5.3"
+}

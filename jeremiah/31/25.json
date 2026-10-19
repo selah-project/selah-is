@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "næfesh er andardráttur\/lífsmáttur, ekki séla í grískum skilningi; íslenska 'sál' er það næsta en ekki nákvæmlega það sama"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hlutfallarsetningarnar 'sem er' eru bætt við því að íslenskan þarf þær þar sem hebreskan notar lýsingarahætti"
+    }
+  ],
+  "translation": "Því að ég hef slökkvð þorsta sálarinnar ⟨sem⟩ er þreytt, og allri sálu ⟨sem⟩ syngur hef ég fyllt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6166a361ef54335668358b2f4c27d648b091c93393ed7536f1c7d65b8945c8e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/31\/25-28.1792406019757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "hef ég slökkvð þorsta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálarinnar"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "þreytt"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allri"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálu"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "sem syngur"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "hef ég fyllt"
+    }
+  ],
+  "timestamp": "2026-10-19T10:33:39.757791212Z",
+  "model": "glm-5.3"
+}

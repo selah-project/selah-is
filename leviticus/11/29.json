@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 11:29",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur ekki sögn í fyrsta setningunni; 'er' bætt við."
+    },
+    {
+      "kind": "crux",
+      "subject": "הצב",
+      "rationale": "KJV 'tortoise', ASV\/JPS 'great lizard'; dýrafræðileg auðkenning óviss — hér 'eðlan'."
+    },
+    {
+      "kind": "crux",
+      "subject": "החלד",
+      "rationale": "'Weasel' (mjarði) eða 'mole' (molddýr) eftir túlkun."
+    }
+  ],
+  "translation": "Og þetta er yður óhreint meðal skriðdýranna sem skríða á jörðinni: mjarðinn og músín og eðlan, hver eftir sínu kyni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0e1ef9d19747433d9529591c3d70b7823aafe512cf4a495f34251f2bbf4d30ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/29-32.1792395671099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "óhreint"
+    },
+    {
+      "surface": "בשרץ",
+      "gloss": "meðal skriðdýranna"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sem skríða"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "החלד",
+      "gloss": "mjarðinn"
+    },
+    {
+      "surface": "והעכבר",
+      "gloss": "og músín"
+    },
+    {
+      "surface": "והצב",
+      "gloss": "og eðlan"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "hver eftir sínu kyni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:11.099900445Z",
+  "model": "glm-5.3"
+}

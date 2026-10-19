@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 17:13",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gegn",
+      "rationale": "hebreska ויעד ... ב með landinu merkir vitna GEGN, ekki bara til"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Snúið aftur frá vonda vegi ykkar",
+      "rationale": "boðorð beint að Ísrael og Júda í gegnum spámennina — bein áhvetning"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels og Júda",
+      "rationale": "fleirtölufornöfn ykkar í ræðunni benda á þjóðina sem viðtakanda"
+    }
+  ],
+  "translation": "Og Jahve vitnaði gegn Ísrael og gegn Júda, með hendi allra spámanna sinna og allra sjáendanna, og sagði: Snúið aftur frá vonda vegi ykkar og varðveitið boðorð mín, settreglur mínar, eftir allri Tórinni sem ég bauð ⟨את⟩ feður ykkar, og ⟨sem⟩ ég sendi ykkur með hendi þjóna minna, spámannanna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "852694c29025ca71b44aceb9c3ae59c853f65090ce0af16e040aff731767e149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/13-16.1792403412364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "Og Jahve vitnaði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gegn Ísrael"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "og gegn Júda"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "með hendi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allra"
+    },
+    {
+      "surface": "נביאו",
+      "gloss": "spámanna sinna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allra"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "sjáendanna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Snúið aftur"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "frá vegi ykkar"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "vonda"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "og varðveitið"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "boðorð mín"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "settreglur mínar"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "eftir allri"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tórinni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feður ykkar"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "feður ykkar"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og ⟨sem⟩"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "sendi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "með hendi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjóna minna"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "spámannanna"
+    }
+  ],
+  "timestamp": "2026-10-19T09:50:12.365144484Z",
+  "model": "glm-5.3"
+}

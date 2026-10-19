@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 15:3",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפלא נדר",
+      "rationale": "Særingaskýring hvörf: 'til að uppfylla heit' (KJV) vs. 'heit rétt látið í ljós' (JPS, frá פלא 'aðgreina\/gera að kunnáttu')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ריח ניחח",
+      "rationale": "Þýtt 'reyk álna-mýktarheit' — hebreska er 'þvaglát' (ניחוח), 'það sem gerir velliðnar' — brotthvarf eyðir holdrænu myndmálinu"
+    },
+    {
+      "kind": "addition",
+      "subject": "og",
+      "rationale": "Upphaflegt 'og' tengir við 15:2 en vers­skipting braut setninguna — 'og' ekki í hebresku þessa vers"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "או ... או ... או",
+      "rationale": "Þrjú 'eða' í röð — upptalning með endurtekinni skiptingu, varðveitt"
+    }
+  ],
+  "translation": "og þér gjörið elisfórn til Jahve, brennifórn eða sláturfórn, til að uppfylla heit, eða í frjálsgjöf, eða á hátíðum ykkar, til að gjöra reyk álna-mýktarheit fyrir Jahve, úr nautgripum eða úr sauðfé og geitum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3585f8632765d7742bcf2fe1b70c559f2e63f7e23caa31ae32fbc4917f67ae6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/15\/2-3.1792416413959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "og þér gjörið"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "elisfórn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brennifórn"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sláturfórn"
+    },
+    {
+      "surface": "לפלא",
+      "gloss": "til að uppfylla"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "heit"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "בנדבah",
+      "gloss": "í frjálsgjöf"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "במעדיכם",
+      "gloss": "á hátíðum ykkar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að gjöra"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "reyk"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "á ln…"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:53.960779283Z",
+  "model": "glm-5.3"
+}

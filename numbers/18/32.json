@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 18:32",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "'Bera synd' (נשא חטא) — hebreskt myndmál um að svara fyrir sök; tekið bókstaflega til að halda myndinni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'yður' bætt við — עליו stendur einungis með forsögn á hebresku."
+    }
+  ],
+  "translation": "Og þér skuluð ekki bera synd yfir yður vegna þess, þegar þér lyftið ⟨את⟩ fitu hans frá honum, og ⟨את⟩ helgidómi sona Ísraels skuluð þér ekki óhelga, og þér skuluð ekki deyja.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cf564fbff3a1cd1ae4458c8717dfb905cc8c8bde246427e33ff68902b733b240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/18\/29-32.1792396958234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ekki"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "skuluð þér bera"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir yður vegna þess"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "synd"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "þegar þér lyftið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitu hans"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "fitu hans"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "frá honum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "helgidómi sona Ísraels"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "helgidómi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "skuluð þér óhelga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "skuluð þér deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T08:02:38.235313641Z",
+  "model": "glm-5.3"
+}

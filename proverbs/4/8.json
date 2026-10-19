@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סלסלה",
+      "rationale": "Piel reduplication of סלל, 'heap up\/exalt' — the doubled consonants intensify the lifting, lost in Icelandic"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "rendered 'þegar' (when); Hebrew כי here is causal-temporal 'for\/because', not conditional 'if' as KJV margin"
+    },
+    {
+      "kind": "addition",
+      "subject": "hún",
+      "rationale": "feminine subject pronoun (speki) supplied where Hebrew verb forms imply it"
+    }
+  ],
+  "translation": "Háfa hana, og ⟨hún⟩ mun upphæja þig; ⟨hún⟩ mun vegsama þig, þegar þú faðmar hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/4\/5-8.1792411197207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "Háfa hana"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "og mun upphæja þig"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "mun vegsama þig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "þú faðmar hana"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:57.208605681Z",
+  "model": "glm-5.3"
+}

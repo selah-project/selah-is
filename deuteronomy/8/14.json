@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "húsi ánauðar",
+      "rationale": "Bókstaflegt er 'húsi þræla' (עבדים); ánauð er hefðbundin en víðari mynd."
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "Bein ávarp annarra manna persónu til Ísraels um hættuna á að gleyma Jahve."
+    }
+  ],
+  "translation": "Og hjarta þitt upphægist og þú gleymir ⟨את⟩ Jahve Elóhím þínum, sem fer með þig út úr landi Mitsrajím, úr húsi ánauðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/8\/13-16.1792397801311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "og upphægist"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hjarta þitt"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "og þú gleymir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Elóhím þínum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þínum"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "sem fer með þig út"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "úr húsi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ánauðar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:16:41.312656697Z",
+  "model": "glm-5.3"
+}

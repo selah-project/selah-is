@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shaar",
+      "rationale": "„virðir\/gerir sér grein“ (að meta, sem verðvörður) — KJV „hann hugsar“; JPS „hann hefur reiknað“; hebreskan heldur mynd dyrgæslumannsins og metningarinnar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nefesh",
+      "rationale": "נפש er lífskrafti, andardráttur — „sál“ í íslensku er þrengri en stofninn"
+    }
+  ],
+  "translation": "Því að eins og hann virðir í sálu sinni, þannig er hann; „Et og drykk“, segir hann þér, en hjarta hans er alls ekki með þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/5-8.1792411587809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "שער",
+      "gloss": "virðir"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "í sálu sinni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þannig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Et"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "og drykk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "en hjarta hans"
+    },
+    {
+      "surface": "בל",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:27.810805553Z",
+  "model": "glm-5.3"
+}

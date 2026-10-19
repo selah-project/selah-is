@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 5:15",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er „öndandi vera, lífskraftur“ — „sál“ er hefðin en ekki bókstafleg mynd."
+    },
+    {
+      "kind": "measurement",
+      "subject": "siklar",
+      "rationale": "Versið málar virði fórnar í silfursiklum eftir sikli helgadómsins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמעל מעל",
+      "rationale": "Sagnorð og nafnorð af sömu rót (maal) endurtekin — „fremur svik, svik“ — tapast að hluta á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "איל",
+      "rationale": "„hjörtur“ eftir D4-töflunni; margar þýðingar lesa „hrút“ (vekki) í fórnarsamhenginu."
+    }
+  ],
+  "translation": "Ef sál fremur svik, svik, og syndgaðist í óvart gegn helgigjöfum Jahve, þá skal hann færa ⟨את⟩ sektargjöf sína til Jahve: hjört frá hjörðinni, fullkominn, að mati þínu í silfri — sikla, eftir sikli helgadómsins — til sektargjafar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "da4d7036be3b177abe28848a36548d1b2b08e0d65a3bdd2d518e81b041f30cc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/5\/13-16.1792395554769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "sál"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תמעל",
+      "gloss": "fremur svik"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "svik"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "og syndgaðist"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "í óvart"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "gegn helgigjöfum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "þá skal hann færa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sektargjöf sína"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sektargjöf hans"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "איל",
+      "gloss": "hjörtur"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "fullkominn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "hjörðinni"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "að mati þínu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "í silfri"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sikla"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "eftir sikli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgadómsins"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "til sektargjafar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:14.770482253Z",
+  "model": "glm-5.3"
+}

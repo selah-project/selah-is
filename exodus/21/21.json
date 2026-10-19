@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan lýkur á franca הוא án sögnar; íslenskan þarf ⟨er⟩."
+    },
+    {
+      "kind": "substitution",
+      "subject": "silfur",
+      "rationale": "כספו merkir bæði silfur og pening; form ritarins er silfur, en merkingin er eignaverðmæti."
+    },
+    {
+      "kind": "alternative",
+      "subject": "tvo daga",
+      "rationale": "יומים er fleirtala af יום en margar þýðingar lesa tvenn мерki (dag eða tvo)."
+    }
+  ],
+  "translation": "Aðeins ef hann stendur dag eða tvo daga, skal hann ekki refsaður verða, því að hann ⟨er⟩ silfur hans.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/21-24.1792394706892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "tvo daga"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stendur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "refsast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "silfur hans"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:06.893331157Z",
+  "model": "glm-5.3"
+}

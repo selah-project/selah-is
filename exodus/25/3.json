@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kopar",
+      "rationale": "נחשת er kopar; 'eir' eða 'brons' eru seinni tíma málmar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sögnina 'er' bætir íslenskan við — hebreskan segir 'og þetta fórnargjöfin'"
+    }
+  ],
+  "translation": "Og þetta er fórnargjöfin sem þér skulið taka ⟨את⟩ frá þeim: gull og silfur og kopar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "3b72350d6e690680655baebb343fc03a9e867a249b595aaf3502fd90e8399965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/25\/1-4.1792394844081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Og þetta er"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "fórnargjöfin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "þér skulið taka"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ frá þeim"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gull"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "og silfur"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "og kopar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:27:24.082899234Z",
+  "model": "glm-5.3"
+}

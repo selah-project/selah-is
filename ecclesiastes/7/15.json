@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "'Hégómi' heldur mynd óstöðugleikans og gufunnar; 'gagnslausleiki' væri skýring, ekki orðmynd."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק\/בצדקו · רשע\/ברעתו",
+      "rationale": "Spurningin speglar réttlátan–tsedek og ranglátan–illsku; endurteknin rótarsamstöðu hélt sér í íslenskunni."
+    }
+  ],
+  "translation": "⟨את⟩ allt hef ég séð á dögum hégóma míns: það er réttlátur sem glötast í tsedek sinni, og það er ranglátur sem lifir lengi í illsku sinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/7\/13-16.1792413077331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hef ég séð"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "á dögum"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hégóma míns"
+    },
+    {
+      "surface": "יש",
+      "gloss": "það er"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "réttlátur"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "glötast"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "í tsedek sinni"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "og það er"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranglátur"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "lifir lengi"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "í illsku sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:17.332968315Z",
+  "model": "glm-5.3"
+}

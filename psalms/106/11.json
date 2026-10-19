@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "מהמ („af þeim“) krefst forsetningar á íslensku; לא negunarorðið er sameinað „ekki einn“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צר er upphaflega „þrenging\/þrýstingur“, haft um óvin; „óvinir“ heldur merkingunni í samhengi útflutningsins"
+    }
+  ],
+  "translation": "Og vötnin hlökuðu yfir óvinir þeirra — ekki einn ⟨af⟩ þeim varð eftir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1b4bcb913d47efed2486e31cc367397cac8e7bd5de9a80372b0b4cf5ac152735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/10-11.1792416988870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Og hlökuðu yfir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "óvinir þeirra"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ekki einn"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "⟨af⟩ þeim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "varð eftir"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:28.871167445Z",
+  "model": "glm-5.3"
+}

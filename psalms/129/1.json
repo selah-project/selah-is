@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf viðtökusögn og frumlag ('þeir') þar sem hebreskan hefur aðeins beygingaendinguna -וני"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ísrael",
+      "rationale": "Versið kallar til Ísraels að segja setninguna sjálft — munnleg hróphringing"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבת צררוני",
+      "rationale": "Endurtekning vers 1–2 myndar hjörð í sálminum; endursögnin sjálf er stíllinn"
+    }
+  ],
+  "translation": "Söngur stiganna. Margt þrengdu þeir að mér frá æsku minni — látum Ísrael nú segja ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/129\/1-4.1792410901487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Söngur"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stiganna"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Margt"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "þrengdu þeir að mér"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "frá æsku minni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "látum að segja"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:01.488345245Z",
+  "model": "glm-5.3"
+}

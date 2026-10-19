@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hafði orðið fullorðinn",
+      "rationale": "ויגדל er 'óx'; 'fullorðinn' er skýring sem íslenska setningin krefst"
+    },
+    {
+      "kind": "elision",
+      "subject": "בימים ההם",
+      "rationale": "'Í dögum þeim' — vísiatkvæðið 'í þá daga' bætir við greini sem hebreskan hefur ekki"
+    }
+  ],
+  "translation": "Og í þá daga, er Mósje hafði orðið fullorðinn, gekk hann út til bræðra sinna og sá erfiði þeira; og hann sá mann, Mitsríama, ljústandi mann, Hebramann, einn bræðra sinna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/2\/9-12.1792394084576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og var"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "í dögum"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "óx"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og gekk út"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bræðra sinna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sá"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "erfiði þeira"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsríama"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ljústandi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebramann"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "einn bræðra sinna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:44.577662151Z",
+  "model": "glm-5.3"
+}

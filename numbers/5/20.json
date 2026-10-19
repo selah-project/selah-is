@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "konan",
+      "rationale": "Versinn talar beint til konunnar í þriðja persóni leiðsla presta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "samleið",
+      "rationale": "שכבת er kynlífssamlegð, bókstaflega 'lagning' — valið heldur myndinni"
+    },
+    {
+      "kind": "crux",
+      "subject": "svifa undir",
+      "rationale": "שטה + תחת: 'afvillað undir' — sumir þýða 'undir valdi manns' (KJV\/JPS), aðrir 'til annars í stað manns' (metonýmía)"
+    }
+  ],
+  "translation": "En þú, ef þú hefir svifið undir manni þínum, og ef þú hefir makast óhrein, og maður hefir lagt með þér ⟨את⟩ samleið sína umfram mann þinn —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7f7452eb971217a28906bc697250ca86f8ae82355c0ffaab80567e2ed73c1aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/5\/20-21.1792416412370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en þú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "hefir svifið"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "manni þínum"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og ef"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "hefir makast óhrein"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "hefir lagt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "בך",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samleið sína"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "samleið sína"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "umfram"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "mann þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:52.370727146Z",
+  "model": "glm-5.3"
+}

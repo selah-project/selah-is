@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbeygingin 'var' er viðbót; hebreskan segir aðeins כי טוב"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין ... ובין",
+      "rationale": "tvítekið 'milli' umlykur ljós og myrkur; íslenskan heldur endurtekningunni"
+    }
+  ],
+  "translation": "Og til að ráða yfir deginum og yfir nóttunni, og til að greina milli ljóssins og milli myrkursins; og Elóhím sá að það ⟨var⟩ gott.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "3d7ee85ee00b330d68da31cd2ba362a971dd108816d683c5d937666260e90550",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/17-20.1792392553644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "og til að ráða"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "yfir deginum"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "og yfir nóttunni"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "og til að greina"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ljóssins"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og milli"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "myrkursins"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:13.649289391Z",
+  "model": "glm-5.3"
+}

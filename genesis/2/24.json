@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'mun' og 'sér' bætt við — hebreskan notar einfalt framtíðarwayyiqtol án hjáspáa."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Almælt orð um hvern mann — frásögurnar flytja raddir mannins yfir á alla menn."
+    }
+  ],
+  "translation": "Þess vegna mun maður yfirgefa ⟨את⟩ föður sinn og ⟨את⟩ móður sína og festa sig við konu sína, og þau verða að einu holdi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f140cd0774f5bb110bd3acd7ed3aec53bebda3d6b35a55e10dd6ed8102089fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/21-24.1792392579182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "þess"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "mun yfirgefa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föður sinn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður sinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "móður sína"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "móður sína"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "og festa sig við"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "konu sína"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og þau verða"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "að holdi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einu"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:39.187844507Z",
+  "model": "glm-5.3"
+}

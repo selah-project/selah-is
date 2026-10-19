@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "líkindi hans",
+      "rationale": "דמינו 'líkt honum' — flest þýðingar lesa 'hann er sem ljón'; orðið sjálft er 'samlíking hans'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכסוף",
+      "rationale": "rótin er 'verða föl' — girnin gerir ljónið bleikt; myndin glatarst í þýðingu"
+    }
+  ],
+  "translation": "Líkindi hans eru sem ljón sem girnist að rífa sundur, og sem ljónsungi sem situr í felum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/17\/9-12.1792409291317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "líkindi hans"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sem ljón"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "girnist"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "að rífa sundur"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "og sem ljónsungi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "situr"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "í felum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:11.318300454Z",
+  "model": "glm-5.3"
+}

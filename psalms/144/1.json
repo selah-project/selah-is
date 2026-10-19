@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan á ekki viðtganginn 'Lofið sé' — ברוך er þágufall; íslenskan þarf viðtgang til lofsyringar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "klettur",
+      "rationale": "צור er klettur eða fast klapp, ekki 'styrkur' eins og KJV setur"
+    }
+  ],
+  "translation": "Af Davíð. Lofið sé Jahve, klettur minn, sá sem kennir höndum mér að berjast, fingrum mínum að heyja strið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/144\/1-4.1792411038771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af Davíð"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Lofið sé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "klettur minn"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "sá sem kennir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "höndum mér"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "að berjast"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "fingrum mínum"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "að heyja strið"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:18.771884245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבד … לבד",
+      "rationale": "Endurtekið 'sérstaklega' í báðum helmingum — samhverf byggning í hebresku."
+    },
+    {
+      "kind": "measurement",
+      "subject": "fimm og sex",
+      "rationale": "Tölum skipt í fimm og sex — mælivísir."
+    }
+  ],
+  "translation": "Og hann batt saman ⟨את⟩ fimm töltunum sérstaklega og ⟨את⟩ sex töltunum sérstaklega.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b46bd315484deba74de6d1fc9234a8bc94a5ae719a16fd824c31004095fc5754",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/36\/13-16.1792395231599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Og hann batt saman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimm töltunum"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "töltunum"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sérstaklega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sex töltunum"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "töltunum"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sérstaklega"
+    }
+  ],
+  "timestamp": "2026-10-19T07:33:51.600937651Z",
+  "model": "glm-5.3"
+}

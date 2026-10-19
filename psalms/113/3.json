@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מבואו",
+      "rationale": "Orðrétt 'innganga hennar' — sólarinngangin, vestur — á íslensku 'vestri hennar' eða 'solefnað hennar'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Rúmfræði lofsins — austur til vesturs, sól öll dagborin"
+    }
+  ],
+  "translation": "Frá austri sólar og að ⟨vestri⟩ hennar er nafn Jahve lofað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/113\/1-4.1792410675850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Frá austri"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sólar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "og að"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "⟨vestri⟩ hennar"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "er lofað"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:15.851129481Z",
+  "model": "glm-5.3"
+}

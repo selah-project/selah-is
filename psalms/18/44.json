@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עם \/ גוים",
+      "rationale": "'fólks' (eigið) móti 'þjóðanna' (útþjóða) — spennan milli sinn eigins fólks og hinna þjóðanna"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "versið beinist til Jahve í öðru persóni — þú losar, þú setur"
+    }
+  ],
+  "translation": "Þú losar mig undan deilum fólksins, þú setur mig að höfði þjóða; þjóð sem ég þekki ekki þénir mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/41-44.1792409420409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "Þú losar mig"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "undan deilum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólksins"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "þú setur mig"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "að höfði"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóða"
+    },
+    {
+      "surface": "עם",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "égu þekki"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "þénir mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:20.410498993Z",
+  "model": "glm-5.3"
+}

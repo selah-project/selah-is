@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 19:6",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עגת רצפים er bökukaka bakuð á heitum steinum — glögg mynd sem gefur rétta matreiðslu-mynd fremur en „brauðbakað á köolum“"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„það var“ bætt við — hebreska setningin er hjástæðing án sagnar"
+    }
+  ],
+  "translation": "Og hann leit, og sjá, við höfuðhögg það var kaka bakuð á glóandi steinum og flót skál af vatni; og hann át og drakk og sneri aftur og lagðist.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b8fba91d676990940bbc099e07c58177af79a363ad9e903c2589e58c68108b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/19\/5-8.1792402582722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "Og hann leit"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "við höfuðhögg það"
+    },
+    {
+      "surface": "עגת",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "רצפים",
+      "gloss": "bakuð á glóandi steinum"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "og flót skál"
+    },
+    {
+      "surface": "מים",
+      "gloss": "af vatni"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "og hann át"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "og drakk"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og sneri aftur"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "og lagðist"
+    }
+  ],
+  "timestamp": "2026-10-19T09:36:22.723456708Z",
+  "model": "glm-5.3"
+}

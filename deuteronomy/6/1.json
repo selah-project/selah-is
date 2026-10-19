@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copula 'er' skotuð inn; hebreskan segir bara 'og þetta boðorðið'"
+    },
+    {
+      "kind": "addition",
+      "subject": "þær",
+      "rationale": "Fornafn bætt við til að gera hlut á-netrar sýnilegan"
+    }
+  ],
+  "translation": "Og þetta er boðorðið, fyrirmælin og dórnir, sem Jahve Elóhím ykkar hefur boðið að kenna ykkur, að gera ⟨þær⟩ í landinu sem þið eruð að fara yfir þangað til að taka það í eign.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/1-4.1792397721803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Og þetta er"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "boðorðið"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "fyrirmælin"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "og dórnir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hefur boðið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "að kenna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þið"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "eruð að fara yfir"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þangað"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "til að taka það í eign"
+    }
+  ],
+  "timestamp": "2026-10-19T08:15:21.804157811Z",
+  "model": "glm-5.3"
+}

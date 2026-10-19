@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenska spurningin þarf fimmtu fall eða sögn sem hebreskan sleppir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sæinn",
+      "rationale": "הראה er 'sá sem sér' — sérstök titill spámanns, égnota 'sæinn' til að greina frá נביא (spámaður)"
+    }
+  ],
+  "translation": "Og Sjáúl gekk að Sjemúel í miðjunni á hliðinni — hann leitaði ⟨את⟩ Sjemúels — og sagði: Segðu mér, vísa, hvar er hús sæisins?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/9\/17-20.1792400408345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Og gekk að"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemúel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemúel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðjunni á"
+    },
+    {
+      "surface": "השער",
+      "gloss": "hliðinni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Segðu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "vísa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "אי",
+      "gloss": "hvar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "er"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "sæisins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:00:08.347254668Z",
+  "model": "glm-5.3"
+}

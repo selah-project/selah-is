@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "úr endum fólksins",
+      "rationale": "מקצות העם: 'jaðar fólksins' (KJF 'lægstu almúgans') eða 'úr öllum dröllum fólksins' (ASV\/JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hástaða",
+      "rationale": "במות er hár staður fyrir dýrkun; 'hástaðir' heldur myndinni en ekki 'hátíðahús'."
+    }
+  ],
+  "translation": "Og hann gjörði ⟨את⟩ hús hástaða, og skipaði presta úr endum fólksins, þeir sem voru ekki af sonum Leví.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/12\/29-32.1792402414984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjörði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hús hástaða"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "במות",
+      "gloss": "hástaða"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og skipaði"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "presta"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "úr endum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólksins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voru"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "af sonum"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leví"
+    }
+  ],
+  "timestamp": "2026-10-19T09:33:34.985892532Z",
+  "model": "glm-5.3"
+}

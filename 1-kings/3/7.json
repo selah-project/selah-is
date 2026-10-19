@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "צאת ובוא",
+      "rationale": "'að fara út og koma inn' — hebreskt myndmál fyrir að stjórna og breyta; hér látið bókstaflega standa til að halda myndinni."
+    },
+    {
+      "kind": "you",
+      "subject": "bein áttun",
+      "rationale": "Sjlómó talar beint til Jahve í bæn."
+    }
+  ],
+  "translation": "Og nú, Jahve Elóhím minn, þú hefir sett ⟨את⟩ þjón þinn sem konung í stað Davíðs, föður míns, en ég er ungur drengur, lítill, ég veit ekki að fara út né að koma inn.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bccd5e60c117f8d7618d0255d2422c3d14fd8ae715829592ba9575c8d035ba84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/3\/5-8.1792401980091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "þú hefir sett sem konung"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjón þinn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjón þinn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "föður míns"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ég"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ungur drengur"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "lítill"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "veit"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "að fara út"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "né að koma inn"
+    }
+  ],
+  "timestamp": "2026-10-19T09:26:20.093150216Z",
+  "model": "glm-5.3"
+}

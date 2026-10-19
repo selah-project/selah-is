@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "איש בער er „nautamaður“ — maður sem dýr, ekki „ öfgafull“ eða „grófur“"
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "זאת vísar á það sem ljúkt er að segja — hin innskygga dýpt hugmynda Jahve, sem heimskinginn sér ekki"
+    }
+  ],
+  "translation": "Maður sem dýr skilur ekki, og heimskingi skilur ekki ⟨את⟩ þetta:",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/92\/5-8.1792410448870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "בער",
+      "gloss": "sem dýr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "skilur"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "og heimskingi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "skilur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þetta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:28.871811880Z",
+  "model": "glm-5.3"
+}

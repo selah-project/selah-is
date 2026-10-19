@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gegn",
+      "rationale": "Hebreskan segir aðeins 'renna hersveit' — sögn með andstæðing í_accusative"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארוץ גדוד",
+      "rationale": "'renna gegn hersveit' eða 'rjá hersveit' — ófullkomin sögn án hlutar sagnarinnar"
+    }
+  ],
+  "translation": "Því að með þér renn ég gegn hersveit, með Elóhím mínum hopa ég yfir ⟨vegg⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "87a9674051abd518cb98ca0be1bdfbe27fc02f30f2c63bbcae0b5f157dfad21c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/22\/29-32.1792401762944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "renn ég"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gegn hersveit"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "með Elóhím mínum"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "hopa ég yfir"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vegg"
+    }
+  ],
+  "timestamp": "2026-10-19T09:22:42.945608583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þeir' og 'hann' bætt við — hebreska sögnin ber viðskeytin í sig sjálfa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצר\/ממצוקותיהם",
+      "rationale": "Sama rót 'þröng' tvisvar — þrenging og þrengingar — endurtök sem glatast að hluta í íslensku."
+    }
+  ],
+  "translation": "Þá hrópuðu þeir til Jahve í þrenging sinni, og úr þrengingum sínum leysti hann þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/5-8.1792410657357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Þá hrópuðu þeir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "í þrenging"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sinni"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "úr þrengingum sínum"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "leysti hann þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:57.358141316Z",
+  "model": "glm-5.3"
+}

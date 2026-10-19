@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Dágagsorðið 'þú' kemur úr sagnarinnar, framkvæmdaraðili er ekki nefndur í hebresku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דחה\/דחיתני",
+      "rationale": "endurtekning rótarinnar דח — 'hratt\/hratt mig' — fellur í gegn"
+    }
+  ],
+  "translation": "Þú hratt mig harðlega svo að ég félli — en Jahve hjálpaði mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/118\/13-16.1792410760751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "þú hratt harðlega"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "mig"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "svo að ég félli"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "hjálpaði mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:40.751916804Z",
+  "model": "glm-5.3"
+}

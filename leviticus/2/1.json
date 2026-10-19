@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífsönd, ekki sál í hefðbundnum skilningi"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "minkha er fest hebreskt orð, ekki þýtt sem 'kornfórn'"
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "forskeytt fornöfn á íslensku hebresku fornöfnin עליה skipta ekki"
+    }
+  ],
+  "translation": "Og ef sál færir korban, minkhu, til Jahve, skal korban hans vera fínt mjöl, og hann skal gjósa olíu yfir ⟨það⟩ og setja rýkelsei á ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1ed7f38f8483914aa16183040be31cb682f3b1ec4df0c29cdc017130667c87c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/2\/1-4.1792395406148.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Og ef sál"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "færir"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkhu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fínt mjöl"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korban hans"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "og hann skal gjósa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olíu"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og setja"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "á"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "rýkelsei"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:46.148608266Z",
+  "model": "glm-5.3"
+}

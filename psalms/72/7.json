@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'mun' og sögn í söluusambandinu 'gnægð friðar' bætt við — hebreskan hefur enga sagn við ורב שלום."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפרח",
+      "gloss": "Blómgunarmyndin heldur sér — réttlátur 'sprýtur út' eins og jurt; brunninn er sá sami og í v. 16."
+    }
+  ],
+  "translation": "Í dögum hans mun réttlátur blómga, og gnægð friðar, uns tunglið er ekki lengur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/72\/5-8.1792410124351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "mun blómga"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "í dögum hans"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "réttlátur"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og gnægð"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friðar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uns"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ekki lengur"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "tunglið"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:04.353138085Z",
+  "model": "glm-5.3"
+}

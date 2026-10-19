@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu mín",
+      "rationale": "נפש er喉\/lífsmáttur, ekki ódauðleg sála í gríska skilninginum"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמתי עולם",
+      "rationale": "'dáni forðum' — bókstaflega 'eins og dauðir fornaldar'; óvíst hvort 'lengi látnir' eða 'dáni fyrri alda'"
+    }
+  ],
+  "translation": "Því að óvinurinn eltir sálu mína, hann harðkremur líf mitt að jörðu, hann lætur mig búa í myrkrum, eins og ⟨þeir⟩ dáni forðum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/143\/1-4.1792411018324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "eltir"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "óvinurinn"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mína"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "harðkremur"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "að jörðu"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "líf mitt"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "lætur mig búa"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "í myrkrum"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "eins og dáni"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "forðum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:58.325777915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 2:26",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Skammstæðan fer í réttri röð frá konungi til spámanns — allt stigvaldið Ísraels í einni línu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ימצא er bókstaflega 'er fundinn' — tekin á hverju sem er, 'fundinn' eða 'tekinn'."
+    }
+  ],
+  "translation": "Sem skömm þjófs er þegar hann er tekinn, svo hefur Ísraels hús skammast sín — þeir, konungar þeirra, höfðingjar þeirra, prestar þeirra og spámenn þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a46dbd09477120d0c5a3dd09e42365c69585f78053b9469bb06eba927d6000cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/2\/25-28.1792405182317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "Sem skömm"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "þjófs"
+    },
+    {
+      "surface": "כי",
+      "gloss": "er"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "þegar hann er tekinn"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "hefur skammast sín"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "konungar þeirra"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "höfðingjar þeirra"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "og prestar þeirra"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "og spámenn þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:19:42.318364888Z",
+  "model": "glm-5.3"
+}

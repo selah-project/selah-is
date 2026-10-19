@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרש דמים",
+      "rationale": "'sá sem rannsakar blóð' eða 'blóðhefnandi'; JPS 'He that avengeth blood' gagnvart KJV 'maketh inquisition for blood'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זכר",
+      "rationale": "'minnist' — hebreskan er 'minna sig \/ merkja', ekki aðeins vitrænt minni."
+    }
+  ],
+  "translation": "Því að sá sem rannsakar blóð ⟨את⟩ minnist þeirra; hann gleymir ekki hrópi hinna niðurlægu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/9\/13-16.1792409320538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "rannsakar"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blóð"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "þeirra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "minnist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "gleymir"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "hrópi"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "hinna niðurlægu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:40.539506392Z",
+  "model": "glm-5.3"
+}

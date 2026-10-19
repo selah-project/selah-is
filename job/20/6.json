@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 20:6",
+  "book": "job",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עב",
+      "rationale": "Bókstaflega 'umbúð, þykkt, myrkur' — hér skýjak jóð; 'ský' gleymir grunnmynd þéttleika og myrkurs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יגיע",
+      "gloss": "nái",
+      "rationale": "Núð er 'snerti, kom í kynni við' — 'berst að skýjunum' heldur utan um snertingu."
+    }
+  ],
+  "translation": "Þótt upphæð hans stígi upp til himnanna, og höfuð hans nái til skýjanna —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/20\/5-8.1792412136810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Þótt"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "stígi upp"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "til himnanna"
+    },
+    {
+      "surface": "שיאו",
+      "gloss": "upphæð hans"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "og höfuð hans"
+    },
+    {
+      "surface": "לעב",
+      "gloss": "til skýjanna"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "nái"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:36.810899494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "á",
+      "rationale": "Íslensk hjálparsögn bætt við, hebreskan hefur bara 'sex ár hann þjónar'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sex ár \/ sjöunda",
+      "rationale": "Þrælahald mælt í árum — sex þjónustuár, frelsi í sjöunda."
+    }
+  ],
+  "translation": "Ef þú kaupir hebreskan þræl, ⟨á⟩ hann að þjóna í sex ár, og í hinum sjöunda fer hann út laust, án gjalds.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/1-4.1792394745012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "þú kaupir"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þræl"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebreskan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ár"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "skal hann þjóna"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "og í hinum sjöunda"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fer hann út"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "laust"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "án gjalds"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:45.013123645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf sögnina í síðasta lið: ‚tók ⟨þeim⟩ ekki‘ — hebreskan segir aðeins ‚tók ekki‘."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותתחלחל",
+      "rationale": "Orðið þýðir bókstaflega að snúast\/þyrpast í hring — mjög skelfing; ‚kipptist‘ varðar eitthvað af myndinni en ekki hana alla."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סריסים",
+      "rationale": "Bókstaflega ‚geldingjar‘ — hirðmenn konunnar; ‚ríkisherrar‘ gefur embættið en ekki orðmyndina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "2342",
+      "rationale": "Rótin חול bæði ‚að snúast‘ og ‚að þjást\/birthast‘ — hræring drottningarinnar er í orðinu sjálfu."
+    }
+  ],
+  "translation": "Og stúlkur Esterar og hennar ríkisherrar komu og sögðu ⟨það⟩ henni, og drottningin kipptist mjög, og hún sendi föt til að klæða ⟨את⟩ Mordekai og til að taka sekjarklæði hans af honum, en hann tók ⟨þeim⟩ ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f31fe2f52c5c47f1b0c2dc7a94d13b9127d53a4ae99dfc11f4f2bccf66a80aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/4\/4-4.1792417061864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "og komu"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "stúlkur"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterar"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "og hennar ríkisherrar"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "og sögðu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "og kipptist"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "drottningin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "og hún sendi"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "föt"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "til að klæða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "og til að taka"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "sekjarklæði hans"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "af honum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "tók"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:41.865249863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "משח\/משחה\/משיח — smurning\/olían\/hinn smurði, rótarsamhengi sem fellur saman í íslensku 'smurði'"
+    }
+  ],
+  "translation": "Og hann hellti af smurningarolíunni á höfuð Aharons og smurði ⟨את⟩ hann til að helga hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/8\/9-12.1792395599794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "Og hann hellti"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "af olíu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smurningar"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "og smurði"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann (Aharon)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "til að helga hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:59.796080691Z",
+  "model": "glm-5.3"
+}

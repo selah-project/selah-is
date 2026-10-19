@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 18:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨fæðist⟩",
+      "rationale": "Hebreskan segir aðeins „og sjá, sonur fyrir Sará“ — sagnirnar eru ekki í textanum."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב אשוב",
+      "rationale": "Óendanlegt forsögn (infinitivus absolutus) undirstrikar vísnunina; tapast hluta í íslenskunni."
+    },
+    {
+      "kind": "crux",
+      "subject": "כעת חיה",
+      "rationale": "„þegar lífstíminn kemur“ — tálmaður lestur: „á þessum tíma næst“ eða „þegar baninn kemur“."
+    }
+  ],
+  "translation": "Og hann sagði: Að vissu sný ég aftur til þín, þegar lífstíminn kemur, og sjá, sonur ⟨fæðist⟩ Sará, konu þinni. En Sará hlustaði við op tjaldsins, og hann ⟨var⟩ á bak við hana.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/18\/9-12.1792392908569.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "að vissu"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "sný ég aftur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "þegar lífstíminn kemur"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lífstíminn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sará"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "konu þinni"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "En Sará"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "hlustaði"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "við op"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tjaldsins"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "á bak við"
+    }
+  ],
+  "timestamp": "2026-10-19T06:55:08.570165003Z",
+  "model": "glm-5.3"
+}

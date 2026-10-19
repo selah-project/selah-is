@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 5:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf aðseturmyndina „að hann gat“ fyrir ópersónulegu hebresku þáttarsmegdina."
+    },
+    {
+      "kind": "measurement",
+      "subject": "átthundrað og fertíu ár",
+      "rationale": "Ættartalabók 5 telur árin lífs Keinans."
+    }
+  ],
+  "translation": "Og Keinan lifði, eftir að hann gat ⟨את⟩ Mahalalel, átthundrað og fertíu ár, og hann gat syni og dætur.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9c55966ae6d9d73269190eae30ce53bf42d40c23b9a9a044260ee5d2daa12380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/5\/13-16.1792392560294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "lifði"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keinan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "að hann gat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "fertíu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "og átthundrað"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrað"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "og hann gat"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syni"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og dætur"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:20.296849633Z",
+  "model": "glm-5.3"
+}

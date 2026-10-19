@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨aðrir⟩",
+      "rationale": "Hebreskan segir aðeins 'og eftir þá' — hvort nær á við eftirfylgjendur eða 'með munni þeirra' (sem talar fyrir þá) er túlkað; fornafnið er bætt við til skýringar."
+    },
+    {
+      "kind": "crux",
+      "subject": "בפיהם",
+      "rationale": "'Með munni þeirra' — breytir hvort munurinn tilheyrir eftirfylgjendunum eða hinu dauða fyrirbúi; KJV og JPS lesa misveg."
+    }
+  ],
+  "translation": "Þetta er vegur þeirra, heimskula þeirra; og eftir þá munu ⟨aðrir⟩ fagnast með munni sínum orðum þeirra. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/49\/13-16.1792409812699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "er vegur þeirra"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "heimskula"
+    },
+    {
+      "surface": "למו",
+      "gloss": "þeirra"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "og eftir þá"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "með munni sínum"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "munu fagnast"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:52.699937049Z",
+  "model": "glm-5.3"
+}

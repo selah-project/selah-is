@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשם",
+      "rationale": "'Lífs þeirra' — נפש er andardráttur\/lífskraftur, ekki sála í grískum skilningi."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'munu verða' — Hebreskan hefur einfalda sögn והיתה sem íslenskan þarf hjáarsögn fyrir."
+    }
+  ],
+  "translation": "og ég mun gjöfa ⟨את⟩ þá í hönd óvina þeirra og í hönd þeirra sem leita lífs þeirra; og lík þeirra munu verða að fæðu fuglum himinsins og skepnum jarðarinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7d0230518154abe19c650c24ad53b1258aa8c3287d60cf6dadaf0dde2c2238a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/34\/17-20.1792406214398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "og ég mun gjöfa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "óvina þeirra"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og í hönd"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "þeirra sem leita"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lífs þeirra"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "og mun verða"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "lík þeirra"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "að fæðu"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "fuglum"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himinsins"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "og skepnum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:36:54.400354053Z",
+  "model": "glm-5.3"
+}

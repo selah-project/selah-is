@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימלו",
+      "rationale": "Námslýsing 'verða skorinn\/snyrtir' — sumir lesa 'fellast' (nám), aðrir 'umskerast' (sama rót og umskurð); 'klippast' heldur mynd sniðsins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירק דשא",
+      "rationale": "Tvö orð um grænan gróður í samstöðu, ljóðrænt tvíeyki sem fellur í íslensku."
+    }
+  ],
+  "translation": "Því að eins og grasið munu þeir fljótlega klippast niður, og eins og grænn gróðurinn visna þeir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/1-4.1792409661807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "eins og grasið"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "fljótlega"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "klippast niður"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "og eins og grænn"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gróðurinn"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "visna þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:21.807907214Z",
+  "model": "glm-5.3"
+}

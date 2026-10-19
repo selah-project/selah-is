@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חקות",
+      "rationale": "חקה er 'ásetning, sett regla' — 'lögmin' heldur mynd fasta húks, ekki 'siðareglur'."
+    },
+    {
+      "kind": "crux",
+      "subject": "lifir í þeim",
+      "rationale": "וָחַי בָּהֶם — 'lifir í þeim' vs. 'lifir með þeim'; tilvitnun í ljóð Tórunnar, rabbískt sent sem 've-Chai bahem'."
+    }
+  ],
+  "translation": "Og þér skuluð varðveita ⟨את⟩ lögmin mí og ⟨את⟩ dóma mína, sem maðurinn gjörir ⟨את⟩ þau og lifir í þeim; ég er Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/18\/5-8.1792395840230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Og þér skuluð varðveita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lögmin"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lögmin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dóma mína"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dóma mína"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gjörir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þau"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "og lifir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "í þeim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:00.274056260Z",
+  "model": "glm-5.3"
+}

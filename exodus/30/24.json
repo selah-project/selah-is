@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kasía",
+      "rationale": "קדה er kasíu-börkur (skrofin rúllur); latneska lánið kasía heldur myndinni betur en ættgöng orð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ólífuolíu",
+      "rationale": "hebreskan segir bókstaflega 'olía ólífu' (שמן זית) — tvö orð, eitt farið saman á íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "siklar og hín",
+      "rationale": "versið telur þyngd (fimm hundruð sikla eftir helgadóms-sikli) og rúmmál (eitt hín)"
+    }
+  ],
+  "translation": "og af kasíu fimm hundruð ⟨eftir⟩ sikli helgadómsins, og ólífuolíu eitt hín —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ff9e28d569f3643cc5e44fd35cd4c73be0ad7c9c2f32f7b6dc17bf2329960a8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/30\/24-24.1792416284711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "og af kasíu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "siklum"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgadómsins"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "og ólífuolíu"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ólífu"
+    },
+    {
+      "surface": "הין",
+      "gloss": "hín"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:44.711593080Z",
+  "model": "glm-5.3"
+}

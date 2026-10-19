@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הרפות",
+      "rationale": "Korngrjót, mylt korn — aðeins hér í Tanakh (flestir þýða „gróf(k)um korni“)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פני הבאר",
+      "rationale": "„Andlit brunnsins“ — mynd Heilagslands; „munnur“ heldur myndinni lífandi."
+    }
+  ],
+  "translation": "Og konan tók og breiddi ⟨את⟩ sémuna yfir munn brunnsins og stráði á hana korngrjóti, og málin varð ekki kunn.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2d71b50cd8a9e2a9e26b4079c477a1c0cea2e3e4995c5486c2e452a11c303ac7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/17\/17-20.1792401496296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "tók"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "konan"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "og breiddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sémuna"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sémuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "munn"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "brunnsins"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "og stráði"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á hana"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "korngrjóti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "varð kunn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "málin"
+    }
+  ],
+  "timestamp": "2026-10-19T09:18:16.297983758Z",
+  "model": "glm-5.3"
+}

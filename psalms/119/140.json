@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hreinsuð",
+      "rationale": "צרופה er mynd úr málmsmíði, 'brædd og hreinsuð' eins og silfur"
+    },
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "Fornafnið 'þau' er hebresku sleppt, á íslensku nauðsynlegt"
+    }
+  ],
+  "translation": "Þín orð eru hreinsuð mjög, og þjónn þinn elskar ⟨þau⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/137-140.1792410851883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "hreinsuð"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "þín orð"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "og þjónn þinn"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "elskar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:11.884583910Z",
+  "model": "glm-5.3"
+}

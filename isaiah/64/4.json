@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהם עולם",
+      "rationale": "Forsögð lagð 'í þessum vegum er varstaða, og við verðum hjálpuð' — önnur lesning: 'í þeim (syndum) drógumst við lengi'."
+    },
+    {
+      "kind": "crux",
+      "subject": "פגעת",
+      "rationale": "'Þú mættir\/tókst á móti' gegn önnur lesning 'þú drapst\/eyddir' (sjá JPS 'take away')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "Tsedek helst sem hið hljóðritaða orð — 'réttlæti' einu gefur ekki fulla breidd rótarmyndarinnar."
+    }
+  ],
+  "translation": "Þú mættir ⟨את⟩ hinni sem fagnar og gjörir tsedek — þeir sem minnast þín í vegum þínum; sjá, þú reiðst, og við syndguðum; í þeim er ⟨það⟩ alltaf, og við verðum hjálpuð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/64\/1-4.1792404999584.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "Þú mættir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinni sem fagnar og gjörir tsedek"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hinn sem fagnar"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gjörir"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "í vegum þínum"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "þeir minnast þín"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "reiðst"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "og við syndguðum"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "í þeim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "alltaf"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "og við verðum hjálpuð"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:39.585922461Z",
+  "model": "glm-5.3"
+}

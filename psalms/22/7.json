@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "samsetning „er“ og „af“ nauðsynleg á íslensku; hebreskan hefur enga tengisögn"
+    },
+    {
+      "kind": "crux",
+      "subject": "maðkur",
+      "rationale": "תולעת — maðkur; sumir þýða „rauð litarefni (tola‘at shani)“ en samhengið er lítilsvirðing"
+    }
+  ],
+  "translation": "En ég er maðkur og ekki maður, smán manna og fyrirlitinn af alþýðunni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3f948c59fae8fd5fb4f30ea23560a94f6d43b6d3b23a7e67140e1a5e4a3ea819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/22\/5-8.1792409381926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "er maðkur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "smán"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manna"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "og fyrirlitinn"
+    },
+    {
+      "surface": "עם",
+      "gloss": "af alþýðunni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:41.927798172Z",
+  "model": "glm-5.3"
+}

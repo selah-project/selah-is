@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכתם",
+      "rationale": "miktam: „útskorið kvæði“, „gullkvæði“ eða „leynilegur fjarsjóður“ — merking óvís, rótarhátt af כתם (gull)."
+    },
+    {
+      "kind": "crux",
+      "subject": "שאול",
+      "rationale": "Hér er Sául konungur, ekki Sjeól — sömu stafir, annað orð."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Forsöngvarin hefur enga sagn — á íslensku þarf senda-sögn með hugsanlegan þolanda (þeir) í briost."
+    }
+  ],
+  "translation": "Til forsöngvarans — „Eyð ekki“ — Davíðs, miktam — er Sául sendi og ⟨þeir⟩ gættu ⟨את⟩ hússins til að drepa hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/1-4.1792409930470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til forsöngvarans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "„Ekki"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "eyð“"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "er sendi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sául"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "og gættu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hússins"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "til að drepa hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:50.470668946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וישמענו er orðsamlag: 'gerir okkur að heyra' — lætur okkur heyra"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתה (aleph-tav með persónuendingu) vísar á orðið og er gefið aftur sem persónufornafn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעבר\/יעבר\/עבר",
+      "rationale": "þreföld endurtekning rótarinnar עבר (yfir fara) — hið sama missir við 'handan\/fer yfir\/handan'"
+    }
+  ],
+  "translation": "Og hann er ekki handan hafsins, svo að þú segir: Hver fer yfir hafið fyrir okkur og sækir hann og lætur okkur heyra hann, svo að vér gjörum hann?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/30\/13-16.1792398415396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ekki"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "handan"
+    },
+    {
+      "surface": "לים",
+      "gloss": "hafsins"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "svo að þú segir"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "fer yfir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir okkur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "handan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafsins"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "og sækir"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir okkur"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "og lætur okkur heyra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hann"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "og vér gjörum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:26:55.397152793Z",
+  "model": "glm-5.3"
+}

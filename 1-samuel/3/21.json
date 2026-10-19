@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויסף",
+      "rationale": "'Og hann bætti við' — hebreskt atviksorð um framhald, gert að 'hélt áfram'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אל",
+      "gloss_note": null,
+      "rationale": "'til' — hebreska orðið er 'á móti, hjá', fellur að íslenskri frásögn."
+    }
+  ],
+  "translation": "Og Jahve hélt áfram að birtast í Sjíló, því að Jahve hafði opinberast Sámúel í Sjíló með orði Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/3\/21-21.1792400193722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "hélt áfram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "að birtast"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "í Sjíló"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "hafði opinberast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sámúel"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "í Sjíló"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "með orði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T08:56:33.722725858Z",
+  "model": "glm-5.3"
+}

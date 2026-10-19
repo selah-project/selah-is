@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אלהים um guði þjóðanna er ritað með litlum staf: guðum — ekki Elóhím"
+    },
+    {
+      "kind": "crux",
+      "subject": "חלק",
+      "rationale": "'hafði úthlutað\/eignað' (YLT: apportioned) gegn 'hafði gefið' (KJV) — sömu rót og hlutdeild"
+    }
+  ],
+  "translation": "Og fóru og þjónuðu öðrum guðum og lögðust fram fyrir þeim, guðum sem þeir þekktu ekki og sem ⟨hann⟩ hafði ekki úthlutað þeim.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0e8584e7b9231f98c662e8fcb50569728e17ce6805964f111b3e799a18f94547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/29\/25-28.1792398426133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "og fóru"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "og þjónuðu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og lögðust fram"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "þeir þekktu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "hafði úthlutað"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T08:27:06.134372136Z",
+  "model": "glm-5.3"
+}

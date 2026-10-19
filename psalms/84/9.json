@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beðið beinlínis til Jahve Tsevaót — boðsanir í annarri persónu."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Tónlistarmerki, haft óþýtt sem Sela."
+    }
+  ],
+  "translation": "Jahve Elóhím Tsevaót, heyrðu bæn mína; hlustaðu, Elóhím Jaakobs. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/84\/9-12.1792410347777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "heyrðu"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "bæn mína"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hlustaðu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:47.778413460Z",
+  "model": "glm-5.3"
+}

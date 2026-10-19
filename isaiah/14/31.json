@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 14:31",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðunarformur: hlið og borg Plesjet skipað að gráta"
+    },
+    {
+      "kind": "crux",
+      "subject": "במועדיו",
+      "rationale": "'Í röðum hans' (túlkað út frá מועד = samkoma\/herdeild) vs. 'á ákveðnum tímum hans' (KJV) — rætur orðsins tvíræðar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "'reykur' fyrir עשן — myndlíking um her sem rykreik"
+    }
+  ],
+  "translation": "Hyl, hlið; skræk, borg; bráðnað, allt Plesjet; því að reykur kemur frá norðri, og enginn stakur er í röðum hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/14\/29-32.1792403980754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הילילי",
+      "gloss": "Hyl"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hlið"
+    },
+    {
+      "surface": "זעקי",
+      "gloss": "skræk"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borg"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "bráðnað"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Plesjet"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "allt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "frá norðri"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "reykur"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "stakur"
+    },
+    {
+      "surface": "במועדיו",
+      "gloss": "í röðum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:40.755495577Z",
+  "model": "glm-5.3"
+}

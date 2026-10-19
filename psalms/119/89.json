@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "föst",
+      "rationale": "נצב er aðeins 'er staðsett\/standandi'; 'föst' styrkir setninguna eins og flestar þýðingar gera"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצב\/עמד",
+      "rationale": "staðar-myndin (standa) heldur áfram í v. 90–91 og bindur Lamed-kaflann saman"
+    }
+  ],
+  "translation": "Til eilífar tíðar, Jáhve, stendur orð þitt föst ⟨í⟩ himnunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/89-92.1792410812831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "til eilífar tíðar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jáhve"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "orð þitt"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "stendur föst"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "í himnunum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:32.832066343Z",
+  "model": "glm-5.3"
+}

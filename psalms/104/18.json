@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnirnar 'eru' bætt við — hebreskan segir bara nafnliði tvær"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שפן er klettagreifingi (hyrax), ekki kanína eða klappardýr"
+    }
+  ],
+  "translation": "Há fjöllin eru steinbukkum, klettarnir eru skjól fyrir klettagreifinga.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/104\/17-20.1792410537885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "fjöllin"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "há"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "steinbukkum"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "klettarnir"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "skjól"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "fyrir klettagreifinga"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:57.886635059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 106:23",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עמד בפרץ",
+      "rationale": "„að standa í gati“ — mynd af vörn í breski í múrvegg; þýðing bæði raunveruleg og myndræn"
+    },
+    {
+      "kind": "crux",
+      "subject": "לולי",
+      "rationale": "viðsnúinn skilyrðing — „ef ekki hefði verið“ — rekur alla setninguna í þáttinn af Mósje"
+    }
+  ],
+  "translation": "Og hann sagði að eyða þeim — ef Mósje, útvalinn hans, hefði ekki staðið í gati fyrir augliti hans, til að snúa reiði hans burt frá því að eyða.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "150c162f992e3756c3ed160d70e20c0e9b3694ea8e6a31a8b8e4dfe9f591c1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/21-24.1792410604410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "להשמידם",
+      "gloss": "að eyða þeim"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "ef … ekki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "בחירו",
+      "gloss": "útvalinn hans"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "hefði staðið"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "í gati"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir augliti hans"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "til að snúa burt"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "reiði hans"
+    },
+    {
+      "surface": "מהשחית",
+      "gloss": "frá því að eyða"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:04.410974624Z",
+  "model": "glm-5.3"
+}

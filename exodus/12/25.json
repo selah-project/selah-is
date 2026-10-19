@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf hjárunarorðin 'að þér skulið' sem hebreskan segir með sagnmyndinni einni."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint átal til Ísraels: 'þér komið … þér skulið varðveita'."
+    }
+  ],
+  "translation": "Og það mun verða, þegar þér komið inn í landið sem Jahve mun gefa yður, eins og hann hefur talað, að þér skulið varðveita ⟨את⟩ þessa þjónustu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "48ffd44da23574992d5445cd36b6c613f84b3de5457ce6c79c11f18c0112e97f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/25-28.1792394478634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það mun verða"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "þér komið inn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mun gefa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hann hefur talað"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "þér skulið varðveita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessa þjónustu"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "þjónustu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T07:21:18.634919943Z",
+  "model": "glm-5.3"
+}

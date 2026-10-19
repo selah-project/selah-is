@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תורה er Tóra, ekki 'lögmál' ein — nafnið er haldið samkvæmt D2"
+    }
+  ],
+  "translation": "Ef synir hans yfirgefa Tóra mína og í dóma mína ekki ganga —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/29-32.1792410374571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "yfirgefa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synir hans"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tóra mína"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "og í dóma mína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "gangu —"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:14.572193952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הפנות",
+      "rationale": "פנה merkir „horn“ eða „horn-turn“; KJV „high towers“, YLT „high corners“ — hornturnarnir víggirtinganna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lúðurs",
+      "rationale": "שופר er hrútshorn, ekki málmhljóðfæri; „lúður“ er næsta íslenska orð en myndin horntap er töpuð"
+    }
+  ],
+  "translation": "Dagur lúðurs og herópum gegn borgum ⟨sem⟩ víggirtar eru og gegn horn-turnum ⟨sem⟩ háir eru.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zephaniah\/1\/13-16.1792408819119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Dagur"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lúðurs"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "og herópum"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "borgum"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "víggirtar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og gegn"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "horn-turnum"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "háir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:20:19.121588503Z",
+  "model": "glm-5.3"
+}

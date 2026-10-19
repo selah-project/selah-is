@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חטאת og עלה rendered sem 'syndarófur' og 'brennistófur' — forn íslensk fórnarorð, ekki NT-orð"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "versið telur fórnirnar sem Aharon skal bera með sér — eitt naut, einn hrútur"
+    }
+  ],
+  "translation": "Með þessu skal Aharon koma inn í helgistadann: með nauti, kálf úr nautfé, til syndarófurs, og hrúti til brennistófurs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8a921d603106d9a62d2100f2b88380a7a35b4a55278cb19301a607e8b8640b40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/16\/2-3.1792416330419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Með þessu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "skal koma inn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgistadann"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "með nauti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kálf"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "úr nautfé"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "til syndarófurs"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "og hrúti"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "til brennistófurs"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:30.420789872Z",
+  "model": "glm-5.3"
+}

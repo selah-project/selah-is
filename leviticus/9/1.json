@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ויהי er söguleg tenging; íslenska þarf viðtökusetningu 'svo varð'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "áttundi dagur",
+      "rationale": "talning daga — vígsluatburðurinn á áttunda degi"
+    }
+  ],
+  "translation": "Og ⟨svo⟩ varð á áttunda deginum, að Mósje kallaði Aharon og sonu hans og öldungum Ísraels.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1f71bc7c99dd076a4c5d19903c32acc6930ce7d600c5823cef56d12b0f5c648a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/9\/1-4.1792395664630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "varð"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á deginum"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "áttunda"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallaði"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "og sonu hans"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "og öldungum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:04.630871128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "búast við",
+      "rationale": "שׂבר er að skoða\/vaka með von — 'búast við' eða 'bíða eftir'; rótin er vöktun, ekki aðeins vænting."
+    }
+  ],
+  "translation": "Augu alls búast við þér, og þú gefur þeim ⟨את⟩ fæðu þeirra á réttum tíma.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/13-16.1792411083151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "augu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "við þér"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "búast"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fæðu þeirra"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "fæðu þeirra"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "á réttum tíma"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:03.152518240Z",
+  "model": "glm-5.3"
+}

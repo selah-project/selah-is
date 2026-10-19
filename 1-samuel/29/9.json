@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 29:9",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sendiboði Elóhím",
+      "rationale": "מלאך אלהים: 'sendiboði\/engill Elóhím' — Akís, Filistí, notar orðið almennt um guðlega sendiboða; 'engill' væri frekar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "góður í augum mínum",
+      "rationale": "טוב בעיני er hebreskt samlíking — 'góður í augum' haldið bókstaflega."
+    }
+  ],
+  "translation": "Og Akís svaraði og sagði við Davíð: Ég veit að þú ert góður í augum mínum, eins og sendiboði Elóhím; einungis höfðingjar Filistímanna hafa sagt: Hann skal ekki fara upp með okkur í orrustuna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "544093e83701cbb8b62537b19d28a8d906a36dc98fa2fe3a66be5c5786ed4539",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/29\/9-11.1792400917165.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og Akís svaraði"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akís"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ég veit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góður"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú ert"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum mínum"
+    },
+    {
+      "surface": "כמלאך",
+      "gloss": "eins og sendiboði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אך",
+      "gloss": "einungis"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "höfðingjar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistímanna"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hafa sagt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "skal fara upp"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "með okkur"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "í orrustuna"
+    }
+  ],
+  "timestamp": "2026-10-19T09:08:37.166436491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הורישו er 'að leggja undir sig með því að rekja burt' — 'tóku landeign af' heldur myndinni frekar en 'eyða'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þennan' stendur tvisvar til að mynda 'þennan dag' á íslensku, hebreskan segir 'dag þennan'."
+    }
+  ],
+  "translation": "Og Börn Ísraels tóku ekki landeign af ⟨את⟩ Geshúrítunum og ekki ⟨את⟩ Maakatítunum, og Geshúr og Maakat bjuggu í miðju Ísrael fram á þennan dag.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/13\/13-16.1792399074046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "tóku landeign af"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Börn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geshúrítunum"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshúrítunum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Maakatítunum"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Maakatítunum"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og bjuggu"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshúr"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "og Maakat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fram á"
+    },
+    {
+      "surface": "היום",
+      "gloss": "þennan dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þennan"
+    }
+  ],
+  "timestamp": "2026-10-19T08:37:54.046930718Z",
+  "model": "glm-5.3"
+}

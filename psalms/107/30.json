@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חפץ 'fýsi\/þörf' — 'sem þeir þyrsta að' heldur lönguninni, ekki bara 'óskuð'"
+    }
+  ],
+  "translation": "Þá fagna þeir því að Það layrst, og hann leiðir þá til höfnarinnar sem þeir þyrsta að.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/29-32.1792410659966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Þá fagna þeir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "það lægst"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "og hann leiðir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "höfnarinnar"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "sem þeir þyrsta að"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:59.966756378Z",
+  "model": "glm-5.3"
+}

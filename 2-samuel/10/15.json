@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "slegið",
+      "rationale": "נגף er bókstaflega að 'stanga', 'hrinda' — hermun stangar nauts; 'slegið\/sigrað' er víðtækari íslenska"
+    },
+    {
+      "kind": "addition",
+      "subject": "þeir höfðu verið",
+      "rationale": "samsett persónu- og tíðarmynd hebreskunnar krefst aukinna orða á íslensku"
+    }
+  ],
+  "translation": "Og Aram sá að slegið höfðu þeir verið fyrir andliti Ísraels, og þeir söfnuðust saman.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0f2b8ccd64ff7a9f0e6f9a7e86df384251dd2ca390999e4ff7740b27a78ea942",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/10\/13-16.1792401371912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og ... sá"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "slegið"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "söfnuðust"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saman"
+    }
+  ],
+  "timestamp": "2026-10-19T09:16:11.912974959Z",
+  "model": "glm-5.3"
+}

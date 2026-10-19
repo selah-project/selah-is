@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 19:7",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וידע אלמנותיו",
+      "rationale": "„Þekkti ekkjur sínar“ — ljóðrænt myndmál um valdsmanninn; KJV les „auðnarkörtum hans“ frá annarri merkingu אלמנה (fasteign í eyði)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sér⟩",
+      "rationale": "Íslenskan krefst andlags við „kynnti“; hebreskan hefur aðeins sögnina."
+    }
+  ],
+  "translation": "Og hann kynnti ⟨sér⟩ ekkjur sínar, og eyðilagði borgir þeirra, og laust í auðn landið og fylling þess, fyrir hljði öskurs hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1da2ff61c81e6a171a547f8fd2a4dced5eda83ff3b8fc3d9ad5113e43e8450b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/19\/5-8.1792407192654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "og hann kynnti ⟨sér⟩"
+    },
+    {
+      "surface": "אלמנותיו",
+      "gloss": "ekkjur sínar"
+    },
+    {
+      "surface": "ועריהם",
+      "gloss": "og borgir þeirra"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "eyðilagði"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "og laust í auðn"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "og fylling þess"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "fyrir hljóði"
+    },
+    {
+      "surface": "שאגתו",
+      "gloss": "öskurs hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:53:12.655647767Z",
+  "model": "glm-5.3"
+}

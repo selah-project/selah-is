@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תלמדני",
+      "rationale": "'þú myndir kenna mér' (2. pers.) eða 'hún kenndi mér' (móðirin) — sgularnir skiftust."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מעסיס",
+      "rationale": "'safa úr nýþrýstum þrúgum' — sjaldgæft orð, myndrænt."
+    }
+  ],
+  "translation": "Myndi ég leiða þig, myndi ég færa þig í hús móður minnar; þú myndir kenna mér; myndi ég láta þig drekka gerjaðan vín með kryddi, úr safa Granatepli minna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/8\/1-4.1792412694088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "myndi ég leiða þig"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "myndi ég færa þig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "móður minnar"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "þú myndir kenna mér"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "myndi ég láta þig drekka"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "gerjaðan vín"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "með kryddi"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "úr safa"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "Granatepli minna"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:54.089828586Z",
+  "model": "glm-5.3"
+}

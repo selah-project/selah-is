@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Fertíu daga — taldur tími sem Filistíinn stillir sér upp."
+    },
+    {
+      "kind": "idiom",
+      "subject": "השכם והערב",
+      "rationale": "Bókstaflega 'að rísa snemma og að myrkva' — tíðatvenna fyrir morgun og kveld."
+    }
+  ],
+  "translation": "Og Filistíinn kom fram, að morgni og að kveldi, og stillti sér upp í fertíu daga.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/13-16.1792400594237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "kom fram"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistíinn"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "að morgni"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "og að kveldi"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "og stillti sér upp"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "í fertíu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-10-19T09:03:14.238748942Z",
+  "model": "glm-5.3"
+}

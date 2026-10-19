@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 6:4",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Efraím og Júda",
+      "rationale": "Jahve talar beint til tveggja landshluta í spurningu — ljóðrænt ærúávarp með endurtekningu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "khesed — trygð, kærleikur og réttlæti sameinuð — varðveitt sem heiti, ekki þýtt sem „gæsku“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענן בקר\/טל משכים",
+      "rationale": "hverfandi morgunstökur — endurspeglar rigningartáknmynd úr versi 3: sama vatn, en nú hverfur það"
+    }
+  ],
+  "translation": "Hvað skal ég gjöra þér, Efraím? Hvað skal ég gjöra þér, Júda? khesed ykkar er sem morgunský, og sem daggarmóða sem fyrir hádegi hverfur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/6\/1-4.1792408093258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hvað"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skal ég gjöra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraím"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Hvað"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "skal ég gjöra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "וחסדכם",
+      "gloss": "khesed ykkar"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "sem morgunský"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgun"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "og sem daggarmóða"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "fyrir hádegi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hverfur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:08:13.259315114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקעים",
+      "rationale": "JPS ‚þeir sem slá höndum saman' (ákveðið handslag sem veðsetning) á móti KJV ‚ábyrgð' — hebreskan heldur mynd handslagsins"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "upphafleg frumsögn ‚er' bætt við í síðari helmingi, hebreskan sleppir henni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ערב",
+      "rationale": "orðin merkir að ‚flétta saman' — að gagntengja sig skuld annars manns; ‚gerast ábyrgur' gefur athöfnina en gleymir fléttumyndinni"
+    }
+  ],
+  "translation": "Sá sem gerist ábyrgur fyrir framandringja verður slæmur gjörla, en sá sem hata ⟨er⟩ handslög er öruggur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c70d6a20847e849a0a90bf98d1f4be8c7cf1c49c031d882c863465924ae4f41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/11\/14-15.1792417037670.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "slæmur"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "verður gjörla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gerist ábyrgur"
+    },
+    {
+      "surface": "זר",
+      "gloss": "fyrir framandringja"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "en sá sem hata"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "handslög"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "er öruggur"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:17.671132278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þá — beint andlagsfornafn bætt við í íslensku, hebreskan bendir með endingsformi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלקלקות",
+      "rationale": "tvítekning rótar חלק (sléttur) — hljóðlegt samhljóða orð, glatað í íslensku"
+    }
+  ],
+  "translation": "Veri vegur þeirra myrkur og hálkusleipi, og engill Jahves elti þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/5-8.1792409644190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Veri"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "vegur þeirra"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "myrkur"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "og hálkusleipi"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "og engill"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "elti þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:04.191635648Z",
+  "model": "glm-5.3"
+}

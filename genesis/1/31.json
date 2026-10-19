@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "fornafnið 'hann' er ekki í hebresku; á íslensku er það nauðsynlegt"
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "kopula sem hebreskan sleppir: 'sjá — gott mjög' verður 'það var gott mjög'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב מאד",
+      "rationale": "hebreska orðaröðin 'gott mjög' er sterkari en venjuleg íslensk röð; hér haldið bókstaflega"
+    }
+  ],
+  "translation": "Og Elóhím sá ⟨את⟩ allt það sem hann hafði gert, og sjá — ⟨það⟩ var gott mjög. Og varð kvöld, og varð morgunn, dagur sétti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f1332f09778305aa1c86da256834d5649d647afcea8ed8940836cc08ffbb53c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/30-31.1792416244902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og sá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt það sem hann hafði gert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann hafði gert"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og varð"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kvöld"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgunn"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagur"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "sétti"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:04.902760729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה\/אעירה",
+      "rationale": "Sömu rót tvívegis — „vaknaðu … ég vaki“; endurtekningin berist í íslenskunni."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחר",
+      "rationale": "„Ég vaki dögunina“ (hlutinn) vs. „ég vakna fyrr en dögunin“ (KJV\/ASV) — myndin er sögð vekja döguna sjálfa."
+    }
+  ],
+  "translation": "Vaknaðu, nóttúpan og hörfan! Ég vaki dögunina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/108\/1-4.1792410682490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Vaknaðu"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nóttúpan"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "og hörfan"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ég vaki"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dögunina"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:22.491680926Z",
+  "model": "glm-5.3"
+}

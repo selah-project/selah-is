@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מזבח er orðrétt „af slátrun”; „sláturoffer” heldur myndinni fremur en almenna orðið „fórn”"
+    }
+  ],
+  "translation": "Að gjöra tsedek og dóm er valið hjá Jahve fremur en sláturoffer.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/21\/1-4.1792411517038.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Að gjöra"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dóm"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "er valið"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "hjá Jahve"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "fremur en sláturoffer"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:17.039583760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משתה",
+      "rationale": "Orðið er „drykkur“ eða „drekkuveisla“; „veisla“ er nærstyðsta íslenska orð fyrir samverkna drykkju og máltíð."
+    }
+  ],
+  "translation": "Og hann gjörði þeim veislu, og þeir átu og drukku.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "10d6e7aa241884c11c370f83d78c57be6045a987b2605a4919a51b7795e5f248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/26\/29-32.1792393189879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "veislu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "og þeir átu"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "og drukku"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:49.880310658Z",
+  "model": "glm-5.3"
+}

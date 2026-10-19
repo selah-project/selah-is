@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsöguð spurning mynduð með því að skipta הידעתם í spurnarorð og fornafn"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aleph-tav merkið varðveitt sem ⟨את⟩ og benti á Lavan"
+    }
+  ],
+  "translation": "Og hann sagði við ⟨þá⟩: Þekkið ⟨þið⟩ ⟨את⟩ Lavan, son Nakhors? Og þeir sögðu: Við þekkjum ⟨hann⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5385cacbc941ff9b72cf2129105792d5893af0c1a8a7907c6078128dccefaa06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/29\/5-8.1792393224550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "להם",
+      "gloss": "við ⟨þá⟩"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Þekkið ⟨þið⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhors"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og þeir sögðu"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Við þekkjum ⟨hann⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:24.551704424Z",
+  "model": "glm-5.3"
+}

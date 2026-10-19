@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כלה merkir ‚klára til enda‘; ‚slíja út alls‘ geymir myndina af fullkominni uppskeru"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קצר\/קציר\/לקט",
+      "rationale": "rótin קצר endurtekin þrisvar; orðaleikurinn um slátt og eftirslátt tapast ekki alveg"
+    }
+  ],
+  "translation": "Og þegar þið slíðið uppskeru lands ykkar skalt þú ekki slíja út alls jaðar akurs þíns, og eftiruppskeru uppskeru þinnar skalt þú ekki tína.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/9-12.1792395870900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "og þegar þið slíðið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uppskeru lands ykkar"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "uppskeru"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "lands ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "skalt þú slíja út alls"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "jaðar"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "akurs þíns"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "að slíja"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "eftiruppskeru"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "uppskeru þinnar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "skalt þú tína"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:30.902556174Z",
+  "model": "glm-5.3"
+}

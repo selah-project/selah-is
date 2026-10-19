@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Forsagður fornafni bætt við, hebreskan segir aðeins „og dó“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "níu hundruð og þrjátíu ár",
+      "rationale": "Ævilengd talda upp í árum"
+    }
+  ],
+  "translation": "Og öll dagar Adáms, sem hann lifði, urðu níu hundruð og þrjátíu ár, og hann dó.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0032496d12f656c28ee2d772d6822714b233d1f9d640f5346e4c601868a89ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/5\/5-8.1792392567178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "urðu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adáms"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifði"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "níu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "og þrjátíu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og hann dó"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:27.179354417Z",
+  "model": "glm-5.3"
+}

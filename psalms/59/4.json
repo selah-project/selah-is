@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur — ekki ósjálfstæð „sál“."
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Jahve",
+      "rationale": "Nafn Guðs uppi í bænarlýsingu — sjúdómverk einkenni kvæðisins (sjá v. 5 í framhaldi)."
+    }
+  ],
+  "translation": "Því að sjá, þeir liggja í launsátri að sálu minni — ofsalegir gera sát að mér; ekki uppreisn mín og ekki synd mín, Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/1-4.1792409930470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "liggja þeir í launsátri"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "að sálu minni"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "gera sát að"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "að mér"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ofsalegir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "uppreisn mín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "synd mín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:50.471157527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mál altarisins",
+      "rationale": "Lengd, breidd og hædd í ánum — hreint mæliverse."
+    },
+    {
+      "kind": "substitution",
+      "subject": "amma",
+      "rationale": "אַמָּה er mælieining (önd líneaðar), gjörð að 'ánn' í samræmi við aðrar mælieiningar skjalsins."
+    }
+  ],
+  "translation": "Og hann gjörði altari af eiri, tuttugu ánna að lengd og tuttugu ánna að breidd og tíu ánir að hæð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f223a9e5cbd2feef00f255ed7b18545b1e5640d32e245e72e1b901a23a2446bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/4\/1-4.1792415324849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af eiri"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ánna"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "að lengd"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tuttugu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ánna"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "að breidd"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "og tíu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ánir"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "að hæð"
+    }
+  ],
+  "timestamp": "2026-10-19T13:08:44.850645864Z",
+  "model": "glm-5.3"
+}

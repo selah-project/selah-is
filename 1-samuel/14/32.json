@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעש אל שלל",
+      "rationale": "Hebreskt umsagnarsamband 'gera að herfangi' — hermir snarparðuna; 'gerði sér at herfanginu' heldur sögninni."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובני בקר",
+      "rationale": "Orðrétt 'synir nautanna' — kálfa; einnar rættar lesning, en göllur flokkunarorð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "על הדם",
+      "rationale": "Orðrétt 'á\/upp á blóðinu' — á meðan blóðið var enn í kjötinu, brot á 3. Mós 17:10-14; 'með blóðinu' gefur rétta merkingu."
+    }
+  ],
+  "translation": "Og fólkið gerði sér at herfanginu, og tóku sauðfé og naut og alikálfa, og slátruðu ⟨á⟩ jörðu, og fólkið át með blóðinu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/29-32.1792400526533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gerði"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "אל",
+      "gloss": "at"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "herfanginu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og tóku"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sauðfé"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "naut"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "alikálfa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kálfa"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "og slátruðu"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "á jörðu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "og át"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "על",
+      "gloss": "með"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blóðinu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:06.535171635Z",
+  "model": "glm-5.3"
+}

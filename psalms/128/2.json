@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טוב לך",
+      "rationale": "Bókstaflega 'gott til þín' — þýtt sem 'þér mun gott fara'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ártíð",
+      "rationale": "Þýðing 'ávöxt stritbrar handa' bætir við 'ávöxt' til að gera myndþula skiljanlega"
+    }
+  ],
+  "translation": "Ávöxt stritbrar handa þinna munt þú éta; sæll ert þú, og þér mun gott fara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/128\/1-4.1792410881951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "strit"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "handa þinna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "munt"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "þú éta"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "sæll ert þú"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "og gott"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:41.951947619Z",
+  "model": "glm-5.3"
+}

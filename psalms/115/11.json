@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יראי יהוה ... ביהוה",
+      "rationale": "Nafnið Jahve endurtekið í aðtræðarlið og forsendu — samstöfun glatast ekki á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "þér sem óttist Jahve",
+      "rationale": "Beint ákall til guðhræddra"
+    }
+  ],
+  "translation": "Þér sem óttist Jahve, treystið í Jahve; hann ⟨er⟩ hjálp þeirra og skjöldur þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/115\/9-12.1792410744944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Þér sem óttist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "treystið"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "í Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hjálp þeirra"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "og skjöldur þeirra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:24.945187028Z",
+  "model": "glm-5.3"
+}

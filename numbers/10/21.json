@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "המקדש hér merkir helgidómana (gripina), ekki musterið"
+    },
+    {
+      "kind": "crux",
+      "subject": "והקימו",
+      "rationale": "„þeir“ geta verið Gersonítar og Merarítar (KJV „the other“) eða óákveðið fleirtala — hebreskan segir aðeins 'og þeir reistu'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„aðrir“ og „þeir“ er bætt við til að greina geranda"
+    }
+  ],
+  "translation": "Og Kehatítarnir fóru á braut, þeir sem báru ⟨את⟩ helgidóminn, og ⟨aðrir⟩ reistu Misjkaninn áður en ⟨þeir⟩ komu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0c15f53df13ebd7d8f03ea84d6bbf3d60e76f44d38c6ba23e9920d2f5dd19ab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/10\/21-24.1792396591797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "fóru á braut"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatítarnir"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "þeir sem báru"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "helgidóminn"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "og reistu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misjkaninn"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkaninn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "באם",
+      "gloss": "þeir komu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:56:31.798202410Z",
+  "model": "glm-5.3"
+}

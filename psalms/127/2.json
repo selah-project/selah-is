@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "svefn",
+      "rationale": "JPS les 'gefur honum elskuðum sínum á svefni' (í svefni); KJV\/BSB 'gefur svefn' — hvor mynd er möguleg úr hebreskri setningafræði"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוא\/שנא",
+      "rationale": "raf-orðið og svefn-orðið hljóma næstum eins — andstæðan tómleiki\/svefn er í hljóðinu sjálfu, tapast á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "brauð erfiðis",
+      "rationale": "העצבים er 'pínur, þunglyndi' — 'erfiðis' mýkir myndina af brauði pínanna"
+    }
+  ],
+  "translation": "Til ónýtis er yður að rísa snemma, að sitja uppi seint, að borða brauð erfiðis — svo gefur hann elskuðum sínum svefn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/127\/1-4.1792410915977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Til ónýtis"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "rísa snemma"
+    },
+    {
+      "surface": "קום",
+      "gloss": "rísa"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sitja uppi seint"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sitja"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "að borða"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "erfiðis"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "elskuðum sínum"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "svefn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:15.977972097Z",
+  "model": "glm-5.3"
+}

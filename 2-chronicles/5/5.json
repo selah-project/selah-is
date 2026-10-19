@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framburðarsagnið 'voru' bætt við — hebreska 'אשר באהל' segir aðeins 'sem í tjaldinu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tjaldfundar-tjaldið",
+      "rationale": "אהל מועד er bundið smátt — 'tjaldfundar-tjaldið' heldur bindingunni í einu orði."
+    }
+  ],
+  "translation": "Og þeir fluttu upp ⟨את⟩ arkina og ⟨את⟩ tjaldfundar-tjaldið og ⟨את⟩ öll heilögu áhöldin sem í tjaldinu voru — ⟨את⟩ þau fluttu prestarnir Levítarnir upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3f938b32a4b31e42c83a9334b9c84d6b1548fa0639962a2da62cc8ec3c58611d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/5\/5-8.1792415295427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "og þeir fluttu upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkina"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arkina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "tjaldfundar-tjaldið"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjald"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "öll heilögu áhöldin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "áhöldin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heilögu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "í tjaldinu"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "fluttu upp"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þau",
+      "marks": "þau (arkina og áhöldin)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítarnir"
+    }
+  ],
+  "timestamp": "2026-10-19T13:08:15.428353544Z",
+  "model": "glm-5.3"
+}

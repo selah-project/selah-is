@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "klettur og virki",
+      "rationale": "Myndröð skjóls heldur áfram úr v.3 — klettur, svo virki — Íslenzk orðráð heldur ekki öllu af hebresku myndmálinu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mikill varðvirki",
+      "rationale": "מגדל עז er orðrétt 'þorn afls' — 'virki afls' er bundið smíð, en 'sterkt virki' væri lausari kostur."
+    }
+  ],
+  "translation": "Því að þú hefur verið mér skjól, virki afls framhjá óvini.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/61\/1-4.1792410013568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "היית",
+      "gloss": "hefur verið"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "skjól"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "virki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "afls"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "framhjá \/ gagnvart"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "óvini"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:13.569234417Z",
+  "model": "glm-5.3"
+}

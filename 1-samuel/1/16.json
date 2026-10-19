@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בת בליעל",
+      "rationale": "'Dóttir Belíal' — bókstaflega 'dóttir gagnsysis'; sumir þýða 'vond kona' en nafnmyndin er varðveitt hér."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ágræti",
+      "rationale": "שיח er 'grundun\/atkvæði' — bænarumræða; 'ágræti' nær til kvartans en missir grundunarhlutann."
+    }
+  ],
+  "translation": "Settu ekki ambátt þína ⟨את⟩ fyrir augliti dóttur Belíal, því af gnægð ágrætis míns og gremju minnar hef ég talað allt til þessa.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/1\/13-16.1792400154723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Settu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ambátt þína"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ambátt þína"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir augliti"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttur"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belíal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "af gnægð"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ágrætis míns"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "og gremju minnar"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "hef ég talað"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:54.724864379Z",
+  "model": "glm-5.3"
+}

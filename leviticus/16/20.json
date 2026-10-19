@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„þá” bætt við til að marka íslenska aðalsetningu þar sem hebreskan hannar hana með þátttengingu"
+    }
+  ],
+  "translation": "Og er hann hefur lokið yfirbót fyrir ⟨את⟩ helgidóminum og ⟨את⟩ tjaldbúð fundarins og ⟨את⟩ altarið, þá skal hann færa fram ⟨את⟩ lifandi hafrinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a17951f644ba6e4159dd6373631f4a90397291ef9a694cbace2753afb91de8d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/16\/17-20.1792395934186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Og er hann hefur lokið"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "yfirbót fyrir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helgidóminum"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgidóminum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tjaldbúð fundarins"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjaldbúð"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundarins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altarið"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "þá skal hann færa fram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lifandi hafrinn"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "hafrinn"
+    },
+    {
+      "surface": "החי",
+      "gloss": "lifandi"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:34.188399422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "נegation í annarri setningu: והפתית er látinn njóta אל í fyrri málsgreininni, en íslenskan þarf að endurtaka ⟨ekki⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "חנם",
+      "rationale": "'án ástæðu \/án kostnaðar' — sumir lesa 'án gagns'; 'vitni án ástæðu' gegn 'vitni ókeypis'"
+    },
+    {
+      "kind": "you",
+      "subject": "to nemandinn",
+      "rationale": "beint átal í annarri persónu, heimilarform possibly-wisdom"
+    }
+  ],
+  "translation": "Vertu ekki vitni án ástæðu gegn náunga þínum, og tæltu ⟨ekki⟩ með vörunum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "199a8c4f2689f05fd73d808e089c0053bfe6fcea195d38d1f67d350858653940",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/24\/28-28.1792416981565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "vertu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vitni"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "án ástæðu"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "gegn náunga þínum"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "og tæltu"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "með vörunum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:21.565873780Z",
+  "model": "glm-5.3"
+}

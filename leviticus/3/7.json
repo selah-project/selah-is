@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "לפני er „fyrir andliti“ — atkvæði um nærveru, ekki aðeins staðarhjá."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "כשב הוא — „lamb, það“; fornafnið undirstrikar dýrtegundina og er brækt sem ⟨það⟩."
+    }
+  ],
+  "translation": "Ef lamb er ⟨það⟩ sem hann færir sem kórban sinn, þá skal hann færa ⟨את⟩ því fyrir andliti Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/3\/5-8.1792395386497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "lamb"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨það⟩ er"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "hann færir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kórban sinn"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "kórban sinn"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "þá skal hann færa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "því"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:26.499620501Z",
+  "model": "glm-5.3"
+}

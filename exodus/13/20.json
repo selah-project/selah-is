@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "óbyggðir",
+      "rationale": "מדבר er 'beitarland, opin svæði' sem varð 'öræfi' — 'eyðimörk' væri of þröng þýðing."
+    }
+  ],
+  "translation": "Og þeir brótust upp frá Súkkot og settu búðir sínar í Etam, í jaðri óbyggðanna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "09b0b668bc2f910a70fe159cedc0044809f8bafb4a380b685ec4f2a3c35cac43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/13\/17-20.1792394500843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "brótust upp"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "frá Súkkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "settust að með búðir"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "í Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "í jaðri"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "óbyggðanna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:21:40.845043613Z",
+  "model": "glm-5.3"
+}

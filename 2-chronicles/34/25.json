@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 34:25",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אלהים אחרים er 'guðir aðrir' með lágstaf — ekki Elóhím — því það eru guðir þjóðanna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חמה er 'hitinn' — flætt yfir í 'hin heita reiði' til að halda mynd hitans"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכעיסני\/חמתי",
+      "rationale": "æsing og hiti raðast saman — mynd reiðinnar sem eldur sem slokknar eigi"
+    }
+  ],
+  "translation": "Vegna þess að þeir yfirgáfu mig og reyktu guðum öðrum til að æsa reiði mína með öllum verkum hönda þeirra, mun hin heita reiði mín úthellast yfir þennan stað og mun eigi slokkna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bfe03f4d35e4171b8b866c7b615c4d5de45299f643b0f28652a8d4636eed0009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/34\/25-28.1792416180790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Vegna þess að"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þess"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "þeir yfirgáfu mig"
+    },
+    {
+      "surface": "ויקטירו",
+      "gloss": "og reyktu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til að"
+    },
+    {
+      "surface": "הכעיסני",
+      "gloss": "æsa reiði mína"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með öllum"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "verkum"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hönda þeirra"
+    },
+    {
+      "surface": "ותתך",
+      "gloss": "mun úthellast"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "hin heita reiði mín"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "yfir stað"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þennan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "slokkna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:23:00.791764010Z",
+  "model": "glm-5.3"
+}

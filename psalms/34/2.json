@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ברך er „hnéfalla\/bjarka“; á íslensku „lofa“ sem gerð tilbeðis"
+    }
+  ],
+  "translation": "Ég lofa Jahve ⟨את⟩ á hvern tíma, stöðugt er lof hans í munni mínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/34\/1-4.1792409628495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ég lofa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "á hvern"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tíma"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stöðugt"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lof hans"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "í munni mínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:48.496209534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shalóm",
+      "rationale": "שלום er haft óþýtt eftir hljóði — friður, heill, öryggi í einu orði"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קפדה",
+      "rationale": "orðið kemur aðeins fyrir hér í Tanakh — hröð samdráttarógn, skelfing"
+    }
+  ],
+  "translation": "Skelfing kemur, og þeir munu leita shalóms, og hann er ekki til.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5b70c1e96c66ef85364a2dab8a9a965d5d32225143d0a0838eaa387fb0aa2fa8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/7\/25-27.1792406759304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "skelfing"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "og þeir munu leita"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalóms"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og hann er ekki til"
+    }
+  ],
+  "timestamp": "2026-10-19T10:45:59.304707080Z",
+  "model": "glm-5.3"
+}

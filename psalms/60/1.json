@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sjúsjan-Edút",
+      "rationale": "שושן עדות er nafn lags eða lagiðkarlkens — «liljan vitnisburðar» — og er hljóðritað en ekki þýtt"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Miktam",
+      "rationale": "מכתם — sjaldgæft orð, hugsanlega «grafið gullsmíðaverk», merking óviss"
+    }
+  ],
+  "translation": "Fyrir kórstjórann, eftir «Sjúsjan-Edút», Miktam Davíðs, til kennslu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/60\/1-4.1792409982124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fyrir kórstjórann"
+    },
+    {
+      "surface": "על",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "«Sjúsjan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "-Edút»"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "til kennslu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:42.125420716Z",
+  "model": "glm-5.3"
+}

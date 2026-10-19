@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אתכם er persónufornafn (yður), ekki markings-aleph-tav, þótt sömu stafir séu í því"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואין אתכם אלי",
+      "rationale": "orðrétt 'og enginn yðar er til mín'; KJB\/ASV 'ye turned not to me' les snerfæri inn í textann sem stendur ekki þar"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨snerist⟩",
+      "rationale": "sögn ekki í hebreskunni, bætt við til að gera merkingu skýra"
+    }
+  ],
+  "translation": "Ég laust ⟨את⟩ yður með kornbruna og með grænu-farári og með hagléli, ⟨את⟩ allt verk handa yðar, og enginn yðar ⟨snerist⟩ til mín, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/haggai\/2\/17-20.1792408901437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "Ég laust"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "með kornbruna"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "og með grænu-farári"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "og með hagléli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt verk handa yðar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "handa yðar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yðar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:21:41.438163742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טומאה",
+      "rationale": "'óhreinleiki' — trúarleg óhreinindi, ekki almenn siðspilling."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואסתר פני",
+      "rationale": "Endurtekning 'ég faldi andlit mitt frá þeim' úr v.23 — innrími milli versa."
+    }
+  ],
+  "translation": "Samkvæmt óhreinleika þeirra og uppreisn þeirra gjörði ég við ⟨את⟩ þá, og ég faldi andlit mitt frá þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fe3bf555dcc733e178bc331397fbc4ecf6b31f8bbe3bbb837ae6cfddbfe48bbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/39\/21-24.1792407803523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "Samkvæmt óhreinleika þeirra"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "og uppreisn þeirra"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gjörði ég"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "húsi Ísraels"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "og ég faldi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit mitt"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "frá þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T11:03:23.524329691Z",
+  "model": "glm-5.3"
+}

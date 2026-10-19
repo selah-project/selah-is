@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinn framandi",
+      "rationale": "הזר — sá sem er útan við (ekki Levíti); JPS 'the common man', KJV 'the stranger'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'skal' bætt við í þágufallsliðnum — atviksorsagi í hebresku felur í sér tíma"
+    }
+  ],
+  "translation": "Og þegar Misjkaninu skal halda á braut, skulu Levítarnir taka ⟨את⟩ því niður, og þegar Misjkaninu skal leggjast, skulu Levítarnir reisa ⟨את⟩ það upp; en hinn framandi sem nálgast skal deyja.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "de41dd5ef1701e78ec869b8b37f35a77881937ad9342110bf75f400dd7f02bd0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/49-52.1792396319784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "og þegar ... skal halda á braut"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkaninu"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "skulu taka niður"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "því"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítarnir"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "og þegar ... skal legjast"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkaninu"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "skulu reisa upp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "það"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítarnir"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "en hinn framandi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sem nálgast"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T07:51:59.785931797Z",
+  "model": "glm-5.3"
+}

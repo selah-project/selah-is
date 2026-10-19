@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hinn raskur",
+      "rationale": "רשע: siðlega rangur maður; „raskur“ heldur formi orðsins en ekki embætti"
+    }
+  ],
+  "translation": "Hinir röskuðu eru framandi frá móðurkviði; þeir villast frá kviði, þeir sem tala lygi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/58\/1-4.1792409919009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "eru framandi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Hinir röskuðu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "frá móðurkviði"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "þeir villast"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "frá kviði"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "þeir sem tala"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lygi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:39.010197856Z",
+  "model": "glm-5.3"
+}

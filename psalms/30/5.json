@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זמר merkir upphaflega að klemma á streng spilbúnaðar; „syngja“ einn missir tækisins"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חסיד rótin er khesed — hetjan er „khesed-fólk“, ekki „heilagur“ almennt"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðsháttur til hópsins: söngvið, þakkið"
+    }
+  ],
+  "translation": "Söngvið á strengjum fyrir Jahve, khesidím hans, og þakkið minningu heilagleika hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/30\/5-8.1792409538981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Söngvið á strengjum"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "khesidím hans"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "og þakkið"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "minningu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heilagleika hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:18.982286310Z",
+  "model": "glm-5.3"
+}

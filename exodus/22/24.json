@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "נשך er orsökuð frá נשך 'að bíta' — 'biti' skuldar; 'vexti' er virðing en mynd bitningsins glatist"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "תלוה getur einnig merkt 'að taka lán'; hér er lánveitandi merkingin ríkari vegna samhengis við hinn fátæka"
+    }
+  ],
+  "translation": "Ef þú lánar silfur ⟨את⟩ fólki mínu, ⟨את⟩ hinum fátæka með þér, skalt þú ekki vera honum sem lánveitandi; leggið ekki á hann vexti.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/21-24.1792394709189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "lánar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólki mínu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólki mínu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinum fátæka"
+    },
+    {
+      "surface": "העני",
+      "gloss": "hinum fátæka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skalt þú vera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "sem lánveitandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "leggið"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á hann"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "vexti"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:09.190785965Z",
+  "model": "glm-5.3"
+}

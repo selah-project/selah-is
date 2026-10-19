@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "réttnærandi spurning",
+      "rationale": "Háðspurningin beinist til lesandans og rekur hugsunina að heimspeki líknasmiðanna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guð",
+      "rationale": "אל um skapaða guði þjóðanna — lágstafa guð, ekki El."
+    }
+  ],
+  "translation": "Hver hefur mótað guð eða steypt líkneski, sem engum nytur?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "568802be28bbe9a40bc47a03890735dc4eade70cf24bd44470cb9a3a3cdc4a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/44\/9-12.1792404690608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "hefur mótað"
+    },
+    {
+      "surface": "אל",
+      "gloss": "guð"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "eða líkneski"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "steypt"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sem ekki"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "nytur"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:30.608953551Z",
+  "model": "glm-5.3"
+}

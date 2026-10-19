@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fleirtöluáhrif viðstaddir — þjónar Jahve er kall (vocativ) sem hebreskan merkir aðeins með stellingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו",
+      "rationale": "Þrefaldur lofunarboði í versinu — hróp, ekki lýsing"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Versið byrjar á boði til lofs — ákall til þjóna Jahve"
+    }
+  ],
+  "translation": "Lofið Ja, lofið þið þjónar Jahve, lofið ⟨את⟩ nafn Jahve!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/113\/1-4.1792410675850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lofið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lofið"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjónar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lofið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn Jahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:15.850803435Z",
+  "model": "glm-5.3"
+}

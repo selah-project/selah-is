@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Misjkan",
+      "rationale": "משכן ritað eftir hljóði (Misjkan), ekki „tjaldbúð“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב … סביב",
+      "rationale": "endurtekning „kringum“ í upphafi og enda vers einskis annars en tætlunnar sjálfrar"
+    }
+  ],
+  "translation": "Og ⟨את⟩ stallana við garðinn allan kringum, og ⟨את⟩ stallana við hlið garðsins, og ⟨את⟩ allar tjalgnagla Misjkansins og ⟨את⟩ allar tjalgnagla garðsins kringum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d2c16a773016f9048fd6ad5eaf8efca658c334f27a0b8763d36eeecb7ffbfb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/38\/29-31.1792395247623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "stallana við garðinn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stallana"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "við garðinn"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kringum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stallana við hlið garðsins"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stallana"
+    },
+    {
+      "surface": "שער",
+      "gloss": "við hlið"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "garðsins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allar tjalgnagla Misjkansins"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tjalgnagla"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkansins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allar tjalgnagla garðsins"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tjalgnagla"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "garðsins"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kringum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:34:07.624781324Z",
+  "model": "glm-5.3"
+}

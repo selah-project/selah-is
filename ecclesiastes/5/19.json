@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'honum' bætt við viðtaka svarsins; hebreskan sleppir því"
+    },
+    {
+      "kind": "crux",
+      "subject": "מענה בשמחת לבו",
+      "rationale": "'Elóhím svarar í gleði hjarta hans' — JPS les 'fær honum svarað', A.S. 'fær hann til að gleðjast'; bókstafleg svörun varðveitt"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא הרבה יזכר",
+      "rationale": "'mun ekki mikið minnast' — JPS setur neitununa á 'dagarnir eru ekki margir'; hvatinn er glundroðaður í hefðbundnum þýðingum"
+    }
+  ],
+  "translation": "Því að hann mun ekki mikið minnast ⟨את⟩ daga lífs síns — því að Elóhím svarar honum í gleði hjarta hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ca47015040a979ef0633485c7f6b60ff0b503d92726ffc0bd1e41d34d5e7e046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/5\/17-19.1792413028087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mikið"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mun minnast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daga lífs síns"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "lífs síns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "svarar"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "í gleði"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hjarta hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:30:28.088436928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf hjálparsagnir (koma inn, taka niður) fyrir стanded hebreskar sagnir með forskeyti."
+    },
+    {
+      "kind": "substitution",
+      "subject": "herbúðin",
+      "rationale": "המחנה er einni 'legruðurinn\/herinn'; 'herbúð' heldur myndinni af tjaldbúðunum."
+    },
+    {
+      "kind": "you",
+      "subject": "to Aharon and his sons",
+      "rationale": "Boðið beinist til Aharonar og sona hans um þjónustu Kehatíta í Misjkan."
+    }
+  ],
+  "translation": "Og Aharon og synir hans koma inn þegar herbúðin ⟨er⟩ flutt á brott, og þeir taka niður ⟨את⟩ forhangið á tjaldforsíðunni og þekja með því ⟨את⟩ örk vitnisburðarins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "968df9d9129a9fe67f60856e89afca25dc0c6ace946d74fe86aa26d51ec305ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/4\/5-8.1792396409387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "koma inn"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og synir hans"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "þegar flutt á brott"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "herbúðin"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "og þeir taka niður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "forhangið"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "forhangið"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "tjaldforsíðunnar"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "og þekja"
+    },
+    {
+      "surface": "בה",
+      "gloss": "með því"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örkina"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "örk"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vitnisburðarins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:53:29.388112410Z",
+  "model": "glm-5.3"
+}

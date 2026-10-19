@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Gerandinn (Davíð) kemur fram í afturkenningu en er ekki í hebreskunni."
+    }
+  ],
+  "translation": "Og hann safnaði ⟨את⟩ öllum höfðingjum Ísraels og prestunum og Levítunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/23\/1-4.1792415001414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Og hann safnaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllum höfðingjum Ísraels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "höfðingjum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "og prestunum"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og Levítunum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:03:21.415562381Z",
+  "model": "glm-5.3"
+}

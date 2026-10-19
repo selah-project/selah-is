@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חלל er 'bora\/sára' — hér rendered 'vanhelga' (gera óhelgan), sömu rótar og 'heilagur' í hnotskurn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחל\/מחללת",
+      "rationale": "sama rót חלל tvisvar í versinu — 'byrjar að hora' og 'vanhelgar' — endurtakingin glatar á íslensku"
+    }
+  ],
+  "translation": "Og dóttir prests, ef hún byrjar að hora, vanhelgar hún ⟨את⟩ föður sinn; í eldi skal hún brenna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/21\/9-12.1792396000049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Og dóttir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prests"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "byrjar"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "að hora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föður sinn"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "föður sinn"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "vanhelgar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eldi"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "skal brenna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:40.050275441Z",
+  "model": "glm-5.3"
+}

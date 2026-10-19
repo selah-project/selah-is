@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er „andedráttur\/lífskraftur“, ekki óbundin sál í grískum skilning."
+    },
+    {
+      "kind": "crux",
+      "subject": "khasíd",
+      "rationale": "חסיד: „guðhræður\/kaðskur maður“ (KJV „holy“) á móti „miskunnsem“ — orðið er af sama stofni og khesed."
+    }
+  ],
+  "translation": "Gættu sálar minnar, því að khasíd er ég; hjálpaðu þjóni þínum — þú ert Elóhím minn — ⟨þeim⟩ sem treystir á þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/86\/1-4.1792410381918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Gættu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "khasíd"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "hjálpaðu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjóni þínum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú ert"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "⟨þeim⟩ sem treystir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "á þig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:21.919018907Z",
+  "model": "glm-5.3"
+}

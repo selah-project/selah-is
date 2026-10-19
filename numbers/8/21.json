@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 8:21",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויתחטאו er hithpael af חטא — Levítarnar 'hreinsuðu sig frá synd', ekki bara voru þeir hreinsaðir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טהר\/חטא",
+      "rationale": "sömu stafir í öfugri röð — synd (חטא) og hreinsun (טהר) hljóma saman í versinu"
+    }
+  ],
+  "translation": "Og Levítarnar hreinsuðu sig og þvegu föt sín, og Aharon vifi ⟨את⟩ þeim sem vifgjöf frammi fyrir Jahve, og Aharon garneredi fyrir þeim til að hreinsa þá.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0f389608df61852a39987c60aaeb26ec326bf6c0b3578181dc73fcd9af3bfb90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/8\/21-24.1792396620965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתחטאו",
+      "gloss": "hreinsuðu sig"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítarnar"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "og þvegu"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "föt sín"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "og vifi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sem vifgjöf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frammi fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויכפר",
+      "gloss": "og garneredi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לטהרם",
+      "gloss": "til að hreinsa þá"
+    }
+  ],
+  "timestamp": "2026-10-19T07:57:00.965779251Z",
+  "model": "glm-5.3"
+}

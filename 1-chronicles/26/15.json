@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האספים",
+      "rationale": "'House of Asuppim': proper name kept, vs. 'storehouse' (KJV\/ASV) or 'house of gatherings' (YLT) — collections of offerings."
+    },
+    {
+      "kind": "measurement",
+      "subject": "hlutkesti",
+      "rationale": "Continues the gate-distribution by lots: south gate and the house of Asuppim."
+    }
+  ],
+  "translation": "Fyrir Oved-Edóm til suðurs, og fyrir syni hans hús Asúppím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/26\/13-16.1792415017109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "fyrir Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edóm"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "til suðurs"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "og fyrir syni hans"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "Asúppím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:03:37.110415256Z",
+  "model": "glm-5.3"
+}

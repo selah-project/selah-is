@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כפר er rót kappara, 'að þekja'; 'friþgera fyrir' heldur vígsluháttinum en ekki myndinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפר x3",
+      "rationale": "sömu rót endurtekin þrisvar sinnum í versinu; endurtekningin flatur í þýðingu"
+    }
+  ],
+  "translation": "Og hann skal friþgera fyrir ⟨את⟩ helgidóm heilagleikans og ⟨את⟩ fundartjaldið, og ⟨את⟩ altarið skal hann friþgera, og fyrir prestana og alla þjóð söfnuðarins skal hann friþgera.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1d3a8d3ce0f13146418a6c3e69e0f795069a2a6bb31222b9ebc1f74a596db30b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/16\/33-34.1792395839483.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "og hann skal friþgera fyrir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helgidóm heilagleikans"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "helgidóm"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heilagleikans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fundartjaldið"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "fundar-tjald"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "altarið"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "skal hann friþgera"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og fyrir"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og fyrir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "söfnuðarins"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "skal hann friþgera"
+    }
+  ],
+  "timestamp": "2026-10-19T07:43:59.489677464Z",
+  "model": "glm-5.3"
+}

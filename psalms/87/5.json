@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עליון er titill, 'hinn hæsti', ritað eftir hljóði en ekki sem 'Guð'"
+    },
+    {
+      "kind": "crux",
+      "subject": "maður og maður",
+      "rationale": "איש ואיש — 'þessi og hinn' (margir fæddir þar) vs. 'sá og sá einn'"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "ítareinkunn sem hebreskan vantar við þýðingu yfir í íslensku"
+    }
+  ],
+  "translation": "Og um Tsíon mun sagt verða: Maður og maður, fæddur er hann í henni, og hinn hæsti sjálfur mun grundvella hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/87\/5-7.1792410334485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "og um Tsíon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mun sagt verða"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og maður"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fæddur er"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í henni"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann sjálfur"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "mun grundvella hana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hinn hæsti"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:34.486027772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו",
+      "rationale": "tvö orð fyrir skömmin — bæði blettast — tvennt í rás versins, endurtekið"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש = lífið, lífskrafturinn, ekki sál í enskum skilningi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "áeggja",
+      "rationale": "חשבב er að vefa\/innræta hugmynd — 'þeir sem vefja ógn mína'"
+    }
+  ],
+  "translation": "Mættu þeir verða skammar og sviðir, þeir sem leita sálar minnar; þeir skríða aftur á bak og verða aflögð, þeir sem áeggja ógna mínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "29c4bc1af1716bd710b20d80f4f6213dc794436e3c22a2f07c77fd013055c109",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/3-4.1792416922988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mættu þeir verða skammar"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "og sviðir"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "þeir sem leita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "þeir skríða aftur"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "á bak"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "og verða aflögð"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "þeir sem áeggja"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ógna mínu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:22.989615605Z",
+  "model": "glm-5.3"
+}

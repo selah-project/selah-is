@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 1:26",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Forskeytið ל („til, fyrir“) í ולי, ולצדק o.s.frv. flætt inn í íslensku setningafræðina — „kallaður“ stendur ekki í hebresku."
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Frumlagið (Adoníja) er ekki nefnt í versinu; „hann“ bætt við á íslensku."
+    }
+  ],
+  "translation": "En mig, þjón þinn, og Tsadok prestinn, og Benajahú, son Jehójada, og þjón þinn Sjelómó — hann hefur ⟨ekki⟩ kallað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6179e7beccc968aab3b7d505b2c724546e955fa0b25419cbf675975c0289da13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/26-27.1792416661070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "en mig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjón þinn"
+    },
+    {
+      "surface": "ולצדק",
+      "gloss": "og Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "og Benajahú"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehójada"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "og Sjelómó"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjón þinn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallað"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:01.082597242Z",
+  "model": "glm-5.3"
+}

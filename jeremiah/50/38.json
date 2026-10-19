@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 50:38",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חֹרֶב",
+      "rationale": "V.37 hefur חֶרֶב 'sverð'; hér stendur חֹרֶב 'þurrkur' — sömu stafir, önnur hljóðgreining; orðvíxl glatar á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתהללו",
+      "rationale": "'munu þeir æðast' (geðveikjast yfir líkneskjum) gegn 'munu þeir hrópa' — rót הלל bæði 'að æðast' og 'að lofa'; KJV\/JPS velja æðist."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באימים",
+      "rationale": "'hræðilegar skrímyndir' — בְּאֵימִים merkir ógnir\/skelfingar og notað um líkneski sem hræðingarhlut."
+    }
+  ],
+  "translation": "Þurrkur á vötnum hennar og þau munu þorna; því að hún er land skurðgoða, og af hræðilegum skrímyndum munu þeir æðast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3c20f7490378a5e2a585d9aa5232a57bdc3b11b4a48017f1117b82ac24ac7e5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/50\/37-40.1792406603270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "þurrkur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "מימיה",
+      "gloss": "vötnum hennar"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "og þau munu þorna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "פסלים",
+      "gloss": "skurðgoða"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún er"
+    },
+    {
+      "surface": "ובאימים",
+      "gloss": "af hræðilegum skrímyndum"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "munu þeir æðast"
+    }
+  ],
+  "timestamp": "2026-10-19T10:43:23.271641836Z",
+  "model": "glm-5.3"
+}

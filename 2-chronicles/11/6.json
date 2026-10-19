@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið ‘hann’ er bætt við — hebreskan heldur sama frumlagi og 11:5"
+    }
+  ],
+  "translation": "Og hann reisti ⟨את⟩ Bet-Lekhem og ⟨את⟩ Etam og ⟨את⟩ Tekóa",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9678e41e341194a687d71b9ae7e714fb6d931e9f34898a5780de08d27e48942c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/11\/5-8.1792415363030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "reisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Lekhem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Etam"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tekóa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekóa"
+    }
+  ],
+  "timestamp": "2026-10-19T13:09:23.031133859Z",
+  "model": "glm-5.3"
+}

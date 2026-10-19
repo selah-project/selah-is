@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er heldur 'kok, lífsönd, lífskraftur' en 'sál' í síðari merkingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yfirhlaða",
+      "rationale": "לכפר er bókstaflega 'þekja' — 'yfirhlaða' heldur þekju-myndinni en 'sætta' myndi tapa henni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨fyrir⟩ bætt við fyrir על"
+    }
+  ],
+  "translation": "Hinn ríki má ekki auka og hinn fátæki má ekki fækka af hálfum sikli, til að gjalda hefjargjöf Jahve, ⟨את⟩, til að yfirhlaða ⟨fyrir⟩ sálar yðar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0026fa4643c4ed30338f5fbe4bca1e078a1cb7db93dc588fc9bf2231de52f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/30\/13-16.1792395012667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "hinn ríki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "má auka"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "og hinn fátæki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "má fækka"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "af hálfum"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "sikli"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "til að gjalda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hefjargjöf"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "hefjargjöf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "til að yfirhlaða"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "sálar yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:30:12.669790792Z",
+  "model": "glm-5.3"
+}

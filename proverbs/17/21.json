@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נבל er bæði 'heimskur' og 'óguðlegur'; 'fávís' heldur heimskuhliðinni en týmir siðferðislegu veganu."
+    },
+    {
+      "kind": "crux",
+      "subject": "לו",
+      "rationale": " hvort sorgin er fyrir honum sjálfum ('sér') eða í hans stað — gömlu þýðingarnar skiptast."
+    }
+  ],
+  "translation": "Sá er gotten hefur fávísa fær sér sorg, og faðir fávíss gleðst ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a0340a5198c891f57e666575f8d848db113868bbd78eff4185e348cede8b17d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/17\/21-24.1792411401240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "sá er gotten hefur"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "fávísa"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "sorg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gleðst"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faðir"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "fávíss"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:21.241189324Z",
+  "model": "glm-5.3"
+}

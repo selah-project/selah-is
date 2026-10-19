@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 44:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Guð með litlum staf fyrir átrúnaðarlíkneskið, ekki El, því tekstinn talar um skurðgoð"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסגוד\/אסגוד",
+      "rationale": "Sömu rót og atviksorðið í 44:15 og 44:19 — spámáldagið grípur orðið aftur um líkneskjagerðarmanninn"
+    }
+  ],
+  "translation": "Og afganginn af því gjörði hann að guði, útskuruðri mynd sinni; hann fellur fram fyrir því og dýrkar það og biður til þess og segir: Hjálpa þú mér, því að guð minn ert þú.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/44\/17-20.1792404758586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאריתו",
+      "gloss": "Og afgangurinn"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "að guði"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði hann"
+    },
+    {
+      "surface": "לפסלו",
+      "gloss": "útskuruðri mynd sinni"
+    },
+    {
+      "surface": "יסגוד",
+      "gloss": "fellur fram"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fyrir því"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og dýrkar"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "og biður"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til þess"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og segir"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "Hjálpa þú mér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "guð minn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    }
+  ],
+  "timestamp": "2026-10-19T10:12:38.586911146Z",
+  "model": "glm-5.3"
+}

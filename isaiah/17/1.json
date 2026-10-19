@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעי\/מפלה",
+      "rationale": "Tvö samstöðu orð um rúst — hrúga og fall — sameinast í myndinni af hrúgu rústa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסר",
+      "rationale": "Sögnin er 'verður af stað\/tekinn burt'; 'er horfið' gefur sama mynd en ekki sömu hreyfingu."
+    }
+  ],
+  "translation": "Byrði Damasek. Sjá, Damasek er horfið úr því að vera borg, og það verður að hrúgu rústa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/17\/1-4.1792404054687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Byrði"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "er horfið"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "úr því að vera borg"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "og það verður"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "að hrúgu"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "rústa"
+    }
+  ],
+  "timestamp": "2026-10-19T10:00:54.687820769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨þér⟩ bætt við — hebreska sögnin תפקד hefur enga hvílda nafnháttarþýðingu og viðfangið stendur ekki í textanum."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Enginn tengill 'með' fyrir hríðarbyl og óveður — hebreskan setur orðin samhliða án viðtengingar."
+    }
+  ],
+  "translation": "Frá Jahve Tsevaót verður ⟨þér⟩ heimsónt, með þrumufalli og jarðskjálfta og mikilli rödd, hríðarbyl og óveðri, og eldleika elds sem étur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7f125934d454f9534d0d48e95066555c4ca7ab7e0efdc1a18f2a398063c9ff22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/29\/5-8.1792404395622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "Frá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "verður heimsónt"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "með þrumufalli"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "og jarðskjálfta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "og rödd"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikilli"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "hríðarbyl"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "og óveður"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "og eldleika"
+    },
+    {
+      "surface": "אש",
+      "gloss": "elds"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "sem étur"
+    }
+  ],
+  "timestamp": "2026-10-19T10:06:35.623514075Z",
+  "model": "glm-5.3"
+}

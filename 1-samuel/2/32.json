@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "צר מעון: 'óngt í bústað' — KJV 'óvinur', JPS 'keppinaut', ASV 'þrenging bústaðar míns'; hebreskan er mynd um þrengingar í helgistöðinni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צר er bókstaflega 'grammi, þröngt' — þýtt 'neyð' hér til að geyma mynd þrengingarinnar."
+    }
+  ],
+  "translation": "Og þú munt horfa á neyð í bústað mínum, með öllu því góða sem hann gerir Ísrael ⟨את⟩, og enginn gamall verður í húsi þínu alla daga.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a38aa30a577eb2b6750a123445f5761feae53c54164958815e18a0aeafb4f510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/29-32.1792400191672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "og þú munt horfa á"
+    },
+    {
+      "surface": "צר",
+      "gloss": "neyð"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "í bústað mínum"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "góða sem hann gerir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gamall"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "í húsi þínu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daga"
+    }
+  ],
+  "timestamp": "2026-10-19T08:56:31.673557541Z",
+  "model": "glm-5.3"
+}

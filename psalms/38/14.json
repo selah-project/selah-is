@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbeyging 'er' bætt við; hebreskan sleppir samsvarsagn"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "כאלם gæti verið 'málglaður' — sá sem getur ekki talað — en 'þögull' heldur viljaþögninni"
+    }
+  ],
+  "translation": "En ég er sem heyrnarlaus, heyr ⟨ekki⟩, og sem þögull, sem opnar ⟨ekki⟩ munn sinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/13-16.1792409709792.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ég"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sem heyrnarlaus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "heyr"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "og sem þögull"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "opnar"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "munn sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:09.792849224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "orðatiltæki: tómleiki\/vondur — óþverfa valin sem þekkt í orðatiltækjum Orðskviðanna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשות...לפעלי",
+      "rationale": "sömu sögn endurtekin — framkvæma bæði réttláti og vondi, en niðurstaðan andstæð"
+    }
+  ],
+  "translation": "Fagnaðar er fyrir réttláta að framkvæma ⟨dóm⟩, en hrifa ⟨það⟩ er fyrir þá sem framkvæma óþverfu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/21\/13-16.1792411489626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "Fagnaðar"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "fyrir réttláta"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "að framkvæma"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dóm"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "en hrifa"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "fyrir þá sem framkvæma"
+    },
+    {
+      "surface": "און",
+      "gloss": "óþverfu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:49.627774559Z",
+  "model": "glm-5.3"
+}

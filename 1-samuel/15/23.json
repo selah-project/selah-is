@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "חטאת קסם: 'synd spádóms' eða 'guðspádómur er synd'; YLT les eitthvað öðruvísi en KJV 'witchcraft'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאסת\/וימאסך",
+      "rationale": "sama sögn tvívegis — þú hafnaðir, hann hafnaði þér — þýðing heldur speglinum"
+    }
+  ],
+  "translation": "Því að uppreisn er sem spádómssynd, og þrjósku er sem ljótlegt óhollusti og terafím; þar sem þú hafnaðir ⟨את⟩ orði Jahve, hefur hann hafnað þér, að þú sért ekki konungur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/21-24.1792400508408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "spádómssynd"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "uppreisn"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "og óhollusti"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "terafím"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "þrjósku"
+    },
+    {
+      "surface": "יען",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "þú hafnaðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orði"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "hefur hann hafnað þér"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "að þú sért ekki konungur"
+    }
+  ],
+  "timestamp": "2026-10-19T09:01:48.409830792Z",
+  "model": "glm-5.3"
+}

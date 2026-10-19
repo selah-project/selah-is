@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er önd\/lífskraftur, ekki ólík sálin ein; myndin „það sem andar“ tapast"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "sálmötungurinn kallar á hógværu að heyra og fagna"
+    }
+  ],
+  "translation": "Í Jahve ræður sál mín vegna; heyri hógværir ⟨það⟩ og fagni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/34\/1-4.1792409628495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Í Jahve"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ræður vegna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "heyri"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "hógværir"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "og fagni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:48.496349368Z",
+  "model": "glm-5.3"
+}

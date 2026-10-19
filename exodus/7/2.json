@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hann⟩",
+      "rationale": "Fornafnið 'hann' er ekki í hebresku; undirofnuður frumlagur í ושלח."
+    },
+    {
+      "kind": "crux",
+      "subject": "og hann skal senda",
+      "rationale": "נושלח: hvort Paró sendir sonu Ísraels brott, eða Jahve — sumar þýðingar gera það að tilgangi ('svo að hann láti þá fara')."
+    }
+  ],
+  "translation": "Þú skal tala ⟨את⟩ allt það sem ég býð þér, og Aharon, bróðir þinn, skal tala við Paró, og ⟨hann⟩ skal senda ⟨את⟩ sonu Ísraels úr landi sínu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/7\/1-4.1792394213476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "skal-tala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ég-býð-þér"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bróðir-þinn"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "skal-tala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paró"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "og-skal-senda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonu Ísraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "úr-landi-sínu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:16:53.477311906Z",
+  "model": "glm-5.3"
+}

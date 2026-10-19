@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 61:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'vera' í viðtengingu — hebreskan notar aðeins ópersónulega Framburð 'יאמר לכם'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "auður",
+      "rationale": "חיל er 'hermáttur, fé, afl' — hér 'auður', en orðið er víðara en efni"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתימרו",
+      "rationale": "Rót ימר 'skipta' — ýmsar þýðingar: 'hrósast' (KJV), 'glæðast í' (JPS 'revel'), 'eftir skipta'"
+    }
+  ],
+  "translation": "En þér skuluð heita prestar Jahve; um þjóna Elóhíms vorra mun yður sagður ⟨vera⟩; auði þjóðanna munuð þér eta, og í vegsemd þeirra munuð þér hrósast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c489af6f3f13a43d2ea2e976fda700f782fbea5b87b2526aa609737e7dfe9e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/61\/5-8.1792405076339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "En þér"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "prestar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "skuluð þér heita"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "þjóna"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhíms vorra"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mun sagður"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "auði"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "munuð þér eta"
+    },
+    {
+      "surface": "ובכבודם",
+      "gloss": "og í vegsemd þeirra"
+    },
+    {
+      "surface": "תתימרו",
+      "gloss": "munuð þér hrósast"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:56.340398255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גם עתה",
+      "rationale": "Bókstaflega ‚einnig nú‘ — íslenskt sambærilegt frasi, mótstöfuvísgatun snýr boðinu bræðranna við"
+    },
+    {
+      "kind": "substitution",
+      "subject": "herra",
+      "rationale": "אדני um mann (Jósef) — herra, ekki Adónaí"
+    }
+  ],
+  "translation": "Og hann sagði: Einnig nú, eins og orð yðar eru, svo er það — sá er ⟨אתו⟩ finnst hjá verði mín þjónn, og þér skuluð verða saklausir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/44\/9-12.1792393795799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Einnig"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "eins og orð yðar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er það"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finnst"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "sá er finnst hjá"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verði"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mín"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þjónn"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "og þér"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "skuluð verða"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "saklausir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:09:55.800646556Z",
+  "model": "glm-5.3"
+}

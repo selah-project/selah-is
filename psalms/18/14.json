@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "רעם merkir að skjálfa\/hrynja — 'þruma' er orðið fyrir þetta hryn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "ברד וגחלי אש endurtekið órþáttarlega úr v.13"
+    }
+  ],
+  "translation": "Og Jahve þrumaði á himnunum, og hinn hæsti gaf rödd sína — hagél og gnekur af eldi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/13-16.1792409409564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "þrumaði"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "á himnunum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "og hinn hæsti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "rödd sína"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hagél"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "og gnekur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "af eldi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:09.565060075Z",
+  "model": "glm-5.3"
+}

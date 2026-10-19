@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האבות",
+      "rationale": "Bókstaflega „magabörn“ — kallarð á anda dauðra; „andaspákonur“ gegn „galdramenn“ eða „meðal“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הידענים",
+      "rationale": "„Þeir sem vita“ — augnaráðsmenn sem þekkja anda; „viðkvæmuningjar“ heldur myndinni."
+    },
+    {
+      "kind": "secret",
+      "subject": "andaspá",
+      "rationale": "Versið setur út fyrir seinni frásögn af draugaspað Sjáls hjá konunni í En-Dor."
+    }
+  ],
+  "translation": "En Sjmúel var dáinn, og allur Ísrael hélt daga sorgar um hann og jarðaði hann í Rama, í borg sinni. Og Sjaúl hafði fjarlægt andaspákonurnar og ⟨את⟩ viðkvæmuningja úr landinu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/28\/1-4.1792400979771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "En Sjmúel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "var dáinn"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "hélt daga sorgar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "um hann"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "jarðaði hann"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "í Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "í borg sinni"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Og Sjaúl"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hafði fjarlægt"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "andaspákonurnar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "viðkvæmuningja"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "viðkvæmuningja"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "úr landinu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:09:39.772781292Z",
+  "model": "glm-5.3"
+}

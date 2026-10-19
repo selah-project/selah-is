@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Elóhím hér um skopmyndir þjóðanna — hebreskan notar sama orð og um hinn sanna Elóhím; endurtekningin er ásetningsleg"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framsögnarsetningin er spurning — hebreska spurningarpartíkúlin ה- og raðan segja til; 'eru' er samhengisviðbót við frumlag"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Rétorísk spurning, samtengd viðjarðarfullyrðingu hinna þjóða í v. 19 — ráðandi ljóðrænt svar við líkneskidýrkun"
+    }
+  ],
+  "translation": "Skal maður gera sér Elóhím, og þeir eru ⟨ekki⟩ Elóhím?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "016948fe03ebfdabd9d229599fd5f2df29bab5e2e83749a1f2b6d2afa7c35768",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/16\/20-20.1792416723686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Skal... gera"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maður"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "og þeir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:03.686456572Z",
+  "model": "glm-5.3"
+}

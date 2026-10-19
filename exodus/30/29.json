@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדש",
+      "rationale": "Þreföld notkun rótarinnar קדש (helga — heilög — helgast) í einu versi; stafhljóð varðveitt með 'helga\/heilög' á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "heilög hinna heilögu",
+      "rationale": "קדש קדשים er upphækkuð támynd ('heilagleiki heilagleika'); íslenska Biblían segir 'allra helgast'."
+    }
+  ],
+  "translation": "Og þú skalt helga ⟨את⟩ þau, og þau skulu vera heilög hinna heilögu; allt sem snertir ⟨את⟩ þau mun helgast.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ffb277de3b7e546d00bf0640ddd3b82f58c59cc04ddcd48fd100a9340ae28b3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/30\/29-32.1792394991374.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "Og þú skalt helga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þau"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og þau skulu vera"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilög"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "hinna heilögu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sem snertir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "þau"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "mun helgast"
+    }
+  ],
+  "timestamp": "2026-10-19T07:29:51.375552114Z",
+  "model": "glm-5.3"
+}

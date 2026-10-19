@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "וחשב את שני ממכרו",
+      "rationale": "ári söluinnar eru talin — reikningsaðgerð í textanum sjálfum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העודף",
+      "rationale": "'það sem er umfram' — mismunur milli fulls verðs og hinnar nýttu tíma, ekki 'vöxtur' heldur afgangs"
+    }
+  ],
+  "translation": "þá reiknar hann ⟨את⟩ ár sölu sinnar og endurgreiðir ⟨את⟩ umframinu manninum sem seldi honum, og hann snýr aftur til eignar sinnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6255a878fe936b1a2ecc6752eaeb1391a920960e8380fe14f3afbc7c9966008b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/25\/25-28.1792396199669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "þá reiknar hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ár sölu hans"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "sölu hans"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "og endurgreiðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umframið"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "umframið"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "manninum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "seldi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og snýr aftur"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "til eignar sinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:49:59.670905192Z",
+  "model": "glm-5.3"
+}

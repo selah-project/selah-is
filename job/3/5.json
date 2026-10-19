@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גאל",
+      "rationale": "„að frelsa\/taka til sín“ — goða\/kjörarétta merkingin (fjölskyldutengsl), KJV „stain“, JPS „claim it for their own“."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כמרירים",
+      "rationale": "orðið kemur aðeins hér fyrir í Tanakh; „bitru dagsmyrkur“ heldur bæði bitrunni og myrkrinu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צלמות",
+      "rationale": "„dauðaskuggi“ — samsettt orð, skuggi + dauði, ekki einfalt „myrkur“."
+    }
+  ],
+  "translation": "Frelsi það myrkrið og dauðaskugginn; búi skýjamyrkur yfir það; ógindi það bitru dagsmyrkur dagsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "04cc00782941dd4c58ff4d92d2e5b7f1bc517d601098d9e661d5de6ddd945575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/3\/5-8.1792411768955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "frelsi það"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "myrkrið"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "og dauðaskugginn"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "búi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir það"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "skýjamyrkur"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "ógindi það"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "bitru dagsmyrkur"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagsins"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:28.955942032Z",
+  "model": "glm-5.3"
+}

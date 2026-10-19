@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זעפים",
+      "rationale": "orðið merkir bókstaflega ‹þeir suðu í brúði› — reiðir, glettisirðir; ‹döprir› er mildasta íslenska myndin."
+    },
+    {
+      "kind": "addition",
+      "subject": "voru",
+      "rationale": "hebreskan hefur enga sagnatengingu við ‹döprir›; skeyting bætt við á íslensku."
+    }
+  ],
+  "translation": "Og Jósef kom til þeirra að morgni og sá ⟨את⟩ þá, og sjá, þeir voru döprir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5afc356fc052956f2e77475bc85fbe17c76038bafeb3c24796fcb18b8a2d39c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/40\/5-8.1792393652649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til þeirra"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "að morgni"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "döprir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:07:32.650834301Z",
+  "model": "glm-5.3"
+}

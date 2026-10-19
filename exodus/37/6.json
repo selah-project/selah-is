@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Mál kappóret: tvær alnar og hálf að lengd, öln og hálf að breidd."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kappóret",
+      "rationale": "כפרת er 'lok' af rót kafar (blæja); ekki 'miskunnarás' — hljóðritunin heldur orðmyndinni."
+    }
+  ],
+  "translation": "Og hann gjörði kappóret af hreinu gulli — tvær alnar og hálf var lengd ⟨hennar⟩ og öln og hálf breidd ⟨hennar⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "65ff8cd433a706fac5a3ccd5c9e632db4f75022f8ae92788d5e9b06882df973e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/37\/5-8.1792395184944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kappóret"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "af gulli"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hreinu"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "tvær alnar"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og hálf"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lengd hennar"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og öln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og hálf"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "breidd hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:33:04.945704907Z",
+  "model": "glm-5.3"
+}

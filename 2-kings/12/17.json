@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כסף אשם og כסף חטאות eru bundnar smíðar — 'silfur sektarinnar og silfur syndanna' — endursagðar sem eitt nafnorð, sektarsilfur og syndasilfur"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "íslenskan þarf fw. 'það' í seinni málsgreinar, hebreskan hefur aðeins þágufall viðhengingt (לכהנים)"
+    }
+  ],
+  "translation": "Sektarsilfur og syndasilfur var ekki borið inn í hús Jahve — prestunum skal það verða.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a81c40338ca03eeefc2d23823f94f0575715afe796740ae864d36587fd30a620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/12\/17-18.1792416689514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sektar"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "og silfur"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "synda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "var borið inn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "prestunum"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal það verða"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:29.514519895Z",
+  "model": "glm-5.3"
+}

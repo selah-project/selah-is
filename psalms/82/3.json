@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "á",
+      "rationale": "Íslenskan þarf viðtaksviðmið sem hebreskan sleppir."
+    },
+    {
+      "kind": "you",
+      "subject": "dómararnir",
+      "rationale": "Boðsháttur — skipun til þeirra sem áður voru sökuð um ranglæti."
+    }
+  ],
+  "translation": "Dæmið ⟨á⟩ veikan og föðurlausan, halla og fátækan gerið tsedek.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fd0b5a856df469a1725c7e70f3e40706c44adbb9d2a44daed8d77efdac23230a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/82\/1-4.1792410270173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Dæmið"
+    },
+    {
+      "surface": "דל",
+      "gloss": "veikan"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "og föðurlausan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "halla"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "og fátækan"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "gerið tsedek"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:30.174329496Z",
+  "model": "glm-5.3"
+}

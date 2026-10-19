@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טפש כחלב",
+      "rationale": "'er þykkt\/bjöguð sem feiti' — feitin loka hjartanu; 'fiturlaus' er túlkanlegt viðtak"
+    },
+    {
+      "kind": "crux",
+      "subject": "שעשעתי",
+      "rationale": "'fíflaði með, smélt' — gamlar þýðingar segja 'fann gleði'; myndin er að flækjast upp í eða strjúka Tórunni"
+    }
+  ],
+  "translation": "Fiturlaust ⟨er⟩ hjarta þeirra, þykkt sem feitt; ég hafði undrun í Tóru þinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7d73ce756908b15529b62e7c3c91224c6cf0c10a86e597b520a6dc97ec710c51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/69-72.1792410846834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "þykkt"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "sem feitt"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hjarta þeirra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tóru þinni"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "hafði undrun í"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:06.835017103Z",
+  "model": "glm-5.3"
+}

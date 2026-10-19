@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "איש 'maður\/hver' vísað til hvers einstaklings; 'hver' gefur sömu merkingu á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לשון 'tunga' bæði málið og tungan sjálf; 'tunga' heldur myndinni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Þjóðatalning eftir landi, tungu og ætt — skipulag þjóðanna"
+    }
+  ],
+  "translation": "Af þessum skildust eyjar þjóðanna í löndum sínum, hver eftir tungu sinni, eftir ættum sínum í þjóðum sínum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ebd5cc934baef90e57014b54540e306e72bd21bfd3959badbdf44ffcba9ebd68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/10\/5-8.1792392701249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Af þessum"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "skildust"
+    },
+    {
+      "surface": "איי",
+      "gloss": "eyjar"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "í löndum sínum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "eftir tungu sinni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "eftir ættum sínum"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "í þjóðum sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:41.249911234Z",
+  "model": "glm-5.3"
+}

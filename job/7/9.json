@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "כלה ענן — skýið 'tekur enda'\/hvarfar; Íslenska segir 'hvarfar'"
+    },
+    {
+      "kind": "secret",
+      "subject": "Sjeól",
+      "rationale": "Sjeól sem dularfullur staður hinna dauðu — ekki refsing, heldur hulin þögn"
+    }
+  ],
+  "translation": "Ský hvarfar og fer burt; sá sem niður stígur í Sjeól kemur ekki upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/7\/9-12.1792411821744.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "hvarfer"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ský"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og fer burt"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sá sem"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "niður stígur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "í Sjeól"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "kemur upp"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:21.745042032Z",
+  "model": "glm-5.3"
+}

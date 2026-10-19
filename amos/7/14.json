@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 7:14",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בולס",
+      "rationale": "בלס (að pjúka\/flá sikómóru-fíkjur til að þær þroski) er aðeins hér í Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "tense",
+      "rationale": "Nútíð í hebresku („spámaður er ég“) en KJV\/ASV\/JPS þýða þá tíð („I was“); YLT heldur nútíð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pjúki",
+      "rationale": "בולס merkir bókstaflega að pjúka eða knýja á fíkurnar svo þær þroski — áður en það gerir það sjálft."
+    }
+  ],
+  "translation": "Þá svaraði Amós og sagði við Amasja: Ekki er ég spámaður og ekki er ég sonur spámanns, því að nautahirðir er ég og pjúki sikómóru-fíkja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "96bcfe62e093639b7d7b2273dae79d8edf7e1e656e1c311c3692d823acd2c7a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/7\/13-16.1792408435633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Þá svaraði"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Amós"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amasja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "spámaður"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "spámanns"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בוקר",
+      "gloss": "nautahirðir"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "ובולס",
+      "gloss": "og pjúki"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "sikómóru-fíkja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:13:55.634283250Z",
+  "model": "glm-5.3"
+}

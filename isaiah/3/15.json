@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mortið andlit",
+      "rationale": "טחן 'að mala' — mynd kvarnsteina notað um kúgun; bókstæð mynd varðveitt"
+    },
+    {
+      "kind": "elision",
+      "subject": "מה־לכם (מלכם)",
+      "rationale": "Spurningarútslag 'hví er yður að gera þetta?' — styttr sem 'hví'"
+    }
+  ],
+  "translation": "Hví móðgið þér ⟨את⟩ fólk mitt og mortið andlit fátækra? — orð Adónaí Jahve Tsevaót.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2c751c9c671026c82246b4efc5cba8065fb7d9fced03901563d71dc233dde11a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/3\/13-16.1792403719032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "hví — þér"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "móðgið ⟨את⟩",
+      "marks": "fólk mitt"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólk mitt"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "og andlit"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "fátækra"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "mortið"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orð"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    }
+  ],
+  "timestamp": "2026-10-19T09:55:19.033812642Z",
+  "model": "glm-5.3"
+}

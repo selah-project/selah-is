@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתו er aleph-tav markið með viðskeyttu fornöfn — varðveitt sem ⟨אתו⟩, ekki þýdd"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skorinn burt",
+      "rationale": "נכרת er mynd af kara, 'skera' — 'útilokaður' myndi glata myndinni af því að skera af"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "lög gefin Ísrael og útlendingum sem dveljast með þeim"
+    }
+  ],
+  "translation": "Og til opnunar fundartjaldbúðarinnar flytur hann það ekki inn, til að fremja ⟨אתו⟩ fyrir Jahve — og sá maður verður skorinn burt úr lýð sínum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/17\/9-12.1792395917962.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opnunar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjaldbúðarinnar"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundar-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "flytur hann það inn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að fremja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "það (fórnirnar)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "og verður skorinn burt"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sá maður"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sami"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "úr lýð sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:17.963144429Z",
+  "model": "glm-5.3"
+}

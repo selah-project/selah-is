@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 10:17",
+  "book": "job",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan lýkur versi án sagnar; íslenskan þarf finite sögn"
+    },
+    {
+      "kind": "crux",
+      "subject": "וצבא",
+      "rationale": "'herferð\/herdreginn' — JPS les 'host succeeding host', KJV 'war'; hermyndin er í orðinu sjálfu"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Job talar beint til Jahve um þær pínur sem hann þolir"
+    }
+  ],
+  "translation": "Þú endurnýjar vottu þína gegn mér og margfoldur reiði þína yfir mér; skiptingar og herferð ⟨eru⟩ með mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "369b000957795c8fab06e2a94e16ab01c6a3fff6b29b261c8b987703cace53a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/10\/17-20.1792411970452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחדש",
+      "gloss": "endurnýjar þú"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "vottu þína"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "og margfoldur"
+    },
+    {
+      "surface": "כעשך",
+      "gloss": "reiði þína"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "skiptingar"
+    },
+    {
+      "surface": "וצבא",
+      "gloss": "og herferð"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "með mér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:50.453534188Z",
+  "model": "glm-5.3"
+}

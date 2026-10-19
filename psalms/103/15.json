@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "אנוש merkir 'aldri' eða 'sköpun vera'; 'maðurinn' missir feigðarhugtakið"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ציץ\/יציץ",
+      "rationale": "blóm (ציץ) og að blómstra (יציץ) — sömu rót, orðvíxl varðveitt"
+    }
+  ],
+  "translation": "Maðurinn — dagar hans sem gras; eins og blóm vallarins, svo blómstrar hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/13-16.1792410515631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Maðurinn"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sem gras"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "dagar hans"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "eins og blóm"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "vallarins"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "blómstrar hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:35.631985818Z",
+  "model": "glm-5.3"
+}

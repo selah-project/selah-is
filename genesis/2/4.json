@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהבראם",
+      "rationale": "Óvenjuleg mynd af nafnháttar orðinu ברא með viðskeyttu fornöfnunu — 'er þeir voru skapaðir'; rithættirinn með aleph-innsetningu er einstök"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ættartölur",
+      "rationale": "תולדות merkir 'uppruni\/ættfylgd' — einnig hægt að segja 'þetta er sögu-upphaf' eins og BSB 'account'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "himnar\/jörð — jörð\/himnar",
+      "rationale": "Röðinn snýst við: 'himna og jarðar' í upphafi en 'jörð og himna' í enda — kíasm við upphaf sköpunarsögunnar"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Jahve Elóhím",
+      "rationale": "Fyrsta sinn sem Nafnið Jahve birtist, bundið Elóhím — engin skýring gefin í textanum sjálfum"
+    }
+  ],
+  "translation": "Þetta eru ættartölur himnanna og jarðarinnar, er þeir voru skapaðir, á degi er Jahve Elóhím gjörði jörð og himna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/1-4.1792392607401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "ættartölur"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og jarðarinnar"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "er þeir voru skapaðir"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörð"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "og himna"
+    }
+  ],
+  "timestamp": "2026-10-19T06:50:07.403891577Z",
+  "model": "glm-5.3"
+}

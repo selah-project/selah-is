@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er heldur „kjöl, lífsandi“ en sála — en sála er næsta íslenska orð."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב לי",
+      "rationale": "„frá orrustu gegn mér“ (KJV) eða „frá þeim sem er mér nær“ (ylt) — qrb sem ‘orusta’ eða ‘nálægð’."
+    },
+    {
+      "kind": "crux",
+      "subject": "ברבים היו עמדי",
+      "rationale": "„margir eru með mér“ (hugnaðarmenn) eða „margir stöndust mér“ (andstæðingar) — rheðningin tvíræð."
+    }
+  ],
+  "translation": "Hann leysti ⟨את⟩ sálu mína í friði frá orrustunni gegn mér, því að þeir voru margir með mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/55\/17-20.1792409894229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "leysti"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "í friði"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mína"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "frá orrustunni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "þeir voru margir"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voru"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "með mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:14.230115036Z",
+  "model": "glm-5.3"
+}

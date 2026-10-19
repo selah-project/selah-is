@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Tóra",
+      "rationale": "תורת יהוה er 'Tóra Jahve' eftir reglu D2 — aldrei 'lögmál' eitt."
+    }
+  ],
+  "translation": "Því að Esra hafði búið hjarta sitt til að leita ⟨את⟩ Tóra Jahve og til að gera og til að kenna Ísrael ákvæði og dóma.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/7\/9-12.1792413868525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hafði búið"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hjarta sitt"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "til að leita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tóra Jahve"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "og til að gera"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "og til að kenna"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ákvæði"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dóma"
+    }
+  ],
+  "timestamp": "2026-10-19T12:44:28.526467273Z",
+  "model": "glm-5.3"
+}

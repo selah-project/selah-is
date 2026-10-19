@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בשתי og בערב eru veftarhugtök — fastir lengdiráðar (slysvefur) og þvert þráður (innvefur) — og heita ekki á íslensku með einu orði"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב",
+      "rationale": "sama stofn og orðið fyrir blöndu (ערב), en hér merkir það innvef þráðanna"
+    }
+  ],
+  "translation": "eða í slysvefnum eða í innvefnum, í lín eða í ull, eða í skinni, eða í allri vinnu af skinni —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "521070970bcac22bdde85c7690db7fe2746f83bebf13f2024ad0795b79a351d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/48-48.1792416282338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "í slysvefnum"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "í innvefnum"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "í lín"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "eða í ull"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "í skinni"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í allri"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "vinnu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "af skinni"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:42.338882531Z",
+  "model": "glm-5.3"
+}

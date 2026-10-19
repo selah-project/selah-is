@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "önd",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki sála"
+    },
+    {
+      "kind": "crux",
+      "subject": "האח נפשנו",
+      "rationale": "'Hæ, önd vor' — gleðióp; KJV 'Ah, so would we have it' vs YLT 'Aha, our desire'"
+    }
+  ],
+  "translation": "Megi þeir ekki segja í hjarta sínu: Hæ! ⟨er⟩ önd vor <full> — megi þeir ekki segja: Við gleyptum hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/25-28.1792409647591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "megi … ekki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "þeir segja"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "í hjarta sínu"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hæ!"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "önd vor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "megi … ekki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "þeir segja"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "við gleyptum hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:07.591953364Z",
+  "model": "glm-5.3"
+}

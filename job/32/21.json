@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "\"hefja andlit\" er bókstafleg mynd hebreskunnar; merkir að sýna framúráð eða líta meiru en jafnum á einhvern."
+    },
+    {
+      "kind": "crux",
+      "subject": "אכנה",
+      "rationale": "Sjaldgæft sagnorð, \"að kenna viðheiti, lofskíra\"; yfirleitt þýtt \"flátta\" eða \"gefa smjúgandi titla\"."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש \/ אדם",
+      "rationale": "Tvö orð fyrir \"maður\" í samstæðu tveggja lína, einkennandi kveðskap Jobs; glatast að hluta í íslensku."
+    }
+  ],
+  "translation": "Eigi skal ég, bið ég, hefja andlit manns, og manni skal ég ekki gefa lofstitla.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/32\/21-22.1792412293783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bið ég"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "skal ég hefja"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "gefa lofstitla"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:13.783713735Z",
+  "model": "glm-5.3"
+}

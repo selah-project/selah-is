@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זב („sá sem flæðir“) þýtt „sá óhreinni“ — skýring orðmyndarinnar er flæðið sjálft."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כלי er „kerf“, tæki eða húsbúnaður — ekki aðeins „þing“ eða „munur“."
+    }
+  ],
+  "translation": "Og sá sem situr á því kerfi sem sá óhreinni hefur sitið á skal þvo fatnað sinn og baða sig í vatni og er óheilagur þar til kvölds.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "78721a5269acdcf92bcd6355f88ecfd946ea7775fe5d0303ea6a9804bbcc0e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/15\/5-8.1792395850548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "Og sá sem situr"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "því kerfi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hefur sitið"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "sá óhreinni"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "skal þvo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "fatnað sinn"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "og baða sig"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vatni"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og er óheilagur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvölds"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:10.551487814Z",
+  "model": "glm-5.3"
+}

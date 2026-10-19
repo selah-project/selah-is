@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "ל (lamed) í לבהמה og לבני er fellt inn í íslenska fallendinguna (gef-TIL)."
+    }
+  ],
+  "translation": "Hann gefur skepnunum fæðu sína og ungum hrafnum ⟨אשר⟩ sem kalla.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/147\/9-12.1792411078217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "skepnunum"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "fæðu sína"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ungum"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hrafnum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨אשר⟩ sem"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "kalla"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:58.218326417Z",
+  "model": "glm-5.3"
+}

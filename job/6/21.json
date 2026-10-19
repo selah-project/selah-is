@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "לא תראו tekit bókstaflega 'þið séð ekki' (KJV 'ye are nothing' les לֹא sem frumlag) eða 'þið sjáið' — snúið við til að falla saman við ותיראו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hafið þið orðið ⟨sem ekkert⟩",
+      "rationale": "orðatilbúturinn 'orðið ekkert\/til einskis' er viðbót til að gera samanburðinn skýran; hebreskan segir aðeins הייתם לא"
+    }
+  ],
+  "translation": "Því að nú hafið þið orðið ⟨sem ekkert⟩ — þið séð skelfingu og hræðist.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0c0ccdd16e8d254307c775c38f0c185216d02efe2486d93b7125baf45b24150c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/6\/21-24.1792411822407.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "þið hafið orðið"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "þið séð"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "skelfingu"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "og hræðist"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:22.407676634Z",
+  "model": "glm-5.3"
+}

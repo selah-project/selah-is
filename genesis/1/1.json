@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אלהים ritað Elóhím eftir hljóði, ekki ‚Guð‘, svo Nafnið hverfi ekki"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskur greinir bætt við הארץ og השמים sem í raun er gefinn í hebreska greininum"
+    }
+  ],
+  "translation": "Í upphafi skapaði Elóhím ⟨את⟩ himnana og ⟨את⟩ jörðina.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/1-4.1792392568431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Í upphafi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "himnana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "jörðina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:28.433378966Z",
+  "model": "glm-5.3"
+}

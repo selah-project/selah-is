@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 23:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "brauð",
+      "rationale": "Hebreskan segir aðeins 'tvö' — orðið 'brauð' er af leið í sambandi við לחם á undan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sólet",
+      "rationale": "סלת er söxuð kjarna grjón — 'sólet' heldur orðmyndinni en 'hin fína mjöl' myndi skýra"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Tveir ómerar — mælieining telur brauðin"
+    }
+  ],
+  "translation": "Úr bústöðum ykkar skuluð þér bera brauð þveifa, tvö ⟨brauð⟩; tveir ómerar af sólet skulu þau vera, súrt með geri bakið; fyrstu ávextir fyrir Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eadcaa7a5260fb4ee480c067989d23d1f1c7b95ee8a0cfdd05370f2384de9c11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/23\/17-20.1792396182381.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממושבתיכם",
+      "gloss": "Úr bústöðum ykkar"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "skuluð þér bera"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "þveifa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tvö"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tveir"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ómerar"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "af sólet"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "skulu þau vera"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "súrt með geri"
+    },
+    {
+      "surface": "תאפינה",
+      "gloss": "bakið"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "fyrstu ávextir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:49:42.382336995Z",
+  "model": "glm-5.3"
+}

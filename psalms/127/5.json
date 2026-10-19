@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki fornafnið 'þeir' fyrir 'þeir munu ekki blygðast' — sett inn til að greina hvort faðir eða synir séu meiningin."
+    },
+    {
+      "kind": "crux",
+      "subject": "hvort talar",
+      "rationale": "KJV les 'en þeir munu tala' (synirnir); JPS\/ASV les 'þegar þeir tala' — hvorig er skýrt í hebreskunni."
+    },
+    {
+      "kind": "alternative",
+      "subject": "את אויבים",
+      "rationale": "Seinna את getur verið forsetningin 'við' fremur en merkinn ⟨את⟩; 'tala við óvini' er venjuleg lesning."
+    }
+  ],
+  "translation": "Sæll er karlmaðurinn sem fyllti ⟨את⟩ örvarpúðann sínum með þeim; ⟨þeir⟩ munu ekki blygðast, því að þeir munu tala ⟨את⟩ við óvini í hliðinu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e9d87ba12ccdb924ae9984211be8974e22e990c6516ffcd2b95a87ffd082225d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/127\/5-5.1792410868906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sæll"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "karlmaðurinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örvarpúðann sínum"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "örvarpúðann sínum"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "með þeim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "blygðast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "við óvini"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "við óvini"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "í hliðinu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:28.906564047Z",
+  "model": "glm-5.3"
+}

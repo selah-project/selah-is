@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הצל יצילנו",
+      "rationale": "Óendanlegt sagniframburður — 'að frelsa mun hann frelsa oss' — gefið sem 'mun vissulega frelsa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתכם ... חזקיהו",
+      "rationale": "Aleph-tav með persónuviðskeyti vísar á 'yður'; hlutmarkið kemur ekki fram sem sérstakur orðstofn."
+    }
+  ],
+  "translation": "Og látið Khizkíjahu ekki láta ⟨את⟩ yður treysta á Jahve og segja: Mun vissulega frelsa oss Jahve; þessi borg verður ekki gefin í hönd konungs Assúr.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a5c0a0767553c57025230e79412b86ab375c25c98a768553ed9cf08d15ccd5c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/36\/13-16.1792404513219.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Og ... ekki"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "látið ... treysta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkíjahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "að segja"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "Mun vissulega frelsa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "frelsa oss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "verður gefin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borg"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    }
+  ],
+  "timestamp": "2026-10-19T10:08:33.220340168Z",
+  "model": "glm-5.3"
+}

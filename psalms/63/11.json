@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגירהו",
+      "rationale": "frá נגר 'að úthella' — 'verða yfirgefnir valdi sverðsins' borið við eldri lestrarmynd 'מידי' (fyrir sverði)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שועלים eru sjakalar (gröfuþrölar), ekki refir; 'refum' væri villandi"
+    }
+  ],
+  "translation": "Þeir munu verða úthellaðir yfir ⟨á vald⟩ sverðsins; þeir verða að skammti fyrir sjakala.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/63\/9-12.1792409972400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "munu verða úthellaðir"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "vald"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðsins"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "skammti"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "sjakala"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "verða"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:32.400915802Z",
+  "model": "glm-5.3"
+}

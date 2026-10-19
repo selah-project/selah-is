@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתי er nándarforsetningin 'með' með viðskeyti, en glósan ber ⟨את⟩ samkvæmt reglunni."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Samúel talar beint til öldunganna í Betlehem: 'helgið ykkur og komið'."
+    }
+  ],
+  "translation": "Og hann sagði: Friðsamlega; til að slátra Jahve hef ég komið; helgið ykkur og komið með mér að slátruninni. Og hann helgaði ⟨את⟩ Jisjí og ⟨את⟩ sonu hans og kallaði þá að slátruninni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b46d09a3ea86f123186b54409d2df8b17b8e1d715d92b21b5c30dd82e2a3e667",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/16\/5-8.1792400511441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Friðsamlega"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "til að slátra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "hef ég komið"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "helgið ykkur"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "og komið"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mér"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "að slátruninni"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "Og hann helgaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisjí"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sonu hans"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sonu hans"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kallaði"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þá"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "að slátruninni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:01:51.442382753Z",
+  "model": "glm-5.3"
+}

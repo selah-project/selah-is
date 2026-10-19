@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "gekk með Elóhím",
+      "rationale": "hebreska fyrirmælið התהלך את er 'ganga með' — myndrænt, lifandi tengsl, ekki einungis athöfn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "fyrsta את hér er forsetningin 'með' (nálægð), ekki objektmerkið — reynt ⟨með⟩ í sæti hennar"
+    }
+  ],
+  "translation": "Og Khanók gekk ⟨את⟩ ⟨með⟩ Elóhím eftir að hann hafði gedið ⟨את⟩ Metúshélakh, þrjú hundruð ár, og gat syni og dætur.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b4b7b2767f247edb2fc70815d4befd8c896b68012d61e82cf6ea2246c9f7525c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/5\/21-24.1792392677008.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "gekk"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanók"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨með⟩",
+      "marks": "Elóhím"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir að"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hann hafði gedið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metúshélakh"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metúshélakh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "þrjú"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "gat"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syni"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og dætur"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:17.008858641Z",
+  "model": "glm-5.3"
+}

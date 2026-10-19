@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska setur 'þeir' aftast í setningunni; hebreskan hefur aðeins sagnirnar í röð."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישלחו...ידם",
+      "rationale": "Orðalagið 'senda höndina' er hebreskt myndmál, geymt í 'réttu út hönd'."
+    }
+  ],
+  "translation": "Og mennirnir réttu út ⟨את⟩ hönd sína og brugguðu ⟨את⟩ Lót inn til sín, ⟨ í⟩ húsið, og ⟨את⟩ dyrnar lokuðu þeir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/19\/9-12.1792392894720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Og mennirnir réttu út"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mennirnir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hönd sína"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hönd sína"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "og brugguðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lót"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lót"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "inn til sín"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "⟨í⟩ húsið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dyrnar"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dyrnar"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "lokuðu þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T06:54:54.721751895Z",
+  "model": "glm-5.3"
+}

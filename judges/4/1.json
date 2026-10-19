@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 4:1",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copulan „var“ er viðbætt; hebreskan segir bara מת — „dáinn“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "heldu áfram",
+      "rationale": "ויספו er bókstaflega „bættu við“ — „bættu við að gera hið illa“."
+    }
+  ],
+  "translation": "Og synir Ísraels héldu áfram að gera hið illa í augum Jahve, og Ehúd ⟨var⟩ dáinn.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0857687e4fafd5a3b3faefc6e9749ad447dade816daa5d4799ecc8f56f860610",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/4\/1-4.1792399608846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "héldu áfram"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hið illa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "og Ehúd"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dáinn"
+    }
+  ],
+  "timestamp": "2026-10-19T08:46:48.846819751Z",
+  "model": "glm-5.3"
+}

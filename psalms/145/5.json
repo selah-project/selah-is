@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "הדר כבוד הודך: þrjú orð í hopi — 'skart dýrðar prýði' — hugsanlega réttara að lesa 'dýrð háður prýði þinnar'"
+    },
+    {
+      "kind": "you",
+      "subject": "to God",
+      "rationale": "versinu er beint til Jahve í annarri persónu"
+    }
+  ],
+  "translation": "Skart dýrðar prýði þinnar, og orð undra þinna mun ég um huga.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/5-8.1792411095272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "skart"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "dýrðar"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "prýði þinnar"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "og orð"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "undra þinna"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mun ég um huga"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:15.272840987Z",
+  "model": "glm-5.3"
+}

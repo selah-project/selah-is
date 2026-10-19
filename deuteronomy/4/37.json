@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "תחת כי — bókstaflega 'undir því að', íslenska 'af því að'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "בפניו — 'í andliti hans', þýtt sem 'fyrir augum hans \/ með sjálfri sinni nærveru'"
+    }
+  ],
+  "translation": "Og af því að hann elskaði ⟨את⟩ feður þína og valdi sáð þeirra eftir þá, leiddi hann þig út í andliti sínu, með krafti sínum inum mikla, úr Mitsrajím.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "921731d4e01b33a850ead3726fe9ef6befec695ba8bc995260bb4daecd8d37f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/4\/37-40.1792397695879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "Og af því að"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feður þína"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "feður þína"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "og valdi"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "sáð þeirra"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "eftir þá"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "leiddi hann þig út"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "í andliti sínu"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "með krafti sínum"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "inum mikla"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "úr Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T08:14:55.879977606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סערה\/סופה",
+      "rationale": "tvö náskyld orð um storm — nauðsynleg aðgreining í íslensku með 'hvirfilbyl' og 'óveðursbyl'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "bein áttun til Elóhím í bæn"
+    }
+  ],
+  "translation": "Svo elt þú þau með þinni hvirfilbyl og með þinni óveðursbyl skelfur þú þau.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/83\/13-16.1792410268993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "elt þú þau"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "með þinni hvirfilbyl"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "og með þinni óveðursbyl"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "skelfer þú þau"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:28.994533605Z",
+  "model": "glm-5.3"
+}

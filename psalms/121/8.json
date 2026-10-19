@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mun",
+      "rationale": "framtíðarhjálparsögn bætt við fyrir óperfectum"
+    },
+    {
+      "kind": "measurement",
+      "subject": "frá nú og að eilífu",
+      "rationale": "tímamörk: מעתה ועד עולם — frá þessum stundum til eilífðar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "merism",
+      "rationale": "útganga og komu — tveir andstæðir endar taka allt ferðalagið; sama í v. 6 dag\/nótt"
+    }
+  ],
+  "translation": "Jahve mun varðveita útgöngu þína og komu þína, frá nú og að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/121\/5-8.1792410878499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "mun varðveita"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "útgöngu þína"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "og komu þína"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "frá nú"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og að"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:38.500182955Z",
+  "model": "glm-5.3"
+}

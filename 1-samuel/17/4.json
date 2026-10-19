@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "maður milli-tveggja",
+      "rationale": "איש הבינים er tvítala rótarinnar בין ('milli'): sá sem stendur á gagnstæðu rúmi milli tveggja herja — ekki 'vígamaður' eða 'mælandi', sem KJV 'champion' gerir."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sex elnar og handbreidd",
+      "rationale": "nákvarði á hæð Golíats: um 2,9 metrar; tölurnar gefnar nákvæmlega eins og hebreskan segir."
+    }
+  ],
+  "translation": "Og maður milli-tveggja gekk út úr herbúðum Filistía — Gólíat að nafni, frá Gath; hæð hans var sex elnar og handbreidd.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/1-4.1792400618221.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gékk út"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "milli-tveggja"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "úr herbúðum"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistía"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Gólíat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "að nafni"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "frá Gath"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "hæð hans"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "elnar"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "og handbreidd"
+    }
+  ],
+  "timestamp": "2026-10-19T09:03:38.223230429Z",
+  "model": "glm-5.3"
+}

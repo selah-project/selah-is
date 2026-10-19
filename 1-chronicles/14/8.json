@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 14:8",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Davíð heyrði — hebreskan segir ekki hvað; fornafnið ⟨það⟩ bætt við."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניהם",
+      "rationale": "Bókstaflega 'fyrir andlit þeirra', þýtt sem 'til að mæta þeim' — herför út gegn óvininum."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נמשח",
+      "rationale": "Nifal-mynd málsins um smurningu Davíðs til konungs yfir allt Ísrael."
+    }
+  ],
+  "translation": "Og Pelishtím heyrðu að Davíð hafði verið smurður konungur yfir allan Ísrael, og allir Pelishtím fóru upp til að leita ⟨את⟩ Davíð; og Davíð heyrði ⟨það⟩ og fór út til að mæta þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cfc5027cd81a26326f7c135f1df4a40da3f2f85473e5bc4c1a508f716fcac6f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/14\/5-8.1792414764285.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "heyrðu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "נמשח",
+      "gloss": "var smurður"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "fóru upp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtím"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "að leita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "fór út"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "til að mæta þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T12:59:24.286477655Z",
+  "model": "glm-5.3"
+}

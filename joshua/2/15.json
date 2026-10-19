@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'borgar-' í 'borgarmúrnum' — hebreskan segir aðeins 'múrinn'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חומה",
+      "rationale": "múrinn endurtekinn tvisvar (í múrveggnum ... í múrnum) — stigvant mál"
+    }
+  ],
+  "translation": "Og hún lét þá niður með tau fyrir ofan gluggann, því að hús hennar var í múrveggnum, í borgarmúrnum, og í múrnum bjó hún.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "63373f8dddbe3773b4d3b96054d551194ce89e272db505046d3ad8edfbe62511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/2\/13-16.1792398743433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "Og hún lét þá niður"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "með tau"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "fyrir ofan"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "gluggann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "hús hennar"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "í múrveggnum"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "borgarmúrnum"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "og í múrnum"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "bjó"
+    }
+  ],
+  "timestamp": "2026-10-19T08:32:23.434324945Z",
+  "model": "glm-5.3"
+}

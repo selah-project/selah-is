@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nearer 'lífskraftur\/önd', ekki ódauðleg sál í síðari skilningi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האדם\/האדמה",
+      "rationale": "maðurinn tekinn af moldinni – adam af adamah – orðvísa sem íslenskan getur ekki borið"
+    }
+  ],
+  "translation": "Og Jahve Elóhím myndaði ⟨את⟩ manninn, ryk af moldinni, og blés í nösir hans anda lífs, og maðurinn varð lifandi sál.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "68450a8e65de4b0b6f44a3c7ad1421b87e4c46e29674bb8f9f92acd3c2a6860f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/5-8.1792392531517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "og myndaði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manninn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ryk"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "moldinni"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "og blés"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "í nösir hans"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "anda"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lífs"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "að sál"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lifandi"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:51.528752993Z",
+  "model": "glm-5.3"
+}

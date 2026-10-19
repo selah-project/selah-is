@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אודך er 'útburði þakka\/játast' — 'lofa' nær tilgangi en ekki myndina"
+    }
+  ],
+  "translation": "Ég mun lofa þig, Adónaí Elóhím minn, með öllu hjarta mínu, og ég mun vegsama nafn þitt að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a8d55b0bff19daab32d0140ef27a4b8b5dcba43105abd7ab7cf05938910c57b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/86\/9-12.1792410327314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ég mun lofa þig"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hjarta mínu"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "og ég mun vegsama"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nafn þitt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:27.315259212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 11:22",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nægja",
+      "rationale": "ומצא er bókstaflega 'finna'; 'nægja' er lesning yfir 'finna fyrir þeim \/ nægja'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨það⟩",
+      "rationale": "hebreska hefur aðeins sögnina 'finna' með óbeint andlag; íslenskan þarf frumlag"
+    }
+  ],
+  "translation": "Á sauðfé og naut að slátra fyrir þeim, og mun ⟨það⟩ nægja þeim? Ef ⟨את⟩ allir fiskar sjósins eru safnaðir saman fyrir þeim, mun ⟨það⟩ nægja þeim?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9d5267a531f32f3e2aa8176723160c46e69f7b62e9a81990cfbd9c60a0a88e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/11\/21-24.1792396720602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצאן",
+      "gloss": "Á sauðfé"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "og naut"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "að slátra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "og mun nægja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allir fiskar sjósins"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "fiskar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sjósins"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "eru safnaðir saman"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "mun nægja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T07:58:40.603148280Z",
+  "model": "glm-5.3"
+}

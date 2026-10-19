@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 14:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והלם",
+      "rationale": "'sóttust hér og þar' (KJV 'beating down one another', ASV\/JPS 'hither and thither') gegn 'gekk áfram og var barinn niður' (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sjál",
+      "rationale": "לשאול ritað eftir hljóði hebreskunnar, ekki 'Sául'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið 'þeir' bætt við til að gera gerandann skýran, hebreskan sleppir því"
+    }
+  ],
+  "translation": "Og vörður Sjáls í Gíbea Benjamíns sáu, og sjá, mannfjöldinn bráðnaði og ⟨þeir⟩ fóru ⟨áfram⟩ og höggvust hér og þar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b1f6c48f5f0dd78ef6e0bcf9d61d138b90b7c8b1d1d3f8b9f1921f5e0fd97ed1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/16-16.1792416558855.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Og sáu"
+    },
+    {
+      "surface": "הצפים",
+      "gloss": "vörður"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sjáls"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "í Gíbea"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamíns"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "mannfjöldinn"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "bráðnaði"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og fóru"
+    },
+    {
+      "surface": "והלם",
+      "gloss": "höggvust hér og þar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:18.855653809Z",
+  "model": "glm-5.3"
+}

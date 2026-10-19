@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "H854 'með', ekki táknið ⟨את⟩ H853 — gert greinarmun með merkingu 'með þér'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגריך",
+      "rationale": "'dvöl þinna' — flakk\/dvalarstaðir; einnig 'gistaðarlands þíns'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sáðkorn",
+      "rationale": "Blessingin mæld í erfðum: þér og sáðkorni þínu"
+    }
+  ],
+  "translation": "Og hann gefi þér ⟨את⟩ blessing Avraham, þér og sáðkorni þínu ⟨את⟩ með þér, til að þú erfir ⟨את⟩ land dvöl þinna, sem Elóhím gaf Avraham.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ee13c35ee2c7edeb1eac2cb5695306b4df08fdd7df8deae78d67fcd1d8de8ebc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/28\/1-4.1792393290332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Og hann gefi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blessing"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "blessing"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "og sáðkorni þínu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "með þér ⟨את⟩",
+      "marks": "með þér"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "til að þú erfir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "dvöl þinna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-10-19T07:01:30.334148095Z",
+  "model": "glm-5.3"
+}

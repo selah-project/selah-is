@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Hann“ bætt við — hebreskan nefnir ekki geranda, sá er skýl í 3:1"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדר\/גזית",
+      "rationale": "samtenging beggja g-stafa, glatað í íslensku"
+    }
+  ],
+  "translation": "Hann múraði vega mína með höggnum grjóti, stíga mína gjörði hann krókótta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/9-12.1792412781426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "múraði"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "vega mína"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "með höggnum grjóti"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "stíga mína"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "gjörði krókótta"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:21.426660817Z",
+  "model": "glm-5.3"
+}

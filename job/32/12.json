@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מוכיח",
+      "rationale": "'sannfæri\/ögrunður' — kjv 'convinced', jps 'convinced', orðið getur merkt bæði að sanna og að aga."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "frumlagssnið 'enginn er sem' bætt fram á við hebreska uppbygginguna 'ekki-er til Íjób ögrunður'."
+    }
+  ],
+  "translation": "Og yður gaetti ég, og sjá — enginn er sem sannfæri Íjób, enginn sem svarar orðum hans meðal yðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2743f4787f260e77c7363dc55da4eab6146757b1b3a753abdc93df51a4377513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/32\/9-12.1792412311021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "og yðvar"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "gaetti ég"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "sem sannfæri Íjób"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "sannfæri"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "svarar"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "orðum hans"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "meðal yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:31.022386013Z",
+  "model": "glm-5.3"
+}

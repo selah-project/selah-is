@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצפנני\/יסתרני",
+      "rationale": "Tvö samstofuð sögn um að fela, endurtekið í kíasma með skjólstað hvers — tapið að hluta í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skáli",
+      "rationale": "סוכה er laufskáli\/hjall úr kvistum, ekki veisluskáli; orðmyndin 'sukka' týndist"
+    }
+  ],
+  "translation": "Því að hann hylur mig í skála sínum á degi illsku, í launeyri tjalds hans felir hann mig, á kletti lyftir hann mér upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/27\/5-8.1792409541526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "hylur mig"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "í skála"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "illsku"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "felir mig"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "í launeyri"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tjalds hans"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "á kletti"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "lyftir mér upp"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:21.527309247Z",
+  "model": "glm-5.3"
+}

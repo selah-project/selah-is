@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 19:11",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lífi",
+      "rationale": "נפש er hösf\/blástur\/lífskraftur, ekki 'sál'; 'slá hann lífið' er bókstælfara en 'slá hann banlega'"
+    },
+    {
+      "kind": "addition",
+      "subject": "þannig að",
+      "rationale": "Tilgangstenging 'að hann deyr' er sett inn; hebreskan setur sögnina einfaldlega í rað"
+    }
+  ],
+  "translation": "En ef maður er einn sem hatar náunga sinn og læðist að honum og rís gegn honum og slær hann ⟨á⟩ lífi þannig að hann deyr, og hann flýr til einnar borganna þessara —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/9-12.1792398121091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "er"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "hatar"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "náunga sinn"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "og læðist að"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "og rís"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegn honum"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "og slær hann"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lífi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "og hann deyr"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "og hann flýr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "einnar"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "borganna"
+    },
+    {
+      "surface": "האל",
+      "gloss": "þessara"
+    }
+  ],
+  "timestamp": "2026-10-19T08:22:01.092127536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הצרעה",
+      "rationale": "‚Maurþýn‘ ( HVÍ tsetsa — ‘vespa‘ á íslensku er nafn á þessu skordýri): raunveruleg skordýr eða myndlíking um ótta Jahve (v. 27)? báðar túlkanir ganga."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשלח \/ ושלחתי",
+      "rationale": "Endurtekin rót ‚senda‘ í v. 27 og 28 tengir óttann og maurþýnina saman."
+    }
+  ],
+  "translation": "Og ég mun senda ⟨את⟩ maurþýn fyrir þér, og hún mun reka burt ⟨את⟩ Hívíta, ⟨את‬ Kanaaníta og ⟨את‬ Hetíta frá andliti þínu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/25-28.1792394735123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "og ég mun senda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maurþýn"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "maurþýn"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fyrir þér"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "og hún mun reka burt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hívíta"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hívíta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaaníta"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaníta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Hetíta"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetíta"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "frá andliti þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:35.124992758Z",
+  "model": "glm-5.3"
+}

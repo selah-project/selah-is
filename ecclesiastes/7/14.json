@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Sambandið 'על דברת' hefur enga eina íslenska jafngildi; 'על' fellur inn í 'til þess að'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחריו",
+      "rationale": "'Eftir hann' – síðari hluti vers 14; KJV\/ASV 'sem kemur eftir hann' vs. lestur 'eftir að hann' (líf hans); báðir metnir."
+    }
+  ],
+  "translation": "Á degi gæfu vertu í góðu, en á degi ógæfu skoðaðu; einnig ⟨את⟩ þetta á móti hinu hefur Elóhím gert, til þess að maðurinn finni ekkert eftir sig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/7\/13-16.1792413077331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Á degi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "gæfu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vertu"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "í góðu"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en á degi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ógæfu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "skoðaðu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þetta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "á móti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hinu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hefur gert"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "דברת",
+      "gloss": "til þess"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "að ekki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "eftir sig"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ekkert"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:17.332791113Z",
+  "model": "glm-5.3"
+}

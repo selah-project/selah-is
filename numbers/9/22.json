@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 9:22",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tvo daga",
+      "rationale": "יֹמַיִם er tvítala (dual) — 'tveir dagar'; KJJ 'a year' er aukefni sem hebreskan segir ekki"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tímalengdir",
+      "rationale": "versið telur mögulegar dvalartímar: tvo daga, mánuð, daga"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משכן\/לשכן",
+      "rationale": "sama rót tvívegis — 'Misjkan' og 'að dvelja' — orðaleikur varðveittur með nafninu Misjkan"
+    }
+  ],
+  "translation": "Eða tvo daga, eða mánuð, eða marga daga — er skýið dvaldi lengi yfir Misjkaninu, að dvelja yfir því, þá settust Ísraelsmenn tjöldum og brutu ekki upp; en er það reis, brutu þeir upp.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "38c39f8b9a4fd10b9a325922c4113513bcda7254630d243d9fca0cfc0328f59a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/9\/21-23.1792396647850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tvo daga"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mánuð"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "marga daga"
+    },
+    {
+      "surface": "בהאריך",
+      "gloss": "dvaldi lengi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "skýið"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkaninu"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "að dvelja"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir því"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "settust tjöldum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "brutu upp"
+    },
+    {
+      "surface": "ובהעלתו",
+      "gloss": "en er það reis"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "brutu þeir upp"
+    }
+  ],
+  "timestamp": "2026-10-19T07:57:27.851991156Z",
+  "model": "glm-5.3"
+}

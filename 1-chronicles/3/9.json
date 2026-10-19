@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins ‚og Tamar systir þeirra‘ — sögn skerst ekki inn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hjákonur",
+      "rationale": "פילגש er hjákona; ekki ‚frilla‘ né ‚annarrar konur‘"
+    }
+  ],
+  "translation": "Allt þetta voru synir Davíðs, auk þess synir hjákonanna, og Tamar systir þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fc760a66c815270a4df65b8d239245bd6757a5ac1394cd2ce43f291b3dae2310",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/3\/9-12.1792414485567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "auk þess"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "hjákonanna"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "og Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "systir þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:54:45.567879273Z",
+  "model": "glm-5.3"
+}

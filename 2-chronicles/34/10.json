@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבדוק",
+      "rationale": "Orðið merkir 'að græða bresti'; 'bæta' heldur ekki mynd jarðgangsins."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'Á hönd' — hebreskt umboðsfrálag, gefið í vörslu annarra."
+    }
+  ],
+  "translation": "Og þeir gáfu það í hönd þeirra er unnu verkið, þeim er tilnefndir voru yfir hús Jahve; og þeir er unnu verkið í húsi Jahve gáfu ⟨את⟩ því til að bæta og styrkja húsið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3d1c130c16232e7741391f7cd6bbd5b46b5c313b0f982ddea1fd3a9c82a8da52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/34\/9-12.1792416123517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Og þeir gáfu"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "þeirra er unnu"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "verkið"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "þeim er tilnefndir voru"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "yfir hús"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "og gáfu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ því",
+      "marks": "því"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "þeir er unnu"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "verkið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "unnu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "til að bæta"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "og styrkja"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:22:03.518618893Z",
+  "model": "glm-5.3"
+}

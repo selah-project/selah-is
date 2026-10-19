@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Dearfð áherslufall: 'feður yðar' — Vísaljóðið talar beint til Ísraels."
+    },
+    {
+      "kind": "crux",
+      "subject": "גם ראו",
+      "rationale": "'já, þó að þeir hefðu séð' vs. 'já, þeir sáu' — hvort גם tengist sýn eða löngun viðurkenningar."
+    }
+  ],
+  "translation": "þar sem feður yðar freistuðu mig, prófuðu mig, já, þó að þeir hefðu séð verk mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/95\/9-11.1792410412395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "freistuðu mig"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "feður yðar"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "prófuðu mig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "já"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "þeir hefðu séð"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "verk mín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:52.396497645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'⟨það⟩' — hebreskan segir aðeins 'fullkenna fyrir mér' án andlags"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "גמר getur merkt 'fullkoma' eða 'ljúka\/slíta'; JPS 'mun framkvæma' vs. hótunartónn einnig mögulegur"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Lokabeiðnin 'slepptu ekki' beinist til Jahve — bæn úr munn sálmskáldsins"
+    }
+  ],
+  "translation": "Jahve mun fullkenna ⟨það⟩ fyrir mér; Jahve, khesed þitt varir að eilífu; verk handa þinna, slepptu ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/138\/5-8.1792411005196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "mun fullkenna"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "fyrir mér"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed þitt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "varir að eilífu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "handa þinna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "slepptu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:45.197052325Z",
+  "model": "glm-5.3"
+}

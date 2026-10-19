@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "אחלי er óskaræða — 'mætti meinar' gefur óskformið sem hebreskan hefur í einu orði"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "versið er bæn einsöngjara til Jahve"
+    }
+  ],
+  "translation": "Mætti meinar leiðirnar minar verða festar til að gæta skipulaga þinna!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/5-8.1792410764872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "mætti meinar"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "verða festar"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "leiðirnar minar"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "til að gæta"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "skipulaga þinna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:44.872873479Z",
+  "model": "glm-5.3"
+}

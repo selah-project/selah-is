@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "villinaut",
+      "rationale": "כראים er tvítala ראם — villinaut, ekki 'einhyrningur' eins og KJV\/Geneva gera"
+    },
+    {
+      "kind": "substitution",
+      "subject": "oversmurður",
+      "rationale": "בלתי (מבלה בשמן) merkir upphella eða flæða yfir með olíu — 'smurður' er þrengt"
+    }
+  ],
+  "translation": "Og þú hefur hafið horn mitt eins og villinaut; ég er oversmurður með ferskri olíu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/92\/9-12.1792410428604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Og þú hefur hafið"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "eins og villinaut"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "horn mitt"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "er oversmurður"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "með olíu"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ferskri"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:08.605376803Z",
+  "model": "glm-5.3"
+}

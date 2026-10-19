@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בלע er 'gleypa' (kyngja), líkjað við kúnna í fyrri draumnum"
+    },
+    {
+      "kind": "addition",
+      "subject": "það var",
+      "rationale": "hebreska segir aðeins 'og sjá, draumur'; sambandið bætt við á íslensku"
+    }
+  ],
+  "translation": "Og þunnu kornaxin gleypdu ⟨את⟩ sjö kornaxin, feitu og fullu, og Faraó vaknaði, og sjá, ⟨það var⟩ draumur.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d83c4c6ba26f75f4c4c1b3243af6caad4f0cfbdd2617b5a391c6d09ccdd7fe48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/41\/5-8.1792393708483.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "og gleypdu"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "kornaxin"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "þunnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjö kornaxin, feitu og fullu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "kornaxin"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "feitu"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "og fullu"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "og vaknaði"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraó"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "draumur"
+    }
+  ],
+  "timestamp": "2026-10-19T07:08:28.484518860Z",
+  "model": "glm-5.3"
+}

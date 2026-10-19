@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Aramíska טעם er hið konungslega „tilskipun“; orðrétt „bragð\/dómur“"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbótinn „verið“ bætt við fyrir íslenska þágufalli"
+    }
+  ],
+  "translation": "Þá gaf Daríavés konungur fyrirmæli, og leitað var í bókahúsinu þar sem fjársjóðirnir höfðu verið lagðir niður í Babel.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/6\/1-4.1792413893415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Daríavés"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "fyrirmæli"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "og leitað var"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í bókahúsinu"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "bókanna"
+    },
+    {
+      "surface": "די",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "fjársjóðirnir"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "höfðu verið lagðir niður"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "þar"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "í Babel"
+    }
+  ],
+  "timestamp": "2026-10-19T12:44:53.416131041Z",
+  "model": "glm-5.3"
+}

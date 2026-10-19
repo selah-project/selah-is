@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש hér látin sem 'sál', en orðið er lífskraftur\/önd, ekki sál í postullegum skilning"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדדם",
+      "rationale": "'égsamligur þyrum til' gegn 'léð þá' (KJV); rót דדה er að ganga blíðlega"
+    }
+  ],
+  "translation": "Þetta minnist ég og helli út sálu minni yfir mig, hversu ég fór með þyringunni, gek tafarlaust með þeim til húss Elóhím, með röddi fögnuðarrópar og þakkagjafar, þyrping sem hélt hátíð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/42\/5-8.1792409754662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "minnist ég"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "og helli út"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hversu"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "fór ég"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "með þyringunni"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "gek tafarlaust með þeim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "með röddi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "fögnuðarrópar"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "og þakkagjafar"
+    },
+    {
+      "surface": "המון",
+      "gloss": "þyrping"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "sem hélt hátíð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:54.663169288Z",
+  "model": "glm-5.3"
+}

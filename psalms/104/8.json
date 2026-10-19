@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "söguleg\/ókáti þátíð",
+      "rationale": "sumar lestur (KVM, JEŚ) lesa þetta sem lýsingu á söguþáttum („fjöllin stigu upp“), aðrar (ÁŚF) sem lýsingu á gömlum söguþáttum — hebreska háttmyndin (eða ólíkar lesanir) er ekki greinandi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלו\/ירדו",
+      "gloss": "upp\/niður andstæðuljóð, spegluð lýsingarsögn með sama sniði."
+    }
+  ],
+  "translation": "Fjöllin stíga upp, dali sökkva niður að staðnum sem þú fundirðst fyrir þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/104\/5-8.1792410540297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "stíga upp"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Fjöllin"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sökkva niður"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "dali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "staðnum"
+    },
+    {
+      "surface": "זה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "fundirðst fyrir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:00.298353154Z",
+  "model": "glm-5.3"
+}

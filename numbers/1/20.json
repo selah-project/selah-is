@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 1:20",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ættarskrá",
+      "rationale": "Formúluna fyrir hvern kynstofn: komnir, fjölskyldur, feðra hús, nafnafjöldi, höfutal, aldur, herskylda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "komnir þeirra",
+      "rationale": "תולדות er 'ættferðir\/afkvæmi'; hér um skráða niðurstöðu kynstofs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gengu út í hersveit",
+      "rationale": "כל יצא צבא er bókstaflega 'allur sá sem gengur út í her' — herþjálfunarskylda, ekki baráttuhæfni einstaklings."
+    }
+  ],
+  "translation": "Og synir Rubens, frumgetnings Ísraels — komnir þeirra, eftir fjölskyldum þeirra, eftir húsum feðra þeirra, í fjölda nafna, höfuð fyrir höfði, allir karlmenn frá tuttugu ára aldri og upp á við, allir þeir sem gengu út í hersveit.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/17-20.1792396339435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Og voru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubens"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "frumgetnings"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "komnir þeirra"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "eftir fjölskyldum þeirra"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eftir húsum"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "feðra þeirra"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "í fjölda"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nafna"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "höfuð fyrir höfði"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karlmenn"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu ára"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "aldri"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "og upp á við"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sem gengu út"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "í hersveit"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:19.436502492Z",
+  "model": "glm-5.3"
+}

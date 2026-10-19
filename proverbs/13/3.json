@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "næfesh = lífskraftur, flutt yfir í 'sál'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצר\/שמר",
+      "rationale": "tvö samstæð orð fyrir 'að gæta' í kíasma — munurinn glatast í íslensku"
+    },
+    {
+      "kind": "alternative",
+      "subject": "spennur varir",
+      "rationale": "פשק merkir bókstaflega 'að opna sundur' (varir\/fætur), því 'opnar víða varir'"
+    }
+  ],
+  "translation": "Sá sem gætir munns síns gætir sálar sinnar; sá sem spennur víða varir sínar, honum verður eyðing.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c96ce9a53927b8918fa625a9aae7f6f91ba16c3381637b58173c8a1556f058a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/13\/2-3.1792416990676.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "gætir"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "munns síns"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gætir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálar sinnar"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "spennur víða"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "varir sínar"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "eyðing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:30.677193906Z",
+  "model": "glm-5.3"
+}

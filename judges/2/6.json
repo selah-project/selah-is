@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "איש",
+      "rationale": "Hebreska 'hver maður' — flutt á 'hver' í íslensku, kynlausara."
+    },
+    {
+      "kind": "crux",
+      "subject": "söguleg staða",
+      "rationale": "Vers 6–9 endurtaka Josúabók 24:28–31; þýðandi fær ekki að blanda saman tíma rámsögunnar."
+    }
+  ],
+  "translation": "Og Jósjúa sendi ⟨את⟩ lýðinn í burtu, og Ísraelsmenn fóru, hver til síns erfðalands, til að taka ⟨את⟩ landið í eigu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c12529aa5ffa8cb5530be64c22e0e44dc0a87fb9b0be368a4fd2301ce81987c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/2\/5-8.1792399412376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og Jósjúa sendi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jósjúa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lýðinn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðinn"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og fóru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "til síns erfðalands"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "til að taka í eigu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landið"
+    }
+  ],
+  "timestamp": "2026-10-19T08:43:32.377089457Z",
+  "model": "glm-5.3"
+}

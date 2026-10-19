@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכונה",
+      "rationale": "'stöðugt\/trúfast' — KJV 'faithfulness', JPS 'sincerity', YLT 'stability'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gropanar",
+      "rationale": "הוות merkir gropan eða spilltu; KJV 'very wickedness'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mjaðva",
+      "rationale": "יחליקון er mynd þess að gera slétt — halda sléttu yfir, mjaðva"
+    }
+  ],
+  "translation": "Því að ekkert stöðugt er í munni þeirra; innsta þeirra eru gropanar; opinn gröf er kokið þeirra; með tungu sinni mjaðva þeir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/5\/9-12.1792409182898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekkert"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "í munni þeirra"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "stöðugt"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "innsta þeirra"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "gropanar"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "gröf"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "opinn"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "kokið þeirra"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tungu sinni"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "mjaðva þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:22.899292442Z",
+  "model": "glm-5.3"
+}

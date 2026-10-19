@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögn missing; Hebrew uses the participle עשוים without a finite verb"
+    },
+    {
+      "kind": "crux",
+      "subject": "וקיר ההיכל",
+      "rationale": "ASV reads 'thus was the wall of the temple' — the clause can describe the wall itself, not the carving's location"
+    },
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "Vertical extent of the carved decoration — from floor to above the door"
+    }
+  ],
+  "translation": "Frá jörðinni og upp ofan dyragattarinnar ⟨voru⟩ kerúbarnir og pálmsúlurnar gjörðir, á vegg hofsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b46d1cad832cb8843abb6190c14c50741b55081d6a116bf99ea449e72aa33820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/41\/17-20.1792407838225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "Frá jörðinni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "og upp að"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ofan"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "dyragattarinnar"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerúbarnir"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "og pálmsúlurnar"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gjörðir"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "á vegg"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hofsins"
+    }
+  ],
+  "timestamp": "2026-10-19T11:03:58.226380796Z",
+  "model": "glm-5.3"
+}

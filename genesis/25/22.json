@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hvers vegna er ég þannig",
+      "rationale": "למה זה אנכי er myrkt: „hví þetta ég?“ — farðar mein, „af hverju lif ég?“ (JPS) eða „hví gerist mér þetta?“ (BSB)"
+    },
+    {
+      "kind": "you",
+      "subject": "Rivka",
+      "rationale": "Rivka talar beint til sín sjálfrar og fer síðan að leita Jahve"
+    }
+  ],
+  "translation": "Og börnin skullust saman í kvið hennar, og hún sagði: Ef svo er, hvers vegna ⟨er⟩ ég þannig? Og hún fór að leita ⟨את⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bc1420cd9c843b7c4e516b153255083dfcefa482f0fc0014e89bdbb2d55c784f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/25\/21-24.1792393124437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "skullust saman"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "börnin"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "í kvið hennar"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og hún sagði"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvers vegna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þannig"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "og hún fór"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "að leita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T06:58:44.438323058Z",
+  "model": "glm-5.3"
+}

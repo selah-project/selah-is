@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אף",
+      "rationale": "„Á nefi“ Jahve — reiðin sem bryst úr nefi, þýtt sem „fyrir reiði“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעל פניו",
+      "rationale": "Orðrétt „frá andliti hans“ — þýtt „frá andliti sínu“, mynd af útrekstri."
+    },
+    {
+      "kind": "addition",
+      "subject": "þetta",
+      "rationale": "Hebreska segir aðeins „varð“ — viðfangsorðið „þetta“ er bætt við á íslensku (sjá BSB)."
+    }
+  ],
+  "translation": "Því að fyrir reiði Jahve varð þetta í Jerúsjalajím og í Júda, þar til hann hafði varið ⟨את⟩ þeim frá andliti sínu; og Tsidkíjahu gerðist uppreisnarseggur gegn konungi í Babýlon.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7cfaadc3481951d6fcc42978a36b69b08946fae9b77d21eb73e909e3a43b5d62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/24\/20-20.1792416699039.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "אף",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "varð þetta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "og í Júda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "hann hafði varið"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "frá"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "andliti sínu"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "og gerðist uppreisnarseggur"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkíjahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "gegn konungi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "í Babýlon"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:39.040002773Z",
+  "model": "glm-5.3"
+}

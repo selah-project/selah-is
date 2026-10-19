@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 9:18",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "השלמים haldið sem shelamím í stað þýðingar á borð við friðarförn"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "því bætt við við ויזרקהú því hebreska suffixed-pronoun-ið þarf sérstakt orð á íslensku"
+    }
+  ],
+  "translation": "Og hann slátraði ⟨את⟩ nautinu og ⟨את⟩ hjörtnum, shelamím-förn þeirri er fyrir þjóðina var; og synir Aharons báru til hans ⟨את⟩ blóðið, og hann stökkti því á altarið alls kringum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "90782fe8624baa7804f79d9147f8d2b6ee8cff8e6fc12a1403870be559b61e2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/9\/17-20.1792395619667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "slátraði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nautinu"
+    },
+    {
+      "surface": "השור",
+      "gloss": "nautinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hjörtnum"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "hjörtnum"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "förn"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamím"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fyrir þjóðina"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "báru til"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóðið"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blóðið"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "stökkti því"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "alls kringum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:19.668254838Z",
+  "model": "glm-5.3"
+}

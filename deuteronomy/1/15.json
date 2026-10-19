@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versinn telur yfirburði í tölum: þúsund, hundrað, fimmtíu, tíu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבטיכם",
+      "rationale": "Hebreska שבט er 'stafur\/þjóðflokkur'; 'kynþáttur' valið sem íslenskt heiti flokksins."
+    }
+  ],
+  "translation": "Og ég tók ⟨את⟩ höfðingja kynþátta yðar, menn spaka og kunna, og ég setti ⟨את⟩ þá sem höfðingja yfir yður: höfðingja yfir þúsund og höfðingja yfir hundrað og höfðingja yfir fimmtíu og höfðingja yfir tíu, og embættismenn fyrir kynþætti yðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0bf54a590f73a5be45a38603610a96ef44db9162fba19e02a677a7023e647f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/14-15.1792416395120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Og ég tók"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "höfðingja kynþátta yðar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfðingja"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "kynþátta yðar"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "spaka"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "og kunna"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "og ég setti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "sem höfðingja"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "yfir yður"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "höfðingja yfir"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og höfðingja yfir"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundrað"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og höfðingja yfir"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fimmtíu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og höfðingja yfir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "og embættismenn"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "fyrir kynþætti yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:35.120985176Z",
+  "model": "glm-5.3"
+}

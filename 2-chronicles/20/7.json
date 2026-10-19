@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הורשת er að taka land í eigu með því að reka út fyrri íbúa; ‚rak út' heldur þeirri mynd."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Bænin heldur áfram samtölu til Jahve í annarri persónu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהבך",
+      "rationale": "‚Vin þinn' — Avraham er kallaður ‚elskumaður Guðs'; íslenskan hefur ekki virðingarorðið í sömu mynd."
+    }
+  ],
+  "translation": "Ert þú ekki Elóhím vorr, sá er rak út ⟨את⟩ íbúa lands þessa fyrir andliti þjóðar þinnar, Ísraels, og gafst það sáði Avraham, vin þinn, að eilífu?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "06bd90bc00b8a4a8bbbd799c1959ea96f561c3fc8209ba2dd3129a3be4cec0a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/20\/5-8.1792415687696.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ert þú ekki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vorr"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "rak út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "íbúa lands þessa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "íbúa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lands"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóðar þinnar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "og gafst"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "sáði"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "vin þinn"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:14:47.697648089Z",
+  "model": "glm-5.3"
+}

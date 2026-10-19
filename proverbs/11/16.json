@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Náðarorðið ⟨sem hefur⟩ bætt við — hebreskan segir aðeins »kona-nád«, tvö orð saman"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמך",
+      "rationale": "Þýðendur skiptast á »retaineth\/obtaineth\/attaineth« — sama sögn tvívegis í versinu, og munurinn liggur í hvort heiðurinn sé haldinn eða unninn"
+    },
+    {
+      "kind": "crux",
+      "subject": "עריצים",
+      "rationale": "»terrible\/strong\/violent\/ruthless« — orðið getur merkt bæði öfluga og kúgarar; »harðræðismenn« heldur myndinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתמך\/יתמכו",
+      "rationale": "Sömu sögn tvívegis — kona-náðs og harðræðismenn deila sömu hendingu, en samsvarandi endurtekning býr ekki í íslenskunni"
+    }
+  ],
+  "translation": "Kona ⟨sem hefur⟩ nád heldur heiðri, en harðræðismenn halda auði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c78f7210c9bb425b62c7057cd46bd83ec1bcd861c81613e9dbe33f50ef5e0d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/11\/16-16.1792416967004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Kona"
+    },
+    {
+      "surface": "חן",
+      "gloss": "nád"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "heiðri"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "en harðræðismenn"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "halda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "auði"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:07.004456289Z",
+  "model": "glm-5.3"
+}

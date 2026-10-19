@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Talning: sextíu og sextán þúsund og fimm hundruð — talan segir það sem hebreskan segir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ששה ושבעים",
+      "rationale": "Hebreska segir 'sex og sjötíu' — íslenskan notar tug fyrst"
+    }
+  ],
+  "translation": "Þetta eru ættir Jehúda eftir ⟨þeim⟩ sem taldir voru af þeim: sextíu og sextán þúsund og fimm hundruð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "689698649ad85070f528994df4afe7f0cff196bc3ffa6bbaf35df1a44dfff256",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/26\/21-24.1792397126750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ættir"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "eftir talningu þeirra"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sextíu og sextán"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fimm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    }
+  ],
+  "timestamp": "2026-10-19T08:05:26.751078318Z",
+  "model": "glm-5.3"
+}

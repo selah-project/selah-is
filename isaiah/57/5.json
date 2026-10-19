@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 57:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלים",
+      "rationale": "Skýrt sem 'Elím' (guðir\/idol); YLT\/JPS lesa 'iljatrjá\/terebinth' — sama stafróf, tvær merkingar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנחמים",
+      "rationale": "Orðrétt 'þeir sem hitna'; KJV 'enflaming yourselves' — kynferðisleg hiti ekki hughreysting"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint rætt til afgyðinga Ísraels með spurningartóni"
+    }
+  ],
+  "translation": "Hverjir hitjast meðal Elím, undir hverju frísku tré, slátra börnunum í dalalækjunum, undir kvistgöllum klettanna?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/57\/5-8.1792404941912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמים",
+      "gloss": "hverjir hitjast"
+    },
+    {
+      "surface": "באלים",
+      "gloss": "meðal Elím"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hverju"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tré"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "frísku"
+    },
+    {
+      "surface": "שחטי",
+      "gloss": "slátra"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "börnunum"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "í dalalækjunum"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "סעפי",
+      "gloss": "kvistgöllum"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "klettanna"
+    }
+  ],
+  "timestamp": "2026-10-19T10:15:41.913266025Z",
+  "model": "glm-5.3"
+}

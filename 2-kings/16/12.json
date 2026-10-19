@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨það⟩",
+      "rationale": "Fornafnið 'það' er viðbætt í íslensku; hebreskan segir aðeins 'fór upp á' með forsetninguna."
+    },
+    {
+      "kind": "alternative",
+      "subject": "fór upp á",
+      "rationale": "ויעל getur líka verið 'fórberði' (offraði) — ýmsar þýðingar taka það svo."
+    }
+  ],
+  "translation": "Og konungurinn kom frá Damaskus, og konungurinn sá ⟨את⟩ altarið, og konungurinn gekk að altarinu og fór upp á ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "3f5a3c3a15a134d6fd3a7c24ab0c2ebd57780981d4bee32555c5aa6748ff70ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/16\/9-12.1792403299639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "frá Damaskus"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sá"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarið"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "og gekk að"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "על",
+      "gloss": "að"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarinu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og fór upp á"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨það⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T09:48:19.640579674Z",
+  "model": "glm-5.3"
+}

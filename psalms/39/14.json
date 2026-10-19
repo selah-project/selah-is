@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השע",
+      "rationale": "'Lítu frá mér' (JPS, YLT) á móti 'hlýsta mér' (KJV, Geneva) — sömu rætur og 39:13 'hlustaðu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואבליגה",
+      "rationale": "'að ég glægist\/skín' (orðrétt 'láta skína') á móti 'að ég fái afl' (KJV 'recover strength')"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ואינני",
+      "rationale": "orðrétt 'og ég er ekki' — að hverfa, deyja"
+    }
+  ],
+  "translation": "Lítu blikinu frá mér, að ég glægist, áður en ég fer og er ekki lengir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/39\/13-14.1792409689056.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Lítu blikinu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "að ég glægist"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ég fer"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "og er ekki lengir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:49.057484677Z",
+  "model": "glm-5.3"
+}

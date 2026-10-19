@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 15:28",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Sámúel til Sáls",
+      "rationale": "Dómsháttsorð Sámúels beint að Sál — konungsríki tekið honum í dag."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רעך",
+      "rationale": "'Nálægt þér' er rót orðsins (félagi, náungi) — engin vitneskja fyrirfram um hver nái konungsríkinu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרע",
+      "rationale": "Sama sögn og um yfirhöfnina í v. 27 — rifningin er nú orðin sögulegt atvik."
+    }
+  ],
+  "translation": "Og Sámúel sagði við hann: Jahve hefur rifið ⟨את⟩ konungsríki Ísrael frá þér í dag, og gefið það nálægt þér, sá sem betri er en þú.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/25-28.1792400487097.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sámúel"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "hefur rifið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konungsríki Ísrael"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "konungsríki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "frá þér"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í dag"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "og gefið það"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "nálægt þér"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "sá sem betri er"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "en þú"
+    }
+  ],
+  "timestamp": "2026-10-19T09:01:27.099072346Z",
+  "model": "glm-5.3"
+}

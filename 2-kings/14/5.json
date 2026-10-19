@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf hjálparsagnir í liðinni sögn („hafði staðist“, „að hann drap“) sem hebreskan segir með sögnuppbútningu venjulegrar sagnar."
+    },
+    {
+      "kind": "you",
+      "subject": "Amasía",
+      "rationale": "Frásögnin um hásetana sem drápu föður hans beinist að Amasía konungi, sjálfur hann ekki nefndur í versinu."
+    }
+  ],
+  "translation": "Og varð, þegar ríkið hafði staðist í hönd hans, að hann drap ⟨את⟩ þrælana sína, þá er slógu ⟨את⟩ konunginn, föður hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "666aade11f6e9f51f009f133d1470e309fc583f9b03c8bae941dd356f8f4ef0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/14\/5-8.1792403257838.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og varð"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "hafði staðist"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ríkið"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "í hönd hans"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "drap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þrælana sína"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þrælana sína"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "þá er slógu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konunginn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:47:37.839361361Z",
+  "model": "glm-5.3"
+}

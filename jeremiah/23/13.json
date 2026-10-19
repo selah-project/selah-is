@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תפלה er 'flimt, fáskap' — léttúð, ekki 'fávísi' í merkingunni heimspekilegri"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "veikmynd 'þeir' bætt við fyrir sögnina 'spáðu', hebreskan hefur hana ekki"
+    }
+  ],
+  "translation": "Og í spámönnum Sjomeron sá ég fáskap: þeir spáðu í Baal og villtu ⟨את⟩ fólki mínu, ⟨את⟩ Ísrael.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/13-16.1792405937715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "Og í spámönnum"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomeron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sá ég"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "fáskap"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "þeir spáðu"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "í Baal"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "og villtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólki mínu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólki mínu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T10:32:17.716493207Z",
+  "model": "glm-5.3"
+}

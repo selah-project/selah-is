@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "Manna kallast 'man' af spurningunni 'man hu' — 'hvað er þetta?' — orðaleikur sem glatarst á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lægra þig",
+      "rationale": "ענה merkir bókstaflega 'aðþreifa\/lægja'; 'humble' í enskum þýðingum er víðara siðferðilegt."
+    }
+  ],
+  "translation": "Sem fæðir þig með man í eyðimörkinni, sem feður þínir þekktu ekki, til að lægra þig og til að reyna þig, til að gera þér gott í endi þínum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/8\/13-16.1792397801311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "sem fæðir þig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "með man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "þekktu"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "feður þínir"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til að"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "lægra þig"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "og til að"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "reyna þig"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "gera þér gott"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "í endi þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:16:41.312987703Z",
+  "model": "glm-5.3"
+}

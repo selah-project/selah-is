@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 13:21",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "לנחתם er að sögn með fleirtölu viðtaks en íslenskan þarf andlagið 'þá' skýrt"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'fyrir' í 'lýsa fyrir þeim' er bætt við framhald á להאיר"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומם ולילה",
+      "rationale": "andstæðurnar dag\/nótt endurkastast tvisvar í versinu, spegluð í skýsúlu og eldsúlu"
+    }
+  ],
+  "translation": "Og Jahve fór fyrir þeim um daginn í skýssúlunni til að leiða ⟨þá⟩ á vegina, og um nóttina í eldsúlunni til að lýsa ⟨fyrir þeim⟩, svo að fara mátti dag og nótt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c9e469e303b52ae2c3bd94d27e12c5412c3d271e7be6ca7adc86fb7b9ffb52b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/13\/21-22.1792394359363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fór"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "um daginn"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "í súlunni"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "skýssúlunni"
+    },
+    {
+      "surface": "לנחתם",
+      "gloss": "til að leiða"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "á vegina"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og um nóttina"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "í súlunni"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldsúlunni"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "til að lýsa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "að fara"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nótt"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:19.364383418Z",
+  "model": "glm-5.3"
+}

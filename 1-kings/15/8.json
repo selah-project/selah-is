@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "'Lagðist með feðrum sínum' — hebreskt myndmál um dauða, ekki hvíld; 'hvíldist' heldur myndinni"
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Fornafnið 'hann' stendur ekki sérstaklega í hebreskuna, aleph-tavið ⟨אתו⟩ bendir á það"
+    },
+    {
+      "kind": "substitution",
+      "subject": "varð konungur",
+      "rationale": "וימלך er sagnmynd 'varð konungur\/tók ríki' — ekki tvennt aðgerð og nafn"
+    }
+  ],
+  "translation": "Og Avíjam hvíldist með feðrum sínum, og þeir grófu ⟨אתו⟩ hann í borg Davíðs, og Asa sonur hans varð konungur í stað hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "46a36ed1c268f8b2efa1df585f1165ff924527dab20e2df7c6b77211a0e414ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/15\/7-8.1792416676784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Og Avíjam hvíldist"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avíjam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðrum sínum"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "og þeir grófu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "varð konungur"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "í stað hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:16.785476847Z",
+  "model": "glm-5.3"
+}

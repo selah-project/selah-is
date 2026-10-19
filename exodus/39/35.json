@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "huluþakið",
+      "rationale": "כפרת er lokinn\/lúðinn á örkina — ekki 'miskunnarþak'; 'huluþak' heldur myndinni af loki"
+    }
+  ],
+  "translation": "⟨את⟩ örkinni um vitnisburðinn og ⟨את⟩ stangirnar hennar, og ⟨את⟩ huluþakið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/39\/33-36.1792395312079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örkinni"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "örkinni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "um vitnisburðinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stangirnar"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "stangirnar hennar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "huluþakið"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "huluþakið"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:12.080953792Z",
+  "model": "glm-5.3"
+}

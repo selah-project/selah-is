@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ert",
+      "rationale": "Hebreskan sleppir sögninni í 'að þú ert Jahve'; íslenskan krefst hennar."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Lok bænar Hezekía í beinni ávarpun; 'hjálpa þú oss' er boðsháttur bænar."
+    }
+  ],
+  "translation": "Og nú, Jahve Elóhím vor, hjálpa þú oss úr hendi hans, svo að öll konungsríki jarðarinnan þekki að þú ert Jahve, þú einn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/37\/17-20.1792404499899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vor"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "hjálpa þú oss"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "úr hendi hans"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "svo að ... þekki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "konungsríki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "þú einn"
+    }
+  ],
+  "timestamp": "2026-10-19T10:08:19.900951798Z",
+  "model": "glm-5.3"
+}

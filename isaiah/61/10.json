@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 61:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוש אשיש",
+      "rationale": "innsetningaroguð mynd — óendanleg mynd sagnarinnar 'gleðjast gleðist' — endursögð sem 'mikilli gleði gleð ég mig'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er holdgerving lífskrafts, andardráttar og girndar — ekki ósálarfræðileg 'sál' ein"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכהן פאר",
+      "rationale": "bókstaflega 'prestar-fíbúð' — sumir þýða 'búnar sig sem prestur með fíbúð' gegn 'búnar sig skrautklæðum' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה haldið sem 'tsedek' samkvæmt reglu D2 — réttlæti\/réttlæti-hegðun í einu orði"
+    }
+  ],
+  "translation": "Mikilli gleði gleð ég mig í Jahve, mín sál fagnar í mínum Elóhím, því að hann hefur klætt mig klæðum frelsis, möttli tsedek breiður hann yfir mig, eins og brúðgumur búnar sig prests-fíbúð, og eins og brúður skartar skartgripum sínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7a104d5c86237462b6d74ce6ed7915e89258ee8965e91513f8557b004896dea1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/61\/9-11.1792404967847.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוש",
+      "gloss": "gleð ég mig"
+    },
+    {
+      "surface": "אשיש",
+      "gloss": "mikilli gleði"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "í Jahve"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "fagnar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mín sál"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "í mínum Elóhím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הלבישני",
+      "gloss": "hefur klætt mig"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæðum"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "frelsis"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "möttli"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יעטני",
+      "gloss": "breiður yfir mig"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "eins og brúðgumur"
+    },
+    {
+      "surface": "יכהן",
+      "gloss": "prests"
+    },
+    {
+      "surface": "פאר",
+      "gloss": "fíbúð"
+    },
+    {
+      "surface": "וככלה",
+      "gloss": "og eins og brúður"
+    },
+    {
+      "surface": "תעדה",
+      "gloss": "skartar"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "skartgripum sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:07.848254526Z",
+  "model": "glm-5.3"
+}

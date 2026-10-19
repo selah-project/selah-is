@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sitja á jörðu",
+      "rationale": "Hebreskt sorgarbragð — sá sem syrgir situr á jörðu í ryki (Jósúa 7:6); 'sitja á jörðinni' er táknmynd, ekki staðsetning."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונקתה",
+      "rationale": "נקה II 'verða tæmd\/eyð' gegn נקה I 'verða hrein' — KJV 'desolate' vs 'purged'; 'tæmd' heldur myndinni."
+    },
+    {
+      "kind": "you",
+      "subject": "til Jerúsalem",
+      "rationale": "V. 25 ávarpar borgina í annarri persónu (þínir), v. 26 skiptir yfir í þriðju persónu (hennar)."
+    }
+  ],
+  "translation": "Og hlið hennar munu grenja og syrgja, og hún, tæmd, mun sitja á jörðu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "28aab94f341e3b3fe1e1d9587fc54a75d5d3557f410479cab60f1cf5fdb004f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/3\/25-26.1792403708758.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "og munu grenja"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "og syrgja"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "hlið hennar"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "og tæmd"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "á jörðu"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "mun sitja"
+    }
+  ],
+  "timestamp": "2026-10-19T09:55:08.759363391Z",
+  "model": "glm-5.3"
+}

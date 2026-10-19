@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנסה דבר אליך",
+      "rationale": "þýðingar skiptast: „ef vér reynum að tala við þig“ (KJV, JPS) á móti „hefur einhver reynt orð við þig?“ (YLT) — spurning eða skilyrt setning"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sá⟩",
+      "rationale": "hebreskan hefur engan hugtakalegan subjekt; óákveðinn fjöldi bætt við"
+    }
+  ],
+  "translation": "Hefur ⟨sá⟩ reynt orð við þig — mundu þungbúinn? En að halda aftur um orð — hver er fær?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36679d6eda4faac9cb3bc14fb9ac3a0f945961ebe142be20ebe7325e298cfca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/4\/1-4.1792411766813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "hefur reynt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "við þig"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "mundu þungbúinn"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "að halda aftur"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "um orð"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "er fær"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:26.814344929Z",
+  "model": "glm-5.3"
+}

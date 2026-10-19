@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir aðeins ‛úr hendi' á fyrsta stað; veiðimaðurinn er ekki nefndur fyrr en í gildrunni"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקושׁ",
+      "rationale": "Merkir bæði ‛gildra' og ‛sá sem setur gildrur'; hér tekið sem veiðimaður, en ‛gildrunnar' er möguleg"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיד … מיד",
+      "rationale": "Endurtekið ‛úr hendi, úr hendi' — samhverf tenging tapast að hluta í íslensku"
+    }
+  ],
+  "translation": "Slepp þér sem gasella úr hendi, og sem fugl úr hendi veiðimannsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2ee86f209c556177fd85475cddea1c7a302ae2d04cc8c7e77bdac462d12a3480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/6\/5-8.1792411221535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Slepp þér"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "sem gasella"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "og sem fugl"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "veiðimannsins"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:21.535456743Z",
+  "model": "glm-5.3"
+}

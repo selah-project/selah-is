@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Það' bætt við fyrir íslenska setningabygginguna — hebreskan hefur bara ויהי."
+    },
+    {
+      "kind": "elision",
+      "subject": "frásögn",
+      "rationale": "Hver tók Lea er ekki nefndur — Lavan kemur fram í sömu sögu en orðið vantar viðfang."
+    }
+  ],
+  "translation": "Og ⟨það⟩ varð að kveldi, og hann tók ⟨את⟩ Lea, dóttur sína, og kom ⟨את⟩ henni til hans, og hann kom til hennar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5a2aa27e0d89c7f43645576a8d4c8ce305ac0b3f10cd92b13715a62c373f8607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/29\/21-24.1792393220172.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og varð"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "að kveldi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og hann tók"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "dóttur sína"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "henni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og hann kom"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:20.173944076Z",
+  "model": "glm-5.3"
+}

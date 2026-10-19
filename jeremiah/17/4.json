@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 17:4",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובך",
+      "rationale": "'með þér sjálfum \/ af eigin valdi' vs 'í þér' (Geneva) — íslenskan heldur 'af eigin valdi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sjálfur",
+      "rationale": "íslenskan þarf viðtekinn lýsingorð þar sem hebreskan segir aðeins 'og í þér'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "באפי",
+      "rationale": "lýtur 'í nefi mínu' — reiði; JPS heldur myndlíkingunni"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerúsalem\/Júda",
+      "rationale": "kvöð beint til erfingjans arfsins"
+    }
+  ],
+  "translation": "Og þú munt sleppa af eigin valdi ⟨sjálfur⟩ arfanum þínum sem ég gaf þér, og ég mun láta þig þjóna ⟨את⟩ óvinum þínum í landi sem þú þekkir ekki, því að eld kveyktuð þér í reiði minni, að eilífu mun hann brenna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/17\/1-4.1792405731050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמטתה",
+      "gloss": "Og þú munt sleppa"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "af eigin valdi"
+    },
+    {
+      "surface": "מנחלתך",
+      "gloss": "arfanum þínum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ég gaf"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "והעבדתיך",
+      "gloss": "og ég mun láta þig þjóna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "óvinum þínum"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "óvinum þínum"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "þú þekkir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "קדחתם",
+      "gloss": "kveyktuð þér"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "í reiði minni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "að"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "mun hann brenna"
+    }
+  ],
+  "timestamp": "2026-10-19T10:28:51.052278621Z",
+  "model": "glm-5.3"
+}

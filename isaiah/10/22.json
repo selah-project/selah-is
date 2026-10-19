@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 10:22",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "aðeins",
+      "rationale": "íslenzka þarf lýsingarorð til að gefa merkingu andstæðunnar sem 'þótt... þá' ber með sér"
+    },
+    {
+      "kind": "crux",
+      "subject": "eyðing flæðir yfir með tsedek",
+      "rationale": "hver flæðir yfir hverjum — eyðingin flæðir yfir í réttlæti, eða réttlætið flæðir yfir; þýðendum skiptar máli"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה er 'tsedek' eftir D2, ekki 'réttlæti' eitt"
+    }
+  ],
+  "translation": "Því að þótt þjóð þín, Ísrael, sé sem sandur hafsins, aðeins leif mun af honum snúa aftur — eyðing, þá ákveðnu, flæðir yfir með tsedek.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0edb7d33f5b0366564d447ac0e6df73b27e7c076fd9885fbde12317685757563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/10\/21-24.1792403909722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אם",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sé"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóð þín"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "sandur"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafsins"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "leif"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "snúa aftur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "af honum"
+    },
+    {
+      "surface": "כליון",
+      "gloss": "eyðing"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "þá ákveðnu"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "flæðir yfir"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "með tsedek"
+    }
+  ],
+  "timestamp": "2026-10-19T09:58:29.722989433Z",
+  "model": "glm-5.3"
+}

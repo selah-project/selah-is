@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 45:24",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנחה",
+      "rationale": "Hér er מנחה kornfórn, ekki gjöf eða skattur — „minkha“ sjálft hélt víða en „kornfórn“ gerir tegundina skýra"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mælieiningar",
+      "rationale": "Efa (korn) og hín (vökvi) mæla fórnina nákvæmlega — eina efu fyrir hvert dýr, eitt hín af olíu fyrir hverja efu"
+    }
+  ],
+  "translation": "Og kornfórn (minkha): eina efu fyrir nautið og eina efu fyrir veðurinn skal hann gjöra, og eitt hín af olíu fyrir hverja efu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "71fef6124124922a471a36a195be2d461eb7ba14c115d53cfe54d33f52cb6058",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/45\/21-24.1792407941817.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "Og kornfórn"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eina efu"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "fyrir nautið"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "og eina efu"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "fyrir veðurinn"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skal hann gjöra"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "og olíu"
+    },
+    {
+      "surface": "הין",
+      "gloss": "eitt hín"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "fyrir hverja efu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:05:41.819001138Z",
+  "model": "glm-5.3"
+}

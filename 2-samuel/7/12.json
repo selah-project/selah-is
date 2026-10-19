@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 7:12",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Fyrsta את hér er forsetningin 'með' (nálægð), ekki grundvísir andlags — þess gefið ⟨með⟩ í textanum"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ושכבת את אבתיך",
+      "rationale": "Hebreska myndin 'leggjast með feðrum sínum' merkir að deyja — lát tekið í anda orðtaksins"
+    },
+    {
+      "kind": "substitution",
+      "subject": "afkvæmi",
+      "rationale": "זרעך er bókstaflega 'fræ þitt' — myndin af sáðkorni sem heldur kynslóðinni"
+    }
+  ],
+  "translation": "Þegar dagar þínir eru fullnaddir og þú hefur legið ⟨með⟩ feðrum þínum, þá mun ég reisa afkvæmi þitt eftir þér — ⟨את⟩ það sem gengur ú úr kviði þínum — og ég mun staðfesta ríki hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/7\/9-12.1792401254743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "eru fullnaddir"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "dagar þínir"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "og þú hefur legið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feðrum þínum"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "feðrum þínum"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "þá mun ég reisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "afkvæmi þitt"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "afkvæmi þitt"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "eftir þér"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gengur ú"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "úr kviði þínum"
+    },
+    {
+      "surface": "והכינתי",
+      "gloss": "og ég mun staðfesta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ríki hans"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ríki hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:14:14.744825525Z",
+  "model": "glm-5.3"
+}

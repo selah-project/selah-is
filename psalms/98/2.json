@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקתו ritað eftir hljóði — 'réttlæti hans' einn myndi missa rótina sem D2 heldur fast"
+    }
+  ],
+  "translation": "Jahve gerði kunnan ⟨את⟩ frelsun sína; fyrir augum þjóðanna birti hann tsedek sinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/98\/1-4.1792410513549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "gerði kunnan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "frelsun sína"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "fyrir augum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "birti hann"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "tsedek sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:33.550365643Z",
+  "model": "glm-5.3"
+}

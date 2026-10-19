@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenzka krefst fornafnsins „hann“ í annarri setningu; hebreskan sleppir því"
+    },
+    {
+      "kind": "crux",
+      "subject": "dagur einn",
+      "rationale": "„yom echad“ — „dagur einn“ (YLT, JPS) gegn „fyrsti dagur“ (KJV); töluliðurinn er raðtala ekki tala"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "kvöld og morgun telja daginn — fyrsta mæling sköpunarverksins"
+    }
+  ],
+  "translation": "Og Elóhím kallaði ljósið dag, og myrkrinu kallaði hann nótt. Og það var kvöld, og það var morgun — dagur einn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/5-8.1792392599425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "kallaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ljósið"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "myrkrinu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallaði"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nótt"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og það var"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kvöld"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og það var"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagur"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:59.427151798Z",
+  "model": "glm-5.3"
+}

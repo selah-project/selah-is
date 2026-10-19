@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tíðindi",
+      "rationale": "הדבר er orð\/málefni — ‚tíðindi‘ skýrir merkinguna en er ekki orðið sjálft"
+    }
+  ],
+  "translation": "Og lýðurinn heyrði ⟨את⟩ þetta illa tíðindi og harmaði, og enginn maður setti skraut sitt á sig.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/33\/1-4.1792395134932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðurinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tíðindin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tíðindin"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "illa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "harmaði"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "setti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enginn maður"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "skraut sitt"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á sig"
+    }
+  ],
+  "timestamp": "2026-10-19T07:32:14.933394047Z",
+  "model": "glm-5.3"
+}

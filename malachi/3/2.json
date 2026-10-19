@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מכלכל",
+      "rationale": "„Þolir“ — bókstaflega „heldur uppi“, varðveitir; spurningin er um að bera daginn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברית",
+      "rationale": "Sama orð og „sáttmáli“ en hér um sótu (natrón) til þvotta — ekki sáttmáli."
+    },
+    {
+      "kind": "invitation",
+      "subject": "v3:2",
+      "rationale": "Tvær spurningar beint til hlustenda: hver þolir, hver stendur?"
+    }
+  ],
+  "translation": "Og hver þolir ⟨את⟩ dag komu hans, og hver stendur þegar hann birtist? Því að hann er eins og eldur hreinsara og eins og þvottasápa fullara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a287daf95bf2dfa4ffa3fbf265441b30dd418011c4bce72cf8009c1815a0367f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/malachi\/3\/1-4.1792409255993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Og hver"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "þolir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "komu hans"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "stendur"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "þegar hann birtist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "eins og eldur"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "hreinsara"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "og eins og þvottasápa"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "fullara"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:35.994067865Z",
+  "model": "glm-5.3"
+}

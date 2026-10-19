@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני עבדך אני עבדך",
+      "rationale": "Endurtekningin „ég er þjónn þinn“ tvisvar er rhétórísk áhersla, varðveitt í þýðingunni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מוסרים",
+      "rationale": "Orðið merkir bæði aga og fjötra; „fjötra“ valið af samhengi losunar."
+    }
+  ],
+  "translation": "Á nú, Jahve, því ég er þjónn þinn — ég er þjónn þinn, sonur ambáttar þinnar — þú hefur leyst fjötra mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/116\/13-16.1792410764701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Á nú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "er þjónn þinn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "er þjónn þinn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ambáttar þinnar"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "þú hefur leyst"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "fjötra mína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:44.702519815Z",
+  "model": "glm-5.3"
+}

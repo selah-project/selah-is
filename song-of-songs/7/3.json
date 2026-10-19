@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררך",
+      "rationale": "Rótin merkir naflastreng; 'naflinn' (KJV\/JPS) eða 'mjóflinn\/bolur' — myndin er skál með víni."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur enga sögn í lausnarlýsingunum; íslenska sampökkunin krefst 'er'."
+    }
+  ],
+  "translation": "Mjófi þinn ⟨er⟩ sem skál tunglmáls, sem ekki skortir blandað vín; kviður þinn ⟨er⟩ hveitihaugur, sansaður með liljum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/7\/1-4.1792412702120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "mjófi-þinn"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "skál"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tunglmáls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "skortir"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "blandað-vín"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "kviður-þinn"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "haugur"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "hveiti"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "sansaður"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "með-liljum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:02.122106558Z",
+  "model": "glm-5.3"
+}

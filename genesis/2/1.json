@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "her þeirra",
+      "rationale": "צבאם er herjaorð — um stjörnur, dýr og alla sköpunina; ekki aðeins um hermenn"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir einfaldlega 'voru fullgerðir' — veyttu orði 'Og' í upphafi eins og hebreska 'vav'-sagnbótin gerir"
+    }
+  ],
+  "translation": "Og himnarnir og jörðin voru fullgerðir, og allur her þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/1-4.1792392607401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "voru fullgerðir"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnarnir"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og jörðin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "her þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T06:50:07.402138978Z",
+  "model": "glm-5.3"
+}

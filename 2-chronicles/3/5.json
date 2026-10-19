@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "'þinviður' (cypress?) gegn 'fier' (fir) hjá eldri þýðingum; trénaður óviss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תמרים",
+      "rationale": "Byggingarlistar-orð: pálmalíkar súlur, ekki lifandi pálmar."
+    }
+  ],
+  "translation": "Og ⟨את⟩ húsið hins stóra klaðdi hann þinviði, og hann klæddi það góðu gulli, og lét þar á fara pálmasúlum og keðjum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cf3895dfc603bd841e587225127fc9daa882cea33c502c4d55eb891c5ba97326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/3\/5-8.1792415280220.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "húsið hins stóra"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsið"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "hins stóra"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "klaðdi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "viði"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "þinviði"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "og hann klæddi það"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góðu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "og lét þar á fara"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "pálmasúlum"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "og keðjum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:08:00.221125289Z",
+  "model": "glm-5.3"
+}

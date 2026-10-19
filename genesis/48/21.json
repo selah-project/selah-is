@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jósef",
+      "rationale": "Jakob talar beint til Jósefs um framtíðina eftir dauða sinn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elóhím",
+      "rationale": "Nafnið ritað eftir hljóði, ekki 'Guð'."
+    }
+  ],
+  "translation": "Og Ísrael sagði við Jósef: Sjá, ég dey, og Elóhím verður með ykkur og mun leiða ykkur ⟨את⟩ aftur til lands feðra ykkar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "2f7f14e19c5d99270e7996802eeeba59c91f96179d4c6f09c42c597fd6b43bc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/48\/21-22.1792393988218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dey"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og verður"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "með ykkur"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "og mun leiða aftur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lands"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "feðra ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:13:08.219308619Z",
+  "model": "glm-5.3"
+}

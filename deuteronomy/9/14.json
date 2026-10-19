@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "הרף ממני 'láttu mig í friði' — orðrétt 'slákkadu frá mér'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "אותך er en clísé: ætlað sem fornafnið 'þig', ekki aleph-tav-merki."
+    }
+  ],
+  "translation": "Hættu að gridla við mig, og ég mun eyða þeim og þurrka út ⟨את⟩ nafn þeirra und himninum, og ég mun gera ⟨את⟩ þig að þjóð, öfluga og þyrifaðri en hún.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/9\/13-16.1792397846970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Hættu að gridla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "og ég mun eyða þeim"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "og þurrka út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn þeirra"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nafn þeirra"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "und"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himninum"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "og ég mun gera"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ þig"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "að þjóð"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "öfluga"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og þyrifaðri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "en hún"
+    }
+  ],
+  "timestamp": "2026-10-19T08:17:26.971192404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Hér er את forsetningin 'við, með' — ekki marki beinings; þó varðveitt sem ⟨את⟩ eftir reglu verksins"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נועץ\/עצתו",
+      "rationale": "Sömu rót עצה í v. 13 og נועץ hér — ráðgjöf\/ráðast — endurtökin tapast ekki alveg á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sá⟩",
+      "rationale": "Forsögn YHWH er ekki nafngreind í hebreskunni; íslenskan þarf frumlag"
+    }
+  ],
+  "translation": "Við ⟨את⟩ hverja réðst hann, og ⟨sá⟩ gaf honum skilning og kenndi honum í dómsins vegi, og kenndi honum þekkingu, og veginn skilningar kunnugvísaði honum?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/40\/13-16.1792404597058.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "Við ⟨את⟩",
+      "marks": "hverja"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hverja"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "réðst hann"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "gaf honum skilning"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "og kenndi honum"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "í dómsins vegi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dómsins vegi"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "og kenndi honum"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "þekkingu"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "og veginn"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "skilningar"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "kunnugvísaði honum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:57.059052977Z",
+  "model": "glm-5.3"
+}

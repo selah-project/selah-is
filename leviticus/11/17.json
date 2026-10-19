@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכוס",
+      "rationale": "Fuglategund óviss: klettúfa eða perlukötti („lítla úfan“ hjá KJV\/JPS)."
+    },
+    {
+      "kind": "crux",
+      "subject": "השלך",
+      "rationale": "„Hinn sem kastar sér“ — taldur skúmi (pelíkani hjá sumum), tegund óviss."
+    }
+  ],
+  "translation": "og ⟨את⟩ perluköttinn og ⟨את⟩ skúmann og ⟨את⟩ úfuna",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/17-20.1792395623203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "perluköttinn"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "perluköttinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "skúmann"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "skúmann"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "úfuna"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "úfuna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:23.204383673Z",
+  "model": "glm-5.3"
+}

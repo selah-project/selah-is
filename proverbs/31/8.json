@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלוף",
+      "rationale": "'breyting\/þeir sem eftir lifa' — YLT 'sons of change', KJV\/JPS 'appointed to destruction'; rótin er að skiptast um, líða — hér: munaðarlausir eða þeir sem fallið hafa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דין ... בני",
+      "rationale": "Endurtekning frá v.5 (דין כל בני עני \/ דין כל בני חלוף) — klasi sem tengir versin."
+    },
+    {
+      "kind": "you",
+      "subject": "to Lemuel",
+      "rationale": "Boð í annarri persónu til konungsins — opna munninn."
+    }
+  ],
+  "translation": "Opna munn þinn fyrir ⟨þá⟩ mállausu, í máli allra sona ⟨þeirra sem farist hafa⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1bc39d6e3b1165464627322ae7705ffb4bb3c55c93f714709737976f13e7d83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/31\/5-8.1792411726151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Opna"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "munn þinn"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "fyrir mállausu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í máli"
+    },
+    {
+      "surface": "דין",
+      "gloss": "máli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "þeirra sem farist hafa"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:46.153070484Z",
+  "model": "glm-5.3"
+}

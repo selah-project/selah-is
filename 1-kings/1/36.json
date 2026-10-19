@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 1:36",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את המלך",
+      "rationale": "את við konunginn fellur saman við sagnarantsöðina á íslensku; merkið varðveitt í glósu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמן \/ אמן",
+      "rationale": "Amén og trúfesti eiga sömu rót; óþýðanlegt orðleikur"
+    }
+  ],
+  "translation": "Og Benaja, sonur Jehójada, svaraði ⟨את⟩ konunginum og sagði: Amén. Þannig segi Jahve, Elóhím herra míns konungsins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/33-36.1792401903739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Og svaraði"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehójada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konunginum"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amén"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Þannig"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra míns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:25:03.741268365Z",
+  "model": "glm-5.3"
+}

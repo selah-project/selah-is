@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גם",
+      "rationale": "Orðið merkir 'einnig\/jafnvel' en er hér notað andstæðumerkja — 'þó' — eins og margar þýðingar gera"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רבת צררוני מנעורי",
+      "rationale": "Fyrri hálfforsn vers 2 endar orðrétt fyrstu hálfversn vers 1 — stefjabygging"
+    }
+  ],
+  "translation": "Margt þrengdu þeir að mér frá æsku minni, en þeir fóru ekki á megin við mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/129\/1-4.1792410901487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Margt"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "þrengdu þeir að mér"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "frá æsku minni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "þó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "fóru ekki á megin við"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:01.488515322Z",
+  "model": "glm-5.3"
+}

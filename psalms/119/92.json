@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gleði",
+      "rationale": "שעשוע er endurtekin glöð hljóðmynd, 'hlutir sem ég leik mér við'; 'gleði' einfaldar"
+    },
+    {
+      "kind": "crux",
+      "subject": "לולי",
+      "rationale": "'ef ekki hefði verið' — forsendusetning um það sem var ekki; sumar þýðingar gera hana spurningu"
+    }
+  ],
+  "translation": "Ef Tóran þín hefði ekki verið gleði mín, þá hefði ég þá farist í ógæfu minni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/89-92.1792410812831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ef ekki"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tóran þín"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "gleði mín"
+    },
+    {
+      "surface": "אז",
+      "gloss": "þá"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "hefði ég farist"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "í ógæfu minni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:32.832644257Z",
+  "model": "glm-5.3"
+}

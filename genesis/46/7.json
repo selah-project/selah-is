@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בניו\/בנתיו",
+      "rationale": "KÍasta: synir\/sonarsynir og dætur\/sonardætur í spegilskipun — formlegt, talið uppröðun sem varðveitt er."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "'Sonarsynir' og 'sonardætur' — hebreskan segir bókstaflega 'syni sona hans', 'dætur sona hans'."
+    }
+  ],
+  "translation": "Synir hans og sonarsynir hans ⟨את⟩ með honum, dætur hans og sonardætur hans, og allt hans sáð — hann flutti ⟨את⟩ með sér í Mitsrajím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e47c983c4eb51d7640ef212c3c15776fb3e06057dd58c066bcc033948f96da77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/46\/5-8.1792393951140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "Synir hans"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og synir"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sona hans"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ með honum",
+      "marks": "með honum"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "dætur hans"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "og dætur"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sona hans"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "hans sáð"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "flutti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ með sér",
+      "marks": "með sér"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "í Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:12:31.141346752Z",
+  "model": "glm-5.3"
+}

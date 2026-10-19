@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu minni",
+      "rationale": "נפש er heldur önd\/lífskraftur en sál í síðari skilningu"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "Spurning („hefir þú ekki?“) eða staðhæfing („já, þú hefur“) — KJV og JPS lesa spurningu, BSB staðhæfingu"
+    },
+    {
+      "kind": "addition",
+      "subject": "heldur",
+      "rationale": "Bætt við til að gera samanburðinn skýran á íslensku"
+    }
+  ],
+  "translation": "Því að þú heft rekið sálu minni frá dauða — hefir þú ekki heldur fæti mínum frá falli — til að ganga fyrir andliti Elóhím í ljósi hinna lifandi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/56\/13-14.1792409932653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "þú heft rekið"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "frá dauða"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fæti mínum"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "frá falli"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "til að ganga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "באור",
+      "gloss": "í ljósi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hinna lifandi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:52.653955522Z",
+  "model": "glm-5.3"
+}

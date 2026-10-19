@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elóhím",
+      "rationale": "Boðsorð í bæn beint til Elóhím."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fleirtöluheitið 'þau' tekur til ljóss og sannleika saman."
+    }
+  ],
+  "translation": "Sændu ljósi þínu og sannleika þínum — þau skulu leiða mig, þau færa mig til fjalls heilagleika þíns og til Misjkana þinna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/43\/1-4.1792409750413.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Sændu"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ljósi þínu"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "og sannleika þínum"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þau"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "skulu leiða mig"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "færa mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הר",
+      "gloss": "fjalls"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "heilagleika þíns"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Misjkana þinna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:50.414589967Z",
+  "model": "glm-5.3"
+}

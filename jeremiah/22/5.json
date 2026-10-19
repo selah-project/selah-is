@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hornklofar og bandstrik um orð norsuðu — hebreskan hefur engin slík"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בי נשבעתי",
+      "rationale": "„Fyrir mér sjálfum hef ég svarið“ — hebreskt eiðsvörn „í mér“; Jahve sér engan æðra til að sverja við"
+    },
+    {
+      "kind": "you",
+      "subject": "konungshúsi Júda",
+      "rationale": "Skilyrt viðvörun beint til konungsættarinnar í Jerúsalem"
+    }
+  ],
+  "translation": "En ef þið heyrið ekki ⟨את⟩ þessi orð — fyrir mér sjálfum hef ég svarið, segir Jahve — að þetta hús skal verða að auðn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7659308ea3c4c45316df6ee9f47188b8e136340c2c1f6690740a94f93200b579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/22\/5-8.1792405767840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "þið heyrið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessi orð"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "orð"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "fyrir mig sjálfan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "hef ég svarið"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "að auðn"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal verða"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsið"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:27.841329518Z",
+  "model": "glm-5.3"
+}

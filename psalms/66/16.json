@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to all who fear God",
+      "rationale": "Tvö boðorð — komið, heyrið — lýða til hlýðnenda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er lífskraftur, ekki sála í sókrateskum skilningi; 'sálu' hér sem næsta íslenska orð."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenskan þarf hjáspennna fyrir framtíðarmergingu ואספרה."
+    }
+  ],
+  "translation": "Komið, heyrið, allir þið sem óttist Elóhím, og eg ⟨er⟩ að segja það sem hann gjörði sálu minni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "45dbfafbac456b3bf1cb1b9ccd695c2581a08a67c4ef759dcc6e6f75238f92aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/66\/16-16.1792416922001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Komið"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "heyrið"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "og eg ⟨er⟩ að segja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "þið sem óttist"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann gjörði"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sálu minni"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:22.001629076Z",
+  "model": "glm-5.3"
+}

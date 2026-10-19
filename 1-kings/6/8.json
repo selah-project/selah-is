@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בלולים",
+      "rationale": "'vindingastig' kemur aðeins fyrir hér í Tanakh — spíralsstigar í hliðarvegg Musterisins."
+    },
+    {
+      "kind": "crux",
+      "subject": "התיכנה",
+      "rationale": "JPS les 'neðstu' (miðja í röð þriggja), aðrir lesa 'miðju' — hvar op varð að vera ræðst af því."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כתף",
+      "rationale": "bókstaflega 'öxl' hússins — hlið þess, myndrænt líkami í musterislýsingu."
+    }
+  ],
+  "translation": "Op hliðarherbergis hinnar neðstu hæðar var á hægri öxl hússins, og með vindingastigum stigu ⟨þeir⟩ upp á miðju hæðina, og frá miðju hæðinni upp á þriðju.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "341029db1ea5f49a105a424c2b55d1b3d8ff8009e318b7bf18688bd303a8dd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/6\/5-8.1792402097725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Op"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "hliðarherbergis"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "miðju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "var á"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "öxl"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "hægri"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "og með vindingastigum"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "stigu þeir upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "miðju hæðina"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og frá"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "miðju hæðinni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upp á"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "þriðju"
+    }
+  ],
+  "timestamp": "2026-10-19T09:28:17.726568952Z",
+  "model": "glm-5.3"
+}

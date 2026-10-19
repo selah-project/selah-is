@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמר",
+      "rationale": "'orð\/loforð' — hebreska orðið er hlutlaust 'mál', þýðendur lesa 'loforð' af samhengi"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "spurning beint til Elóhíms í harmakvæðinu"
+    }
+  ],
+  "translation": "Er khesed hans horfið að eilífu? Er orð hans úttaft fyrir kynslóð og kynslóð?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d4b3d2e99f2d2b57edd740449bc57f0279cafcba5428c4109c3e96397acfc9a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/77\/9-12.1792410168747.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "er horfið"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "er úttaft"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "fyrir kynslóð"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "og kynslóð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:48.747920322Z",
+  "model": "glm-5.3"
+}

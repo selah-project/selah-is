@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Forsögn יצוה hefur ekki nafnfrumlag í hebresku; 'Elóhím' er skilið úr samhengi."
+    }
+  ],
+  "translation": "Því að englum sínum mun hann banna varða yfir þér, að gæta þér á öllum vegum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/91\/9-12.1792410423346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "englum sínum"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "mun hann banna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yfir þér"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "að gæta þér"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "á öllum"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "vegum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:03.347610017Z",
+  "model": "glm-5.3"
+}

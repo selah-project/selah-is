@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי קרת",
+      "rationale": "Orðrétt „munni borgarinnar“ — myndrænt um inngang borgarinnar, ekki líffæri."
+    },
+    {
+      "kind": "addition",
+      "subject": "hún",
+      "rationale": "Fornafnið er ekki í hebreskunni en kvenkyns frumlag (viskan) gerir það ljóst."
+    }
+  ],
+  "translation": "Við hliðarnar, við munn borgarinnar, inngang dyrranna, hrópar hún hátt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/8\/1-4.1792411267681.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "við hliðina á"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "hliðarnar"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "við munn"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "borgarinnar"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "inngang"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "dyrranna"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "hrópar hún hátt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:07.682244444Z",
+  "model": "glm-5.3"
+}

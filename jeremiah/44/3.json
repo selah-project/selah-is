@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 44:3",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Fyrri אשר fellur saman við bragðs settningarfyrirkomulags íslensku — 'þeim sem' tekð við"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "מפני ' af andliti' — orðaleikur við lýsingarmynd 'að fara andliti í andliti' gefinn upp sem 'vegna'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hvor' — hvorki...né tilfært til að gera nefnduna skýra"
+    }
+  ],
+  "translation": "Vegna illsku þeirra sem þeir unnu, til að æsta mig, að fara að reykja lykt og að þjóna öðrum guðum — þeim sem hvorki þér né feður yðar þekktu —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5042dcbe78e1f0e87495c8bfc6012e011c02c044eae62e6c5a3f1d64714bf568",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/44\/1-4.1792406482702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Vegna"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "illsku þeirra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "þeir unnu"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "til að æsta mig"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "að fara"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "að reykja lykt"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "að þjóna"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "þekktu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ואבתיכם",
+      "gloss": "né feður yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:41:22.704234632Z",
+  "model": "glm-5.3"
+}

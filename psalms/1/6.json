@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יודע",
+      "rationale": "'þekkir' (yada) getur merkt 'þekkir og varðveitir' — JPS segir 'regardeth', BSB 'guards'; sagnirin sjálf er 'að þekkja'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תאבד",
+      "rationale": "áved merkir bókstaflega 'að villast burt, glatast' — 'fara til fundar við' væri of þýtt; 'glötast' heldur myndinni."
+    }
+  ],
+  "translation": "Því að Jahve þekkir veg hins réttláta, en vegur réttlátra-óvina mun glötast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/1\/5-6.1792409168475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "þekkir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "veg"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "hins réttláta"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "en vegur"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "réttlátra-óvina"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mun glötast"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:08.476698137Z",
+  "model": "glm-5.3"
+}

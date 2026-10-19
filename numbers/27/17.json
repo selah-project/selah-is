@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 27:17",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יצא\/יוציאם · יבא\/יביאם",
+      "rationale": "Fjórföld endurtekning út\/inn — ganga fyrir og leiða — rytmísk festing sem glatar öðruvísi á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כצאן",
+      "rationale": "צאן er sauðfé og geitur saman, ekki 'fé' eitt (sauðfé) samkvæmt dýrataflunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Íslenska þarf samtengingu 'sem' sem hebreska hefur í אשר; merkt ⟨sem⟩."
+    }
+  ],
+  "translation": "sá er fer út fyrir þá og sá er kemr inn fyrir þá, sá er leiðir þá út og sér inn, svo að söfnuður Jahve verði ekki eins og sauðfé og geitur ⟨sem⟩ ekki hafa hirði.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e4c81f34a54fb2c02c5121486f7f60459112c71d9e825cc9ceee6aee9942d653",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/27\/17-20.1792397279328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fer út"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fyrir þá"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og sá er"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kemr inn"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "fyrir þá"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og sá er"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "leiðir þá út"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og sá er"
+    },
+    {
+      "surface": "יביאם",
+      "gloss": "sér inn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "verði"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "söfnuður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "eins og sauðfé og geitur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sem⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "hirðir"
+    }
+  ],
+  "timestamp": "2026-10-19T08:07:59.329492084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 5:25",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויזנו",
+      "rationale": "Tygðu 'drógu fram hjónabrot' — hebreska myndin er bókstaflega 'ho ruðust', myndatók um trúleysi gagnvart Elóhím."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guði",
+      "rationale": "`אלהי עמי הארץ` er um guði þjóðanna — lágstafa 'guði', ekki Elóhím, samkvæmt D1."
+    },
+    {
+      "kind": "substitution",
+      "subject": "brutu trúnað",
+      "rationale": "`וימעלו` merkir bókstaflega að breiða yfir, gera í laumi — rangi fram hjá sáttmálanum."
+    }
+  ],
+  "translation": "Og þeir brutu trúnað við Elóhím feðra sinna og drógu fram hjónabrot á eftir guði þjóðanna í landinu, þeim er Elóhím hafði eytt frá ásjónu þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ce93ec6aad8cb122f665ee3a4d7668fbd661af3052938f22cc2120b1849a9913",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/5\/25-28.1792414511998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "brutu þeir trúnað"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "við Elóhím"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "feðra sinna"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "drógu þeir fram hjónabrot"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "á eftir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guði"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "í landinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeim er"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "hafði eytt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "frá ásjónu þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:55:11.998755119Z",
+  "model": "glm-5.3"
+}

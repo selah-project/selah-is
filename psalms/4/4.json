@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesid-maður",
+      "rationale": "חסיד er khesed-orð (rétttrúaður, hinn miskunnsami); endurgreint með rótina khesed en ekki „heilagur maður“."
+    },
+    {
+      "kind": "crux",
+      "subject": "הפלה יהוה חסיד לו",
+      "rationale": "„Jahve hefur aðskilið khesid-manninn til sín“ — aðrar lesningar: „Jahve gerði undur við khesid-sinn“ (Wycliffe) eða „ákvað aðgreina hinn rétttrúaða“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ... יהוה",
+      "rationale": "Nafnið Jahve endurtekið í versinu — rammi kringum loforðið um að heyra bænina."
+    }
+  ],
+  "translation": "Og vitið að Jahve hefur aðskilið khesid-manninn sinn til sín; Jahve mun heyr'a þegar ég kalla til hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/4\/1-4.1792409236087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "og vitið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "hefur aðskilið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "khesid-manninn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til sín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mun heyr'a"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "þegar ég kalla"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:16.089061485Z",
+  "model": "glm-5.3"
+}

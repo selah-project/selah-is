@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeim",
+      "rationale": "Fornafnið „þeim“ bætt við í ⟨…⟩ til að greina höfnarsagnaþáttinn"
+    },
+    {
+      "kind": "idiom",
+      "subject": "דבק",
+      "rationale": "„Halda fast við“ — myndlíkin „límast“\/„klístra sig“ við syndirnar"
+    }
+  ],
+  "translation": "Aðeins að syndum Jeróbeam, sonar Nevat, er hann lét Ísrael ⟨את⟩ synda, hélt hann fast; hann sneri sér ekki frá ⟨þeim⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/3\/1-4.1792402843726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Aðeins"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "að syndum"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeróbeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "lét ... synda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "hélt hann fast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "sneri sér frá"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "frá ⟨þeim⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:43.727313933Z",
+  "model": "glm-5.3"
+}

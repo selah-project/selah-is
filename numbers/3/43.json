@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 3:43",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "talan 22.273 — hér sögð áfram með heilum orðum, ekki tölustöfum"
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "íslenskan þarf formlegt þolmyndar-frumlag sem hebreskan lætur liggja í sagnmyndinni"
+    },
+    {
+      "kind": "crux",
+      "subject": "22.273",
+      "rationale": "talan passar ekki við mannatal Levíta (22.000, v. 39) — mismunurinn 273 skýrir uppkaup í v. 46–48"
+    }
+  ],
+  "translation": "Og allir frumgetnir karlkyns, eftir tali nafna, frá eins mánaðar aldri og upp á við, allir taldir þeirra, urðu ⟨það⟩ tuttugu og tvö þúsund, þrjú hundruð og sjötíu og tveir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ec3b58f0efaa15f7743480dbd88ccc40bbb7774be75c254ea0d79269ebc2a599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/3\/41-44.1792396379878.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og urðu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "frumgetnir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karlkyns"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "eftir tali"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nafna"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "frá eins mánaðar aldri"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mánaðar"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "og upp á við"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "allir taldir þeirra"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuttugu og tvö"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "tuttugu og tvö"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "þrjú"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "sjötíu og tveir"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "þrjú hundruð"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:59.879778224Z",
+  "model": "glm-5.3"
+}

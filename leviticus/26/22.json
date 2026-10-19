@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dýr vallarins",
+      "rationale": "חית השדה er eintala með greini — 'dýr vallarins' sem heild, ekki 'villtu dýrin' fleirtölu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושכלה",
+      "gloss": "Lít. 'mun láta fósturfalla' — um að svipta börnum, en orðið sjálft er um fósturmissi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨er⟩",
+      "rationale": "Forsætisbinding sem hebreskan felur í sagnmyndinni bætt við."
+    }
+  ],
+  "translation": "Og ég mun senda á yður ⟨את⟩ dýr vallarins, og ⟨er⟩ það mun svipta yður afkvæmum og eyða búfénu yðar, og færa yður niður, og vegir yðar munu liggja auðnir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/21-24.1792396249350.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Og ég mun senda"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "á yður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dýr vallarins"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dýr"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "vallarins"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "og mun svipta afkvæmum"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "og eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "búfénu yðar"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "búfénu yðar"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "og færa niður"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "og munu liggja auðnir"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "vegir yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:50:49.351395895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נבראו",
+      "rationale": "Sögn ברא 'skapa' notuð um spádómsorðin — þau eru 'sköpuð' nú, ekki til fyrr."
+    },
+    {
+      "kind": "mystery",
+      "subject": "spádómsorðin",
+      "rationale": "Nýja boðskapurinn var huldur þar til hann var kunngjörður — textinn talar um það sem var leynt."
+    }
+  ],
+  "translation": "Nú eru þau sköpuð og ekki fyrir löngu, og fyrir þennan dag heyrðir þú þau ekki, svo að þú segir ekki: Sjá, ég þekkti þau.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/48\/5-8.1792404732693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "eru þau sköpuð"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "fyrir löngu"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "og fyrir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "þennan dag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "þú heyrðir þau"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að … ekki"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "þú segir"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "ég þekkti þau"
+    }
+  ],
+  "timestamp": "2026-10-19T10:12:12.694523973Z",
+  "model": "glm-5.3"
+}

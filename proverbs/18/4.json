@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur enga sambandslið 'er\/sem' í vöktuðum samlíkingum; íslenskan krefst smáorðs."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Vatnsmyndþráðurinn: מים → נחל → מקור, djúp vatn, vetrarlækur og uppspretta í einni líking."
+    }
+  ],
+  "translation": "Djúp vatn eru orð munnslits mannsins, gýsandi lækur er uppspretta speki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/18\/1-4.1792411457088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "djúp"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orð"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munnslit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "lækur"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "gýsandi"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "uppspretta"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "speki"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:17.089181015Z",
+  "model": "glm-5.3"
+}

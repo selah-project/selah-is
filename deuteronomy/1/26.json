@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "'Gera uppreisn gegn munni' — hebreska myndin תמרו את פי er þýdd á íslenska framhjásmáli; margar þýðingar mýkja hana í 'gegn boðorði'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Móse talar beint til Ísraels (þér\/ferðuð)"
+    }
+  ],
+  "translation": "En þér vilduð ekki fara upp, og þér gerðu uppreisn gegn ⟨את⟩ munni Jahve Elóhím yðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "48b94d0c530c9153dd626acbc65bfd49b575b7097124b0dd708cea1861387080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/25-28.1792397619536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En ... ekki"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "þér vilduð"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "fara upp"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "og þér gerðu uppreisn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munni"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:13:39.537796811Z",
+  "model": "glm-5.3"
+}

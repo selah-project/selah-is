@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 22:18",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jehójakím konungi Júda",
+      "rationale": "orð Jahve beinast að konunginum — ekki ávarp, heldur dómur yfir hann"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'minn' og 'hans' bætt við — gratyrðinn gefur ekki kyn eða persónu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elision: כה",
+      "rationale": "כה 'svona' fellur niður í 'Þess vegna segir' — merkimiði ekki nauðsynlegur í íslenskri setningu"
+    }
+  ],
+  "translation": "Þess vegna segir Jahve um Jehójakím, son Jósíju, konung Júda: Þeir munu ekki syrgja hann: Ve, bróðir minn! og ve, systir! Þeir munu ekki syrgja hann: Ve, herra! og ve, mikilleiki hans!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "57e8b7b02a91eebffea8be6a40f3ec6c100fab1a139dfb9a83f6c0de22a0f43e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/22\/17-20.1792405793978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "כה",
+      "gloss": "svona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "um"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehójakím"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jósíju"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יספדו",
+      "gloss": "munu syrgja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bróðir minn"
+    },
+    {
+      "surface": "והוי",
+      "gloss": "og ve"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "systir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יספדו",
+      "gloss": "munu syrgja"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ve"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "herra"
+    },
+    {
+      "surface": "והוי",
+      "gloss": "og ve"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "mikilleiki hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:53.979211056Z",
+  "model": "glm-5.3"
+}

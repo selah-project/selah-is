@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "אִתּוֹ er forsetningin „með“, ekki afmarkunarbeygjan את (H853); hér birt sem ⟨את⟩ samkvæmt reglu verkefnisins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרוע",
+      "rationale": "„Armur“ stendur myndrænt fyrir vald og mátt; hebreskan heldur líkamsmyndinni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה...הנה",
+      "rationale": "Tvöfalt „sjá“ skiptar versinu í tvennt; mótun sem íslenskan varðveitur með endurteknu „sjá“."
+    }
+  ],
+  "translation": "Sjá, Adónaí Jahve kemur með krafti, og armur hans ríður fyrir honum; sjá, laun hans eru með ⟨את⟩ honum, og verk hans fyrir andliti hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/40\/9-12.1792404572874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחזק",
+      "loss": "",
+      "gloss": "með krafti"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "og armur hans"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "ríður fyrir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "laun hans"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "með ⟨את⟩ honum",
+      "marks": "laun hans"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "og verk hans"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir andliti hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:32.875204845Z",
+  "model": "glm-5.3"
+}

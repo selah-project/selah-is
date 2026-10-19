@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "את העם",
+      "rationale": "את hér getur verið forsetningin 'við\/með' (dómr prestanna VIÐ fólkið), ekki fallmerki; gert er ráð fyrir báðum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "משפט merkir hér 'siður\/vanía', ekki 'dómur' í lagalegri merkingu; 'dómr' heldur formi orðsins."
+    }
+  ],
+  "translation": "Og dómr prestanna við ⟨את⟩ fólkið var þannig: hvern þann er slátraði fórslátti kom sveinn prestsins, meðan kjötið var að sjóða, og kjötgafflinn með þremur tönnnum í hönd sinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/13-16.1792400233592.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "Og dómr"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólkið"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvern"
+    },
+    {
+      "surface": "איש",
+      "gloss": "þann mann"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slátraði"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "fórslátt"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "נער",
+      "gloss": "sveinn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prestsins"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "meðan … var að sjóða"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "kjötið"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "og kjötgafflinn"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "þremur"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "tönnnum"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "í hönd sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:13.593792157Z",
+  "model": "glm-5.3"
+}

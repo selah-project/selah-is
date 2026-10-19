@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלם",
+      "rationale": "Salem hljómar eins og shalem, 'friður' — nafn borgarinnar bera frið í hljóði sínu, glatað í íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Eignarfornöfn hans bætast við — hebreskan hefur söguð form."
+    }
+  ],
+  "translation": "Og var í Salem skáli hans, og bústaður hans á Síon.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/76\/1-4.1792410161621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og var"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "í Salem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "skáli hans"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "og bústaður hans"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "á Síon"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:41.622028605Z",
+  "model": "glm-5.3"
+}

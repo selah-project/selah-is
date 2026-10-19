@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 22:22",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "olli",
+      "rationale": "סבתי er bókstaflega „ég hef snúið“ (um hvolfið); „olli“ gefur afleiðinguna en tapar myndinni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er lífskraftur\/andi, ekki ódauðleg sál í síðari merkingu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגד יגיד",
+      "rationale": "Endurtekning sömu rótar (נגד) undirstrikar vissuna — „segja mun hann segja“; íslenskan heldur því aðeins með „örugglega“."
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Fornafnið „hann“ er sett í hornklofa vegna óbeinar ræðu í íslensku."
+    }
+  ],
+  "translation": "Og Davíð sagði Evjatari: Ég vissi þann dag, er Doeg Edómíti var þar, að ⟨hann⟩ mundi örugglega segja Shaúl; ég olli sérhverri sálu í húsi föður þíns.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/22\/21-23.1792400769610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "לאביתר",
+      "gloss": "Evjatari"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ég vissi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "þann dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "שם",
+      "gloss": "var þar"
+    },
+    {
+      "surface": "דויג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edómíti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "mundi örugglega"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "segja"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "סבתי",
+      "gloss": "olli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sérhverri"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:09.611749632Z",
+  "model": "glm-5.3"
+}

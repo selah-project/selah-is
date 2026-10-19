@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 38:20",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Hirah the Adullamite",
+      "rationale": "sending Júda til vinar síns — bein tilvísun í aðra persónu sögunnar"
+    },
+    {
+      "kind": "crux",
+      "subject": "גדי העזים",
+      "rationale": "'geitarkind' — sumar þýðingar segja bara 'kind' en hebreskan tilgreinir geit"
+    }
+  ],
+  "translation": "Og Júda sendi geitarkindina með hendi vinar síns Adúlamítans, til að taka veðið úr hendi konunnar, en hann fann hana ekki.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "36035d04b26f0f84ffc04c212e50a83983a380533ff71c6ee1d376c67c1122a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/38\/17-20.1792393675140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og Júda sendi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "geitarkindina"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kind"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "geitar-"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "með hendi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "vinar síns"
+    },
+    {
+      "surface": "העדלמי",
+      "gloss": "Adúlamítans"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "til að taka"
+    },
+    {
+      "surface": "הערבון",
+      "gloss": "veðið"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "konunnar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "hann fann hana"
+    }
+  ],
+  "timestamp": "2026-10-19T07:07:55.141730119Z",
+  "model": "glm-5.3"
+}

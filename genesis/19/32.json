@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "til yngri dótturinnar",
+      "rationale": "Boðsorðin „Kom, látum …“ ætlað systurinni — hvatning til athæfisins."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונחיה",
+      "rationale": "„Lifa \/ halda lífi í“ gegn „varðveita afkvæmi“ — rótin חיה er orsökin í orðatiltæki sem flestar þýðingar gefa sem „varðveita“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "„Fræ“ bókstaflega; um afkvæmi — mynd rótarinnar varðveitt."
+    }
+  ],
+  "translation": "Kom, látum gefa ⟨את⟩ föður vor vín að drekka, og liggjum með honum, svo að vér varðveitum fræ eftir föður vor.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6ad502ade1fdb4efb1ff85e0c024d0dc15b21e11666a50ad9b7313f5d845efb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/19\/29-32.1792392994093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "látum gefa … að drekka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föður vor"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "föður vor"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vín"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "og liggjum"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "með honum"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "og varðveitum lífi"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "eftir föður vor"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "fræ"
+    }
+  ],
+  "timestamp": "2026-10-19T06:56:34.095429685Z",
+  "model": "glm-5.3"
+}

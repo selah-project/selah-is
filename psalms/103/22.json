@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to his works and to my soul",
+      "rationale": "Double imperative summons closing the psalm, echoing its opening."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sála",
+      "rationale": "נפש is throat\/breath\/life-force; 'sála' is the conventional but imprecise rendering."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו\/ברכי",
+      "rationale": "The plural and feminine-singular imperatives of the same verb frame the psalm's inclusio."
+    }
+  ],
+  "translation": "Blessið Jahve, öll verk hans, í öllum stað ríkis hans; blessið, sála mín, ⟨את⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/21-22.1792410491990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Blessið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "verk hans"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í öllum"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "stað"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ríkis hans"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "blessið"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sála mín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:11.991641730Z",
+  "model": "glm-5.3"
+}

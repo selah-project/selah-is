@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreska spurningin מי אלה hefur enga sögn; íslenskan þarf ⟨eru⟩."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Hverjir eru þessir?",
+      "rationale": "Spurning Jaakobs er vísvitandi dulin — augum lækkar hann og ber nokkuð óvænt, lesandinn veit ekki hvort."
+    }
+  ],
+  "translation": "Og Ísrael sá ⟨את⟩ sonu Jósefs og sagði: Hverjir ⟨eru⟩ þessir?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9e71674377fff5797f7fe843ca9f47a33b9bbb8787d6f59b14acb95a728cd027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/48\/5-8.1792393975365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og Ísrael sá"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonu Jósefs"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefs"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hverjir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:12:55.368714994Z",
+  "model": "glm-5.3"
+}

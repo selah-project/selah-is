@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "Íslenska þarf tengilið fyrir athugunarsetninguna."
+    },
+    {
+      "kind": "mystery",
+      "subject": "undur",
+      "rationale": "נפלאות — þau undur sem enginn annar getur gert, hann einn."
+    }
+  ],
+  "translation": "Lofaður sé Jahve Elóhím, Elóhím Ísraels, sá ⟨sem⟩ gerir undur, hann einn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/72\/17-20.1792410109366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Lofaður sé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gerir"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "undur"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "hann einn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:49.367453359Z",
+  "model": "glm-5.3"
+}

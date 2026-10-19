@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "kvernsteininum",
+      "rationale": "תחתית er 'hin neðri' — kvernsteinninn er ekki í hebreskunni, bætt við til skýringar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצק\/יצוק",
+      "rationale": "sama rót tvívegis — 'steypt ... steypið' — endurtekningin varðveitt"
+    }
+  ],
+  "translation": "Hjarta hans er steypt sem steinn, og steypið sem sneið af neðri kvernsteininum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/41\/13-16.1792412559104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "hjarta hans"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "er steypt"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "steinn"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "og steypið"
+    },
+    {
+      "surface": "komo",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "sneið af neðri kvernsteininum"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "neðri"
+    }
+  ],
+  "timestamp": "2026-10-19T12:22:39.105880586Z",
+  "model": "glm-5.3"
+}

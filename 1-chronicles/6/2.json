@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan inniheldur ekki sögn — „eru“ bætt við á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "Gershon\/Gershom",
+      "rationale": "KJs-þýðingar (KJV\/ASV) eiga hér „synir Kehat“ samkvæmt heimildinni, en hebreska textinn segir Gershon — hebreskan fylgt."
+    }
+  ],
+  "translation": "Og þetta eru nöfn synja Gershon: Livní og Shimí.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/6\/1-4.1792414544566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "eru nöfn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synja"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Livní"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "og Shimí"
+    }
+  ],
+  "timestamp": "2026-10-19T12:55:44.567456937Z",
+  "model": "glm-5.3"
+}

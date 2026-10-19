@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישפילנה ישפילה",
+      "rationale": "Tvöföld endurtekning á sögninni 'lækka' gefur fallið þunga; íslenskan heldur henni með 'niður, niður'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'þá' er sett í sviga — hebreskan segir aðeins 'íbúar hæðarinnar'"
+    }
+  ],
+  "translation": "Því að hann lækkaði ⟨þá⟩ sem búa á hæðinni, borgina háu; hann lækkar hana niður, niður til jarðar, hann lætur hana ná niður til ryks.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/26\/5-8.1792404144576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "השח",
+      "gloss": "lækkaði"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "þeim sem búa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "á hæðinni"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "borgina"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "há"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "hann lækkar hana niður"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "niður"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðar"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "hann lætur hana ná"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ryks"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:24.576892616Z",
+  "model": "glm-5.3"
+}

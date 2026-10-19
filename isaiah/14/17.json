@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביתה",
+      "rationale": "'húsið fanga hans' — væntanlega fangelsi; sumir þýða 'leysti fanga sína ekki heim til sín' (ASV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תבל",
+      "rationale": "תבל er 'heimurinn, kringlótti heimurinn' — ekki almenn 'jörð'."
+    }
+  ],
+  "translation": "sem setti heiminn eins og óbyggð og raserði borgir hans, fanga sinna opnaði hann ekki húsið.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "71d11119127fecaec6646c572384b9e0984fe1e431b40b704d63725d6b978e2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/14\/17-20.1792403940300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "setti"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "heiminn"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "eins og óbyggð"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "og borgir hans"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "raserði"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "fanga sinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opnaði"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "húsið"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:00.300896454Z",
+  "model": "glm-5.3"
+}

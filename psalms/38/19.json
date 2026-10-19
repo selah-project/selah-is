@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "מחטאתי er forsetningartengt („frá synd minni“); íslenskan þarf „vegna“"
+    }
+  ],
+  "translation": "Því að misgerð mína mun ég tjá, ég er kvíðin vegna syndar minnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d954a58a54416204c23289af948db0e99fbb5301072797684a157a87bef74eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/19-20.1792416927725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "misgerð mína"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mun ég tjá"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ég er kvíðin"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "vegna syndar minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:27.726046084Z",
+  "model": "glm-5.3"
+}

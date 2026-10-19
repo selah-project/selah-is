@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Lokatölvan „fimm“ telur alla sonu Jehúda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tengdóttir",
+      "rationale": "כלה er brúður\/makahúsa synjar — „tengdóttir“ nær sambandinu í íslensku."
+    }
+  ],
+  "translation": "Og Tamar, tengdóttir hans, ól honum ⟨את⟩ Peres og ⟨את⟩ Zerakh. Alls synir Jehúda fimm.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7992844fe8275e20f92f59a8ab6cef3eda2098ca62b4f832102ccab180f599b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/2\/1-4.1792414446029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Og Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "tengdóttir hans"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ól"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peres"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Zerakh"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerakh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alls"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fimm"
+    }
+  ],
+  "timestamp": "2026-10-19T12:54:06.031109498Z",
+  "model": "glm-5.3"
+}

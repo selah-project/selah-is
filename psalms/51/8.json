@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nýru",
+      "rationale": "בטחות er nýrun — sæti innstu tilhugsana á hebresku; 'innri vera' týnir líkamsmyndinni."
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתם",
+      "rationale": "Rótin er að stífla eða fela — spekin er kennd í földuðum, hulinum stað."
+    },
+    {
+      "kind": "you",
+      "subject": "to God",
+      "rationale": "Beint ávarp til Jahve um hvað hann löngast eftir og kennir."
+    }
+  ],
+  "translation": "Sjá, sannleika hefur þú löngast eftir í innri veru, og í því földaða munt þú kunngera mér speki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/5-8.1792409866355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleika"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "hefur þú löngast eftir"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "í innri veru"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "og í því földaða"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "speki"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "munt þú kunngera mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:46.356445263Z",
+  "model": "glm-5.3"
+}

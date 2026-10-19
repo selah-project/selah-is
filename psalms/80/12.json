@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "קצירה 'skera af' — KJV 'greinar' með YLT 'sprota'; orðið tengist uppskeru"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "víðátta víðarins mæld í landfræðilegum markmítum: hafið (Miðjarðarhaf) og fljótið (Evfrat)"
+    }
+  ],
+  "translation": "Hún sendi sprota sína til hafsins og síðkvisla sína til fljótsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/80\/9-12.1792410259383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Hún sendi"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "sprota sína"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "ים",
+      "gloss": "hafsins"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "fljótsins"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "síðkvisla sína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:19.384058717Z",
+  "model": "glm-5.3"
+}

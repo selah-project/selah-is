@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש merkir andardrátt\/lífskraft, ekki sál í grískum skilning; „sál“ hér sem næsta íslenska orð"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו\/הללי",
+      "rationale": "Endurtekning hallel í fleirtolu og eintolu — ætlað hljómfall, varðveitt með Lofið\/Lofi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Náðarorð beint til hlýðenda: Lofið Ja!"
+    }
+  ],
+  "translation": "Lofið Ja! Lofi, sál mín, ⟨את⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/146\/1-4.1792411059150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lofið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Lofi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:39.151217511Z",
+  "model": "glm-5.3"
+}

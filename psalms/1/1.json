@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska אשרי er upphrópun án sagnar; íslenskan þarf ⟨er⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sæll",
+      "rationale": "אשרי er ítök fleirtölu: „hversu hamingjusöm!“ — flatur eintala í íslensku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלך\/עמד\/ישב",
+      "rationale": "Stigvaxandi mynd: ganga–standa–sitja; fall mannans dýpkar við hvert skref"
+    }
+  ],
+  "translation": "Sæll ⟨er⟩ maðurinn sem ekki gekk í ráðum rangafullda, og á veginum syndara stóð hann ekki, og í seti spottaenda sat hann ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/1\/1-4.1792409254363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sæll"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gekk"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "í ráðum"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rangafullda"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "og á veginum"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stóð"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "og í seti"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "spottaenda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sat"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:34.364166480Z",
+  "model": "glm-5.3"
+}

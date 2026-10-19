@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גהה",
+      "rationale": "orðið er hapax; sum lesa 'lækning' (lyf), aðrir 'heldur lækningu uppi' — 'gerir gott lækningu' heldur báðum þáttum."
+    },
+    {
+      "kind": "hapax",
+      "subject": "גהה",
+      "rationale": "kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח ritað eftir hljóði — andi\/åndrás, ekki eitt íslenskt orð."
+    }
+  ],
+  "translation": "Fagnandi hjarta gerir gott lækningu, en slegin rúakh þurrkar beinin.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a0340a5198c891f57e666575f8d848db113868bbd78eff4185e348cede8b17d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/17\/21-24.1792411401240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "fagnandi"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "gerir gott"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "lækningu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en rúakh"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "slegin"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "þurrkar"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "beinin"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:21.241411507Z",
+  "model": "glm-5.3"
+}

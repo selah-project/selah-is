@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וילך er bókstaflega 'og fór'; sameinað við þjónustuna í eina athöfn"
+    },
+    {
+      "kind": "crux",
+      "subject": "hersveit himinsins",
+      "rationale": "צבא השמים: 'her himinsins' (stjörnur sem her) — einnig lesið sem 'stjörnuher'; myndin af skipulögðu herliði helst"
+    }
+  ],
+  "translation": "og fórnarþjónar öðrum guðum og fellur fram fyrir þeim, og fyrir sólinni eða mánanum eða allri hersveit himinsins, sem ég hef ekki boðið —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ff8cc746b9d505ad8944b16a59a2163d327776bb2f21f60f007502afefc349f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/17\/2-3.1792416499995.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og fórnarþjónar"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "og þjónar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og fellur fram fyrir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "og fyrir sólinni"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "mánanum"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "allri"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hersveit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himinsins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "hef boðið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:28:19.996728883Z",
+  "model": "glm-5.3"
+}

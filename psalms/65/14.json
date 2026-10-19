@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "כרים הצאן: 'hrútar sauðfésins' (YLT 'lambs the flock') á móti 'sauðfé' almennt (KJV) — myndin er hrútur sem klæðir landskapinn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בר er korn á akri, ekki axlagða afurðin; 'korn' heldur víðari merkingunni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "יתרועעו og ישירו — öskur og söngur sem tvítekin ljóðleg hreyfing; íslenskan heldur henni með 'hrópa — syngja'."
+    }
+  ],
+  "translation": "Sauðfésins hrútar klæða ⟨את⟩ beitilöndin, og dalirnir vefjast í korn; þau hrópa fagnandi, já, þau syngja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/65\/13-14.1792409954152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "klæða"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "hrútar"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sauðfésins"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "og dalirnir"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "vefjast í"
+    },
+    {
+      "surface": "בר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "hrópa fagnandi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "já"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "þau syngja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:14.152804802Z",
+  "model": "glm-5.3"
+}

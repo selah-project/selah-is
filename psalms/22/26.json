@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'er' bætt við — hebreskan segir aðeins 'frá þér lofið mitt'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יראיו",
+      "rationale": "'þeir sem óttast hann' — forn gögn skipt milli 'hans' (Jahve) og 'þín' (talinn til biðjandans)"
+    }
+  ],
+  "translation": "Frá ⟨את⟩ þér er lofið mitt, í miklum söfnuði; heit mín greiði ég fyrir framan þá er óttast hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/22\/25-28.1792409444657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "frá ⟨את⟩ þér"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lofið mitt"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "í söfnuði"
+    },
+    {
+      "surface": "רב",
+      "gloss": "miklum"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "heit mín"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "greiði ég"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "fyrir framan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "þá er óttast hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:44.658477820Z",
+  "model": "glm-5.3"
+}

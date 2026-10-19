@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויסת",
+      "rationale": "1Krón 21:1 segir að satan hafi eggjað Davíð; hér er Það Jahve — þýðendur skiptast á að lesa orðið sem virkja eða freista."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Orðið er nefi\/nasir, mynd af reiðinni — 'reiði' heldur merkingu en ekki myndina."
+    },
+    {
+      "kind": "measurement",
+      "subject": "telja Ísrael og Júda",
+      "rationale": "Manntal fyrirskipað — counting as athöfn."
+    }
+  ],
+  "translation": "Og reiði Jahve kviknaði á ný gegn Ísrael, og hann eggjaði Davíð gegn þeim, svo að hann sagði: Far þú og teldu Ísrael og Júda.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/24\/1-4.1792401843600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "kviknaði á ný"
+    },
+    {
+      "surface": "אף",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "brann"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gegn Ísrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "eggjaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "gegn þeim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לך",
+      "gloss": "far þú"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "teldu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Júda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T09:24:03.601125742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "נא er kurteisimynd á undan sagnbili, fellur níður sem merkið ⟨nú⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "framtíðarhjálp orða (mun) bætt við — hebreskan notar bhíngvegarbeygingu"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel\/Jerusalem",
+      "rationale": "Jahve talar beint til áheyrenda vigningarlíkningarinnar: 'kunngera ykkur'"
+    }
+  ],
+  "translation": "Og nú mun ég kunngera ⟨את⟩ ykkur ⟨את⟩ það sem ég geri víngröðum mínum: fjarlægja girðingu hans, og hann mun verða til eyðingar; brjóta múr hans, og hann mun verða til troðnar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/5\/5-8.1792403797529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nú"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "mun ég kunngera"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nú⟩"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "víngröðum mínum"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "fjarlægja"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "girðingu hans"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og hann mun verða"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "til eyðingar"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "brjóta"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "múr hans"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og hann mun verða"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "til troðnar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:56:37.530112074Z",
+  "model": "glm-5.3"
+}

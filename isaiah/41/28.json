@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Neitunin „ekki“ er ekki í hebreskunni — „og þeir skila orði“ stendur eitt; samhengið gerir neitunina ljósa."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Endurteknuð íslensk orð „og enginn“ taka til viðbætts fallorðs („var þar“) sem hebreskan nemur ekki."
+    }
+  ],
+  "translation": "Og ég sá — og enginn mannur var þar, og meðal þessara — og enginn ráðgjafi; og ég spurði þá, en þeir skiluðu ⟨ekki⟩ orði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/25-28.1792404645720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Og ég sá"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mannur"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "og meðal þessara"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ráðgjafi"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "og ég spurði þá"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "og þeir skila"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orði"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:45.721799431Z",
+  "model": "glm-5.3"
+}

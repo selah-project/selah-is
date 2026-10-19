@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זמרו\/זמרה",
+      "rationale": "sönglínuorðið endurtekið — söngur og strengleikur ein orðrót, glatað að hluta í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "knerr",
+      "rationale": "כינור er strengljatfar (lyra), ekki íslensk harpa"
+    }
+  ],
+  "translation": "Syngið fyrir Jahve með knerr, með knerr og rödd söngs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/98\/5-8.1792410512485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Syngið"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "með knerr"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "með knerr"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "og rödd"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "söngs"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:32.485666215Z",
+  "model": "glm-5.3"
+}

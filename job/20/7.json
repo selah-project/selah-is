@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 20:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יאבד",
+      "rationale": "Bókstaflega 'villast og glatast' — 'hverfa' er veikara en glötunin sem orðið ber."
+    },
+    {
+      "kind": "crux",
+      "subject": "כגללו",
+      "rationale": "'Eins og taða hans' — sumir lesa 'eins og eigið safal' (samanburður á óhreinkun), aðrir 'sem taða verður hans að' (framtíðarörlög)."
+    }
+  ],
+  "translation": "Eins og taða hans mun hann að eilífu hverfa; þeir sem litu hann munu segja: Hvar er hann?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "069c16e0745b9e2e5113f2773b6619d3c082ffbf70c966384b9301dc41c53185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/20\/5-8.1792412136810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כגללו",
+      "gloss": "Eins og taða hans"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "mun hverfa"
+    },
+    {
+      "surface": "ראיו",
+      "gloss": "þeir sem litu hann"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "munu segja"
+    },
+    {
+      "surface": "איו",
+      "gloss": "Hvar er hann?"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:36.811032623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 3:15",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hús tanninar",
+      "rationale": "בָּתֵּי הַשֵּׁן er bókstaflega „hús tannarinnar“ — fílabeinshús; myndin af tönninni er varðveitt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית",
+      "rationale": "Orðið „hús“ kemur fyrir fjórum sinnum í einu versi — stífröð sem endar með falli húsanna."
+    }
+  ],
+  "translation": "Og ég mun slá vetrarhúsið á sumarhúsið, og hús tanninar skulu tortíma, og mörg hús skulu eyðast, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ed21941dff667967c348f60471a59a030eb60f87c9bd76e8e2b04e1793724f41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/3\/13-15.1792408284527.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Og ég mun slá"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húsið"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "vetrar-"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húsið"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "sumar-"
+    },
+    {
+      "surface": "ואבדו",
+      "gloss": "og skulu tortíma"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "hús"
+    },
+    {
+      "surface": "השן",
+      "gloss": "tanninar"
+    },
+    {
+      "surface": "וספו",
+      "gloss": "og skulu eyðast"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hús"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mörg"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:24.528974231Z",
+  "model": "glm-5.3"
+}

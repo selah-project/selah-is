@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "v16",
+      "rationale": "BSB les 'smeltandi snjór' (fallandi rennslisvatn), en KJV\/JPS les farvegina dökka af ís með snjó huldan í þeim"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'eru' — hebreskan lýtur ekki nafnsgreiningu með sagnorði"
+    }
+  ],
+  "translation": "Þeir eru myrkir af ís, yfir þeim hylur snjórinn sig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7665eb970d936697d2efdc8f58bccb52f03f1e3817489fc99181d93b2a7e3284",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/6\/13-16.1792411865419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "Þeir eru myrkir"
+    },
+    {
+      "surface": "מני",
+      "gloss": "af"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ís"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "yfir þeim"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "hylur sig"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snjórinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:05.420349946Z",
+  "model": "glm-5.3"
+}

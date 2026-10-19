@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חרנה",
+      "rationale": "Staðarendingin -ה (he-locale) fellur brot; \"til Kharans\" gefur áttina sem endingin ber."
+    }
+  ],
+  "translation": "Og Jaakov fór út frá Beer-Sheba og gekk til Kharans.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "21fc7755373c638033cd02844917e04d96be732a48242a722026efd8f4952ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/28\/9-12.1792393256462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "fór út"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "frá Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gekk"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "til Kharans"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:56.462838852Z",
+  "model": "glm-5.3"
+}

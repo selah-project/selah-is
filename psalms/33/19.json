@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nánast 'lífsandi\/önd', ekki ódauðleg sál í grískum skilningi"
+    }
+  ],
+  "translation": "Til að birta sál þeirra frá dauða og halda þeim á lífi í hungursneyð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/33\/17-20.1792409613694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "til að birta"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "frá dauða"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sál þeirra"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "og halda þeim á lífi"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "í hungursneyð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:33.695273397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשעים\/צדיקים",
+      "rationale": "Spennan réttlátir-óvinir gegn tsedek-fólkinu fest rótina צדק (tsedek) gegn רשע — endurtekin tvenna í salvage sálminum."
+    },
+    {
+      "kind": "crux",
+      "subject": "יקמו",
+      "rationale": "'rísa (upp)' vs 'standast\/þola dómin' — margar þýðingar segja 'standast ekki dómin' en sagnir qum er 'rísa'."
+    }
+  ],
+  "translation": "Þess vegna munu réttlátir-óvinir ekki rísa upp í dóminum, né gjörningamenn ⟨í⟩ söfnuði tsedek-fólksins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/1\/5-6.1792409168475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "rísa upp"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "réttlátir-óvinir"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "í dóminum"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "né gjörningamenn"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "⟨í⟩ söfnuði"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsedek-fólksins"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:08.476466524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפניהם",
+      "rationale": "Bókstaflega 'fyrir andlit þeirra'; íslenska: 'andlit þeirra' sem hlutur ótta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם",
+      "rationale": "'ת<Client>' merkir vættarorð; 'segir' er notuð samkvæmt reglu D3."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Bönn og hughrist í bréfi til Jeremía: 'Óttast ekki'."
+    }
+  ],
+  "translation": "Óttast þú ekki andlit þeirra, því að ég er ⟨את⟩ með þér til að bjarga þér, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/1\/5-8.1792405180668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Óttast þú ekki"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Óttast þú ekki"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "andlit þeirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ með þér"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "til að bjarga þér"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:19:40.669808423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 21:34",
+  "book": "job",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "hebreska הבל er „andvari, tómeitin“ — hér „vörublaði“ sem andstæða traustrar"
+    },
+    {
+      "kind": "you",
+      "subject": "to the three friends",
+      "rationale": "Jób snýr sér beint að vinum með spurningarorðinu „hvernig“"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מעל",
+      "rationale": "מעל getur merkt „svik\/fals“ eða „vantrú“ — JPS velur „faithlessness“"
+    }
+  ],
+  "translation": "Og hvernig tröstist þið mig með vörublaði? Svarið ykkar eftir stendur svik.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7785c4d2a7ee641a0d38ece0f1796f8f15f10fe093a2c1e81d5e50be63f587fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/21\/33-34.1792412102640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "og hvernig"
+    },
+    {
+      "surface": "תנחמוני",
+      "gloss": "tröstist þið mig"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "með vörublaði"
+    },
+    {
+      "surface": "ותשובתיכם",
+      "gloss": "svarið ykkar"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "eftir stendur"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "svik"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:02.640736317Z",
+  "model": "glm-5.3"
+}

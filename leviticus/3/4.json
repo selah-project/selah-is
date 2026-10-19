@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היתרת",
+      "rationale": "'flipi\/blað á lifur' — 'caul' KJB vs 'lobe' JPS; hebreska orðið er 'það sem stingur út'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כסלים rótin merkir 'feitni', lendingin sem mest fita situr á — 'lendir' heldur staðsetningunni en ekki feitan"
+    }
+  ],
+  "translation": "Og ⟨את⟩ báðum nýrunum og ⟨את⟩ fitunni sem er á þeim, sem er á lendum, og ⟨את⟩ flipanum á lifrinni — ásamt nýrunum skal hann fjarlægja hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "3bba28306a52eec2db1ebbbd3645931648e80204eacb9d8f139da4f597db29b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/3\/1-4.1792395407415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "báðum nýrunum"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "báðum"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nýrunum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fitunni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fitunni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "er á þeim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "er á"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lendum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "flipanum"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "flipanum"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lifrinni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ásamt"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "nýrunum"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "skal hann fjarlægja hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:47.416928151Z",
+  "model": "glm-5.3"
+}

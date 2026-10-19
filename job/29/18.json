@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 29:18",
+  "book": "job",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sandinn",
+      "rationale": "חול lesið 'sandur' (KJV, ASV) eða sem orðvíxl við 'fönix' (JPS, út frá mótstöðunni í 29:18 — sandur fjölgar ekki dögum)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גוע er bókstaflega 'anda út' — ekki 'deyja' einn"
+    }
+  ],
+  "translation": "Og ég sagði: Með hreiðri mínu skal ég andað út, og eins og sandinum skal ég fjölga dögum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "67b55e43b46e5aea6489b3731ee9f09bc547a38e369050b8a5a71d68d6c0bfd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/29\/17-20.1792412284822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "og ég sagði"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "קני",
+      "gloss": "hreiðri mínu"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "skal ég andað út"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "og eins og sandinum"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "skal ég fjölga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dögum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:04.822719491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fita dáinna dýra",
+      "rationale": "Fitan má notða en ekki eta — bendir til þess að bannið sé át úr sláturfórn, ekki algilt fitubann"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבלה\/טרפה",
+      "rationale": "Samstöðupör: dáið dýr og rifið dýr — tveir óhreinleikakildir teknir saman"
+    }
+  ],
+  "translation": "En fita dýrs sem sjálft dáðist og fita þess sem rifist hefur — má notða til allrar vinnu, en eta skuluð þið hana alls ekki.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6997f06ebb6ef0ec98bec4151f42879a9c7b1c0a22eae5e2b34766e261f3d47a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/7\/21-24.1792395429743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "En fita"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "dýrs sem sjálft dáðist"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "og fita"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "þess sem rifist hefur"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "má notða"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til allrar"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "vinnu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en eta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "skuluð þið hana"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:09.744909821Z",
+  "model": "glm-5.3"
+}

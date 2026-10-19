@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה־פעל",
+      "rationale": "Fyrra: „hvað getur hinn réttláti þá gjört?“ (KJV); seinna: „hvað hefur hinn réttláti gjört?“ (JPS) — hebresku tveir myndir eru nánast eins og eitt orð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "stoðirnar",
+      "rationale": "השתות er stiflpallur, undirstöðu grunns — félég og siðleg stoð, ekki steinar."
+    }
+  ],
+  "translation": "Því að stoðirnar — þegar þær eru brotnar niður, hinn réttláti, hvað hefur hann þá gjört?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/11\/1-4.1792409360502.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "stoðirnar"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "eru brotnar niður"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hinn réttláti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "hefur hann gjört"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:20.503035448Z",
+  "model": "glm-5.3"
+}

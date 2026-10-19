@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אֱהִי",
+      "rationale": "'hvar' (KJV\/ASV) á móti 'ég er' (Geneva; rót אָנֹכִי)"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "spurnarmynd í íslensku krefst 'er ætlaði að' til að gera ויושיעך spurnandi"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "beint ávarp heldur áfram frá v. 9"
+    }
+  ],
+  "translation": "Hvar er nú konungur þinn, er ætlaði að hjálpa þér í öllum bæjum þínum? Og dómarar þinnir, þeir sem þú sagðir: Gef mér konung og höfðingja?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/13\/9-12.1792408176138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "hvar er"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "konungur þinn"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "er ætlaði að hjálpa þér"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í öllum"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "bæjum þínum"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "og dómarar þinnir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir sem"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "þú sagðir"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gef"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "og höfðingja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:09:36.138826811Z",
+  "model": "glm-5.3"
+}

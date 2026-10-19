@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf viðfang í setningunni — „honum“ er bætt við, hebreskan lætur hlutinn óuppgefinn"
+    },
+    {
+      "kind": "crux",
+      "subject": "Jedídía",
+      "rationale": "Nafnið þýðir „elskaður af Ja“ — sumar þýðingar (Wycliffe) þýða nafnið en aðrar halda því óþýddu"
+    }
+  ],
+  "translation": "Og hann sendi ⟨את⟩ honum í hendi Natans spámannsins og kallaði nafn hans Jedídía, vegna Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e4df2acf68517df4f446a3fd0efaafab4d58812b1106f94969726030bcae43c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/25-28.1792401331519.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og hann sendi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hendi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natans"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "spámannsins"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kallaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn hans"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedídía"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T09:15:31.519687142Z",
+  "model": "glm-5.3"
+}

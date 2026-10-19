@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 32:18",
+  "book": "job",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "rúakh er hér eitt orð — andi\/óður\/ándadráttur — ekki skor niður í 'andi' einn samkvæmt D2."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלתי מלים",
+      "rationale": "Sömu rætur: 'fullur' og 'orð' — málfyllið og orðin í samhljómi."
+    }
+  ],
+  "translation": "Því að ég er fullur orða, rúakh kviðar minnar þrýstir á mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8cf0ac026d08a78f98a70a4b55691186cd8b88d31a87859d4846116b87129bed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/32\/17-20.1792412326005.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "ég er fullur"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "orða"
+    },
+    {
+      "surface": "הציקתני",
+      "gloss": "þrýstir á mig"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "kviðar minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:46.006030334Z",
+  "model": "glm-5.3"
+}

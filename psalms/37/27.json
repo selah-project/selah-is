@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þú skalt",
+      "rationale": "nafnháttarformið er ómarkað í hebresku; persónuheiti bætt við á íslensku"
+    },
+    {
+      "kind": "invitation",
+      "subject": "til lesandans",
+      "rationale": "boðsháttur — hvatning: vík, gjör, byggj"
+    }
+  ],
+  "translation": "Vík frá illu og gjör gott, og þú skalt búa að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/25-28.1792409689208.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Vík"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "frá illu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gjör"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "og þú skalt búa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:49.209808291Z",
+  "model": "glm-5.3"
+}

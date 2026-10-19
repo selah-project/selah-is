@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to reader",
+      "rationale": "Vísindin beinast áhlutarlista í ópersónulegri áminningu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "hús bróður þins",
+      "rationale": "Hebreska 'farðu ekki inn í hús' merkir 'leitast ekki til hjálpar hjá'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Áhersluorðið 'skalt þú' bætt við til að mynda íslenska neitunarfyrirmæli"
+    }
+  ],
+  "translation": "Vin þinn og vin föður þins skalt þú ekki yfirgefa, og í hús bróður þins skalt þú ekki fara, á degi óhamrans þins; betra er nágranni nálægur en bróðir fjarskan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/9-12.1792411647663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "Vin þinn"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "og vin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þins"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "skalt þú yfirgefa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "og í hús"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bróður þins"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "skalt þú fara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "óhamrans þins"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "betra er"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nágranni"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nálægur"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "en bróðir"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fjarskan"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:27.663867285Z",
+  "model": "glm-5.3"
+}

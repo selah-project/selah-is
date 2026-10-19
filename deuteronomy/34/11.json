@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 34:11",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þegar um er að ræða",
+      "rationale": "Hebreskan hefur aðeins forsniðið ל- 'að\/um' — íslenska setningin þarf inngang til að tengjast v. 10"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבדיו",
+      "rationale": "'þjónar' heldur lögun hebreskunnar betur en 'embættismenn'"
+    }
+  ],
+  "translation": "Þegar um er að ræða öll táknin og undrin ⟨er⟩ Jahve sendi hann að gjöra í landi Mitsrajím, gegn Paróh og öllum þjónum hans og allri landi hans —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0db6e1526da7621f66aa2c649e33a57a1fae8f6a7fd768fcfdd7abb1c6fdec8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/34\/9-12.1792398685317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "um öll"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "táknin"
+    },
+    {
+      "surface": "והמופתים",
+      "gloss": "og undrin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sendi hann"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "gegn Paróh"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og öllum"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þjónum hans"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og allri"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "landi hans"
+    }
+  ],
+  "timestamp": "2026-10-19T08:31:25.318917290Z",
+  "model": "glm-5.3"
+}

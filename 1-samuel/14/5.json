@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "השן er „tönn“ — klettur formaður eins og tönn; myndin er varðveitt, ekki 'klettur' einn"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versinn staðsetur tveggja kletta með höfuðáttir og landamerkjum"
+    }
+  ],
+  "translation": "Tönnin hvör — súlan hvör — stóð í norðri gagnvart Mikhmas, og hin í suðri gagnvart Gívea.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/5-8.1792400465241.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "tönnin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hin eina"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "súlan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "í norðri"
+    },
+    {
+      "surface": "מול",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "og hin"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "í suðri"
+    },
+    {
+      "surface": "מול",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gívea"
+    }
+  ],
+  "timestamp": "2026-10-19T09:01:05.242080681Z",
+  "model": "glm-5.3"
+}

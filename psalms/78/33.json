@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהבל",
+      "rationale": "'í tómi' (vanitas) eða 'eins og andardrátt' (hevel, eitthvað stuttvarlegt) — JPS velur hið síðarnefnda."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויכל",
+      "rationale": "Getur líka verið ópersónulegt: 'þá enduðu dagar þeirra' — en Elóhím er gerandi í samhenginu."
+    }
+  ],
+  "translation": "Og hann eyddi dagum þeirra í tómi, og árum þeirra í skelfingu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/33-36.1792410241432.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Og hann eyddi"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "í tómi"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "dagum þeirra"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "og árum þeirra"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "í skelfingu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:01.433382040Z",
+  "model": "glm-5.3"
+}

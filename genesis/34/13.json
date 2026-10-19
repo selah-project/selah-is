@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "טמא er Hathínska-ceremoníu-hugtakið 'óhreinka'; 'saurga'held myndinni en ekki algjörlega allegunni"
+    },
+    {
+      "kind": "crux",
+      "subject": "svikum",
+      "rationale": "במרמה — sumar þýðingar setja 'með svikum' fram í setningu, BSB aftur á móti, af því að שכם hefði sjálfur svikið"
+    }
+  ],
+  "translation": "Og synir Jaakov svöruðu ⟨את⟩ Sjekem og ⟨את⟩ Khamor, föður hans, með svikum og töluðu — því að hann hafði saurgað ⟨את⟩ Dína, systur þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "48ee8be64a6bfe91abe09221571ee01a9d29ea9e599cb0366df7dcfc714f1334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/34\/13-16.1792393530791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "svöruðu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Khamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður hans"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "með svikum"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "og töluðu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því að"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "hafði saurgað"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dína"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dína"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "systur þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:05:30.792298405Z",
+  "model": "glm-5.3"
+}

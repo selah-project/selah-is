@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 32:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אמרתי",
+      "rationale": "Orðrétt 'ég sagði' — innri hugsun, því 'hugsaði' á íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימים\/שנים",
+      "rationale": "Samstöðupörin dagar\/ár bera rök Elíhú um aldur sem spekishöfunda."
+    }
+  ],
+  "translation": "Ég hugsaði: Dagarnir tala, og fjöld ára kennir speki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/32\/5-8.1792412343867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ég hugsaði"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Dagarnir"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "og fjöld"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ידיעו",
+      "gloss": "kennir"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "speki"
+    }
+  ],
+  "timestamp": "2026-10-19T12:19:03.868635424Z",
+  "model": "glm-5.3"
+}

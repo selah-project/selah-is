@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נדף\/תנדף",
+      "rationale": "sama rót endurtekin í líkingunni — 'rekinn\/rekið' heldur samtengingunni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hverfa",
+      "rationale": "יאבדו er bókstaflega 'farast, týnast'; 'hverfa' heldur myndinni af reyknum sem hverfur"
+    }
+  ],
+  "translation": "Eins og reykur er rekinn burt, svo sé þeim rekið burt; eins og vax bráðnar fyrir eldi, svo skulu hinir ranglátu hverfa fyrir andliti Elóhím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/1-4.1792410037622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "eins og er rekinn"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "reykur"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "svo sé þeim rekið burt"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "eins og bráðnar"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "vax"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "skulu hverfa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hinir ranglátu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:37.623786113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 4:9",
+  "book": "jonah",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חרה er að glóa\/þenga — reiðin lýsir sem hiti; 'vera reiður' týnir myndinni"
+    },
+    {
+      "kind": "crux",
+      "subject": "hæitiב חרה",
+      "rationale": "'Er þér þess kostur að gleiðast?' — spurning eða fullyrðing; YLT les 'að gera gott óþykki þér'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "קיקיון (kíkajón) kemur aðeins fyrir í Jónasarbók, 4:7–10"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Elóhím talar beint til Jónar"
+    }
+  ],
+  "translation": "Og Elóhím sagði við Jóna: Er vel gott fyrir þig að vera reiður yfir kíkajóninum? Og hann sagði: Gótt er það fyrir mig að vera reiður, allt til dauða.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "66d4c6f21497030f10824e4d916018cd2d47e0ae7967b7a4c22e1e62b8fe2738",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jonah\/4\/9-11.1792408594520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóna"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Er vel gott"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "að vera reiður"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þig"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kíkajóninum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "gótt"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "að vera reiður"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:34.521153708Z",
+  "model": "glm-5.3"
+}

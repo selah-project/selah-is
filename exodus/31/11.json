@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדש",
+      "rationale": "'Heilagstaður' fyrir לקדש — orðið merkir bæði 'helgi' og 'heilagt rúm'."
+    }
+  ],
+  "translation": "og ⟨את** smyrsl*ils ins og ilmreyk kryðsins fyrir heilagstaðinn — samkvæmt öllu því sem ég hef boðið þér skulu þeir gera.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/31\/9-12.1792394952466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "smyrsl*ils ins"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "*ils"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smurnar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilmreyk kryðsins"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ilmreyk"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "kryðs"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "fyrir heilagstaðinn"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "samkvæmt öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ég hef boðið þér"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "skulu þeir gera"
+    }
+  ],
+  "timestamp": "2026-10-19T07:29:12.468490239Z",
+  "model": "glm-5.3"
+}

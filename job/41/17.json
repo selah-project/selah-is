@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 41:17",
+  "book": "job",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "משתו tæk 'hans upphæfing' eða (samtengt fyrra versi) 'framhald hans'; JPS: 'when he raiseth himself up'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "יתחטאו er 'missa mark' en rótin er sömu og 'að gjörast úr héru' — þýðendur skiptast á 'missa móttinn' og 'hreinsa sig (út af ótta)'"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "'allan' bætt við til skýringar — hebreskan segir aðeins 'mött'"
+    }
+  ],
+  "translation": "Af upphæfing sinni hríðast öflungarnir; við brotin missa þeir ⟨allan⟩ mött.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/41\/17-20.1792412578114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משתו",
+      "gloss": "af upphæfing sinni"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "hríðast"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "öflungarnir"
+    },
+    {
+      "surface": "משברים",
+      "gloss": "við brotin"
+    },
+    {
+      "surface": "יתחטאו",
+      "gloss": "missa þeir mött"
+    }
+  ],
+  "timestamp": "2026-10-19T12:22:58.114589278Z",
+  "model": "glm-5.3"
+}

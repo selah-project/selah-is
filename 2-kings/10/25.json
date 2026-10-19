@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 10:25",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "לפי חרב er bókstaflega 'að munn sverðsins', íslenska notar 'egg sverðs' — hér er bókstöfunni haldið"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הרצים 'hlaupararnir' eru konungslífverðir; 'fyrirmenn' fyrir השלישים er hliðstæða við eldri stóla"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "עד עיר בית הבעל: 'til borgarinnar, húss Baals' — BSB les 'innarí herbergis' (עד עיר = hið innra), en stofninn segir borgina"
+    }
+  ],
+  "translation": "Og er hann hafði lokið brennifórninni, sagði Jehú við hlauparana og fyrirmennina: Gakkinn inn, gjörið þá út af, enginn maður skal komast út. Og þeir höggu þá með munn sverðsins, og hlaupararnir og fyrirmennirnir köstuðu ⟨þeim⟩ út, og fóru til borgarinnar, húss Baals.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/10\/25-28.1792403002318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og er"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "hann hafði lokið"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að fremja"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brennifórnina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "לרצים",
+      "gloss": "við hlauparana"
+    },
+    {
+      "surface": "ולשלשים",
+      "gloss": "og fyrirmennina"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Gakkinn inn"
+    },
+    {
+      "surface": "הכום",
+      "gloss": "gjörið þá út af"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enginn maður"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "skal komast út"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "Og þeir höggu þá"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "með munn"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðsins"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "köstuðu út"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "hlaupararnir"
+    },
+    {
+      "surface": "והשלשים",
+      "gloss": "og fyrirmennirnir"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og fóru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borgarinnar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baals"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:22.318831378Z",
+  "model": "glm-5.3"
+}

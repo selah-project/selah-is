@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 17:2",
+  "book": "job",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "„ef ekki“ — hebresk útgangsspurning, látin búa í textanum"
+    },
+    {
+      "kind": "crux",
+      "subject": "תלן",
+      "rationale": "מלון (að gista) um augað — „auga mitt gistir“ gegn „auga mitt dvelur“ hjá flestum þýðendum"
+    }
+  ],
+  "translation": "Ef ekki — háðganir eru hjá mér, og í bitru þrautum þeirra gistir auga mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2248aa7a076023bb4c064b517bc6ae11562bd355c3d0846e2c5431ac87dab4ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/17\/1-4.1792412087680.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "התלים",
+      "gloss": "háðganir"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "hjá mér"
+    },
+    {
+      "surface": "ובהמרותם",
+      "gloss": "í bitru þrautum þeirra"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "gistir"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "auga mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:14:47.681240427Z",
+  "model": "glm-5.3"
+}

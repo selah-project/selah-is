@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 29:25",
+  "book": "job",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbeyging í þriðju persónu (huggar) krefst frumlags sem hebreskan gefur í samhenginu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחם",
+      "rationale": "נחם er að draga andardrátt, andvarpa — hugga er gleggsta þýðing hér en orðið hefur víðara merkingarsvið"
+    },
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "sat höfuð — sumir lesa rétt eins og í KJV 'sat chief', aðrir segja að ראש þýði hér yfirhöndina"
+    }
+  ],
+  "translation": "Ég valdi ⟨את⟩ veg þeirra og sat ⟨sem⟩ höfuð og bjóst sem konungur meðal hersveitarinnar, sem huggari þeira er sorgmjúkir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "228e0541f8f1f0a02df662d41fa46af3a3ba36f0012bd0d2cbfbb7abc2f1b041",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/29\/25-25.1792412265423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבחר",
+      "gloss": "Ég valdi"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "veg þeirra"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "og sat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "ואשכון",
+      "gloss": "og bjóst"
+    },
+    {
+      "surface": "כמלך",
+      "gloss": "sem konungur"
+    },
+    {
+      "surface": "בגדוד",
+      "gloss": "meðal hersveitarinnar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "sorgmjúkir"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "huggar þá"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:45.424116992Z",
+  "model": "glm-5.3"
+}

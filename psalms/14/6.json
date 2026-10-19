@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תבישו",
+      "rationale": "„skömmuðuð“ eða „gjörðuð að drifum“ (ylt: „cause to stink“) — báðar þýðingar בושׁ"
+    },
+    {
+      "kind": "addition",
+      "subject": "hans",
+      "rationale": "fornafnsáðili sem hebreska endingin -הוּ ber"
+    }
+  ],
+  "translation": "Þér gjörðuð ráð ⟨hins⟩ fátæka að skammarhlut, því Jahve er skjól ⟨hans⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/14\/5-7.1792409312034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "ráð"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hins fátæka"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "gjörðuð að skammarhlut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "er skjól hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:32.035401573Z",
+  "model": "glm-5.3"
+}

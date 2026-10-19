@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 24:25",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er kunnáttu- og lífsáferð, ekki ósýnileg sál; 'sál' er víða venjulegt en þekkir ekki mynd hebreskunnar."
+    },
+    {
+      "kind": "crux",
+      "subject": "משא נפשם",
+      "rationale": "'byrði sálar þeirra' vs. 'það sem sálin þráir' (KJV 'whereupon they set their minds') vs. YLT 'söng sálarinnar'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Spurningarmörk og 'er það' bætt við fyrir הלוא sem lokar setningu sem spurningu."
+    }
+  ],
+  "translation": "Og þú, mannssonur, er það ekki á þeim degi er ég tek frá þeim ⟨את⟩ vígi þeirra, fegnð prýði þeirra, ⟨את⟩ girnd augna þeirra og ⟨את⟩ byrði sálar þeirra, syni þeirra og dætur þeirra?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "aee37606ced6680217e51216b957dfb27a704d1575e3d6e77ea11b2c74cfe485",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/24\/25-27.1792407323569.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og þú"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manns"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "er það ekki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á þeim degi"
+    },
+    {
+      "surface": "קחתי",
+      "gloss": "tek ég"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "frá þeim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vígi þeirra"
+    },
+    {
+      "surface": "מעוזם",
+      "gloss": "vígi þeirra"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "fegnð"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "prýði þeirra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "girnd augna þeirra"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "girnd"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "augna þeirra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "byrði sálar þeirra"
+    },
+    {
+      "surface": "משא",
+      "gloss": "byrði"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sálar þeirra"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "synir þeirra"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "og dætur þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:55:23.569728413Z",
+  "model": "glm-5.3"
+}

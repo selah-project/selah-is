@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins 'stíg' fremst — 'sem' bætt við á íslensku."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שזפתו",
+      "rationale": "שזף (að skoða, lita sem af sólargeisla) kemur aðeins hér fyrir í Tanakh."
+    },
+    {
+      "kind": "mystery",
+      "subject": "stígurinn",
+      "rationale": "Versið heldur fram felldum vegi sem hvorki fugl né auga kemst að — myrkur loforð um vizkuna sem menn finna ekki."
+    }
+  ],
+  "translation": "Stíg ⟨sem⟩ ránfugl þekkir ekki, og auga hauks hefur ekki skoðað hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9147ba9802cb0b3210d6dcea19f61a8b27cb36fcd1dc79ad2fa931a26fe1671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/28\/6-7.1792417066817.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "stíg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "þekkir"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "ránfugl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "hefur skoðað"
+    },
+    {
+      "surface": "עין",
+      "gloss": "auga"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hauks"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:46.818388002Z",
+  "model": "glm-5.3"
+}

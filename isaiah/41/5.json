@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חרד er að skjálfa af ótta, ekki bara að óttast; 'skulfa' var valið til að halda myndinni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "forskeytið 'þær' er sett til að sýna að eyjarnar og endar jarðar eru þátttakendurnir"
+    }
+  ],
+  "translation": "Sáu eyjarnar og óttuðust, endar jarðar skulfu; þær nálguðust og komu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1dc903695f7053f3f1e8b90fa48511e2e19d713141337230f5c7f827f7143126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/5-8.1792404568357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Sáu"
+    },
+    {
+      "surface": "איים",
+      "gloss": "eyjarnar"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "og óttuðust"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "endar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðar"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "skulfu"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nálguðust"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "og komu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:28.357925890Z",
+  "model": "glm-5.3"
+}

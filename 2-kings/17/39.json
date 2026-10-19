@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "Samsetta neitun כי אם ('heldur en') — אם fellur niður í myndinni '-heldur'"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Beint rætt til lýðsins: aðeins Jahve skal óttast, og hann mun frelsa þá"
+    }
+  ],
+  "translation": "-heldur ⟨את⟩ Jahve, Elóhím ykkar, skuluð þið óttast, og hann mun frelsa ⟨את⟩ ykkur úr hendi allra óvina ykkar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/37-40.1792403287818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "-heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skuluð þið óttast"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "mun frelsa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allra"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ógvina ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:48:07.819238101Z",
+  "model": "glm-5.3"
+}

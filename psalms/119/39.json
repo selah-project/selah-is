@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העבר",
+      "rationale": "Sama sögn og v. 37 — endurtekið bænarefni, veltan „lát líða hjá“ bundur saman vísuna."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יגרתי",
+      "rationale": "Sögnin יגרר é finnst aðeins hér í Tanakh."
+    }
+  ],
+  "translation": "Láttu áburð minn, þann er ég óttast, ⟨að⟩ líða hjá; því að dómar þínir eru góðir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a1f583fa8c5d10e9a2465be7b2973498b24ae4ae21f3a20071c244c9ee4ecd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/37-40.1792410770268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Láttu … líða hjá"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "áburð minn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þann er"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ég óttast"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dómar þínir"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "góðir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:50.268961514Z",
+  "model": "glm-5.3"
+}

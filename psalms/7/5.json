@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואחלצה",
+      "rationale": "'rétt\/herjað úr' — KJV les 'leysa óvininn lausum', JPS 'rændi óvin mínum til tóms'; ívitrunarformið getur verið loforð eða þjáning."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש ekki til staðar",
+      "rationale": "Vers 5 heldur 3. persónu raunarhætti en KJK\/ASV breyta í ósk: hebreskan er oftuleg viðurkenning, ekki bæn."
+    }
+  ],
+  "translation": "Ef ég hef goldið þeim er í friði við mig óþurf, og rétt óvin mínum hjálparlaust, ⟨reiðubjargað⟩ —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/5-8.1792409231773.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "hef ég goldið"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "þeim er í friði við mig"
+    },
+    {
+      "surface": "רע",
+      "gloss": "óþurf"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "og rétt"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "óvin mín"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "hjálparlaust"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:11.774355806Z",
+  "model": "glm-5.3"
+}

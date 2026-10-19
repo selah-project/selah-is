@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálar minnar",
+      "rationale": "נפש er önd\/lífskraftur, ekki ósjálfstæð sál í grískum skilningi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזבתי \/ נטשתי",
+      "rationale": "tvö samstofu sögn um yfirgefna, steward í íslensku með tveimur sögnum"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Jahve talar í fyrstu persónu um Ísrael sem húsið sitt og arfleifð sína"
+    }
+  ],
+  "translation": "Ég hef yfirgefið ⟨את⟩ húsið mitt, ég hef skilið eftir ⟨את⟩ arfleifð mína; ég hef gefið ⟨את⟩ elskaða sálar minnar í lófa óvina hennar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1b39a0cb498921e9d17b21f079a27b849c586bea90d865882401123ef0d9287e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/12\/7-8.1792416764259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "hef ég yfirgefið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "húsið mitt"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "húsið mitt"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "hef ég skilið eftir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arfleifð mína"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "arfleifð mína"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "hef ég gefið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elskaða sálar minnar"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "elskaða"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "í lófa"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "óvina hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:44.260345354Z",
+  "model": "glm-5.3"
+}

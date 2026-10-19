@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 17:37",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framsögnarhættir lagðir til að mynda boðshátt á íslensku, en hebreskan notar framtíðarmynd (תשמרון, תיראו) sem boð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "guði",
+      "rationale": "אלהים hér fleirtala um guði annarra þjóða — ritað með litlum staf, ekki Elóhím"
+    }
+  ],
+  "translation": "Og ⟨את⟩ ákvæðin og ⟨את⟩ dómana, Tóruna og boðið, sem hann skrifaði ykkur, skuluð þið gæta að gera alla daga, og þið skuluð ekki óttast aðra guði.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/37-40.1792403287818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ákvæðin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ákvæðin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dómana"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dómana"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "og Tóruna"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "og boðið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "skrifaði"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "skuluð þið gæta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "skuluð þið óttast"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guði"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "aðra"
+    }
+  ],
+  "timestamp": "2026-10-19T09:48:07.818836201Z",
+  "model": "glm-5.3"
+}

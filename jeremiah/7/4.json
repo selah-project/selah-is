@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אל תבטחו לכם",
+      "rationale": "hebreska segir bókstaflega 'ekki treystið fyrir ykkur'; íslenska notar 'treysta í\/á'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היכל יהוה ×3",
+      "rationale": "þrefaldur endurtekning sem er hróp fólksins í musterinu; fosteringin er lykilatburður kaflans"
+    },
+    {
+      "kind": "crux",
+      "subject": "המה",
+      "rationale": "'eru þessir' — fleirtala vísa bæði til orðanna sjálfra og musterisins; þýðendum skiptar meiningu"
+    }
+  ],
+  "translation": "Treystið ekki ⟨því⟩ sem er í ykkar eigin hag til orðanna sem lygin eru, og segið ekki: Musteri Jahve, musteri Jahve, musteri Jahve — ⟨þetta⟩ eru ⟨þeir⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c08a3ae0e5e7275241ba019f1ce5004e3b1c89172a6d7145828c29977594b657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/7\/1-4.1792405411833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "Treystið"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sjálfum ykkar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orðanna"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "sem lygin eru"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "að segja"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Musteri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "musteri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "musteri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eru þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T10:23:31.834948635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 30:30",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Orðið er 'nef, nefgöt' — reiðin andar í nefgötunum; 'reiði' gerir myndina ósýnilega en er nauðsynleg í íslensku setningarlagi."
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Íslenska þarf frumlag við 'sýna'; hebreskan hefur það í sögninni sjálfri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפץ וזרם",
+      "rationale": "Tveir stormshreyfingar í stafrófsröð — þyrlingur og flóðgush — hrynjandin glatast að hluta á íslensku."
+    }
+  ],
+  "translation": "Og Jahve mun láta heyrast ⟨את⟩ dýrð röddar sinnar, og niðurhald arma síns mun hann sýna, í bræði reiði og loga eyðandi elds, stormi og gustrifi og stein hagls.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/30\/29-32.1792404354164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמיע",
+      "gloss": "mun láta heyrast"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dýrð röddar sinnar"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "dýrð"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "röddar sinnar"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "og niðurhald"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "arma síns"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mun hann sýna"
+    },
+    {
+      "surface": "בזעף",
+      "gloss": "í bræði"
+    },
+    {
+      "surface": "אף",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "og loga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "elds"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "eyðandi"
+    },
+    {
+      "surface": "נפץ",
+      "gloss": "stormi"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "og gustrifi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "stein"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hagls"
+    }
+  ],
+  "timestamp": "2026-10-19T10:05:54.165425799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨ert⟩ bætt við; hebreskan segir 'en þú skjól mitt' án sagnar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "máttur",
+      "rationale": "עז stendur í aukasetningu við 'skjól mitt' — 'vár máttar' eða 'sterkt skjól' eru aðrar lesningar"
+    }
+  ],
+  "translation": "Sem undur varð ég mörgum, en þú ⟨ert⟩ skjól mitt, máttur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/71\/5-8.1792410040725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "Sem undur"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "varð ég"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "mörgum"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en þú"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "skjól mitt"
+    },
+    {
+      "surface": "עז",
+      "gloss": "máttur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:40.726696558Z",
+  "model": "glm-5.3"
+}

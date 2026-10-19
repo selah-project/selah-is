@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתח",
+      "rationale": "\"Opnun\/uppljósun orða þinna“ — sumir lesa „inngangurinn“ (dyr að skilningi), aðrir „túlkunin\/útburðurinn“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פתיים",
+      "rationale": "peti er „hinir opnu\/trúanu“, ekki heimskir heldur óreyndir og snjallir"
+    }
+  ],
+  "translation": "Uppljómun orða þinna lýsir, hún gefur hinum óreyndu skilning.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/129-132.1792410839780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "uppljómun"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "orða þinna"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "lýsir"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "gefur skilning"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "hinum óreyndu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:59.780858397Z",
+  "model": "glm-5.3"
+}

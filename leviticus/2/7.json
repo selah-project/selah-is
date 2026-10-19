@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "מרחשת (pottur) er mjög sjaldgæft orð, flækingar um tiltekna áhöld"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "קרבנך fellur inn í eignarfyllingu í íslensku"
+    }
+  ],
+  "translation": "Og ef minkha þín er úr potti, skal hún gerast af söltu í olíu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/2\/5-8.1792395356287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "potti"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "fórnartilboð þín"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "söltu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "í olíu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skal hún gerast"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:56.288439760Z",
+  "model": "glm-5.3"
+}

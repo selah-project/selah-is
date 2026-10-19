@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 17:4",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השרפים",
+      "rationale": "„þeir brenndu“ — getur verið „þeir sem brunnið höfðu“ (menn Kóra, 4. Mós 16:35) eða lýsing á selunum sjálfum; hebreska láturmyndin leyfir báðar."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Handtökuorðið „höfðu“ er sett inn til að leiðrétta tíð í afnema í íslensku, en hebreskan segir aðeins „borð fram“."
+    }
+  ],
+  "translation": "Og Elasar presturinn tók ⟨את⟩ steikpönnurnar af koprinum, þær er þeir brenndu höfðu borð fram, og þeir slógu þær út í klæðning fyrir altarið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e08ebed8e1f166a2ee705a94025b543256e3be2d55cf15f34927c0adc84244d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/17\/4-4.1792416366673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og ... tók"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "steikpönnurnar af koprinum"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "steikpönnurnar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "af koprinum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þær er"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "höfðu borð fram"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "þeir brenndu"
+    },
+    {
+      "surface": "וירקעום",
+      "gloss": "og þeir slógu þær út"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "í klæðning"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "fyrir altarið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:06.673947831Z",
+  "model": "glm-5.3"
+}

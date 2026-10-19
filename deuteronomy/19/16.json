@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 19:16",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד חמס",
+      "rationale": "YLT heldur 'valdsvitni' (bókstaflega 'vitni ofbeldis'); KJV\/JPS lesa 'falsvitni' — 'fölsk vitni' sett í framhaldið fyrir סרה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סרה",
+      "rationale": "Orðið merkir 'sem vikur af vegi, afvegaleiðing'; 'fölsk vitni' gefur athöfnina en tapar myndinni af að víkja af réttri slóð"
+    }
+  ],
+  "translation": "Þegar valdsvitni rís gegn manni til að bera gegn honum fölsk vitni —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8f6a0ea4794208b51a38e742b8475ace9b0b0704848a0c5043ad29ea8642b1f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/13-16.1792398085810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "rís"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vitni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "valdsvitni"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "gegn manni"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "til að bera"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gegn honum"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "fölsk vitni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:25.811734735Z",
+  "model": "glm-5.3"
+}

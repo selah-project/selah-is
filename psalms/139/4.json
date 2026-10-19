@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "alltogether",
+      "rationale": "Málefnið leiðrétt: 'þú þekkir það alls gjörvallt' — כלה merkir hið fulla og alls"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Víðkvæmt áttun: sjá, Jahve, þú þekkir"
+    }
+  ],
+  "translation": "Því að ekki er orð á tungu minni — sjá, Jahve, þú þekkir það alltogether.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/1-4.1792410977234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki er"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "orð"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "á tungu minni"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "þú þekkir"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "það allt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:17.235271026Z",
+  "model": "glm-5.3"
+}

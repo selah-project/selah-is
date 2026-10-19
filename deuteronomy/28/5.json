@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משארת",
+      "rationale": "deigker (brauðdeigsfat) — KJV 'store' er rangt; orðið er fat þar sem deiginn gerjast."
+    }
+  ],
+  "translation": "Sæll sé karfa þín og deigker þín.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/5-8.1792398354055.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "sæll"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "karfa þín"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "og deigker þín"
+    }
+  ],
+  "timestamp": "2026-10-19T08:25:54.055931767Z",
+  "model": "glm-5.3"
+}

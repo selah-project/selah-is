@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 9:25",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": " Possessive 'hans' eftir þriðjumann er ekki í hebreskunu."
+    },
+    {
+      "kind": "elision",
+      "subject": "שלשה",
+      "rationale": " Orðið merkir 'þriðji maður' (í vagni), hlutverk en ekki titill; formið varðveitt sem 'þriðjumaður'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Bidkar",
+      "rationale": ": Jehú gefur Bidkar skipun í annarri persónu: 'tak upp, kast honum'."
+    }
+  ],
+  "translation": "Og hann sagði við Bidkar, þriðjumann ⟨hans⟩: Tak upp, kast honum í hluta akurs Nabots Jisreelíta; því að manstu, er ég og þú riðum ⟨את⟩ pari eftir Ahab föður hans, og Jahve lagði á hann ⟨את⟩ þessa byrði —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/9\/25-28.1792403125495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "בדקר",
+      "gloss": "Bidkar"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "þriðjumann"
+    },
+    {
+      "surface": "שא",
+      "gloss": "tak upp"
+    },
+    {
+      "surface": "השלכהו",
+      "gloss": "kast honum"
+    },
+    {
+      "surface": "בחלקת",
+      "gloss": "í hluta"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "akurs"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabots"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Jisreelíta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manstu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riðum (tvö saman)"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "riðum"
+    },
+    {
+      "surface": "צמדים",
+      "gloss": "pari"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður hans"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lagði"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessa byrði"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "byrði"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T09:45:25.496377601Z",
+  "model": "glm-5.3"
+}

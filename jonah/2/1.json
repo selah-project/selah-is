@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "þrjá daga og þrjár nætur",
+      "rationale": "ákveðin talning daga og nætta — talan segir það sem hebreskan segir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "útvegaði",
+      "rationale": "וימן er bókstaflega 'vogaði út', þ.e. mældi og úthlutaði — 'útvega' gleymir mynd vigtarinnar"
+    }
+  ],
+  "translation": "Og Jahve útvegaði stóran fisk til að gleypa ⟨את⟩ Jóna, og Jóna var í iðrum fiskisins í þrjá daga og þrjár nætur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jonah\/2\/1-4.1792408578018.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "útvegaði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "fisk"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "stóran"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "til að gleypa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóna"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "í iðrum"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "fiskisins"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "þrjá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "og þrjár"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nætur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:18.019344837Z",
+  "model": "glm-5.3"
+}

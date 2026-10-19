@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אף er nef\/nös, reiðin birtist í ondverðu — 'reiði' er myndlíning sem íslenska deilir"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "אאריך אפי er orðasamband 'gera násið langt', þýtt 'draga út reiði'"
+    }
+  ],
+  "translation": "Vegna nafns míns mun ég draga út reiði mína, og vegna lofs míns mun ég hafa hemjt fyrir þér, til að ég skeri þig ekki burt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/48\/9-12.1792404688566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nafns míns"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "mun ég draga út"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "reiði mína"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "og vegna lofs míns"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "mun ég hafa hemjt"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þér"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "til að ekki"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "skeri þig burt"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:28.566746258Z",
+  "model": "glm-5.3"
+}

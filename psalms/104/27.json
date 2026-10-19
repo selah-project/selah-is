@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישברון",
+      "rationale": "שׂבר er 'að horfa eftir með von' — 'bíða' vs. 'gera sér vonir um'; vonin er í orðinu sjálfu."
+    },
+    {
+      "kind": "addition",
+      "subject": "þess",
+      "rationale": "Íslenskan krefst andlags við 'bíða' sem hebreskan heldur ómerkt."
+    }
+  ],
+  "translation": "Allir þessir bíða þess af þér, að þú gefir þeim fæðu þeirra á réttum tíma.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/104\/25-28.1792410556223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Allir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "af þér"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "bíða"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "að gefa"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "fæðu þeirra"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "á réttum tíma"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:16.224647665Z",
+  "model": "glm-5.3"
+}

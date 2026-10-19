@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויעבor merkir bókstaflega 'var að fara yfir'; 'fór' er víðtækasta íslenska birtingin, eins og 'went his way' í enskum þýðingum"
+    },
+    {
+      "kind": "addition",
+      "subject": "hafði",
+      "rationale": "Hebreska notar sagnmyndina צותה (boðaði) án hjálparsagnar; 'hafði boðið' gerir tímaröðina skýra á íslensku"
+    }
+  ],
+  "translation": "Og Mordókai fór, og gjörði eftir öllu því sem Ester hafði boðið honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e71a439607a10edb43fa75f54b34f901436b59a24a2304d00f5ce4c7fa47d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/4\/17-17.1792413125147.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "fór"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordókai"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og gjörði"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "eftir öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "hafði boðið"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:05.147836193Z",
+  "model": "glm-5.3"
+}

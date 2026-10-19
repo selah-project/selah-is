@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אפריון",
+      "rationale": "Þetta er eina staðurinn þar sem orðið 'bærístól' (palanquín) kemur fyrir í Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "אפריון",
+      "rationale": "Sumar þýðingar segja 'vagn' eða 'palas', en orðið er líklega tekið að láni úr grísku og merkir borið sæti."
+    }
+  ],
+  "translation": "Bærístól gjörði Sjólmó konungur sér af viði Líbanons.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "71e21560894ad074036b41b027eeb0e5db4d25da6f0b12fef7a17e933d8ca081",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/3\/9-11.1792412588208.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "bærístól"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjólmó"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "af viði"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Líbanons"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:08.208770001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "Bein ákall á Jahve í öðrum persónu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bræði",
+      "rationale": "קצף er bókstaflega 'flis' eða 'snettur', myndlega 'gangrí'; 'bræði' heldur myndlíkingunni um hvellan reiða"
+    },
+    {
+      "kind": "alternative",
+      "subject": "þjóna",
+      "rationale": "Vasarað fyrirfram — orðið 'áminna' fyrir יכח getur einnig verið 'sannfæra' eða 'dæma mig sekjan'"
+    }
+  ],
+  "translation": "Jahve, ekki á þú að áminna mig í bræði þinni, né Þjástþjóna — nei — heldur ekki aga mig í heift þinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/1-4.1792409723634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "í bræði þinni"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "á þú að áminna mig"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "né í heift þinni"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "aga mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:23.635541266Z",
+  "model": "glm-5.3"
+}

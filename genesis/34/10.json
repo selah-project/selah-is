@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'er' er sett í sviga því hebreska הָיָה er ekki tóm samsagnarstwa heldur 'verða, vera til'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "לִפְנֵיכֶם 'fyrir auglit ykkar' merkir 'opin, tiltæk fyrir ykkur'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Hamor lokkar með íbúð, viðskipti og eignarrétti í landinu."
+    }
+  ],
+  "translation": "og með ⟨את⟩ okkur skulið þið búa, og landið veri ⟨er⟩ fyrir ykkur; búið og stundið viðskipti í því og festið ykkur óðal í því.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bf63942acf4ab0527f875f00cc6bb64e93d09d35f83869922e5f20ab30379337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/34\/9-12.1792393512575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "með ⟨את⟩ okkur"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "skulið búa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "og landið"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "veri"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "fyrir ykkur"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "búið"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "og stundið viðskipti í því"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "og festið ykkur óðal"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í því"
+    }
+  ],
+  "timestamp": "2026-10-19T07:05:12.577081519Z",
+  "model": "glm-5.3"
+}

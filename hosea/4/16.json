@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨þá⟩ bætt við — hebreska segir aðeins 'mun hirða'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירעם",
+      "rationale": "getur verið yfirbrot: 'mun láta beita þá' eða 'mun hirða þá' — JPS les þetta spurnandi eða hótandi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סררה סרר",
+      "rationale": "endurtekning rótarinnar סרר — 'þverrúin hefur þverrt' heldur hrynjandinni"
+    }
+  ],
+  "translation": "Því að sem þverrúin kú hefur Ísrael þverrt; nú mun Jahve hirða ⟨þá⟩ eins og lamb á víðu svæði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ca471d80ec8d40abda161aa9c1be7ab32dbac353c5a5b6d0422e21a295f85155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/4\/13-16.1792408079209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "sem kú"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "þverrúin"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "hefur þverrt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "mun hirða"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "eins og lamb"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "á víðu svæði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:07:59.210330618Z",
+  "model": "glm-5.3"
+}

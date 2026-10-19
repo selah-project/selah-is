@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ÃÃºslenska Ã¾arf fornafniÃ° 'hann' sem hebreskan sleppir; sett í sviga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dómr",
+      "rationale": "במשפט er bÃ¦Ã°i 'dÃ³mur' og 'rÃ©ttur'; KJB 'discretion' vÃ­kur frÃ¡ lÃ¶gfrÃ¦Ã°ilegu mynstrinu."
+    }
+  ],
+  "translation": "Góður er maðurinn — nádarsamur og lánveitandi; ⟨hann⟩ heldur málum sínum í dómi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/112\/5-8.1792410690553.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Góður"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nádarsamur"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "og lánveitandi"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "málum sínum"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "í dómi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:30.553635254Z",
+  "model": "glm-5.3"
+}

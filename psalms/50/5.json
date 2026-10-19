@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "כרת ברית 'skera sáttmála' — hebreska myndin er að skera, íslenska heldur henni"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי זבח",
+      "rationale": "'yfir slátrun' vs 'með slátrun' — yfir\/við slátrunargjörðinguna"
+    }
+  ],
+  "translation": "Safið til mín mína khasídum, þeim sem skera sáttmála minn yfir ⟨את⟩ slátrun.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/50\/5-8.1792409793542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Safið"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "mína khasídum"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "skera"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sáttmála minn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slátrun"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:33.542738030Z",
+  "model": "glm-5.3"
+}

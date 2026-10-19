@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד haldið sem khesed — „miskunn“ náði ekki víð mynd orðsins"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "forsetningin „á“ bætt við svo íslenskan sé skýr"
+    }
+  ],
+  "translation": "Elóhím khesed míns mun mæta mér; Elóhím mun láta mig sjá ⟨á⟩ óvini mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/9-12.1792409944353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed míns"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "mun mæta mér"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "mun láta mig sjá"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "óvini mína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:04.354223691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עלליך er speningabarn\/sjúgandi; 'lítill' eða 'börn' víkur frá mynd hebreskunnar"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Ofbeldið gegn börnum Babel — þýtt bókstaflega; sumir þýðendur mýkja þetta"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Greinirinn í 'klettinn' — hebreska הסלע er með greini, en fornafnið 'þín' er í samhengi v. 8"
+    }
+  ],
+  "translation": "Sæll er sá sem grípur og mölvar ⟨את⟩ speningabörnin þín við klettinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/137\/9-9.1792410953446.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sæll"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "sem gríper"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "og mölvar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "speningabörnin þín"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "speningabörnin þín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "klettinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:53.447366410Z",
+  "model": "glm-5.3"
+}

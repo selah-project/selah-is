@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er önd\/baráttuflötur\/lífskraftur, ekki sál í guðfræðilegri merkingu; 'sál mín' er hefð í íslenskri sálmaskáldskap"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Lofsöngvaðu",
+      "rationale": "ברך merkir bókstaflega 'að knésetja', hér dýrkun; 'lofsöngva' heldur athæfinu en ekki mynd knéssetningar"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Náungur til sálarinnar sjálfrar — lofþulurinn hvettir sig sjálfan, áhorfandinn er drifinn inn"
+    },
+    {
+      "kind": "you",
+      "subject": "to the soul",
+      "rationale": "Beint rætt til sálar skáldsins (feminín eintala, fjálg umráða)"
+    }
+  ],
+  "translation": "Af Davíð. Lofsöngvaðu, sál mín, ⟨את⟩ Jahve, og allt innra mitt ⟨את⟩ nafn heilagleika hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/1-4.1792410534318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af Davíð"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Lofsöngvaðu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "innra mitt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn heilagleika hans"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heilagleika hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:54.318998273Z",
+  "model": "glm-5.3"
+}

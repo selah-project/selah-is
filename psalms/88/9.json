@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨er ég⟩",
+      "rationale": "Hebreska hefur enga sagnfliðingu; pálmsetningin er orðlaus frásögn 'lokaður, og ekki fer ég út'"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "Kvæðið talar beint til Jahve um yfirgefningu og friðþægingu"
+    }
+  ],
+  "translation": "Þú hefur fjarlægt kunningja mína frá mér, sett mig að andstyggð fyrir þeim; lokaður ⟨er ég⟩ inni og kemst ekki út.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7202c5e9ab6c348b326964c2ce51f4edc620edd97d5875f8378fe4b1c8c4307c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/88\/9-12.1792410341618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "þú hefur fjarlægt"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "kunningja mína"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "sett mig"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "að andstyggð"
+    },
+    {
+      "surface": "למו",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "lokaður inni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "fer út"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:41.619389832Z",
+  "model": "glm-5.3"
+}

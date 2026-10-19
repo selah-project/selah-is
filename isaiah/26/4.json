@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðhátturinn ‹Treystið› ávarpar lesanda beint"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביה יהוה",
+      "rationale": "Stutta nafnið Ja hljómar innan Nafnsins — orðmynd sem hverfur í þýðingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "klettur",
+      "rationale": "צור er klettur, ekki ‹styrkur› eins og KJV gefur til kynna"
+    }
+  ],
+  "translation": "Treystið á Jahve að eilífu, því að í Ja, Jahve, er klettur alda.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/26\/1-4.1792404160191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Treystið"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "á Jahve"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "að"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eilífu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "í Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klettur"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "alda"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:40.192740794Z",
+  "model": "glm-5.3"
+}

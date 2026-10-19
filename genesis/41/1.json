@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "היאר er einfaldlega 'ánin' en merkir Nílina; Níl er sett til að lesandinn viti hvaða á er átt við"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins 'tveggja ára, daga'; komma heldur sundrungunni í tveimur orðum"
+    },
+    {
+      "kind": "mystery",
+      "subject": "draumur Farao",
+      "rationale": "Versið opnar draum sem enginn túlkar enn — textinn heldur merkingunni í laumi"
+    }
+  ],
+  "translation": "Og við enda tveggja ára, daga, draumdi Farao, og sjá, hann stóð við Nílina.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6d938f74896f3c86dd9c00b3cdf63a9a2fe050a179641f018aa71f219d311d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/41\/1-4.1792393731700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það kom til"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "við enda"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "tveggja ára"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "draumdi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stóð"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nílina"
+    }
+  ],
+  "timestamp": "2026-10-19T07:08:51.701464964Z",
+  "model": "glm-5.3"
+}

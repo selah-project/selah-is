@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskeytið í 'út úr landi' — hebreskan segir aðeins 'úr landi', en íslenska þarf stefuna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימכרו\/ממכרת\/עבד",
+      "rationale": "Rót מכר tvisvar og עבד endurtekin — selja\/sala\/þræll — hröð munnhögg varðveitt."
+    }
+  ],
+  "translation": "Því að þrælar mínir eru þeir, sem ég leiddi ⟨את⟩ þá út úr landi Mitsrajím; ekki skal selja þá með sölu þræls.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/25\/41-44.1792396125115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þrælar mínir"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eru þeir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ég leiddi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "út úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "skal selja"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "með sölu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þræls"
+    }
+  ],
+  "timestamp": "2026-10-19T07:48:45.116236811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפשו er lífsaftur og andardráttur, ekki ódauðleg sála; „sálar“ hér á íslensku verður að lífstofnun"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska bætir við hjálpsögninni „heldur sig“ fyrir ירחק"
+    }
+  ],
+  "translation": "Þyrnar og net eru á vegi hins hjástæka; sá er gætir sálar sinnar heldur sig langt frá þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/22\/5-8.1792411535593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "Þyrnar"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "net"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á vegi"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "hins hjástæka"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "sá er gætir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálar sinnar"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "heldur sig langt frá"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:35.594174503Z",
+  "model": "glm-5.3"
+}

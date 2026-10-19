@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "נשא פני 'hefja andlit' = að sýna framúrstafleysi; myndin varðveitt."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versinn fjallar um dómsfar — vigtun máls í réttinum."
+    }
+  ],
+  "translation": "Þér skuluð ekki gera ranglæti í dómi; þú skalt ekki hefja andlit fátæks og ekki vegsama andlit mikils — í tsedek skalt þú dæma náunga þinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/13-16.1792396036564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "þér skuluð gera"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ranglæti"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "í dómi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "hefja"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "דל",
+      "gloss": "fátæks"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "vegsama"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikils"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "í tsedek"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "skalt þú dæma"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "náunga þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:47:16.567064663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið ⟨þá⟩ er bætt við svo framhaldsstýringin verði skýr á íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "staða בימינך umdeild: 'með hægri hendi þinni' frelsar þú — eða 'frá hægri hendi þinni' verndar þú (JPS)"
+    }
+  ],
+  "translation": "Gör khesed þinn ómetaðan, þú sem frelsar ⟨þá⟩ sem leita skjóls hjá þér, með hægri hendi þinni, frá ⟨þeim⟩ sem rísa upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/17\/5-8.1792409337403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Gör … ómetaðan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "khesed þinn"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "þú sem frelsar"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "⟨þá⟩ sem leita skjóls hjá þér"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "frá ⟨þeim⟩ sem rísa upp"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "með hægri hendi þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:57.404176483Z",
+  "model": "glm-5.3"
+}

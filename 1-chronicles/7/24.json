@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "hebreska nafnsetningin „dóttir hans Sjeerá“ þarfnast sagnarýmis á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "Bet-Khóron efra",
+      "rationale": "hebreskan segir aðeins „⟨את⟩ hins efra“; „Bet-Khóron“ er endurtekið til skýrleika"
+    },
+    {
+      "kind": "measurement",
+      "subject": "landamörk",
+      "rationale": " versið telur upp byggðar staði — neðra og efra Bet-Khóron og Úsen-Sjeerá"
+    }
+  ],
+  "translation": "Og dóttir hans var Sjeerá, og hún reisti ⟨את⟩ Bet-Khóron neðra og ⟨את⟩ Bet-Khóron efra, og ⟨את⟩ Úsen-Sjeerá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "82afb35ec53d4be1b9fda9111ba4d787a0f2b341136477fb20c53088a94f5ac3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/7\/21-24.1792414613538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "dóttir hans"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sjeerá"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "reisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Khóron neðra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khóron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "neðra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Khóron efra"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "efra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Úsen-Sjeerá"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Úsen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sjeerá"
+    }
+  ],
+  "timestamp": "2026-10-19T12:56:53.539989246Z",
+  "model": "glm-5.3"
+}

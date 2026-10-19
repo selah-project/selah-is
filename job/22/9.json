@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 22:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ידכא er 'að mylja\/smulda'; 'verða myldir' heldur mynd þess að armarnir eru dauðbrýnir"
+    },
+    {
+      "kind": "you",
+      "subject": "Elífaz að Jób",
+      "rationale": "ádeilan beint að Jóbi í öðru persóni"
+    }
+  ],
+  "translation": "Ekkjur sendir þú burt tómar, og armar faðirleysingja verða myldir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/22\/9-12.1792412121568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנות",
+      "gloss": "ekkjur"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "sendir þú burt"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tómar"
+    },
+    {
+      "surface": "וזרעות",
+      "gloss": "og armar"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "faðirleysingja"
+    },
+    {
+      "surface": "ידכא",
+      "gloss": "verða myldir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:21.569318842Z",
+  "model": "glm-5.3"
+}

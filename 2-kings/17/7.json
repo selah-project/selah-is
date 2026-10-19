@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'að' og 'sem' bætt við til að tengja setninguna — hebreskan notar כי og skýringarháttinn beint"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המעלה ... מארץ",
+      "rationale": "sagan endurtekur 'fara upp' úr Egyptalandi — sami stofn og uppgangan í 5. vers"
+    }
+  ],
+  "translation": "Og svo var, að því að synir Ísraels synduðu gegn Jahve Elóhím sínum, er hafði fært ⟨את⟩ þá upp úr landi Mitsrajím, undir hendi Paróh konungar Mitsrajím, og óttuðust aðra guði.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/5-8.1792403320909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og svo var"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að því að"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "synduðu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "gegn Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elóhím sínum"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "er hafði fært upp"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "synir Ísraels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hendi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "og óttuðust"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guði"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "aðra"
+    }
+  ],
+  "timestamp": "2026-10-19T09:48:40.910265424Z",
+  "model": "glm-5.3"
+}

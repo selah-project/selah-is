@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "heldur",
+      "rationale": "íslenska þarf viðtökusetningu við neitunina; hebreskan segir aðeins 'ekki... og sneri'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויטהו",
+      "rationale": "lít. 'bjó hana af' \/ 'veikti hana'; 'sneri henni' heldur lögun sagnarinnar"
+    }
+  ],
+  "translation": "Og Davíð færði ekki ⟨את⟩ örkina til sín, til borgar Davíðs, ⟨heldur⟩ sneri henni til húss Oved-Edoms Gítíta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/13\/13-14.1792414731556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "færði"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örkina"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "örkina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til sín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borgar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "sneri henni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoms"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gítíta"
+    }
+  ],
+  "timestamp": "2026-10-19T12:58:51.556758262Z",
+  "model": "glm-5.3"
+}

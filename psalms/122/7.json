@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jerúsjalajím",
+      "rationale": "óbeint áframhald tilhugsunarinnar til borgarinnar í 2. persónu fleirtölu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/שלוה",
+      "rationale": "shalom og shalvá liggja samanhljóða hvor öðrum í passesinum"
+    }
+  ],
+  "translation": "Veri shalom innan í víggirðingum þínum, shalvá innan í borgarvirkinum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/122\/5-8.1792410927949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "veri"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "innan í víggirðingum þínum"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "shalvá"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "innan í borgarvirkinum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:27.950604644Z",
+  "model": "glm-5.3"
+}

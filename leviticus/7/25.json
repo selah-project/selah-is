@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 7:25",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er lífskraftur\/andi, ekki ódauðleg sál; 'sál' er hefðin en rótin merkir öndandi veru."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "ממנה (af henni) fellur saman við ⟨את⟩-merkið og er ekki sérstaklega þýtt."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lögmál sett Ísraelshópi; vísvitun í þjóðina í þriðju persónu."
+    }
+  ],
+  "translation": "Því að hver sá sem étur fitju af búfénu, þess sem er flutt ⟨את⟩ eldfórn til Jahve, verður sálin sem étur henni skorin burt úr þjóð sinni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0e3b7765c7095dae7ae8ef85dafbd0ee8dd3a7463776a8467ba86f9a1f409aae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/7\/25-28.1792395534434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sem étur"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "fitju"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "búfénu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þess"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "er flutt"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eldfórn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "verður skorin burt"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "sálin"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "sem étur henni"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "úr þjóð sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:38:54.435041922Z",
+  "model": "glm-5.3"
+}

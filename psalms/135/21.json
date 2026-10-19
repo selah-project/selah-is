@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þágufallsviðhengið „frá Tsejon“ krefst viðtekinnar forsetningar; hebreska hefur aðeins מ־"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "Hallelú-Ja — lofgjöfin og Nafnið Ja í einni fullyrðingu, endar bænin eins og hún byrjaði"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "„Lofið Ja!“ — hvatning til hlustandans að lofa"
+    }
+  ],
+  "translation": "Sæll sé Jahve frá Tsejon, sá sem ⟨er⟩ búinn í Jerúsjalajím. Lofið Ja!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/135\/21-21.1792410954370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Sæll sé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "frá Tsejon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sá sem býr"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lofið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:54.370459193Z",
+  "model": "glm-5.3"
+}

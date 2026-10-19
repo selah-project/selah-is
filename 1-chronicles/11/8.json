@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hann' bætt við — hebreskan hefur enginn efni í 'ויבן' nema söguönninn frá v. 7."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יחיה er orsögn af 'lifa' — 'lét lifna'; 'endurgjörlæsti' gefur merkinguna en tapar rótina."
+    }
+  ],
+  "translation": "Og hann byggði borgina hringinn í kring, frá Milló og allt í kring; og Jóab endurgjörlæsti ⟨את⟩ það sem eftir var af borginni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/11\/5-8.1792414636355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Og byggði"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgina"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "hringinn í kring"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milló"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og allt til"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "í kring"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "og Jóab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "endurgjörlæsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það sem eftir var af borginni"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "það sem eftir var"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "af borginni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:57:16.356652325Z",
+  "model": "glm-5.3"
+}

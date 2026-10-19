@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "hvíldist með feðrum sínum",
+      "rationale": "Hebreska orðasambandið 'lá með feðrum sínum' er dagur-death-tákn; 'dó' eða 'hvíldist' báðar mögulegar, formað hér eftir haga."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sínum' og 'hans' bætt við — hebreskan ber endingarnar, íslenskan þarf fornöfn."
+    }
+  ],
+  "translation": "Og Jótam hvíldist með feðrum sínum, og þeir grófu ⟨את⟩ hann í borg Davíðs, og Akas sonur hans tók ríki í stað hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c0596e85389d731eb06d1b80e8db9d05356f14f270e8bf5c891aac288847f3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/27\/9-9.1792415776975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hvíldist"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jótam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðrum sínum"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "og þeir grófu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og tók ríki"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "í stað hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:16:16.976273872Z",
+  "model": "glm-5.3"
+}

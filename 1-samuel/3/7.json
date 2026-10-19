@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Hebreskan segir aðeins „Sjemúel þekkti ekki enn Jahve“; tímaorð bætt við til að binda við frásögnina"
+    },
+    {
+      "kind": "mystery",
+      "subject": "orð Jahve ekki enn opinberað",
+      "rationale": "Versið útskýrir hversfyrir drengurinn kanni ekki röddina — hið uppbirta er enn leynt"
+    }
+  ],
+  "translation": "Og Sjemúel þekkti þá ekki enn Jahve, og orð Jahve var ekki enn opinberað honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/3\/5-8.1792400243672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Og Sjemúel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ekki enn"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "þekkti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "og ekki enn"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "var opinberað"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:23.673398061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "כרת 'skera' — hebreskt myndmál um að gera sáttmála; skorið sáttmáli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח ritað eftir hljóði — rúakh, ekki 'andi' einn."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint rætt til lýðsins í öðru persónufleirtölu: 'ykkar', 'óttist ekki'."
+    }
+  ],
+  "translation": "⟨Um⟩ ⟨את⟩ málsins sem ég skar með ⟨את⟩ ykkur þegar þér fóru út úr Mitsrajím — og rúakh mín stendur meðal ykkar. Óttist ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/haggai\/2\/5-8.1792408879145.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "málsins"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "málsins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "skar ég"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "þegar þér fógu út"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "úr Mitsrajím"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "og rúakh mín"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stendur"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "meðal ykkar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "óttist"
+    }
+  ],
+  "timestamp": "2026-10-19T11:21:19.146567769Z",
+  "model": "glm-5.3"
+}

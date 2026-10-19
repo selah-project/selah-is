@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "meira er bætt við — hebreskan segir aðeins frá þeirri stundu er, samanburningurinn felst í samhenginu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תירושם",
+      "rationale": "nýtt vín — tierósj er ferskur þrýstur vínberjasafi, ekki endilega gerjað vín"
+    }
+  ],
+  "translation": "Þú hefur gefið gleði í hjarta mitt, meira en á þeirri stundu er korn þeirra og nýtt vín þeirra margfaldast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "28c6399a0f95a3e852f1f61a66f8899b4354a6f0b7240223764c6906e856c24a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/4\/8-8.1792416915008.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Þú hefur gefið"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "gleði"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "í hjarta mitt"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "meira en á þeirri stundu er"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "korn þeirra"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "og nýtt vín þeirra"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "margfaldast"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:15.008854549Z",
+  "model": "glm-5.3"
+}

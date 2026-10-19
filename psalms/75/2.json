@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þeir — framangenginn þolfallssviðsringur, hebreskan lýkur ekki andliti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Endurtekningin hödínu … hödíno er hliðarspor í frumtexta, haft bæði í íslenskunni"
+    }
+  ],
+  "translation": "Við þökkum þér, Elóhím, við þökkum þér, og nálægt er nafn þitt; ⟨þeir⟩ segja frá undrum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/75\/1-4.1792410200826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "Við þökkum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "við þökkum"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "og nálægt er"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nafn þitt"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "segja frá"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "undrum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:20.827286855Z",
+  "model": "glm-5.3"
+}

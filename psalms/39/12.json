@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "'guðsúð' — hebreska 'hevel' er gufandi andardráttur, tómaráð; 'vapor' er of þunnt."
+    },
+    {
+      "kind": "crux",
+      "subject": "כעש",
+      "rationale": "'fiðrildi' — myllan étur klæði og gildi; sumir lesa 'eins og mylla' eða 'svift'."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "'Sela' — hljóðmerki, þýtt ekki."
+    }
+  ],
+  "translation": "Í áminningum, fyrir misgjörð, tæmir þú manninn og brýtur niður sem fiðrildi það sem hann girnist — einungis guðsúð er hver maður. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a75b9bb1f70f079b5191a2916c300a640baed448ae17c46a93d60859d7c7c9d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/39\/9-12.1792409711579.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Í áminningum"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "עון",
+      "gloss": "misgjörð"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "tæmir þú"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "og brýtur niður"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "sem fiðrildi"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "það sem hann girnist"
+    },
+    {
+      "surface": "אך",
+      "gloss": "einungis"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "guðsúð"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maður"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:11.580890893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/ישליו\/שלוה",
+      "rationale": "þverskáldun skáldsins um shalom-semina nær yfir vers 6–8; hér hefst hún ekki en versin þrjú eftir tengjast"
+    },
+    {
+      "kind": "measurement",
+      "subject": "למשפט",
+      "rationale": "משפט tekið sem dómur, ekki siður, því sætin eru dómstólar"
+    }
+  ],
+  "translation": "Því að þar setjast hásætin til dóms, hásætin fyrir húsi Davíðs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/122\/5-8.1792410927949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þar"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "setjast"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "hásætin"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "til dóms"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "hásætin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "fyrir húsi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:27.950251148Z",
+  "model": "glm-5.3"
+}

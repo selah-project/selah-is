@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונשא",
+      "rationale": "'Setja\/láta' eið á einhvern — KJF 'be laid'; aðrar atgervisgreiningar lesa 'taka á loot'^W lesa 'hold to account', hér valin 'er lagður'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf 'er' og 'ef' til að búa til skilyrðissetningu sem hebreska myndar með אשר"
+    }
+  ],
+  "translation": "⟨את⟩ Það er ef maður misgerr við náunga sinn og eiður er lagður á hann til að láta hann sverja, og eiðurinn kemur fyrir andlit altaris þins, í þessu húsi —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cd4d2495d4b011263d5b5833a3b65d098031ca30d26d55eeab3eace11fd81f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/29-32.1792402288818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það — allt skilyrðisatvikið (אשר יחטא...)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er ef"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "misgerr"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "við náunga sinn"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og er lagður"
+    },
+    {
+      "surface": "בו",
+      "gloss": "á hann"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "eiður"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "til að láta hann sverja"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "og kemur"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "eiðurinn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andlit"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altaris þins"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:31:28.819224961Z",
+  "model": "glm-5.3"
+}

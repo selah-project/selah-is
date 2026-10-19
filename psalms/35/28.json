@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הגה er að murra\/grúta í brjósti; ‚grúta' heldur hljóðmyndinni, ‚tala' yrði of slétt"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "framtíðarmerking (mun) er ekki í hebreskunni"
+    }
+  ],
+  "translation": "Og tunga mín mun grúta tsedek þinn, allan daginn lof þitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f842dcc3dc8810b661ac7acb3e57ff6f762c2f763c1d5942c290a4df5f88e785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/28-28.1792416928165.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "og tunga mín"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mun grúta"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedek þinn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lof þitt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:28.166079849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מאת המלך: ýtt sem 'enginn er hjá konunginum til að hlýða þér', en KJV\/GEN lesa 'enginn er skipaður af konungi' — hebreskan segir aðeins 'frá konunginum'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨er⟩: hebreskan hefur enga sagn; 'er' bætt við á íslensku."
+    }
+  ],
+  "translation": "Og Avshálom sagði við hann: Sjá, málin þín eru góð og bein, en enginn ⟨er⟩ hjá ⟨את⟩ konunginum til að hlýða þér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/15\/1-4.1792401549865.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshálom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "málin þín"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "góð"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "og bein"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "til að hlýða"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "konunginum"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:19:09.866632440Z",
+  "model": "glm-5.3"
+}

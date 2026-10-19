@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעצבו",
+      "rationale": "'Pyngja\/gröftu orð mín' (KJV 'wrest my words') gegn 'æsa sig um málefni mín' (JPS) — rótin עצב þýðir bæði meißla og þrýsta."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברי ... מחשבתם",
+      "rationale": "Endurtekning á כל 'allt' í hvorum lið myndar samstöðu sem glatast á íslensku."
+    }
+  ],
+  "translation": "Allan daginn pyngja þeir ⟨את⟩ orð mín; gegn mér eru allar hugmyndir þeirra til illsku.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/56\/5-8.1792409901409.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orð mín"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "pyngja þeir"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "hugmyndir þeirra"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "til illsku"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:21.410028346Z",
+  "model": "glm-5.3"
+}

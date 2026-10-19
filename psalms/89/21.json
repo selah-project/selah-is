@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf beygingarmyndir og greini sem hebreskan styttir (מְשַׁחְתִּיו er ein orðmynd: smurði-ég-hann)."
+    }
+  ],
+  "translation": "Ég fann Davíð, þjón minn; með heilögu olíu minni smurði ég hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "53416db0c0e281c5143d59e983b3c907bb3de2cd2c51138b12acab80c8103f82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/21-24.1792410383763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Ég fann"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjón minn"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "með olíu"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "heilögu minni"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "smurði ég hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:23.764087433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תקנא",
+      "rationale": "bókstaflega 'vert öfundsjúkur' — öfund um mann ofbeldis, gert að 'undrast'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mann ofbeldis",
+      "rationale": "gæti líka verið 'ofbeldismaður' — smíðað nafn אישׁ חמס heldur bundinni mynd"
+    }
+  ],
+  "translation": "Undrast ekki mann ofbeldis og kjós ekkert af vegum hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/29-32.1792411194884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "undrast"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "kjós"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ekkert af"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "vegum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:54.885389912Z",
+  "model": "glm-5.3"
+}

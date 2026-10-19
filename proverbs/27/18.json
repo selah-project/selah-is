@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið „þess“ bætt við — hebreska sætnið er fallbundið"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצר\/שמר",
+      "rationale": "Tvennt samheitað um að gæta — nákvæmlegað samhverf hvor hálfu verssins"
+    }
+  ],
+  "translation": "Sá sem gætir fiktjarsins étur ávöxt ⟨þess⟩, og sá sem gætir herra síns verður vegsamur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/17-20.1792411642228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "gætir"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "fiktjarsins"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "étur"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ávöxt"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "og gætir"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herra síns"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "verður vegsamur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:22.229009434Z",
+  "model": "glm-5.3"
+}

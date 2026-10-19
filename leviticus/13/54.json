@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שנית",
+      "rationale": "'seinni sjö daga' (KJV 'seven days more') vs 'í annað sinn' — orðið merkir 'annarskipað\/after', YLT les 'a second seven days'"
+    }
+  ],
+  "translation": "þá skal presturinn bjóða að þvo ⟨את⟩ það er sóttin er í, og læsa því inni í sjö daga í annað sinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "883507b5a91641848ebc7269dd3e8779f2a02f9c557d936a871d3211b19cd6e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/53-56.1792395815090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "þá skal ... bjóða"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "að þvo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það er sóttin er í"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "בו",
+      "gloss": "er ... í"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sóttin"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "og læsa því inni"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "í sjö"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "í annað sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:43:35.095094213Z",
+  "model": "glm-5.3"
+}

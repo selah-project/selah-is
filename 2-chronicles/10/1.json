@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "להמליך er orðmynd af 'konungi gera', flutt yfir í 'gera að konungi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכמה\/שכם",
+      "rationale": "Staðarnafnið Sjkem endurtekið tvisvar í versinu, stíll hebreskrar setningar varðveittur"
+    }
+  ],
+  "translation": "Og Rekhavam fór til Sjkemar, því að til Sjkemar voru allir Ísrael komnir til að gera hann að konungi ⟨אתו⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fd9e5648a40a5506a1d86ad29f3a01d1533b18ced9cb6d487483583c9110ad3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/10\/1-4.1792415430476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "og fór"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "til Sjkemar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjkem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "voru komnir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "til að gera að konungi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T13:10:30.476700466Z",
+  "model": "glm-5.3"
+}

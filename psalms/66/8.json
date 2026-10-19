@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Boð til þjóðanna: „vegsamið … látið heyrast“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ברכו er „knéið\/fáið á blessing“, endursemtt sem „vegsamið“."
+    }
+  ],
+  "translation": "Þjóðir, vegsamið Elóhím vorn, og látið raust lofs hans heyrast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/66\/5-8.1792409985185.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "vegsamið"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Þjóðir"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vorn"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "og látið heyrast"
+    },
+    {
+      "surface": "קול",
+      "gloss": "raust"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lofs hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:45.187174015Z",
+  "model": "glm-5.3"
+}

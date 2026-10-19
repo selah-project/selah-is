@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "התערב (hitpa'el af ערב) í þessari merkingu 'að veðja\/gefa veð' er einstök í Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "את hér er forsetningin 'við\/með' (H854), ekki markorð (H853) — samt merkt ⟨את⟩ samkvæmt reglu Selah."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Talan tvö þúsund hesta — hæðnin telur hest Júda með gripum Assyrra."
+    }
+  ],
+  "translation": "Og nú, gjörstu veð ⟨את⟩ herra mínum, konunginum í Ashúr, og ég gef þér tvö þúsund hesta, ef þú getur gefið þér riddara á þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/36\/5-8.1792404530174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "gjörstu veð"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nú⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herra mínum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra mínum"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "í Ashúr"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "og ég gef"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tvö þúsund"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hesta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "þú getur"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "gefið"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "riddara"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "á þá"
+    }
+  ],
+  "timestamp": "2026-10-19T10:08:50.176290589Z",
+  "model": "glm-5.3"
+}

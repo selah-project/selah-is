@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur,verað — ekki ókunnuleg 'sál'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תורך",
+      "rationale": "turtildúfa sem ástarheiti fyrir Ísrael — sumir lesa 'úr' (hjörð, sömu stafir)"
+    },
+    {
+      "kind": "crux",
+      "subject": "חית ענייך",
+      "rationale": "líterlega 'dýr þjáðra þinna' — lesið sem hjörð\/fé þjáðra eða lífið þeirra"
+    }
+  ],
+  "translation": "Ekki gef sál turtildúfu þinnar rándýrinu; hjörð þjáðra þinna ekki gleym að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/74\/17-20.1792410212688.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gef"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "rándýrinu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sál"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "turtildúfu-þinnar"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hjörð"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "þjáðra-þinna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gleym"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "að-eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:32.689614924Z",
+  "model": "glm-5.3"
+}

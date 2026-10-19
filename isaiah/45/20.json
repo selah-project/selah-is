@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 45:20",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðsmyndir í fyrstu röð — köllun til flóttamanna þjóðanna að koma saman."
+    },
+    {
+      "kind": "elision",
+      "subject": "יחדו",
+      "rationale": "'saman' fellur að hluta saman við 'náið ykkur saman' — hebreskan endar tvö orð, íslenskan hverfandi merking."
+    }
+  ],
+  "translation": "Safnist saman og komið, náið ykkur saman, flóttamenn þjóðanna; þeir hafa ekki þekkingu, þeir sem bera ⟨את⟩ tré skurðgoðs síns og bíðja guð sem ekki getur hjálpað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "14b14985e7217244347027751991e16b06f2ef0b41cfb5c9311d74c8bec6e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/45\/17-20.1792404782680.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "Safnist saman"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "og komið"
+    },
+    {
+      "surface": "התנגשו",
+      "gloss": "náið ykkur saman"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "flóttamenn"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "þeir hafa þekkingu"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "þeir sem bera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tré skurðgoðs síns"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tré"
+    },
+    {
+      "surface": "פסלם",
+      "gloss": "skurðgoðs síns"
+    },
+    {
+      "surface": "ומתפללים",
+      "gloss": "og bíðja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אל",
+      "gloss": "guð"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "getur hjálpað"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:02.681634007Z",
+  "model": "glm-5.3"
+}

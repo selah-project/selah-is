@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אבד er 'að villast, farast' — KJV 'broken' og JPS 'useless' eru þýðingar á myndinni, ekki orðinu"
+    }
+  ],
+  "translation": "Ég er gleymdur sem ⟨dáinn⟩ úr huga; ég varð eins og ker sem glatast hefur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/31\/13-16.1792409524655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "Ég er gleymdur"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "sem ⟨dáinn⟩"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "úr huga"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ég varð"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "eins og ker"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "sem glatast hefur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:04.656465791Z",
+  "model": "glm-5.3"
+}

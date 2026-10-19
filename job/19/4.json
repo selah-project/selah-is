@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שגיתי \/ משוגתי",
+      "rationale": "sama rót שגה í sögn og nafni — „hef ég villst“ og „villa mín“ bera hvert annars hljóð"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "hér er את nærmynd (H854), forsetningin „með“, ekki ummarksstafurinn — en merkið er varðveitt samkvæmt reglunni"
+    }
+  ],
+  "translation": "Og jafnvel sannarlega hef ég villst — með ⟨את⟩ mér hvílir villumaður minn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "772b40919c30e9bed244a051291c604f7267bd8bf9a13ac44c6bc8834ba540d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/19\/1-4.1792412094135.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Og jafnvel"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "sannarlega"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "hef ég villst"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "með ⟨את⟩ mér",
+      "marks": "mér"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "hvílir"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "villumaður minn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:14:54.136184876Z",
+  "model": "glm-5.3"
+}

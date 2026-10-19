@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח ritað eftir hljóði — andardráttur\/vindur í einu orði"
+    },
+    {
+      "kind": "crux",
+      "subject": "אף",
+      "rationale": "'nef' bókstaflega (ylt), en margar þýðingar taka það sem atviksorð 'einnig\/hold up'"
+    }
+  ],
+  "translation": "Eyru hafa þeir, en þeir heyra ekki; nef — ⟨það⟩ er enginn rúakh í munni þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/135\/17-20.1792410927429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "eyru"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hafa þeir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "þeir heyra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nef"
+    },
+    {
+      "surface": "אין",
+      "gloss": "það er ekki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨það er⟩ enginn"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "í munni þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:27.429632559Z",
+  "model": "glm-5.3"
+}

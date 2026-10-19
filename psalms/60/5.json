@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תרעלה",
+      "rationale": "Aðeins hér í Tanakh — vímuefnið sem veldur vöktul, því „reeling“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vakla",
+      "rationale": "תרעלה er stinning af σωμαlegri hrímingu; „vakla“ heldur myndinni."
+    }
+  ],
+  "translation": "Þú hefur sýnt þjóð þinni harðlega hluti, þú hefur látið okkur drekka vín þess að vakla.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/60\/5-8.1792409984853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "þú hefur sýnt"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóð þinni"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "harðlega"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "þú hefur látið okkur drekka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vín"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "þess að vakla"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:44.853958659Z",
+  "model": "glm-5.3"
+}

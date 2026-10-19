@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "svarthur",
+      "rationale": "קדר er 'að vera öskugrár\/dökkur', mynd sorgar; 'svarthur' heldur litmyndinni."
+    },
+    {
+      "kind": "you",
+      "subject": "to El",
+      "rationale": "Beint tilboð til Els, kletts höfundar, með tveimur spurningum."
+    }
+  ],
+  "translation": "Ég segja við El, klett minn: Hví hefur þú gleymt mér? Hví geng ég svarthur í þröngd óvinar?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/42\/9-12.1792409720895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Ég segja"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "við El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "klett minn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "hefur þú gleymt mér"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "svarthur"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "geng ég"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "í þröngd"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "óvinar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:20.896730940Z",
+  "model": "glm-5.3"
+}

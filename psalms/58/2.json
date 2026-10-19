@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלם",
+      "rationale": "„þagn“ eða „öflugar ættbálkar“ (elsimm) — KJv „o congregation“ vs ASV „in silence\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק skilið hljóðlega samkvæmt D2, en merkir réttlæti"
+    },
+    {
+      "kind": "you",
+      "subject": "synir mannsins",
+      "rationale": "beint rætt til dómara yfir fólkinu, ráðandi manna"
+    }
+  ],
+  "translation": "Hugsið yfir: Munu þér í raun tala tsedek, ⟨er⟩ þagni? Munu þér dæma réttlega, synir mannsins?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/58\/1-4.1792409919009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "í raun"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "þagni"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "tala þér"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "réttlega"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "dæma þér"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mannsins"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:39.009897932Z",
+  "model": "glm-5.3"
+}

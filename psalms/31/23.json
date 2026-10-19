@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 31:23",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בחפזי er bókstaflega 'í flýtingu minni' — bráðfallinn ótti, ekki almenn hræðsla."
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "גרז (að höggva burt) kemur aðeins fyrir hér í Tanakh."
+    }
+  ],
+  "translation": "En ég sagði í ótta mínum: Ég er rifiður burt frá andlit-augum þínum — þó heyrðir þú rödd bænabæna minna þegar ég kallaði til þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/31\/21-24.1792409598890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "í ótta mínum"
+    },
+    {
+      "surface": "נגרזתי",
+      "gloss": "er rifiður burt"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "frá"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "augum þínum"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "þó"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "heyrðir þú"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "bænabæna minna"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "þegar ég kallaði"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:18.891308253Z",
+  "model": "glm-5.3"
+}

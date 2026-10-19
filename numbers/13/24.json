@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 13:24",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אדות",
+      "rationale": "על אדות er sambundin forsetning, „vegna“, og er mótarð í eitt íslenskt orð."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„þeir“ bætt við — hebreska sögnin קרא hefur ekki opinberan geranda."
+    }
+  ],
+  "translation": "Þann stað kölluðu þeir Eshkol-læk, vegna klasans sem Ísraelsmenn höggvu þaðan.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "88b56335fc16430197b8e71700a49db5367559a661e80d68ccb5398cd7bc9a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/13\/21-24.1792396723141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למקום",
+      "gloss": "stað"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "Þann"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kölluðu þeir"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "læk"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "Eshkol-"
+    },
+    {
+      "surface": "על",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "אדות",
+      "gloss": ""
+    },
+    {
+      "surface": "האשכול",
+      "gloss": "klasans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "höggvu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "þaðan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels-"
+    }
+  ],
+  "timestamp": "2026-10-19T07:58:43.143244792Z",
+  "model": "glm-5.3"
+}

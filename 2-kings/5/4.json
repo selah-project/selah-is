@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "כזאת וכזאת er hebreskt endurtekið atviksorð, „svo og svo“, óþýðanlegt nánar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„hin sem er“ er sett inn; hebreskan segir aðeins אשר „sem“"
+    }
+  ],
+  "translation": "Og hann kom og sagði herra sínum þetta: Svo og svo hefur stúlkan sagst, hin sem er frá landi Ísraels.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/5\/1-4.1792402967164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og hann kom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "herra sínum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Svo"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "og svo"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "hefur sagt"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "stúlkan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "frá landi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T09:42:47.166089389Z",
+  "model": "glm-5.3"
+}

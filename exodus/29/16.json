@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "því",
+      "rationale": "Fornafnið 'því' er sett inn — hebreskan segir aðeins 'stökkva á altarið kringum'."
+    }
+  ],
+  "translation": "Og þú skalt slátra ⟨את⟩ hrútinum, og þú skalt taka ⟨את⟩ blóð hans og stökkva því á altarið allt kringum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9add2af65bcddda5ee8f68e7d4941529b4651a20b0d414dc91cbbd2063f100f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/29\/13-16.1792394943303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "Og þú skalt slátra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hrútinum"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "hrútinum"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "og þú skalt taka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóð hans"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "blóð hans"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "og stökkva"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "allt kringum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:29:03.304917220Z",
+  "model": "glm-5.3"
+}

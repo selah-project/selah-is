@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישבתו",
+      "rationale": "Frá rót Sjabbat — 'hætta, hvíla'; 'skulu ekki hvíla' heldur framburði árstakanna áfram."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוד ... כל ימי",
+      "rationale": "Framhald endurtekningarinnar 'ekki aftur' úr v. 21 — 'meðan öll dagar' — keðja lokaflóðsins."
+    },
+    {
+      "kind": "measurement",
+      "subject": "árstíðir og tímahvolf",
+      "rationale": "Versið raðar öllum árstíðum og dögum og nætum — mæling á órofinni tímasól."
+    }
+  ],
+  "translation": "Meðan öll dagar jarðarinnar standa: sáning og uppskera, og kuldi og hiti, og sumar og vetur, og dagur og nótt — skulu ⟨ekki⟩ hvíla.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "94288cd3a3445fc046d116af9c28f62658a7eab9a0c0fdc05fa11c1ed15650a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/21-22.1792392634477.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "meðan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sáning"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "og uppskera"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "og kuldi"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "og hiti"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "og sumar"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "og vetur"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "og dagur"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nótt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "skulu hvíla"
+    }
+  ],
+  "timestamp": "2026-10-19T06:50:34.478405332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "הלך למוט 'ganga til að deyja' = 'ég er að fara að deyja'; bókstafleg mynd gefur hreyfinguna"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'er' — samtenging\/spurningarmynd sem hebreskan sleppti"
+    }
+  ],
+  "translation": "Og Esav sagði: Sjá, ég er að fara að deyja, og hvað er þá mér ⟨það⟩ fyrstgeturéttin?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d0ff11142b1d5d823162abac2e76b1bfe849d94f07c53396abc3b51e471117bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/25\/29-32.1792393168563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "er að fara"
+    },
+    {
+      "surface": "למות",
+      "gloss": "að deyja"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "og hvað er þá"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨það⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "fyrstgeturéttin"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:28.564582266Z",
+  "model": "glm-5.3"
+}

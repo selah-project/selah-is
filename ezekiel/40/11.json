@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "op",
+      "rationale": "פתח merkir 'op' eða 'dyraóp' — ekki 'þröskuldur' eins og eldri þýðingar gera."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארך",
+      "rationale": "'Lengd' (KJV\/ASV\/JPS) eða 'hæð' (Geneva) — orðið getur merkt bæði í musterismælingum."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Breidd og lengd hliðsins mæld í ölnum."
+    }
+  ],
+  "translation": "Og hann mældi ⟨את⟩ breidd opmis hliðsins tíu ölnir, og lengd hliðsins þrettán ölnir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/40\/9-12.1792407829476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Og hann mældi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "breidd opmis hliðsins"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breidd"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opmis"
+    },
+    {
+      "surface": "השער",
+      "gloss": "hliðsins"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ölnir"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengd"
+    },
+    {
+      "surface": "השער",
+      "gloss": "hliðsins"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "þrettán — þrjú"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-tíu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ölnir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:03:49.477830014Z",
+  "model": "glm-5.3"
+}

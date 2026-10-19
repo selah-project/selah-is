@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Framvísunarmerki með viðskeytti; geymt sem ⟨את⟩ þá."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתר",
+      "rationale": "Rótin b-t-r endurtekin þrisvar (hjó, helming, hjó) — sömu stafir bera öll stykkin."
+    }
+  ],
+  "translation": "Og hann tók sér ⟨את⟩ alla þessa og hjó ⟨את⟩ þá í sundur í miðju og lagði hvern helming gagnstast félaga sínum, en ⟨את⟩ fuglinn hjó hann ekki í sundur.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f2524336737e06441f9193efbd5c9a8cc5b0ee8aa4e4fd8cc07f7822c17a1ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/15\/9-12.1792392880607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og hann tók"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla þessa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "og hjó í sundur"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og lagði"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvern"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "helming"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "gagnstast"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "félaga sínum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "fuglinn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "hjó í sundur"
+    }
+  ],
+  "timestamp": "2026-10-19T06:54:40.608486091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וירשתם",
+      "rationale": "'að drífa út íbúa og taka landið' — endursagt sem 'takið í arf'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר\/עברים",
+      "rationale": "sama sögn um Móse og lýðinn — 'ég fer ekki yfir, en þið farið yfir' — andstæðan varðveitt."
+    }
+  ],
+  "translation": "Því að ég dey í þessu landi — ég fer ekki yfir ⟨את⟩ Jórdaninn, en þið farið yfir og takið ⟨את⟩ landið þetta góða í arf.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "607d27bfe5f5194818b9c4e2d4746637a218101a72ecdf3e26a10a3c58ca252f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/4\/21-24.1792397659873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dey"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ég fer ekki"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jórdaninn"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jórdaninn"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en þið"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "farið yfir"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "og takið í arf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "góða"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T08:14:19.873877774Z",
+  "model": "glm-5.3"
+}

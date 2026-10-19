@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sikla⟩",
+      "rationale": "Hebreskan segir aðeins 'tíu gulls' — mælieiningin er af Harnessarsamhengi, bætt við."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gullhönd",
+      "rationale": "כף merkir lófi\/hönd — lítil skál í lófaformi, oft þýtt 'skeið' eða 'skál'."
+    }
+  ],
+  "translation": "eina gullhönd, tíu ⟨sikla⟩, fulla af reykelsi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4fb79177a61402d9499a925fc6a5692f617c1deba21060b214d7321cb4f30ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/7\/77-80.1792396610953.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eina"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gull"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "fulla"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "af reykelsi"
+    }
+  ],
+  "timestamp": "2026-10-19T07:56:50.954872093Z",
+  "model": "glm-5.3"
+}

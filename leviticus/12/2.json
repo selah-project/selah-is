@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sáir fræ",
+      "rationale": "תזריע er myndræn sáningarmynd um getnað, bókstaflegt myndbrot varðveitt."
+    },
+    {
+      "kind": "crux",
+      "subject": "נדת דותה",
+      "rationale": "„Óhreinleiki veikinda hennar“ — mensgingaróhreinleiki; sumir þýða „skilnaðar hennar“."
+    },
+    {
+      "kind": "you",
+      "subject": "til sona Ísraels",
+      "rationale": "B eitt nútmæli til Mósje um að tala til Ísraels."
+    }
+  ],
+  "translation": "Talaðu til sona Ísraels og segðu: Konan, þegar hún sáir fræ og fæðir karlbarn, verður óhrein í sjö daga; eins og daga óhreinleika veikinda hennar verður hún óhrein.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "31d2ae8262accf9607d7f9426d2efad5fd1cf63a7ae9416d00a61694daa2426d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/12\/1-4.1792395647222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talaðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og segðu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Konan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "sáir fræ"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "og fæðir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karlbarn"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "verður óhrein"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "í sjö"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "eins og daga"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "óhreinleika"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "veikinda hennar"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "verður hún óhrein"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:47.223568939Z",
+  "model": "glm-5.3"
+}

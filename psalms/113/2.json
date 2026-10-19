@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Tímamörk — frá núnu til eilífar — tæknileg afmörkun lofsins"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מברך",
+      "rationale": "Passíf þáttarsögn af ברך (blessa\/knía) — á íslensku 'lofað' eða 'heilagt'; hebreskan hefur bæði lof og blessun í einni rót"
+    }
+  ],
+  "translation": "Sé nafn Jahve lofað, frá ⟨þessum⟩ tíma og ⟨fram⟩ að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/113\/1-4.1792410675850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Sé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "lofað"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "frá þessum tíma"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og ⟨fram⟩ að"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:15.850995025Z",
+  "model": "glm-5.3"
+}

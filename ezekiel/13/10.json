@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום \/ ואין שלום",
+      "rationale": "Andstæðulyklarit 'Friður! og enginn friður' er hjartaóróf versins."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חיץ",
+      "rationale": "חיץ (veggur) stendur aðeins hér í Tanakh — aðgreint frá קיר í v. 12."
+    },
+    {
+      "kind": "crux",
+      "subject": "תפל",
+      "rationale": "Kalk án stráætis vs. 'frívolity' — myndin er óblandað kalk sem fellur af veggnum."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sá⟩",
+      "rationale": "Fornafnið 'sá' bætt við til að greina byggingarandlagið."
+    }
+  ],
+  "translation": "Af því, já af því að þeir létu ⟨את⟩ fólk mitt villast með því að segja: Friður! og enginn friður er — og ⟨sá⟩ reisir vegg, og sjá, þeir kvasta hann með óblandnu kalki:",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "04a57dc34d8b131d1e4601f79bd961ed7a6d2ccc887a39cfd8862e807441d99d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/13\/9-12.1792406955740.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Af því"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "já af því að"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "létu þeir villast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólk mitt"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólk mitt"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "með því að segja"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Friður"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og ⟨sá⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "reisir"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "vegg"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "kvasta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann (vegginn)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "óblandnu kalki"
+    }
+  ],
+  "timestamp": "2026-10-19T10:49:15.741565786Z",
+  "model": "glm-5.3"
+}

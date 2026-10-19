@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמילם",
+      "rationale": "Frá rót מול — 'skera af'; sumir þýða 'eyða' eða 'höggtva'; rótin sjálf merkir að skera stutt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "כי hér sem styrkandi 'sannarlega' (jps), ekki algild 'því'"
+    }
+  ],
+  "translation": "Allar þjóðirnar umkringdu mig — í nafni Jahve mun ég skera þær niður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bd9cec864b494ad40f4737f464792267479515b97a1d8fddf4f56c937385d556",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/118\/9-12.1792410767101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "umkringdu mig"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "í nafni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sannarlega ⟨það⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "mun ég skera þær niður"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:47.102383723Z",
+  "model": "glm-5.3"
+}

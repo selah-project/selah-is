@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "að ég væri eins og þú",
+      "rationale": "דמית היות אהיה כמוך: 'þú hugðir að ég væri eins og þú' — LXX les spurningarhætti eða harðari hallætisháttur; אהיה ber einnig hljóm af 2. Mós 3:14."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨því⟩ bætt við — hebreskan segir aðeins 'raða upp fyrir augum þínum', andlag vantar."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Jahve talar beint til rangmennisins í þessum ljóðum."
+    }
+  ],
+  "translation": "Þetta gerðir þú og ég þagði; þú hugðir að ég væri eins og þú. Ég mun ásmska þig og raða ⟨því⟩ upp fyrir augum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/50\/21-23.1792409789136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gerðir"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "og-ég-þagði"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "þú-hugðir"
+    },
+    {
+      "surface": "היות",
+      "gloss": "að-vera"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ég-væri"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "eins-og-þú"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ég-mun-ásmska-þig"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "og-raða-upp"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "fyrir-augum-þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:29.136828196Z",
+  "model": "glm-5.3"
+}

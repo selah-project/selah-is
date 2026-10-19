@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזרקהו",
+      "rationale": "Stökkva (kjv 'sprinkled') á móti slegið\/dásið (jps 'dashed') — hraði athafnarinnar umdeildur."
+    },
+    {
+      "kind": "substitution",
+      "subject": "העלה",
+      "rationale": "'Það sem steðgast upp' — brennifórnin; mynd ferðar upp í reyk týnist í íslenska heitinu."
+    }
+  ],
+  "translation": "Og hann slátraði ⟨את⟩ brennifórninni, og sonur Aharonar báru honum ⟨את⟩ blóðið, og hann stökkti því á altarið alls kringum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "aaad847a22f39bff0395895f94587c598660adf1c3798e31d9160b4edb928c4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/9\/9-12.1792395587120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "slátraði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brennifórninni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brennifórninni"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "báru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóðið"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blóðið"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "stökkti því"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "alls kringum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:47.121942675Z",
+  "model": "glm-5.3"
+}

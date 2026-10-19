@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "forsögn hefur enga mynd í hebresku — viðfang bætist við á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "enn",
+      "rationale": "ו- í יוסד birtist sem „enn“ hjá eldri þýðendum; hebreskan segir aðeins „var ekki grundvallað“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "tímasetning: fyrsti dagur sjöunda mánaðar"
+    }
+  ],
+  "translation": "Frá fyrsta degi sjöunda mánaðarins hófu ⟨þeir⟩ að færa Jahve brenniförir, en musteri Jahve var ekki ⟨enn⟩ grundvallað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/3\/5-8.1792413956996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "Frá degi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "fyrsta"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mánaðarins"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sjöunda"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "hófu"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "að færa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "brenniförir"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "en musteri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "grundvallað"
+    }
+  ],
+  "timestamp": "2026-10-19T12:45:56.997519965Z",
+  "model": "glm-5.3"
+}

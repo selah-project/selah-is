@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תתפתל",
+      "rationale": "'Þú verður krókóttur' (KJV 'froward') vs. 'Þú glíur\/brögðugur' (JPS 'subtle', YLT 'wrestler') — where-sétting af פתל, 'þræða saman'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבר\/תתברר · עקש\/תתפתל",
+      "rationale": "Sömu rætur endurteknar eins og 18:26; mynstur halda áfram í versi 28."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נבר",
+      "rationale": "Niftrunarlega form rótar ברר kemur aðeins hér fram sem lýsingarorð um mann."
+    }
+  ],
+  "translation": "Við hinn skýra birtir þú þig skýran, en við hinn kroka birtir þú þig krókóttan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/25-28.1792409415388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "Við"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "hinn skýra"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "birtir þú þig skýran"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en við"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "hinn kroka"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "birtir þú þig krókóttan"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:15.389071314Z",
+  "model": "glm-5.3"
+}

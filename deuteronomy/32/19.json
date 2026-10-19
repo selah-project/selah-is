@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨það⟩",
+      "rationale": "Hebreskan segir aðeins „sá“; andlagið er sett í sviga."
+    },
+    {
+      "kind": "crux",
+      "subject": "וינאץ",
+      "rationale": "„Hafði andstyggð \/ rak frá sér“ — KJV „abhorred“, JPS „spurned“."
+    }
+  ],
+  "translation": "Og Jahve sá ⟨það⟩ og hafði andstyggð, vegna æsingi sona sinna og dætra sinna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3892c5731084ddee7db575df836e0a1c52b3ba7b55a9bfcc9a6447b88f660ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/32\/18-19.1792416555182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og Jahve sá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "og hafði andstyggð"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "vegna æsingi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sona sinna"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "og dætra sinna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:15.183251110Z",
+  "model": "glm-5.3"
+}

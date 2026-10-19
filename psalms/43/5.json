@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er lífskraftur\/andi, 'sála' er hefðbundin en ekki nákvæm"
+    },
+    {
+      "kind": "crux",
+      "subject": "hjálpræði andlits míns",
+      "rationale": "ישועת פני: 'hélt af andliti' (sál í háska), 'bjargir farsældar' eða 'hjálp sem andlit mitt sýnir' — KJV 'health of my countenance'"
+    },
+    {
+      "kind": "you",
+      "subject": "sála mín",
+      "rationale": "hátturinn talar beint til sálar sinnar — sjálfstilskipun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשתוחחי\/תהמי",
+      "rationale": "tvö einföld spurningarvænd orð í sama falli, endurtökin í Sl 42:5,11 gefur refrain"
+    }
+  ],
+  "translation": "Hví sæktu þér niður, sála mín, og hví óast þú yfir mér? Bíð eftir Elóhím, því að enn mun ég lofa hann, hjálpræði andlits míns og Elóhím minn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "837f2af0f1bd6d7958787686d09c697c8516a7cf41c36480b13976ea83772543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/43\/5-5.1792409674741.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "sæktu þér niður"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sála mín"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hví"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "óast þú"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Bíð eftir"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "mun ég lofa hann"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "hjálpræði"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlits míns"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og Elóhím minn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:34.741469112Z",
+  "model": "glm-5.3"
+}

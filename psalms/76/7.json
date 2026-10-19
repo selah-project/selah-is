@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bæði",
+      "rationale": "Íslenska þarf sambandsspurningu sem hebreskan látir vera nafnfrumlag."
+    }
+  ],
+  "translation": "Við áminnun þína, Elóhím Jaakobs, lágu bæði vagnur og hestur í dauðadvali.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/76\/5-8.1792410173319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "áminnun þína"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "lágu í dauðadvali"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "vagnur"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "hestur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:53.320797754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": " Hebreskan hefur engin sögn; íslenska þarf sögnina 'eru'"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": ": 5. Mósebók beinist til Ísraels sem 'þið'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתגדדו",
+      "rationale": " að skera sig út af sorg eða að gera sár; sumir þýða 'gerðust hörðustjörnur', en rótin er að gasha sig"
+    }
+  ],
+  "translation": "Synir eru þið Jahve, Elóhím ykkar; skerið þið ekki ykkur og gjörið ekki skálklett á milli augna ykkar fyrir ⟨á⟩ dauðan.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "04ef3a08525212de66191003461017c55080fb274ec431eedec4f533c64587e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/14\/1-4.1792397923044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Synir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "eru þið"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "skerið þið ykkur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "gjörið"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "skálklett"
+    },
+    {
+      "surface": "בין",
+      "gloss": "á milli"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "augna ykkar"
+    },
+    {
+      "surface": "למת",
+      "gloss": "fyrir ⟨á⟩ dauðan"
+    }
+  ],
+  "timestamp": "2026-10-19T08:18:43.044544285Z",
+  "model": "glm-5.3"
+}

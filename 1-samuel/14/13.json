@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 14:13",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ממותת stendur eitt og orðið 'þá' er bætt við á íslensku til að greina andlag höggvinar"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממותת",
+      "rationale": "Formið er óvenjulegt (infinitivus með repeating m); sumir lesa 'að drepa' eða 'með mátti og megni', en samhengið styður 'drap'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפלו",
+      "rationale": "þáð mönnum féllu fram fyrir Jónatan — endurtekningin 'sá er bar vápn hans ... á eftir honum' tvisvar er stíllbrögð sem og ber að halda"
+    }
+  ],
+  "translation": "Og Jónatan klifraði upp á höndum sínum og á fótum sínum, og sá er bar vápn hans á eftir honum; og þeir féllu fram fyrir Jónatan, og sá er bar vápn hans drap ⟨þá⟩ á eftir honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "fdd7f3da7ae8704e726b1e8687d7a389d1fda6ebba4b27b65e1097729ef85e10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/13-16.1792400534937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "klifraði upp"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "höndum sínum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "fótum sínum"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og sá er bar"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vápn sín"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "á eftir honum"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "og þeir féllu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og sá er bar"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vápn sín"
+    },
+    {
+      "surface": "ממותת",
+      "gloss": "drap"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "á eftir honum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:14.938091259Z",
+  "model": "glm-5.3"
+}

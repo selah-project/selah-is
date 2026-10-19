@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 20:17",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreskan segir aðeins „send“ — andlag vantar, lesandinn fyllir út"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ungmenningjar",
+      "rationale": "נערי er „sveinar\/ungmenni“ — óvissa hvort „hermenn“ eða „ungir menn“"
+    }
+  ],
+  "translation": "Og ungmenningjar höfðingja héraðanna fóru út fyrst, og Ben-Hadad send ⟨er⟩, og þeir sögðu honum og mæltu: Menn hafa farið út úr Shomeron.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5f5bdb97ea07a41ac4c5c839b48a3919a649ae3cbb4d6e15ce7a2a64f0f365d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/20\/17-20.1792402649577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "fóru út"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ungmenningjar"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "höfðingja"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "héraðanna"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "fyrst"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "send"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "og þeir sögðu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og mæltu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "Menn"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "hafa farið út"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "úr Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-19T09:37:29.578168213Z",
+  "model": "glm-5.3"
+}

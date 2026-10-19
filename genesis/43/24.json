@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ביתה hefur stefnumörk ('heim, inn') sem íslenskan segir með 'inn í'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מספוא",
+      "rationale": "Orðið 'fóður' fyrir fénað kemur aðeins hér í Tanakh — gervimynd af ספא 'eta'."
+    }
+  ],
+  "translation": "Og maðurinn færði ⟨את⟩ mennina inn í hús Jósefs og gaf vatn, og þeir þvegu fætur sína; og hann gaf fóður asnum þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "528a826fbbbbcc0efff19f40f6292e331a987eb2c04d6d02115ce91639a812b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/21-24.1792393837834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og maðurinn færði inn"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mennina"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mennina"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "inn í hús"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefs"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "og þeir þvegu"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "fætur sína"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og hann gaf"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "fóður"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "asnum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:10:37.836327876Z",
+  "model": "glm-5.3"
+}

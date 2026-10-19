@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur enga samtengingu; ⟨sem⟩ bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "útlæti",
+      "rationale": "עני er þrygg og þjáning, bókstaflega 'læging'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עברתו",
+      "rationale": "עברה er geisandi útrás ástaræði — reiði tekst ekki á við hita orðsins"
+    }
+  ],
+  "translation": "Ég er sá karlmaður ⟨sem⟩ séð hefir útlæti, í stöng reiði hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/1-4.1792412802033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "sá karlmaður"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "séð hefir"
+    },
+    {
+      "surface": "עני",
+      "gloss": "útlæti"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "í stöng"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "reiði hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:42.033769461Z",
+  "model": "glm-5.3"
+}

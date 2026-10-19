@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "סחף (að skafa af, skola burt) kemur aðeins hér fyrir í Tanakh — 'skolandi rigning' er bókstafleg mynd"
+    },
+    {
+      "kind": "crux",
+      "subject": "fátækur maður",
+      "rationale": "sumir lesa רש sem lýsingarorð ('fátækur maður sem kúgar'), aðrir sem 'rigning ógnuð rain-drottningu' — rithættir líkast"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "hebreska segir bara 'og ekkert brauð' — hver það skolar burt er ósagt"
+    }
+  ],
+  "translation": "Fátækur maður sem kúgar fátæka er eins og skolandi rigning, og ekkert brauð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/28\/1-4.1792411709368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "maður"
+    },
+    {
+      "surface": "רש",
+      "gloss": "fátækur"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "sem kúgar"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "fátæka"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "rigning"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "skolandi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ekkert"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:29.369207269Z",
+  "model": "glm-5.3"
+}

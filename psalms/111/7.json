@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'eru' er bætt við — hebreskan hefur enga sögn í lýsingarseðlinum."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמת\/נאמנים",
+      "rationale": "Rótarsamhengi: sama rót אמן birtist í 'sannleikur' og 'traustar' — orðaleynd tapast í íslensku."
+    }
+  ],
+  "translation": "Verk handa hans eru sannleikur og dómar; traustar eru allar skipanir hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ac6105171b3cc244d57c5875fc5bb9ca82c2c5f9d24bd5aea6be085fb81f9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/111\/5-8.1792410700557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "handa hans"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleikur"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dómar"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "traustar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "skipanir hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:40.558704989Z",
+  "model": "glm-5.3"
+}

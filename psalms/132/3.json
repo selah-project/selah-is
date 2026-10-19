@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "אם 'ef' hér er eiðamynd: 'Ef ég geri þetta — þá gjöri mér svo!' — neitunarfyrirheit, ekki einn spurning; margar þýðingar bæta við 'ekki' sem hebreskan segir ekki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ערש 'rúm með baldachin\/skjöl' og יצוע 'útbreitt rúm' — tvö orð, ekki einn 'beð'."
+    }
+  ],
+  "translation": "Ef ég kem í tjald húss míns, ef ég geng upp á rúmbeð mitt —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/132\/1-4.1792410909978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ég kem"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "í tjald"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "húss míns"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ég geng upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "rúmbeð"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:09.979671015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Fornafni bætt við til að greina merkingu אל ('þessir')."
+    }
+  ],
+  "translation": "Þeir voru fæddir Haráfa í Gat, og féllu þeir í hönd Davíðs og í hönd þjóna hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c770582e49c80fa38409a831fff55de1081b0d05c5c41f12cd8872c94bf28740",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/20\/5-8.1792414959009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Þeir"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "voru fæddir"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "Haráfa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "í Gat"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "og féllu þeir"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og í hönd"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þjóna hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:02:39.010431057Z",
+  "model": "glm-5.3"
+}

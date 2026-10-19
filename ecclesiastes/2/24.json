@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er lífsaflið og andardrátturinn, ekki ódauðleg sála; 'sálu sinni' er hefð en orðið er nákvæmara 'lífsafli'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיד האלהים",
+      "rationale": "kvöldgáta Qóheleþar: 'af hendi Elóhím' — gjöf eða dómur? textinn segir bara uppruna"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'nema að' bætt við til að gera virðingarsetninguna skýra; hebreskan tengir beint"
+    }
+  ],
+  "translation": "Ekkert gott er í manni nema að hann éti og drekki og sýni ⟨את⟩ sálu sinni gott í erfið sinni; þetta hef ég einnig séð, að það er af hendi Elóhím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6344e3e345b785b70ac819c376d0550f4fbadc5e4f69f5e0995771578cbed3a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/2\/21-24.1792412979337.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ekkert"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "í manni"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "að hann éti"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "og drekki"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "og sýni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálu sinni"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu sinni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "í erfið sinni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hef ég séð"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "af hendi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "היא",
+      "gloss": "það ⟨er⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:39.338673602Z",
+  "model": "glm-5.3"
+}

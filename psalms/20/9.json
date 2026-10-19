@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונתעודד",
+      "rationale": "Hapax-kenning; orðið þýðir bókstaflega 'og við endurtókum' — þýðendur skiptast á 'standandi uppréttir' (KJV), 'setjum oss í stöðu' (YLT) og 'setjum vörn' (orðarót עוד, borgarmúr)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרעו\/נפלו gegn קמנו\/ונתעודד",
+      "rationale": "Tvöfalld andstæðupar — hníga\/fallast gegn rísa\/standa — spegla 信ustrúna í versi 8."
+    }
+  ],
+  "translation": "Þeir bundu kné og féllu, en vér rísum upp og stöndum uppréttir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/20\/9-10.1792409376641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Þeir"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "bundu kné"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "og féllu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en vér"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "rísum upp"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "og stöndum uppréttir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:36.641862820Z",
+  "model": "glm-5.3"
+}

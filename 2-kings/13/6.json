@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האשרה",
+      "rationale": "„Aséra“ — KJV „the grove“ (lundurinn); í raun gyðja eða hennar stytta\/súla."
+    },
+    {
+      "kind": "elision",
+      "subject": "בה הלך",
+      "rationale": "„Í henni gengu þeir“ — „henni“ vísar til syndanna; flutt í „í sömu syndum“."
+    }
+  ],
+  "translation": "Þó sneru þeir sér ekki frá syndum húss Jaróbeam, þeim er hann lét ⟨את⟩ Ísrael syndga í; þeir gengu í ⟨sömu⟩ syndum, og Aséra-styttan stóð einnig í Shomeron.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/13\/5-8.1792403232907.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Þó"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "sneru þeir sér frá"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "frá syndum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jaróbeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeim er"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "hann lét syndga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "þeir gengu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og einnig"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Aséra-styttan"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "stóð"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "í Shomeron"
+    }
+  ],
+  "timestamp": "2026-10-19T09:47:12.908581976Z",
+  "model": "glm-5.3"
+}

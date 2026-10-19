@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תחת אשר",
+      "rationale": "Bókstaflegur „undir því að“; rætt sem orsakanót (því að)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hjarta",
+      "rationale": "לבב er innra líffærið og vilinn; „hjarta“ er næsta íslenska mynd."
+    }
+  ],
+  "translation": "Því að þú þjónaðir ekki ⟨את⟩ Jahve, Elóhím þínum, í gleði og góðu hjarta, með gnætt af öllu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/45-48.1792398365395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "þú þjónaðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þínum"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "í gleði"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "og góðu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "með gnætt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "af öllu"
+    }
+  ],
+  "timestamp": "2026-10-19T08:26:05.396574726Z",
+  "model": "glm-5.3"
+}

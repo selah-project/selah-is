@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 41:24",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "copula 'eruð\/eru' er ekki í hebreskri setningu — bætt við á íslensku"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפע",
+      "rationale": "orðið 'ándardráttur\/ekkert' er afar sjaldgæft — myndlíking að verk guðanna séi ekkert"
+    }
+  ],
+  "translation": "Sjá, þér eruð úr engu, og verk ykkar eru andardráttur — viðbjóður er sá sem kýs ykkur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "05d7e4d9ef86b8f57e10b02b354f311efbb619fd4645113a8bf64333d5b40cb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/21-24.1792404584914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "úr engu"
+    },
+    {
+      "surface": "ופעלכם",
+      "gloss": "og verk ykkar"
+    },
+    {
+      "surface": "מאפע",
+      "gloss": "eru andardráttur"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "viðbjóður"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "er sá sem kýs"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ykkur"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:44.915373425Z",
+  "model": "glm-5.3"
+}

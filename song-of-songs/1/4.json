@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 1:4",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מישרים: „réttlátir” (jafnvaxið, beina fólkið); JPS les það um ilm ástarinnar — „lenkt elsku þinni”"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„skulum við” bætt við til að gera ítöksháttinn (cohortativus) sýnilegan á íslensku"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðsformið „Drag þú mig eftir þér” dregur lesandann inn í ljóðið sem tilskipti"
+    }
+  ],
+  "translation": "Drag þú mig eftir þér, hlúpum ⟨skulum við⟩; konungurinn leiddi mig inn í herbergi sín. Fögnum og gleðjumst í þér, minnumst ástanna þinna meira en víns — réttlátir hafa unnið þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/1\/1-4.1792412615721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכני",
+      "gloss": "Drag þú mig"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "eftir þér"
+    },
+    {
+      "surface": "נרוצה",
+      "gloss": "hlúpum"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "leiddi mig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "חדריו",
+      "gloss": "inn í herbergi sín"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "Fögnum"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "og gleðjumst"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    },
+    {
+      "surface": "נזכירה",
+      "gloss": "minnumst"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ástanna þinna"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "meira en víns"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "réttlátir"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "hafa unnið þig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:35.722436100Z",
+  "model": "glm-5.3"
+}

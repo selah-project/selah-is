@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 36:12",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeim",
+      "rationale": "לשכלם er 'að gera þeim barnmissi' — framandlegt orð í glósu: 'berja börn af'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "erfa",
+      "rationale": "וירשוך er 'þau taka yður í eign\/arfastöð', flutt á 'erfa yður'."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Landið talað til í annarri persónu (þú) — svar við ámælinu í v. 13."
+    }
+  ],
+  "translation": "Og Ég láta mann ganga á yður, ⟨את⟩ fólk mitt Ísrael, og þau erfa yður, og þú verður þeim að eign, og þú munt ekki framar berja ⟨þeim⟩ börn þeirra af.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "64e9d588819c13e4e36c242a7a78a2b9015ff822bbffaaa0184400878c1def50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/36\/9-12.1792407681787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "og Ég látk ganga"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "á yður"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólk mitt Ísrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólk mitt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "וירשוך",
+      "gloss": "og þau erfa yður"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "og þú verður"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "að eign"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "munt þú framar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "framar"
+    },
+    {
+      "surface": "לשכלם",
+      "gloss": "berja börn þeirra af"
+    }
+  ],
+  "timestamp": "2026-10-19T11:01:21.788788368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונגינות",
+      "rationale": "Orðið merkir strengjavélar\/tónlist; ýtt er gegn 'söngur' (KJV) eða 'leika á hljóðfæri' (YLT) — her er 'lagið' valið sem miðlungs lesning."
+    },
+    {
+      "kind": "elision",
+      "subject": "ונגינות",
+      "rationale": "Hebreskan segir aðeins 'og strengjatónlist — drekkjendur sterks drykkjar'; sambandið 'ég er lagið' ersett af ýtt lesningu."
+    }
+  ],
+  "translation": "Um mig tala þeir sem sitja í hliðinu, og ég er lagið handa þeim sem drekka sterkan drykk.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/13-16.1792410077525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "בי",
+      "gloss": "um mig"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "þeir sem sitja"
+    },
+    {
+      "surface": "שער",
+      "gloss": "í hliðinu"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "og ég er lagið"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "þeim sem drekka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sterkan drykk"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:17.526459739Z",
+  "model": "glm-5.3"
+}

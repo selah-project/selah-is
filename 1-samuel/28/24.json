@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnirnar 'átti', 'sem var' — hebreskan hefur enga sögn í fyrri málsgrein, samsetning viðHref"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצות",
+      "gloss": "",
+      "rationale": "'ósýrt brauð' fyrir matsot — rótin merkir 'sætleika', það sem ekki er sýrt"
+    }
+  ],
+  "translation": "Og konan átti alikálf í fjósi ⟨sem var⟩ í húsinu, og hún dró á hurð og slátraði honum, og taka kornmjöl og ælti, og bakaði það ósýrt brauð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/28\/21-24.1792401007254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "Og konan átti"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "alikálf"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "í fjósi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "⟨sem var⟩ í húsinu"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "og hún dró á hurð"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "og slátraði honum"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "og taka"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "kornmjöl"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "og ælti"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "og bakaði það"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ósýrt brauð"
+    }
+  ],
+  "timestamp": "2026-10-19T09:10:07.256220427Z",
+  "model": "glm-5.3"
+}

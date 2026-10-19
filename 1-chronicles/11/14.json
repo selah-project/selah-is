@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'þeir' bætt við — hebreska sögnin hefur karlkyns-fleirtölu en nefnandi kemur ekki fram í þessu versi"
+    },
+    {
+      "kind": "crux",
+      "subject": "hjálpræði",
+      "rationale": "תשועה גדולה: KJV 'great deliverance' meja 'sigrinum mikla'; rótin er sömu og hjálpræði\/orusta"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויושע\/תשועה",
+      "rationale": "Sagnorð og nafnorð af sömu rót (ישע) í sömu setningu — samstöfun glatast í íslensku"
+    }
+  ],
+  "translation": "Og ⟨þeir⟩ stilltu sér upp í miðri hlutanum og frelsuðu hann og börðu ⟨את⟩ Filistimenn, og Jahve framvísaði mikilli hjálpræði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/11\/13-16.1792414643917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "stilltu sér upp"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðri"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "hlutanum"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "og frelsuðu hann"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og börðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistimenn"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistimenn"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "og framvísaði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "hjálpræði"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mikilli"
+    }
+  ],
+  "timestamp": "2026-10-19T12:57:23.918615465Z",
+  "model": "glm-5.3"
+}

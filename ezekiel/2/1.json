@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "‏בן אדם er titill Esekíels, „mannssonur“, ekki einstaklingsnafn"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "boðsorðið „statt upp á fætur þínar“ beinist að spámanninum sem lesandinn hlustar með"
+    }
+  ],
+  "translation": "Og hann sagði við mig: Mannssonur, statt upp á fætur þínar, og ég vil tala við ⟨את⟩ þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/2\/1-4.1792406754624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mans"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "statt"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "fætur þínar"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "og ég vil tala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "þig"
+    }
+  ],
+  "timestamp": "2026-10-19T10:45:54.624825549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 34:13",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תנים er 'sjakalar' (fleirtala af תן), ekki drekar — KJS 'dragons' fylgir字号 ekki hebreskuna"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "לבנות יענה er myndlit: 'dætur strútsins' — hygginn einmana fugl, varðveitt bókstaflega"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Áhrifssagnir 'hún' bætt við fyrir והיתה þar sem íslenska krefst frumlags"
+    }
+  ],
+  "translation": "Og upp skulu vaxa þyrnar í vígiturnum hennar, nötlur og þistlar í víggirðingum hennar; og ⟨hún⟩ verður að bústað sjakala, að túni fyrir dætur strútsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/34\/13-16.1792404478272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלתה",
+      "gloss": "og upp skulu vaxa"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "í vígiturnum hennar"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "þyrnar"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "nötlur"
+    },
+    {
+      "surface": "וחוח",
+      "gloss": "og þistlar"
+    },
+    {
+      "surface": "במבצריה",
+      "gloss": "í víggirðingum hennar"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "og verður"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "að bústað"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "sjakala"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "að túni"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "fyrir dætur"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "strútsins"
+    }
+  ],
+  "timestamp": "2026-10-19T10:07:58.273183351Z",
+  "model": "glm-5.3"
+}

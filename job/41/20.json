@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 41:20",
+  "book": "job",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "'bogaskot' fyrir 'sonur boga' (בן קשת) — hebreska myndin er mannlegt nafn á áttinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "קשת (bogi) og לקש (strá) hljóma eins — stafhljóð varðveist ekki á íslensku"
+    }
+  ],
+  "translation": "Bogaskot hríðir hann ekki; steinum slungunnar umbreytast honum í strá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1b9a4decbebf51af192a8150194c0341a91a104a132d87e0876ed2544fce7d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/41\/17-20.1792412578114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבריחנו",
+      "gloss": "hríðir hann"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boga"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "í strá"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "umbreytast"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "steinar"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "slungunnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:22:58.115029105Z",
+  "model": "glm-5.3"
+}

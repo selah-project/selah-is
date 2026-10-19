@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "עכס: 'hæltajárn\/fjötur' — ýmis þýðing telja það líkamsbyttingu ('gjaldfótur'), KJV 'heimskur í fjötrum'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אויל er 'heimskur' í orðskviðunum, ekki bara 'silly'"
+    }
+  ],
+  "translation": "Hann gengur eftir henni í skyndi, eins og nautið kemur til slátrunar og eins og hæltajárn kominn til aga heimskunnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2edb5ac9898e9bf0e8987e5b05ee9734674af8989e1bd60be6c8e01629e1ebd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/7\/21-24.1792411260181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "eftir henni"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "í skyndi"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "eins og nautið"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "slátrunar"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "og eins og hæltajárn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "aga"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "heimskunnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:00.182056322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er andardráttur\/lífskraftur dýrsins, ekki sál í filosófískum skilning"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחמי ... אכזרי",
+      "rationale": "mótsögn: 'miskunn rásaðra er grimm' — harður hnykkur í frumtexta, varðveitt hér"
+    }
+  ],
+  "translation": "Hinn réttláti þekkir sál búfés síns, en miskunn rásaðra er grimm.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/12\/9-12.1792411320091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "þekkir"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "hinn réttláti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sál"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "búfés síns"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "en miskunn"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rásaðra"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "er grimm"
+    }
+  ],
+  "timestamp": "2026-10-19T12:02:00.092523666Z",
+  "model": "glm-5.3"
+}

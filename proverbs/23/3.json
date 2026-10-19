@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Forskeytið והוה í kfalli kemur fram í íslenskri setningu sem ⟨það⟩ til að halda orðarfjölda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחם כזבים",
+      "rationale": "'Braud lyga' → 'lygilostæti' — myndin af brauði sem er lygi hverf í samsett orð"
+    }
+  ],
+  "translation": "Girnist ekki lostæti hans, því ⟨það⟩ er lygilostæti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/1-4.1792411594556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Girnist ekki"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "girnist"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "lostæti hans"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "því ⟨það⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "…"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lygilostæti"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:34.558033815Z",
+  "model": "glm-5.3"
+}

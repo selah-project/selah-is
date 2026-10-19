@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נגע er bókstaflega 'högg\/áverki', hnikið að 'sóttveiki' í þessu sambandi lepra"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מן הצרוע: 'frá hinum sóttveika' vs 'í hinum sóttveika' (KJV\/JPS) — hvort sáran grunn af eða í innan frá"
+    }
+  ],
+  "translation": "Og presturinn skal ganga út út fyrir herbúðirnar, og presturinn skal skoða, og sjá — ef sóttveikinn er grunnur af sólum hans, frá hinum sóttveika:",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/14\/1-4.1792395736684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "skal ganga út"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "út fyrir"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "út"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "herbúðirnar"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "skal skoða"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "er grunnur"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "sóttveiki"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "af sólum hans"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "hinum sóttveika"
+    }
+  ],
+  "timestamp": "2026-10-19T07:42:16.685591716Z",
+  "model": "glm-5.3"
+}

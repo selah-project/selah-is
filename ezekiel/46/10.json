@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשיא",
+      "rationale": "'höfðingi' fyrir nasi — ormyndin er 'hinn upphækkaði', ekki konungstitill"
+    }
+  ],
+  "translation": "Og höfðinginn í þeirra midstöðu: þegar þeir koma inn kemur hann inn, og þegar þeir fara út fer hann út.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e464b1efdf259a2468d20b1cc404e25685bd10747235db0238fa721e5d4a6475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/46\/9-12.1792407957690.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "Og höfðinginn"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "í þeirra midstöðu"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "þegar þeir koma inn"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kemur hann inn"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "og þegar þeir fara út"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "fer hann út"
+    }
+  ],
+  "timestamp": "2026-10-19T11:05:57.691783820Z",
+  "model": "glm-5.3"
+}

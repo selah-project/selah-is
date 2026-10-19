@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "barneignarmyndin",
+      "rationale": "Þrjú þungunarsögn í röð — meðganga, þungan, fæðing — bera fram illdeigð sem óbornið barn; myndin birtist ekki í fögldum orðum."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יחבל",
+      "rationale": "Piel af חבל fyrir þungunarmeðgöngust er afar sjaldgæft — bókstaflegt 'að vinda saman', myndlíkin um þrjá staði."
+    }
+  ],
+  "translation": "Sjá, hann meðgöngust með óþverfu og varðin með ógáfu og fæddi lygi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/13-16.1792409195419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "meðgöngust"
+    },
+    {
+      "surface": "און",
+      "gloss": "með óþverfu"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "og varðin"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "með ógáfu"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "og fæddi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lygi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:35.420198628Z",
+  "model": "glm-5.3"
+}

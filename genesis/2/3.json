@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעשות",
+      "rationale": "'sem Elóhím skapaði til að gjöra' — óvenjuleg endingarsetning; KJV 'created and made', YLT 'prepared for making'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת",
+      "rationale": "sögnin שבת endurtekin frá 2:2 — rót Sjabbatsdagsins sem hér er helgaður"
+    }
+  ],
+  "translation": "Og Elóhím blessaði ⟨את⟩ sjöunda daginn og helgaði ⟨את⟩ hann, því að á honum hvíldi hann frá öllu verk sínu, er Elóhím hafði skapað til að gjöra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/1-4.1792392607401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "blessaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjöunda daginn"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sjöunda"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "helgaði"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann (sjöunda daginn)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בו",
+      "gloss": "á honum"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "hvíldi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frá öllu"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "verk sínu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "hafði skapað"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að gjöra"
+    }
+  ],
+  "timestamp": "2026-10-19T06:50:07.403188498Z",
+  "model": "glm-5.3"
+}

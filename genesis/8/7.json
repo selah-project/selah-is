@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "יצוא ושוב: ‚að fara og snúa aftur‘ — hefð þýðir ‚fljúga fram og aftur‘ en textinn segir ekki að hrafninn hætti; hvort hann sneri aldrei aftur er túlkun, ekki orð textans."
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "Tvö óendanleg sögnhættir (infinitiv-ísland) lýsa endurtekinni hreyfingu."
+    }
+  ],
+  "translation": "Og hann sendi út ⟨את⟩ hrafninn, og hann fór út, að fara og aftur snúa sér, uns vötnin þurruðu upp af jörðinni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/5-8.1792392729614.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Og hann sendi út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hrafninn"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "hrafninn"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "og hann fór út"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "að fara"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "og aftur snúa sér"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uns"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "þurruðu upp"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    }
+  ],
+  "timestamp": "2026-10-19T06:52:09.615626195Z",
+  "model": "glm-5.3"
+}

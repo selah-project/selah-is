@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה תגידו לו",
+      "rationale": "Velspurning eða boð? JPS\/ylt 'hvað segið þið honum?' en KJV les 'að þið segið honum' — hebreskan leyfir bæði."
+    },
+    {
+      "kind": "you",
+      "subject": "to dætur Jerúsjalajím",
+      "rationale": "Bein áttun til dætra Jerúsjalajím — ávarp í kvaðið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחולת אהבה",
+      "rationale": "'Sjúk af ást' — hebreskan heldur fyrirbæri sjúkdóms: 'ástveik', borið niður af ást."
+    }
+  ],
+  "translation": "Ég tieslegg ⟨את⟩ ykkur, dætur Jerúsjalajím: ef þið finnið ⟨את⟩ ástarvin minn — hvað segið þið honum? — að ég er sjúk af ást.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/5\/5-8.1792412649012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ég tieslegg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "dætur Jerúsjalajím"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dætur"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "þið finnið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ástarvin minn"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ástarvin minn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "segið þið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "sjúk"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "af ást"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég er"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:09.013621525Z",
+  "model": "glm-5.3"
+}

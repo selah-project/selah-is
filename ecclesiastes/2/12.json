@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨sá⟩ og ⟨gert⟩ bætt við — hebresku setningin er stög, spurning án sagnar"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה האדם שיבוא אחרי המלך",
+      "rationale": "„hvað getur sá sem kemur eftir konunginum“ — KJS skilur sem arftaka Salómons; YLT les spurninguna lítildar og svarar: „það sem þegar er — þeir hafa gjört það“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמה ... הוללות ... סכלות",
+      "rationale": "þrír stigar — viska, brjálæði, heimsku — raðað niður, endurtaka úr 1:17"
+    }
+  ],
+  "translation": "Og ég sneri mér, ég, til að sjá visku og brjálæði og heimsku; því hvað getur maðurinn, ⟨sá⟩ sem kemur eftir konunginum, ⟨gert⟩ ⟨את⟩ því sem þegar hefur honum verið gjört?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80321160a3071df02b380ba2779c238f184354f0827387fe41c7034980dc9009",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/2\/9-12.1792412987216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "sneri mér"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "til að sjá"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "visku"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "og brjálæði"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "og heimsku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "sem kemur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "því sem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "hefur honum verið gjört"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:47.218288305Z",
+  "model": "glm-5.3"
+}

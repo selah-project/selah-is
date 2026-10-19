@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מדמים: fleirtala 'blóðum' — 'blóðsök' (morð Úríu) eða útil. 'blóðgjald'; KJB 'bloodguiltiness'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקתך rendered 'tsedek þinn' — réttlæti\/réttlæti Guðs í einu orði"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "ákall til Elóhím, Guðs frelsis vélarans"
+    }
+  ],
+  "translation": "Hjálpa mér úr blóðsök, Elóhím, Elóhím frelsis míns, og tunga mín syng af tsedek þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0b316f709416da554966f354afab6cf7b0bd3778a8f6cc8a5b61ccad330c358d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/13-16.1792409861702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Hjálpa mér"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "úr blóðsök"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "frelsis míns"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "syng"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "tunga mín"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedek þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:41.703305242Z",
+  "model": "glm-5.3"
+}

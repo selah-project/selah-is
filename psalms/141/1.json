@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "psalm 141:1",
+      "rationale": "Bæn sem kallar á Jahve með órskipunum — flýttu þér, hlustað — beint tilnaments."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlustað",
+      "rationale": "האזינה er mynduð af אזן — 'útgeyma eyrað' — ekki bara 'hlusta'"
+    }
+  ],
+  "translation": "Sálmur Davíðs. Jahve, ég hef kallað til þín — flýttu þér til mín, hlustað á rödd mína þegar ég kalla til þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/141\/1-4.1792411022209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Sálmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "hef ég kallað til þín"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "flýttu þér"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "hlustað"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "á rödd mína"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "þegar ég kalla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "til þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:02.209634347Z",
+  "model": "glm-5.3"
+}

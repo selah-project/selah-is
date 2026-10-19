@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 13:5",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "áfall",
+      "rationale": "נגע er högg\/áfall, ekki 'sár' — form hans er högg, ekki sjúkdómur"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עמד בעיניו",
+      "rationale": "orðrétt 'stendur í augum hans' — helenska myndin fyrir 'er óbreytt í ásjánni'"
+    }
+  ],
+  "translation": "Og presturinn skal sjá hann á sjöunda degi, og sjá, áfallið stendur óbreytt í augum hans — áfallið hefur ekki breitt út í hörundinu — og presturinn skal loka honum inn í sjö daga í annað sinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "77861d22868ec5da3324352095fe73a6e74a3f905b99c4292c2e35fe58af3d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/13\/5-8.1792395755378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "og skal sjá hann"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sjöunda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "áfallið"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stendur"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "í augum hans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "hefur breitt út"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "áfallið"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "í hörundinu"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "og skal loka honum inn"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "í annað sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:42:35.378629670Z",
+  "model": "glm-5.3"
+}

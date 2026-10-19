@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 1:26",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er önd\/lífskraftur, ekki sál í grískum skilning"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי נפשך",
+      "rationale": "Hebresk eiðsönn: „sál þín lifi“ — eiðurinn útilokar óvirðingu með því að tengjast lífi hins heyranda"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenska krefst samtengingar „érf“ sem hebreska sleppir"
+    },
+    {
+      "kind": "you",
+      "subject": "til Elí",
+      "rationale": "Hanna talar beint til Elí á unrólegum máta"
+    }
+  ],
+  "translation": "Og hún sagði: Bíddu, herra minn, sál þín lifi, herra minn, ég er konan sem stóð hjá þér hér til að biðja til Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2f0a1b144e73c1c25d4ffaa11637c81cf607f9fe224e7495110a247fe88ac3f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/1\/25-28.1792400176914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hún sagði"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Bíddu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sál þín"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "konan"
+    },
+    {
+      "surface": "הנצבת",
+      "gloss": "stóð"
+    },
+    {
+      "surface": "עמכה",
+      "gloss": "hjá þér"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hér"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "til að biðja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T08:56:16.916023910Z",
+  "model": "glm-5.3"
+}

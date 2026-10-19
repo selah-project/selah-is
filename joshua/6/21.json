@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חרם er 'bannað, helgað eyðileggingu' — 'helga' heldur í rótina, en 'eyða alfarið' (KJV) týnir helgi-hljómunni"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Bókstaflega 'að munii sverðsins' — hetfrægt íðul í bók Jósúa; 'odd sverðsins' er valin mynd"
+    }
+  ],
+  "translation": "Og þeir helguðu ⟨את⟩ öllu því sem í borginni var, frá manni og til konu, frá ungi og til aldins, og til nauts og lambs og asna — að munii sverðsins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f7d14af993dc0f6a19849b931cfad13dacc24151420a611cd71d7421dec7c6c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/6\/21-24.1792398971029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "Og þeir helguðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu því sem í borginni var"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borginni"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "frá manni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "frá ungi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "aldins"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nauts"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "og lambs"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "og asna"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "að muni"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðsins"
+    }
+  ],
+  "timestamp": "2026-10-19T08:36:11.029883842Z",
+  "model": "glm-5.3"
+}

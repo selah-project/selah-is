@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על פי דרכו",
+      "rationale": "„Eftir munni leiðar hans“ — bókstaflegt; athygli skiptist milli „eigin leiðar barnsins“, „leiðar sem honum bar“ og „samkvæmt færi hans\""
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "כי fellur saman við גם í „og þótt“ og fær ekki aðra glósu"
+    }
+  ],
+  "translation": "Venj unglinginn eftir munni leiðar hans; og þótt hann eldist mun hann ekki víkja frá henni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/22\/5-8.1792411535593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "Venj"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "unglinginn"
+    },
+    {
+      "surface": "על",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munni"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "leiðar hans"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og þótt"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "hann eldist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "víkja"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "frá henni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:35.594350797Z",
+  "model": "glm-5.3"
+}

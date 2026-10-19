@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח ritað eftir hljóði — rúakh er 'vindi\/andi' og hersegðin er myndlíning, ekki 'andi' í guðfræðilegri merkingu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'á hendi' — hebreskt fyrirkomulag fyrir 'hjá\/við hlið', þýtt sem staðarmerking"
+    }
+  ],
+  "translation": "Og Jahve vakti gegn Jóram ⟨את⟩ rúakh Filistímanna og Arabanna, þeirra sem eru við hlið Kúsíta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/21\/13-16.1792415701992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "Og vakti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jóram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rúakh Filistímanna og Arabanna"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistímanna"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "og Arabanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeirra sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hlið"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kúsíta"
+    }
+  ],
+  "timestamp": "2026-10-19T13:15:01.993581880Z",
+  "model": "glm-5.3"
+}

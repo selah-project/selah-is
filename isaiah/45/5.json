@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint rætt til Kúresjarls (v. 1), kallaðs nafni hans þótt hann þekki ekki Jahve."
+    },
+    {
+      "kind": "substitution",
+      "subject": "guð",
+      "rationale": "אלהים hér með litlum staf 'guð' — í frátöldum skilningi, ekki í sæti Nafnsins."
+    }
+  ],
+  "translation": "Ég er Jahve, og ⟨það⟩ er ekkert annað; hjá mér er enginn guð; ég gyrti þig, en þú þekktir mig ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/45\/5-8.1792404763919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨það⟩ er ekkert"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "annað"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "hjá mér"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er enginn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guð"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ég gyrti þig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "þú þekktir mig"
+    }
+  ],
+  "timestamp": "2026-10-19T10:12:43.920055427Z",
+  "model": "glm-5.3"
+}

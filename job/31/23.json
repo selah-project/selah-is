@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומשאתו",
+      "rationale": "„Upphækkun\/æðsta vegmót“ — KJV „hátsemi“, BSB „dýrð“; orðið merkir bæði upphækkun og freknakladda"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוכל",
+      "rationale": "„ber ég hana“ fyrir „get ég ekki“ — hebreskan segir „ég get ekki“ án andlags"
+    }
+  ],
+  "translation": "Því að ógnun er yfir mér — eyðilegging frá El — og vegna upphækkunar hans ber ég hana ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e62f837fbc4509f27d6f303164333111b49ce26198068a34fb6172b3f91ae074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/31\/21-24.1792412301982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ógnun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "er yfir mér"
+    },
+    {
+      "surface": "איד",
+      "gloss": "eyðilegging"
+    },
+    {
+      "surface": "אל",
+      "gloss": "frá El"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "og vegna upphækkunar hans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ber ég hana"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:21.983313892Z",
+  "model": "glm-5.3"
+}

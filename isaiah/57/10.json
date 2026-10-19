@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Það er vonlaust' sett í sviga — hebreskan hefur aðeins orðið נואש án kolls"
+    },
+    {
+      "kind": "crux",
+      "subject": "חיית ידך מצאת",
+      "rationale": "'þú fannst lífi af hendi þinni' — birting: KJV 'lífið af hendi þinni', ASV\/JPS 'endurnýjun afls'"
+    }
+  ],
+  "translation": "Í mikilleik vegar þíns varðst þú máttvana, en þú sagðir ekki: ⟨Það er vonlaust⟩. Lífið af hendi þinni fannst þú, þess vegna varðst þú ekki veik.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/57\/9-12.1792404915625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "í mikilleik"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "vegar þíns"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "varðst þú máttvana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sagðir þú"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "vonlaust"
+    },
+    {
+      "surface": "חית",
+      "gloss": "lífið"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "af hendi þinni"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "fannst þú"
+    },
+    {
+      "surface": "על",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "varðst þú veik"
+    }
+  ],
+  "timestamp": "2026-10-19T10:15:15.626288011Z",
+  "model": "glm-5.3"
+}

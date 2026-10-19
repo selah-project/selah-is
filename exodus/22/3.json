@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המצא תמצא",
+      "rationale": "nafnháttar mynd „finnst finnst“ — áhersla á að sönnun þarf; oversett sem „finnst vissulega“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שנים",
+      "rationale": "tvöföld bæta — nákvæmur mælikvarði refsingar."
+    }
+  ],
+  "translation": "Ef það sem stolið var finnst vissulega í hönd hans lifandi — hvort sem um naut er að ræða, eða asna, eða kind — skal hann bæta tvöfalt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/1-4.1792394747895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "finnst"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "vissulega finnst"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "í hönd hans"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "það sem stolið var"
+    },
+    {
+      "surface": "משור",
+      "gloss": "naut"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hvort sem"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eða"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kind"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lifandi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tvöfalt"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal hann bæta"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:47.897166754Z",
+  "model": "glm-5.3"
+}

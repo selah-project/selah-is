@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Sagnorð vantar í hebreskuna en íslenskan krefst þess — hefði mátt bera ⟨er⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "þrígangur 'og yfir'",
+      "rationale": "Vers 14–16 endurtaka söng myndina 'og yfir hersveit...' — hrynjandi listans er í endurtekningunni."
+    }
+  ],
+  "translation": "Og yfir hersveit kvengar ættkvíslar sona Zevúlún Elíav sonur Khelón.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b98a625e121261270c9b90ff8d78a19bf62e4eb00fc94fbafe264a21515a8c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/10\/13-16.1792396618717.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "og yfir"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hersveit"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kvenfang ættkvíslar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevúlún"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elíav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Khelón"
+    }
+  ],
+  "timestamp": "2026-10-19T07:56:58.718778412Z",
+  "model": "glm-5.3"
+}

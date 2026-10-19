@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ביון מצולה \/ במעמקי מים",
+      "rationale": "Tvöfaldrin djúpmýri–djúpvötn myndar samhverfa; í íslensku helst hrynjörðin en ekki orðaleikurinn."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושבלת",
+      "rationale": "שבלת merkir bæði 'straumur' og 'ax korns' — flestar þýðingar velja strauminn efur samhenginu."
+    }
+  ],
+  "translation": "Ég sökk í djúpan leir og ⟨þar⟩ er enginn fótstaður; ég hef komið í djúpt vötn og straumurinn hefur yfirfallið mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/1-4.1792410105928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ég sökk"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "í djúpan leir"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "djúpan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨þar⟩ er enginn"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "fótstaður"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ég hef komið"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "í djúpt"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötn"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "og straumurinn"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "hefur yfirfallið mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:45.929246816Z",
+  "model": "glm-5.3"
+}

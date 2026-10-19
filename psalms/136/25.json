@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד er ritað eftir hljóði, ekki þýtt sem 'miskunn' eða 'kærleika'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskeytið 'Hann' bætt við til að gera frumlag skýrt, hebreskan sleppir því"
+    }
+  ],
+  "translation": "Hann gefur brauð öllu holdi, því að að eilífu er khesed hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b005a3986b7f0d63889d4132df88acbdf6a329a954a90888883bde5ceffe42ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/136\/25-26.1792410956517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "holdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:56.518241399Z",
+  "model": "glm-5.3"
+}

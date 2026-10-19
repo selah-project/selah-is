@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'það' bætt við — hebreskan hefur 'mál' sem frumlag við 'kemur'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תורתיו",
+      "rationale": "Tóra — ekki 'lögmál'; hebreska orðið haft óþýtt samkvæmt D2"
+    }
+  ],
+  "translation": "þegar ⟨er⟩ mál hjá þeim, kemur það til mín, og ég dæmi milli manns og náunga hans, og ég læt þá vita ⟨את⟩ settninga Elóhím og ⟨את⟩ Tóra hans.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ce328a5cdd359ac2f207792e9f058d238e634b94be6fbaf36c2442434ab8bab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/18\/13-16.1792394551291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "er"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hjá þeim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mál"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "og ég dæmi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og milli"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "náunga hans"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "og ég læt vita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "settninga"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "settninga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tóra"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tóra hans"
+    }
+  ],
+  "timestamp": "2026-10-19T07:22:31.292828371Z",
+  "model": "glm-5.3"
+}

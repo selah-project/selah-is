@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויאספו ... ויאספו",
+      "rationale": "sama rót endurtekin tvisvar (safna \/ koma saman), stíll frásagnarinnar sem glatast að hluta til."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Eses-Dammím",
+      "rationale": "staðarnafn skrifað sem heiti, en orðlæg merking er 'endi blóðs' — ekki þýdd."
+    }
+  ],
+  "translation": "Og Filistíar söfnuðu ⟨את⟩ herbúðum sínum til orrustu, og komu saman við Sokó, er tilheyrir Júda, og légnuðu milli Sokó og Azeka, í Efes-Dammím.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/1-4.1792400618221.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "söfnuðu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistíar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herbúðum sínum"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "herbúðum sínum"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "til orrustu"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "komu saman"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "við Sokó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tilheyrir Júda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "légnuðu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokó"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og milli"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "í Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Dammím"
+    }
+  ],
+  "timestamp": "2026-10-19T09:03:38.222443253Z",
+  "model": "glm-5.3"
+}

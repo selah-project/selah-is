@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשרת מונים",
+      "rationale": "„tíu sinnum“ — talað hár tölulaus fullyrðing um svik Lábans; „tíu“ er rétt en sumir lesa sem „aftur og aftur“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התל",
+      "rationale": "orðið heldur bæði „að gera grín“ og „að svindla“ — tvíþýðni glatast í íslensku"
+    }
+  ],
+  "translation": "En faðir ykkar svikfullt brékk ⟨את⟩ mig og skipti ⟨את⟩ kaupum mínum tíu sinnum; en Elóhím lætur hann ekki gera mér mein.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/31\/5-8.1792393421399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "En faðir ykkar"
+    },
+    {
+      "surface": "התל",
+      "gloss": "svikfullt brékk"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "og skipti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaupum mínum"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "kaupum mínum"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "sinnum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "lætur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "að gera mein"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mér"
+    }
+  ],
+  "timestamp": "2026-10-19T07:03:41.400434974Z",
+  "model": "glm-5.3"
+}

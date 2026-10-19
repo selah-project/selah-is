@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העליון\/התחתון",
+      "rationale": "Efri og neðri Beit-Khóron — tvennum staðarnafn, myndin tvöföldust í textanum"
+    },
+    {
+      "kind": "measurement",
+      "subject": "varnarborgir",
+      "rationale": "Versið telur og lýsir mannvirkjum Sjólómós með múrum, dyrum og sláum"
+    }
+  ],
+  "translation": "Og hann bygði ⟨את⟩ Beit-Khóron ⟨את⟩ efri og ⟨את⟩ Beit-Khóron ⟨את⟩ neðri, varnarborgir með múrum, dyrum og sláum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/8\/5-8.1792415461738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Og hann bygði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Khóron efri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khóron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "efri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Beit-Khóron neðri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khóron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "neðri"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borgir"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "varnar"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "með múrum"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dyrum"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "og sláum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:11:01.739465230Z",
+  "model": "glm-5.3"
+}

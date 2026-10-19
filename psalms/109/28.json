@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "banna\/blessa",
+      "rationale": "qillel vs. bärakh — andstæðan ber ýgilega rétt í v. 28, speglar v. 17"
+    },
+    {
+      "kind": "alternative",
+      "subject": "þeir risu",
+      "rationale": "qámú getur verið „risu upp“ gegn mér eða einfaldlega „stóðu upp“ — hér velt til „risu upp“ sem ógn"
+    }
+  ],
+  "translation": "Þeir banna — en þú blessar; þeir risu og voru skammaðir, en þræll þinn gleðst.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/25-28.1792410694244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "þeir banna"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en þú"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "blessar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "þeir risu"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "og voru skammaðir"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "en þræll þinn"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gleðst"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:34.245779357Z",
+  "model": "glm-5.3"
+}

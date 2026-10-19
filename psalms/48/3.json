@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ystu fjallsrætur norðurs",
+      "rationale": "ירכתי צפון: bókstaflega 'afturendar norðurs' — sumir lesa 'hæðir Safon' (ugarískt fjall Baals), aðrir 'norðurhlutar' Ísraels"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska hefur ekki sögn — 'er' bætt við á íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "landfræðileg lýsing",
+      "rationale": "Versið mætir og staðsetur Tsjíon — hæð, stefnu og nafnborg"
+    }
+  ],
+  "translation": "Fagur af hæð, gleði allrar jarðar, er fjall Tsjíon, ystu fjallsrætur norðurs, borg mikils konungs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/48\/1-4.1792409834673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Fagur"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "af hæð"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "gleði"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allrar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "fjall"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsjíon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ystu fjallsrætur"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "norðurs"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "borg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mikils"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:14.675479074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ani\/evyon",
+      "rationale": "tvö mismunandi orð fyrir fátæka — útlægur og þurftumæddur — hebreskan greinir þau"
+    },
+    {
+      "kind": "crux",
+      "subject": "lemavet",
+      "rationale": "'hjarta slegið' — lesið bæði sem þau sem eru hjartabrotn og þau sem berast til dauða"
+    }
+  ],
+  "translation": "Þess vegna að hann mundi ekki að gjöra khesed, heldur elti hann mann útlægan og þurftumæddan, og hjartastreystan til að deyja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/13-16.1792410713359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Þess vegna að"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "elti hann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "עני",
+      "gloss": "útlægan"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og þurftumæddan"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "og hjartastreystan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "til að deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:53.360854072Z",
+  "model": "glm-5.3"
+}

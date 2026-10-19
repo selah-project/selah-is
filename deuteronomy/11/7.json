@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "Samhengisútgangur 'eru þau' — hebreskan segir einfaldlega 'augu yðar sáu'"
+    }
+  ],
+  "translation": "Því að augu yðar eru ⟨þau⟩ sem sáu ⟨את⟩ allt hið mikla verk Jahve, sem hann gjörði.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "354792534ee2a2461143150fd65bd7a61da97ea72e11b6624757dbcd66290e81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/11\/5-8.1792397855356.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "augu yðar"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt hið mikla verk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hið mikla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann gjörði"
+    }
+  ],
+  "timestamp": "2026-10-19T08:17:35.357443840Z",
+  "model": "glm-5.3"
+}

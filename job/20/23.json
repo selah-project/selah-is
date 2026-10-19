@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 20:23",
+  "book": "job",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan nefnir ekki hver sendir reiðina — þýðing notar þolmynd til að sleppa við að bæta við hugsuðum (Elóhím)."
+    },
+    {
+      "kind": "crux",
+      "subject": "בלחומו",
+      "rationale": "Merkir bæði 'í holdi hans' og 'á fæðu hans' (JPS: 'into his flesh'; KJV: 'while he is eating') — hér tekið 'meðan hann étur'."
+    }
+  ],
+  "translation": "Þegar kviður hans á að fyllast, verður bruni reiði ⟨hans⟩ sendur gegn honum, og rignir á hann meðan hann étur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3714a0e51d74a7b38e8f0d9b31c34c02b4d63855425ba10ac6919cf1e2ad1a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/20\/21-24.1792412123261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "verður"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "að fyllast"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "kviður hans"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sendur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gegn honum"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "bruni"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "reiði ⟨hans⟩"
+    },
+    {
+      "surface": "וימטר",
+      "gloss": "og rignir"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "á hann"
+    },
+    {
+      "surface": "בלחומו",
+      "gloss": "meðan hann étur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:23.262891869Z",
+  "model": "glm-5.3"
+}

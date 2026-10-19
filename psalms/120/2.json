@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er andardráttur\/lífskraftur, „sál“ er hefðin en ekki það orðið segir bókstaflega"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint ávarp til Jahve — ósk um hjálp"
+    }
+  ],
+  "translation": "Jahve, hlífaðu sálu minni frá vörum lygarinnar, frá svikullri tungu!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/120\/1-4.1792410857303.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "hlífaðu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "frá vörum"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lygarinnar"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "frá tungu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svikullri"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:17.304017465Z",
+  "model": "glm-5.3"
+}

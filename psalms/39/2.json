@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bits",
+      "rationale": "מחסום er eigulega munnkur — keðja yfir trýni; 'bits' er þekkt en ekki bókstaflegt."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Innri rödd hátalarans sem heit sinn: 'Ég sagði' — sjálfáminning, ekki beinn áheyrnarboð."
+    }
+  ],
+  "translation": "Ég sagði: Ég mun gæta veganna minna, að ég felli ekki synd með tunganni minni; ég mun gæta munns míns með bits — meðan ranglátur er til staðar gagnvart mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/39\/1-4.1792409726548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ég sagði"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ég mun gæta"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "veganna minna"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "að ég felli ekki synd"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "með tunganni minni"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ég mun gæta"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "munns míns"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "með bits"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "meðan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranglátur"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "til staðar gagnvart mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:26.549480804Z",
+  "model": "glm-5.3"
+}

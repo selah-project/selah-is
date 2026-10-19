@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 59:16",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה haldið sem tsedek samkvæmt reglu D2"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותושע לו",
+      "rationale": "'armur hans kom honum til hjálpar' — Hifil af ישע; hvort armurinn hjálpar Jahve sjálfum eða fólkinu er umdeilt; 'til hjálpar' heldur tvíræðninni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היא סמכתהו",
+      "rationale": "ákveðin greinir 'hún' fram á undan — tsedek sjálf, ekki annar, ber hann upp; áhersla sem framsetning íslensku heldur með striki"
+    }
+  ],
+  "translation": "Og hann sá að enginn maður var, og hann undraðist að enginn milligöngumaður var; þá kom armur hans honum til hjálpar, og tsedek hans — hún bar hann upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/13-16.1792405024772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "og hann sá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "וישתומם",
+      "gloss": "og hann undraðist"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "מפגיע",
+      "gloss": "milligöngumaður"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "þá kom ... til hjálpar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "armur hans"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "og tsedek hans"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún"
+    },
+    {
+      "surface": "סמכתהו",
+      "gloss": "bar hann upp"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:04.773892207Z",
+  "model": "glm-5.3"
+}

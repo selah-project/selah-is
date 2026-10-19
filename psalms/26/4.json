@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מתי שוא: 'menn tómsins' (reiðubekkir) vs 'menn í lygi' — orðið מתי er hölluð samstöðu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נעלמים 'þeir sem fela (sannleikann)' — 'hyklarar' er túlkan, ekki orðmynd"
+    }
+  ],
+  "translation": "Ekki hef ég setið með mönnum tómsins, og með þeim duldu mun ég ekki koma.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/26\/1-4.1792409532426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "hef ég setið"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mönnum"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tómsins"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og með"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "þeim duldu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mun ég koma"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:12.427947598Z",
+  "model": "glm-5.3"
+}

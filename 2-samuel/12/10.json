@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 12:10",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עקב merkir bókstaflega 'hæl', hér um not sem orsök — 'þar sem' í stað myndarinnar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "íslenskan krefst greinis á 'sverði' og 'eilífu' sem hebreskan hefur ekki"
+    }
+  ],
+  "translation": "Og nú skal ekki víkja sverði frá húsi þínu að eilífu, þar sem þú vanvirtir mig og tókst ⟨את⟩ konu Úríja Hetíta til þess að hafa hana konu þína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3705047977285ac2fcb2415e0a629781111d4c9db3da2d296f83bef416856296",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/10-11.1792416643582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "skal víkja"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverði"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "frá húsi þínu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "að"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "בזתני",
+      "gloss": "þú vanvirtir mig"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "og tókst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konu Úríja Hetíta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "konu"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Úríja"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetíta"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "til þess að hafa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "konu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:30:43.583457935Z",
+  "model": "glm-5.3"
+}

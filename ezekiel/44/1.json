@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "סגור er lýsingarháttur þáðar án sagnar; íslenskan þarf 'var'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "hlið austurs",
+      "rationale": "veggjalýsing musterisins: staðsetning og átt hliðsins talin upp"
+    }
+  ],
+  "translation": "Og hann lét mig snúa aftur ⟨את⟩ veg hliðs helgistaðarins, þess ytri, sem horfir til austurs, og ⟨það⟩ var lokað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/44\/1-4.1792407958984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lét mig snúa aftur"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "veg hliðs helgistaðarins"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "veg"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hliðs"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "helgistaðarins"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "þess ytri"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "sem horfir"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "til austurs"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og ⟨það⟩"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "var lokað"
+    }
+  ],
+  "timestamp": "2026-10-19T11:05:58.985007226Z",
+  "model": "glm-5.3"
+}

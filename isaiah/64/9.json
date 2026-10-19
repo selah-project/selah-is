@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Þrífeld endurtekning: helgu borgir \/ Síón \/ Jerúsjalajím, hvor orð tvisvar — מדבר kemur tvisvar, שממah lokar keðjunni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מדבר",
+      "rationale": "Orðið merkir upptekna beitiland-auðn, ekki bara 'eyðimörk'; myndin af landi þar sem ekkert býr"
+    }
+  ],
+  "translation": "Helgu borgir þínar urðu að eyðimörk, Síón varð eyðimörk, Jerúsjalajím varð auðn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/64\/9-11.1792405116585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "borgir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "helgu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "urðu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "að eyðimörk"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Síón"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "eyðimörk"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "varð"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "auðn"
+    }
+  ],
+  "timestamp": "2026-10-19T10:18:36.586030250Z",
+  "model": "glm-5.3"
+}

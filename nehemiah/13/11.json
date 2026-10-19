@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסגנים",
+      "rationale": "yfurstjórnendur\/sveitarstjórnendur — KJV rulers, ýmist sýslumenn eða fulltrúar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמדם",
+      "rationale": "setti þá á stöður þeirra — sömu rót עמד í sögn og nafni, endurtekið"
+    }
+  ],
+  "translation": "Þá áka ég ⟨את⟩ yfurstjórnendurna og sagði: Af hverju er hús Elóhím yfirgefið? Og ég safnaði þeim og setti þá á stöður þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f5416d6bdb76e0249552951b9ba5e33fb6c4803eb571a32ca5217f9591662ddc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/13\/9-12.1792414348324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "áka ég"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yfurstjórnendurna"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "yfurstjórnendurna"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Af hverju"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "er yfirgefið"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "safnaði ég þeim"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "setti ég þá"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "stöður þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:52:28.325321249Z",
+  "model": "glm-5.3"
+}

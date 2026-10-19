@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תורה\/מורשה",
+      "rationale": "Rím og orðaleikur: Tóra og mórashá — endaprent er tapað í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "arfur",
+      "rationale": "מורשה er 'eign\/arfleið' — tekið sem lýsing orði yfir Tóra, en setningin hefur enga sagnir í hebresku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan sleppur sagninni; íslenskan krefst 'bauð' við Mósje"
+    }
+  ],
+  "translation": "Tóra bauð Mósje oss, arfur söfnuðar Jaakóvs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e5ee716d9876e4b81bbfdbe2056f4861b9f92ce092df48218a7ff51a98bbbed1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/33\/4-4.1792416439461.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oss"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "arfur"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "söfnuðar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakóvs"
+    }
+  ],
+  "timestamp": "2026-10-19T13:27:19.461874815Z",
+  "model": "glm-5.3"
+}

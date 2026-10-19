@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עטף",
+      "rationale": "'að hylja\/þekja' — KJV\/JPS lesa 'veikt', aðrir 'þegar seint var yfir'; báðar lesningar gengnar."
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Fornafnið 'hann' er ekki í hebreskunni; viðmerkt ⟨þær⟩ vísar til stenganna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עטפים\/קשרים",
+      "rationale": "Andstæða tveggja lýsingarorða — 'þau huldu\/veiku' móti 'þau bundnu\/sterku' — komufalli endurtekið."
+    }
+  ],
+  "translation": "En þegar sauðféð var veikt, setti hann ⟨þær⟩ ekki; og urðu þau veiku Lavan, en þau sterku Jaakov.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "7def11520fd0a55328150e46a9097a7845e15b54accd58f7ec7c6a23d8a0863c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/30\/41-43.1792393363099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "En þegar... var veikt"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sauðféð"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "setti"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "þau veiku"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "en þau sterku"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-19T07:02:43.100604625Z",
+  "model": "glm-5.3"
+}

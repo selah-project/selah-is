@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בחלקות",
+      "rationale": "Orðið þýðir bæði 'sleipur' og 'flattri' — mynd óvinanna er sleip og slétt á sérnafnsháttu; tvíræðnin tapast á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "למו er atviksorðalegt fornöfnð 'þeim' — tekið sem markmið fallsins með ⟨…⟩"
+    }
+  ],
+  "translation": "Að vissu, á sleipum stöðum setur þú ⟨þá⟩; þú veldur falli þeirra í eyðileggingu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/73\/17-20.1792410149860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Að vissu"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "á sleipum stöðum"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "setur þú"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨þá⟩"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "þú veldur falli þeirra"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "í eyðileggingu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:29.861286804Z",
+  "model": "glm-5.3"
+}

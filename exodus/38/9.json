@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fyrirbýrna 'voru' bætt við — hebreskan er enclitikt aðalsagnalaus"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קלעí er 'slá\/þykt himinn' — 'tjaldveggir' heldur myndinni af sláðu lérefti"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Hundrað álnir — mæling tjaldveggjarins"
+    }
+  ],
+  "translation": "Og hann gerði ⟨את⟩ garðinn að suðurhlið, í suðurátt; tjaldveggir garðsins voru af hérullum einum, tvinnuðu lérefti, hundrað álnir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2dd8a01858d9824f251c6036dd0c995356e2ee74253efef04747f2865a3b1d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/38\/8-9.1792416319581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gerði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garðinn"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "garðinn"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "að hlið"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "suðurhlið"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "í suðurátt"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "tjaldveggir"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "garðsins"
+    },
+    {
+      "surface": "שש",
+      "gloss": "hérullum einum"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tvinnuðu lérefti"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrað"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "álnir"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:19.582321339Z",
+  "model": "glm-5.3"
+}

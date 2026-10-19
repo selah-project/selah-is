@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישׁך",
+      "rationale": "„Það er hjá þér að senda“ — Íslenzka tekur beina forsögn ogfellur út umsagnarhátturinn"
+    }
+  ],
+  "translation": "Ef þú sendir ⟨את⟩ bróður vor ⟨את⟩ með okkur, förum vér niður og kaupum þér mat.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/1-4.1792393811395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "þú"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sendir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bróður vor"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "bróður vor"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ með okkur"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "förum vér niður"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "og kaupum"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mat"
+    }
+  ],
+  "timestamp": "2026-10-19T07:10:11.396293946Z",
+  "model": "glm-5.3"
+}

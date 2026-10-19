@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תאכל er 'ét' — eldurinn 'ét' eins og drekandi skepna; myndun helst í íslensku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשן\/באפו",
+      "rationale": "reiðin er í nefi Guðs — reykurinn úr nostrum er mynd bræði; raunar orðmynd reiðinnar í hebresku"
+    }
+  ],
+  "translation": "Réit upp reyk úr nösum hans, og eldur úr munni hans ét; glóðir kviknuðu af honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/9-12.1792409410373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "réit upp"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "reyk"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "úr nösum hans"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "og eldur"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "úr munni hans"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ét"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "glóðir"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "kviknuðu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:10.373699586Z",
+  "model": "glm-5.3"
+}

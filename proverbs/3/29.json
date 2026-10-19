@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעך\/רעה",
+      "rationale": "náungi (רע) og ógagn (רעה) hljóma eins á hebresku — orðaleikur sem hverfi í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחרש",
+      "rationale": "orðið þýðir bókstaflega 'plægia\/grafa' — mynd þess að grafa fyrir mönnum, gert að 'gráðu áform'"
+    },
+    {
+      "kind": "you",
+      "subject": "áhorfandinn",
+      "rationale": "bein ávarp í annarri persónu, speki Másebókar til nemanda"
+    }
+  ],
+  "translation": "Gráðu ekki áform um ógagn á náunga þinn, þegar hann býr í öryggi hjá ⟨את⟩ þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/29-32.1792411194884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "gráðu áform"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "náunga þinn"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ógagn"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "þegar hann"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "býr"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "í öryggi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ þér",
+      "marks": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:54.885058907Z",
+  "model": "glm-5.3"
+}

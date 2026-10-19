@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעצר",
+      "rationale": "'að hemja\/hefasta' (ylt: restrain) gegn 'að ræða\/stjórna' (kjv, jps); rótin עצר merkir bæði að halda aftur og að hafa vald"
+    },
+    {
+      "kind": "addition",
+      "subject": "um",
+      "rationale": "Íslenskan þarf forsetningu þar sem hebreska setningin segir aðeins 'sem ég sagði þér'"
+    }
+  ],
+  "translation": "Og Sjemúel sá ⟨את⟩ Sjáúl, og Jahve svaraði honum: Sjá, þetta er maðurinn sem ég sagði þér um; þessi mun ræða fólki mínu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/9\/17-20.1792400408345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Og Sjemúel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjáúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "og Jahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "svaraði honum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ég sagði"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "mun ræða"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "fólki mínu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:00:08.346790396Z",
+  "model": "glm-5.3"
+}

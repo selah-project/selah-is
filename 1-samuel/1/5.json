@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "af tveim andlitum",
+      "rationale": "אחת אפים er tvítala af אף (nös\/andlit): 'einn skammt af tveim andlitum' — þýðendur skiptast á 'tvennur skammtur' (LXX, ASV), 'góður skammtur' (KJV) og 'ákveðinn skammtur' (YLT); mynd tvítölunnar er höfð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kviður",
+      "rationale": "רחם er móðurkviður, látinn sem 'kvið hennar' — ekki 'ógæfa' né 'óbærni'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Khanna",
+      "rationale": "Nafn hennar (חנה, af חן ' náð) berst óþýtt í hljóði hebreskunnar."
+    }
+  ],
+  "translation": "En Khönnu gaf hann eina máneu, af tveim andlitum, því að ⟨את⟩ Khönnu elskaði hann, en Jahve hafði lokað kvið hennar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/1\/5-8.1792400156106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "En Khönnu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gaf hann"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "mánea"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eina"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "af tveim andlitum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khönnu"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khönnu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskaði hann"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "hafði lokað"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "kvið hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:56.107017256Z",
+  "model": "glm-5.3"
+}

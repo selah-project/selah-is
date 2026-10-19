@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאילים",
+      "rationale": "'Eik' eða 'terebinta' (JPS) — tré í blóti, einnig 'sterkir menn' af sömu rót."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skammast sín",
+      "rationale": "בושׁ er bókstaflega 'að fölna', með skjemmt þýðingu 'að skammast sín'."
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Beint áttál við lýðinn í margræðri annarri persónu ('þér'\/'þeir')."
+    }
+  ],
+  "translation": "Því að þér munu skammast sín yfir ⟨את⟩ eikurnar sem þér lönguðust eftir, og verða roðin í kinn af görðunum sem þér völduð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a37068ecedaaa0091e09e7148eea6fe65a1401d31d456dc575b440ff7e178e94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/1\/29-31.1792403621494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "munu skammast sín"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "yfir eikurnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "þér lönguðust eftir"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "og verða roðin í kinn"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "af görðunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "þér völduð"
+    }
+  ],
+  "timestamp": "2026-10-19T09:53:41.495350037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'þeir' bætt við fyrir sögnina, hebreskan hefur aðeins sniðhatt."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור לדור",
+      "rationale": "Endurtekningin 'kynslóð til kynslóðar' er stækkun á tímanum — áhrifin skerðast ekki á íslensku."
+    }
+  ],
+  "translation": "Kynslóð til kynslóðar lofar verk þín, og kraftaverk þín munu þeir ⟨segja frá⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/1-4.1792411079586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Kynslóð"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "til kynslóðar"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "lofar"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "verk þín"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "og kraftaverk þín"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "munu þeir ⟨segja frá⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:59.587605964Z",
+  "model": "glm-5.3"
+}

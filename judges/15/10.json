@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כאשר עשה לנו \/ כאשר עשו לי",
+      "rationale": "Gjalda-fyrir-gjald mótif: 'eins og hann gjörði okkur' svarar 'eins og þeir gjörðu mér' í v. 11 — endurtekningin er kjarni ræðunnar."
+    },
+    {
+      "kind": "elision",
+      "subject": "עלינו",
+      "rationale": "Annað עלינו er sögn 'עלה' með forskeyti, ekki forsetning — 'erum vér staðnir upp'heldur en 'gegn okkur'."
+    }
+  ],
+  "translation": "Og menn Jehúda sögðu: Hví fóruð þið upp gegn okkur? Og þeir sögðu: Til að binda ⟨את⟩ Sjimsjon erum vér staðnir upp, til að gjöra honum það sem hann gjörði okkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "21737c2a557531c6b37406fb41509edb4e3d9d40f4f81421829aca761a9bffd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/15\/9-12.1792399839788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og sögðu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehúda"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "fóruð þið upp"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "gegn okkur"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og þeir sögðu"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "Til að binda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjimsjon"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Sjimsjon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "erum vér staðnir upp"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að gjöra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann gjörði"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "okkur"
+    }
+  ],
+  "timestamp": "2026-10-19T08:50:39.789473114Z",
+  "model": "glm-5.3"
+}

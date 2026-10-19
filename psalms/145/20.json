@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": " 'hann' bætt við — framhaldssögn þarf andlag eða frumlag á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elska þegar",
+      "rationale": " אהביו — 'þeir sem elska hann' — lendingin 'elska þegar' heldur félagsfallinu í heilu"
+    }
+  ],
+  "translation": "Jahve gætir ⟨את⟩ allra elska þegar, en ⟨את⟩ alla hinna óguðlegu eyðir hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/17-20.1792411079373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "gætir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allra elska þegar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allra"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "elska þegar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alla hinna óguðlegu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "hinna óguðlegu"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "eyðir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:59.374908759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שנאיהם er sett sem „þeir sem hötuðu þá“ samkvæmt D3; „óvinir“ er lagi en tapar hetjuna"
+    }
+  ],
+  "translation": "Og hann gaf þá í hendur þjóðanna, og þeir sem hötuðu þá ráðu yfir þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "96b79bed50790099396a203d5e781d85daaa465482431e47b96ee620a5808eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/41-44.1792410621865.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "gaf hann þá"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hendur"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "ráðu yfir"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yfir þeim"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "þeir sem hötuðu þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:21.866442062Z",
+  "model": "glm-5.3"
+}

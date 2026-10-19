@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 39:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רים",
+      "rationale": "KJV 'unicorn' (LXX μονόκερως) gegn 'villinaut' (D4-taflan festir villinaut); 'hjörð' er rangt — það er hópur."
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Jahve spyr Jobs beint í röð spurninga."
+    }
+  ],
+  "translation": "Munur villinauturinn gjarna þjóna þér, eða dvöl hann við ⟨את⟩ krúppi þinn?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b5b76b5b81d8d2b096a7d2b06a160bff40d836b6936325fe53518e3aaf8bb93f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/39\/9-12.1792412470654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היאבה",
+      "gloss": "munur gjarna"
+    },
+    {
+      "surface": "רים",
+      "gloss": "villinauturinn"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjóna þér"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "dvöl"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "אבוסך",
+      "gloss": "krúppi þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:21:10.654671532Z",
+  "model": "glm-5.3"
+}

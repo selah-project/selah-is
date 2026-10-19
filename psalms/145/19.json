@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hjálpar",
+      "rationale": " יושיעם — 'gerir þá örugga\/frelsar þeim' — þýtt 'hjálpar' eða 'frelsar'"
+    }
+  ],
+  "translation": "Það sem þeir sem óttast hann þrá ± að gjöra, og ⟨את⟩ öskruni þeirra heyrir hann og hjálpar þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/17-20.1792411079373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Það sem ... þrá"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "þeir sem óttast hann"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "öskruni þeirra"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "öskruni þeirra"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "heyrir"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "og hjálpar þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:59.374742732Z",
+  "model": "glm-5.3"
+}

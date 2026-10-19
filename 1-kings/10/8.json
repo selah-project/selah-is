@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnirnar 'eru' bættar við — hebreskan lýtur ekki viðtengingu við óskiráð"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי ... אשרי",
+      "rationale": "endurtekið sælísögn í líkingu (parallelismi), varðveitt í íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "til Sálómons",
+      "rationale": "drottningin lofar konunginn í annarri persónu"
+    }
+  ],
+  "translation": "Sælir ⟨eru⟩ menn þínir, sælí ⟨eru⟩ þjónar þínir þessir, þeir er standa fyrir andliti þínu ávallt og heyra ⟨את⟩ þína speki.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/10\/5-8.1792402198860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sælir"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "menn þínir"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "sælí"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "þjónar þínir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessir"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "þeir er standa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fyrir andliti þínu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ávallt"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "og heyra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þína speki"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "þína speki"
+    }
+  ],
+  "timestamp": "2026-10-19T09:29:58.861599556Z",
+  "model": "glm-5.3"
+}

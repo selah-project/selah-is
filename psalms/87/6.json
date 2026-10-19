@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Jahve telur og skráir fólkið — ættartala og skrá, teljandi vers"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Sela",
+      "rationale": "סלה er tónlistarmerki, hlé — ritað Sela, ekki þýtt"
+    },
+    {
+      "kind": "addition",
+      "subject": "þjóðirnar",
+      "rationale": "viðskeyttur greinir bætt við á íslensku, hebreskan hefur beran fleirtolu"
+    }
+  ],
+  "translation": "Jahve telur, þegar skráðir eru þjóðirnar: Hér var sá fæddur. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/87\/5-7.1792410334485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "telur"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "þegar skráðir eru"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hér"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "var sá fæddur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:34.486227674Z",
+  "model": "glm-5.3"
+}

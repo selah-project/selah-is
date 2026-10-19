@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 15:20",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אתך er forsetningin 'með' (H854), ekki markið את (H853); glossan ber ⟨את⟩ samkvæmt verkefnislýsingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחשת\/בצורה",
+      "rationale": "tveggja orða mynd — málmvegg og virkjuð múr — endurtekin mynd frá Jeremía 6:28"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jeremía",
+      "rationale": "heiti Jahve til Jeremía í öðru persónufalli"
+    }
+  ],
+  "translation": "Og ég mun gjöra þig þessu lýði að málmvegg, styrktri múr, og þeir munu berjast gegn þér en munu ekki geta nokru við þik, því ⟨את⟩ með þér er ég, til að frelsa þig og til að bjarga þér, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4d6762db090bba57df542359c1e0d0c153868e94fbd0325d845bb26e27350f76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/15\/17-20.1792405689226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתיך",
+      "gloss": "Og ég mun gjöra þig"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lýði"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "לחומת",
+      "gloss": "að málmvegg"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "málmi"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "styrktri múr"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "og þeir munu berjast"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "gegnn þér"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en munu ekki"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "geta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nokru við þik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ með þér"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "להושיעך",
+      "gloss": "til að frelsa þig"
+    },
+    {
+      "surface": "ולהצילך",
+      "gloss": "og til að bjarga þér"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:28:09.228570821Z",
+  "model": "glm-5.3"
+}

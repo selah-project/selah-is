@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 36:11",
+  "book": "job",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מאון",
+      "rationale": "se FB."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב\/נעימים",
+      "rationale": "Samstæða tvenna 'gæsku\/sælu' byggir hebreska hnykkninguna á dögum og árum; hún helst í íslenskunni."
+    }
+  ],
+  "translation": "Ef þeir hlýða og þjóna, ljúka þeir dögum sínum í gæsku og árum sínum í sælu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/36\/9-12.1792412413835.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "þeir hlýða"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "og þjóna"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ljúka þeir"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "dögum sínum"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "í gæsku"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "og árum sínum"
+    },
+    {
+      "surface": "בנעימים",
+      "gloss": "í sælu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:20:13.836564258Z",
+  "model": "glm-5.3"
+}

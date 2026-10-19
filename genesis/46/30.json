@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמותה הפעם",
+      "rationale": "'Ég dey þessa sinn' — óviss framtíðarform; 'nú má ég deyja' vs. 'lát mig deyja'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnfylling 'ert' bætt við, hebreskan sleppir samgangni."
+    }
+  ],
+  "translation": "Og Ísrael sagði við Jósef: Nú má ég deyja, eftir að ég hef séð ⟨את⟩ andlit þitt, því að þú ert ⟨enn⟩ á lífi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "94c079aceecc700683322ab6c874059cb87273c745447e3d849441143f8aa2b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/46\/29-32.1792393919358.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "má ég deyja"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "nú"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir að"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ég hef séð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andlit þitt"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlit þitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ert ⟨enn⟩ á lífi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "á lífi"
+    }
+  ],
+  "timestamp": "2026-10-19T07:11:59.359850731Z",
+  "model": "glm-5.3"
+}

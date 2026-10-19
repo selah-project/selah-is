@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hver",
+      "rationale": "Nafnorð í eintölu á eftir fleirtölu; 'hver þeirra' gerir et-tölu skýra á íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיל אל־חיל",
+      "rationale": "Endurtekningin 'úr styrk í styrk' er stígandi hrynjandi, varðveitt semrituð."
+    }
+  ],
+  "translation": "Þeir ganga úr styrk í styrk; ⟨hver⟩ þeirra sér Elóhím í Tsjíon.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/84\/5-8.1792410379433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Þeir ganga"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "úr styrk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "styrk"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "í Tsjíon"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:19.434585706Z",
+  "model": "glm-5.3"
+}

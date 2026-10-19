@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 16:7",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ובשלת merkir bókstaflega 'sjóða' (2. Mós 12:9 bannnar sjóðun), en KJV og aðrar segja 'steikja'; hebreska orðið sjálft er 'sjóða'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ופנית er bókstaflega 'og þú snýrð', þýtt sem 'hverfa af stað'"
+    }
+  ],
+  "translation": "Og þú skalt sjóða og eta á þeim stað sem Jahve Elóhím þinn velur, og þú skalt hverfa af stað morguninn eftir og ganga til tjalda þinna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/16\/5-8.1792397987859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשלת",
+      "gloss": "Og þú skalt sjóða"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "og eta"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "á þeim stað"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "velur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨þar⟩"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "og þú skalt hverfa af stað"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "morguninn eftir"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "og ganga"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "til tjalda þinna"
+    }
+  ],
+  "timestamp": "2026-10-19T08:19:47.860532467Z",
+  "model": "glm-5.3"
+}

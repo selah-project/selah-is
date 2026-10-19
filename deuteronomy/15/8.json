@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתח תפתח \/ העבט תעביטנו",
+      "rationale": "Tvö ófrávegbör infinitif í sömu versinu — 'opna mátt þú opna, lána mátt þú honum lána' — fullkominn ætlan, aðeins gefið í íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחסרו \/ יחסר",
+      "rationale": "Sama rót χסר tvisvar — 'sakna' og 'skorta' — endar versið með samhljóða."
+    }
+  ],
+  "translation": "heldur skalt þú opna ⟨את⟩ hönd þína víða fyrir honum og lána mátt þú honum lána, nægilega til þess sem hann saknar, þess sem skortir hann.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/15\/5-8.1792398015586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "opna"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "þú opnar víða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hönd þína"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hönd þína"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "og lána"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "mátt þú honum lána"
+    },
+    {
+      "surface": "די",
+      "gloss": "nægilega"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "til þess sem hann saknar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þess"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "sem skortir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T08:20:15.587582173Z",
+  "model": "glm-5.3"
+}

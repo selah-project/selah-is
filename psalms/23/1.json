@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur ekki sögn — JHVH og hirðir minn standa hlið við hlið, sagnliður bætt við á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð",
+      "rationale": "Sigurinn talar til Davíðs; fyrsta persóna 'minn\/mig' gefur til kynna beina ættjarðartengingu"
+    }
+  ],
+  "translation": "Sálmur Davíðs. Jahve ⟨er⟩ hirðir minn, ekkert mun mig vanta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/23\/1-4.1792409472264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Sálmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "hirðir minn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekkert"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "mun mig vanta"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:12.264625703Z",
+  "model": "glm-5.3"
+}

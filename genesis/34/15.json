@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "meðal ykkar",
+      "rationale": "Hebreska 'כל זכר' segir aðeins 'allan karlmann'; íslenska þarf staðsetningu"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נאות",
+      "rationale": "Orðið נאות (að samþykkja) er afar sjaldgæft — aðeins hér og í Mós 24"
+    }
+  ],
+  "translation": "Aðeins í þessu samþykkjum vér ykkur: ef þér verðið eins og vér, að umskera ykkur hvern karlmann meðal ykkar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "48ee8be64a6bfe91abe09221571ee01a9d29ea9e599cb0366df7dcfc714f1334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/34\/13-16.1792393530791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Aðeins"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "í þessu"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "samþykkjum vér"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "þér verðið"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "eins og vér"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "að umskera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvern"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karlmann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:05:30.792666992Z",
+  "model": "glm-5.3"
+}

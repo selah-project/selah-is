@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 10:21",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אחד",
+      "rationale": "\"einn\" fellur saman við \"enginn\" — á íslensku þarf ekki tvö orð"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתחזק",
+      "rationale": "'sterktist við mig' (sjálfur sterktur) vs 'styður mig\/heldur með mér' — KJV 'holdeth with me'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "sannleika ritið",
+      "rationale": "ritað sannleika rit — uppruni texta og leynd þess ekki gefin"
+    },
+    {
+      "kind": "secret",
+      "subject": "נגד לך",
+      "rationale": "skáldsagan segði: ég mun opinbera þér það sem ritað er — hulið kennisgjöf"
+    }
+  ],
+  "translation": "Þó mun ég segja þér ⟨את⟩ það sem ritað er í sannleika ritinu, og enginn sterktist með mér gegn þessu, nema Mikael, höfðingi yðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "04983feb094f7e365db70439fe7ecf4cacb27b06defbeea0249dd71ed6c81c24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/10\/21-21.1792413730119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Þó"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "mun ég segja"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það sem ritað er í sannleika ritinu"
+    },
+    {
+      "surface": "הרשום",
+      "gloss": "það sem ritað er"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "í ritinu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "מתחזק",
+      "gloss": "sterktist"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "með mér"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nema"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Mikael"
+    },
+    {
+      "surface": "שרכם",
+      "gloss": "höfðingi yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:42:10.119671971Z",
+  "model": "glm-5.3"
+}

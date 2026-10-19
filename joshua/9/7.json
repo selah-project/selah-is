@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "eintala á móti fleirtölu",
+      "rationale": "אתה og לך eru eintala („þú“, „við þig“) en fléttan talar við Hívíta í fleirtölu — ýmsir þýðendur jafna út í fleirtölu, hebreskan heldur eintölunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨þá⟩",
+      "rationale": "Íslenskan þarf viðtökufornafn sem hebreskan sleppir."
+    }
+  ],
+  "translation": "Og menn Ísraels sögðu við Hívíta: Kannski býr þú í miðju okkar — og hvernig skyldum við ⟨þá⟩ skera sáttmála við þig?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "13a945607580002e073b48087e4f52cea151529219177e00709f44a7a29a85c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/9\/5-8.1792398957448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og … sögðu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hívítann"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Kannski"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "í miðju okkar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "býr"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "og hvernig"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "skyldum við skera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "við þig"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmála"
+    }
+  ],
+  "timestamp": "2026-10-19T08:35:57.449794216Z",
+  "model": "glm-5.3"
+}

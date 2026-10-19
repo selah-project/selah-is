@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur og hungur — 'sál' er þröng þýðing"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "á íslensku þarf eignarfornöfnin ('sinnar') sem hebreskan ber í endingunni"
+    }
+  ],
+  "translation": "Réttlátur étur til mettunar sálar sinnar, en kviður ranglátra skortir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ccca0a766737d01783c5100890cb8b191844fa6b052813071620d84488539b42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/13\/25-25.1792411291778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "réttlátur"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "etur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "til mettunar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálar sinnar"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "en kviður"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ranglátra"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "skortir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:31.778868796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Manasseh-Ephraim verbs",
+      "rationale": "Hebrew gives no verb; the devouring verb from v. 19 carries over — tribes 'eat' one another."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "Literally 'his nose\/nostrils', an idiom for anger."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "chiasm",
+      "rationale": "Manasseh\/Ephraim\/Ephraim\/Manasseh mirror structure expressing mutual destruction."
+    }
+  ],
+  "translation": "Manasseh ⟨את⟩ Ephraim, and Ephraim ⟨את⟩ Manasseh; together they are against Judah. For all this his anger is not turned away, and his hand is still stretched out.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "94444872f9c212dbb87964f681d85256d2f192592ab9cb7e9d43d14c190a5796",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/9\/17-20.1792403867669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Manasseh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ephraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephraim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "and Ephraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manasseh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasseh"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "together"
+    },
+    {
+      "surface": "המה",
+      "gloss": "they"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "for all"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "this"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "שב",
+      "gloss": "is turned away"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "his anger"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "and still"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "his hand"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "is stretched out"
+    }
+  ],
+  "timestamp": "2026-10-19T09:57:47.670657339Z",
+  "model": "glm-5.3"
+}

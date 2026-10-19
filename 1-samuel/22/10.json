@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mat",
+      "rationale": "צידה er farimatur, matur fyrir för — 'farasjóður' væri grunnmyndin."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישאל לו ביהוה",
+      "rationale": "Dóeg fullyrðir að Akímélek hafi spurt Jahve fyrir Davíð — 1. Mós 21:2 segir aðeins að Akímélek spurði Jahve; að hvers vegna er hér umdeilt."
+    }
+  ],
+  "translation": "Og hann spurði fyrir hann hjá Jahve og gaf honum mat, og ⟨את⟩ sverð Gólíats Filisteamanns gaf hann honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "db24cb0b17f4e24899bc10c1fd29cdb1c5db4bdae090cc71ba83fb18d199f401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/22\/9-12.1792400810678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Og hann spurði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fyrir hann"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "hjá Jahve"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "og mat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sverð Gólíats"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverð"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Gólíats"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisteamanns"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:50.679503284Z",
+  "model": "glm-5.3"
+}

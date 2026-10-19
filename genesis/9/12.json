@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "andvérp",
+      "rationale": "נפש שומ 'sál' — andardráttur\/lífskraftur"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "samtengingin 'er' bætt við, hebreskan segir aðeins 'sem með ykkur'"
+    }
+  ],
+  "translation": "Og Elóhím sagði: Þetta er merki sáttmálsins sem ég gef milli mín og ykkar og hvers lifandi andvérps sem ⟨את⟩ með ykkur er, til kynslóða eilífu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/9\/9-12.1792392695509.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "אות",
+      "gloss": "merki"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sáttmálsins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gef"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "milli mín"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "og ykkar"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og milli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hvers"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "andvérps"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lifandi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ með ykkur"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "til kynslóða"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:35.510516556Z",
+  "model": "glm-5.3"
+}

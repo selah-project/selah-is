@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf framtíðarhjálparsögnina 'mun' fyrir ásetningsforminn (cohorte) אבקשה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leita góðs",
+      "rationale": "בקש טוב er orðatækni — 'leita góðs fyrir þig' — en bókstafleg merking er 'sækja\/óra eftir gæfu þinni'"
+    }
+  ],
+  "translation": "Vegna húss Jahve Elóhím vor mun ég leita góðs fyrir þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d1e3aadcf74eaea365fa585b1ed22047f7bc5a1a698b41f8f4f823d55d7dda26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/122\/9-9.1792410866969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vor"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "mun ég leita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góðs"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:26.969435227Z",
+  "model": "glm-5.3"
+}

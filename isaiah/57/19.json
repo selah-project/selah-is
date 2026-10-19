@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום",
+      "rationale": "tvöföld 'friður, friður' — endurtekning sem undirstrikar fullkominn frið"
+    },
+    {
+      "kind": "crux",
+      "subject": "סדר orða",
+      "rationale": "jps setur 'skapa ávöxt varra' eftir 'segir Jahve', kjv á undan — hebreska setningarskipanin er laus"
+    }
+  ],
+  "translation": "Ég skapa ávöxt varra: Friður, friður þeim er fjarri er og þeim er nálægur, segir Jahve, og ég mun lækna hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4ea6d513f3e08da37aca3c846d55a885418a37f3eb838b416de2fd94e6a4f465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/57\/17-20.1792404959519.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "ég skapa"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "ávöxt"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "varra"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "þeim er fjarri er"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "og þeim er nálægur"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "og ég mun lækna hann"
+    }
+  ],
+  "timestamp": "2026-10-19T10:15:59.520928398Z",
+  "model": "glm-5.3"
+}

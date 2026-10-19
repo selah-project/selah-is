@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Shúdad (eytt) og nidmá (þaggað) endurtekin tvisvar í spegilhendingu — strofamynstur endurtaktar eyðileggingar er glatað í þýðingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נדמה merkir bókstaflega 'að verða þegur\/þagga' — 'að farast' er víðtækari merking orðsins"
+    }
+  ],
+  "translation": "Áburður um Móab. Því að um nótt var Ar í Móab eytt, ⟨er⟩ þaggað; því að um nótt var Kir í Móab eytt, ⟨er⟩ þaggað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/15\/1-4.1792404003035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "áburður"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "um nótt"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "var eytt"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "í Móab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "þaggað"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "um nótt"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "var eytt"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "í Móab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "þaggað"
+    }
+  ],
+  "timestamp": "2026-10-19T10:00:03.035834856Z",
+  "model": "glm-5.3"
+}

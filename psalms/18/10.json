@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "er — copula sem hebreskan heldur ekki fram"
+    },
+    {
+      "kind": "secret",
+      "subject": "ערפל",
+      "rationale": "þykkt myrkur — falin þoka, Guð kemur niður hulin"
+    }
+  ],
+  "translation": "Og hann sveigði himnana og steig niður, og þykkt myrkur var undir fótum hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/9-12.1792409410373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "og hann sveigði"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnana"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "og steig niður"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "og þykkt myrkur"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "fótum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:10.373883004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eiginkonu",
+      "rationale": "Íslenskan þarf orðið 'eiginkonu' til að gera hjónabandið skýrt; hebreskan segir aðeins 'gaf'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויואל",
+      "rationale": "'Samþykkti\/villingur' (KJV content) gegn 'sver' (Wycliffe) — rótin snýr að viljaföstu ákvörðun"
+    }
+  ],
+  "translation": "Og Mósje kvaðst vilja búa hjá ⟨את⟩ manninum, og hann gaf Mósje ⟨את⟩ Tsíporu, dóttur sína, eiginkonu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/2\/21-24.1792394098095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "kvaðst vilja"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "búa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjá manninum"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manninum"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsíporu"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsíporu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "dóttur sína"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mósje"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:58.096201652Z",
+  "model": "glm-5.3"
+}

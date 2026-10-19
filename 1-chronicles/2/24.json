@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכלב אפרתה",
+      "rationale": "erfiður texti: 'í Kalev-Efrata' (staður) eða 'Kalev [fór] að Efratu' — BHS stingur upp á viðgerð; KJS\/ASV lesa sem staðarnafn"
+    },
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "hebreska setningin festir tíma viðsetningarinnar með umsagnsorði sem vantar í íslenskuna"
+    }
+  ],
+  "translation": "Og eftir dauða Khetzrons — í Kalev-Efrata — þá fæddi Avíja, kona Khetzrons, honum ⟨את⟩ Ashkhúr, föður Tekóa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6cdf964d06b405ba928c9883a91d37b5554a7cbd71e3802289c528d02cca780a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/2\/21-24.1792414455021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Og eftir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetzrons"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "í Kalev"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Efrata"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "og kona"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetzrons"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Avíja"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "þá fæddi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashkhúr"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "Ashkhúr"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "föður"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekóa"
+    }
+  ],
+  "timestamp": "2026-10-19T12:54:15.023445416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כבודם-framhald",
+      "rationale": "Enginn greinir við kálfa í hebresku; íslenskan heldur ósamtektargreini eftir 'gerðu'."
+    }
+  ],
+  "translation": "Þeir gerðu kálfa í Khoréb og lögðust í tilbeiðslu fyrir steyptu líkneski.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/17-20.1792410636385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "Þeir gerðu"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kálfa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "í Khoréb"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og lögðust í tilbeiðslu"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "fyrir steyptu líkneski"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:36.386812836Z",
+  "model": "glm-5.3"
+}

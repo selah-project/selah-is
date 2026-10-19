@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kirjat-Séfer",
+      "rationale": "Nafnið þýðir 'bókarborg' — eldra nafn Debír; sumir telja það vísa til skjalasafns eða skrifstofu."
+    },
+    {
+      "kind": "elision",
+      "subject": "כלב",
+      "rationale": "Frumlag ('Kaleb' \/ 'hann') skilið sem 'hann' — hebreskan nefnir hann ekki aftur í þessu versi."
+    }
+  ],
+  "translation": "Og hann fór þaðan upp gegn íbúum Debír — en nafn Debír var áður Kirjat-Séfer.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0deff7f1ffbe6908a79d4b1594176b47a058f85ff604b3b4af62562b8375d31c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/15\/13-16.1792399178813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Og hann fór upp"
+    },
+    {
+      "surface": "משם",
+      "gloss": "þaðan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "íbúum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debír"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en nafn"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debír"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "var áður"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    }
+  ],
+  "timestamp": "2026-10-19T08:39:38.814592092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הכבד er „þungi“ í mynduðum skilningi — vegmætt, auðæfi; „glæsibrag“ heldur myndinni en ekki þyngd orðsins"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„sér“ bætt við með עשה til að gera íslenskuna náttúrulega"
+    }
+  ],
+  "translation": "Og hann hlýddi ⟨את⟩ orðum sona Lavans, er þeir sögðu: Jaakov hefur tekið ⟨את⟩ allt sem faðir vor átti, og úr því sem faðir vor átti hefur hann aflað sér ⟨את⟩ alls þessa glæsibrag.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/31\/1-4.1792393390316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "hlýddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orðum"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orðum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavans"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "er þeir sögðu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hefur tekið"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "faðir vor átti"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "og úr því sem"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "faðir vor átti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hefur hann aflað sér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alls þessa glæsibrag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "þessa glæsibrag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T07:03:10.317585362Z",
+  "model": "glm-5.3"
+}

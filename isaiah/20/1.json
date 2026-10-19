@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סרגון",
+      "rationale": "Sargon — þetta er eina minningin á Sargon konungi í Tanakh, þótt hann ríkti yfir Assýríu í sautján ár."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "gloss": "חה",
+      "rationale": "אתו er aleph-tav með persónufornafni; valdi að merkja aðeins fornafnið 'hann', ekki tvöfaldan ⟨את⟩-markara."
+    }
+  ],
+  "translation": "Á því ári er Tartan kom til Asjdódar, er Sargon, konungur Assýríu, sendi hann, og hann barðist gegn Asjdód og hertók hana,",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dee70f1b0a5d118d2e4945ec1812b963b48feee69148f82443a9aeb3d94a3d20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/20\/1-4.1792404075448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Á því ári"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "til Asjdódar"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "er … sendi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assýríu"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "og barðist"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "gegn Asjdód"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "og hertók hana"
+    }
+  ],
+  "timestamp": "2026-10-19T10:01:15.449424085Z",
+  "model": "glm-5.3"
+}

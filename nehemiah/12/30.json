@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sig' bætt við — hebreska snýr samsöngvaþættingunni að fyrra lagverki"
+    }
+  ],
+  "translation": "Og prestarnir og Levítarnir hreinsuðu sig, og þeir hreinsuðu ⟨את⟩ fólkið og ⟨את⟩ hliðin og ⟨את⟩ múrinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/12\/29-32.1792414330186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "hreinsuðu sig"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og Levítarnir"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "hreinsuðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólkið"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hliðin"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "hliðin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "múrinn"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "múrinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:52:10.187371891Z",
+  "model": "glm-5.3"
+}

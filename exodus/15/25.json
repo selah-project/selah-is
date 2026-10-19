@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 15:25",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Pronoun ⟨hans⟩ added at end — Hebrew suffix on נסהו covers object, but word order in Icelandic requires the bracketed pronoun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם שם... ושם",
+      "rationale": "Triple repetition of shem ('there\/put\/there') — 'þar setti... og þar' keeps placement but loses the sound-play"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Statute and ordinance given to the people at Marah; the testing addresses Israel"
+    }
+  ],
+  "translation": "Og Mósje skrek til Jahve, og Jahve sýndi honum við, og hann kastaði honum í vatnið, og vatnið sættist. Þar setti hann honum lög og rétt, og þar freistaði hann ⟨hans⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "25f3f04862d03b4188d45ffd38513932e81438dcff2da64f38dbe2b5fd5a117e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/15\/25-27.1792394494932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "skrek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויורהו",
+      "gloss": "sýndi honum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "við"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "kastaði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnið"
+    },
+    {
+      "surface": "וימתקו",
+      "gloss": "sættist"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnið"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "setti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lög"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og rétt"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "og þar"
+    },
+    {
+      "surface": "נסהו",
+      "gloss": "freistaði hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:21:34.933863345Z",
+  "model": "glm-5.3"
+}

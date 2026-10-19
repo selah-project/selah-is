@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד ritað eftir hljóði, samkvæmt D2, ekki 'miskunn'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðshátturinn 'Þakkið' kallar á lesandann\/tilbeiðandann, eins og í öllum þessum lofsálm"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Tvítala השמים ('himnatvímyndin') renur saman í eintölu 'himnanna' á íslensku"
+    }
+  ],
+  "translation": "Þakkið El himnanna, því að að eilífu er khesed hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b005a3986b7f0d63889d4132df88acbdf6a329a954a90888883bde5ceffe42ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/136\/25-26.1792410956517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Þakkið"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:56.518489985Z",
+  "model": "glm-5.3"
+}

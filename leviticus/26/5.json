@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לשבע er sögn í beygingu („að mettast“), flutt á atviksordaorð"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Þessar loforð beinast til Ísraels í önnur persónu fleirtölu"
+    }
+  ],
+  "translation": "Og þreskingin muni ná fram á vínberjatímann, og ⟨את⟩ vínberjatíminn muni ná fram á ⟨את⟩ sáningartímann, og þér munuð eta brauð ykkar ⟨á⟩ nógund, og búa ⟨í⟩ öryggi í landi ykkar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/5-8.1792396202890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "og muni ná fram á"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkar"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "þreskingin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vínberjatímann"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "vínberjatíminn"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "og vínberjatíminn"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "muni ná fram á"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáningartímann"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sáningartímann"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "og þér munuð eta"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "brauð ykkar"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "á nógund"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "og búið"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "í öryggi"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "í landi ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:50:02.891462059Z",
+  "model": "glm-5.3"
+}

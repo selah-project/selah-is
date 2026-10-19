@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכאב",
+      "rationale": "Mynduð með כְּ (eins og) + אָב (faðir) — sumar sagnir lesa 'og hörmung' (כְּאֵב); faðir-myndin er ríkjandi."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Sagnorðið 'gerir' í samanburðinum ('eins og faðir son') vantar í hebreskunni."
+    }
+  ],
+  "translation": "Því að ⟨את⟩ þann sem Jahve elskar, þá áminnir hann, og eins og faðir ⟨את⟩ son, sem hann líkar við.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3ae0f6e911489f8f4e860ffe2516c72982e0b8c5bf1a37d138e8667248fc0266",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/9-12.1792411153048.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þann sem Jahve elskar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þann sem"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "elskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "þá áminnir hann"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "og eins og faðir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "son"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "sem hann líkar við"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:13.049497550Z",
+  "model": "glm-5.3"
+}

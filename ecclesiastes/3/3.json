@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפרוץ",
+      "rationale": "orðið merkir bókstaflega 'að brjótast\/bresta' — 'rífa niður' er andstæða 'að byggja' af samhenginu"
+    }
+  ],
+  "translation": "Stund að drepa, og stund að græða; stund að rífa niður, og stund að byggja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/3\/1-4.1792412966942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "stund"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "að drepa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og stund"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "að græða"
+    },
+    {
+      "surface": "עת",
+      "gloss": "stund"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "að rífa niður"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og stund"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "að byggja"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:26.943505102Z",
+  "model": "glm-5.3"
+}

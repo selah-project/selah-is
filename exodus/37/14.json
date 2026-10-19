@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "húsföstur",
+      "rationale": "בתים er bókstaflega 'hús' — hér um hringina sem 'hús' eða heldur fyrir stangirnar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "framstöðunni",
+      "rationale": "המסגרת er 'inngirðing, ramma' — 'framstöð' heldur myndinni af umgerð borðsins."
+    }
+  ],
+  "translation": "Nálægt framstöðunni ⟨eru⟩ hringinn — húsföstur fyrir stangirnar til að bera ⟨את⟩ borðið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ca7e97eb19995cd058903b718b62a714c99d6e42964951f1e3eda8183e9ed4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/37\/13-16.1792395235615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "Nálægt"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "framstöðunni"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨eru⟩"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "hringin"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "húsföstur"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "fyrir stangirnar"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "til að bera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borðið"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "borðið"
+    }
+  ],
+  "timestamp": "2026-10-19T07:33:55.616865110Z",
+  "model": "glm-5.3"
+}

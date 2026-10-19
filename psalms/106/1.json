@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann er",
+      "rationale": " Hebreskan segir einfaldlega 'því að góður' — framhaldsögn er bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": " חסð er ritað eftir hljóði, ekki þýtt sem 'miskunn'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Lofjið Ja",
+      "rationale": " Náðarkall til lesandans í fleirtölu boðhátt"
+    }
+  ],
+  "translation": "Lofjið Ja, þakkið Jahve, því að hann er góður, því að khesed hans ⟨varir⟩ að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/1-4.1792410636214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lofjið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "þakkið"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góður"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:36.215613374Z",
+  "model": "glm-5.3"
+}

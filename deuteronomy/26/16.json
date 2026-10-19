@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er heldur 'kverk\/ænd\/lífskraftur' en 'sál' í síðari merkingu."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Beint ávarp til Ísraels: boðið við gjörð setninga og dóma með öllu hjarta og allri sálu."
+    }
+  ],
+  "translation": "Þennan dag býður Jahve Elóhím þinn þér að gjöra ⟨את⟩ þessar setningar og ⟨את⟩ dómana, og þú skalt gæta þeirra og gjöra ⟨את⟩ þær með öllu hjarta þínu og allri sálu þinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "00106c9a54a47ed101b3eb4ed699cf5bae087ef8a1ad89e17185b2140eed0257",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/26\/13-16.1792398336752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Þennan dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þennan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "býður þér"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessar setningar"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "setningar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dómana"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dómana"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "og þú skalt gæta"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gjöra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ þær",
+      "marks": "setningarnar og dómanna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hjarta þínu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og allri"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sálu þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:25:36.753716423Z",
+  "model": "glm-5.3"
+}

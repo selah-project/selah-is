@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפתים",
+      "rationale": "Tvítala orðsins שפטה: „hlöður“ (fjárhús) hjá JPS\/BSB, „pottar“ hjá KJV\/Geneva, „landamæri“ hjá YLT — tvímyndin helst í „tveggja hlada“"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "Orðið getur verið „gull“ eða „skorið, fagurskorið“ — gulgræna liturinn (ירקרק) heldst í báðum lesturum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "eru",
+      "rationale": "Hetbræskaina er án sagnar í likeningnum; íslenskan þarf fwxt sögn"
+    }
+  ],
+  "translation": "Þó að þér liggið milli tveggja hlada — vængir dúfunnar eru þaktir silfri og fjaðrar hennar í gulgrænu gulli.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/13-16.1792410084666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "þó að"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "þér liggið"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "tveggja hlada"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vængir"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "dúfunnar"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "eru þaktir"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "silfri"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "fjaðrar hennar"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "í gulgrænu"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "gulli"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:24.667228799Z",
+  "model": "glm-5.3"
+}

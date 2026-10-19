@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "'Bróður hans' á við Jóab (bróður Avísjai), ekki bróður Ammoníta — hebreska prónómenið vísar til fjarverandi manns."
+    },
+    {
+      "kind": "elision",
+      "subject": "ובני עמון",
+      "rationale": "Bókstaflega 'synir Ammons' — þýtt 'Ammonítarnir' sem þjóðheiti."
+    }
+  ],
+  "translation": "Og Ammonítarnir sáu að Aram hafði flúið, og þeir flýðu einnig þeir fyrir andliti Avísjai, bróður hans, og gengu inn í borgina. Og Jóab fór til Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ee5139bebb14d12b37ce3bbf147526cbf5f38fb569989363f9c4e4d4ab369a00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/19\/13-16.1792414932171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og Ammonítarnir"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "נס",
+      "gloss": "hafði flúið"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "og þeir flýðu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Avísjai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður hans"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og gengu inn"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "í borgina"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Og fór"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "til Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:02:12.172797431Z",
+  "model": "glm-5.3"
+}

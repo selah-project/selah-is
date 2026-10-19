@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 24:14",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרשעים יצא רשע",
+      "rationale": "Orðaleikur: sama rót רשע í nafni og sögn — „frá ranglátu gengur ranglæti“ heldur samhljóða bölsýninni."
+    },
+    {
+      "kind": "alternative",
+      "subject": "verse order",
+      "rationale": "Í hebresku textanum stendur þetta vers á undan því sem KJV kallar vers 13."
+    }
+  ],
+  "translation": "Eins og orðskviður hins fornálda segir: Út frá rönglátu gengur ranglæti, en hendi mín skal ekki vera á þér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/24\/13-16.1792400785775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "משל",
+      "gloss": "orðskviður"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "hins fornálda"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "út frá rönglátu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gekk"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranglæti"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "en hendi mín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "בך",
+      "gloss": "á þér"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:25.775977123Z",
+  "model": "glm-5.3"
+}

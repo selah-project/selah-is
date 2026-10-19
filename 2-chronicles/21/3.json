@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 21:3",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Hebreska sleppti sagnliðnum; 'hann sá fyrstfæddi' verður 'hann var fyrstfæddi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "borgrum",
+      "rationale": "מצרות merkir 'virkaðar\/múraðar borgir'; 'borgrí' fangar mynd virkisins."
+    }
+  ],
+  "translation": "Og faðir þeirra gaf þeim gjafir margar, silfur og gull og gimsteina, ásamt borgrim borgum í Júda; en ⟨את⟩ konungdóminum gaf hann Jehóram, því að hann var fyrstfæddi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/21\/1-4.1792415717043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "faðir þeirra"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "gjafir"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "margar"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "ולזהב",
+      "gloss": "og gull"
+    },
+    {
+      "surface": "ולמגדנות",
+      "gloss": "og gimsteina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ásamt"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borgum"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "borgrim"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "í Júda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konungdóminum"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "konungdóminum"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf hann"
+    },
+    {
+      "surface": "ליהורם",
+      "gloss": "Jehóram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "var fyrstfæddi"
+    }
+  ],
+  "timestamp": "2026-10-19T13:15:17.044231811Z",
+  "model": "glm-5.3"
+}

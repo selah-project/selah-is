@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עלות",
+      "rationale": "Orðið er þáttgotið af עול 'at sjúga\/gefa mjólk' — 'kýr er gáfu mjólk', ekki einfaldlega 'mjólkurkýr'."
+    }
+  ],
+  "translation": "Og mennirnir gjörðu svo, og tóku tvær kýr er gáfu mjólk, og bundu þeim fyrir vögnum... og læstu ⟨את⟩ kálfunum þeirra inni í húsinu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f174bc3f3b0be042c2f56cccab0974255fb64a2fcc9344410ac8719b9c67f557",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/6\/9-12.1792400303915.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "og gjörðu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mennirnir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "og tóku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tvær"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "kýr"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "er gáfu mjólk"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "og bundu þeim fyrir"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "vögnum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kálfunum þeirra"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "kálfunum þeirra"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "læstu inni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsinu"
+    }
+  ],
+  "timestamp": "2026-10-19T08:58:23.917681998Z",
+  "model": "glm-5.3"
+}

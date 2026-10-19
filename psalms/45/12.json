@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אדניך",
+      "rationale": "Um mann (konunginn) — 'herra þinn', ekki Adónaí, samkvæmt greininni D1."
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the bride",
+      "rationale": "Boðsmyndin 'fallðu fram fyrir honum' beinist enn að brúðinni."
+    }
+  ],
+  "translation": "Og konungurinn mun girnast fegurð þína, því að hann er herra þinn — og fallðu fram fyrir honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/45\/9-12.1792409783289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "Og mun girnast"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "fegurð þína"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herra þinn"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "og fallðu fram fyrir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:23.290622413Z",
+  "model": "glm-5.3"
+}

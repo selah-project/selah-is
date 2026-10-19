@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er 'rúakh' — vindur, andardráttur, andi — ekki Óþýtt sem 'sál'; orðið heldur tvíræðni lífsanda og vinds."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב\/תשוב",
+      "rationale": "sama rót שוב tvisvar — rykið snýr og rúakhin snýr; speglun sem vantar í mörg þýðingar."
+    }
+  ],
+  "translation": "Og rykið hverfur aftur á jörðina, eins og það var, og rúakhin hverfir aftur til Elóhím, sem gaf hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/12\/5-8.1792413185514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "hverfur aftur"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "rykið"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "eins og það var"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "og rúakhin"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hverfir aftur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gaf hana"
+    }
+  ],
+  "timestamp": "2026-10-19T12:33:05.515739275Z",
+  "model": "glm-5.3"
+}

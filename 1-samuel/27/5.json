@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 27:5",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Akísjs",
+      "rationale": "Davíð beinir erindi sínu beint til Akísjs, konungsins í Gat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "landsbyggð",
+      "rationale": "ערי השדה er bókstaflega 'borgir vallarins\/akursins' — útjaðraborgir, ekki konungsborgin."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "viðvörunarörvarorðið נא ('nú', 'bið þig') hefur enga hreina íslenska jafnvægismynd."
+    }
+  ],
+  "translation": "Og Davíð sagði við Akísj: Ef ég hef fundið náð í augum þínum, gefið mér þá stað í einni borganna á landsbyggðinni, og mun ég þar búa. Og hví skal þjónn þinn búa í konungsborginni með þér?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "330c4cecc3ddf6716d9ae76e156eab7bbc703802a62c228482bd526a150e96ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/27\/5-8.1792401012070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akísj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "hef ég fundið"
+    },
+    {
+      "surface": "חן",
+      "gloss": "náð"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "í augum þínum"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "gefið"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "stað"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "í einni"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borganna"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "á landsbyggðinni"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "og mun ég búa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "og hví"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "skal búa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjónn þinn"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "konungsríkisins"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    }
+  ],
+  "timestamp": "2026-10-19T09:10:12.071284429Z",
+  "model": "glm-5.3"
+}

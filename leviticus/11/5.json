@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שפן er klettagreifingi (hyrax), ekki kanína eða klappardýr."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Klettagreifinginn tyggur í raun ekki fóður; hebreskunni er haldið eins og hún er."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint til Ísraels: ‚fyrir yður‘."
+    }
+  ],
+  "translation": "Og ⟨את⟩ klettagreifinginn, því að hann fær upp ⟨fóður⟩ en klofar ekki klaufina — óhreinn er hann fyrir yður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/5-8.1792395613231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "klettagreifinginn"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "klettagreifinginn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "fær upp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "fóður"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "en klaufina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "klofar"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "óhreinn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fyrir yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:13.232146469Z",
+  "model": "glm-5.3"
+}

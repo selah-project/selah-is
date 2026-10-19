@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan sleppir samsögn; 'er' bætt við á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "מישור",
+      "rationale": "'Land sléttu' (mynd landsins) gagnstætt 'land réttlætis' (KJV) — orðið merkir slétt jörð, þó röðin tsedek\/mishor vísi til réttlætis í sálmum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "rúakh haldið — vindur\/andi\/åndardráttur í einu orði."
+    }
+  ],
+  "translation": "Kenn mér að gjöra vilja þinn, því að þú ert Elóhím minn; rúakh þín ⟨er⟩ góð — leiðbeintu mér í landi sléttu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/143\/9-12.1792411027232.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Kenn mér"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "vilja þinn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "rúakh þín"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "góð"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "leiðbeintu mér"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "sléttu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:07.233031234Z",
+  "model": "glm-5.3"
+}

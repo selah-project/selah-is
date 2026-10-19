@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "svara heimskum",
+      "rationale": "Vers 5 segir beint það gagnstæða versi 4 — ætlunin er spenna milli tveggja versa, ekki eitt ráð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פן",
+      "rationale": "'svo að… ekki' fyrir 'lest'-sambandið; íslenskan hefur ekki eitt orð fyrir פן."
+    }
+  ],
+  "translation": "Svaraðu heimskanum eftir heimsku hans, svo að hann verði ekki vitur í eigin augum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/26\/5-8.1792411617996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Svaraðu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "heimskanum"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "eftir heimsku hans"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að… ekki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verði"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "vitur"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "í eigin augum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:57.997463912Z",
+  "model": "glm-5.3"
+}

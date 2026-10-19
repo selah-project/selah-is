@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בידי סלע",
+      "rationale": "Á við hliðar klettans (dómarnir kastaðir ofan kletta) eða 'í hendur klettans' — myndin er þá fall dómara."
+    },
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "Fornafnið 'þau' bætt við til að gera andlag 'hjartblíð' skýrt."
+    }
+  ],
+  "translation": "Kastað verður dómörum þeirra niður hjá klettum, og þeir heyra orð mín, því ⟨þau⟩ eru hjartblíð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/141\/5-8.1792411029299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "kastað verður niður"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "hjá höndum"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "klettanna"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "dómarar þeirra"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "og þeir heyra"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "orð mín"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "eru hjartblíð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:09.300406567Z",
+  "model": "glm-5.3"
+}

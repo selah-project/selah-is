@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שיחי",
+      "rationale": "שיח merkir 'grun, grain, athugun' — 'kæru' (KJV) er þrenging; 'grainmitt' heldur myndinni af innri iðjun"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשפך שיחי",
+      "rationale": "'Að úthella grainmitt' — hebreskt myndmál um að gjósa úr sér, látið fylgja í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפניו",
+      "rationale": "'Fyrir andliti' fyrir לפניו, bókstæft en með viðskeyttum greini"
+    }
+  ],
+  "translation": "Ég úthelli grainmitt hjá honum, earmuleik minn greini ég frá fyrir andliti hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/142\/1-4.1792410985280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "Ég úthelli"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir andliti hans"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "grainmitt"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "earmuleik minn"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "greini ég frá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:25.281116486Z",
+  "model": "glm-5.3"
+}

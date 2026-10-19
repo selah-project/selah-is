@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויספה er tíðarvísi ('mun halda áfram'), ekki eiginlegt sögn í samhenginu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למטה\/למעלה",
+      "rationale": "andstæða niður\/upp — rótin niður, ávöxturinn upp — speglun varðveitt með 'niður á við \/ upp á við'"
+    }
+  ],
+  "translation": "Og það sem sloppnað hefur af húsi Júda, það sem eftir er, mun halda áfram að grafa rót niður á við og gjöra ávöxt upp á við.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "63db6cb5ce265c862c10ddf9947c1ef5c1f5c949d771fc0ebe0b292124126e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/19\/30-31.1792416731660.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "mun halda áfram"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "það sem sloppnað hefur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húsi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "sem eftir er"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "rót"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "niður á við"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gjöra"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ávöxt"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "upp á við"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:11.661389852Z",
+  "model": "glm-5.3"
+}

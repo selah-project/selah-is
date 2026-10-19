@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins 'settí sonu sína dómarar yfir Ísrael'; 'sem' er sett inn í íslensku"
+    }
+  ],
+  "translation": "Og svo varð að þegar Sjmúel hafði orðið gamall setti hann ⟨את⟩ sonu sína sem dómarar yfir Ísrael.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d1ec159518378571bd01164a52afac388618af46ba725b2458b1ed4b7bc9b6dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/8\/1-4.1792400241640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og svo varð að"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "hafði orðið gamall"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjmúel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "settir hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonu sína"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sonu sína"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sem dómarar"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "yfir Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:21.640680238Z",
+  "model": "glm-5.3"
+}

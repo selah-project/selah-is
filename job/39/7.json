@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "drangi",
+      "rationale": "נוגש er sá sem pressar vinnufólkið, uppsafnari — 'drangi' heldur myndinni af þrælapíslararanum."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Hann' bætt við í seinni helmingi — hebreskan hefur enga fornafn í þessari setningu."
+    }
+  ],
+  "translation": "Hann hlær að ómni borgarinnar, öskur drangans heyrir hann ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "424b97368bbd02bfc44704596e477e791ffc4686d34782949bd1295ba1f91140",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/39\/5-8.1792412487313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "hlær"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "að ómni"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "borgarinnar"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "öskur"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "drangans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "heyrir hann"
+    }
+  ],
+  "timestamp": "2026-10-19T12:21:27.314010329Z",
+  "model": "glm-5.3"
+}

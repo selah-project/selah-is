@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur enga fornafnisgerð í יעודד og יעות; 'hann' bætt við til skýrleika"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעודד",
+      "rationale": "Frá עוּד: 'stoðar\/heitegis' (sjá YLT 'causeth to stand') gegn 'upplýtir\/styrkir' — her er 'stoðar' valið"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעות",
+      "rationale": "'væjar\/beygjar rangt' (JPS 'maketh crooked') gegn KJV 'turneth upside down' — formað rót er að bogna"
+    }
+  ],
+  "translation": "Jahve varðveitir ⟨את⟩ útlendingana, munaðarleysingja og ekkju stoðar hann, en veg ranga vélar hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/146\/9-10.1792411041492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varðveitir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "útlendingana"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "útlendingana"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "munaðarleysingja"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "og ekkju"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "stoðar hann"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "en veg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ranga"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "vélar hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:21.492686178Z",
+  "model": "glm-5.3"
+}

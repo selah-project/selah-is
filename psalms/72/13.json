@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálir",
+      "rationale": "נפש er lífskraftinn, andardrátturinn — ekki sál í enskum skilningi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביון\/אביונים",
+      "rationale": "endurtekning orðsins 'betryggi' í sömu línu, halin í íslensku með tveimur notaðum notum"
+    }
+  ],
+  "translation": "Hann fær miskunn yfir hinum vanstæða og betryggja, og sálir betryggja mun hann hjálpa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/72\/13-16.1792410127797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "fær miskunn"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "דל",
+      "gloss": "hinum vanstæða"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og betryggja"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "og sálir"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "betryggja"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "mun hann hjálpa"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:07.797906434Z",
+  "model": "glm-5.3"
+}

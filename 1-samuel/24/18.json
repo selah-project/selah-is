@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיק er „réttlátur\/tsedek“; formið „meiri tsedek“ heldur orðmynd hebreskunnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גמלתני\/גמלתיך",
+      "rationale": "sama sögn í spegilröð — gott gegn illu — geymist í íslenskunni"
+    }
+  ],
+  "translation": "Og hann sagði við Davíð: Meiri tsedek ert þú en ég, því að þú gjörðir mér gott, en ég gjörði þér illt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/24\/17-20.1792400800269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "meiri tsedek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "en ég"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "gjörðir mér"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ég"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "gjörði þér"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "illt"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:40.270005448Z",
+  "model": "glm-5.3"
+}

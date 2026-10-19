@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "חמתה: 'við Khamat' (staðsetning) vs. 'að Khamat' (mark) — endlíkingar skera sig á."
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "להציב ידו, 'að reisa hönd sína', myndmál um að tryggja vald."
+    }
+  ],
+  "translation": "Og Davíð lagði ‹את⟩ ⟨את⟩ Hadadeser konung í Tsóva við Khamat að velli, er hann fórn að koma hönd sinni á stall við ána Prat.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/18\/1-4.1792414886909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "lagði að velli"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadeser"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadeser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "í Tsóva"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "við Khamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "er hann fórn"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "að koma á stall"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hönd sinni"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "við ána"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prat"
+    }
+  ],
+  "timestamp": "2026-10-19T13:01:26.910503967Z",
+  "model": "glm-5.3"
+}

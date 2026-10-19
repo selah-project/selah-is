@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שלו",
+      "rationale": "oddi — vatnafugl; sumir þýða 'coturnix-coturnix', rótin merkir 'þungfær flug"
+    }
+  ],
+  "translation": "Þeir báðu, og hann kom með odða, og himins brauð mettaði hann þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/37-40.1792410583955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Þeir báðu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og hann kom með"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "odða"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "og brauð"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himins"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "mettaði hann þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:43.956751517Z",
+  "model": "glm-5.3"
+}

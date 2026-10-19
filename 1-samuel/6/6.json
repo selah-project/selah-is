@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hjarta",
+      "rationale": "כבד 'að vera þung' um hjartað; 'þyngja hjartað' heldur myndinni sem 'herða hjartað' missir."
+    },
+    {
+      "kind": "crux",
+      "subject": "התעלל",
+      "rationale": "'færaðist um\/leikst við' (hitpaél af עלל) — 'wrought wonderfully' KJV, 'afflicted' BSB; hér 'færaðist um með þeim'."
+    },
+    {
+      "kind": "you",
+      "subject": "Filistíumenn",
+      "rationale": "Röksemd fram á móti Filistíumönnum, minnt á مصر-flóttann."
+    }
+  ],
+  "translation": "Og hvers vegna þyngið þér ⟨את⟩ hjörtu ykkar, eins og Mitsrajím og Paró þunguðu ⟨את⟩ hjarta sínu? Var það ekki eftir að hann færaðist um með þeim, að þeir sendu þá burt og þeir fóru?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "eae2bdd19ec772dc1ec49484de4c269d53b22b6ef5e5e6cd30dd0435cb4116c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/6\/5-8.1792400325750.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "og hvers vegna"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "þyngið þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjörtu ykkar"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hjörtu ykkar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "þunguðu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "og Paró"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjarta sínu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hjarta sínu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "var það ekki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "færaðist um"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "með þeim"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "sendu þá burt"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og þeir fóru"
+    }
+  ],
+  "timestamp": "2026-10-19T08:58:45.751638707Z",
+  "model": "glm-5.3"
+}

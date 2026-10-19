@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 26:21",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "heimsæja",
+      "rationale": "פקד merkir að heimsækja með vinnu eða reiði; 'refsa' (KJV) er túlkan, 'heimsæja' heldur myndinni"
+    },
+    {
+      "kind": "crux",
+      "subject": "עון ... עליו",
+      "rationale": "Eðlismunur: 'heimsækja synd íbúanna yfir þeim' (JPS) á móti 'refsa íbúunum fyrir synd þeirra' (KJV); hebreskan setur syndina fyrst og yfir-þágn frá síðasta orði til baka"
+    }
+  ],
+  "translation": "Því að sjá, Jahve fer út úr stað sínum til að heimsæja synd þeirra sem búa á jörðinni yfir þeim, og jörðin mun afhjúpa ⟨את⟩ blóð sitt og mun ekki lengur hylja sláta sína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eee8ab2ad822b91eed6202961f41239d2f05cae979f8a5767d275f758f2a8f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/26\/21-21.1792404104810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "fer út"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "úr stað sínum"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "til að heimsæja"
+    },
+    {
+      "surface": "עון",
+      "gloss": "synd"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "þeir sem búa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir þeim"
+    },
+    {
+      "surface": "וגלתה",
+      "gloss": "og mun afhjúpa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóð sitt"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "blóð sitt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og mun ekki"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "hylja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lengur"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הרוגיה",
+      "gloss": "slátum sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:01:44.811417108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צפו",
+      "rationale": "Sagnháttur „sjáið!“ eða nafnorð „vörður“ — eldri þýðingar lesa nafnorðið; ylt les boðhátt."
+    },
+    {
+      "kind": "crux",
+      "subject": "הזים",
+      "rationale": "Frá הזה „drýma“ (drauma-seggir) eða tengt „horfast“ (séð í sýn) — jps les „raving“."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskeytið „þeirra“ og samtenging bætt við; hebreskan hefur aðeins צפו."
+    }
+  ],
+  "translation": "Vörður þeirra eru blindir, allir; þeir vita ekki, allir eru þeir málmkir hundar, geta ekki gelt; drauma-seggir, liggjandi, elska að drema.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/56\/9-12.1792404824127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "vörður þeirra"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blindir"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vita"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "hundar"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "málmkir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "geta"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "að gelt"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "drauma-seggir"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "liggjandi"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "elska"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "að drema"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:44.128667518Z",
+  "model": "glm-5.3"
+}

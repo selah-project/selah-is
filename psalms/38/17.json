@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki þolfallssviðið í הגדילו — 'þeir stækka' stendur eitt og óbeint; ⟨sig⟩ bætt við til skýrleika"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הגדילו עלי",
+      "rationale": "orðrétt 'þeir gjörðu stórt yfir mér' — að stækka sig gegn einhverjum, íslenska: 'að öxlust á mig'"
+    }
+  ],
+  "translation": "Því að ég sagði: Þeir mega ekki gleðjast yfir mér; þegar fóturinn minn sveiflast, stækka þeir ⟨sig⟩ gegn mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0630426582ca08d3f96ea41971ac6d36c1d487aac24edfd238ad20bb3c663195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/17-18.1792416940732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagði ég"
+    },
+    {
+      "surface": "פן",
+      "gloss": "að þeir mega ekki"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "gleðjast þeir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "þegar ... sveiflast"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fóturinn minn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "stækka þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:40.732486311Z",
+  "model": "glm-5.3"
+}

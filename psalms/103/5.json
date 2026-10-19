@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עדיך",
+      "rationale": "Orðið þýðir 'skraut\/fatnaður'; KJV las 'mund þinn' (samanstöfnun orða), JPS 'elli þín', aðrir 'girnd þín' — hið rétta er líklega 'munns eða andlits prýði'."
+    },
+    {
+      "kind": "addition",
+      "subject": "svo að",
+      "rationale": "Hebreska hefur ekki samloðunartungumál; ☺tákn leiðir afleiðinguna inn."
+    }
+  ],
+  "translation": "Hann sem mettir góðu skraut þitt, svo að eins og örn endurnýjast æska þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/5-8.1792410504950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Hann sem mettir"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "góðu"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "skraut þitt"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "endurnýjast"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "eins og örn"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "æska þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:24.950600062Z",
+  "model": "glm-5.3"
+}

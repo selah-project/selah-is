@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ויהי er atburðartenging, „svo bar að“ — Íslandska þarf aukin orð en hebreskan hefur aðeins eitt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gerði uppreisn",
+      "rationale": "פשע er að brjótast burt frá réttu valdi; „gerði uppreisn“ er nálgun en ekki sömu mynd"
+    }
+  ],
+  "translation": "Og svo bar að, þegar Akab var dáinn, að konungur Móab gerði uppreisn gegn konungi Ísraels.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "de72c38f04c22b0c941348d333157605a575036708220376c210d5bf7d2255c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/3\/5-8.1792402822085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og svo bar að"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "þegar … var dáinn"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akab"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "gerði uppreisn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "gegn konungi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:22.086008485Z",
+  "model": "glm-5.3"
+}

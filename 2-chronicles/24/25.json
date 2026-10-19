@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 24:25",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "במחליים er 'veikindi\/sárasár'; BSB les 'alvarlega særður' út frá samhengi hersins"
+    },
+    {
+      "kind": "crux",
+      "subject": "sona",
+      "rationale": "בני (fleirtala 'synir') gegn 2 Kon 12:21 sem les 'sona' — fleirtalan hélt"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf 'hann' og greini þar sem hebreskan sleppir þeim"
+    }
+  ],
+  "translation": "Og er þeir héldu frá honum — því að þeir skildu hann ⟨את⟩ eftir í veikindum mörgum — gerðu þrælar hans samband gegn honum fyrir blóði sona Jehójada prestsins, og drápu hann á rúmi sínu, og hann dó; og þeir grófu hann í borg Davíðs, en grófu hann ekki í gröfum konunganna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4127430404ea05ffd1b7ab0ed0c6262157c5ec1508412f7dc49721b954f0c60e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/24\/25-27.1792415800768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובלכתם",
+      "gloss": "og er þeir héldu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "frá honum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "þeir skildu eftir"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "veikindum mörgum"
+    },
+    {
+      "surface": "במחליים",
+      "gloss": "í veikindum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mörgum"
+    },
+    {
+      "surface": "התקשרו",
+      "gloss": "gerðu samband"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "gegn honum"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þrælar hans"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "fyrir blóði"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehójada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prestsins"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "og drápu hann"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "rúmi sínu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og hann dó"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "og grófu hann"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "קברהו",
+      "gloss": "grófu hann"
+    },
+    {
+      "surface": "בקברות",
+      "gloss": "í gröfum"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "konunganna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:16:40.769080229Z",
+  "model": "glm-5.3"
+}

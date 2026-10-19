@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 8:8",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקה flutt sem hljóðrituð 'tsedek' samkvæmt reglu D2 — ekki 'réttlæti' eitt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהיה",
+      "rationale": "'ég skal vera' — sama sögn og nafn Jahve opinberaði sjálfum sér í 2. Mós 3:14"
+    }
+  ],
+  "translation": "Og ég mun leiða ⟨את⟩ þá, og þeir skulu búa í miðju Jerúsjalajím, og þeir skulu vera mér að fólki, og ég skal vera þeim að Elóhím, í sannleika og í tsedek.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/8\/5-8.1792409013741.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Og ég mun leiða"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "og þeir skulu búa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og þeir skulu vera"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "að fólki"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "að Elóhím"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "í sannleika"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "og í tsedek"
+    }
+  ],
+  "timestamp": "2026-10-19T11:23:33.743014417Z",
+  "model": "glm-5.3"
+}

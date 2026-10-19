@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "broti",
+      "rationale": "שבר er bókstaflega 'beinbrot', myndrænt 'brot' — ekki almenn 'eyðilegging'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב...אהב",
+      "rationale": "endurtekin sögn í tveimur ljóðlínum — samstæða sem varðveitt er með endurtekningu"
+    }
+  ],
+  "translation": "Sá sem elskar uppreisn elskar deilur, og sá sem hækkar dyra sín leitar eftir broti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8db65f0a543b42cbc2ca31b833896623203c0200c30ba7d4ae3dda3fd37d4705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/17\/17-20.1792411433190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elskar"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "uppreisn"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskar"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "deilur"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "hækkar"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "dyra sín"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "leitar"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "broti"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:53.191041243Z",
+  "model": "glm-5.3"
+}

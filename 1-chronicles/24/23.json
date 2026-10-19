@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 24:23",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "hebreskan segir 'hinn annar, hinn þriðji, hinn fjórði' án 'hins fyrsta' — KJV\/ASV bæta við 'fyrsti' eða 'höfðingi'; gjöf 'hinn fyrsti' gefur röðina"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hinn fyrsti' er sett fram í hornklofa — hebreskan hefur aðeins þrjú raðtölur: annar, þriðji, fjórði"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "ættartalning með raðtölum — fjórði sonurinn talinn"
+    }
+  ],
+  "translation": "Synir Jerjáhu: Amarjáhu ⟨hinn fyrsti⟩, Jakhazíel annar, Jekamam þriðji.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "11aa543bc72f9310d07ea976fdcb052131a3d261afd8646238d7412c2d4edcab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/24\/21-24.1792414962687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Synir"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "Jerjáhu"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "Amarjáhu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "hinn fyrsti"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Jakhazíel"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "annar"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Jekamam"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "þriðji"
+    }
+  ],
+  "timestamp": "2026-10-19T13:02:42.688321710Z",
+  "model": "glm-5.3"
+}

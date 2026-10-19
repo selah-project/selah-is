@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "היטיב תיטיבו",
+      "rationale": "Infinitivus absolutus undiŕegir: „að bæta — bætið“, áherslurit sem íslenska nær með „gjörið svo vel“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעלליכם",
+      "rationale": "„gjörðir“ fyrir מעעללים — orðið er haft bæði um gott og illt, „áhrifaverk“"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint tilsögn til Jerúsalem-búa, framhald ræðunnar við hofið"
+    }
+  ],
+  "translation": "Eins og ⟨aðeins⟩ ef þér gjörið svo vel að bæta ⟨את⟩ vegu yðar og ⟨את⟩ gjörðir yðar, ef þér gjörið dóm á milli manns og náunga hans —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/7\/5-8.1792405377968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "að bæta"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "þér gjörið svo vel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vegu yðar"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "vegu yðar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "gjörðir yðar"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "gjörðir yðar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "þér gjörið"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dóm"
+    },
+    {
+      "surface": "בין",
+      "gloss": "á milli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og á milli"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "náunga hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:22:57.969556870Z",
+  "model": "glm-5.3"
+}

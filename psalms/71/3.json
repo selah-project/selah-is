@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבוא תמיד",
+      "rationale": "§17 — ‚að fara til alltaf‘ vs. ‚þar sem ég má ávallt sækja skjól‘; ýmsar lesningar"
+    },
+    {
+      "kind": "crux",
+      "subject": "צוית להושיעני",
+      "rationale": "§23 — ‚þú hefir boðið‘ (liðin tíð) vs. ‚boð þú‘ (fyrirmæli), KJV\/JPS skiptast á"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור\/סלעי",
+      "rationale": "Tveir klettorð í sömu vers — tvennt nafn á sama skjóli, endurtekið í v. 3"
+    }
+  ],
+  "translation": "Vertu mér að klett, settustöð, að fara til alltaf; þú hefir boðið að hjálpa mér, því að klettur minn og vígi mitt ert þú.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/71\/1-4.1792410076772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Vertu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "að klett"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "settustöð"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "að fara til"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "alltaf"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "þú hefir boðið"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "að hjálpa mér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "klettur minn"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og vígi mitt"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:16.773547462Z",
+  "model": "glm-5.3"
+}

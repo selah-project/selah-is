@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur enga sögn; viðbætt ⟨er þetta⟩ til íslenskrarðar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשם אשם אשם",
+      "rationale": "Þreföld endurtekning rótarinnar אשם — fórnin, sektin, vissan sektar — öll í einu orði; tapast í íslensku með þremur ólíkum orðum."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשם",
+      "rationale": "אשם bæði nofnuð sektarfórn og sögn 'að vera sekur' — þýðendum skipt um orð fyrir hvert occurrence."
+    }
+  ],
+  "translation": "Sektorfórn ⟨er þetta⟩ — hann er sannarlega sekur fyrir Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0359f33d9fc124a38136db3b468374ea3f6919416035ca6312a786464215df3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/5\/17-20.1792395466759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "Sektorfórn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨er þetta⟩"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "er sekur"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sannarlega sekur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:46.760090731Z",
+  "model": "glm-5.3"
+}

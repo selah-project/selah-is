@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Titill — kórstjóri er tekninn fyrir hebreska orðið um þann sem stjórnar söngópptökum."
+    }
+  ],
+  "translation": "Fyrir kórstjórann, á strengjahljóðfærum. Sálmur Asafs, ljóð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/76\/1-4.1792410161621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Fyrir kórstjórann"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "á strengjahljóðfærum"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Sálmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafs"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ljóð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:41.621720370Z",
+  "model": "glm-5.3"
+}

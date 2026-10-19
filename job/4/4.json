@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 4:4",
+  "book": "job",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מליך",
+      "rationale": "„orðum þínum“ — hebreskan segir bókstaflega „frá þér orð“; KJV tekur það sem „orð þín uppihalda“"
+    }
+  ],
+  "translation": "Hnigandi reisir þú upp með orðum þínum, og kné sem bogna gerir þú sterk.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36679d6eda4faac9cb3bc14fb9ac3a0f945961ebe142be20ebe7325e298cfca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/4\/1-4.1792411766813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כושל",
+      "gloss": "hnigandi"
+    },
+    {
+      "surface": "יקימון",
+      "gloss": "reisir þú upp"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "með orðum þínum"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "og kné"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "sem bogna"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "gerir þú sterk"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:26.814600640Z",
+  "model": "glm-5.3"
+}

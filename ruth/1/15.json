@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨hún⟩ — hebreskan segir aðeins „og sagði”; frumlagið kemur úr samhenginu."
+    },
+    {
+      "kind": "crux",
+      "subject": "guða sinna",
+      "rationale": "אלהיה er fleirtöluform — „guða sinna” (Kamós og guðir Móabs) — en JPS\/ASV setja eintölu „guði sínum”."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ruth",
+      "rationale": "Nóemí ávarpar Rút beint með boði: „snúðu aftur”."
+    }
+  ],
+  "translation": "Og ⟨hún⟩ sagði: Sjá, tengdamágur þinn hefur snúið aftur til þjóðar sinnar og til guða sinna; snúðu aftur á eftir tengdamági ⟨þínum⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/1\/13-16.1792412748538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "hefur snúið aftur"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "tengdamágur þinn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "þjóðar sinnar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "guða sinna"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "snúðu aftur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "á eftir"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "tengdamági þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:48.539697315Z",
+  "model": "glm-5.3"
+}

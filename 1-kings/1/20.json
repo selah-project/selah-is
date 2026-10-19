@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 1:20",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir aðeins „augu alls Ísraels á þér“ — sagnirnar og fyrirsögn eru ekki í textanum"
+    },
+    {
+      "kind": "you",
+      "subject": "to Davíd",
+      "rationale": "Beint ávarp til Davíð: augu þjóðarinnar beinast að honum til dómhöldunar um arftakann"
+    }
+  ],
+  "translation": "Og þú, herra minn konungur, augu alls Ísraels ⟨eru⟈⟩ á þér, til að segja þeim hver skal sitja á hásæti herra míns konungs eftir hann.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/17-20.1792401871462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Og þú"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "á þér"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "til að segja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "skal sitja"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "hásæti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra míns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "eftir hann"
+    }
+  ],
+  "timestamp": "2026-10-19T09:24:31.463961137Z",
+  "model": "glm-5.3"
+}

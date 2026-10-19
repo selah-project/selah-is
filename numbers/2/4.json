@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨eru⟩",
+      "rationale": "Sögn vantar í hebresku; íslenska krefst sagnar fyrir tölusetninguna."
+    },
+    {
+      "kind": "measurement",
+      "subject": "74.600",
+      "rationale": "Mannfjöldatalning hersveitar Júda."
+    }
+  ],
+  "translation": "Og hersveit hans og taldir þeirra: fjórir og sjötíu þúsund og sex hundruð.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "67ea8d55c4d98711b0aecf04bcec4e41108230a0ec21729a4f61efa4f99beeff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/2\/1-4.1792396331563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Og hersveit hans"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "og taldir þeirra"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fjórir"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "og sjötíu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og sex"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:11.565040952Z",
+  "model": "glm-5.3"
+}

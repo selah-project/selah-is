@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 2:45",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan á enginn sagnlið við ברוך; íslenskan krefst ⟨er⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "„Fyrir augliti“ stendur fyrir לפני „andlit\/fyrir“, bókstæð mynd hebreskunnar varðveitt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכון",
+      "rationale": "Sama rót og נכונה í v. 46 — hásitinn „stendur fastur“ og konungsríkið „stendur fast“; endurtök sem tengir versin"
+    }
+  ],
+  "translation": "Og konungurinn Sjelómó ⟨er⟩ blessaður, og hásiti Davíðar skal standa fastur fyrir augliti Jahve til eilífar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4da071bb18e89c22cd63de8ed9af03d818449d3b2626744a1242aca16117874e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/2\/45-46.1792401879239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Og konungurinn"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelómó"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "blessaður"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "og hásiti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal standa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "fastur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir augliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:24:39.239760014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "פנית 'þú gerðir við': 'þú rýmdir' (JPS\/KJV) vs. 'þú snerir\/leit' (YLT) — kveðandi afturbeygð"
+    }
+  ],
+  "translation": "Þú rýmdir fyrir honum, og hann særætti rætur sínar og fyllti landið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/80\/9-12.1792410259383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Þú rýmdir"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "og hann særætti"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "rætur sínar"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "og fyllti"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landið"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:19.383785754Z",
+  "model": "glm-5.3"
+}

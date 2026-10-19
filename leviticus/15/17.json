@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sáðfall",
+      "rationale": "שכבת זרע er bókstaflega 'lægja sáðs'; Íslenzka notar eitt samsett orð þar sem hebreskan hefur tvennt"
+    },
+    {
+      "kind": "addition",
+      "subject": "skal",
+      "rationale": "vísunarforskeyti sem hebreska nútíðarformsins viðheldur en íslenska þarf"
+    }
+  ],
+  "translation": "Og allt fat og allt skinn sem sáðfall verður á skal þvegið í vatni og vera óhreint til kvölds.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0507b9d4c6b95eb36a58454fe5abd229dbb2aa011a4e4b9ef7680f3a9638fc03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/15\/17-20.1792395931833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og allt"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "fat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "liggjandi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sáð"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "skal þvegið"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vatni"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "og vera óhreint"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvölds"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:31.833724790Z",
+  "model": "glm-5.3"
+}

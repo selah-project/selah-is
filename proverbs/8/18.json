@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "hebreskan er án sagnar; íslenskan þarf vera-sögn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עתק",
+      "rationale": "orðið þýðir bókstaflega 'gamaldags, umárætt' — hér 'dýrmætt, varanlegt'; KJV 'durable'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "þetta er forsetningin את (H854) 'hjá', ekki brandsáttarmerknið ⟨את⟩ (H853)"
+    }
+  ],
+  "translation": "Ríkidæmi og heiður ⟨eru⟩ ⟨את⟩ hjá mér, dýrmætt fé og tsedek.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/8\/17-20.1792411265440.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Ríkidæmi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "og heiður"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ hjá mér"
+    },
+    {
+      "surface": "הון",
+      "gloss": "fé"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "dýrmætt"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "og tsedek"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:05.441599861Z",
+  "model": "glm-5.3"
+}

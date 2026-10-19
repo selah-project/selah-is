@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חלל er að ‚bora‘ — gjöra gat á helgun; ‚svívirða‘ er nálgun, myndin tapast"
+    },
+    {
+      "kind": "crux",
+      "subject": "svarið",
+      "rationale": "ווחללת eins og niðurstaða eða varnaráð; KJV og JPS lesa ‚þannig svívirðir þú‘"
+    }
+  ],
+  "translation": "Og þið skuluð ekki sverja í nafni mínu að ljúga, og þú mátt svívirða ⟨את⟩ nafn Elóhím þíns; ég er Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/19\/9-12.1792395870900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ekki"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "skuluð þið sverja"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "í nafni mínu"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "að ljúga"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "og þú mátt svívirða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn Elóhím þíns"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þíns"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:30.904080091Z",
+  "model": "glm-5.3"
+}

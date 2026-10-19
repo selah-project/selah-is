@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן מות",
+      "rationale": "'Sonur dauðans' — hebreskt-mynd íslenskað bókstaflega; margar þýðingar gefa upp 'skal hvísliga deyja' eða 'verðskuldar dauða'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "Bókstaflega 'nef' — reiðin sem kviknar í nasirunum; 'reiði' heldur ekki myndinni."
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð",
+      "rationale": "Davíð talar við Natan og sver við Jahve"
+    }
+  ],
+  "translation": "Og reiði Davíðs kviknaði harðlega gegn manninum, og hann sagði við Natan: Svo lifir Jahve, sannarlega sonur dauðans er maðurinn sem gerði þetta.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bc8809d0aad713b5ee991d7ce3bdb701c9623abd502ef919ca22610f7858d513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/5-8.1792401405705.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kviknaði"
+    },
+    {
+      "surface": "אף",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "gegn manninum"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "harðlega"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sannarlega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauðans"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "sem gerði"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T09:16:45.706494138Z",
+  "model": "glm-5.3"
+}

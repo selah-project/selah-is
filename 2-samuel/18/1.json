@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויפקד",
+      "rationale": "pakað: פקד getur merkt bæði að gjalda herþjónustu og að heimsækja — Davíð „hagar“ her sínum, sama og og yfirflytja hina."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Skipan hersins talin í foringjum yfir þúsund og hundrað."
+    }
+  ],
+  "translation": "Og Davíð hagaði herflokkanum, ⟨את⟩ fólkinu sem ⟨את⟩ með honum var, og setti yfir þá foringja yfir þúsundir og foringja yfir hundrað.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/18\/1-4.1792401573748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "hagaði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólkinu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ með honum var"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og setti"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "yfir þá"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "foringja"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "yfir þúsundir"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og foringja"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yfir hundrað"
+    }
+  ],
+  "timestamp": "2026-10-19T09:19:33.749246086Z",
+  "model": "glm-5.3"
+}

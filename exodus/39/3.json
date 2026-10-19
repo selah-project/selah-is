@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מעשה חשב",
+      "rationale": "Bókstaflega 'verk hönnanda' — vefnaður með myndmynstri; ekki 'listaverk' almennt."
+    },
+    {
+      "kind": "addition",
+      "subject": "þunnar",
+      "rationale": "Skrifað í tokens en ekki tvennt — 'þunnar' er merkt sem ⟨þunnar⟩ í bréfi; hebreska kennir úthamrun í וירקעו."
+    }
+  ],
+  "translation": "Og þeir hamru ⟨את⟩ gullplötur þunnar og skáru þræði til að vefa inn í bláann, og inn í purpurann, og inn í skarlatsorminn, og inn í hörstoffið — hönnuðarverk.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/39\/1-4.1792395275805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "Og þeir hamru út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gullplötur"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "plötur"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gull"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "og skáru"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "þræði"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að vefa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inn í"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "bláann"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "og inn í"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "purpurann"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "og inn í"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "skarlatsorminn"
+    },
+    {
+      "surface": "השני",
+      "gloss": "skarlats"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "og inn í"
+    },
+    {
+      "surface": "השש",
+      "gloss": "hörstoffið"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hönnuðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:34:35.806637507Z",
+  "model": "glm-5.3"
+}

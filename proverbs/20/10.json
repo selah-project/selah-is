@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן \/ איפה ואיפה",
+      "rationale": "Endurtekin pör gera andstæðurnar mismunandi mæla; steinn = vigtarsteinn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "steinn",
+      "rationale": "אבן hér er vigtarsteinn (misvigt), ekki steinn í almennri merkingu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "efa og vigt",
+      "rationale": "Vers um mælieiningar og óheiðarlega mælingu"
+    }
+  ],
+  "translation": "Steinn og steinn, efa og efa — bæði eru óþvergð Jahve, jafnvel hvorugt þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/20\/9-12.1792411476857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Steinn"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "og steinn"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "og efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "óþvergð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jafnvel"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bæði þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:36.858744895Z",
+  "model": "glm-5.3"
+}

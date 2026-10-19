@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "habakkuk 3:19",
+  "book": "habakkuk",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חילי",
+      "rationale": "חיל er 'kraftur, herkraftur, eign' — 'kraftur' heldur myndinni frekar en almenn 'styrkur'"
+    },
+    {
+      "kind": "crux",
+      "subject": "במותי",
+      "rationale": "'hæðir mínar' — raunveruleg fjallstopp eða helgidómahæðir; útlæsing heldur tvennt"
+    },
+    {
+      "kind": "addition",
+      "subject": "mér",
+      "rationale": "persónufornafn bætt við til að gera þolmarksgerðina skýra, því hebreskan hefur aðeins 'fætur mínir'"
+    }
+  ],
+  "translation": "Jahve Adónaí er kraftur minn, og hann gerði fæturna mér eins og hindum, og hann lét mig ganga á hæðum mínum. Fyrir söngvarauppsetjarann, með strengjatónlist minni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3a432eb2950b67e7331edff9805c0cf6779a7bce7883b5544cf929f1576ab01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/habakkuk\/3\/17-19.1792408817596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "kraftur minn"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "og hann gerði"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fæturna"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "eins og hindum"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "hæðum mínum"
+    },
+    {
+      "surface": "ידרכני",
+      "gloss": "lét mig ganga"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "Fyrir söngvarauppsetjarann"
+    },
+    {
+      "surface": "בנגינותי",
+      "gloss": "með strengjatónlist minni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:20:17.597572943Z",
+  "model": "glm-5.3"
+}

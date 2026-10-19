@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 16:11",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואעדך עדי",
+      "rationale": "sagnorð og nafnorð af sömu rót (עדה\/עדי) — prýða\/skrautmur, tapast í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kverk",
+      "rationale": "גרון er hálskútur\/kviki, ekki 'háls' almennt — formi haldið"
+    }
+  ],
+  "translation": "Og eg prýddi þig skrautmuni og gaf þér armbönd um hendur þínar og keðju um kverk þína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "029c884de352379c55e8ce91257c994349b89723bc0f5efb92013812561b9834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/16\/10-11.1792416885736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעדך",
+      "gloss": "og eg prýddi þig"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "skrautmuni"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "og eg gaf"
+    },
+    {
+      "surface": "צמידים",
+      "gloss": "armbönd"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "hendur þínar"
+    },
+    {
+      "surface": "ורביד",
+      "gloss": "og keðju"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "גרונך",
+      "gloss": "kverk þína"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:45.737311812Z",
+  "model": "glm-5.3"
+}

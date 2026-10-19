@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "prónómin ⟨hann⟩ í síðasta lið er ekki í hebreskuni en þarf til skýrleika"
+    }
+  ],
+  "translation": "Jahve mun ekki yfirgefa hann í hendi hans og mun ekki dæma hann sekjan, þegar ⟨hann⟩ er dæmdur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/33-36.1792409679793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "yfirgefa hann"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "í hendi hans"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "dæma hann sekjan"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "þegar hann er dæmdur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:39.793878725Z",
+  "model": "glm-5.3"
+}

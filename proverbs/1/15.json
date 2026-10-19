@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Heiður faðirs bæði syninum að halda sig frá slæmum félagsskap — boðhorf í öðru persónu."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Faðirinn ávarpar soninn beint: sonur minn."
+    }
+  ],
+  "translation": "Sonur minn, farðu ekki í veg með ⟨את⟩ þeim, halt fæti þínum frá stíg þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b9fdc795f850badb6b92b50de03c0aa973339a077d9d561d1be6336629e5633a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/1\/13-16.1792411105757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "sonur minn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "farðu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "í veg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "með ⟨את⟩ þeim",
+      "marks": "þeim"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "halt"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "fæti þínum"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "frá stíg þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:25.758890578Z",
+  "model": "glm-5.3"
+}

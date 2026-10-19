@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 42:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אֶת hér er forsetningin 'með\/hjá' (H854), ekki hvörfunarmerki; 'sá yngsti er með föður vorum'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tólf bræður",
+      "rationale": "talning bræðranna, tólf"
+    }
+  ],
+  "translation": "Og þeir sögðu: Þrælar þínir — tólf bræður — erum vér, synir eins manns í landi Kenaan; og sjá, sá yngsti er ⟨את⟩ föður vorum í dag, og hinn er ekki til.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/42\/13-16.1792393798666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Og þeir sögðu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tólf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "þrælar þínir"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bræður"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "erum vér"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eins manns"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eins"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "sá yngsti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föður vorum"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "föður vorum"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í dag"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "og hinn"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "er ekki til"
+    }
+  ],
+  "timestamp": "2026-10-19T07:09:58.667175695Z",
+  "model": "glm-5.3"
+}

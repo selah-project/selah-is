@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "oss",
+      "rationale": "samfélagið lýsir sjálfu sér í fyrstu persónu fleirtölu — árör beint að eigin sök"
+    },
+    {
+      "kind": "crux",
+      "subject": "אוי נא לנו",
+      "rationale": "'ei nú að oss' — afarkveðja um sjálfa sig, syndarjáttning í sameiningu með 'því að vér höfum syndað'"
+    }
+  ],
+  "translation": "Fallin er kórónan af höfði vor, ei því nú að oss, því að vér höfum syndað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/5\/13-16.1792412932686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "fallin er"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kórónan"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "af höfði vor"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ei"
+    },
+    {
+      "surface": "נא",
+      "gloss": "því nú"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "að oss"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "vér höfum syndað"
+    }
+  ],
+  "timestamp": "2026-10-19T12:28:52.687789415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טבעו \/ טמנו",
+      "rationale": "Endurtekin tæði (alliteration) um að falla í eigin gildru — gryfja og net — spegluð í sönnum; hljóðlega áhrif glatast í þýðingu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זו",
+      "rationale": "Ábendingarorðið 'þetta' fellur niður í íslenskri orðrvísi; 'sem' ber merkinguna."
+    }
+  ],
+  "translation": "Þjóðirnar sökku í gryfjunni sem þær gerðu; í netinu sem þær fóldu var fótur þeirra tekinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/9\/13-16.1792409320538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "sökku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "í gryfjunni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "sem þær gerðu"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "í netinu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sem"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "þær fóldu"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "var tekinn"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "fótur þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:40.539960956Z",
+  "model": "glm-5.3"
+}

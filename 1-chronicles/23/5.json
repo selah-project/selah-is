@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 23:5",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„segir Davíð“ er ekki í hebreska textanum heldur dregið af tcbrunum eldri þýðinga"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "forsetningin „með“ bætt við fyrir בכלים"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "versem telur flokka Levíta: fjögur þúsund hliðverðir og fjögur þúsund lofsöngvarar"
+    }
+  ],
+  "translation": "Og fjögur þúsund voru hliðverðir, og fjögur þúsund lofsöngvar Jahve ⟨með⟩ tækjum, þau sem ég gjörða til að lofa — segir Davíð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "46c003404f311bbda53646321ee5081a50720b0a20bda5dc0e0688be7b894c1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/23\/5-8.1792414961653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "Og fjögur"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "hliðverðir"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "og fjögur"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "מהללים",
+      "gloss": "lofsöngvar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכלים",
+      "gloss": "⟨með⟩ tækjum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þau sem"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ég gjörða"
+    },
+    {
+      "surface": "להלל",
+      "gloss": "til að lofa"
+    }
+  ],
+  "timestamp": "2026-10-19T13:02:41.653965082Z",
+  "model": "glm-5.3"
+}

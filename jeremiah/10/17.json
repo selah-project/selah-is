@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעתך",
+      "rationale": "כנעה er aðeins hér í Tanakh; 'pakki\/búnaður' er leshöfundum óvíst — einnig lesið 'skömmin þín' (מכנעתך)."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "יֹשֵׁבַתִּי er kvenkyns önnur persóna — 'þú' og hlutfallsorðið 'sem' eru sett í milli."
+    },
+    {
+      "kind": "invitation",
+      "subject": "til dóttur Síonar",
+      "rationale": "Boðuháttur beinist til þeirrar sem býr umkringd."
+    }
+  ],
+  "translation": "Safnaðu úr landi pökkunum þínum, þú ⟨sem⟩ býrð í víggirðingunni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/10\/17-20.1792405499185.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "Safnaðu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "pökkunum þínum"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "þú býrð"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "í víggirðingunni"
+    }
+  ],
+  "timestamp": "2026-10-19T10:24:59.186552918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 3:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חגרת",
+      "rationale": "orðið er 'lindi' — stak þvagangsklæði, ekki 'föt' yfirhöfuð."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'voru' — hebreskan sleppir sagnaritinu (הם stendur ein) en íslenskan þarf 'voru'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותפקחנה",
+      "rationale": "sama sögn og loforð snákans í 3:5 ('augu ykkar munu opnast') — ræðan gengur út eins og lofað var, en í slæmri merkingu."
+    }
+  ],
+  "translation": "Og augu þeirra beggja opnuðust, og þeir vissu að þeir voru nakðir; og þeir saumuðu fíkjulauf og gjörðu sér lindi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "568b6b304f4558abd639e79d93f2b96c63d82758632ac3ff76e234305718108d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/3\/5-8.1792392530275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפקחנה",
+      "gloss": "Og… opnuðust"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "þeirra beggja"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "og þeir vissu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "עירמם",
+      "gloss": "nakðir"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "ויתפרו",
+      "gloss": "og þeir saumuðu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lauf"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "fíkju"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "og gjörðu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sér"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "lindi"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:50.286443935Z",
+  "model": "glm-5.3"
+}

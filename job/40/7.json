@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 40:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "\"Binda kumni\" (אזר חלצים) er hebresk mynd um að undirbúa sig fyrir erfiðisverk eða flóttann — bókstæð mynd haldin."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint boð til Íjóbs: Jahve byður honum að standa sem karlmaður og svara spurningum."
+    }
+  ],
+  "translation": "Bindu nú kumni þín sem karlmaður; ég vil spyrja þig, og þú skalt kunngera mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eecdcb60c3a117f6cbe252a60a944108a61a88970171344893a5e9fe9a62be08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/40\/5-8.1792412490254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "bindu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "sem karlmaður"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "kumni þín"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "vil ég spyrja þig"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "og þú skalt kunngera mér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:21:30.255468715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שאון",
+      "rationale": "„Gnýr“ — hebreska orðið heldur bæði tumulti og eyðileggingu; sumar þýðingar segja „hryllileg gryfja“ og glata hljóðmyndinni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טיט היון",
+      "rationale": "Tvö orð um leir og drullu lagð hlið við hlið, endurgefin sem ein sömsett glosa „leir-drulla“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויקם על סלע רגלי",
+      "rationale": "Orðaröðin er „og reis, á klett, fætur mínar“ — lesið sem „setti fætur mínar á klett“ til að gera setninguna skýra."
+    }
+  ],
+  "translation": "Og hann dró mig upp úr gryfju gnýsins, úr leir-drullunni, og setti fætur mínar á klett og staðfesti skrefin mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/40\/1-4.1792409741213.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Og hann dró mig upp"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "úr gryfju"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gnýsins"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "úr leir"
+    },
+    {
+      "surface": "היון",
+      "gloss": "-drullunni"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "og reis"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "klett"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fætur mínar"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "og staðfesti"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "skrefin mín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:41.214894798Z",
+  "model": "glm-5.3"
+}

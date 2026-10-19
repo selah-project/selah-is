@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": ".kafka: 'voru' bætt við — hebreskan sleppur sagnarkeypti í síðustu setningu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kopar",
+      "rationale": "נחשת er kopar; 'brass' (KJV) er brús, blanda sem Tanakh-tíminn þekkti ekki"
+    }
+  ],
+  "translation": "Og ⟨את⟩ súlur hans fimm og ⟨את⟩ krækurnar þeirra; og hann klæddi höfuð þeirra og krækur sínar ⟨er⟩ gulli; og grunnsteinar þeirra fimm ⟨voru⟩ af kopar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1d7fd72e490e32d0493b188ad90749b97c33401068e943b50e3d875446b28766",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/36\/37-38.1792395172437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "súlur hans fimm"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "súlur hans"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "krækurnar þeirra"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "og krækurnar",
+      "note": "VIKKI: surface er וויהם"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "og hann klæddi"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "höfuð þeirra"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "og krækur sínar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulli"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "og grunnsteinar þeirra"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af kopar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:32:52.438915444Z",
+  "model": "glm-5.3"
+}

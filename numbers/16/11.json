@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 16:11",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ert",
+      "rationale": "Íslenska þarf sagnlið sem hebreskan sleppir hér."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kvartið",
+      "rationale": "לון er í grunninn 'að gista' en í Nifál 'að murra, kvarta' — myndin tekin af gistingu."
+    }
+  ],
+  "translation": "Þess vegna ert þú og allur söfnuður þinn, ⟨þeir⟩ sem safnast hafa gegn Jahve — og Aharon, hvað er hann, að þið kvartið yfir honum?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "644dc5f635863d06b20d16c2529df2fad0b7fa1836c177984444bf8fc0fb836c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/16\/9-12.1792396853757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "söfnuður þinn"
+    },
+    {
+      "surface": "הנעדים",
+      "gloss": "⟨þeir⟩ sem safnast hafa"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "þið kvartið"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir honum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:00:53.758339453Z",
+  "model": "glm-5.3"
+}

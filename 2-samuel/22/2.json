@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan sleppir sögninni; samlíkingin er talin upp án 'er'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "klettur-víggi-frelsari",
+      "rationale": "Þrjár samlíkingar í röð, hver með possessívviðskeyti; klettamyndin heldur áfram í v3 (צורי)."
+    }
+  ],
+  "translation": "Og hann sagði: Jahve ⟨er⟩ klettur minn og víggi mitt og frelsari minn ⟨mér⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/22\/1-4.1792401732749.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "klettur minn"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "og víggi mitt"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og frelsari minn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mér⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T09:22:12.750470588Z",
+  "model": "glm-5.3"
+}

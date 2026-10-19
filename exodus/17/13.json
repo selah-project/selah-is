@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "לפי חרב er myndrænt 'munnur sverðsins', hliðstætt við 'að mun sverðsins'"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "עמו er orðun 'þjóð hans'; 'lið hans' valið í hersamhengi"
+    }
+  ],
+  "translation": "Og Jehósúa veikti ⟨את⟩ Amalek og ⟨את⟩ lið hans at mun sverðsins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1954886aa6b4636e41f652343acf47fdb9f1cf61858f53f02a5207633bfe44c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/17\/13-16.1792394523057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "veikti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehósúa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "lið hans"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lið hans"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "at mun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðsins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:22:03.057864790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישב\/יהפך",
+      "rationale": "tvö samskonar snúningssöguleg orð í röð — 'snýr... vendir' — endurtekningin varðveitt"
+    },
+    {
+      "kind": "crux",
+      "subject": "gegn mér",
+      "rationale": "בי skýrt sem 'gegn mér' (KJV) fremur en 'að mér' (BSB)"
+    }
+  ],
+  "translation": "Sannarlega gegn mér snýr hann aftur, vendir hendi sinni alla daginn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/1-4.1792412802033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sannarlega"
+    },
+    {
+      "surface": "בי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "snýr hann aftur"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "vendir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hendi sinni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:42.034140699Z",
+  "model": "glm-5.3"
+}

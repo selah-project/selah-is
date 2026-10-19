@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלפים",
+      "rationale": "'naut' — orðið getur einnig merkt 'þúsund' eða 'kynkvísl', en samhengið (kráa, naut) lætur nautina ríkja."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בר",
+      "rationale": "'tóm\/hreint' merkir einnig 'korn' — orðaleikur sem hvíldargildið 'hrein kráa' tapar."
+    }
+  ],
+  "translation": "Þar sem naut eru ekki er kráa tóm, en gnægt uppskeru kemur með krafti nautsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/14\/1-4.1792411367066.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Þar sem ... eru ekki"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "naut"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "kráa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tóm"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "gnægt"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "uppskeru"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "með krafti"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nautsins"
+    }
+  ],
+  "timestamp": "2026-10-19T12:02:47.067537924Z",
+  "model": "glm-5.3"
+}

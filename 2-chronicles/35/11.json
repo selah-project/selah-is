@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 35:11",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'blóðinu' bætt við — hebreskan segir aðeins 'stökkuðu úr höndum þeirra', blóðið skiljast af samhengi"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מידם: 'úr höndum þeirra' (YL T) vs 'úr hendi Levítanna' (KJV 'from their hand') — hver stökkva hverjum"
+    }
+  ],
+  "translation": "Og þeir slátruðu paskanum, og prestarnir stökkuðu ⟨blóðinu⟩ úr höndum þeirra, og Levítarnir flá þau.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8057f020ab9f010b893082d84fe0b0f7132e06f2f455b640ed43dab666897d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/35\/9-12.1792416095353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "Og þeir slátruðu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "paskanum"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "og stökkuðu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "úr höndum þeirra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og Levítarnir"
+    },
+    {
+      "surface": "מפשיטים",
+      "gloss": "flá þau"
+    }
+  ],
+  "timestamp": "2026-10-19T13:21:35.354574229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש merkir lífskraft\/önd, en 'sál' er orðið fast í íslenskri biblíuþýðingartilhögun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תתעטף er mynduð 'að slöngva yfir sig', myrkrar yfir sálu — 'falla úr afli' gefur merkinguna en ekki myndina."
+    }
+  ],
+  "translation": "Svangir og þyrstir, sálin þeirra í þeim för að falla úr afli.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/5-8.1792410657357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "svangir"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "þyrstir"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sálin þeirra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "í þeim"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "för að falla úr afli"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:57.357954196Z",
+  "model": "glm-5.3"
+}

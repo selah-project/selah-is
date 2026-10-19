@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מועדי er 'ákveðnar tíðir', fastsettar stundir — ekki 'hátíðir'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Mósje ávarar Ísraelsmanna með boði: 'Talaðu... segðu þeim'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðsmyndin 'Talaðu' og 'segðu' sem beinist að samfélaginu öllu"
+    }
+  ],
+  "translation": "Talaðu til Ísraelsmanna og segðu þeim: Tíðir Jahve, ⟨þær⟩ sem þér ákallið ⟨את⟩, heilög safnföng — þetta eru mínar tíðir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b3d0fc4e4072df08a2e8eaa075ad5aec8d392f95e273127b2ca8247fa846ee97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/23\/1-4.1792396080400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talaðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "בני",
+      "gloss": "manna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "og segðu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tíðir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ákallið"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "heilög safnföng"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "safnföng"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilög"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eru"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tíðir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:48:00.401309222Z",
+  "model": "glm-5.3"
+}

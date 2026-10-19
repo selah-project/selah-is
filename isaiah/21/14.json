@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tense",
+      "routine": "söguleg mynd vsskipun",
+      "rationale": "KJV\/ASV lesa þátíð („báru“), JPS\/BSB skipun („berið!“) — hebreska myndin er tvíræð."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נודד",
+      "rationale": "„sá flúandi“, orðrétt „sá sem hríast um“ — flóttamaður."
+    }
+  ],
+  "translation": "Til að mæta þyrstanum báru íbúar landsins Tema vatn; með brauði sínu komu þeir flóttamanninum til móts.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/21\/13-16.1792403986588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "til að mæta"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "þyrstanum"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "báru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "íbúar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landsins"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "með brauði sínu"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "komu þeir ... til móts"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "flóttamanninum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:46.589231871Z",
+  "model": "glm-5.3"
+}

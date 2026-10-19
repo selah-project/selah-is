@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "בצהרים er tvítala („tvíljós“) og merkir hádegi; tvítalan hverfur í íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מנחה er gjöf hér, ekki matfórn, og er því „gjöf“ samkvæmt D2."
+    }
+  ],
+  "translation": "Og þeir gerðu gjöfina ⟨את⟩ til reiða þar til Jósef kom um hádegi, því að þeir höfðu heyrt að þar mundu þeir éta brauð.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e053f0068b63614d12d6c370f68025a2ea8540c50722cb10888c9006e573509d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/25-28.1792393804210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "gerðu … til reiða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gjöfina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "gjöfina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "um hádegi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "höfðu heyrt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mundu þeir éta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    }
+  ],
+  "timestamp": "2026-10-19T07:10:04.210985259Z",
+  "model": "glm-5.3"
+}

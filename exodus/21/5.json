@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמר יאמר",
+      "rationale": "Örtsmynd og sagnorð í tveimur myndum — ‚segja skal hann segja‘ — endurtekið til áherslu; glatað í þýðingu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "אדני um mann(húsbóndann) — herra, ekki Adónaí, því viðfangið er maður."
+    },
+    {
+      "kind": "you",
+      "subject": "þrællinn",
+      "rationale": "Bein ræða þrælsins, vitnað í fyrstu persónu: ég elska… ekki vil ég fara út laus."
+    }
+  ],
+  "translation": "En ef þrællinn segir svo — og segir: Ég elska ⟨את⟩ herra minn, ⟨את⟩ konu mína og ⟨את⟩ börn mín — ekki vil ég fara út laus.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/5-8.1792394759051.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segja"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "þrællinn"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "elska ég"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herra minn"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konu mína"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "konu mína"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "börn mín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "börn mín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "far ég út"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "laus"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:59.052712560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 18:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "וירא skýrt hvort sem 'birtist' (nifal) eða 'sá' (qal) — goðfræðilegur munur á hver sá."
+    },
+    {
+      "kind": "substitution",
+      "subject": "eikirnar",
+      "rationale": "אלון er 'eik eða stórt tré'; JPS segir 'terebinther'."
+    },
+    {
+      "kind": "addition",
+      "subject": "í",
+      "rationale": "Íslenska þarf forsetningu þar sem hebreska notar כ (eins og)."
+    }
+  ],
+  "translation": "Og Jahve birtist honum við eikirnar í Mamre, og hann sat í tjald_dyrum ⟨í⟩ hita dagsins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c449e661237bdd973ef7c67a5493355b5b4ba3345e42a77f90e1e80dda79c588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/18\/1-4.1792392940468.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og birtist"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "við eikirnar"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "í Mamre"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "og hann"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sat"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "í tjald_dyrum"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tjaldsins"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "hita"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dagsins"
+    }
+  ],
+  "timestamp": "2026-10-19T06:55:40.469216477Z",
+  "model": "glm-5.3"
+}

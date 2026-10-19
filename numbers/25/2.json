@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "\"þeirra\" — kvenfleirtalaSuffix á אלהיהן vísar til dætra Móabs, í íslensku þarf útvíkkun"
+    },
+    {
+      "kind": "substitution",
+      "subject": "guðir",
+      "rationale": "אלהיהן er um guði þjóðanna, því með litlum staf — ekki Elóhím"
+    }
+  ],
+  "translation": "Og þær kölluðu fólkið til slagþinga guða sinna, og fólkið át og laut guðum þeirra.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0343efe128faed1801f91b62bbdf3a0f38ec239c733469186c1b1a872c77b549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/25\/1-4.1792397127373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "Og þær kölluðu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "til slagþinga"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "guða sinna"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "og át"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "og laut"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "guðum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T08:05:27.373971927Z",
+  "model": "glm-5.3"
+}

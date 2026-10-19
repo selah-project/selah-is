@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "brauðsneið",
+      "rationale": "עד ככר לחם: 'ofan í brauðsneið' (mann fært í fátækt) vs. 'fyrir brauðsneið' (verð hórunnar er aðeins brauð) — KJV\/JPS vs. YLT\/BSB lesa ólika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sául",
+      "rationale": "נפש er lífsmáttur\/andi, ekki ódauðleg sála í velsku skilningi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "veiðir",
+      "rationale": "תצוד er veiðimálsorð — hinn eiginlega hóra 'veiðir' sáulina eins og dýr; myndin helst í íslenskunni."
+    }
+  ],
+  "translation": "Því að vegna hórkonu er mann fært ofan í brauðsneið, en kona manns veiðir dýrmæta sálu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f1072fa6d8ae8ca9428cc35dfb4990f73af330bf1ae2b370d7dbf3e81214fab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/6\/25-28.1792411257328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "hóru-"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ofan í"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "brauðsneið"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauðar"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "en kona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálu"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "dýrmæta"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "veiðir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:57.328799659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 26:14",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sem",
+      "rationale": "Íslenskan þarf tengiliðinn „sem“ í spurningunni; hebreskan segir einfaldlega „hver ert þú kallar til konungsins“."
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Avner",
+      "rationale": "Bein áttalsfa til Avner með nafni, kallað yfir dalsins."
+    },
+    {
+      "kind": "crux",
+      "subject": "קראת אל המלך",
+      "rationale": "„Kallar til konungsins“ — sumar þýðingar (BSB) lesa „Hver kallar konunginn?“; hebreskan er óviss um hvort „til“ eða beint object."
+    }
+  ],
+  "translation": "Og Davíð kallaði til fólksins og til Avner, sonar Ner, og sagði: Mun þú ekki svara, Avner? Og Avner svaraði og sagði: Hver ert þú ⟨sem⟩ kallar til konungsins?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9a6d9eec18092e6603fa2431282ba3f20b27ad9710b6b286490a0676f5f9f279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/26\/14-15.1792416598533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kallaði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólksins"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Mun þú ekki"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "svara"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Og svaraði"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "kallar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:58.534284399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אף\/אפים",
+      "rationale": "'Nös' og 'reiði' eru sama orðið á hebresku (nös = reiði); tvíþýðnin um tvö fyrstu dæmin glatar í íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "מיץ חלב",
+      "rationale": "Sjálfstætt nafnorð 'þrýstingur mjólkur' eða örsögn 'að þrýsta mjólk' — hefð þýðendu skiptar á milli."
+    },
+    {
+      "kind": "substitution",
+      "subject": "reiði",
+      "rationale": "אפים er mynd af 'nös\/nostrils', tekit sem 'reiði' eins og vísunin í v. 33 samhengi gefur."
+    }
+  ],
+  "translation": "Því að ÞRÝSTINGUR mjólkur framleiðir ost, og ÞRÝSTINGUR nösar framleiðir blóð, og ÞRÝSTINGUR reiði framleiðir ágreining.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/30\/33-33.1792411719495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "þrýstingur"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mjólkur"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "framleiðir"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "ost"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "og þrýstingur"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nösar"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "framleiðir"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóð"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "og þrýstingur"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "framleiðir"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ágreining"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:39.495702839Z",
+  "model": "glm-5.3"
+}

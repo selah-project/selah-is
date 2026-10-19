@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסed geymt sem khesed"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה",
+      "rationale": "endurtök orðsins נחלה úr 21. versi, lykkja lofsins"
+    }
+  ],
+  "translation": "Eign Ísrael, þjóni hans, því að til eilífs er khesed hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "84291bdc12c4bc9b8d48626687e4bf38fb00762379d8cdb3e254505699c1a9de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/136\/21-24.1792410964773.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "eign"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "þjóni hans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til eilífs"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:04.774109310Z",
+  "model": "glm-5.3"
+}

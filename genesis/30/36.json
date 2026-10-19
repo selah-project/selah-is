@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 30:36",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "þriggja daga veg",
+      "rationale": "Fjarlægð mæld í dögum — þriggja daga ferð milli hjörðanna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צאן",
+      "rationale": "'hjörð' fyrir צאן samkvæmt D4 — sauðfé og geitur saman"
+    }
+  ],
+  "translation": "Og hann setti þriggja daga veg milli sín og Jaakobs, og Jaakov gætti ⟨את⟩ hjörð Lavan, þeirri eftir.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f4838232e6eefdf8770429829089b41c6b7fe00fb30a21d1263253471ef93b5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/30\/33-36.1792393360864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Og hann setti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "veg"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "þriggja"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "milli sín"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "og"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "og Jaakov"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "gætti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjörð Lavan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "hjörð"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "þeirri eftir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:02:40.866052176Z",
+  "model": "glm-5.3"
+}

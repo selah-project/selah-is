@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויעמד er bókstaflega 'stóð'; 'hætti að riða' gefur kyrrnáðina sem stöðun segir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "hafið 'stendur af reiði sinni' — mannmerking hafsins, reiðin er hans eigin"
+    }
+  ],
+  "translation": "Og þeir tóku ⟨את⟩ Jóna og köstuðu honum í hafið, og hafið hætti að riða af reiði sinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jonah\/1\/13-16.1792408596201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Og þeir tóku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóna"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jóna"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "og köstuðu honum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "og hætti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "að riða af reiði sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:36.202280865Z",
+  "model": "glm-5.3"
+}

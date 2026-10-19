@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרע\/צדיק",
+      "rationale": "Sáð-myndin er jarðyrkju-líking — ljósið er sáð sem sáðkorn, týnst í þýðingu"
+    },
+    {
+      "kind": "addition",
+      "subject": "fær",
+      "rationale": "Hebreskan segir aðeins „og hinum beinu hjarta — gleði“; sögn er sett til"
+    }
+  ],
+  "translation": "Ljós er sáð hinum réttláta og hjartans beinu fær gleði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/97\/9-12.1792410487593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Ljós"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "er sáð"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "hinum réttláta"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "og hjartans beinu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjartans"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "fær gleði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:07.594371297Z",
+  "model": "glm-5.3"
+}

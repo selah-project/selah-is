@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "myrkur",
+      "rationale": "מחשך: KJV\/ASV\/JPS lesa 'inn í myrkur' (þú hefur sent kunningja mína í myrkur), YLT\/BSB lesa 'kunningjar mínir eru myrkur' — hvorki sátar né greinir ber framháld"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'eru' bætt við sem sögn; hebreskan hefur aðeins nafnorð"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "beint til Jahve — lokaorð bænarpsálms þar sem málsmaðurinn er einn í myrkrinu"
+    }
+  ],
+  "translation": "Þú hefir fært langt frá mér vin og náinn vin; kunningjar mínir ⟨eru⟩ myrkur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/88\/17-19.1792410329200.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "þú hefir fært langt frá"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mér"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "og náinn vin"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "kunningjar mínir"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "myrkur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:29.201307285Z",
+  "model": "glm-5.3"
+}

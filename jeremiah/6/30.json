@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "נמאס og מאס — sömu rót tvívegis: silfrið er 'hafnað' og Jahve 'hafnar' því; endurtekningin er héld í íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "קראו להם: 'þeir kölluðu þeim það' (KJV 'men shall call them') á móti 'kallað á þá' — ópersónuleg þýðing valin."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Engin sagnbeyging í 'כסף נמאס' — 'hafnað silfur' — þýtt sem nafnliður eins og hebreskan gerir."
+    }
+  ],
+  "translation": "Hafnað silfur — þannig hefur verið kallað á ⟨את⟩ þá — því að Jahve hefur hafnað ⟨את⟩ þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80d4d6ee42ff02ee4912cc582599749c605c23a459553b778d670232c6710280",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/6\/29-30.1792405307391.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "hafnað"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hefur verið kallað"
+    },
+    {
+      "surface": "להם",
+      "gloss": "á þá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "hefur hafnað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:21:47.392090827Z",
+  "model": "glm-5.3"
+}

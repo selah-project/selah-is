@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Sögn af annarri gerð bætt við til íslenskrar málskipan; hebreskan segir bara 'hefndardagur í hjarta mínu'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dagur og ár",
+      "rationale": "Tímatöl — 'hefndardagur' og 'árið endurleystu' merkja mætt tíma eftir fyrirheitum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גאולי",
+      "rationale": "Táknað 'endurleystu minnar' (kenningarmynd goela 'endurkeypts minna') — 'endurkeypt mín' í fleirtölu."
+    }
+  ],
+  "translation": "Því að hefndardagur ⟨er⟩ í hjarta mínu, og árið ⟨endurleystu⟩ minnar er komið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/63\/1-4.1792404982452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagur"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hefndar"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "í hjarta mínu"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "og árið"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "endurleystu minnar"
+    },
+    {
+      "surface": "באה",
+      "gloss": "er komið"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:22.453341426Z",
+  "model": "glm-5.3"
+}

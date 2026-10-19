@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 42:24",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lögmál",
+      "rationale": "תורתו er 'Tóra hans', ekki 'lögmál', samkvæmt D2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאנו\/אבו",
+      "rationale": "fyrsta persóna fléttuð inn í þriðju persónu sögunar — 'við synduðum' en 'þeir vildu ekki'"
+    }
+  ],
+  "translation": "Hver gaf Jaakov til ránar og Ísrael ráningjum? Hafði það ekki Jahve — hann sem við synduðum gegn? Þeir vildu ekki ganga í vegum hans, og heyrðu ekki í Tóra hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e65b8dd7afb4d1a26416ee62cd4fe54059084c041ae9035f1d21ca5f8c235eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/42\/21-24.1792404619075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "למשוסה",
+      "gloss": "til ránar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "og Ísrael"
+    },
+    {
+      "surface": "לבזזים",
+      "gloss": "ráningjum"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Hafði það ekki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "við synduðum gegn"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "vildu"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "í vegum hans"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ganga"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "og heyrðu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בתורתו",
+      "gloss": "í Tóra hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:19.076735190Z",
+  "model": "glm-5.3"
+}

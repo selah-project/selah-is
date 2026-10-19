@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 5:7",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משפט\/משפח",
+      "rationale": "dómur\/blóðsúð — næstum samstöf í hebresku, tapast í íslensku"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקה\/צעקה",
+      "rationale": "tsedek\/hróp — samstöf; orðagleði útýðingarinnar sýnilegt aðeins í hebresku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "tsedek haldið eftir hljóði samkvæmt D2; 'réttlæti' einu myndi gleyma leiknum við צעקה"
+    }
+  ],
+  "translation": "Því að víngröð Jahve Tsevaót er hús Ísraels, og menn Júda góðplanta hans. Hann beiðst dóms, og sjá — blóðsúð; tsedek, og sjá — hróp.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/5\/5-8.1792403797529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "víngröð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og menn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "planta"
+    },
+    {
+      "surface": "שעשועיו",
+      "gloss": "góðplanta hans"
+    },
+    {
+      "surface": "ויקו",
+      "gloss": "hann beiðst"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "dóms"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "משפח",
+      "gloss": "blóðsúð"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "hróp"
+    }
+  ],
+  "timestamp": "2026-10-19T09:56:37.530537860Z",
+  "model": "glm-5.3"
+}

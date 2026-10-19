@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "safnað til fólks síns",
+      "rationale": "ויאאסף אל עמיו — 'var safnað til fólks síns' — hebreskt myndefn um dauða, haft bókstaflega"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויגוע",
+      "rationale": "Tvö sögn um sama atvik: 'andaðist og dó' — báðar varðveittar til að halda tvenningunni"
+    }
+  ],
+  "translation": "Og Avraham andaðist og dó, hárr og vel gefinn, gamall og mettaður, og hann var safnað til fólks síns.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e12dea066e8fe59b0bde57fe9ee3c476792aea9d9a32cff1812983ed5dc937de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/25\/5-8.1792393129510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Og andaðist"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og dó"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "hárr"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "og vel gefinn"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "gamall"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "og mettaður"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "og var safnað"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "fólks síns"
+    }
+  ],
+  "timestamp": "2026-10-19T06:58:49.511855652Z",
+  "model": "glm-5.3"
+}

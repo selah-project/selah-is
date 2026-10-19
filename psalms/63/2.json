@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin mín",
+      "rationale": "נפש er önd\/lífskraftur, ekki sál í síðari merkingu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„áður en dagr rís“ — אשחרך er mynd af שחר (dögun), leiðrétting vel þegin"
+    },
+    {
+      "kind": "you",
+      "subject": "til Elóhím",
+      "rationale": "beint ákall til Guðs í öðrum persónu"
+    }
+  ],
+  "translation": "Elóhím, El minn ert þú, áður en dagr rís leita ég þín; þyrst hefir sálin mín eftir þér, hold mitt girnist þig, í þurrri og þreytta landi, þar sem ekkert vatn er.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/63\/1-4.1792410021756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El minn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "áður en dagr rís leita ég þín"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "þyrst hefir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eftir þér"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "girnist"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þig"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "hold mitt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "þurrri"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "og þreytta"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "án"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:21.757190558Z",
+  "model": "glm-5.3"
+}

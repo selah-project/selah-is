@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan á ekki sögn í „קץ כל בשר בא“ — „kominn er“ er sett inn"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחיתם את הארץ",
+      "rationale": "„eyði þeim ⟨את⟩ jörðina“ — ýtt lesning: „eyði þeim ásamt jörðinni“"
+    },
+    {
+      "kind": "you",
+      "subject": "to Noah",
+      "rationale": "Elóhím talar beint við Nóak og tilkynnir dóminn"
+    }
+  ],
+  "translation": "Og Elóhím sagði við Nóak: Kominn er endir alls holds fyrir mitt andlit, því full er jörðin af ofbeldi af þeirra hálfu, og sjá, ég eyði þeim, ⟨את⟩ jörðina.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/6\/13-16.1792392732595.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "við Nóak"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "endir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "holds"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kominn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir mitt andlit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "full er"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "af ofbeldi"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "af þeirra hálfu"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "ég eyði þeim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jörðina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    }
+  ],
+  "timestamp": "2026-10-19T06:52:12.596317403Z",
+  "model": "glm-5.3"
+}

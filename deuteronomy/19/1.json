@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יכרית er mynd af כרת 'að skera af'; 'afmáa' heldur eyðingarmyndinni"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "lögsvið ávarps til Ísraels í annarri persónu"
+    }
+  ],
+  "translation": "Þegar Jahve Elóhím þinn hefur afmáað ⟨את⟩ þjóðirnar, þær sem Jahve Elóhím þinn gefur þér ⟨את⟩ land þeirra, og þú hefur tekið þær í arf og byrjað í borgum þeirra og í húsum þeirra,",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/1-4.1792398112937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "hefur afmáað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóðirnar"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þær sem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land þeirra"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "land þeirra"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "og þú hefur tekið þær í arf"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "og byrjað"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "í borgum þeirra"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "og í húsum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:52.938469325Z",
+  "model": "glm-5.3"
+}

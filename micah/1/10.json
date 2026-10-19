@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גת\/תגידו",
+      "rationale": "nafn borgarinnar Gat hljómar við sögnina 'að segja' (nagad) — ekki segja það í 'Víntjaldi'? — orðhlekkur tapast að hluta í íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעפרה\/עפר",
+      "rationale": "Bet-Leafrá heitir 'hús ryks' og næsta orð er 'ryk' — nafn borgarinnar er sjálft spádómurinn."
+    },
+    {
+      "kind": "crux",
+      "subject": "התפלשתי",
+      "rationale": "fyrsta persóna 'velti ég mér' (ASV, Míka sjálfr) vs. boðsháttur annarri persónu 'velt þér' (KJV\/JPS) — sagnirnar bera hvoruga-endingu og hvorug lesning er örugg."
+    },
+    {
+      "kind": "invitation",
+      "subject": "v10",
+      "rationale": "áhrifabótin 'segið... grátþið ekki' beinist til hlustendanna — vísað er í harmleikinn yfir Akkaja."
+    }
+  ],
+  "translation": "Í Gat segið það ekki, grátþið ekki; í Bet-Leafrá velti ég ⟨mér⟩ í ryki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/1\/9-12.1792408575751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "í Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "segið það"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "grátþið"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "grátþið"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í Bet-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leafrá"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "í ryki"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "velti ég ⟨mér⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:15.752459965Z",
+  "model": "glm-5.3"
+}

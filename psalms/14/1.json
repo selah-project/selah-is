@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נבל er heimskur í óguðlega merkingu — 'narinn', ekki aðeins 'heimskingi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלילה",
+      "rationale": "'athöfn\/verk' eða 'ráðþroti' — orðið getur merkt listræna frammistöðtu eða vond verk"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "‘þeir’ bætt við — hebreska sögnin stendur í fleirtölu án nafnorðar"
+    }
+  ],
+  "translation": "Fyrir kórstjórann. Davíðsálmur. Narinn sagði í hjarta sínu: Enginn Elóhím er. Spillt hafa ⟨þeir⟩, gert óþverga ⟨þeir⟩ á hlut; enginn er sem gjörir gott.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/14\/1-4.1792409313265.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "fyrir kórstjórann"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíðsálmur"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "narinn"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "í hjarta sínu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "spillt hafa"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "gert óþverga"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "á hlut"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "er sem gjörir"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:33.266560224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 1:5",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "נביא getur líka verið óákveðinn: 'spámaður þjóðanna setti ég þig'; inningsformið er valið."
+    },
+    {
+      "kind": "addition",
+      "subject": "að",
+      "rationale": "Hebreskan hefur engan setningarfrið fyrir atviksákvæði; íslenskan þarf 'að'."
+    }
+  ],
+  "translation": "Áður en ég mótaði þig í kviði þekki ég þig, og áður en þú gekkst út úr legi helgaði ég þig; að spámanni þjóðanna gerða ég þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/1\/5-8.1792405180668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "אצורך",
+      "gloss": "ég mótaði þig"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "í kviði"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "þekki ég þig"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "og áður en"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "þú gekkst út"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "út úr legi"
+    },
+    {
+      "surface": "הקדשתיך",
+      "gloss": "helgaði ég þig"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "spámanni"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "gerða ég þig"
+    }
+  ],
+  "timestamp": "2026-10-19T10:19:40.669226877Z",
+  "model": "glm-5.3"
+}

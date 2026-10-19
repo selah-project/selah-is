@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'ert' vantar í hebreskuna; viðtekin á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint ávarp til Guðs — bæn þar sem sálmhöfundur snýr sér að Elóhím og Jahve"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עני\/ואביון",
+      "rationale": "Tvö samstæð orð um fátækt hlið við hlið, parækja sem glatast að hluta í íslensku"
+    }
+  ],
+  "translation": "En ég er fátækur og nauðstrangur; Elóhím, hvattu þig til mín! Þú ert hjálpari minn og frelsari minn — Jahve, seinku eigi!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/70\/5-6.1792410036179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fátækur"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og nauðstrangur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "hvattu þig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "hjálpari minn"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og frelsari minn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "seinku"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:36.179998048Z",
+  "model": "glm-5.3"
+}

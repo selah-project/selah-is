@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואל",
+      "rationale": "'og eigi' — hebreskt afbrigði sem þýðist 'fremur en' í samanburði."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שכול",
+      "rationale": "Bókstaflega 'sorgfödd' — sá sem hafinn hefur afkvæmi sínum; 'afargættna' heldur myndinni."
+    }
+  ],
+  "translation": "Láttu afargættna björ mæta manni fremur en heimskan í heimskju sinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/17\/9-12.1792411406335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "láttu... mæta"
+    },
+    {
+      "surface": "דב",
+      "gloss": "björ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "afargættna"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "manni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fremur en"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "heimskan"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "í heimskju sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:26.337196813Z",
+  "model": "glm-5.3"
+}

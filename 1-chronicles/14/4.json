@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "nafnaskrá — talning barna Davíðs fæddra í Jerúsjalajím"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fæddust",
+      "rationale": "hebreska 'שהיו לו' er bókstaflega 'sem honum voru' — 'fæddust honum' gerir ljóst hvað átt er við"
+    }
+  ],
+  "translation": "Og þetta eru nöfn barnanna sem honum fæddust í Jerúsjalajím: Sjamúa og Sjóvav, Natan og Sjelómó.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5a05b24d66802b8ea78d25fc4ed7186f6b3c885f9032bb61b508351b615b9246",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/14\/1-4.1792414810791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "eru nöfn"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "barnanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voru"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Sjamúa"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "og Sjóvav"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "og Sjelómó"
+    }
+  ],
+  "timestamp": "2026-10-19T13:00:10.792625655Z",
+  "model": "glm-5.3"
+}

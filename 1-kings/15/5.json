@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hið rétta",
+      "rationale": "הישר er „hið beina\/rétta“ — flatur tvennd í hebresku, ekki réttlætið (tsedek)"
+    },
+    {
+      "kind": "crux",
+      "subject": "„aðeins í máli Úríja“",
+      "rationale": "viðmiðunin við Urija-málið (2. Sam 11) á eftir að koma — engin vitneskja fyrirfram"
+    }
+  ],
+  "translation": "Því að Davíð gjörði ⟨את⟩ hið rétta í augum Jahve og víkjaði ekki frá neinu því er hann bauð honum alla daga lífs síns — aðeins í máli Úríja Hetítans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dd87338bb0d2059ee218429791ac5ee4d7824e14e132a1c209b580d6d6bd52da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/15\/5-6.1792416672751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hið rétta"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "hið rétta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "víkjaði"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "frá neinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því er"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "bauð honum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "lífs síns"
+    },
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "í máli"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Úríja"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetítans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:12.752446520Z",
+  "model": "glm-5.3"
+}

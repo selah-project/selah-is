@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקה er flutt sem tsedek samkvæmt D2; réttlæti bætt við í sviga"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "beiðni til Ísraels um að skila veði fyrir sólarlag"
+    }
+  ],
+  "translation": "Að réttu skaltu láta hann fá ⟨את⟩ veðið aftur, þegar sólin sest, og hann sefur í möttlu sinni og blessar þig, og þér mun teljast tsedek (réttlæti) fyrir augliti Jahve, Elóhím þíns.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/24\/13-16.1792398300818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "að réttu skaltu láta fá aftur"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "láta hann fá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veðið"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "veðið"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "þegar… sest"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólin"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "og hann sefur"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "í möttlu sinni"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "og blessar þig"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "og þér"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mun teljast"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek (réttlæti)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir augliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T08:25:00.819594596Z",
+  "model": "glm-5.3"
+}

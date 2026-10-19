@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er ritað eftir hljóði (D2) — vindur, andi, andardráttur í einu orði."
+    },
+    {
+      "kind": "crux",
+      "subject": "חשבה להשבר",
+      "rationale": "'skipið réðst til að brotna' — hebreskan segir bókstaflega 'skipið taldi sig brotinn'; sumir þýða 'var í hættu á að brotna'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדולה\/גדול",
+      "rationale": "Endurtekning 'mikill' um vindinn og storminn — hvötun í textanum varðveitt með sama orði."
+    }
+  ],
+  "translation": "Og Jahve kastaði mikilli rúakh á hafið, og varð mikill stormur á hafiinu, og skipið réðst til að brotna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "436300302e5fe6d552698976207e70a3a7aed52d43d5917fe715b40f43d8a046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jonah\/1\/4-4.1792416884869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "kastaði"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mikilli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "סער",
+      "gloss": "stormur"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "בים",
+      "gloss": "á hafiinu"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "og skipið"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "réðst"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "til að brotna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:44.869669330Z",
+  "model": "glm-5.3"
+}

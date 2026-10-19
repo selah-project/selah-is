@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אף er nef\/nasir en þýtt 'reiði' — mynd reiðinnar sem andrés í nasarúm"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "'gera þau sem ofn elds' vs 'setja þau í ofn elds' — tvennar lesningar מלקול בכתנור"
+    }
+  ],
+  "translation": "Þú munt gera þau sem ofn elds við tíma andlits þíns, Jahve; í reiði sinni mun hann gleypa þau, og eldur mun eta þau.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/21\/9-12.1792409435012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Þú munt gera þau"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "sem ofn"
+    },
+    {
+      "surface": "אש",
+      "gloss": "elds"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "við tíma"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlits þíns"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "í reiði sinni"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "mun hann gleypa þau"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "og mun eta þau"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eldur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:35.013187074Z",
+  "model": "glm-5.3"
+}

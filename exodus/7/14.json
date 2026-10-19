@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כבד",
+      "rationale": "Orðið er 'þungt' (þyngd), ekki 'hart' — hebreska myndin skiptir út sterð (חזק) fyrir þyngd (כבד) milli versa."
+    },
+    {
+      "kind": "you",
+      "subject": "Mósje",
+      "rationale": "Jahve talar beint til Mósje."
+    }
+  ],
+  "translation": "Og Jahve sagði við Mósje: Hjarta Faró er þungt, hann neitar að láta fólkið fara.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a41985a78c59855819ad5368afb7a91ea5edbfcb519264cce958c7079d4336f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/7\/13-16.1792394173955.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "er þungt"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faró"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "neitar"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "að láta fara"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    }
+  ],
+  "timestamp": "2026-10-19T07:16:13.956175512Z",
+  "model": "glm-5.3"
+}

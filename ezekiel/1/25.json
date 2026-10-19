@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hebreskan hefur enga sagnatengingu; 'sem var' bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hvelfingin",
+      "rationale": "רקיע er 'útfjól' eða 'himinhvelfing'; orðmyndin er varðveitt í ritmyndinni 'hvelfing'"
+    }
+  ],
+  "translation": "Og varð rödd ofan af hvelfingunni, ⟨sem var⟩ yfir höfðum þeirra; þegar þeir stóðu, létu þeir vængi sína falla.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ee05e68a8820a2037bc05bce7ec4f404e57c4f9627ed5261a155671c17f08b99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/1\/25-28.1792406741022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ofan af"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "hvelfingunni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "höfðum þeirra"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "þegar þeir stóðu"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "létu falla"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "vængi sína"
+    }
+  ],
+  "timestamp": "2026-10-19T10:45:41.023063635Z",
+  "model": "glm-5.3"
+}

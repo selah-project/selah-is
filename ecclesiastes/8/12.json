@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "מלפניו er forsetning með ÞÁ-suffixi; á íslensku þarf eignarfall «hans»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מאת",
+      "rationale": "מאת er tala (hundrað) notuð sem atviksorð — «hundrað sinnum» — en hebreskan segir aðeins «hundrað»"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומאריך לו",
+      "rationale": "«hann lengir (daga sína)» — KJV «his days be prolonged» vs YLT «prolonging himself»; andlagsorð (daga) vantar í hebreskuna"
+    }
+  ],
+  "translation": "Þótt sá sem syndjar gjöri illa hundrað sinnum og honum sé lengt ⟨ævinn⟩, veit ég þó að þeim mun fara vel sem óttast Elóhím, þeim er óttast fyrir andliti ⟨hans⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1fc51da5fa15fedc3e62d7259b8b342611c6d9ef25011a7874fb7c6187d29ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/8\/12-12.1792417077864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syndjar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjöri"
+    },
+    {
+      "surface": "רע",
+      "gloss": "illa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "hundrað sinnum"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "og sé lengt"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "גם",
+      "gloss": "þó"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "veit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mun fara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "vel"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "þeim sem óttast"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeim er"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "óttast"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "fyrir andliti hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:57.864710702Z",
+  "model": "glm-5.3"
+}

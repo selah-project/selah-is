@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עמל er þrautarvinna og strit, en þýtt sem 'ógdan' samkvæmt samhengi refingarinnar"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראשו\/קדקדו",
+      "rationale": "Tvö orð um höfuðið í keðjulöguðri hendingu — höfuð og koll — endurtaka réttarhöldið"
+    }
+  ],
+  "translation": "Hann skal snúa aftur, ógdan hans, á höfuð ⟨hans⟩, og á koll hans skal ofbeldi hans fara niður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/17-18.1792409163211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "skal snúa aftur"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ógdan hans"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "á höfuð ⟨hans⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "koll hans"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ofbeldi hans"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "fara niður"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:03.211824663Z",
+  "model": "glm-5.3"
+}

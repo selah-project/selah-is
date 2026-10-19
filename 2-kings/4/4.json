@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨þá⟩",
+      "rationale": "Hebreska hefur aðeins 'hið fulla' (והמלא, sing.), en íslenska þarf samfellda nafnlið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תסיעי",
+      "rationale": "Náð er 'yfirfæra\/flytja burt' — 'setja til hliðar' heldur hreyfingunni í gegnum herbergið."
+    },
+    {
+      "kind": "you",
+      "subject": "Elísa til konunnar",
+      "rationale": "Öll versið er bendlagað ávarp: þú, þér, sonu þína."
+    }
+  ],
+  "translation": "Og þú skalt ganga inn og loka dyrunum fyrir þér og fyrir sonu þína, og þú skalt ausa út á allar þessar ilaskar, og ⟨þá⟩ sem fyllast skalt þú setja til hliðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cbf9e9acaa57307841f54d7f94891d183ea828694b502b9f700b9f9fa531684c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/4\/1-4.1792402910854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Og þú skalt ganga inn"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "og loka"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dyrunum"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "fyrir þér"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "og fyrir"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sonu þína"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "og þú skalt ausa út"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ilaskar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "og ⟨þá⟩ sem fyllast"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "skalt þú setja til hliðar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:41:50.856180742Z",
+  "model": "glm-5.3"
+}

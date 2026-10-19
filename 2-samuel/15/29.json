@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 15:29",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישב\/וישבו",
+      "rationale": "Sama rót notuð tvisvar — 'færði til baka' og 'dvéltu' — endingu-muninn sjást í hebresku en glatast í íslensku."
+    },
+    {
+      "kind": "elision",
+      "subject": "האלהים",
+      "rationale": "Fleirtölu-mynd Elóhím örvarar ekki í íslensku."
+    }
+  ],
+  "translation": "Og Tsadok og Evjatar færðu ⟨את⟩ örk Elóhím heim til Jerúsjalajím og dvöldu þar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8aa9485bd613c96f2c8df0a2ff4f24e344694da7609a16fde8fe8d08c818fe0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/15\/29-32.1792401559253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Og færði heim"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "og Evjatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "örk Elóhím"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "örk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og dvöldu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:19:19.254041166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "אדני על ימינך: 'Adónaí við hægri hönd þína' eða (samtengt v.1) 'hann við hægri hönd þín'; óvíst hver ljóðsetningin er."
+    },
+    {
+      "kind": "substitution",
+      "subject": "reiði",
+      "rationale": "אף er nef, nefið; 'reiði' er myndlíning sem hebreskan sjálf notar."
+    },
+    {
+      "kind": "you",
+      "subject": "til konungsins",
+      "rationale": " enumerated: "
+    }
+  ],
+  "translation": "Adónaí er hægra handar þér; hann mysja konungar í degi reiði sinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/110\/5-7.1792410709092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "על",
+      "gloss": "hægra handar"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "mysja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "í degi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "reiði sinnar"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konungar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:49.093204921Z",
+  "model": "glm-5.3"
+}

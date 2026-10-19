@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למשגב",
+      "rationale": "'sem skjól\/virki\/háborg' — nokkrar lesnir: 'skjól' (refuge), 'virki' (fortress), eða 'hár staður'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hefur gefið sig þekktur",
+      "rationale": "נודע er nifl-sögn, 'varð þekktur\/sýndi sig' — endurgerð með íslenskri þolmynd"
+    }
+  ],
+  "translation": "Elóhím hefur gefið sig þekktur í borgarvirkjum hennar sem háborg.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/48\/1-4.1792409834673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "í borgarvirkjum hennar"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "hefur gefið sig þekktur"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "sem háborg"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:14.675742188Z",
+  "model": "glm-5.3"
+}

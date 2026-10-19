@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 16:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אפו er neflitur ('nös') haft um reiði; 'reiði' gefur myndina en ekki líkamaþáttinn."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישטמני",
+      "rationale": "rætur orðsins bæði 'hata' og 'eltast við'; KJv 'hateth me', ASV 'persecuted me'."
+    }
+  ],
+  "translation": "Reiði hans reif mig og hann eltir mig fyrir hati, hann gætti tanna sinna að mér; óvinur minn eggjar augu sín gegn mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/16\/9-12.1792412025064.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפו",
+      "gloss": "reiði hans"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "reif"
+    },
+    {
+      "surface": "וישטמני",
+      "gloss": "eltir mig fyrir hati"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "gætti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "að mér"
+    },
+    {
+      "surface": "בשניו",
+      "gloss": "tanna sinna"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "óvinur minn"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "eggjar"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "augu sín"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gegn mér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:45.065210655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 33:27",
+  "book": "job",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישר",
+      "rationale": "Rót שׁוּר 'að líta, gæta' gegn שׁוּר 'að syngja' — ASV\/BSB lesa 'syngur', KJV 'lítur á'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישר\/העויתי",
+      "rationale": "'beint' gegn 'bjógað' — andstæðupár sem glatarst ekki alveg í íslensku"
+    }
+  ],
+  "translation": "Hann hyggst á menn og segir: Ég syndgaði og hið beina bjógaði ég, og það skilaði mér engum ávinningi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5c40663e9b049011f83a61f4f0770d7ed7994842b61788ac66cda02c7bc8d9a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/33\/25-28.1792412386564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "hyggst á"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og segir"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ég syndgaði"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og hið beina"
+    },
+    {
+      "surface": "העויתי",
+      "gloss": "bjógaði ég"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "skilaði ávinningi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:19:46.565429574Z",
+  "model": "glm-5.3"
+}

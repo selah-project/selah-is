@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Fölsunaráhrif: harðar boðmyndir („Syngið… lofið…“) kalla lesandann inn í lofsönginn."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nálægar „óttaköstur\/lífsandi“ — „sál“ er hefð en ekki mynd hebreskunnar."
+    }
+  ],
+  "translation": "Syngið Jahve, lofið ⟨את⟩ Jahve, því að hann frelsaði ⟨את⟩ sál fátæks úr hendi þeirra sem illt gera.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "96109cf15cb70129ebffec679f2187f019f3c01ca858f244b51c13d0f36597bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/20\/13-16.1792405783956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syngið"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lofið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "frelsaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sál fátæks"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sál"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "fátæks"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "þeirra sem illt gera"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:43.957498608Z",
+  "model": "glm-5.3"
+}

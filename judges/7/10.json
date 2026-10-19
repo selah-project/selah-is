@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Íslensk setningaskipan krefst samtengingar 'þá' sem hebreskan segir með umskiptum vættningarinnar."
+    },
+    {
+      "kind": "you",
+      "subject": "to Gideon",
+      "rationale": "Jahve heldur áfram beinni áttun til Gídeons og mætir ótta hans."
+    }
+  ],
+  "translation": "En ef þú hræðist að fara niður, farðu þá niður þú og Púra, þjónn þinn, til herbúðanna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "9572e5cf3ef2620a3811f23e7773874de6788d59f9c85ea1e74c86b2f7ed1deb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/7\/9-12.1792399608612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hræðist"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "að fara niður"
+    },
+    {
+      "surface": "רד",
+      "gloss": "farðu niður"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "og Púra"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "þjónn þinn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "herbúðanna"
+    }
+  ],
+  "timestamp": "2026-10-19T08:46:48.613361503Z",
+  "model": "glm-5.3"
+}

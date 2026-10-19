@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Fjögur pól-aðgerðar-orðin (מעוך כתות נתוק כרות) vísa til holdræns líams — sæmir betur en atviksorð ein og sér."
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "'í landi yðaru skuluð þér ekki gera' — sennilega bann við holdrænum aðgerðum á dýrum yfirleitt, ekki aðeins við altarið."
+    }
+  ],
+  "translation": "Krambolað eða krossað, slitnað eða skorið — því skuluð þér ekki færa Jahve, og í landi yðaru skuluð þér ekki gera ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "10f7c5a4117534a76020c8acb45ecb54440c075a1f587a2396b17313b78d4dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/21-24.1792396010521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "Krambolað"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "eða krossað"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "slitnað"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "eða skorið"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "skuluð þér færa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "í landi yðaru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skuluð þér gera ⟨það⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:50.529608909Z",
+  "model": "glm-5.3"
+}

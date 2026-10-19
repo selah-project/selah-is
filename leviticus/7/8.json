@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עֹלָה merkir 'það sem stígur upp' — 'brennifórn' heldur eldmyndina en fellir stígandi-myndina"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sjálfum' bætt við fyrir áherlslu לו—יהיה, hebreskan hefur aðeins fornafn og sögn"
+    }
+  ],
+  "translation": "Og presturinn sem fer fram með ⟨את⟩ brennifórn hvers manns — skinn þeirrar brennifórnar er hann fer fram með skal presturnum sjálfum tilheyra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "2b4aa962cd904d703efbad02bed50b033393ffab4cfac8db00142378dc6e70d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/7\/5-8.1792395462338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "og presturinn"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "sem fer fram með"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brennifórn hvers manns"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brennifórn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvers manns"
+    },
+    {
+      "surface": "עור",
+      "gloss": "skinn"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "þeirrar brennifórnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "hann fer fram með"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "presturnum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sjálfum"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal tilheyra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:42.339540768Z",
+  "model": "glm-5.3"
+}

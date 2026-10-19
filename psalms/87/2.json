@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Misjkan",
+      "rationale": "משכנות ritað eftir hljóði (Misjkan) samkvæmt reglu D2, ekki „bústaðir“ eða „tjaldbúðir\""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hlið Síonar",
+      "rationale": "Fleirtala שערי (hliðir) í merkingunni en Síon tengist hliðum sínum; hetja er að staðurinn sjálfur, ekki musterið"
+    }
+  ],
+  "translation": "Jahve elskar hlið Síonar fram yfir öll Misjkan Jaakobs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/87\/1-4.1792410341458.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "elskar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "hlið"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Síonar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "fram yfir öll"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Misjkan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:41.459403616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כמשפט er bókstaflega 'samkvæmt dómi'; 'sið' gefur venjuna en dómshugtakið hverfur."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראים\/עבדים",
+      "rationale": "Andstæð tvíeykið óttust–þjónuðu endurtekið í 17:33 og 17:34–35 mótar alla kaflann."
+    }
+  ],
+  "translation": "Jahve ⟨את⟩ óttuðust þeir, og guðum sínum ⟨את⟩ þjónuðu þeir, eftir sið þjóðanna er fluttu þá brott þaðan.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/33-36.1792403308406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voru"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "óttuðust"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "guðum sínum"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guðum sínum"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voru"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "þjónuðu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "eftir sið"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "fluttu brott"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "משם",
+      "gloss": "þaðan"
+    }
+  ],
+  "timestamp": "2026-10-19T09:48:28.407360845Z",
+  "model": "glm-5.3"
+}

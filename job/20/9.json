@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sá hann — íslenska þarf relative-setningu þar sem hebreskan hefur aðeins sögn með forskeyti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "staðurinn sér",
+      "rationale": "hebreskan persónugerir staðinn (מקומו תשורנו) — „staðurinn sjái hann“; myndlíningin varðveitt"
+    }
+  ],
+  "translation": "Auga sem sá hann sér hann ekki heldur, og staðurinn sér hann ekki aftur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e4d97f07fc892d1828c50cc0a3bcb2d30dd7320d4962bf0cba9121f8fe3f3fd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/20\/9-12.1792412131285.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "auga"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "sem sá hann"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aftur"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "sér hann"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "staðurinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:31.285899062Z",
+  "model": "glm-5.3"
+}

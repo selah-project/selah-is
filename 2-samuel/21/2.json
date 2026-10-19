@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 21:2",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בקנאתו",
+      "rationale": "\"í brýni sinni\" — kænska getur verið bæði harðni og afbrýðisemi; mynd málsins er hiti innra máttar"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "\"heldur\" — tvö orð í hebresku (ekki-nema) verða einu íslensku viðtökusambandi"
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "framsögnar sögn bætt við í sviga innskotinu, hebreskan hefur hana ekki"
+    }
+  ],
+  "translation": "Og konungurinn kallaði til Gíbeonítana og sagði við þá — en Gíbeonítarnir eru ekki af sonum Ísraels, heldur af leifum Emorítanna, og Ísraelsmenn höfðu svarið þeim eið — og Saul sótti þá til að drepa ⟨את⟩ þá í brýni sinni fyrir sonum Ísraels og Júda.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/21\/1-4.1792401736167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kallaði"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "לגבענים",
+      "gloss": "til Gíbeonítana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "והגבענים",
+      "gloss": "en Gíbeonítarnir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "af sonum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "המה",
+      "gloss": "eru þeir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "af leifum"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorítanna"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "höfðu svarið eið"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "og sótti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "להכתם",
+      "gloss": "að drepa þá"
+    },
+    {
+      "surface": "בקנאתו",
+      "gloss": "í brýni sinni"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "fyrir sonum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T09:22:16.168172697Z",
+  "model": "glm-5.3"
+}

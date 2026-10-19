@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 4:22",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשיא",
+      "rationale": "'נשיא' er uppháinn einn — höfðingi, ekki konungur né prestar"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשגגה",
+      "rationale": "'af óvítu' vs 'óviljandi' — hebreska segir mistök, ekki nauðsynlega fyrir ásetti"
+    }
+  ],
+  "translation": "Þegar höfðingi syngur og gerir eina af öllum boðorðum Jahve Elóhím síns, þau sem ekki mega gerast, af óvítu, og verður sekur —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "3161e76fed3a25b4673720503f0a31efeb141e55372c3b8ecd2ef313466916d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/4\/21-24.1792395467287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "höfðingi"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "syngur"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gerir"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af öllum"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "boðorðum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elóhím síns"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þau sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "mega gerast"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "af óvítu"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "verður sekur"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:47.288161568Z",
+  "model": "glm-5.3"
+}

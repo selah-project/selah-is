@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החור",
+      "rationale": "'Gatið' — flestar þýðingar skilja sem gat á dyrum (YLT 'net-work'); myndin er hönd tekin um dyragat."
+    },
+    {
+      "kind": "substitution",
+      "subject": "innyfli",
+      "rationale": "מעים er bókstaflega innyfli\/kviður, en stendur fyrir dýpstu tilfinningu — sumar þýðingar setja 'hjartað'."
+    }
+  ],
+  "translation": "Elskinn minn rétti hond sína inn um gatið, og innyfli mín örustu fyrir honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/5\/1-4.1792412660217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Elskinn minn"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "rétti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hond sína"
+    },
+    {
+      "surface": "מן",
+      "gloss": "inn um"
+    },
+    {
+      "surface": "החר",
+      "gloss": "gatið"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "og innyfli mín"
+    },
+    {
+      "surface": "המו",
+      "gloss": "örustu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "fyrir honum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:20.219201269Z",
+  "model": "glm-5.3"
+}

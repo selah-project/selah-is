@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבלתי יכלת",
+      "rationale": "'Af því að Jahve gat ekki' — orð þjóðanna um Jahve, rangsögn sem Mósje vitnar til, ekki sögn fræðimannsins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישחטם",
+      "rationale": "'Slótraði' heldur mynd slátrunar í שחט; ekki 'drepa' almennt."
+    }
+  ],
+  "translation": "Af því að Jahve gat ekki flutt ⟨את⟩ þetta fólk inn í landið sem hann sór þeim, því slótraði hann þeim í eyðimörkinni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "3a51a300d5810af28973c44cf8d84dc980cd9b44bb4cd5c4e707a4bda39d247f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/14\/13-16.1792396766669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "af því að ... ekki"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "gat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "að flytja inn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þetta fólk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inn í"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sór"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "því slótraði hann þeim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:59:26.670891569Z",
+  "model": "glm-5.3"
+}

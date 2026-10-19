@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 27:24",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברומים",
+      "rationale": "Orðið er öldótt — 'damask' eða 'efri hluti klæða' (KJV 'rich apparel', Rashi 'miklar og dýrar vörur'), engin víðsýn samstaða."
+    },
+    {
+      "kind": "hapax",
+      "subject": "במכללים",
+      "rationale": "Leidd af rót þýðandi 'fullkominn' — 'valdar vörur, fín klæði' — kemur aðeins hér fyrir í Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תכלת",
+      "rationale": "Blá litur úr skel dýrsins argaman-tekkit; 'blámuðu silki' fær litinn en ekki uppruna dýrsins."
+    },
+    {
+      "kind": "elision",
+      "subject": "חבשים וארזים",
+      "rationale": "Hebreskan segir 'bundnir' og 'gerðir úr sedruviði' — óljóst hvort á klæðin eða kisturnar; gripið er til 'girðgirðir með sedruviði'."
+    }
+  ],
+  "translation": "Þeir voru kaupmenn þínir í fínum vörum, í innleggjum úr blámuðu silki og útsaumi, og í skemmurótum dýrmætra klæða, með strengjum bundnir og girðgirðir með sedruviði, í verslun þinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "27869645b47279301ab2b182ea23bba26f65fe633c12706f956fdd8615392a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/27\/24-24.1792416859864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Þeir"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "kaupmenn þínir"
+    },
+    {
+      "surface": "במכללים",
+      "gloss": "í fínum vörum"
+    },
+    {
+      "surface": "בגלומי",
+      "gloss": "í innleggjum"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blámuðu silki"
+    },
+    {
+      "surface": "ורקמה",
+      "gloss": "og útsaumi"
+    },
+    {
+      "surface": "ובגנזי",
+      "gloss": "og í skemmurótum"
+    },
+    {
+      "surface": "ברמים",
+      "gloss": "dýrmætra klæða"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "með strengjum"
+    },
+    {
+      "surface": "חבשים",
+      "gloss": "bundnir"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "og með sedruviði"
+    },
+    {
+      "surface": "במרכלתך",
+      "gloss": "í verslun þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:19.865361695Z",
+  "model": "glm-5.3"
+}

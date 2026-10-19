@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Réttráð spurning — hinn frægi viðsnúningur sálmsins, lesandan beint spurt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jarðvegur",
+      "rationale": "אדמה er rauðleit mold — 'jarðvegur' heldur jarðtengingunni betur en abstrakt 'land'"
+    }
+  ],
+  "translation": "Hvernig skulum við syngja ⟨את⟩ söng Jahve á jarðvegi framandi lands?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/137\/1-4.1792410986914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Hvernig"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "skulum við syngja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "söng Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "söng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "jarðvegi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "framandi lands"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:26.915664173Z",
+  "model": "glm-5.3"
+}

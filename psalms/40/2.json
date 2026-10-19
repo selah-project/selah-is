@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קוה קויתי",
+      "rationale": "Nafnháttaraukinn endurtekur rótina — „vonbið hef ég beðið“ — endurskýrt með samsettri glosu þar sem eyðufylling í íslensku glatar fullu endurtakinu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויט אלי",
+      "rationale": "„Hallaði sér að mér“ — hebreskan segir bókstaflega „beygði sig“, mynd sem stendur fyrir að hlusta."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Versið er vottorð sem dregur lesandann inn með fyrstu persónu."
+    }
+  ],
+  "translation": "Með vonbið hef ég beðið Jahve, og hann hallaði sér að mér og heyrði öskruna mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/40\/1-4.1792409741213.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "með vonbið"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "hef ég beðið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "og hann hallaði sér"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "að mér"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og heyrði"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "öskruna mína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:41.214695035Z",
+  "model": "glm-5.3"
+}

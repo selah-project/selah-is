@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמת",
+      "rationale": "orðið merkir 'hitinn\/reiðin' en hér er það eitur náðrunnar"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "tónlistarmerki, óþýðanlegt — haft óbreytt sem 'Sela'"
+    }
+  ],
+  "translation": "Þeir hafa brýnt tunganar sínar eins og höggormur; eitur náðru er undir vörum þeirra. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/140\/1-4.1792410996349.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "hafa brýnt"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tunganar sínar"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "höggormur"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "eitur"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "náðru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "vörum þeirra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:36.350988188Z",
+  "model": "glm-5.3"
+}

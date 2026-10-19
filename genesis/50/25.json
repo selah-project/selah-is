@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "פקד יפקד endurtekin ögn: 'mun vissulega vísa yður'; endurtekningin undirstrikar vissuna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bein mín",
+      "rationale": "עצמתי merkir bein mín — ljóst myndefni, ekki 'líkama' í úrvalsmerkingu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Varanmerkt við vísbendinguna — ekki talað; einkum eiðurinn sem bindur framtíðina."
+    }
+  ],
+  "translation": "Og Jósef lét sonu Ísraels sverja og segja: Elóhím mun vísa yfir yður ⟨את⟩ — mundið eftir yður — og þér skuluð flytja bein mín héðan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "788473786bada7081d921ac596fdd97eefbdfc24d1f04bc1f9cb2eaaabd38300",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/50\/25-26.1792416330363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "lét sverja"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sona Ísraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og segja"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mun vísa yfir"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "mundi eftir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "og þér skuluð flytja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bein mín"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "bein mín"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "héðan"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:30.364445976Z",
+  "model": "glm-5.3"
+}

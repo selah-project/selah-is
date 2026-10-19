@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tekið⟩",
+      "rationale": "Sagnmyndin á íslensku krefst sagnarinnar; hebreskan segir aðeins 'verður ekki að þóknun fyrir yður'."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Bann beinist til Ísraelsmanna og prestanna í öðru persónufalli."
+    }
+  ],
+  "translation": "Allt það sem í er galla skuluð þið ekki færa, því að það verður ekki ⟨tekið⟩ með þóknun fyrir yður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "299943f5431fd5a943fb25372d91757cf4b75814dd3d8a1d732c401d3eccc380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/17-20.1792395963412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í er"
+    },
+    {
+      "surface": "מום",
+      "gloss": "galla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "skuluð þið færa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "með þóknun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "fyrir yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:03.413714300Z",
+  "model": "glm-5.3"
+}

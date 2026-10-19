@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 27:14",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þeir' er bætt við; hebreskan hefur ekki frumlag í þessu versi"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזבוניך",
+      "rationale": "YLT les 'þeir gáfu leifum þín'; aðrir 'í viðskiptum þinum'"
+    }
+  ],
+  "translation": "Úr húsi Togarma gáfu þeir hesta og ryttara og múldýr sem vöruskipti þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/27\/13-16.1792407483118.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבית",
+      "gloss": "Úr húsi"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "Togarma"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hesta"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "og ryttara"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "og múldýr"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gáfu þeir"
+    },
+    {
+      "surface": "עזבוניך",
+      "gloss": "sem vöruskipti þín"
+    }
+  ],
+  "timestamp": "2026-10-19T10:58:03.119235780Z",
+  "model": "glm-5.3"
+}

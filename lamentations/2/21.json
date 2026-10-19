@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 2:21",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפך",
+      "rationale": "raf 'nef, andlit' merkir hér reiði; mynd líkamsins hverfur í íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "Íslenkska þarf ávísað andlagi fyrir 'drapst'; hebreskan á eftirbeygir sverðsfallinu á undan."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Verset snýr beint að Jahve í öðru persóni eintölu — ákall frá því fyrra vers."
+    }
+  ],
+  "translation": "Á jörðinni liggja úti á götunum unglingur og gamall maður; meyjar mínar og unmenni mín féllu fyrir sverði; þú drapst ⟨þá⟩ á degi reiði þinnar, þú slátraðir, miskaunaðir ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "528e7fd1689e97538e8746c702faebdb2837b334c6e5e632666c15acc0db40b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/2\/21-22.1792412833304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכבו",
+      "gloss": "liggja"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "á jörðu"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "úti á götum"
+    },
+    {
+      "surface": "נער",
+      "gloss": "unglingur"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "og gamall"
+    },
+    {
+      "surface": "בתולתי",
+      "gloss": "meyjar mínar"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "og unmenni mín"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "féllu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "fyrir sverði"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "þú drapst"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "reiði þinnar"
+    },
+    {
+      "surface": "טבחת",
+      "gloss": "þú slátraðir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "miskaunaðir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:27:13.305068555Z",
+  "model": "glm-5.3"
+}

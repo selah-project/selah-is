@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur\/andskip, ekki ódauðleg sál í gríska skilninginu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאל\/פדה",
+      "rationale": "Tvö orð fyrir leysingu — ættmundarleysing (goel) og lausnargjald — hliða hvort öðru."
+    },
+    {
+      "kind": "addition",
+      "subject": "hana",
+      "rationale": "Fornafnið „hana“ bætt við í íslensku; hebreska sögnin ber hlutinn í sér."
+    }
+  ],
+  "translation": "Kom nær sálinni minni, leystu hana; vegna óvina minna endurleystu mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/17-20.1792410098822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Kom nær"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálinni minni"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "leystu hana"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "óvina minna"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "endurleystu mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:38.822989005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Undarleg mynd: אתו hér er nunnuð útgáfa af forsetningunni עם („með\/hjá honum“), en merkt ⟨את⟩ samkvæmt reglu Selah; íslenskan fær „hjá honum“."
+    },
+    {
+      "kind": "addition",
+      "subject": "voru",
+      "rationale": "Sagnning sem hebreskan sleppir; bætt við í svigaklofum."
+    }
+  ],
+  "translation": "Og Balak slátraði nautum og sauðfé og sendi til Bíleams og til höfðingjanna ⟨את⟩ sem ⟨voru⟩ hjá honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e33b5ae5c28011fcc534b6301e28e7c8ae77b84b1e9bcd3a0d2c9313ab63dd02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/22\/37-40.1792397106437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Og slátraði"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "nautum"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "og sauðfé"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendi"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "til Bíleams"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "og til höfðingjanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T08:05:06.438937488Z",
+  "model": "glm-5.3"
+}

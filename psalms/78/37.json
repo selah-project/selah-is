@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnfylling (var) bætt við, hebreskan sleppir henni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "staðfest",
+      "rationale": "נכון er 'upprétt, fest' — 'ekki rétt skipað' er önnur möguleg lesning"
+    }
+  ],
+  "translation": "Og hjarta þeirra var ekki staðfast með honum, og ekki treðu þeir fast á sáttmála hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/37-40.1792410231947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "og hjarta þeirra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "staðfast"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "með honum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "treðu þeir fast"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "á sáttmála hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:51.948445316Z",
+  "model": "glm-5.3"
+}

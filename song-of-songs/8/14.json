@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "unnasti minn",
+      "rationale": "דודי is 'elskandi minn\/ástin mín' — 'unnasti' valið sem nákomt íslenskt orð."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברח\/דודי",
+      "rationale": "Verse echoes Song 2:17 word-for-word — the refrain-ring closing the book; the repetition is deliberate and untranslatable as such."
+    },
+    {
+      "kind": "hapax",
+      "subject": "בשמים (fjöll)",
+      "rationale": "'Fjöll ilmkrydds' eru einungis hér og í 2. Mós (Ljóðl. 2:17) — myndin er loka-\/rásmynd bókarinnar."
+    }
+  ],
+  "translation": "Flýðu, unnasti minn, og gjörðu þér líking við gasellu eða kálfur hjartanna, yfir fjöllum ilmkrydds!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e2fc1b5d59c398cafe0c0b459ab94cb44a8980fb594972db09c9f87d1d9bb620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/8\/13-14.1792412677131.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "flýðu"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "unnasti minn"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "og gjörðu þér líking við"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "gasellu"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "kálfur"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "hjartanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "fjöllum"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ilmkrydds"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:37.131906309Z",
+  "model": "glm-5.3"
+}

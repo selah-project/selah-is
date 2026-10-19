@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guða sinna",
+      "rationale": "אלהיהם um líkneski Filistim: 'guða' með lítum staf, ekki Elóhím"
+    },
+    {
+      "kind": "crux",
+      "subject": "גלגלתו",
+      "rationale": "'höfuðkúpa' (YLT) gegn 'höfuð' (KJV\/JPS) — orðið merkir kúlót hlut, en um Sjáúl er það höfuð hans"
+    }
+  ],
+  "translation": "Og þeir settu ⟨את⟩ vápn hans í hús guða sinna, og ⟨את⟩ höfuðkúpu hansfestu þeir í hús Dagan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4af851862c85f72b30c0a31452168cad91a854e5f39a406b705e992f97bdf75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/10\/9-12.1792414647751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "og þeir settu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vápn hans"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vápn hans"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í hús"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guða sinna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "höfuðkúpu hans"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "höfuðkúpu hans"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "festu þeir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í hús"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagan"
+    }
+  ],
+  "timestamp": "2026-10-19T12:57:27.752164458Z",
+  "model": "glm-5.3"
+}

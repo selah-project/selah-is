@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Aramaic has no copula; Icelandic requires ⟨er⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנא תקל פרסין",
+      "rationale": "Orðmyndirnar hafa tvöfalda merkingu — telja\/mína, vega\/sikill, skipta\/Perísland — orðvíxl sem tapast í íslensku"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ritið á veggnum",
+      "rationale": "Innskriftin er þokuð og dulin þar til Daníel túlkar hana"
+    }
+  ],
+  "translation": "Og þetta er ritið sem ritað var: Mené, Mené, Tekel og Peresín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8f78deaf002935d2573450ccd01fdd5fbb23dc6cc5ba29af327bd7e307ab97c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/5\/25-28.1792413424241.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ritið"
+    },
+    {
+      "surface": "די",
+      "gloss": "sem"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ritað var"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Mené"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Mené"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Tekel"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "og Peresín"
+    }
+  ],
+  "timestamp": "2026-10-19T12:37:04.241675410Z",
+  "model": "glm-5.3"
+}

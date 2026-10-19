@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 24:17",
+  "book": "job",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלמות",
+      "rationale": "„skuggi dauðans” (tsalmavet) móti „myrkur” — JPS les „skuggi dauðans er þeim sem morgunn”, KJV snýr hlutverkunum við."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skuggi dauðans",
+      "rationale": "צלמות er samlíking — þykkur myrkur, ekki endilega dauði — en íslenskan heldur í myndina."
+    },
+    {
+      "kind": "elision",
+      "subject": "יחדו",
+      "rationale": "„saman” fellur úr náttúrulegri íslenskri setningu en er haft með til að varðveita orðið."
+    }
+  ],
+  "translation": "Því að morgunn er þeim sem skuggi dauðans, því að þeir þekkja ógnir skugga dauðans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/24\/17-20.1792412253177.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morgunn"
+    },
+    {
+      "surface": "למו",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "skuggi dauðans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "þeir þekkja"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "ógnir"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "skugga dauðans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:33.177677649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרץ",
+      "rationale": "Sögn og nafn orðsama: 'Jahve gjörði פרץ (gap) á Uzza' — staðarheitið Perets-Ussa ber gjörninginn í nafninu."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ויחר לדויד: 'Davíð varð reiður' (Geneva) eða 'varð ósáttur\/brjánaður' (KJV 'displeased') — hebreska er sama reiðisorðið og um Jahve í v. 10."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'var' í 'var kallaður' — hebreska notar virkt ' hann kallaði' en frásögnin er óbein á íslensku."
+    }
+  ],
+  "translation": "Og Davíð varð reiður, því að Jahve hafði gert gap á Uzza; og sá staður var kallaður Perets-Ussa, allt til þessa dags.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "14ff900c392302f655b63eff9a3f4d7bde999bce09c6991ec9f8fc0f270c52a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/13\/9-12.1792414814153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Og Davíð varð reiður"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "hafði gert gap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "gap"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "á Uzza"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og var kallaður"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "sá staður"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sá"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ussa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "þessa dags"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T13:00:14.154835994Z",
+  "model": "glm-5.3"
+}

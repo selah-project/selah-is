@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמת",
+      "rationale": "'Sem dauður' — sumir lesa 'sem andvana fætt barn' (LXX-viðmið), en orðið segir aðeins 'dauður'."
+    },
+    {
+      "kind": "addition",
+      "subject": "hún",
+      "rationale": "Fornafnið 'hún' er bætt við — hebreskan á Mirjam ósegða í þessu versi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויאכל חצי בשרו",
+      "rationale": "'Helmingur holds hans er étnn' — myndrænt um holdsveipta dáinn; snjóhvíta húðin borin saman við hráæti."
+    }
+  ],
+  "translation": "Megi hún ekki, bið ég, verða sem dauður, er við útgöngu sína úr móðurkviði móður sinnar, og helmingur holds hans er étnn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "04be339c93e097ae88f92da7d36ebf3c14357cadb92c94044ecf0bc05592beca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/12\/9-12.1792396712732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bið ég"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "megi verða"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "sem dauður"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "við útgöngu sína"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "úr móðurkviði"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "móður sinnar"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "er étnn"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "helmingur"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "holds hans"
+    }
+  ],
+  "timestamp": "2026-10-19T07:58:32.733209791Z",
+  "model": "glm-5.3"
+}

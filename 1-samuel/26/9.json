@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משיח um konung: 'hinn smurði', ekki Masjíakh — Sjáúl er konungur, ekki frelsari"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'er sá sem' bætt við fyrir lestur spurningarinnar"
+    }
+  ],
+  "translation": "Og Davíð sagði við Avísjai: Eyðileggðu hann ekki, því að hver er sá sem rétti hönd sína á hinn smurða Jahve og var ósekur?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/26\/9-12.1792401014507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avísjai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "eyðileggðu hann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "rétti"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hönd sína"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "á hinn smurða"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "og var ósekur"
+    }
+  ],
+  "timestamp": "2026-10-19T09:10:14.507803011Z",
+  "model": "glm-5.3"
+}

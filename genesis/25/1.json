@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויסף",
+      "rationale": "'Bætti við og tók' — hebreska myndin sem þýðist 'gerði enn', flöt íslenska orðið 'enn einu sinni'"
+    },
+    {
+      "kind": "addition",
+      "subject": "var",
+      "rationale": "Íslenskan þarf samtengingu 'var' sem hebreskan segir með sögninni í náinni frumgerð"
+    }
+  ],
+  "translation": "Og Avraham gekk ⟨enn einu sinni⟩ og tók konu, og nafn hennar var Ketura.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "3c43eb63eb45d587ac907603c83a10cd09f8b01d8696e4c9b20983ade3904aca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/25\/1-4.1792393157351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "gekk ⟨enn einu sinni⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tók"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "konu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "og nafn hennar"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:17.352240178Z",
+  "model": "glm-5.3"
+}

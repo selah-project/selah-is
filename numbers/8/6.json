@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þú skalt",
+      "rationale": "Hebreska framtíðar-myndin ber í sér hjálparsagnir sem íslenskan þarf."
+    }
+  ],
+  "translation": "Taktu ⟨את⟩ Levítana úr miði sona Ísraels, og þú skalt hreinsa ⟨את⟩ þá.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6cd6930c32ddcfa1ffbd0c6043e0213112408be014d5087a908da84b5bc3a5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/8\/5-8.1792396625866.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Taktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levítana"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítana"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "úr miði"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "og þú skalt hreinsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "þá (Levítana)"
+    }
+  ],
+  "timestamp": "2026-10-19T07:57:05.867493337Z",
+  "model": "glm-5.3"
+}

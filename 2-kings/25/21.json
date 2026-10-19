@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתם er aleph-tav með persónuviðskeyti; merkt sem ⟨את⟩ þeim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "var flutt í útlegð",
+      "rationale": "גלה merkir bókstaflega 'að berast\/útlægast'; útlegð heldur myndinni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "versið lokar reikningi yfir fall Júda — útlegðin af eigin jörð"
+    }
+  ],
+  "translation": "Og konungur Bavel bar ⟨את⟩ þeim högg og lét þá deyja í Rivla, í landi Khamat; og Júda var flutt í útlegð af jörð sinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "43deb50f9c9195ae2a5429a20e9ba63de09b553f0d1058b0d9c7c695a2e3c499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/25\/21-24.1792403655415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "bar högg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þeim",
+      "marks": "þeim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "lét þá deyja"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "í Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "var flutt í útlegð"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "af"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "jörð sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:54:15.416135357Z",
+  "model": "glm-5.3"
+}

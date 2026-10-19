@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "rúakh er haft óþýtt eftir D2 — eitt orð, þrennt: Andi, vindur, andardráttur"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sem⟩",
+      "rationale": "tengiliður bætt við á íslensku — hebreskan segir aðeins 'rúakh stormur framkvæmdi orð hans'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "veðurfar atburðirnir",
+      "rationale": "upptalningin kallar eld, hagl, snjó og storm til lofs — sjálf orð Jahve framkvæma þau"
+    }
+  ],
+  "translation": "Eld og haglél, snjór og gufuþokur, rúakh stormur ⟨sem⟩ framkvæmir orð hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/148\/5-8.1792411092443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Eld"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "og haglél"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snjór"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "og gufuþokur"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "stormur"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨sem⟩ framkvæmir"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "orð hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:12.444995892Z",
+  "model": "glm-5.3"
+}

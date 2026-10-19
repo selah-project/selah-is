@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "væri",
+      "rationale": "Óskartexti án sagnar — 'as though I had not been' krefst ítengdrar sagnar á íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lífssvið",
+      "rationale": "Móðurkvi til grafs — allt lífið mælt í tveimur endamörkum"
+    }
+  ],
+  "translation": "Eins og ég var ekki, svo ⟨væri⟩ — frá móðurkvi til grafsins borinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "369b000957795c8fab06e2a94e16ab01c6a3fff6b29b261c8b987703cace53a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/10\/17-20.1792411970452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Eins og"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ég var"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "væri"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "frá móðurkvi"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "til grafsins"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "borinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:50.453913878Z",
+  "model": "glm-5.3"
+}

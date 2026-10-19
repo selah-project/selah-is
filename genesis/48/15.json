@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הרעה",
+      "rationale": "Sögnin er 'að beita fé' — hirðir-myndin er í sjálfri hebreskunni, ekki aðeins 'fæða'."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Bæn beint til Elóhím — blessunin er ávarp, ekki bara frásögn."
+    }
+  ],
+  "translation": "Og hann blessaði ⟨את⟩ Jósef og sagði: Elóhíminn, sem feður mínir Avraham og Jitskhak gengu fyrir andlit hans, Elóhíminn sem hirðir mig og beit mér allt frá upphafi mínu fram á þennan dag —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ae6a3e29f2e5d88d418ae237d58e78f162bf8464a8f9ea965299d0a3727d48c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/48\/13-16.1792393968106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Og blessaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhíminn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "gengu"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "feður mínir"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir andlit hans"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "og Jitskhak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhíminn"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hirðir og beit"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "allt frá upphafi mínu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fram á"
+    },
+    {
+      "surface": "היום",
+      "gloss": "þennan dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þennan"
+    }
+  ],
+  "timestamp": "2026-10-19T07:12:48.107887413Z",
+  "model": "glm-5.3"
+}

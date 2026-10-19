@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תכלת og ארגמן eru litir úr tilteknum skordýrum\/snjöldrum — 'blár' og 'purpur' gleyma upprunanum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ותולעת שני er 'skordýrs-rauður' (karmín) — 'skarlag' færir litinn en ekki ormyndina."
+    }
+  ],
+  "translation": "Og þú skalt gera forhang af bláum lit, purpur, skarlagi og tvinnuðu fineffa: mynsturvefjarverk skal gera ⟨את⟩ hann með kerúbum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/26\/29-32.1792394890789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og þú skalt gera"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "forhang"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bláum lit"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "skarlags-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lit"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "og tvinnaður fineffi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tvinnaður"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mynsturvefjar"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skal gera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hann (forhanginn)"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "með kerúbum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:28:10.790122852Z",
+  "model": "glm-5.3"
+}

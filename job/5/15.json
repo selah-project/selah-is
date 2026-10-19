@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 5:15",
+  "book": "job",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרב",
+      "rationale": "Orðið þýðir bæði þurrkur og sverð — mynd munnar þeirra sem sverð."
+    },
+    {
+      "kind": "addition",
+      "subject": "manninn",
+      "rationale": "Hebreskan segir bara „frelsar úr mundi sverðs af munni þeirra“ — andlagi (אביון) kemur fremst í næstu setningu."
+    }
+  ],
+  "translation": "En hann frelsar ⟪manninn⟫ úr mundi sverðs af munni þeirra, og hinum fátæka úr hendi hins máttka.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c7d2aec0790f3f4feb2a623ec8498f6c0e9d95f0edbddc968efc20ed0c53fcff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/5\/13-16.1792411842400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישע",
+      "gloss": "en hann frelsar"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "sverðs"
+    },
+    {
+      "surface": "מפיהם",
+      "gloss": "af munni þeirra"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hins máttka"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "hinum fátæka"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:42.401343604Z",
+  "model": "glm-5.3"
+}

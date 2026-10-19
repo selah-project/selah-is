@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מראתו",
+      "rationale": "wamb fugls — aðeins notuð hér í Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנצתה",
+      "rationale": "'með fjaðrum hennar' (KJV, JPS) gegn 'með óhreinindum' eða innu heldri wambinnar (ASV 'with the filth thereof')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדשן",
+      "rationale": "rótin merkir 'fita' — 'staður fitjueftir\/öskunnar'; 'öskunnar' tekið sem staðarheiti"
+    }
+  ],
+  "translation": "Og hann skal taka burt ⟨את⟩ wamb hennar með fjaðrum hennar og kasta ⟨את⟩ henni hjá altarinu, á austurhliðina, að stað öskunnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/1\/13-16.1792395413223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "og skal taka burt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wambina"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "wambina hennar"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "með fjaðrum hennar"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "og kasta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "hjá"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarinu"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "austur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "stað"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "öskunnar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:53.225074786Z",
+  "model": "glm-5.3"
+}

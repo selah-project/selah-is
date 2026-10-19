@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "„Ísraelsmenn“ fyrir „synir Ísraels“ — bróðurlegt „synir“ er eðlilegra en ferskt í íslensku í þessu samhengi"
+    }
+  ],
+  "translation": "Og Ísraelsmenn skulu halda ⟨את⟩ páskahátíðina á ásettum tíma sínum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ce9e7835df5b90f08726f5addab408b39b5709056e758b0bffd17ea91f56ee3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/9\/1-4.1792396671095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Og skulu halda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "páskahátíðina"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "páskahátíðina"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "á ásettum tíma sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:57:51.096026206Z",
+  "model": "glm-5.3"
+}

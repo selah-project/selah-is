@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezekiel 23:45",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki sögn í setningunni „hórkvænir eru þær“ — ‚eru‛ er sett í."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדיקים er rótin tsedek; haldið í hljóði rótarinnar í stað ‚réttlátir‛."
+    }
+  ],
+  "translation": "Og tsedek-menn, þeir munu dæma ⟨את⟩ þær með dómi hórkvæna og með dómi þeirra er blóði þeyta, því að hórkvænir eru þær og blóð er á höndum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c5c91f3b3a04533209cccda0ddeb65d1563c472b7e4f07c49112e95f236b9eea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/23\/45-48.1792407362883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשים",
+      "gloss": "Og menn"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "munu dæma"
+    },
+    {
+      "surface": "אותהם",
+      "gloss": "⟨את⟩",
+      "marks": "þær"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "með dómi"
+    },
+    {
+      "surface": "נאפות",
+      "gloss": "hórkvæna"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og með dómi"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "er blóði þeyta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóði"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נאפת",
+      "gloss": "hórkvænir"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "eru þær"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "og blóð"
+    },
+    {
+      "surface": "בידיהן",
+      "gloss": "á höndum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:56:02.884397867Z",
+  "model": "glm-5.3"
+}

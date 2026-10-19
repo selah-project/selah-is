@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לשמי",
+      "rationale": "'nafni mínu' — hebreskan segir 'fyrir nafn mitt', ekki 'fyrir mig'"
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð",
+      "rationale": "Elóhím talar beint til Davíðs í tilvitun hans í orð Guðs"
+    }
+  ],
+  "translation": "En Elóhím sagði við mig: Þú mátt ekki byggja hús nafni mínu, því að þú ert maður orrustna og hefur úthellt blóði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2641b75928ffc2bdc05b4500d3c481116b0a624bb6b3251540b5c65bdc8ced96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/28\/1-4.1792415206245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "En Elóhím"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "Þú mátt ekki byggja"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "nafni mínu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "orrustna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "og blóði"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "hefur úthellt"
+    }
+  ],
+  "timestamp": "2026-10-19T13:06:46.246766994Z",
+  "model": "glm-5.3"
+}

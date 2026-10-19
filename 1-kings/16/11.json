@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משתין בקיר",
+      "rationale": "«pissa gegn vegg» er hebresk mynd um karlmenn — haldið bókstaflega, sumar þýðingar mýkja hana í «enginn karlmaður»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גואל",
+      "rationale": "«skyldmenni» fyrir goél — náskyldur framkvæmdarmaður réttinda skyldleika, ekki bara ættingi"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "«sem» og endurtekið «enginn\/enga» bætt við til íslenskrar setningagerðar"
+    }
+  ],
+  "translation": "Og þegar hann var orðinn konungur, um leið og hann settist á hásæti sitt, laut hann ⟨את⟩ öllu húsi Baesa; hann skildi eftir honum engan ⟨sem⟩ pissaði gegn vegg, og enga skyldmenni hans og engan vini hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/16\/9-12.1792402466537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og þegar"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "hann var orðinn konungur"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "um leið og hann settist"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hásæti sitt"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "laut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu húsi Baesa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húsi"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baesa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "skildi eftir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "pissaði"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "gegn vegg"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "skyldmenni hans"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "vini hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:34:26.538957120Z",
+  "model": "glm-5.3"
+}

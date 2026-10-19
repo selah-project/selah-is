@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ובתקוך",
+      "rationale": "'högga þig í sundur' — sögnin merkir bókstaflega að skera í stykki."
+    }
+  ],
+  "translation": "Og þeir leiða upp gegn þér söfnuð og grýta ⟨את⟩ þig með steinum og högga þig í sundur með sverðum sínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "11091746fc5030c0b3b9c1248487d2112884ecc9e51aec66a5039fa20a130735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/16\/37-40.1792407078781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "Og þeir leiða upp"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gegn þér"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "söfnuð"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "og grýta"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ þig",
+      "marks": "þig með steinum"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "með steinum"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "og högga þig í sundur"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "með sverðum sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:51:18.782698553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כרמל er 'plantað land, garðaland' — ekki eiginnafn; 'land karmels' heldur myndinni frekar en 'frjósamt land'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'yður' bætt við í 'gerðuðuð yður' — hebreskan segir aðeins 'gerðuð arfleifð mina að viðurstyggð'."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Jahve talar beint til Ísraels í annarri persónu fleirtölu."
+    }
+  ],
+  "translation": "Og ég leiddi ⟨את⟩ yður inn í land karmels, til að eta ávöxt þess og gæði þess, en þér komuð og óhreinkuðuð ⟨את⟩ land mitt, og arfleifð mina gerðuðuð yður að viðurstyggð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a04595fcdd32c7fcdaa0f21c0771d3e08e3f15cd167eb6a9f39497d10e0b0e24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/2\/5-8.1792405239065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "Og ég leiddi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yður"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inn í"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "karmels"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "til að eta"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ávöxt þess"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "og gæði þess"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "en þér komuð"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "og óhreinkuðuð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land mitt"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "land mitt"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "og arfleifð mina"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "gerðuðuð"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "að viðurstyggð"
+    }
+  ],
+  "timestamp": "2026-10-19T10:20:39.066878349Z",
+  "model": "glm-5.3"
+}

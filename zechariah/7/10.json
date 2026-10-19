@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "munaðarlesi",
+      "rationale": "יתום er barn sem hefur misst foreldri — víðara en 'faðirvana' einn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר",
+      "rationale": "sama rót og 'gestur' — útlendingur er sá sem dvelst með, ekki aðeins framandi"
+    }
+  ],
+  "translation": "Og ekkjuna og munaðarlesa, útlendinginn og fátæka megið þér ekki kúga, og illu hver mannsins bróður síns megið þér ekki gruna í hjarta yðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ca34ddebd83b41ff8656f7ff9f29fd25500aac65e5e91b47cb0fe3f831946768",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/7\/9-12.1792408970885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "Og ekkjuna"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "og munaðarlesa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "útlendinginn"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "og fátæka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "megið þér ekki"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "kúga"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "og illu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver mannsins"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður síns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "megið þér ekki"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "gruna"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "í hjarta yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:22:50.886165108Z",
+  "model": "glm-5.3"
+}

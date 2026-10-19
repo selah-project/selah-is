@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא חיה תחיה",
+      "rationale": "Ketiv reads 'lo chayah tichyeh': 'you shall surely NOT live' (ylt) eða 'you shall surely recover' (kvy majority); qere sleppir oft לא — hér tekið eftir hefðinni"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "לא merkt ⟨ekki⟩ í glósu en fellur brotum í endanlega þýðingu samkvæmt hefðinni"
+    }
+  ],
+  "translation": "Og Elísha sagði við hann: Farðu, segðu: Þú lifir vissulega, en Jahve hefur sýnt mér að hann mun víst deyja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a7a750ffc2fac5e92b62dee06a448df8ac5d3ea8289263f9f12c11840586e380",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/8\/10-11.1792416709041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og Elísha sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elísha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Farðu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segðu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ekki⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lifir"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "vissulega"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "hefur sýnt mér"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "מות",
+      "gloss": "víst"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:49.041522645Z",
+  "model": "glm-5.3"
+}

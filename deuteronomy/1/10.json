@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fleirtöluagnir 'þér eruð' koma úr hebreska fornafninu sjálfu, en íslenska þarf sagnlið."
+    },
+    {
+      "kind": "measurement",
+      "subject": "stjörnur himnanna",
+      "rationale": "Fjöldalíking — talning fólks borin saman við stjörnur, endurköllun á fyrirheitinu í 1. Mós 15:5."
+    }
+  ],
+  "translation": "Jahve, Elóhím yðar, hefur margfaldast ⟨את⟩ yður, og sjá, þér eruð í dag eins og stjörnur himnanna í fjölda.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/9-12.1792397530555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hefur margfaldast"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "yður"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "og sjá, þér eruð"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í dag"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "eins og stjörnur"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "í fjölda"
+    }
+  ],
+  "timestamp": "2026-10-19T08:12:10.556330635Z",
+  "model": "glm-5.3"
+}

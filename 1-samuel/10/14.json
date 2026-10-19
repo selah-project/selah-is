@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "frændi",
+      "rationale": "דוד merkir hér frændi ( móðurbróðir), ekki nafnið Davíð"
+    },
+    {
+      "kind": "addition",
+      "subject": "þeir voru",
+      "rationale": "Hebreska neitunin אין er eigindleysi; íslenska þarfnast sagnar og frumlags"
+    }
+  ],
+  "translation": "Og frændi Shaúl sagði við hann og við sveinn hans: Hvar fóruðir þið? Og hann sagði: Að leita ⟨את⟩ asnanna, og ⟨við⟩ sáum að ⟨þeir voru⟩ hvergi, og vörum til Sjemúels.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/10\/13-16.1792400427844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "frændi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og við"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "sveinn hans"
+    },
+    {
+      "surface": "אן",
+      "gloss": "hvar"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "fóruðir þið"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "að leita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asnanna"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "asnanna"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "og ⟨við⟩ sáum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨þeir voru⟩ hvergi"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "og vörum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemúels"
+    }
+  ],
+  "timestamp": "2026-10-19T09:00:27.845349938Z",
+  "model": "glm-5.3"
+}

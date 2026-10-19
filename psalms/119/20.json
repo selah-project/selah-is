@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "גרס að knúsa\/brjóta saman — sjaldgæft orð, myndin er sálan brotin saman af þrá."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er lífskraftur\/ándardráttur, ekki ósálig sál — „sála“ hefðbundið en röng í myndinni."
+    }
+  ],
+  "translation": "Knuðst er sálu mín þrá eftir dómum þínum á allri stundu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/17-20.1792410778988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Knuðst"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mín"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "þrá eftir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dómum þínum"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "á allri"
+    },
+    {
+      "surface": "עת",
+      "gloss": "stundu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:58.989792576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ויהם: 'sett í uppnám', 'óþagði', 'skakkaut' — af hverju orsök sé veik er óljóst; sumir þýða 'eyddi'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Það' bætt við fyrir 'varð' — íslenska þarf frumlag sem hebreskan vantar."
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "וישקף orðrétt 'leit út' ( eins og úr glugga) — 'sá niður' er valinn lesning."
+    }
+  ],
+  "translation": "Og ⟨það⟩ varð á morgnvöktinni, og Jahve sá niður á herbúðum Mitsraíma úr eldstölpunni og skýinu, og óþagði ⟨את⟩ herbúðum Mitsraíma.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "58a492fc03a1e2ed2eff6f1e8d8ac4bd4cc0f32a718045d34290866e9f96ef15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/14\/21-24.1792394379102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "varð"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "á vöktinni"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "morgun-"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "sá niður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "herbúðum"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraíma"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "úr stölpunni"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld-"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "og skýinu"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "óþagði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herbúðum Mitsraíma"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "herbúðum"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraíma"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:39.104089927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Tölfræði spekins: þrjú þúsund máldæmi og fimm og þúsund (1005) söngvar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משל 'máldæmi\/likelse' — stutt, myndrænt spekiorð"
+    }
+  ],
+  "translation": "Og hann talaði þrjú þúsund máldæma, og söngvar hans voru fimm þúsund og —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "fb731ebbbcb892f54cbdc3864d7bf9195565a1dc0c83ffa97c9c18284d178352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/5\/9-12.1792402033469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og hann talaði"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "þrjú"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "משל",
+      "gloss": "máldæma"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Og … voru"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "söngvar hans"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "þúsund og —"
+    }
+  ],
+  "timestamp": "2026-10-19T09:27:13.470605261Z",
+  "model": "glm-5.3"
+}

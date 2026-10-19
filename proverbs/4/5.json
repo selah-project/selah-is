@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "possessive 'míns' supplied; Hebrew says 'the words of my mouth' with suffix on פי rendered in gloss of מאמרי"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קנה...קנה",
+      "rationale": "repetition of the imperative 'get\/acquire' frames the verse, kept by repeating 'öðlast'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the son",
+      "rationale": "imperatives of the father's instruction summon the hearer to act"
+    }
+  ],
+  "translation": "Öðlast speki, öðlast skilning; gleym ekki og vika ekki frá orðum munns ⟨míns⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/4\/5-8.1792411197207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Öðlast"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "speki"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "öðlast"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "skilning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gleym"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תט",
+      "gloss": "vika"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "frá orðum"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:57.208155028Z",
+  "model": "glm-5.3"
+}

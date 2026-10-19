@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "Beint ávarp til Ísraels í fleirtölu annarri persónu (תשמעו)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "beitiland hans",
+      "rationale": "מרעית er beitiland\/hjörð — 'fólkið á beitiland hans' heldur myndinni frekar en 'fé hans'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hendingin '—' í enda marks að setningin brotnar af og heldur áfram í v. 8 (Heb 3:7 tilvitnar svo)."
+    }
+  ],
+  "translation": "Því að hann er Elóhím vor, og vér erum fólkið á beitiland hans og sauðfé í hendi hans. Í dag, ef í rödd hans þér heyrið —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/95\/5-8.1792410466526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vor"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "og vér"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "á beitiland hans"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "og sauðfé"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "í hendi hans"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Í dag"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "í rödd hans"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "þér heyrið"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:46.527590940Z",
+  "model": "glm-5.3"
+}

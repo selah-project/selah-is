@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki andlag við ישאל; ⟨eitthvað⟩ bætt við til skýrleika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Óendanlegar myndir (infinitivus absolutus): „greiða skal hann greiða“ — fullkomnun glatast að hluta í íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "verse numbering",
+      "rationale": "Þetta vers er 22:12 í KJV\/enskum tölum en 22:13 í hebreskri talningu"
+    }
+  ],
+  "translation": "Og ef maður biður ⟨eitthvað⟩ af náunga sínum og það brotnar eða deyr — eigandi hans ekki með honum — skal hann fullkomlega greiða.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/13-16.1792394709556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "biður"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "af"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "náunga sínum"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "og það brotnar"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "מת",
+      "gloss": "deyr"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "eigandi hans"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "með honum"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "fullkomlega"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal hann greiða"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:09.556713968Z",
+  "model": "glm-5.3"
+}

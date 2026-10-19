@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקתך er „tsedek þinn“ — réttlæti\/réttvísi — ekki þýtt með guðfræðilegu orði heldur rótinni sjálfri."
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Jahve",
+      "rationale": "Bein áheyrn til Jahve í öðru persóni."
+    }
+  ],
+  "translation": "Í þér, Jahve, hef ég leitað skjóls; meg ég aldrei verða skammaður að eilífu; í tsedek þínum freist þú mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/31\/1-4.1792409536816.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Í þér"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "hef ég leitað skjóls"
+    },
+    {
+      "surface": "אל",
+      "gloss": "meg ég ekki"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "verða skammaður"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "í tsedek þínum"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "freist þú mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:16.817134295Z",
+  "model": "glm-5.3"
+}

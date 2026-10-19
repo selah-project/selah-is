@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin",
+      "rationale": "נפש er önd\/lífsmáttur, ekki 'sál' í seinni merkingu — 'sálin mín' er nálgun"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עשש",
+      "rationale": "aðeins tvisvar í Tanakh (hér og v. 12) — 'visna', þverra"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "bein bæn til Jahve"
+    }
+  ],
+  "translation": "Sýn mér náð, Jahve, því að ég er í þrengingum; auga mitt, sálin mín og kviðurinn hafa visnað í móðurskap.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d7d768349330cb3911c1022e6e58f2b70f368dddddb704a24760ec3b18f53312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/31\/9-12.1792409508305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Sýn mér náð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "צר",
+      "gloss": "í þrengingum"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ég er"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "hafa visnað"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "í móðurskap"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "auga mitt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "og kviðurinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:48.306397927Z",
+  "model": "glm-5.3"
+}

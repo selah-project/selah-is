@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הזר",
+      "rationale": "'Útlendingur' (KJV 'stranger') gegn 'leikmaður\/ósigndur' — hér um alla nema presta; 'hinn óheilgi' heldur helgihöfninni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תפקד",
+      "rationale": "פקד er 'að heimsækja\/strytja telja' — 'telja til embættis' heldur tölfræðimyndinni, ekki 'skipa' eitt."
+    }
+  ],
+  "translation": "Og ⟨את⟩ Aharon og ⟨את⟩ sona hans skalt þú telja til embættis, og þeir skulu gæta ⟨את⟩ prestsdæmis síns; en hinn óheilgi sem nálgast skal deyja.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "93b481a4f8bd6fab686fa6dd2b859e127539f22b96e2d84e36b96bf6c279c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/3\/9-12.1792396365494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sona hans"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "skalt þú telja til embættis"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "og þeir skulu gæta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prestsdæmis síns"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "prestsdæmis síns"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "en hinn óheilgi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sem nálgast"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:45.495445751Z",
+  "model": "glm-5.3"
+}

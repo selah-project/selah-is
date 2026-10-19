@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Endurtekningin 'þúsund fyrir hverja kynkvísl' tvisvar gefur rólegan, tæpan máldaga í hebresku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מטה merkir bæði 'sprota' og 'kynkvísl'; kynkvísl heldur flokkamerkingunni en mynd sprotans hverfur."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið telur liðsmenn: þúsund af hverri kynkvísl, tólf kynkvíslir alls."
+    }
+  ],
+  "translation": "Þúsund fyrir hverja kynkvísl — þúsund fyrir hverja kynkvísl — fyrir allar kynkvíslir Ísraels skuluð þið senda ⟨til⟩ hersins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c0029c3c7f78e1221aaa2b84f6f4767acb3c06bc5feab0ad957b7f7e7d89e7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/31\/4-4.1792416390751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fyrir hverja kynkvísl"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fyrir hverja kynkvísl"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fyrir allar"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kynkvíslir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "skuluð þið senda"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "⟨til⟩ hersins"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:30.751391820Z",
+  "model": "glm-5.3"
+}

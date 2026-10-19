@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקת rendered tsedek per D2 — 'réttlæti' alone would lose the single root."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "תרשיעי is 2nd-person feminine 'you shall condemn' — many versions soften to 'you will refute'; the Hebrew is a judicial causative."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "יוצר (formed) echoes the potter-word from Gen 2:7; the weapons are 'formed' as clay is, by hands Jahve also created (v. 16)."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתך and מאתי are the preposition את 'with\/from', not the DOM marker; both kept as ⟨את⟩ per instruction."
+    }
+  ],
+  "translation": "Allt tæki sem myndað er gegn ⟨את⟩ þér mun ekki takast, og hver tunga sem rís upp við ⟨את⟩ þig til dóms — þá munt þú dæma í sekt. Þetta er arfur þjóna Jahve, og tsedek þeirra er frá ⟨את⟩ mér, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2178fea51be3d5201ddd8d1c454e9c59e6b4984d26f5cdb4220484866b2976bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/54\/17-17.1792404804024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "tæki"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "myndað er"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gegn þér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "takast"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tunga"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "rís upp"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "við ⟨את⟩ þig",
+      "marks": "þú"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "til dóms"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "munt þú dæma í sekt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arfur"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjóna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "og tsedek þeirra"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "frá ⟨את⟩ mér",
+      "marks": "ég"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:24.025010355Z",
+  "model": "glm-5.3"
+}

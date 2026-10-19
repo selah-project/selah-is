@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 33:10",
+  "book": "job",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תנואות",
+      "rationale": "Fleirtala תנואות ('átekjur, fjarlægðarorsakir') er afar sjáldgæf — aðeins hér og náskyldum stöðum í Job."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ástæður",
+      "rationale": "תנואות er bókstaflega 'fjarlægingar, átekur' — valdið á sök."
+    }
+  ],
+  "translation": "Sjá, ástæður gegn mér finnur hann, hann telur mig óvin sinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2211b2a83d2a217f33fe1d8fb4d01abe77114d507c1da2426f0f2ccdb04d9fc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/33\/9-12.1792412306556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "תנואות",
+      "gloss": "ástæður"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finnur hann"
+    },
+    {
+      "surface": "יחשבני",
+      "gloss": "hann telur mig"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "óvin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:26.557060234Z",
+  "model": "glm-5.3"
+}

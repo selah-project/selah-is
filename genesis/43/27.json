@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 43:27",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "shalom",
+      "rationale": "„Spyrja til friðar“ er hebresk heilsun; „heilsu“ ein yrði of þröng — friður er bæði heilsa og velferð."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Jósef beinist beint til bræðranna með spurningu í fleirtölu („yðar“, „þér“)."
+    }
+  ],
+  "translation": "Og hann spurði þá til friðar og sagði: Er friður á föður yðar, hinn gamla manni sem þér nefnduð — lifir hann enn?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e053f0068b63614d12d6c370f68025a2ea8540c50722cb10888c9006e573509d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/43\/25-28.1792393804210.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "spurði"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þá"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "til friðar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "er friður"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "föður yðar"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "hinn gamli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "þér nefnduð"
+    },
+    {
+      "surface": "העודנו",
+      "gloss": "lifir … enn"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifir"
+    }
+  ],
+  "timestamp": "2026-10-19T07:10:04.211432703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מצור",
+      "rationale": "KJV les 'árnar vígraðra staða', ASV\/JPS 'árnar Egyptalands' — hebreska orðið er Egyptaland."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mitsrajím",
+      "rationale": "מצור er ritað Mitsrajím, ekki 'Egyptaland', samkvæmt nafnataflunni."
+    }
+  ],
+  "translation": "Ég grafi og drakk vatn, og ég þurrka upp með hólfi iljanna mína allar árnar í Mitsrajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80e69516efea07861dd8bca213943a302e462b1a6c3b2fe56cdedc336116a713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/37\/25-28.1792404434909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "grafi"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "og drakk"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "og ég þurrka upp"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "með hólfi"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "iljanna mína"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "árnar"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "í Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T10:07:14.910439894Z",
+  "model": "glm-5.3"
+}

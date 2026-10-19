@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copulan „er“ er ekki í hebreskuni, bætt við í íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Nafnháttarmerkið „að“ er bætt við fyrir לשמר."
+    }
+  ],
+  "translation": "Jahve er hlutdeild mín, eg hef sagt ⟨að⟩ gæta orða þinna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/57-60.1792410783603.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "hlutdeild mín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hef sagt"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "að gæta"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "orða þinna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:03.604143337Z",
+  "model": "glm-5.3"
+}

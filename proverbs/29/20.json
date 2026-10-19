@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "æðstan",
+      "rationale": "אץ merkir bókstaflega 'að ýta\/hurta' — 'hrikklátur\/hraðskvíður' í orðum"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "líkingin beinist að lesandanum með spurninni 'Sér þú…?'"
+    }
+  ],
+  "translation": "Sér þú mann æðstan í orðum sínum? Meiri von er um heimskan en um hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "247a2fa37d1a26cd1ef80a95662cc3b3e7ac41c8d228c9f10c65be049b47cfac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/29\/17-20.1792411640552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "Sér þú"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "æðstan"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "í orðum sínum"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "von"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "um heimskan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "en um hann"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:20.553934814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפישני",
+      "rationale": "Sjaldgæf saga: 'troð niður \/ kubba í' (JPS: 'lét mig velta') á móti KJV 'hylur'; rótin er að troða saman"
+    },
+    {
+      "kind": "substitution",
+      "subject": "möl",
+      "rationale": "חצץ er biti möl eða grjót; 'með möl' heldur myndinni af tönnum gnistum á móti grjóti"
+    }
+  ],
+  "translation": "Og hann krossaði tennur mínar með möl, hann kubbaði mig í ösku.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/13-16.1792412794576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "Og hann krossaði"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "með möl"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tennur mínar"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "hann kubbaði mig"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "í ösku"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:34.577167984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "og stjörnurnar",
+      "rationale": "וְאֵת הַכּוֹכָבִים — „he made the stars also“ (KJV) vs. „and the stars“ (JPS) sem hluti af gerð Elóhíms; hebreskan segir aðeins „og ⟨את⟩ stjörnurnar“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגדלים\/הגדל\/הקטן",
+      "rationale": "Endurtekning rótar גדל mótfærð קטן — hið mikla og hið smáa í spegil."
+    }
+  ],
+  "translation": "Og Elóhím gjörði ⟨את⟩ hina tvo stóru ljósakarla, ⟨את⟩ ljósakarlinn hinn stóra til að ráða deginum og ⟨את⟩ ljósakarlinn hinn litla til að ráða nóttinni, og ⟨את⟩ stjörnurnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/13-16.1792392549086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjörði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hina tvo stóru ljósakarla"
+    },
+    {
+      "surface": "שני",
+      "gloss": "hina tvo"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ljósakarlana"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "stóru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljósakarlinn hinn stóra"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ljósakarlinn"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hinn stóra"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "til að ráða"
+    },
+    {
+      "surface": "היום",
+      "gloss": "deginum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "ljósakarlinn hinn litla"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ljósakarlinn"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "hinn litla"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "til að ráða"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nóttinni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stjörnurnar"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "stjörnurnar"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:09.093200644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbeygingarnar í „börnum ykkar“ og „annarri kynslóð“ krefjast íslenskrar fallbeygingar sem hebreska frumlagssambandið ber ekki."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðhátturinn segir hverjum sagan skal flutt áfram — kynslóð af kynslóð."
+    }
+  ],
+  "translation": "Um það segjið börnum ykkar, og börn ykkar börnum þeirra, og börn þeirra annarri kynslóð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/1\/1-4.1792408260936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Um það"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "börnum ykkar"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "segjið"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "börn ykkar"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "börnum þeirra"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "börn þeirra"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "annarri"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:00.937685399Z",
+  "model": "glm-5.3"
+}

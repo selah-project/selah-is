@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 24:22",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeir",
+      "rationale": "Fornafnið 'þeir' vantar í hebreskuna en íslenskan þarf það."
+    },
+    {
+      "kind": "crux",
+      "subject": "heimsóttir",
+      "rationale": "יפקדו: 'heimsótt' getur verið refsun eða mildi — JPS segir 'punished', KJV 'visited'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אספה",
+      "rationale": "Safnunarforsagan אספה kemur aðeins hér í Tanakh sem atviksorð."
+    }
+  ],
+  "translation": "Og ⟨þeir⟩ verða safnað saman, safnun fanga, í gryfjuna, og læst inni í fangelsinu; og eftir fjölmarga daga verða þeir heimsóttir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/24\/21-23.1792404116467.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואספו",
+      "gloss": "verða safnað saman"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "safnun"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "בור",
+      "gloss": "gryfjuna"
+    },
+    {
+      "surface": "וסגרו",
+      "gloss": "læst inni"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "מסגר",
+      "gloss": "fangelsinu"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "eftir fjölmörg"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "verða heimsóttir"
+    }
+  ],
+  "timestamp": "2026-10-19T10:01:56.468143825Z",
+  "model": "glm-5.3"
+}

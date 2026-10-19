@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'voru' — hið hebreska segir aðeins 'og presti Midjan sjö dætur', ábendingarfall þarf sögn á íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sjö dætur",
+      "rationale": "talan sjö talin upp nákvæmlega"
+    }
+  ],
+  "translation": "Og presti í Midjan voru sjö dætur, og þær komu og ehfðu upp vatn og fylltu ⟨את⟩ trogin til að gefja sauðfé föður þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "82604d86beb69d4cde98743c13801de55a665741eb8b1b0e5b4d2b9294b1a651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/2\/13-16.1792394080859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "Og presti"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "í Midjan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dætur"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "og þær komu"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "og ehfðu upp vatn"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "og fylltu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trogin"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "trogin"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "til að gefja"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sauðfé"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "föður þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:40.860874703Z",
+  "model": "glm-5.3"
+}

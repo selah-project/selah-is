@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'heldur' bætt við — hebreskan hefur einfaldlega 'og gekk'"
+    },
+    {
+      "kind": "ironi",
+      "subject": "בחקות ישראל",
+      "rationale": "sama orð (chukkim) og um boðorð Jahve — Júda fór eftir 'settreglum' Ísraels í stað settregla Jahve"
+    }
+  ],
+  "translation": "Einnig Júda varðveitti ekki ⟨את⟩ boðorð Jahve Elóhím síns, heldur fór eftir settreglum Ísraels er þeir gjörðu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a20b12cd2146b1bea3684db4b89dc58a4d069828fa5184c98eb6b47448512664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/17\/17-20.1792403358139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varðveitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boðorð"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "boðorð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elóhím síns"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "heldur fór eftir"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "settreglum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "þeir gjörðu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:49:18.140463913Z",
+  "model": "glm-5.3"
+}

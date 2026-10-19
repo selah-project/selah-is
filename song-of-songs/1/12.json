@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Séðingin 'er' er sett í hornklofa — hebreskan segir aðeins 'meðan konungurinn í kringsæti sínu'."
+    },
+    {
+      "kind": "crux",
+      "subject": "במסבו",
+      "rationale": "Rótin merkir 'hringborð\/dívan í hring' — KJB 'at his table', yngri 'at his banquet'; myndin er samsæti kringum borð."
+    }
+  ],
+  "translation": "Á meðan konungurinn ⟨er⟩ í kringsæti sínu, gaf nardúsargangur minn ilm sinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/1\/9-12.1792412584702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "á meðan"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "í kringsæti sínu"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "nardúsargangur minn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "ilm sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:04.703606933Z",
+  "model": "glm-5.3"
+}

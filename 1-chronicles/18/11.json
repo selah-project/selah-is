@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Jahve",
+      "rationale": "ליהוה er ritað Jahve — ekki „Drottinn” eða „Herra”."
+    },
+    {
+      "kind": "substitution",
+      "subject": "þeim",
+      "rationale": "אתם er aleph-tav í fleirtölu með viðskeyttu fornöfn — bent á ílátin úr versi 10."
+    }
+  ],
+  "translation": "Þáliga helgaði Davíð konungur ⟨את⟩ þeim Jahve ásamt silfrinu og gullinu er hann hafði tekið af öllum þjóðunum — af Edóm og af Móab og af sonum Ammon og af Filistum og af Amalek.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eb2d7147291a18cfc0afb577cc2f62e46ebc37b7abb25145a20439b229c596d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/18\/9-12.1792414909599.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Þáliga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "helgaði"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ásamt"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silfrinu"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "og gullinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hann hafði tekið"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af öllum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "af Edóm"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "og af Móab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "og af sonum"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "og af Filistum"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "og af Amalek"
+    }
+  ],
+  "timestamp": "2026-10-19T13:01:49.600712912Z",
+  "model": "glm-5.3"
+}

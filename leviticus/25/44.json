@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "Samsetning 'frá-með' (מן + את); את-merkið varðveitt sem ⟨את⟩, 'með'-þátturinn fellur í íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבד\/עבדך · אמה\/אמתך",
+      "rationale": "Þræll og ambátt tvisvar í sama versi — rammi sem umlykur versið, varðveittur."
+    }
+  ],
+  "translation": "Og þræll þinn og ambátt þín, sem verða þér — af ⟨את⟩ þjóðunum sem í kringum ykkur eru, af þeim skuluð þér kaupa þræl og ambátt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/25\/41-44.1792396125115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Og þræll þinn"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "og ambátt þín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "verða"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "af ⟨את⟩",
+      "marks": "þjóðunum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "í kringum ykkur eru"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "af þeim"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "skuluð þér kaupa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þræl"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og ambátt"
+    }
+  ],
+  "timestamp": "2026-10-19T07:48:45.116636545Z",
+  "model": "glm-5.3"
+}

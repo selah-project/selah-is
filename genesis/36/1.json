@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copula 'er' vantar í hebreskunni, bætt við í kröfum íslenskunnar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ættartölur",
+      "rationale": "Verse introduces a genealogy — tolðning ættar"
+    }
+  ],
+  "translation": "Og þetta eru ættartölur Esaú — hann ⟨er⟩ Edóm.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9ec784d8dedcbc1b5a62ee6a7275df76a185bb4ae4f7978d1350e81f2fd7e1d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/36\/1-4.1792393521852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ættartölur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    }
+  ],
+  "timestamp": "2026-10-19T07:05:21.853406746Z",
+  "model": "glm-5.3"
+}

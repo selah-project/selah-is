@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leiddi fram",
+      "rationale": "ויקרב er orðið 'gera að nálægð'; gyðingar halda tæknilegu myndmálinu 'léti nálgast'"
+    }
+  ],
+  "translation": "Og Mósje leiddi fram ⟨את⟩ Aharon og ⟨את⟩ sonu hans, og þvoði ⟨את⟩ þá með vatni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/8\/5-8.1792395619588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Og ... leiddi fram"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "sonu hans"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sonu hans"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "og ... þvoði"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá"
+    },
+    {
+      "surface": "במים",
+      "gloss": "með vatni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:19.589696692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויהי למס עבד",
+      "rationale": "Læst hvort þetta þýðir 'varð til nauðungarvinna' eða 'varð skattþræll' — KVM 'serve under tribute', JPS 'taskwork'"
+    },
+    {
+      "kind": "elision",
+      "subject": "הורישו",
+      "rationale": "Sögnin merkir 'að taka landeign með því að reka í burtu' — tvö sjónarmið fallin í eitt í 'hröktu'"
+    }
+  ],
+  "translation": "Og þeir hröktu ekki ⟨את⟩ Kanaanítann sem bjó í Gæser, og Kanaanítinn bjó meðal Efraíms allt til þessa dags, og varð til skatta — þræll.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/16\/9-10.1792399162885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ekki"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "hröktu ekki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanítann"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanítann"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "sem bjó"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "í Gæser"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og bjó"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanítinn"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "meðal"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraíms"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dags"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "למס",
+      "gloss": "til skatta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þræll"
+    }
+  ],
+  "timestamp": "2026-10-19T08:39:22.886372591Z",
+  "model": "glm-5.3"
+}

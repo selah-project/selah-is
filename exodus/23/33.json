@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לי er tækileg 'gegn mér' — hebreskan segir einfaldlega 'til mín', orðatök um synd 'að hitta mark'."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "פֵן ('svo að ekki') leyst með 'ekki' í afleiðingarlið."
+    },
+    {
+      "kind": "crux",
+      "subject": "gildru",
+      "rationale": "לְמוֹקֵשׁ er veiðigildra\/snara; sumir þýða 'féllu' eða 'högg' — myndin er af dýri fastu í gildru."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint talað til Ísraels (þú-form) í lögum Jahve."
+    }
+  ],
+  "translation": "Þeir skulu ekki búa í landi þínu, svo að þeir gjöri ⟨את⟩ þig ekki synduga gegn mér, því að þú mundir þjóna ⟨את⟩ guði þeirra — þeir mundu verða þér að gildru.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/33-33.1792394637046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "búa"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "í landi þínu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að ... ekki"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "gjöri þig synduga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ þig",
+      "marks": "þig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "þú mundir þjóna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guði þeirra"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guði þeirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mundu verða"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "að gildru"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:57.047414776Z",
+  "model": "glm-5.3"
+}

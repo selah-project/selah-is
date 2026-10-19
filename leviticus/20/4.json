@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'það' (fólkið landsins) bætt við í íslensku; hebreskan sleppur umfanganum."
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "'Fela augu sín frá manni' er myndmál um að líta framhjá með vísvitandi; tekið bókstöklegendi."
+    }
+  ],
+  "translation": "Og ef fólkið landsins feler augu sín frá þeim manni, er hann gefur af sáði sínu til Mólek, svo að ⟨það⟩ lætur hann ekki deyja —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "cee23beb50facc4104b773d04b158c429ebd13766ce2148a0d1f3bbbd858d18a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/20\/1-4.1792396073624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "feler"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "augu sín"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landsins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "augu sín"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "augu þeirra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "þeim manni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "er hann gefur"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "af sáði sínu"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "til Mólek"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "svo að ekki"
+    },
+    {
+      "surface": "המית",
+      "gloss": "lætur deyja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T07:47:53.629996517Z",
+  "model": "glm-5.3"
+}

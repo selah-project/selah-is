@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומכחש",
+      "rationale": "Orðið er rót 'æþing\/lygi' — KJV\/JPS lesa 'lying', ylt 'lying', en grunngreiningin (3585) er 'magrhymi, rangfærni'; 'lygi' valin í ljósi samhengis."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת\/וילכדו",
+      "rationale": "Samstöðuljóð endurtekinn frá v. 12 — synd munns verður snara þeirra sjálfra; glatað að hluta til í íslensku."
+    }
+  ],
+  "translation": "Synd munns þeirra, orð varra þeirra — lát þá vera handsamaða í ofsi þeirra, og um bölvun og lygi munu þeir telja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/13-16.1792409963959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "synd"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "munns þeirra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "varra þeirra"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "lát þá vera handsamaða"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "í ofsi þeirra"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "og um bölvun"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "og lygi"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "munu þeir telja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:23.959918392Z",
+  "model": "glm-5.3"
+}

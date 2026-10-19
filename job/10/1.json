@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er holdlegt andardráttar-lífskraftur, ekki óáþekan sál í síðari skilningi"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקטה",
+      "rationale": "'leiðist' (KJV, JPS) gegn 'skorin af' (Wycliffe, Geneva) — rótin þolir bæði"
+    },
+    {
+      "kind": "you",
+      "subject": "Hiob til Elóa",
+      "rationale": "Hiob beinir kvörtun sinni beint að Guði"
+    }
+  ],
+  "translation": "Sálu minni leiðist á lífi mínu; ég læt kvörtun mína yfir mér, ég tala í bitru sálar minnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/10\/1-4.1792411999273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "leiðist"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "á lífi mínu"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "ég læt eftir"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kvörtun mína"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ég tala"
+    },
+    {
+      "surface": "במר",
+      "gloss": "í bitru"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálar minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:19.274492524Z",
+  "model": "glm-5.3"
+}

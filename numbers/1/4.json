@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Þrefaldur endaljóð á איש איש … איש — „mann fyrir hvern … mann“ — uppöf Mósebókar endurspegla tölusetninguna"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Tengingin „með“ og forsetningarlýsing „ykkur“ koma í stað near-pborrowword אתכם, sem er forsetningin את með viðskeyti"
+    }
+  ],
+  "translation": "⟨את⟩ Og ⟨með⟩ ⟨ykkur⟩ skuluð þið hafa mann eftir hverja kynkvísl, mann sem höfuð feðrahuss síns — hann ⟨sjálfur⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/1-4.1792396337521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ Og ⟨með⟩ ⟨ykkur⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skuluð þið hafa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eftir hvern"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "kynkvísl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "huss"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðra hans"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann ⟨sjálfur⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:17.522521626Z",
+  "model": "glm-5.3"
+}

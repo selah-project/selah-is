@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann \/ þú",
+      "rationale": "Sögnum vantar andlag — fyrri er þriðju persónu, seinni annarri persónu (Jahve áttalaust), íslenskan þarf fornöfn."
+    },
+    {
+      "kind": "crux",
+      "subject": "נוטֵר מֶחֱרָף לְעֵד",
+      "rationale": "Víxl milli 'hann' og 'þú' í sömu ljóðlínu — vanalega tulknað sem snúningur á Elóhím."
+    }
+  ],
+  "translation": "En nú hefur ⟨hann⟩ gert mig þreytan; ⟨þú⟩ hefur lagt í eyði alla söfnun mína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/16\/5-8.1792412027522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "En"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "hefur ⟨hann⟩ gert mig þreytan"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "⟨þú⟩ hefur lagt í eyði"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "söfnun mína"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:47.522926452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והשחרות",
+      "rationale": "Shakharut er samt sem áður óþýtt um margt: 'morgunn' (ungur aldur), 'svartur hár' eða 'ungur leikur'; gjörendur velja 'svartur-hár-aldur' eða yngsta aldur."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hebel",
+      "rationale": "Hebel er andardráttur, gufa, til fáeinna augnablikja — á íslensku 'hebel' eða 'gufa', en oftast ranglega þýtt sem 'heimskulegur'."
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Í hebresku er engin sögn í setningunni 'æska og shakharut hebel'; íslenskan krefst sögninar 'eru'."
+    }
+  ],
+  "translation": "Og hafðu bölvun af hjarta þínu, og láttu illsku hverfa frá holdi þínu, því að æska og svartur-hár-aldur eru hebel.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d0fe947a63be6ceb1beeb541f4064d9df7138f79485a4fdf75245efc0e57cfd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/11\/9-10.1792413137137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Og hafðu burt"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "bölvun"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "af hjarta þínu"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "og láttu hverfa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "illsku"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "frá holdi þínu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "æska"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "og svartur-hár-aldur"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:17.138324761Z",
+  "model": "glm-5.3"
+}

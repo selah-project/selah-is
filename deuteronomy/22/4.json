@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "הקם תקים — infinitive absolute, 'reisTU skalt þú reisa', flutt sem áhersla 'lyfta skalt þú'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lögboð beint til Ísraels, samhliða 22:1"
+    }
+  ],
+  "translation": "Ekki skalt þú sjá ⟨את⟩ asna bróður þins eða nautið hans fallið á veginum og fela þig fyrir þeim — lyfta skalt þú því ásamt honum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/22\/1-4.1792398185295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "skalt þú sjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asna bróður þins"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asna"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bróður þins"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "nautið hans"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "fallið"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á veginum"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "og fela þig"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "lyfta"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "skalt þú ... ásamt"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:23:05.296704332Z",
+  "model": "glm-5.3"
+}

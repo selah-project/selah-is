@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש",
+      "rationale": "„Karlmaður“ bókstaflega; KJV\/ASV\/JPS bæta við „drengilegur“ (valiant) — hebreskan segir aðeins „maður“."
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Avner",
+      "rationale": "Réttráður rógsháður rammi: spurning beint að Avner um gæslu konungsins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "eyða",
+      "rationale": "להשחית er „að spilla\/eyða“; sumar þýðingar setja „drepa“ en hebreskan heldur myndinni af eyðingu."
+    }
+  ],
+  "translation": "Og Davíð sagði við Avner: Ert þú ekki karlmaður, og hver er þér jafn í Ísrael? Hví gætir þú þá ekki herra þíns, konungsins? Því að einn af fólkinu kom til að eyða ⟨את⟩ konunginum, herra þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9a6d9eec18092e6603fa2431282ba3f20b27ad9710b6b286490a0676f5f9f279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/26\/14-15.1792416598533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ert þú ekki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "karlmaður"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "er þér jafn"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "gætir þú"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herra þíns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "af fólkinu"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "til að eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konunginum"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "herra þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:58.534594660Z",
+  "model": "glm-5.3"
+}

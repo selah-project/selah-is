@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממוצא",
+      "rationale": "'Frá útgangi\/austri' — KJV\/JPS lesa 'austur'; bókstafleg merking er 'uppsprettja\/útgöngustaður'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרים",
+      "rationale": "Rót rum 'hækkun\/upplyfting' — ekki staðarheiti 'fjöll'; KJS 'suður' byggir á öðrum lestri (tsafon)."
+    },
+    {
+      "kind": "addition",
+      "subject": "kemur",
+      "rationale": "Sögn sem hebreskan slekir sett fram til að gjörningurinn verði skýr."
+    }
+  ],
+  "translation": "Því ekki frá austri né frá vestri, og ekki frá eyðimörk kemur upphækkun.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/75\/5-8.1792410192699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "frá austri"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "né frá vestri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "frá eyðimörk"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kemur upphækkun"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:12.700031483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כבד עון er bókstaflega 'þung af ógn' — 'þung af misgjörð' heldur myndinni af byrði"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרע מרעים",
+      "rationale": "þjóð seeding-hlutfall: זרע (kynslóð\/sáð) og מרעים (hið illa) — orðalingurinn á milli sáningar og illvirkja glatast í þýðingu"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "væ-yfirlýsing beint að syndugu þjóðinni, Ísrael"
+    }
+  ],
+  "translation": "Væ yfir þjóð syndanna, þýð þung af misgjörð, kynslóð hinna illa, börn sprell-eyðenda! Þeir yfirgáfu ⟨את⟩ Jahve, þeir smáðu ⟨את⟩ hinn heilaga Ísraels, þeir sneru sér aftur bak.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fcf8e50294ec30e4c72b6fc52b5cc3730edb2bdeeff4a452c08bb582d43630e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/1\/4-4.1792416782265.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Væ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "syndanna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "þýð"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "þung"
+    },
+    {
+      "surface": "עון",
+      "gloss": "misgjörð"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "hinna illa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "börn"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "sprell-eyðenda"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "yfirgáfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "smáðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinn heilaga Ísraels"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hinn heilaga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sneru sér"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "aftur bak"
+    }
+  ],
+  "timestamp": "2026-10-19T13:33:02.266203253Z",
+  "model": "glm-5.3"
+}

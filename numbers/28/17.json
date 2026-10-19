@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan er án sögnliðar; ⟨er⟩ bætt við í íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dagar hátíðar",
+      "rationale": "Versið telur dagana: fimmtándi dagur, sjö dagar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצות",
+      "rationale": "Fleirtala mátsót endursömuð sem eintölu íslenska nafnridar 'ósýrt brauð'"
+    }
+  ],
+  "translation": "Og á fimmtánda degi þessa mánaðar ⟨er⟩ hátíð; í sjö daga skal eta ósýrt brauð.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "575a49fe91eaf36c2368c12bfdaaae61baab56121fdbe4122cf007e33e70c46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/28\/17-20.1792397302993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "og á fimmtánda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tánda"
+    },
+    {
+      "surface": "יום",
+      "gloss": "degi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mánaðar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "hátíð"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "í sjö"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ósýrt brauð"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal eta"
+    }
+  ],
+  "timestamp": "2026-10-19T08:08:22.993845614Z",
+  "model": "glm-5.3"
+}

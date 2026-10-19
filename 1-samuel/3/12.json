@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אקים",
+      "rationale": "Bókstaflega 'mun ég reisa' (קום) gegn Elí — 'framkvæma' er víðtækara en heldur virknina"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "החל וכלה",
+      "rationale": "חלל 'byrja' og כלה 'ljúka\/eyða' — samljóð og andstæða pör í einni setningu; כלה merkir bæði 'klárast' og 'farast'"
+    }
+  ],
+  "translation": "Á þeim degi mun ég framkvæma gegn Elí ⟨את⟩ allt það er ég hef talað um hús hans — byrja og ljúka.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/3\/9-12.1792400224466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Á degi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "mun ég framkvæma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt það er ég hef talað"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það er"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ég hef talað"
+    },
+    {
+      "surface": "אל",
+      "gloss": "um"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hús hans"
+    },
+    {
+      "surface": "החל",
+      "gloss": "byrja"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "og ljúka"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:04.467993546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boðsháttarorð halda áfram úr 1. versi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שיחו",
+      "gloss": "ræðið",
+      "rationale": "„Ræðið“ fyrir שִׂיחוּ — grunnmerking er að hugsa\/medita, tala hjá sér."
+    }
+  ],
+  "translation": "Syngið honum, spilið honum, ræðið um alla undrin hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/1-4.1792410616997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syngið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "spilið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ræðið"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "um alla"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "undrin hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:16.998028963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ert",
+      "rationale": "Sagnarunu bætt við fyrir tilsagna, hebreskan hefur aðeins אתה."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לרמה",
+      "rationale": "Orminn kallaður 'móðir og systir' — fjölskyldumyndin um dauðann og rotnunina."
+    }
+  ],
+  "translation": "Fölskunni hef ég kallað: Þú ert faðir minn; orminn: móðir mín og systir mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/17\/13-16.1792412055297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "Fölskunni"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "hef ég kallað"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "faðir minn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Þú ert"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "móðir mín"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "og systir mín"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "orminum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:14:15.298069973Z",
+  "model": "glm-5.3"
+}

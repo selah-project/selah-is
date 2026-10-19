@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál mín",
+      "rationale": "נפש er lífsþrá\/andi-líf, ekki ódauðleg sál í grískum skilning"
+    },
+    {
+      "kind": "crux",
+      "subject": "fjórðungs",
+      "rationale": "רבע: 'fjórðungur' (lítið hlutfall af liði) vs JPS 'kynstofn' — jafnvægið er á milli 'aðeins fjórðungur er óræður' og 'kynslóðin'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "versið telur óteljanlegt: ryk Jaakóvs og fjöldi Ísraels"
+    }
+  ],
+  "translation": "Hver telur ryk Jaakóvs, og fjölda ⟨את⟩ fjórðungs Ísraels? Deyi sál mín dauða hinna réttu, og verði endi minn eins og þeirra!",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/23\/9-12.1792397145967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "telur"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ryk"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakóvs"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "og fjölda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjórðungs Ísraels"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "fjórðungs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "Deyi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "hinna réttu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og verði"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "endi minn"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "eins og þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T08:05:45.968398871Z",
+  "model": "glm-5.3"
+}

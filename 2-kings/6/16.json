@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnirnar 'eru' eru viðbót — hebreskan sleppir þeim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתנו\/אותם",
+      "rationale": "sömu stafir í 'með oss' og 'með þeim' — áberandi speglun, glatað í þýðingu"
+    }
+  ],
+  "translation": "Og hann sagði: Óttast þú ekki, því að þeir sem ⟨eru⟩ ⟨את⟩ með oss eru fleiri en þeir sem ⟨eru⟩ með ⟨את⟩ þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8a3665db77c156f659f7992d973648b517f45c63163d46d4f3b7c7feb9f3b5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/6\/15-16.1792416689504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og hann sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "óttast þú"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "fleiri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ með oss"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "en þeir sem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:29.505923960Z",
+  "model": "glm-5.3"
+}

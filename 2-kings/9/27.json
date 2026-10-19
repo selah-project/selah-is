@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 9:27",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "' Þetta' (andlag 'sá') og 'sem er' eru ekki í hebreskunu."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": " Síðara את er fornafn með 'hjá' (nálægð), ekki andlagsmerki — varðveitt sem ⟨את⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "to hermenn Jehú",
+      "rationale": ": skipunin 'slíkið einnig honum' beinist til manna Jehú."
+    }
+  ],
+  "translation": "Og Akasía konungur Júda sá ⟨þetta⟩ og flúði um veg garðshússins, og Jehú elti hann og sagði: Slíkið einnig ⟨את⟩ honum, í vagninum — við uppstigninguna að Gúr, ⟨sem er⟩ hjá Jibleam; og hann flúði til Megiddó og dó þar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/9\/25-28.1792403125495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחזיה",
+      "gloss": "Og Akasía"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sá"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "og flúði"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "um veg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "garðs"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "og elti"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honum"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "slíkið honum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "vagninum"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "við uppstigninguna"
+    },
+    {
+      "surface": "גור",
+      "gloss": "Gúr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem er"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjá Jibleam"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "Jibleam"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "og flúði"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "til Megiddó"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "og dó"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:45:25.496865972Z",
+  "model": "glm-5.3"
+}

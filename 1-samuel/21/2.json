@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "אִתָּךְ er samsett undantekning: forsetningin „með“ með aleph-tav-rót; gjörð sem ⟨את⟩ samkvæmt reglu, en merkingin er „með þér“, ekki viðfangnemerki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skalf",
+      "rationale": "ויחרד er bókstaflega „skalf af ótta“ — YLT\/ASV „trembling“; KJV styttir í „afraid“."
+    }
+  ],
+  "translation": "Og Davíð kom til Nob, til Akíméleks prestsins, og Akímélek skalf við að mæta Davíð og sagði honum: Af hverju ert þú einn og enginn maður ⟨את⟩ með þér?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/21\/1-4.1792400784894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akíméleks"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prestsins"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "skalf"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akímélek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "við að mæta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "af hverju"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "einn"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og enginn maður"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ með þér",
+      "marks": "með þér"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:24.895256658Z",
+  "model": "glm-5.3"
+}

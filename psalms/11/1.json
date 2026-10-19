@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נודו הרכם צפור",
+      "rationale": "Eintala eða fleirtala: ‚fljúgðu, fugl, til fjalls þíns‘ (KJV) eða ‚fljóið ykkar fjall, fuglar‘ (LXX, JPS); hebreskan er tvíræð um hátt og tölu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sálu minni",
+      "rationale": "נפש er lífskraftur, andardráttur — ekki sála í síðræðum skilningi."
+    },
+    {
+      "kind": "you",
+      "subject": "til ráðgjafanna",
+      "rationale": "Nǫfnun «segið þið» beinist til ósýnilegra ráðgjafa sem bjóða flótta."
+    }
+  ],
+  "translation": "Til tónstjórans. Davíðs. Í Jahve hefi ég leitað skjóls; hví segið þið sálu minni: Fljúgðu, fugl, til fjalls þíns?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/11\/1-4.1792409360502.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Til tónstjórans"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "í Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "hefi ég leitað skjóls"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hví"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "segið þið"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sálu minni"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Fljúgðu"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "til fjalls þíns"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "fugl"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:20.502696201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þá",
+      "rationale": "fornafn bætt við í ⟨…⟩ til að gera hlut skýran; אתם er aleph-tav-merki með viðskeyttu fornafni"
+    }
+  ],
+  "translation": "Og þú skalt leiða ⟨את⟩ Aharon og ⟨את⟩ syni hans að dyraopni tjalds fundarins, og þú skalt þvo ⟨את⟩ ⟨þá⟩ með vatni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/40\/9-12.1792395328460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "og þú skalt leiða nær"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "syni hans"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "syni hans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dyraopni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjalds"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundarins"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "og þú skalt þvo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨þá⟩",
+      "marks": "þá (Aharon og syni hans)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "með vatni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:28.462231783Z",
+  "model": "glm-5.3"
+}

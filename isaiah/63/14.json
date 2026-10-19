@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið ⟨þá⟩ bætt við því að íslenska þarf viðtakanda í 'lét hvílast'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er 'rúakh' — Andi\/vindur\/andsog — ekki skorin niður í eitt"
+    }
+  ],
+  "translation": "Eins og búfé sem gengur niður í dalinn — rúakh Jahve lét ⟨þá⟩ hvílast; svo leiddir þú lýð þinn, til að gera þér nafn tígandi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ef119106f566a78f94bec01c588c109635a08d0a0bb9667fd029b06ead5efac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/63\/13-16.1792405018862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "eins og búfé"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "í dalinn"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "gengur niður"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "lét hann hvílast"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "leiddir þú"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lýð þinn"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "til að gera"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "tígandi"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:58.862835842Z",
+  "model": "glm-5.3"
+}

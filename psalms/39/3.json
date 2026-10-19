@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "נעכר",
+      "rationale": "Rótina עכר merkir 'að kylda vatn' — sársaukinn var hrærður upp eins og gruggugt vatn; 'var hreyfður' er mildasta myndin."
+    },
+    {
+      "kind": "crux",
+      "subject": "מטוב",
+      "rationale": "'Þagði jafnvel gagnvart góðu' — eða 'af góðvilja' (þagði af velmenningu); þýðendur skiptast á."
+    }
+  ],
+  "translation": "Þagði ég í þögn, hét ég kyrru — jafnvel gagnvart góðu — og sársauki minn var hreyfður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/39\/1-4.1792409726548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Þagði ég"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "í þögn"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "hét ég kyrru"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "jafnvel gagnvart góðu"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "og sársauki minn"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "var hreyfður"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:26.549655212Z",
+  "model": "glm-5.3"
+}

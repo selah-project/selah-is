@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 51:17",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נבער (aðeins elda\/neysla) → 'örvitlegur' samkvæmt venjulegri lestri; rótin merkir bókstaflega að bruna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נסך getur merkt bæði drykkjafórn og steypta líkneski; hér er steypt mynd."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'í þeim' fleirtölu vísar til líkneskjanna, þótt 'mynd hans' sé eintölu."
+    }
+  ],
+  "translation": "Örvitlegur er hver maður frá þekkingu, skammaður er hver málmsteytir fyrir líkneski; því að lygi er steypta mynd hans, og ekkert rúakh er í þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cf9a1d39d2238a4a95e95340c9bf70b477e3612427efcd7035651205cc338f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/51\/17-20.1792406661443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "Örvitlegur er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maður"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "frá þekkingu"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "skammaður er"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "málmsteytir"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "fyrir líkneski"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lygi"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "steypta mynd hans"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekkert"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "er í þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T10:44:21.444137470Z",
+  "model": "glm-5.3"
+}

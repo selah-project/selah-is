@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גיש",
+      "rationale": "orðið kemur aðeins fyrir hér í Tanakh — 'jarðkekkur', massa af ryki"
+    },
+    {
+      "kind": "crux",
+      "subject": "רגע",
+      "rationale": "'brestur saman og springur upp á ný' (ASV\/JPS) gegn 'sprungin' (KJV) gegn 'farað saman' (YL)"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreskan fjarlægir sögn — þýðing bætir við 'er'"
+    }
+  ],
+  "translation": "Klætt er hold mitt maðkum og jarðkekkjum; húð mín springur og er ⟨frá⟩",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3cfe5458642df1498efa318219a2c98ee34948bf8f37108903027906b8c3a120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/7\/5-8.1792411845150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "Klætt er"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "hold mitt"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "maðkum"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "og jarðkekkjum"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ryks"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "húð mín"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "springur"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "og er hafnað"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:45.151371237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Adónai",
+      "rationale": "Bein ávörp til Adónaí í fyrribeyti: sleyptu, klýðu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלע\/פלג",
+      "rationale": "Svölgun og klofning í sömu vísu — myndin af upplausn málsins tapast ekki alveg á íslensku"
+    }
+  ],
+  "translation": "Sleyptu, Adónaí, klýðu tungu þeirra, því að ég hef séð ofbeldi og deilur í borginni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/55\/9-12.1792409880797.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Sleyptu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "klýðu"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tungu þeirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ég hef séð"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldi"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "og deilur"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borginni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:00.798585448Z",
+  "model": "glm-5.3"
+}

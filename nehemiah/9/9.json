@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "Sig-Rauðahaf eða 'strjálahafið' — סוף er strjálpappír; 'Rauðahaf' er hefð en ekki orðmynd hebreskunnar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עני",
+      "rationale": "'þrenging' fyrir עני — myrk undirstöðu orðsins (þjáning, anstöð), 'illska' yrði of sterkt."
+    }
+  ],
+  "translation": "Og þú sást ⟨את⟩ þrenginguna feðra okkar í Mitsrajím, og ⟨את⟩ hróp þeirra heyrðir þú við sig-Rauðahaf.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/9\/9-12.1792414239204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Og þú sást"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þrenginguna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "þrenginguna"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "feðra okkar"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "í Mitsrajím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hróp þeirra"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "hróp þeirra"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "heyrðir þú"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "ים",
+      "gloss": "haf"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Rauða-"
+    }
+  ],
+  "timestamp": "2026-10-19T12:50:39.205013175Z",
+  "model": "glm-5.3"
+}

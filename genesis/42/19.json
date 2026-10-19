@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 42:19",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Jósef heldur áfram beinni áttalsó til bræðranna"
+    },
+    {
+      "kind": "substitution",
+      "subject": "korn",
+      "rationale": "שבר er 'það sem er brotið í kornkorn', þ.e. kornkaup — 'korn' heldur myndinni"
+    }
+  ],
+  "translation": "Ef þið eruð sannir menn, skal einn ykkar bræðra verða hafður í fjötrum í varðhúsi ykkar, en þið farið og berið korn fyrir hungursneyð húsa ykkar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/42\/17-20.1792393787999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "sannir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þið"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ykkar bræðra"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "verður hafður í fjötrum"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "משמרכם",
+      "gloss": "varðhúsi ykkar"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en þið"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "farið"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "berið"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "korn"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "hungursneyð"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "húsa ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:09:48.000170561Z",
+  "model": "glm-5.3"
+}

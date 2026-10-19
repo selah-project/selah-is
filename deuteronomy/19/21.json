@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er lífskrafti\/ándardráttur, ekki sál í vonarlegri merkingu — en 'sál' er hefðin hér fyrir líf fyrir líf"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskeytið ב- ('í\/fyrir') í talnaröðinni er gefið sem 'fyrir' — jäfnunarlögmálið, mótgjald"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Endurtekningin נפש בנפש, עין בעין o.s.frv. — rammur klifur í hebreskunni, varðveitt í íslensku með 'X fyrir X'"
+    }
+  ],
+  "translation": "Og auga þitt skal ekki sýna miskunn: sál fyrir sál, auga fyrir auga, tönn fyrir tönn, hönd fyrir hönd, fót fyrir fót.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/19\/21-21.1792398064703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Og ekki"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skal sýna miskunn"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "auga þitt"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sál"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "fyrir sál"
+    },
+    {
+      "surface": "עין",
+      "gloss": "auga"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "fyrir auga"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tónn"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "fyrir tönn"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "fyrir hönd"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "fót"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "fyrir fót"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:04.703479815Z",
+  "model": "glm-5.3"
+}

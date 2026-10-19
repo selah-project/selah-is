@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Nokkrar afstöður: 'heldur\/nei' (JPS, ASV), 'sannarlega' (KJV 'surely'), eða kveðjuörð — הלא_inds attained; valið 'heldur' sem andsvar."
+    },
+    {
+      "kind": "you",
+      "subject": "til Nóaómí",
+      "rationale": "Mágseyjarnar svara Nóaómí beint og lofa að snúa aftur með henni."
+    }
+  ],
+  "translation": "Og þær sögðu henni: Nei, heldur snerum vér aftur ⟨את⟩ með þér til þjóðar þinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "11699d63f16aad11cdd437e11517fa1be8299682567cebab23a9610f9943d4ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/1\/9-12.1792412707841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "og þær sögðu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ með þér",
+      "marks": "með þér"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "snerum vér aftur"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "til þjóðar þinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:07.841846189Z",
+  "model": "glm-5.3"
+}

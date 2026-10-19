@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "Tvöföldun 'ég, ég' undirstrikar að Jahve sjálfur talar; tvöföldunin kemst ekki fram nema með endurtekningu."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska hefur enga sagnlíkingu; íslenskan krefst 'er'."
+    }
+  ],
+  "translation": "Ég, ég ⟨er⟩ sá sem strok út uppreisn þínar fyrir sakir mínar, og syndir þínar mun ég eigi minnast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fe49a81054e7a2701d57c200526619b14b534f5ddd80f4a03f24df34ec7d5459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/43\/25-28.1792404638016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sá ⟨er⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "strok út"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "uppreisn þínar"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "fyrir sakir mínar"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "og syndir þínar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "minnast"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:38.017033385Z",
+  "model": "glm-5.3"
+}

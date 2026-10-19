@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את H854 „með honum“; varðveitt sem ⟨את⟩ merki, ekki felld burt"
+    }
+  ],
+  "translation": "Og Nóakh fór út, og synir hans, og kona hans, og konur sona hans ⟨את⟩ með honum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/17-20.1792392712045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Og Nóakh fór út"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nóakh"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og synir hans"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og kona hans"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "og konur"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sona hans"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ með honum"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:52.045935026Z",
+  "model": "glm-5.3"
+}

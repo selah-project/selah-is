@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלל\/מחר",
+      "rationale": "sömu samhljóða rætur (ח-ל) í הִתְהַלֵּל og מָחָór — hálfsamstöfulegt hljómfall sem glatist í íslensku"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ילד",
+      "rationale": "lýtur orðið 'að fæða' — 'hvað dagurinn mun fæða fram' — haldið sem 'alið' til að varðveita ljóðræna mynd"
+    }
+  ],
+  "translation": "Lofaðu þig ekki degi morgunsins, því að þú veizt ekki hvað dagur mun alið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/1-4.1792411665287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "Lofaðu þig"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "degi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "morgunsins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "þú veizt"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mun alið"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dagur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:45.288036877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לעשק׾ merkir að klemmast niður á, þagga — 'óþegna' heldur myndinni frekar en 'gera rangt'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "órásasnið 'neinum manni' — hebreskan segir 'ekki lét mann til að þeigna þá'"
+    }
+  ],
+  "translation": "Hann lét engan mann óþegna ⟨þeim⟩ og áminnaði konungur fyrir þeirra hönd.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "457c151114f005f2d00a5d9b2bd1dec0b569555b7ea1cd676cffe67b7ee81a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/16\/21-24.1792414730126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "lét"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "neinum manni"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "að þeagna ⟨þá⟩"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "og áminnaði"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "vegna þeirra"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konungar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:58:50.127031147Z",
+  "model": "glm-5.3"
+}

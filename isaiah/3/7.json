@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'rödd sína' bætt við — hebreskan segir aðeins 'hann mun hefja'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חבש",
+      "rationale": "'bindari\/sá sem umbindur (sár)' — KJV 'healari'; myndin er að umbinda, ekki lækna almennilega."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישא",
+      "rationale": "Sumir lesa 'sver' (afsa í with innegation); hér haldin bókstaflegri lesun 'hefja rödd'."
+    }
+  ],
+  "translation": "Hann mun hefja ⟨rödd sína⟩ á þeim degi og segja: Ég verð ekki sá sem bind; og í húsi mínu er hvorki brauð né yfirhöfn — setjið mig ekki ⟨sem⟩ höfðingja fólksins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/3\/5-8.1792403660028.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "mun hefja"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og segja"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "verð"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "sá sem bind"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "og í húsi mínu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er hvorki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "né"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "yfirhöfn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "setjið mig"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "höfðingja"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólksins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:54:20.029883042Z",
+  "model": "glm-5.3"
+}

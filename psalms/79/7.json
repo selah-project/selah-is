@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þau",
+      "rationale": "Forsagnir viðkiptar af 79:6; hebreskan hefur enga forskýringu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אכל",
+      "rationale": "'étið' fyrir átið — myndlíkin heldur bókstaflegri mynd en 'gleytt'."
+    }
+  ],
+  "translation": "Því að ⟨þau⟩ hafa étið ⟨את⟩ Jaakov, og ⟨את⟩ bústað hans hafa ⟨þau⟩ lagt í eyði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/79\/5-8.1792410292171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hafa étið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bústað hans"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "bústað hans"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "lagt í eyði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:52.172321415Z",
+  "model": "glm-5.3"
+}

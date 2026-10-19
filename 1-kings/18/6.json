@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Endurtekningin הלך בדרך אחד לבדו tvisvar býr til samhverfa setningu um Akhav og Ovadjahú, varðveitt í íslenskunni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחלקו",
+      "gloss": "lemon 'skipta' fyrir 'deila' — graen merking rótarinnar er 'gera slétt', notað um hlutdeilingu"
+    }
+  ],
+  "translation": "Og þeir skiptu með sér ⟨את⟩ landinu til að fara yfir það: Akhav fór einn veg einn sér, og Ovadjahú fór annan veg einn sér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07d7eb3ac9016e954fe53b0275bfd73c86c3ee71b6b521e728805d6180f1cd56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/18\/6-7.1792416704509.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "Og þeir skiptu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "með sér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landinu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landinu"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "til að fara yfir"
+    },
+    {
+      "surface": "בה",
+      "gloss": "það"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fór"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "einn veg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "einn sér"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "og Ovadjahú"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fór"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "annan veg"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "annan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "einn sér"
+    }
+  ],
+  "timestamp": "2026-10-19T13:31:44.509807100Z",
+  "model": "glm-5.3"
+}

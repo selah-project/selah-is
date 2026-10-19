@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 59:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקה ritað tsedek skv. reglu, en orðið er nafn-lána; myndin er klæði"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש\/תלבשת",
+      "rationale": "sömu rót endurtekin þrisvar — hann klæðist tsedek, klæðum hefnda og kappi — hringmynd glötist að hluta"
+    }
+  ],
+  "translation": "Og hann klæddist tsedek sem brynju, og hjálmur hjálpar varð á höfði hans, og hann klæddist klæðum hefnda sem þekju, og sveipaði sér kappi sem yfirhöfn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b6a0312c5539664d2a9bc22a0d217ee5f68cc3c712bc4c5069c04c9b9af8915c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/17-20.1792405019309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "og hann klæddist"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "כשרין",
+      "gloss": "sem brynju"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "og hjálmur"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "hjálpar"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "á höfði hans"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "og hann klæddist"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæðum"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hefnda"
+    },
+    {
+      "surface": "תלבשת",
+      "gloss": "sem þekju"
+    },
+    {
+      "surface": "ויעט",
+      "gloss": "og sveipaði sér"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "sem yfirhöfn"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "kappi"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:59.310581556Z",
+  "model": "glm-5.3"
+}

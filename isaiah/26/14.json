@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "refaím",
+      "rationale": "רפאים: 'skuggar\/andir dauðra' — haft óþýtt eða 'gæiskar'; ekki 'griðþúsar konungs' eins og LXX"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "ábaktsendingin למו ('til þeirra') hefur enga samsvarandi íslenska mynd og merkt ⟨þeirra⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פקדת merkir 'heimsótti (til refsingar eða málgildis)' — ekki almennt 'útskyrði'"
+    }
+  ],
+  "translation": "Dauðir munu alls ekki lifa, refaím munu alls ekki rísa; þess vegna heimsóttir þú ⟨þá⟩ og eyðir ⟨þeim⟩, og lætur allri minningu þeirra hverfa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/26\/13-16.1792404144638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "dauðir"
+    },
+    {
+      "surface": "בל",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "lifa"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaím"
+    },
+    {
+      "surface": "בל",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "rísa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "heimsóttir þú"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "og eyðir ⟨þeim⟩"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "og lætur hverfa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alli"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "minningu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨þeirra⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:24.639591520Z",
+  "model": "glm-5.3"
+}

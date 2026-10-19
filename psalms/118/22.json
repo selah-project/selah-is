@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הבונים er „byggingamennirnir“ — „smiðirnir“ hliðstæð nafn í íslenskri smíðahefð"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "פנה er horn\/hornsteinn — „höfuðhorn“ fyrir לראש פנה, en ýtt „hornsteinn“ í nútímaskilningi er síðari túlkun"
+    }
+  ],
+  "translation": "Steinninn sem smiðirnir eyðilögðu varð ⟨að⟩ höfuðhorninu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/118\/21-24.1792410746385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Steinninn"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "eyðilögðu"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "smiðirnir"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "varð"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "horninu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:26.386279764Z",
+  "model": "glm-5.3"
+}

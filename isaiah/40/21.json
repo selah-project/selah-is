@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלוא",
+      "rationale": "Fjórföld endurtekning neitunarspurningarinnar הלוא í versinu — trommuhamar sem fellur niður í íslensku með einu 'ekki' í hverri setningu."
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "Fjórar spurningar beint til hlýðnarinnar — kall á að lesandinn viti það sem allt frá upphafi hefir verið sagt."
+    },
+    {
+      "kind": "invitation",
+      "subject": "spurningarnar",
+      "rationale": "Versið dregur lesandann inn með röð af 'hafið þér...' spurningum."
+    },
+    {
+      "kind": "crux",
+      "subject": "מוסדות הארץ",
+      "rationale": "'Grundvelli jarðar' sem tölutákning (dómstólar Jarðarinnar?) eða verklegt — 'frá grundvöllum jarðar' (tími) eins og KJV\/ASV lesa."
+    }
+  ],
+  "translation": "Hafið þér ekki vitað? Hafið þér ekki heyrt? Var það ekki sagt yður frá upphafi? Hafið þér ekki skilið grundvelli jarðarinnar?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/40\/21-24.1792404586481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "hafið þér vitað"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "hafið þér heyrt"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "var sagt"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "frá upphafi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "hafið þér skilið"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "grundvelli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:46.482577163Z",
+  "model": "glm-5.3"
+}

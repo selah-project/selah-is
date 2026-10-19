@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יבטח er bókstaflega 'leitar skjóls, treystir'; 'hafa fulltraust' heldur myndinni en ekki orðinu"
+    },
+    {
+      "kind": "crux",
+      "subject": "ungt ljón",
+      "rationale": "כפיר getur einnig þýtt 'þorp' (veggja þakið); samhengið gerir 'ungt ljón' vissara"
+    }
+  ],
+  "translation": "Ranga flýr þó enginn elti, en réttlátir hafa fulltraust sem ungt ljón.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/28\/1-4.1792411709368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "flýr"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "þó enginn"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "elti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranga"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "en réttlátir"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "sem ungt ljón"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "hafa fulltraust"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:29.368890511Z",
+  "model": "glm-5.3"
+}

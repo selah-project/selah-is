@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan sleppur sögninni 'var\/voru'; íslenskan krefst hennar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ritari",
+      "rationale": "ספר er 'sá sem telur\/skrifar'; 'ritari' er næsta íslenska orð"
+    },
+    {
+      "kind": "measurement",
+      "subject": "prestar",
+      "rationale": "Nafnaskrá yfir embættismenn Davíðs — talning hirðinnar"
+    }
+  ],
+  "translation": "og Skeva var ritarinn, og Tsadok og Evjatar voru prestar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ba9cb8e86a61b0d3b346c61ce16820ced44238f7f7bbd60c4d60111fd7062bd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/20\/25-26.1792401595274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "og Skeva"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ritari"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "og Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "og Evjatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "prestar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:19:55.275019043Z",
+  "model": "glm-5.3"
+}

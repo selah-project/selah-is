@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„söfnuðurinn“ tekið úr העדה; ותקהל er ópersónuleg samsetning „og safnaðist“"
+    }
+  ],
+  "translation": "Og Mósje gjörði eins og Jahve hafði boðið ⟨את⟩ honum; og söfnuðurinn safnaðist að dyrum tjalds fundarins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/8\/1-4.1792395557538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og gjörði"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hafði boðið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ honum",
+      "marks": "honum"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "og söfnuðurinn safnaðist"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "söfnuðurinn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "dyrum"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjalds"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundarins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:17.539795028Z",
+  "model": "glm-5.3"
+}

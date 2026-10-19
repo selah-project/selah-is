@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא אפגע אדם",
+      "rationale": "„og eginn manni mæti ég“ (KJV) á móti „og eginn verður sýnd miskunn“ — פגע má þýða „mæta“ eða „hlífa“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "verður sýnt miskunn",
+      "rationale": "פגע tók víðari merkingu en „mæta“; íslenskan notar umskrifun til að halda rammanum"
+    }
+  ],
+  "translation": "Birtast munir þínu nekt, já, sjást munir smán. Hefnd mun ég taka og eginn manni verða sýnt miskunn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5df712179c3561addb28d02fc3306242bd3dc3172ff321cf40358524da1f55e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/47\/1-4.1792404771526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "Birtast mun"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "þínu nekt"
+    },
+    {
+      "surface": "גם",
+      "gloss": "já"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sjást mun"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "þínu smán"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "Hefnd"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "mun ég taka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eginn"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "verður sýnt miskunn"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manni"
+    }
+  ],
+  "timestamp": "2026-10-19T10:12:51.527294334Z",
+  "model": "glm-5.3"
+}

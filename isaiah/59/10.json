@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באשמנים",
+      "rationale": "Þýðendur skiptast: ‚auðnir‘ (KJV), ‚saðugarir‘ (ASV), ‚myrkir staðir‘ (JPS); orðið er tengt feitleika\/græði og gröfum — hér ‚gröftorfur‘."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨vér⟩ í öðrum lið er sett fram, því hebreskan sleppir að endurtaka sögnina."
+    }
+  ],
+  "translation": "Eins og blindir teygjumst vér að vegg, og eins og ⟨sá⟩ er augu ⟨hefur⟩ ekki, teygjumst ⟨vér⟩; á hádegi stöðlumst vér sem í skammdegi, í gröftorfunum sem dauðir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3ca2fadf0b00a0d0aa1eb251b7e565ef40e5716d08d545072fa79a7fd47004bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/9-12.1792404987153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "teygjumst vér"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "eins og blindir"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "að vegg"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "og eins og"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "augu"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "teygjumst"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "stöðlumst vér"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "á hádegi"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "sem í skammdegi"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "í gröftorfunum"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "sem dauðir"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:27.154505698Z",
+  "model": "glm-5.3"
+}

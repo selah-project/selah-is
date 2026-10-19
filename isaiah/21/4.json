@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "rökkurinn sem ég girndist eftir",
+      "rationale": "נשף er myrkur\/rökkur; „nótt girndar minnar“ — sumir lesa það um hátíðarnótt eða um sextán ár Neriglissar; yfirborðsmerkingin er rökkur gjörvilegrar lystunar snúinn að hræðslu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "varð",
+      "rationale": "שם er „setti\/gjörði“; sagnbeyging „varð að“ notuð fyrir „setti mér að“."
+    }
+  ],
+  "translation": "Hjarta mitt villtist, skelfing óttaðist mig; ⟨את⟩ rökkurinn sem ég girndist eftir varð mér að hræðslu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/21\/1-4.1792404036803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "villtist"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "Hjarta mitt"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "skelfing"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "óttaðist mig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rökkurinn"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "rökkurinn"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "sem ég girndist eftir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "varð"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "að hræðslu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:00:36.804584627Z",
+  "model": "glm-5.3"
+}

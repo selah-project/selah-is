@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hans eru þær",
+      "rationale": "Tvær loyalty-lesningar: 'hver maður skal eiga helgigjafir sínar' (donor heldur) eða 'prestinum verða þær' (prestur fær); endurtekningin 'לו יהיה' styður síðari"
+    }
+  ],
+  "translation": "Og hvers manns ⟨את⟩ helgigjafir — honum skal þær verða; hvað sem maður gefur prestinum, presti skal það verða.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "fdd763dd47f93b975319af621c506cee8bc7e942e9149aeb64de6b2f1bc5941e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/5\/9-12.1792396481261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og hvers manns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helgigjafir"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "helgigjafir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "skal þær verða"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "prestinum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "presti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal það verða"
+    }
+  ],
+  "timestamp": "2026-10-19T07:54:41.262598750Z",
+  "model": "glm-5.3"
+}

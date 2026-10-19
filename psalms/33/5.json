@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדקה og משפט sett sem tsedek og dóm eftir orðatöflu D2\/D3"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "Fyrsta orðið אהב getur verið þátíð (hann elskar) eða lýsingarháttur (elskandi); KJV „He loveth“, YLT „Loving“"
+    }
+  ],
+  "translation": "Hann elskar tsedek og dóm; af khesed Jahve er jörðin full.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/33\/5-8.1792409595450.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Hann elskar"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dóm"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "af khesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "er full"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:15.451111754Z",
+  "model": "glm-5.3"
+}

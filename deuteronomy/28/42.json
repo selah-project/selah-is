@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הצלצל",
+      "rationale": "Tseltsál kemur aðeins fyrir hér í Tanakh — syngjandi skordýr, grashoppa\/engispretta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "grashoppan",
+      "rationale": "Orðið er hljóðlíking að hljóði sínu (syngjandi flug); 'grashoppan' heldur skordýrsmyndinni."
+    }
+  ],
+  "translation": "Öll tré þín og ávexti lands þíns mun grashoppan eigna sér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/41-44.1792398366358.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "tré þín"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "og ávexti"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lands þíns"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "mun eigna sér"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "grashoppan"
+    }
+  ],
+  "timestamp": "2026-10-19T08:26:06.359207417Z",
+  "model": "glm-5.3"
+}

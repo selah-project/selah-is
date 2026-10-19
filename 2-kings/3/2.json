@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hjálparsögnin „hafði“ bætt við fyrir íslenska þáttarsniðið"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצבת",
+      "rationale": "„Stytta“ fyrir מַצֵּבָה — steinstytta\/súlugafl, ekki „líking“"
+    }
+  ],
+  "translation": "Og hann gjörþi það sem illt er í augum Jahve, aðeins ekki eins og faðir hans og móðir hans; og hann fjarlægði ⟨את⟩ styttu Baals, er faðir hans hafði gjört.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "19fe0c2000f7dbb73d8737987b8ccb91540b4e43538241518ec9b61ec9f597f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/3\/1-4.1792402843726.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "það sem illt er"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "eins og faðir hans"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "og móðir hans"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "og hann fjarlægði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "styttu Baals"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stytta"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baals"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hafði gjört"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "faðir hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:43.727144833Z",
+  "model": "glm-5.3"
+}

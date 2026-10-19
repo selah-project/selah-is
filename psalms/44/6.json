@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "stanga",
+      "rationale": "נגח er mynduð um naut að stanga horns — hrísa í sundur með horni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרינו\/קמינו",
+      "rationale": "samlæging tveggja ljóðlína: 'með þér… í nafni þínu' — speglandi samhverf í hebresku"
+    }
+  ],
+  "translation": "Með þér stöngum vér niður andstæðinga okkar; í nafni þínu trampum vér niður þá sem rísa gegn oss.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/44\/5-8.1792409745869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Með þér"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "andstæðinga okkar"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "stöngum vér niður"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "í nafni þínu"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "trampum vér niður"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "þá sem rísa gegn oss"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:45.870303378Z",
+  "model": "glm-5.3"
+}

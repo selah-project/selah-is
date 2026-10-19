@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 107:38",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið 'þá' er innritað í suffiksed -em á ויברכם"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעט\/ימעיט",
+      "rationale": "sama rót og í v. 39 (וימעטו) — Guð lætur fénað ekki fækkast, en menn fækkaðust; samtenging glatarst í þýðingu"
+    }
+  ],
+  "translation": "Og hann blessaði ⟨את⟩ þá, og þeir margfölduðust mikið, og búfénaði sínum lét hann ekki fækkast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/37-40.1792410654909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "Og hann blessaði ⟨את⟩ þá"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "og þeir margfölduðust"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mikið"
+    },
+    {
+      "surface": "ובהמתם",
+      "gloss": "og búfénaði sínum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "lét hann fækkast"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:54.909745680Z",
+  "model": "glm-5.3"
+}

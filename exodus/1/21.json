@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בתים",
+      "rationale": "\"hús\" getur líka merkt \"ættir\" eða \"afkvæmi\" — sumir þýða \"hann gaf þeim afkvæmi\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויעש ... הוא",
+      "rationale": "frumlag söguðar er ónefnt — Elóhím skiljest úr samhengi"
+    }
+  ],
+  "translation": "Og það varð, af því að ljósmæðurnar óttuðust ⟨את⟩ Elóhím, að hann gjörði þeim hús.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b258e81d015566a98919645efbce63515e3d2b133255fb7d249abb3ba91bf831",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/1\/21-22.1792393998872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "af því að"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "óttuðust"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ljósmæðurnar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elóhím"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "að hann gjörði"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hús"
+    }
+  ],
+  "timestamp": "2026-10-19T07:13:18.872901946Z",
+  "model": "glm-5.3"
+}

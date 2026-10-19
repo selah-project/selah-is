@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גרון er kverk\/háls; margar þýðingar segja 'munni' en hebreskan segir kverkinn"
+    },
+    {
+      "kind": "crux",
+      "subject": "tveggjaeggja",
+      "rationale": "פיפיות er fleirtala\/tvímynd af 'egg'; 'tveggjaeggja' heldur myndinni, sumir segja einungis 'eggjar'"
+    }
+  ],
+  "translation": "Hæstu lofgjörð El í kverkum þeirra, og tveggjaeggja sverð í höndum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7ee8d5296e76b1e9801d2f41c109c28dfb8d3a88190615310b1fecb6e31dc545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/149\/6-7.1792416972249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "hæstu lofgjörð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "í kverkum þeirra"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "og sverð"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "tveggjaeggja"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "í höndum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:12.250330072Z",
+  "model": "glm-5.3"
+}

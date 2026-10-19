@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "þefa sæta ilminn",
+      "rationale": "ניחוח ריח — 'hlýðnunarilm', fast myndtjáning um fórnir; bókstaflega 'eðlaðan ilm yðar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "auðn",
+      "rationale": "חרבה er bókstaflega 'þurrkur', rittýtt sem auðn eyðimerkur"
+    }
+  ],
+  "translation": "Og ég mun gjöra ⟨את⟩ borgir yðar að auðn, og eyða ⟨את⟩ helgidómum yðar, og ég mun eigi þefa sæta ilminn yðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "81b862961ddb59a53194231fbb7ec23233f491157574d6ac5827f127ebada576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/30-31.1792416364486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Og ég mun gjöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "borgir yðar"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "borgir yðar"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "að auðn"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "og eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "helgidómum yðar"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "helgidómum yðar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "þefa"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "sæta ilminn"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:04.487693215Z",
+  "model": "glm-5.3"
+}

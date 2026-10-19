@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויקבר er virkismynd 'og þeir grafu hann' — íslenskan notar þolmynd 'hann var grafinn' og merkja þarf viðkomanda"
+    }
+  ],
+  "translation": "Og ⟨hann⟩ var grafinn ⟨את⟩ í gröf sinni í garði Ussa, og Jósía sonur hans varð konungur í stað hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/21\/25-26.1792403430519.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "var grafinn"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "í gröf sinni"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "í garði"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Ussa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "varð konungur"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jósía"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "í stað hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:50:30.520066154Z",
+  "model": "glm-5.3"
+}

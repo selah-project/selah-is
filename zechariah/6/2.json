@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "áhættusögn 'voru' bætt við — hebreskan segir aðeins 'í fyrsta vagninum rauðir hestar'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "litir hesta",
+      "rationale": "litaskrá vagnanna — rauður og svartur taldir í röð"
+    }
+  ],
+  "translation": "Í fyrsta vagninum voru rauðir hestar, og í öðrum vagninum svartir hestar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/6\/1-4.1792408958930.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "Í vagninum"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "fyrsta"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hestar"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "rauðir"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "og í vagninum"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hestar"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "svartir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:22:38.931605686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin mín",
+      "rationale": "נפש er heldur lífskraftur\/óði en \"sála\" í enfrískri merkingu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאה … נלאיתי",
+      "rationale": "hatur og þreytta í einni línu — stígandi afturkun frá v. 13."
+    }
+  ],
+  "translation": "Nýmánuðir ykkar og hátíðir ykkar hatar sálin mín; þær urðu mér að byrði — ég er þreytt á að bera.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/1\/13-16.1792403614704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "nýmánuðir ykkar"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "og hátíðir ykkar"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "hatar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    },
+    {
+      "surface": "היו",
+      "gloss": "urðu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "að byrði"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "ég er þreytt"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "að bera"
+    }
+  ],
+  "timestamp": "2026-10-19T09:53:34.705409937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "טפחות",
+      "rationale": "Handbreddar — mál út breidd lófa; hebreskan mælir ævina í lófa-breiðum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלד",
+      "rationale": "'ævi' fyrir חלד, sem bæði merkir lífstími og heimurinn sem líður."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "'vér' fyrir הבל — andardráttur\/útlæði, hið tómbráða."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenskan þarf sögn sem hebreskan sleppir."
+    }
+  ],
+  "translation": "Sjá, handbreddir hefur þú gert daga mína, og ævi mín ⟨er⟩ sem ekkert gagnvart þér; einungis vér er allur maður sem stendur uppi. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/39\/5-8.1792409745644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "handbreddir"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "hefur þú gert"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "daga mína"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "og ævi mín"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sem ekkert"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "gagnvart þér"
+    },
+    {
+      "surface": "אך",
+      "gloss": "einungis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allur"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vér"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maður"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maður"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "sem stendur uppi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:45.644956976Z",
+  "model": "glm-5.3"
+}

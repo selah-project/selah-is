@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרמת",
+      "rationale": "'sáðfall' (útflæði sæðis) er bókstæða myndin; sumir þýðendur milda í 'lim' eða sleppa henni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשר ... בשרם · זרמת ... זרמתם",
+      "rationale": "Kíasmynd: hold–asna–hold þeirra, sáðfall–hrossa–sáðfall þeirra; spegilbyggingin berst á íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פלגשים",
+      "rationale": "פילגש er 'áskona' en JPS les 'áskonulíf við þá' — fleirtölumyndin er opin ráðgáta."
+    }
+  ],
+  "translation": "Og hún girnti áskkonur þeirra, hold asna er hold þeirra, og sáðfalli hrossa er sáðfall þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/23\/17-20.1792407374193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "girnti"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פלגשיהם",
+      "gloss": "áskkonur þeirra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hold"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "asna"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "hold þeirra"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "sáðfalli"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "hrossa"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "sáðfall þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:56:14.194560645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til lesandans",
+      "rationale": "stýfð núðarsform — bann til lesandans, framhald v. 7"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "'nef, nostril' — reiðin sem andblast gegnum nasir; myndin glatast á íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "אך להרע",
+      "rationale": "'aðeins til að gera illt' — er það afleiðing glötunar (ASV\/JPS) eða tilgangur (ylt)?"
+    }
+  ],
+  "translation": "Hættu reiðinni og yfirgegt heift, glött ekki — aðeins til að gera illt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/5-8.1792409644390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Hættu"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "reiðinni"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "og yfirgegt"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "heift"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "glött"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "til að gera illt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:04.391852061Z",
+  "model": "glm-5.3"
+}

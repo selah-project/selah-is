@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מדחפת",
+      "rationale": "„hrun\/þró“ — aðeins hér í Tanakh, bókstaflega „þrýstingur“"
+    },
+    {
+      "kind": "crux",
+      "subject": "veiðari",
+      "rationale": "יצודנו: „illan veiðir hann“ eða „hann er veiddur“ — mynd óviss, KJS\/JPS skiptast á"
+    }
+  ],
+  "translation": "Maður tungunnar verði ekki staðinn á jörðinni; maður ofbeldis — illan veiði hann til ⟨falls⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/140\/9-12.1792410975532.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tungunnar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "verði staðinn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldis"
+    },
+    {
+      "surface": "רע",
+      "gloss": "illan"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "veiði hann"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "til falls"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:15.533722910Z",
+  "model": "glm-5.3"
+}

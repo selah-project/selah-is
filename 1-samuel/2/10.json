@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "móthersjar",
+      "rationale": "מריבו er sg. með sg. sögn en fleirtölu merkingu — 'hann sem deilir við hann'; margar þýðingar gera fleirtölu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "horn",
+      "rationale": "קררן er horn — mynd máttar og tignar, ekki þýtt sem 'kraftur'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "hinn smurði",
+      "rationale": "משיחו um konung á dögum Samúels — 'hinn smurði', ekki Masjíakh sem sértækt nafn"
+    }
+  ],
+  "translation": "Jahve — móthersjar hans eru brotnir niður, í himnunum þrumar hann yfir þeim; Jahve dæmir endimörk jarðarinnar, og hann gefur mátt konungi sínum og upphækkar horn hins smurða síns.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/9-12.1792400146067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "eru brotnir niður"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "móthersjar hans"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "yfir þeim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "í himnunum"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "þrumar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "dæmir"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "endimörk"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gefur"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mátt"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "konungi sínum"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "og upphækkar"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "horn"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "hins smurða síns"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:46.068379208Z",
+  "model": "glm-5.3"
+}

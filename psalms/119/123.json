@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלו",
+      "rationale": "'Slitin\/kuðu' — augun klárast af því að bíða; nokkrar þýðingar segja að auguþurrkun til lífs sé merkingin."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Frestun' er fjörnuð — hebreskan segir aðeins 'slitin'."
+    }
+  ],
+  "translation": "Augu mín eru slitin af frestun fyrir hjálpræði þínu og fyrir málsorð tsedek þíns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/121-124.1792410844605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Augu mín"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "eru slitin af frestun"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "fyrir hjálpræði þínu"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "og fyrir málsorð"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedek þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:04.606053272Z",
+  "model": "glm-5.3"
+}

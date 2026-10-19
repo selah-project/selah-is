@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Söguleg frásögn hebreskunnar vantar sögn 'var' — íslenskan setur framvindu með 'sjá — ... á'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "התרפים",
+      "rationale": "Terafím haldið sem heiti — sama orð og í v. 13, svikin mynd í rúminu."
+    }
+  ],
+  "translation": "Og sendiboðarnir komu, og sjá — terafímin á rúminu, og legikið af geitarhárum við höfði hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/19\/13-16.1792400682384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Og sendiboðarnir komu"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "sendiboðarnir"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafímin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "rúminu"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "og legikið"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "af geitarhárum"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "við höfði hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:04:42.386036773Z",
+  "model": "glm-5.3"
+}

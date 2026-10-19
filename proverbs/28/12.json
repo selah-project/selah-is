@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחפש אדם",
+      "rationale": "KJV 'maður felur sig' gegn JPS 'menn verða leitað' — leturóð rótinnar þolir báðar lesnir"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨að⟩ felast",
+      "rationale": "íslenzka þarf aðgreiningu á því hvert leitin beinist; hebreskan segir aðeins 'leita manna'"
+    }
+  ],
+  "translation": "Þegar réttlátir fagna, er mikill dýrð, en þegar vándir rísa, leita manna ⟨að⟩ felast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5adb8c82565ed10a27f45a90d617a81dccea475c80677554a7a8ae2e4214d7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/28\/9-12.1792411666318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "Þegar réttlátir fagna"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "réttlátir"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "dýrð"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "en þegar vándir rísa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "vándir"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "leita"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manna"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:46.319487974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אהל מועד er „tjald fundarins“ — fundartjaldinu — ekki „sáttmálatjaldið“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið setur nákvæma dagsetningu: fyrsti dagur annars mánaðar, öðra árið"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf tenginguna „að“ og fornafnið „þeir“ í tímasetningunni, hebreskan segir aðeins לצאתם „útgöngu þeirra“"
+    }
+  ],
+  "translation": "Og Jahve talaði til Mósje í eyðimörk Sínaí, í fundartjaldinu, á fyrsta degi annars mánaðar, á öðru ári eftir ⟨að⟩ ⟨þeir⟩ fóru úr landi Mitsrajím, með því að segja:",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/1-4.1792396337521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og talaði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörk"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínaí"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "í tjaldi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundar"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "á fyrsta degi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mánaðar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "annars"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "á ári"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "öðru"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "eftir ⟨að⟩ ⟨þeir⟩ fóru"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "með því að segja"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:17.521883784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seá og sikill",
+      "rationale": "verð mælt í kornmælieiningunni seá gegn sikli — uppfylling spáar Elísa í 2. Kon 7:1"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kvenmyjöl",
+      "rationale": "סלת er fínt kvenmyjöl, sérstök gæðaflokkun — ekki almenn 'mjöl'"
+    }
+  ],
+  "translation": "Og fólkið fór út og rændi ⟨את⟩ herbúðum Aram, og varð eitt seá af kvenmyjölju fyrir einn sikil og tvö seá af byggi fyrir einn sikil, samkvæmt orði Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/7\/13-16.1792403065576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "fór út"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "rændi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herbúðum Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "herbúðum"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "eitt seá"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "af kvenmyjölju"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "fyrir einn sikil"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "og tvö seá"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "af byggi"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "fyrir einn sikil"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "samkvæmt orði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T09:44:25.577383564Z",
+  "model": "glm-5.3"
+}

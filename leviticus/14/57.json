@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur enga samsætu; „er“ bætt við á íslensku"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Engin samsæta á milli „Tóra“ og nafnsins í hebresku"
+    }
+  ],
+  "translation": "til að kenna ⟨á⟩ degi óhreinsinnar og degi hreinsunnar — þetta er Tóra сорpsjúkdómsins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ef6770ee25d78d1dd8ca9b2bae76dd0ea41f523b2618571d8169b5e6182dd7ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/14\/57-57.1792395695176.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "til að kenna"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "óhreinsinnar"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "og degi"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "hreinsunnar"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sorppsjúkdómsins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:35.177862532Z",
+  "model": "glm-5.3"
+}

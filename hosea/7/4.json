@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 7:4",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מנאפים",
+      "rationale": "Bókstaflega 'hórungarmenn' — hjá Hósea vísar נאף bæði til líkamslegar hórungar og trúarsvikhjá konunnar (afturhvarf til annarra guða)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישבות מעיר",
+      "rationale": "Sá 'hvílist frá vekjunni (eldinum\/deiginum)' — KJV les 'ceaseth from raising', ASV 'frá því að elda'; myndin er bakarinn sem lætur ofninn loga sjálfan af."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מלוש",
+      "rationale": "'Að knæða' — kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ofnmyndin",
+      "rationale": "Líkingin er myrkvuð: hitanum er haldið lifandi (gefin) án þess að elda — ungt eldsmál væntanlegt vers 5."
+    }
+  ],
+  "translation": "Allir þeir eru hórungarmenn, eins og ofn hitaður af bakara, sem seygist frá vekjunni, frá því að knæða deigið, þar til það er sýrt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/7\/1-4.1792408138777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Allir þeir"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "hórungarmenn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "ofn"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "hitaður"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "af bakara"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "seygist"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "frá vekjunni"
+    },
+    {
+      "surface": "מלוש",
+      "gloss": "frá knæðingu"
+    },
+    {
+      "surface": "בצק",
+      "gloss": "deig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "חמצתו",
+      "gloss": "er það sýrt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:08:58.778759778Z",
+  "model": "glm-5.3"
+}

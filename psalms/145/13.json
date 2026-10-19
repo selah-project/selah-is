@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨er⟩",
+      "rationale": "Hebreskan hefur enga sögn; samsvörunarbeyging í íslensku krefst er."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכותך מלכות",
+      "rationale": "Endurtekning konungdómstorgefnisins — konungdómur þinn, konungdómur — glatast að hluta í íslensku."
+    }
+  ],
+  "translation": "Konungdómur þinn ⟨er⟩ konungdómur allra alda, og stjórn þin í hverju kyni og kyni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/145\/13-16.1792411083151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "konungdómur þinn"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "konungdómur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allra"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "alda"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "og stjórn þín"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í hverju"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kyni"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "og kyni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:03.152086585Z",
+  "model": "glm-5.3"
+}

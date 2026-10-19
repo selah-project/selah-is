@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מגן",
+      "rationale": "מגן merkir „skjöldur“ — „sem vopnaður maður“ eða „sem skjöld“ (Psalms 35:2 notar מגן um vernd); KJv\/JPS lesa manni búnum skildi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vopnaður",
+      "rationale": "Hebreskan segir aðeins „skjöldur\/is-með-skjöld“; „vopnaður“ er bætt við til skýrleika"
+    }
+  ],
+  "translation": "Og fátækt þín kemur sem gangandi maður, og skortur þinn sem ⟨vopnaður⟩ maður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/6\/9-12.1792411215059.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Og ... kemur"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "sem gangandi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "fátækt þín"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "og skortur þinn"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "sem maður"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "⟨vopnaður⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:15.059956613Z",
+  "model": "glm-5.3"
+}

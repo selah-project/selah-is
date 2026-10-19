@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin «markaði» krefst nafnorðs í íslensku; «það» kemur í stað óþýdds andlags."
+    },
+    {
+      "kind": "measurement",
+      "subject": "erfðaskrá Bínjamín",
+      "rationale": "Versið lýkur landamerkingalýsing Bínjamín í hring."
+    }
+  ],
+  "translation": "Og Jardán markaði ⟨את⟩ það að austurhlíðinni — þetta er arfleifð sona Bínjamín eftir landamærum sínum alls hringis, eftir ættbálkum þeirra.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cf02e485a02661b11115b5f02878afda27816d41497292750fb7347dbfdb1836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/18\/17-20.1792399191588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Og Jardán"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "markaði"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "það (arleifðina \/ landamærin)"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "að hlíðinni"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "austur-"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta er"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arfleifð"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bínjamín"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "eftir landamærum sínum"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "alls hringis"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "eftir ættbálkum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T08:39:51.589331856Z",
+  "model": "glm-5.3"
+}

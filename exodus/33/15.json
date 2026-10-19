@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פנים",
+      "rationale": "'andlit þitt' haldið bókstaflega — ekki 'nærvera þín' — til að halda mynd hebreskunnar"
+    },
+    {
+      "kind": "crux",
+      "subject": "תעלנו",
+      "rationale": "KJV\/ASV les 'me' (eintölu) en hebreskan er 'okkur' (fleirtala); YLT les rétt 'us'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Mósje",
+      "rationale": "Mósje talar beint til Jahve í bæn"
+    }
+  ],
+  "translation": "Og hann sagði við hann: Ef andlit þitt fara ekki, skaltu ekki láta okkur fara upp héðan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e5d53d342f943346da5ed959baf913850bef8f96fe439f9128d643525b43e74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/33\/14-15.1792416311893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlit þitt"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "fara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "skaltu ekki"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "láta okkur fara upp"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "héðan"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:11.894554158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בה",
+      "rationale": "hebreska segir 'gangi á honum' — fellt saman við 'gangi' á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "skulu",
+      "rationale": "íslenska þarfnast hjálpart的颜色s 'skulu' sem hebreskan ber í framtíðarmynd sagnarinnar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tóra",
+      "rationale": "התורת er fleirtala 'Tórunum' — haldið í hljóði hebreskunnar, ekki 'lögmál'"
+    }
+  ],
+  "translation": "Og þú skalt varða ⟨את⟩ þá ⟨את⟩ lögboðunum og ⟨את⟩ Tórunum, og kunngjera þeim ⟨את⟩ veginn sem þeir skulu ganga, og ⟨את⟩ verkið sem þeir skulu gjöra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "95c2f1cada967ebc47a27cf8caa044ada0aefde9c80f546b8bd6b1b0d524278a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/18\/20-20.1792416273970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "og skalt þú varða"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ þá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lögboðin"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lögboðunum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Tórunum"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "Tórunum"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "og kunngjera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vegin"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "vegin"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sem þeir skulu ganga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "á honum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "verkið"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "verkið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "þeir skulu gjöra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:33.971006952Z",
+  "model": "glm-5.3"
+}

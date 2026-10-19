@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שם לבו אל",
+      "rationale": "„Setja hjarta sitt að“ — hebreskt myndmál um að hydra eða taka markvirkt; þýtt bókstaflega til að varðveita myndina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויעזב",
+      "rationale": "Bókstaflega „yfirgaf“; samhengið krefst „lét (eftir)“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבדיו",
+      "rationale": "„Þrælar“ fyrir hebreska orðið; gæti einnig verið þjónar."
+    }
+  ],
+  "translation": "En sá er setti ekki hjarta sitt að orði Jahve lét ⟨את⟩ þræla sína og ⟨את⟩ búfé sitt á akurinum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "08bc680eecd36e6978cefc52918c87c0f4455ac0bb42b0809dc59ade6038ef51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/21-24.1792394330996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "en sá er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "setti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "hjarta sitt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "lét"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þræla sína"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þræla sína"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "búfé sitt"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "búfé sitt"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "á akurinum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:18:50.996996047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדיקים — 'réttlátir' eða hljóðritað 'tsadikím'; tekið hljóðritun til að halda orðmyndinni."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עם \/ העם",
+      "rationale": "Sama orð 'fólk' tvisvar, fyrst með greini í fögnuðinum, síðan án greinis í stöfnuninni."
+    }
+  ],
+  "translation": "Þegar tsadikím fjölga, fagnar fólkið, en þegar ranglátur ríkir, andar fólkið þungt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/29\/1-4.1792411651032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "þegar ... fjölga"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsadikím"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "fagnar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "en þegar ... ríkir"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ranglátur"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "andar þungt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:31.033668540Z",
+  "model": "glm-5.3"
+}

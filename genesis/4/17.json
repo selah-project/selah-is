@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "וידע 'kunni\/kynnti' — hebreskt vitrunarorð fyrir samneyti, þýtt sem 'þekkti'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "ויהי בנה getur verið þátttíð 'byggti' eða óvenjuleg þátíð 'var að byggja'"
+    }
+  ],
+  "translation": "Og Kajin þekkti ⟨את⟩ konu sína, og hún varð þunguð og fékk ⟨את⟩ Khanok; og hann var að byggja borg, og hann kallaði nafn borgarinnar eftir nafni sonar síns, Khanok.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/4\/17-20.1792392586308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "þekkti"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konu sína"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "konu sína"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "varð þunguð"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "fékk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "var"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "að byggja"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borg"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kallaði"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgarinnar"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "eftir nafni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonar síns"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanok"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:46.310701382Z",
+  "model": "glm-5.3"
+}

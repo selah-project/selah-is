@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 7:22",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hrærða mjólk",
+      "rationale": "חמאה er súrmjólk\/hrærð mjólk, ekki smjör."
+    },
+    {
+      "kind": "crux",
+      "subject": "עשות",
+      "rationale": "Sagnmyndin „sem þær munu gefa“ (KJV) eða einfaldlega „gnægtir þess að gera mjólk“ — lesið bæði."
+    }
+  ],
+  "translation": "Og það mun verða: Fyrir gnægtir mjólkur mun hann etaInlining hrærða mjólk, því hrærða mjólk og hunang mun hver sá eta sem eftir er inni í landinu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "85073350a8c0d5da1c6ec0b8ea2a0e0060e10127b9001d99e876af1548692401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/7\/21-24.1792403736424.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það mun verða"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "fyrir gnægtir"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "að gera"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mjólkur"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mun eta"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "hrærða mjólk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "hrærða mjólk"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "og hunang"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mun eta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "sem eftir er"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "inni í"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landinu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:55:36.425459525Z",
+  "model": "glm-5.3"
+}

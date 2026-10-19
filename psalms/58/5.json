@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eitrun",
+      "rationale": "חמה er bókstaflega 'hiti' en hér í merkingunni 'eitur' (sem bruni), hið sama og þýðingarnar gera"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "skáldleg endingartilhögun, 'þeirra', gyrt við nafnorðið á íslensku sem eyra sitt"
+    },
+    {
+      "kind": "crux",
+      "subject": "dauf naðra",
+      "rationale": "átrúnaður á að naðran haldi eyrunum læst gegn galdrum — þjóðsaga þekkt í nágrannamenningum; sumir lesa חרש sem 'töframaður' (rót þeirri sömu)"
+    }
+  ],
+  "translation": "Eitrun þeirra er eins og eitrun höggorms, eins og dauf naðra sem læsir eyra sitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/58\/5-8.1792409939514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "eitrun"
+    },
+    {
+      "surface": "למו",
+      "gloss": "þeirra"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "er eins og"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "eitrun"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "höggorms"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "naðra"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "dauf"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "læsir"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "eyra sitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:59.515167262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "'mannsins' fyrir אנוש sem áherslar 'hið eymdlega mannvæsi' — veig munar á אדם."
+    },
+    {
+      "kind": "crux",
+      "subject": "משמן",
+      "rationale": "'af olíu' — YLT\/JPS les forsenduna 'láta andlitið skína meira en olía'; KJV\/ASV les 'olía til að láta andlitið skína'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבב אנוש",
+      "rationale": "Endurtekningin 'hjarta mannsins' tvisvar (vín og brauð) umgirdir olíuna — chíasmísk umgjörð tapast í íslensku."
+    }
+  ],
+  "translation": "og vín sem gleður hjarta mannsins, og olía sem lætur andlitið skína, og brauð sem styrkir hjarta mannsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/104\/13-16.1792410539505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "og vín"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gleður"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "lætur skína"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "andlitið"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "af olíu"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "og brauð"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "styrkir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:59.506561189Z",
+  "model": "glm-5.3"
+}

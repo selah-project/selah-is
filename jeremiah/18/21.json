@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 18:21",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "הרגי מות, orðatök 'drepnir af dauða', helzt bókstaflegt; sumir þýða 'af sótt'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "והגרם er 'helltu út' (flæða); 'úthella blóði' er túlkun KJV"
+    }
+  ],
+  "translation": "Því gef ⟨את⟩ sonu þeirra til hungurs og helltu þeim út fyrir hendi sverðs, og konur þeirra verði barnlausar og ekkjur, og menn þeirra verði drepnir af dauða, ungmenni þeirra slegin sverði í orrustu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e3b790c05c29226c5bcef015a096f2196c8cbb39cab1a99af69d050247262fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/18\/21-23.1792405764971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Því"
+    },
+    {
+      "surface": "תן",
+      "gloss": "gef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonu þeirra"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sonu þeirra"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "til hungurs"
+    },
+    {
+      "surface": "והגרם",
+      "gloss": "og helltu þeim út"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hendi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðs"
+    },
+    {
+      "surface": "ותהינה",
+      "gloss": "og verði"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "konur þeirra"
+    },
+    {
+      "surface": "שכלות",
+      "gloss": "barnlausar"
+    },
+    {
+      "surface": "ואלמנות",
+      "gloss": "og ekkjur"
+    },
+    {
+      "surface": "ואנשיהם",
+      "gloss": "og menn þeirra"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "verði"
+    },
+    {
+      "surface": "הרגי",
+      "gloss": "drepnir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "af dauða"
+    },
+    {
+      "surface": "בחוריהם",
+      "gloss": "ungmenni þeirra"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "slegin"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverði"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "í orrustu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:24.972457740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leysir",
+      "rationale": "גאל er frelsari eftir kynreglunni — næsti skyldulið sem leysir; 'leysa' er næst en skyldleika-myndin tapast"
+    },
+    {
+      "kind": "crux",
+      "subject": "משחת",
+      "rationale": "'Gryfja' (gildra) móti 'eyðing' í abstraktri merkingu — KJV 'destruction', JPS 'the pit'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסð er tryggðarin kærleikans í sáttmála — haldið eftir hljóði skv. reglu D2, ekki 'miskunn' ein"
+    }
+  ],
+  "translation": "Sá sem leysir líf þitt úr gryfjunni, sá sem krýnar þig khesed og miskunn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/1-4.1792410534318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Sá sem leysir"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "úr gryfjunni"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "líf þitt"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "sá sem krýnar þig"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "og miskunn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:54.319482383Z",
+  "model": "glm-5.3"
+}

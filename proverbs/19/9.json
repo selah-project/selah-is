@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נקה 'gerast hreinn\/ósakbundinn' myndaði neitunina 'ekki órefsað' — tvöföld neitun eins og í hebresku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקרים\/כזבים",
+      "rationale": "Tvö mismunandi orð fyrir lygar í sama versi; íslenskan notar 'lygar' tvisvar og missa litbrigðið."
+    }
+  ],
+  "translation": "Falsvitni verður ekki órefsað, og sá sem andar út lygum mun farast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/19\/9-12.1792411482090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "falsvitni"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lyganda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "verður órefsað"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "og sá sem andar út"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lygum"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "mun farast"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:42.091168143Z",
+  "model": "glm-5.3"
+}

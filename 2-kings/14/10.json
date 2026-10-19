@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכבד",
+      "rationale": "Bókstaflega 'vertu þungur' — þýðendum skiptar í 'hefðu heiður' (KJV 'glory') eða 'hófðu þig' (JPS); orðið leikur á þunga sem öfg vegt."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשא לב",
+      "rationale": "'Hjartað hóf þig' = að verða stoltur; hebreska heldur myndinni af hjartanu sem lyftir manninum."
+    },
+    {
+      "kind": "addition",
+      "subject": "þess",
+      "rationale": "Íslandska þarf viðtingu ('gefa sér veg') sem hebreskan segir með einu orði הכבד."
+    }
+  ],
+  "translation": "Þú hefur sannarlega slegið ⟨את⟩ Edóm, og hjarta þitt hefur hafið þig upp — gefðu þér ⟨þess⟩ veg, og sættu þig heima í húsi þínu; og hvers vegna ætlar þú að æsa í ógæfu, svo að þú falls, þú og Júda með þér?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/14\/9-12.1792403183085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "sannarlega slegið"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "þú hefur slegið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edóm"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "hefur hafið þig upp"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "hjarta þitt"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "gefðu þér veg"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "og sættu þig"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "heima í húsi þínu"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "og hvers vegna"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ætlar þú að æsa"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "í ógæfu"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "svo að þú falls"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "og Júda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    }
+  ],
+  "timestamp": "2026-10-19T09:46:23.087061749Z",
+  "model": "glm-5.3"
+}

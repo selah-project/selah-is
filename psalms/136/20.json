@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ל־ í ולעוג",
+      "rationale": "Sama mynstur og v. 19: forsetningin ל־ heldur áfram sögninni og birtist ekki sem sérstakt orð."
+    }
+  ],
+  "translation": "Og Óg, konungi Bashan, því að að eilífu stendur khesed hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "53a786b6a044b466b5488df5864251b5083198327558428d013442ff4eb9d5c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/136\/17-20.1792410970759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "Og Óg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "stendur khesed hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:10.760327563Z",
+  "model": "glm-5.3"
+}

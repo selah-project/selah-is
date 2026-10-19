@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גלולים er rúntré\/skurgoð — 'skurgögn' heldur niðrandi myndinni, 'átrúnaðargoð' væri of virðulegt"
+    },
+    {
+      "kind": "crux",
+      "subject": "grípa í hjarta",
+      "rationale": "תפש בלבם — 'taka þá á eigin hjarta' (KJV) eða 'grípa hjarta þeirra' (BSB); myndin er veiðimál"
+    }
+  ],
+  "translation": "Til þess að grípa ⟨את⟩ hús Ísraels í hjarta þeirra, þeir sem sneru sér frá mér með skurgögnum sínum, allir þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3d6832c857b0af12097d8bbfca3c313d15ff4d6e1fb58d43cab6a00c2c1f57c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/14\/5-8.1792407138988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "grípa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hús Ísraels"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "í hjarta þeirra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir sem"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sneru sér frá"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "með skurgögnum sínum"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:52:18.989541761Z",
+  "model": "glm-5.3"
+}

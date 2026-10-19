@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 14:37",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir ekki „eru“ — sambandssmýin krefst sagnar á íslensku"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שקערורת",
+      "rationale": "„gryfjur“ (djúpir farþegar) kemur aðeins fyrir hér í Tanakh"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירקרקת אדמדמת",
+      "rationale": "tvöföldun rótarinnar (græn-græn, rauð-rauð) gefur litinn í auknum stig, tapast að hluta á íslensku"
+    }
+  ],
+  "translation": "Og hann sér ⟨את⟩ sárin, og sjá, sárin ⟨eru⟩ í veggjum hússins: gryfjur, grængrænar eða rauðrauðar, og útlit þeirra er lægra en veggurinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e61339b29cce012c4c6ab1fb1eceb947dbbe02b207e0436c312ffc8d9881011a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/14\/37-40.1792395710891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Og hann sér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sárin"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sárin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "sárin"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "í veggjum"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "שקערורת",
+      "gloss": "gryfjur"
+    },
+    {
+      "surface": "ירקרקת",
+      "gloss": "grængrænar"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "rauðrauðar"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "og útlit þeirra"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "lægra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "en"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "veggurinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:50.892228109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מנגינינה merkir skáldaust spottlag, ekki tónlist; 'spotta lag' heldur báðum merkingum."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsögnin í הביטה er afturvirk; 'þú' bætt við til að greina að Jahve er sá sem á að líta."
+    }
+  ],
+  "translation": "Sæti þeirra og upprisan þeirra — lít ⟨þú⟩ á ⟨það⟩; ég er að þeirra spotta lagi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "df6ccbbaf5df2fe497ff6011edaa8819e8bcad35a6a879137c3f6b39a142de40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/61-64.1792412782908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "sæti þeirra"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "og upprisan þeirra"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "lít ⟨þú⟩ á"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "spotta lag þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:22.909226724Z",
+  "model": "glm-5.3"
+}

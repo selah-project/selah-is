@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בחקות er „skipanir\/lög“ — gönginn í þeim er myndlíning hebreskunnar, „gangið“ haldið."
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "Setning heldur áfram í versi 4 — skáslykkja opinn í frumtextanum."
+    }
+  ],
+  "translation": "Ef þér gangið í skipunum mínum og ⟨את⟩ boðorð mín varðveitið og ⟨את⟩ þau gjörið —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ce0c45f0c2da62b649add674e8b76121971360a3abfbce6f4b48e0c0f9ef0db6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/1-4.1792396222755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "í skipunum mínum"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "þér gangið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "boðorð mín"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "boðorð mín"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "varðveitið"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "og gjörið"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þau"
+    }
+  ],
+  "timestamp": "2026-10-19T07:50:22.756516797Z",
+  "model": "glm-5.3"
+}

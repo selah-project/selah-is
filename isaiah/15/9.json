@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 15:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דימון\/דם",
+      "rationale": "Nafnið Dímón hljómar eins og blóð (dam) — vötn Dímón 'full af blóði' er orðaleikur sem glatast á íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "נוספות",
+      "rationale": "'Viðbætar' — sumir lesa 'meira ógæfu' eða skilja león sem það sem bætist við; KJV 'I will bring more'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפליטת",
+      "rationale": "Orðið merkir 'flótta (hluti)' — flótta menn er túlkun, ekki söguleg nöfn"
+    }
+  ],
+  "translation": "Því að vötn Dímón eru full af blóði — því að ég mun setja á Dímón viðbætur, león á flótta menn Móab og á leifa landsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8774e59516a1adcfb66c1cac372ee6b2c91e5a28aac48b3e8c251ad4f13c7bbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/15\/9-9.1792403952159.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vötn"
+    },
+    {
+      "surface": "דימון",
+      "gloss": "Dímón"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "eru full"
+    },
+    {
+      "surface": "דם",
+      "gloss": "af blóði"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "mun ég setja"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "דימון",
+      "gloss": "Dímón"
+    },
+    {
+      "surface": "נוספות",
+      "gloss": "viðbætur"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "á flótta menn"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "león"
+    },
+    {
+      "surface": "ולשארית",
+      "gloss": "og á leifa"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "landsins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:12.159992767Z",
+  "model": "glm-5.3"
+}

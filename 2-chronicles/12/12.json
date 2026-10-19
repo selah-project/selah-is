@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "reiði",
+      "rationale": "אַף merkir bæði „nef“ og „reiði“ — andartak reiðinnar í andliti; aðeins „reiði“ í íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨honum⟩",
+      "rationale": "andlagið sem eytt ætti ekki að nefna; hebreskan segir aðeins „eyða til fullnustu“"
+    }
+  ],
+  "translation": "Og er hann lét sér léttast, sneri reiði Jahve frá honum, svo að ekki yrði eytt ⟨honum⟩ að fullu; og jafnframt í Júda voru góðir hlutir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a9d4fb2ea5cdaf44d1fe89be0df598b3c6255adf5571f1fddd371f0d36ab7e49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/12\/9-12.1792415452060.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "Og er hann lét sér léttast"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sneri"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "frá honum"
+    },
+    {
+      "surface": "אף",
+      "gloss": "reiði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "svo að ekki"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "yrði eytt"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "að fullu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og jafnframt"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "í Júda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "voru"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "hlutir"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "góðir"
+    }
+  ],
+  "timestamp": "2026-10-19T13:10:52.061325744Z",
+  "model": "glm-5.3"
+}

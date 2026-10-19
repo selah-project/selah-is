@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 18:14",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "spjót",
+      "rationale": "שבט er kylfustaff; „spjót“ er ráð af sögunni, orðið sjálft segir aðeins stofn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלב ... בלב",
+      "rationale": "„ í hjarta Avsháloms — í hjarta eikinnar“: sami orðstofnur tvisvar, endurtekning tapast ekki í íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלב האלה",
+      "rationale": "„ í hjarta eikinnar“ (lít., miðju trésins) eða „fastur í eikinni“"
+    }
+  ],
+  "translation": "Þá sagði Jóav: Eigi svo — ég bíð ekki fyrir framan þig. Og hann tók þrjú spjót í hollu hendi sinni og lam þeim í hjarta Avsháloms, en hann var þá enn lifandi í hjarta eikinnar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/18\/13-16.1792401647713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Þá sagði"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóav"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "אחילה",
+      "gloss": "ég bíð ekki"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "fyrir framan þig"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og hann tók"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "þrjú"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "spjót"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "í hollu hendi sinni"
+    },
+    {
+      "surface": "ויתקעם",
+      "gloss": "og lam þeim"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "í hjarta"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsháloms"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "en hann var þá enn"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lifandi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "í hjarta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "eikinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:20:47.714304158Z",
+  "model": "glm-5.3"
+}

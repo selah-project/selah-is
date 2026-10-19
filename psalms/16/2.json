@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טובתי בל עליך",
+      "rationale": "þýtt „sá gæski mín er ekki nema í þér“; aðrar leiðir: „gæsku mína beini ég ekki til þín“ (KJV) eða „eigi vegna þín“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "Adónaí haft sem nafn Guðs, ekki „herra\""
+    }
+  ],
+  "translation": "Ég sagði við Jahve: Adónaí ert þú; sá gæski mín er ⟨ekki⟩ nema í þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/16\/1-4.1792409310137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ég sagði"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "við Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "gæski mín"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨ekki⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "í þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:30.138198047Z",
+  "model": "glm-5.3"
+}

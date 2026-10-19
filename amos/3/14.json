@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 3:14",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„⟨honom⟩“ — íslenskan þarf andlutning en hebreskan hefur aðeins עליו sem þýðir „á\/ gegn honum“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hefna",
+      "rationale": "פָּקַד merkir „heimsækja\/umbuna“; orðið „hefna“ gefur ítarefni refsingar sem rótin bær í sér."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקדי\/ופקדתי",
+      "rationale": "Sama sögn endurtekin tvisvar — „ég heimsæki póverkin og ég heimsæki altárin“ — samhljóða endurtekning."
+    }
+  ],
+  "translation": "Því að á degi er ég hefni póverki Ísraels yfir ⟨honom⟩ mun ég og hefna á altárum Bet-El, og horn altarsins munu verða höggvin og falla til jarðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ed21941dff667967c348f60471a59a030eb60f87c9bd76e8e2b04e1793724f41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/3\/13-15.1792408284527.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "er ég hefni"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "póverk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir ⟨honom⟩"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "mun ég og hefna"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altárum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "og munu verða höggvin"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "horn"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarsins"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "og falla"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "til jarðar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:24.528810160Z",
+  "model": "glm-5.3"
+}

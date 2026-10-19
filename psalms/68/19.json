@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tókt fanga úr haldi",
+      "rationale": "שבית שבי er orðaleikur — 'tókt heldna haldið'; endursagt með samsettu orði."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתנות באדם",
+      "rationale": "Tókst gjafir af mönnum (KJV\/ASV) eða gafst gjafir mönnum (Páll vitnar svo í Efesusbréfi 4:8) — rótin láta bæði til."
+    }
+  ],
+  "translation": "Þú steigst upp á hæðina, þú tókt fanga úr haldi; þú tókst gjafir af mönnum, já, einnig af þrályndum, svo að Ja-Elóhím geti búið ⟨þar⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/17-20.1792410088985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "Þú steigst upp"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "á hæðina"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "Þú tókt"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "fanga úr haldi"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "þú tókst"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "gjafir"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "af mönnum"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "já, einnig"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "af þrályndum"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "svo að ... geti búið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:28.986522753Z",
+  "model": "glm-5.3"
+}

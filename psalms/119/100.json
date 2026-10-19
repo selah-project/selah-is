@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אתבונן er mynd í iðfalli — 'skil ég betur' gefur hvatafallysinguna sem samhengið krefst"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זקנים",
+      "rationale": "orðið þýðir bæði 'öldungar' og 'aldraðir' — sama stofn og 'skegg'"
+    }
+  ],
+  "translation": "Fram yfir aldraða skil ég betur, því að boðorð þín hef ég gætt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/97-100.1792410840576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Fram yfir aldraða"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "skil ég betur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "boðorð þín"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "hef ég gætt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:00.577157285Z",
+  "model": "glm-5.3"
+}

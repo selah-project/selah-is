@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tárin voru mér að brauð",
+      "rationale": "Myndmálið: grát í stað matar — bókstætt haft, eins og hebreskan"
+    },
+    {
+      "kind": "you",
+      "subject": "til sageyrandans",
+      "rationale": "Háð spurningin 'Hvar er Guð þinn?' er beint að salmistanum"
+    }
+  ],
+  "translation": "Tárin voru mér að brauð dag og nótt, þegar þeir segja við mig allan daginn: Hvar er Elóhím þinn?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/42\/1-4.1792409727803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "voru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Tárin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "að brauð"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og nótt"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "þegar segja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Hvar er"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:27.804236731Z",
+  "model": "glm-5.3"
+}

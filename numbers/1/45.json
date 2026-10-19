@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 1:45",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framhaldssagið krefst frumlags; hebreska farsagtengingin v\/»og varð« stendur eitt fyrir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מבן עשרים שנה",
+      "rationale": "Bókstaflegt »frá syni tuttugu ára«; íslenska notar aldursviðmið"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mannatal",
+      "rationale": "Versið tilgreinir viðmið talsögunnar: tuttugu ára og upp á við, allir herskyltir menn"
+    }
+  ],
+  "translation": "Og ⟨þeir⟩ uru allir þeir sem taldir voru meðal sona Ísraels, eftir feðra húsum þeirra, frá tveggja vetra og upp á við, allir þeir sem gengu út í hersveit í Ísrael.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "29bbf48d07db52c6eb129374ee76304d97223695999206efe2b5501884bd05e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/45-48.1792396291769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "uru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "þeir sem taldir voru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eftir húsum"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "feðra þeirra"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "frá tveggja vetra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ára"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "og upp á við"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gengu út"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "í hersveit"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T07:51:31.770656699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משלח ידך",
+      "rationale": "lít. 'sending handar þínar' — allt sem höndin tekur fyrir; hermt 'sendingum handar þinnar'."
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "fornafnið 'hann' bætt við í seinni setningu þar sem hebreska heldur viðhengingu."
+    }
+  ],
+  "translation": "Jahve mun bjóða ⟨את⟩ ⟨með⟩ þér sælu í kornabúrum þínum og í öllu sendingum handar þinnar, og hann mun blessa þig í landinu sem Jahve Elóhím þinn gefur þér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/5-8.1792398354055.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "mun bjóða"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨með⟩ þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sælu"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "sælu"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "í kornabúrum þínum"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og í öllu"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sendingum"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "handar þinnar"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "og hann mun blessa þig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landinu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T08:25:54.056478041Z",
+  "model": "glm-5.3"
+}

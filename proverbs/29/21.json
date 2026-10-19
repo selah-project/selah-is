@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "מנון kemur aðeins fyrir hér í Tanakh; þýtt 'arfgjafi' samkvæmt orðtöku (framhaldandi), en KJV les 'son' og BSB 'sorg'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מנון: 'arfgjafi' (ylt), 'sonur' (KJV\/ASV), 'herra' (jps), 'sorg' (bsb) — rótin er óviss"
+    }
+  ],
+  "translation": "Sá sem mjaðmar þjón sinn frá æsku — hans endir verður arfgjafi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9bef0474573f69c111e98c95d3281ec1fafffe8fd6f88626d7b2c184f0204893",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/29\/21-24.1792411659121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "mjaðmar"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "frá æsku"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "þjón sinn"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "hans endir"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "arfgjafi"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:39.122420323Z",
+  "model": "glm-5.3"
+}

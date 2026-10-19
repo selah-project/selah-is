@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "El",
+      "rationale": "אי er ritað El eftir hljóði, ekki „Guð“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלי אלי",
+      "rationale": "Endurtekið „El minn, El minn“ — hróp með tvöföldum ákalla, varðveitt í íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "to El",
+      "rationale": "Bein áköllguð til Guðs — upphaf klársálms"
+    }
+  ],
+  "translation": "El minn, El minn, hví hefir þú yfirgefið mig, fjarri frelsun minni, orðum öskrats mínis?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/22\/1-4.1792409445046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El minn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El minn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hví"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "hefir þú yfirgefið mig"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "fjarri"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "frelsun minni"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orðum"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "öskrats mins"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:45.047350748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כבד 'þung' um herbúðina merkir fjölmenn, ekki þyngd"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם…גם",
+      "rationale": "endurtekið 'einnig…einnig' undirstrikar tvísýniþunga farmsins"
+    }
+  ],
+  "translation": "Og með honum fór upp bæði vagnalið og riddarar, og herbúðin varð þung ⟨fjölmenn⟩ með miklu móði.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9042361f1e8eb44f2125d2309b6dfccdc9bb5d6c8bd95e50eda40fece25621ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/50\/9-12.1792394056203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "fór upp"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "með honum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bæði"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vagnalið"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "riddarar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "varð"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "herbúðin"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "þung"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "með miklu móði"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:16.203786944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "aldur mannsins",
+      "rationale": "Sjötíu ár — og áttatíu ef krafturinn leyfir; talning á ævi."
+    },
+    {
+      "kind": "crux",
+      "subject": "ורהבם",
+      "rationale": "„Metnaður þeirra” (רהב) — KJV les „kraftur þeirra”; orðið er prýði\/metnaður."
+    },
+    {
+      "kind": "substitution",
+      "subject": "afklippt",
+      "rationale": "גז er að klippa (sem sauði) — hléberi mynd: árin eru klippt af sem ull."
+    }
+  ],
+  "translation": "Dagar ára okkar — í þeim eru sjötíu ár, og ef í krafti, áttatíu ár; en metnaður þeirra er erfiði og ónýti, því að hratt er afklippt, og vér fljúgum í burtu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/90\/9-12.1792410430367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Dagar"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "ára okkar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "í þeim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sjötíu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og ef"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "í krafti"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "áttatíu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "en metnaður þeirra"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "erfiði"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "og ónýti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גז",
+      "gloss": "er afklippt"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "hratt"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "og vér fljúgum í burtu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:10.367959138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Satan",
+      "rationale": "Jahve á beint erindi við Satáninn: 'Hvaðan kemur þú?'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משוט",
+      "rationale": "משוט (að fara fram og aftur) kemur aðeins fyrir hér í Tanakh — sjaldgæft orð, bókstaflega 'að þrýsta fram'."
+    }
+  ],
+  "translation": "Og Jahve sagði við Satáninn: Hvaðan kemur þú? Og Satáninn svaraði ⟨את⟩ Jahve og sagði: Frá því að skjóta fram og aftur um jörðina og göngva um hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b61aea21236c7caf7ce09edca0c4f7e0a2c7373347756c03600e975fba37f913",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/1\/5-8.1792411803879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satáninn"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "hvaðan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kemur þú"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "og svaraði"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satáninn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "að skjóta fram og aftur"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "um jörðina"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "og að göngva"
+    },
+    {
+      "surface": "בה",
+      "gloss": "um hana"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:03.880691294Z",
+  "model": "glm-5.3"
+}

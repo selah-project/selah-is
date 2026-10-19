@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf hjápagening (skalt) sem hebreskan hefur ekki."
+    },
+    {
+      "kind": "crux",
+      "subject": "בוראיך",
+      "rationale": "Fleirtölu ending („skapararnir þínir“) eða eintala með fleirtölu vegsemdar — YLT les fleirtölu, flestar aðrar eintölu."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Bót: áminning beint til lesanda — leggur höfuð til að minnast skaparans á æskudögum."
+    }
+  ],
+  "translation": "Og minnst skaltu ⟨את⟩ skapara þíns á dögum æsku þinnar, áður en kemur dagarnir irnir og nálgast þau ár um þú munt segja: Eigi hefi ég neinan hlust með þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/12\/1-4.1792413169232.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "Og minnst skalt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skapara þíns"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "skapara þíns"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "á dögum"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "æsku þinnar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagarnir"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "irnir"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "og nálgast"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "þau ár"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "um"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "þú munt segja"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Eigi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "hefi ég"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "með þeim"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "neinan hlust"
+    }
+  ],
+  "timestamp": "2026-10-19T12:32:49.232917755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחלקם",
+      "rationale": "KJV les Davíð skiptir með Tsadok og Akímelęk; YLT\/ASV lesa Davíð skiptir þeim — og hebreskan heldur Davíð sem einum frumkvöðul."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לפקדתם",
+      "rationale": "Bókstaflega „heimsókn\/starfafall þeirra”; gefið sem „skipulagi þeirra”."
+    }
+  ],
+  "translation": "Og Davíð ⟨skipti⟩ þeim, og Tsadok af sonum Elasar og Akímelek af sonum Itamar, eftir skipulagi þeirra í þjónustu þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2eba3e8651940b0bc165d42ef5f9ed31d3cecc1f37ae34e5e98849bc29af445f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/24\/1-4.1792415020421.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "Og ⟨skipti⟩ þeim"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "og Tsadok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonum"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "og Akímelek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonum"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "skipulagi þeirra"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "í þjónustu þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:03:40.422069310Z",
+  "model": "glm-5.3"
+}

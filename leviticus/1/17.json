@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elsfórn",
+      "rationale": "אִשֶּׁה er fórn gerð með eldi; orðið heldur rótinni 'esh' (eldur) í sínu lagi"
+    },
+    {
+      "kind": "addition",
+      "subject": "það er",
+      "rationale": "hebreska hefur áherslufornafnið הוּא án sögnar; íslenskan þarf ⟨það er⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכנפיו",
+      "rationale": "'við vængi sína' — sumir lesa 'með vængjunum' (tækið), aðrir 'við vængina' (staður kljúfingsinnar)"
+    }
+  ],
+  "translation": "Og hann skal kljúfa ⟨אתו⟩ það við vængi sína — ekki skal hann skilja það að — og presturinn skal reykja ⟨אתו⟩ það á altarið, á viðinn sem er á eldinum; ⟨það er⟩ brennifórn, elsfórn, ilmur sætleika fyrir Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "261546dbe5d0414c331378bc54f0ce576350a84f02b6fc1ac90f0154a1f084ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/1\/17-17.1792395301159.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "og hann skal kljúfa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "það (fuglinn)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "við vængi sína"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "skal hann skilja að"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "og presturinn skal reykja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "það (fuglinn)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "á altarið"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "viðinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "er á"
+    },
+    {
+      "surface": "האש",
+      "gloss": "eldinum"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brennifórn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það er"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "elsfórn"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ilmur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "sætleika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:01.161108021Z",
+  "model": "glm-5.3"
+}

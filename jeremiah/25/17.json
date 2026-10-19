@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki táknaða þátíð — 'hafði' er bætt við í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "að drekka",
+      "rationale": "ואשקה er orsögn: 'læta drekka' — gert að því að gefa að drekka"
+    }
+  ],
+  "translation": "Og ég tók ⟨את⟩ bikarinn úr hendi Jahve og gaf öllum þjóðunum að drekka, ⟨את⟩ öllum sem Jahve hafði sent mig til.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f3a9fcef836d75bc2d75865396c7c1eae38b7f6ec38af79349c5a189cffd016d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/25\/17-20.1792405966771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Og ég tók"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikarinn"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "bikarinn"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "og gaf að drekka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "hafði sent mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til"
+    }
+  ],
+  "timestamp": "2026-10-19T10:32:46.771958981Z",
+  "model": "glm-5.3"
+}

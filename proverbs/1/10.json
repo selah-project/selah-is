@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אבה er bókstaflega 'andalöngvast, vera hlýðinn' — 'fallast á' fær samþykkið en gleymir andardrættinum"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "bein áminning: 'Sonur minn' — faðirinn kallar á son og heldur athygli hans"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "beint til sonarins í öðru persóni"
+    }
+  ],
+  "translation": "Sonur minn, ef syndingar tæla þig, fallast þú ekki á það.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/1\/9-12.1792411110498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Sonur minn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "tæla þig"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "syndingar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "fallast þú á það"
+    }
+  ],
+  "timestamp": "2026-10-19T11:58:30.499046099Z",
+  "model": "glm-5.3"
+}

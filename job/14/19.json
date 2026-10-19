@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 14:19",
+  "book": "job",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ספיחיה",
+      "rationale": "Annaðhvort 'spontánvöxtur jarðar' (KJV 'things which grow') eða 'flæði vatnsins' (JPS 'overflowings'); ég valdi flæðið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "'Dauðlegur maður' — hebreska leggur áherslu á gerið, ekki kyn."
+    }
+  ],
+  "translation": "Vötnin slífa steinana, flæði þeirra geispar burt rækju jarðarinnar, og von hins dauðlega mans hefir þú eytt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7923ceb8a410aa636914b3416f46a71b3e03e41d9702343a153269018cf76dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/14\/17-20.1792412027132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "steinana"
+    },
+    {
+      "surface": "שחקו",
+      "gloss": "slífa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "תשטף",
+      "gloss": "geispar burt"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "flæði þeirra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "rækju"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "og von"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "hins dauðlega mans"
+    },
+    {
+      "surface": "האבדת",
+      "gloss": "hefir þú eytt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:47.133203531Z",
+  "model": "glm-5.3"
+}

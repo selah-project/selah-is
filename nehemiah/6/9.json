@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "KJV, ASV, JPS og BSB bæta við „ó Guð“ \/ „minn Guð“ á undan „styrktu hendur mínar“ — hebreskan hefur ekkert slíkt hér."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ירפו ידיהם",
+      "rationale": "„að láta hendur sloppna\/slaka“ — hebreskt myndmál um að missa kjark og kraft, ekki bókstafleg hendur."
+    }
+  ],
+  "translation": "Því að allir þeirra óttuðu ⟨את⟩ okkur og sögðu: Hendur þeirra munu sloppna frá verkinu og það verður ekki gert. En nú, styrktu ⟨את⟩ hendur mínar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/6\/9-12.1792414120818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir þeirra"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "óttuðu"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "okkur"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sögðu"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "munu sloppna"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hendur þeirra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "verkinu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "verður gert"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nú"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "styrktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendur mínar"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "hendur mínar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:48:40.819043264Z",
+  "model": "glm-5.3"
+}

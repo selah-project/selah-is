@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sama",
+      "rationale": "בה בליליא er „í þeiri nótt“; „sama“ er bætt við til að tengja við sömu nótt og áletruninni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "veginn",
+      "rationale": "קטיל er peal-þolmynd „var drepinn“ — stíllText heldur biblíulegri lögun með „veginn“."
+    }
+  ],
+  "translation": "Þá sama nótt var Belshatsar konungur Kaldæa veginn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "110ea4dcbde72ebc08ce3487c0598190aa7bc1a4a0132feec0a95a4732d1d335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/5\/29-30.1792413415009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "sama nótt"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "var … veginn"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belshatsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "Kaldæa"
+    }
+  ],
+  "timestamp": "2026-10-19T12:36:55.010609963Z",
+  "model": "glm-5.3"
+}

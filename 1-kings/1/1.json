@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "בא בימים 'kominn fram á daga' — hebreska myndin er 'kominn í dagana', orðatiltæki um hár aldri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יחם er 'verða hlýr' um líkamann; 'honi fannst engi hiti' heldur myndinni frekar en 'gat ekki hlotið hita'."
+    }
+  ],
+  "translation": "Og konungurinn Davíð var orðinn gamall, kominn fram á daga, og þeir huldu hann með klæðum, en honum fannst engi hiti.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/1-4.1792401864069.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "og konungurinn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "var orðinn gamall"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kominn"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "fram á daga"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "og þeir huldu hann"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "með klæðum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "fannst hiti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:24:24.070408861Z",
+  "model": "glm-5.3"
+}

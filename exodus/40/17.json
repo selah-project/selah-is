@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Nákvæm dagsetning: fyrsti mánuður, annað ár, fyrsti dagur mánaðarins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Misjkan",
+      "rationale": "משכן er rétt ritað Misjkan, ekki ‚tjaldbúð‘, samkvæmt D2."
+    }
+  ],
+  "translation": "Og þaðð varð, í fyrsta mánuðinum, á öðru árinu, á fyrsta degi mánaðarins, að Misjkaninn var reistur upp.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/40\/17-20.1792395369923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "í mánuðinum"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fyrsta"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "á ári"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "öðru"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "á fyrsta degi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "mánaðarins"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "var reistur upp"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkaninn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:09.923842927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ónytjamál",
+      "rationale": "דבר בליעל — „mál\/eitur hégóma“, leyst saman í eitt nafn"
+    },
+    {
+      "kind": "crux",
+      "subject": "סטים",
+      "rationale": "„þeir sem víkja af“ (KJV) eða „rangt gert verk“ (JPS) — tvær elles nálganir"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨það⟩ —\/frágangur í íslensku, hebreskan hefur enginn frumlag í seinna hálfuna"
+    }
+  ],
+  "translation": "Ekki set ég framan við augu mín ónytjamál; verk þeirra sem af vík hata ég — ⟨það⟩ skal ekki festa sig við mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a9af1bc5fb3a20b1262574cf68bab85ea7fe5cf29abf63add0fdea9ffc6af3c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/101\/2-3.1792416978002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "set ég"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "framan við"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augu mín"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mál"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ónytja"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "þeirra sem af vík"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "hata ég"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "skal festa sig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "við mig"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:18.003432962Z",
+  "model": "glm-5.3"
+}

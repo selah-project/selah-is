@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 13:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הלאל",
+      "rationale": "Skilið sem upphafsstafur + El ('fyrir El'); aðrir lesa ótengt háloð 'tlá ógurlega'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדברו...תדברו",
+      "rationale": "Endurtekið sögn í samhverfu línu, varðveitt með endurtekningu"
+    }
+  ],
+  "translation": "Munið þér tala órétt fyrir El, og tala svik fyrir hann?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9453e0ce58502f6b4905bb723c0d53c66c8ba6ac61f4174513ce3790c919ebe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/13\/5-8.1792411962700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "fyrir El"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "órétt"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "fyrir hann"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svik"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:42.701023898Z",
+  "model": "glm-5.3"
+}

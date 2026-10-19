@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "ועשית משפטטם, 'gjöra dóma þeirra', er hebreskt ljóðmáli fyrir að veita rétt þeirra; KJV 'maintain their cause'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמים ... מכון שבתך",
+      "rationale": "tvítt í lofið (dual) 'himninum' varðveitt; 'staður setu þinnar' er orðrétt mynd"
+    }
+  ],
+  "translation": "þá skalt þú heyra í himninum, staðsetningu setur þinnar, ⟨את⟩ bæn þeirra og ⟨את⟩ grátbeiðni þeirra, og gjöra dóma þeirra.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/49-52.1792402176736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "þá skalt þú heyra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "í himninum"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "staðsetningu"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "setur þinnar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bæn þeirra"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "bæn þeirra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "grátbeiðni þeirra"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "grátbeiðni þeirra"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gjöra"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "dóma þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T09:29:36.737300753Z",
+  "model": "glm-5.3"
+}

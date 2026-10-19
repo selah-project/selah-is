@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨því⟩\/⟨að⟩ í viðtengingu á sér ekki stoð í hebreskri suffíxmynd, en íslenska krefst andlags við slátra og selja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "shalem",
+      "rationale": "ישלם er hér „greiða bætu“ úr rótinni שלם (gera heilt); íslenskan „greiða“ gleymir myndinni af heild"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versinn skilgreinir nákvæma bætu: fimm naut og fjórar kindur — töluð réttlæti"
+    }
+  ],
+  "translation": "Ef maður stelur nauti eða kind, og slátrar ⟨því⟩ eða selur ⟨það⟩, skal hann greiða fimm naut í stað nautsins og fjórar kindur í stað kindarinnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "afcf93f0ea526ec85e5e6a9434ce17b66acffb57707532c6f4f28d19f09f3a1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/37-37.1792394635450.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "stelur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nauti"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kind"
+    },
+    {
+      "surface": "וטבחו",
+      "gloss": "og slátrar ⟨því⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "selur ⟨það⟩"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "naut"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal hann greiða"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "השור",
+      "gloss": "nautsins"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "og fjórar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kindur"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "השה",
+      "gloss": "kindarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:55.451284177Z",
+  "model": "glm-5.3"
+}

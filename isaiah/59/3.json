@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "sögn í aukasetningu",
+      "rationale": "Hebreskan sleppir sögninni við „fingur ykkar í öryrkjunum“ — íslenskan þolir sömu fellingu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עון \/ עולה",
+      "rationale": "Nálægð orðanna öryrkjar og ógersemi í sömu línu er hljómfall sem glatar í íslensku."
+    }
+  ],
+  "translation": "Því að lófar ykkar hafa saðast í blóði, og fingur ykkar í öryrkjunum; varir ykkar töluðu lygi, tunga ykkar murmar ógersemi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/1-4.1792405026240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "lófar ykkar"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "hafa saðast"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "í blóði"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "og fingur ykkar"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "í öryrkjunum"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "varir ykkar"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "töluðu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lygi"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "tunga ykkar"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ógersemi"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "murmar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:06.241686204Z",
+  "model": "glm-5.3"
+}

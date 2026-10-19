@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sveinn",
+      "rationale": "בן ביתי „sonur húss míns“ — fæddur innanhúss eða hússveinn; 'sonur' myndi villa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרע \/ יורש",
+      "rationale": "fræ-tjáningin heldur myndinni af afkvæmum eins og sáningu, endurtekin í v. 5"
+    }
+  ],
+  "translation": "Og Avram sagði: Sjá, þú hefur ekki gefið mér fræ, og sjá, sveinn í húsi mínu mun erfa ⟨את⟩ mig.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/15\/1-4.1792392863708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "þú hefur gefið"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "fræ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sveinn"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "í húsi mínu"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "mun erfa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mig"
+    }
+  ],
+  "timestamp": "2026-10-19T06:54:23.709890194Z",
+  "model": "glm-5.3"
+}

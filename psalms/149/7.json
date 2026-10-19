@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "בל אמים: בל skýrt sem forneskt forseti ('meðal') eins og í þýðingum; bókstaflega merkir בל 'ekkert\/aldrei'"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "tvíeyrð tillögur að grein í 'áminningar' — hebreskan hefur engan greini á תוכחת"
+    }
+  ],
+  "translation": "Til að framkvæma hefnd meðal þjóðanna, áminningar meðal þjóðflokkanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7ee8d5296e76b1e9801d2f41c109c28dfb8d3a88190615310b1fecb6e31dc545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/149\/6-7.1792416972249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "til að framkvæma"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "hefnd"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "meðal þjóðanna"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "áminningar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "meðal"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "þjóðflokkanna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:12.250523339Z",
+  "model": "glm-5.3"
+}

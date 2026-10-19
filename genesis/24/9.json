@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Possessive 'síns' bætt við á undan אדניו til að greina á milli."
+    },
+    {
+      "kind": "crux",
+      "subject": "undir læri",
+      "rationale": "Þykknunarlær heiðforeiðar; sumir þýða í lausu 'undir fótstrik herrans'."
+    }
+  ],
+  "translation": "Og þrællinn lagði ⟨את⟩ höndina undir lær Avraham, herrans síns, og vann eið honum um þetta mál.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1c8053b494fe727290be6532135371dbc20822e434579fcf839561c4599eb71e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/24\/9-12.1792393077738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "og lagði"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "þrællinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "höndina"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "höndina"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lær"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herrans síns"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "og vann eið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "málið"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T06:57:57.739396735Z",
+  "model": "glm-5.3"
+}

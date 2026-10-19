@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "נפש er lífskraftur, andardráttur — 'sál' er hefð en orðið nær til lífs alls."
+    },
+    {
+      "kind": "crux",
+      "subject": "וחוטא נפשך",
+      "rationale": "Virkni framsöguð eða lýsing? 'Sálin þín syngir' (þú hefur saknað) á móti 'syngi sálin gegn þér' — JPS les 'hefir glatað lífi þínu'."
+    }
+  ],
+  "translation": "Þú hefur ákveðið smán fyrir hús þitt, að eyða þjóðum mörgum, og syngi gegn sér sálin þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "26598228e083b9607a95e47a0fc940e2091217005aaac09c1fc9621c204cfcb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/habakkuk\/2\/9-12.1792408708974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "Þú hefur ákveðið"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "smán"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "fyrir hús þitt"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "að eyða"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "þjóðum"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mörgum"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "og syngi gegn sér"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "sálin þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:18:28.974860486Z",
+  "model": "glm-5.3"
+}

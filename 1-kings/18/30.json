@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וירפא er bókstaflega 'lækna' — Elía læknaði altarið; 'græða' heldur í lækningarmyndinni"
+    },
+    {
+      "kind": "you",
+      "subject": "to fólkinu",
+      "rationale": "Elía ávarpar allt fólkið beint með boðuhætti: Komid til mín"
+    }
+  ],
+  "translation": "Þá sagði Elía öllu fólkinu: Komið til mín! Og allt fólkið kom til hans, og hann græddi ⟨את⟩ altari Jahves, ⟨það⟩ sem rifið hafði verið niður.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/18\/29-32.1792402628701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Þá sagði"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elía"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkinu"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Komið"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "og hann græddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altari Jahves"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahves"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "sem rifið hafði verið niður"
+    }
+  ],
+  "timestamp": "2026-10-19T09:37:08.702831800Z",
+  "model": "glm-5.3"
+}

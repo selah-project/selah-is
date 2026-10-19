@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 44:30",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתנו er H854 ('með'), ekki merkimiðinn H853, en ⟨את⟩ er varðveitt í glósu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er önd\/lífskraftur, ekki ódauðleg sál í síðari merkingu"
+    }
+  ],
+  "translation": "Og nú, þegar ég kem til þjóns þíns, föður míns, og unglingurinn er ekki með okkur — og sál hans er bundin við sál hans —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b1b73b251aa42cd16988a1f1c0c04126fe214b98ef2b5727dafbc8f3899be4a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/44\/29-32.1792393887339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nú"
+    },
+    {
+      "surface": "כבאי",
+      "gloss": "þegar ég kem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjóns þíns"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "föður míns"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "og unglingurinn"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "er ekki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "með ⟨את⟩ okkur"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "og sál hans"
+    },
+    {
+      "surface": "קשורה",
+      "gloss": "er bundin"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "við sál hans"
+    }
+  ],
+  "timestamp": "2026-10-19T07:11:27.340551660Z",
+  "model": "glm-5.3"
+}

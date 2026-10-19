@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הקר er 'gera dýrmætt\/sjaldgjarnt' — 'sjaldgjarnan' heldur myndinni, en vantar sagnbeygingu sem íslenska þarf"
+    },
+    {
+      "kind": "crux",
+      "subject": "saddur af þér",
+      "rationale": "ישבעך 'metti þig\/seiðist á þér' — 'weary of thee' (KJV) gegn 'sated with thee' (JPS); orðið er sömu rót og 'seiðast'"
+    }
+  ],
+  "translation": "Gerðu fót þinn sjaldgjarnan í húsi vinar þíns, aðeins að hann sætti sig ekki við þig og hatri þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fe440564fc10a898150559450bf13af24c6ff93bf6143fb08ef05e032fc14eef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/25\/17-20.1792411606957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "Gerðu…sjaldgjarnan"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "fót þinn"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "vinar þíns"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aðeins að"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "sætti sig ekki við þig"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "og hatri þig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:46.958249270Z",
+  "model": "glm-5.3"
+}

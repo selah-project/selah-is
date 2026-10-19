@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרים\/וזרוה",
+      "rationale": "Sama rót זור: útlendingarnir 'sigt' (winnow) hana — orðaleikur tapast að hluta til í íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "útlendingar",
+      "rationale": "זרים merkir bæði 'útlendinga' og 'þá sem sigta' (fanners hjá KJV); tvíræðnin er í rótinni sjálfri."
+    }
+  ],
+  "translation": "Og ég sendi til Babel útlendinga, og þeir munu sigta hana og tæma ⟨את⟩ land hennar, því að þeir verða gegn henni alls kringum, á degi ófarans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "190fe20ef5a1813b6f762469c12fcfb507bb229a24bd17795740d308c3b3ab64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/51\/1-4.1792406628275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Og ég sendi"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "til Babel"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "útlendinga"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "og þeir munu sigta hana"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "og tæma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land hennar"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "land hennar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "היו",
+      "gloss": "verða"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "gegn henni"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "alls kringum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ófarans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:43:48.275954225Z",
+  "model": "glm-5.3"
+}

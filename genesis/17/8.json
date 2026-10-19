@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מגוריך",
+      "rationale": "‹Landdvölum þína› — það land sem þú dvelst sem útlendingur í; sumir þýða ‹uppheldisland›."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאחזת עולם",
+      "rationale": "‹Varnarhaldi að eilífu› — tekjörfé, land tekið til eignar; myndin varðveitt."
+    }
+  ],
+  "translation": "Og ég mun gefa þér og sáðkvæslu þinni eftir þig landdvölum þína, ⟨את⟩ allt land Kenaan, að eilífu varnarhaldi, og ég mun vera þeim að Elóhím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ff704b0c1123ac105380f63608cad20a98f22253750a2fa2da2300a347ce1918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/17\/5-8.1792392934320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Og ég mun gefa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "og sáðkvæslu þinni"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "eftir þig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "landdvölum þína"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "dvölum þína"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt land Kenaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "að varnarhaldi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífu"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "og ég mun vera"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "að Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T06:55:34.321430983Z",
+  "model": "glm-5.3"
+}

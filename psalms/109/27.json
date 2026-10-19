@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreskan sleppir sagnliðnum; íslenskan krefst hans"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hönd",
+      "rationale": "„hönd Jahve“ merkir máttarverk hans, ekki líkamslíma"
+    }
+  ],
+  "translation": "Og þeir skulu þekkja að hönd þín ⟨er⟩ þetta — þú, Jahve, hefur gjört það.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/25-28.1792410694244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "og þeir skulu þekkja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hönd þín"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "hefur gjört það"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:34.245647276Z",
+  "model": "glm-5.3"
+}

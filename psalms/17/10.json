@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "fitu",
+      "rationale": "חלב myndrænt: fitan lokaði hjartanu — JPS þýðir 'grufuligt hjarta', KMV heldur myndinni 'lokað í eigin fitu'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "stórgíra",
+      "rationale": "גאות merkir hégómi og ofdramb — 'í ofdrambi' einnig mögulegt"
+    }
+  ],
+  "translation": "Fituna sína hafa þeir lokað um sig, munni sínum tala þeir í stórgíru.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/17\/9-12.1792409291317.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "fituna sína"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "hafa þeir lokað"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "munni sínum"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "tala þeir"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "í stórgíru"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:11.317942279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ef þú ber synd þeirra",
+      "rationale": "Setningin brotnar af í hebresku — beiðnin sjálf er ósögð; KJV\/JPS halda brotið með þagnargildi, Geneva setur orð í munn Mósje."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ber",
+      "rationale": "נשא er að \"lyfta\/bera\" synd — fyrirgefa er að bera hana burt."
+    },
+    {
+      "kind": "secret",
+      "subject": "bók Jahve",
+      "rationale": "Bókin sem Jahve hefur skrifað — falið rit með nöfnum lifandi; vísað aftur í 32:33."
+    }
+  ],
+  "translation": "Og nú — ef þú ber synd þeirra … en ef ekki, þá þverraðu mig, bið ég, út af bók þinni sem þú hefur skrifað.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0e979f3fd5d83fb954892228aaa95e5786a404435c29ff6b0e525788d6a166da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/32\/29-32.1792395150720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "þú ber"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "synd þeirra"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en ef"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "þverraðu mig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bið ég"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "út af bók þinni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "þú hefur skrifað"
+    }
+  ],
+  "timestamp": "2026-10-19T07:32:30.723474195Z",
+  "model": "glm-5.3"
+}

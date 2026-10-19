@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פוררת",
+      "rationale": "'braust\/sundi' — söguleg þýðingar segja 'deildir', en orðið merkir að brjóta í sundur"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תנינים",
+      "rationale": "þýtt með hljóði, 'tannín' — úrheimsketa; sumir þýða 'dreka'"
+    }
+  ],
+  "translation": "Þú braust með krafti þínum sjóinn, þú kúftir höfuð tannínanna á vötnunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/74\/13-16.1792410196715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "braust"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "með krafti þínum"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sjóinn"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "þú kúftir"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tannínanna"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vötnunum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:16.716145521Z",
+  "model": "glm-5.3"
+}

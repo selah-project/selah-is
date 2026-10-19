@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "השב תשיבם — óendanlegur infinitive absolute, endurtekin sögn: 'skila skalt þú skila' — flutt yfir sem áhersla 'skila skalt þú'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lögboð beint til Ísraels með þú-formi"
+    }
+  ],
+  "translation": "Ekki skalt þú sjá ⟨את⟩ naut bróður þins eða ⟨את⟩ kind hans rekit frá honum og fela þig fyrir þeim — skila skalt þú þeim aftur bróður þinum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/22\/1-4.1792398185295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "skalt þú sjá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naut bróður þins"
+    },
+    {
+      "surface": "שור",
+      "gloss": "naut"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bróður þins"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kind hans"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "kind hans"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "rekit frá honum"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "og fela þig"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "fyrir þeim"
+    },
+    {
+      "surface": "השב",
+      "gloss": "skila"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "skalt þú þeim aftur"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "bróður þinum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:23:05.296132564Z",
+  "model": "glm-5.3"
+}

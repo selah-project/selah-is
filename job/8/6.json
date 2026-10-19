@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 8:6",
+  "book": "job",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbeygingin 'ert' bætt við — hebreskan sleppir sagnliðnum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק haldið sem hljóðritun, ekki 'réttlæti' — orðmyndin er merkingin"
+    },
+    {
+      "kind": "crux",
+      "subject": "נות צדקך",
+      "rationale": "'Bústaður tsedeks þíns' — sumir þýða 'heimili réttlætis þíns', aðrir 'velgengni sem þú átt skilið'"
+    }
+  ],
+  "translation": "ef þú ert ⟨er⟩ hreinn og réttskeinn, þá mun hann nú vaka fyrir þér og fullkomna bústað tsedeks þíns",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/8\/5-8.1792411826743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "זך",
+      "gloss": "hreinn"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "og réttskeinn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú ert"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þá"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "mun vaka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fyrir þér"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "og fullkomna"
+    },
+    {
+      "surface": "נות",
+      "gloss": "bústað"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeks þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T12:10:26.744586303Z",
+  "model": "glm-5.3"
+}

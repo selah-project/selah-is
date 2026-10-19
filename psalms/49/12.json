@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "בתימו er einkvæmt skáldlegt form (בַּיִת + ם-ending) fyrir 'hús þeirra' — aðeins hér í Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "קרב׮ lesið 'innra hugskot þeirra' (KJV\/JPS) en BSB les 'gröf þeirra' út frá síðari merkingu — hvor er möguleg"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'standa' er sett inn — hebreskan hefur enga sagn; hús þeirra… að eilífu, án sagnar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "lífferðamál: 'kynslóð eftir kynslóð' — ævaflokkar taldir sem búsetutími hinna ríku"
+    }
+  ],
+  "translation": "Innra hugskot þeirra: hús þeirra ⟨standa⟩ að eilífu, bústaðir þeirra kynslóð eftir kynslóð; og lönd þeirra kölluðust eftir nöfnum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/49\/9-12.1792409804365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Innra hugskot þeirra"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "hús þeirra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "bústaðir þeirra"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kynslóð"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "eftir kynslóð"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "kölluðust"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "eftir nöfnum þeirra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "lönd"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:44.366583306Z",
+  "model": "glm-5.3"
+}

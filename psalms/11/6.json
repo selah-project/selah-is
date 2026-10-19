@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פחים",
+      "rationale": "Annað hvort 'garn' (net, KJV\/Geneva) eða 'glóandi grýti' af פח 'þunn málmsíða' (JPS); valið grýtin vegna elds-samhengis"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח merkir vindur andi andardráttur — hér vindur, ritað eftir hljóði samkvæmt reglu D2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטר\/מנת",
+      "rationale": "Regn-myndin speglar hlutdeild-myndinni: það sem rignir er mætt þeirra"
+    }
+  ],
+  "translation": "Hann mun láta rigna yfir óréttmætina glóandi-grýti, eld og brennistein, og vind bræðings — hlutdeild bikars þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/11\/5-7.1792409311396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "mun láta rigna"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "óréttmætina"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "glóandi-grýti"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "og brennistein"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og vind"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "bræðings"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "hlutdeild"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "bikars þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:31.396989274Z",
+  "model": "glm-5.3"
+}

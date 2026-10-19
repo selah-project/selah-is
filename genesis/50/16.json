@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„erindi“ bætt við — hebreskan segir aðeins „báutu“ (צוה), engin skýring til um sendiboða"
+    },
+    {
+      "kind": "crux",
+      "subject": "צוה אל",
+      "rationale": "„báutu til“ — sendu boð eða létu fyrirskipa; hebreskan notar sama sagnorð og boð Jacobs, ekki orðið „senda“"
+    }
+  ],
+  "translation": "Og þeir báutu ⟨er⟩ erindi til Jósefs og létu segja: Faðir þinn bauð fyrir dauða sinn, og sagði:",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a4c65eac678efcb39f7886c6f54ffcdfbaf168576d9a4a9452d2fd66134bde91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/50\/13-16.1792394043648.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "Og þeir báutu erindi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefs"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og létu segja"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Faðir þinn"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "dauða sinn"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:03.649827410Z",
+  "model": "glm-5.3"
+}

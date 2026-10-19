@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 16:12",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נראה",
+      "rationale": "'þegar það sést' (passív af að sjá) eða 'þegar Móab birtist' — ég held passívum lesningunni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבמה",
+      "rationale": "há-platform dýrkunarstaðar — 'hárniðurshæð' heldur myndinni af upphækkaða altarinu."
+    }
+  ],
+  "translation": "Og það mun verða, þegar það sést að Móab er máður á hárniðurshæðinni, að hann kemur í helgidóm sinn til að biðja — en hann mun ekki mega.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/16\/9-12.1792403983561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það mun verða"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "það sést"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "er máður"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "hárniðurshæðinni"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "helgidóm sinn"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "til að biðja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ... ekki"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mun mega"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:43.562514783Z",
+  "model": "glm-5.3"
+}

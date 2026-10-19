@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 51:6",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש er lífskraftur, andardráttur — 'sál' í íslensku er þrengri en hebreska orðið"
+    },
+    {
+      "kind": "crux",
+      "subject": "תדמו",
+      "rationale": "מדם 'verða stödd\/eyðast' — 'perish' (KJV) á móti 'be silent' (grunntjáning) — samhengið styður 'eyðast'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan sleppir sögninni í 'tími hefna er það Jahve' — íslenska setur 'er'"
+    }
+  ],
+  "translation": "Flúið úr miðju Babel og bjargið hver sálu sinni; eyðist ekki í ógjörð hennar, því það er ⟨er⟩ tími hefna fyrir Jahve; laun ⟨er⟩ hann að greiða henni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6b12079319cb122d0bbd1c0020f16750002da9d02127b6f54fa5462b181686a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/51\/6-7.1792416882856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "Flúið"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "úr miðju"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "og bjargið"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu sinni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תדמו",
+      "gloss": "eyðist"
+    },
+    {
+      "surface": "בעונה",
+      "gloss": "í ógjörð hennar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tími"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "hefna"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨er það⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "laun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hann⟩"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "að greiða"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henni"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:42.857403451Z",
+  "model": "glm-5.3"
+}

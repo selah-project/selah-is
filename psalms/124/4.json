@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er heldur 'kvelslíf, andráttur, lífsafli' en 'sál' í nútímaskilningi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלה",
+      "rationale": "נחל þýðir bæði 'vetrarfljót' og 'dalur' — tvíræðni sem glatast í íslensku."
+    },
+    {
+      "kind": "alternative",
+      "subject": "er-háttur",
+      "rationale": "Hebreskan stendur án skilyrðis en samhengið (v.3 og v.5) er ófullkominn hansháttur — 'ef Jahve væri ekki með okkur'."
+    }
+  ],
+  "translation": "Þá hefðu vötnin skolið okkur, fljótið hefði farið yfir sálu okkar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c760b39ca2aeb596c786b052cbbcfc2dce204f6abb1c19ae9e68c4e6f92871aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/124\/4-4.1792416970178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "þá"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "hefðu skolið okkur"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "fljótið"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hefði farið"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sálu okkar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:10.179318093Z",
+  "model": "glm-5.3"
+}

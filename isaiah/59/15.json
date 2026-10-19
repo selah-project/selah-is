@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נעדרת",
+      "rationale": "Nifal-mynd af עדר ('fara á snoða, vantar í raðir') aðeins hér í Tanakh — sannleikurinn 'ekki mættur', eins og hermaður sem vantar"
+    },
+    {
+      "kind": "crux",
+      "subject": "משתולל",
+      "rationale": "'verður rán' — Piel af שלל; sumir lesa 'gerir sig auðbragð' eða 'er rændur'; hinn sem forðast illt verður aflúna"
+    }
+  ],
+  "translation": "Og sannleikurinn var horfinn, og sá sem snýr sér frá illunni verður rán — og Jahve sá það, og það fannst honum illt, því að engin dómur var.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/13-16.1792405024772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "sannleikurinn"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "horfinn"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "og snýr sér"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "frá illunni"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "verður rán"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "og það fannst honum illt"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "í augum hans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "engin"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dómur"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:04.773750557Z",
+  "model": "glm-5.3"
+}

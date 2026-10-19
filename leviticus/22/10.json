@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זר \/ קדש",
+      "rationale": "Andstæðan útlendingur–helgur er endurtekin tvisvar í þversökum (chiasm-lagað formschema), glötuð í þýðingu."
+    },
+    {
+      "kind": "crux",
+      "subject": "תושב",
+      "rationale": "'Fóstumaður' (varanlegur íbúi án ríttis) á móti 'gestur'; JPS les 'tenant'."
+    }
+  ],
+  "translation": "Og hver útlendingur má ekki éta helgihlutinn; fóstumaður prests og dagvinnumaður mega ekki éta helgihlutinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/9-12.1792395997724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "זר",
+      "gloss": "útlendingur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "má éta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helgihlutinn"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "fóstumaður"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prests"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "og dagvinnumaður"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mega éta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helgihlutinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:37.725445708Z",
+  "model": "glm-5.3"
+}

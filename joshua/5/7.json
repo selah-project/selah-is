@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'hann' í ⟨hann⟩ er sett inn — hebreskan segir aðeins הקים 'reis upp' án nefnds frumlags."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Frumlag הקים er óljóst: Jahve (KJV 'he') eða Jósjúa (BSB) — hebreskan nefnir hvorki."
+    }
+  ],
+  "translation": "Og ⟨את⟩ sonu þeirra reisti ⟨hann⟩ upp í stað þeirra; ⟨את⟩ þá umskar Jósjúa, því að óumskornir voru þeir, því að ekki höfðu þeir umskorið ⟨את⟩ þá á leiðinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0b61caaeffa52e2ccd2b329534fb2da4ce913a0ab708d9c86b98f947afb0cacc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/5\/5-8.1792398832031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sonu þeirra"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sonu þeirra"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "reisti upp"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "í stað þeirra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "מל",
+      "gloss": "umskar"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jósjúa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "óumskornir"
+    },
+    {
+      "surface": "היו",
+      "gloss": "voru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "höfðu umskorið"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á leiðinni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:33:52.032886454Z",
+  "model": "glm-5.3"
+}

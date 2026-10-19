@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וכרתי",
+      "rationale": "כרת þýðir bókstaflega 'að skera' — sáttmáli er 'skorinn'; 'gjöra' gleymir myndinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרתי\/ברית",
+      "rationale": "'Skera sáttmála' vísa til dýranna sem skornar voru í tvennt (1. Mós 15)"
+    }
+  ],
+  "translation": "Sjá, dagar koma, segir Jahve, og ég mun gjöra ⟨את⟩ húsi Ísraels og ⟨את⟩ húsi Júda nýjan sáttmála.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f8347211550c452b111ef1858de2d53240464265c492fd2d1f7523dcf423cc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/31\/29-32.1792406092818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "koma"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "og ég mun gjöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "húsi Ísraels"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húsi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "húsi Júda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húsi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmála"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "nýjan"
+    }
+  ],
+  "timestamp": "2026-10-19T10:34:52.819550172Z",
+  "model": "glm-5.3"
+}

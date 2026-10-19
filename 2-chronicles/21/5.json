@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 21:5",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Aldur og ríkisár talin — tölur eins og hebreskan segir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן ... שנה",
+      "rationale": "Hebreskan segir bókstaflega 'sonur þrjátíu og tveggja ára'; íslenskan setur aldur sem lýsingu."
+    }
+  ],
+  "translation": "Þrjátíu og tveggja ára gamall var Jehóram er hann tók ríki, og átta ár réð hann í Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "aa1c99831813ca67dfcb424fda2d7948b82c97947012603a0bb31720b7c4f9e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/21\/5-8.1792415713280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "gamall"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "Þrjátíu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "og tveggja"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ára"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehóram"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "er hann tók ríki"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "og átta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ár"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "réð"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:15:13.281275239Z",
+  "model": "glm-5.3"
+}

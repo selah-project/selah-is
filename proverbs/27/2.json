@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lofi",
+      "rationale": "hebreska hefur aðeins sagnirnar — nafnháttarþýðing 'annar [lofi]' setur framskipun sem íslenska krefst"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זר",
+      "rationale": "זָר merkir bókstaflega 'útlendingur\/framandi maður'; 'annar' er til skýringar samkvæmt samhengi"
+    }
+  ],
+  "translation": "Annar lofi þig, en ekki munnur þinn; framandi, en ekki varir þínar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/1-4.1792411665287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "lofi þig"
+    },
+    {
+      "surface": "זר",
+      "gloss": "Annar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "munnur þinn"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "framandi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "varir þínar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:45.288221624Z",
+  "model": "glm-5.3"
+}

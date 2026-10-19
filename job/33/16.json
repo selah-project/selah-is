@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 33:16",
+  "book": "job",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובמסרם יחתם",
+      "rationale": "'Og innsiglar áminningu þeirra' (KJV) gegn 'innsiglar þeim boðum' (JPS) — hverju er innsiglað, áminningunni eða málinu sjálfu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "opinberar",
+      "rationale": "גלה merkir bókstaflega 'að afhylja'; 'opinbera' heldur myndinni af því að færa fram hið faldna"
+    }
+  ],
+  "translation": "Þá opinberar hann eyru manna og innsiglar áminningu þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3dc3627b8b1b1215cfc8c786d3129a67a10ad326a2f456bdfa55fb31cdd97538",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/33\/13-16.1792412358522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "opinberar hann"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "eyru"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manna"
+    },
+    {
+      "surface": "ובמסרם",
+      "gloss": "og áminningu þeirra"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "innsiglar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:19:18.523592818Z",
+  "model": "glm-5.3"
+}

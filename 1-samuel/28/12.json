@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin ⟨ert⟩ er bætt við — hebreskan segir aðeins 'og þú Sjaúl'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Hvað konan sá — Sjemúel raunverulegan (svo textinn segir) eða sjón sem afhjúpaði fyrir henni hver gesturinn var; ráðgáta sem skýrir skrikið"
+    }
+  ],
+  "translation": "Og konan sá ⟨את⟩ Sjemúel og skrek við í miklum rómi, og konan sagði við Sjaúl og sagði: Hví tældir þú mig — og þú ⟨ert⟩ Sjaúl?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ec0a09f773261b76ecf72cc7eb340c3872193fdc1bfc35e972214acaf1ae316a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/28\/9-12.1792400945687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Og konan sá"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "konan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemúel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemúel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "og skrek við"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "í rómi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "miklum"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og konan sagði"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "konan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaúl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "tældir þú mig"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaúl"
+    }
+  ],
+  "timestamp": "2026-10-19T09:09:05.688934650Z",
+  "model": "glm-5.3"
+}

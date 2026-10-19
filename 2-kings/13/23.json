@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "אוֹתָם er fornafn 'þá' (viðfang Jahve), ekki táknið את í hreinri mynd; geymt sem ⟨את⟩ þá."
+    },
+    {
+      "kind": "crux",
+      "subject": "בריתו את אברהם",
+      "rationale": "את hér er forsetningin 'með\/við' um sáttmálann, ekki viðfangsmerki; geymt sem 'við ⟨את⟩'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þennan dag' fyrir עַתָּה — tvennt: 'fram að nú' eða 'fram á þennan dag'; hebreskan segir 'þá, nú'."
+    }
+  ],
+  "translation": "Og Jahve sýndi þeim náð og miskunnaði þeim og leit til þeirra vegna sáttmála síns við Avraham, Jitskhak og Jaakov, og vildi eyða þeim ekki og kastaði þeim ekki frá ásjónu sinni fram á þennan dag.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/13\/21-24.1792403180586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "Og Jahve sýndi þeim náð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "og miskunnaði þeim"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "og leit til"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "þeirra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sáttmála síns"
+    },
+    {
+      "surface": "את",
+      "gloss": "við ⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitskhak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "og Jaakov"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ... ekki"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "vildi"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "eyða þeim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "kastaði þeim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "frá"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ásjónu sinni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fram á"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "þennan dag"
+    }
+  ],
+  "timestamp": "2026-10-19T09:46:20.587507482Z",
+  "model": "glm-5.3"
+}

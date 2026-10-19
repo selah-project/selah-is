@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למצער",
+      "rationale": "„í litla stund“ (Geneva\/KJV) gegn „nær útrognaðir“ (JPS, lestrar allteksts); orðið getur merkt bæði stuttan tíma og lítinn hluta"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירשו",
+      "gloss-rationale": "sögð mynd getur verið þriðja persónu fleirtölu („þeir áttu“) eða aðrar persónur („þú létst okkur eignast“), vísun óviss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צרינו",
+      "rationale": "„þröstar“ fyrir tsar — orðið er bókstaflega „þrengjandinn“, þröngunin sjálf"
+    }
+  ],
+  "translation": "Í litla stund áttu þjóð helga þíns; þröstar vorir hafa tróðið helgidóm þinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8a4f17accad15b6f8b001313a6ac8672a0951daec6faf19bacd8bfd28239f58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/63\/18-19.1792416772119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "í litla stund"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "áttu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "helga þíns"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "þröstar vorir"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "hafa tróðið"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "helgidóm þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:52.119746839Z",
+  "model": "glm-5.3"
+}

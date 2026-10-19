@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 7:1",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויפקדו",
+      "rationale": "pákad þýðir bókstaflega 'voru taldir\/útkallaðir'; 'settir í embætti' er rýnari en hebreskan segir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hliðverðirnir",
+      "rationale": "השוערים er bókstaflega 'dyraverðirnir'; 'hliðverðirnir' heldur myndinni af hliðunum"
+    }
+  ],
+  "translation": "Og ⟨svo⟩ kom að, er múrinn var byggður og ég hafði reist hurðarnar, voru hliðverðirnir og söngvararnir og levítarnnir settir í embætti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/7\/1-4.1792414188095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og kom að"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "נבנתה",
+      "gloss": "var byggður"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "múrinn"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "og ég hafði reist"
+    },
+    {
+      "surface": "הדלתות",
+      "gloss": "hurðarnar"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "voru settir í embætti"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "hliðverðirnir"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "og söngvararnir"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "og levítarnir"
+    }
+  ],
+  "timestamp": "2026-10-19T12:49:48.096281432Z",
+  "model": "glm-5.3"
+}

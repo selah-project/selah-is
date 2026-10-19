@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "smeltaðir í eldi",
+      "rationale": "צרף er að hreinsa málm í bræðslu — mynd smiðs, ekki almennt pruf"
+    },
+    {
+      "kind": "crux",
+      "subject": "áform mín fara ekki yfir mun minn",
+      "rationale": "KJV les þetta sem vorákvæða ('ég er ákváður að munnur mín brjóti ekki'); hebreskan heldur nútíð — áformin komast ekki yfir varirnar"
+    }
+  ],
+  "translation": "Þú prófaðir hjarta mitt, þú heimsóttir um nótt, þú smeltaðir mig í eldi — ekkert fannst; áform mín fara ekki yfir mun minn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/17\/1-4.1792409354566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Þú prófaðir"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "Þú heimsóttir"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "um nótt"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "þú smeltaðir mig í eldi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ekkert"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "fannst"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "áform mín"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "fara yfir"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mun minn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:14.566984759Z",
+  "model": "glm-5.3"
+}

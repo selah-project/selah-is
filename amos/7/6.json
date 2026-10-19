@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "iðrast",
+      "rationale": "נחם merkir bókstaflega 'andyrst\/súrra' — íðran er nálgun, ekki það sömu orðmynd"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þetta' af זאת birtist tvisvar; fyrri tilvik fellur saman við 'þess'"
+    }
+  ],
+  "translation": "Jahve iðraðist þess; heldur verður þetta ekki, segir Adónaí Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "017278a1acea0664c26e2371618b79c16cd1963aff64f0cfa7194ee702fbaf1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/7\/5-8.1792408486105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "iðraðist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "þess"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "היא",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "verður"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:14:46.105789445Z",
+  "model": "glm-5.3"
+}

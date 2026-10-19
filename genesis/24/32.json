@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 24:32",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "með honum",
+      "rationale": "אתו er forsetningin עת 'með', ekki aleph-tav viðmarkrið H853; engin ⟨את⟩ merkt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "losaði",
+      "rationale": "ויפתח er bókstaflega 'opnaði\/lausnaði' — las belti eða reiðtygi af úlfunum"
+    }
+  ],
+  "translation": "Og maðurinn kom inn í húsið, og hann losaði úlfunana, og gaf strá og fóður úlfunum, og vatn til að þvo fætur hans og fætur mannanna sem ⟨את⟩ með honum voru.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a8750803e87cbde1014221501264eaf8854a7f912168bfd59bd7528bc057f820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/24\/29-32.1792393186284.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Og kom"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "inn í húsið"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "og hann losaði"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "úlfunana"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "strá"
+    },
+    {
+      "surface": "ומספוא",
+      "gloss": "og fóður"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "úlfunum"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "og vatn"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "til að þvo"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "fætur hans"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "og fætur"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "manna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ með honum"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:46.285605891Z",
+  "model": "glm-5.3"
+}

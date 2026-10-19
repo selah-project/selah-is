@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "דומה er þögn\/tútna — mynduð sem 'þögnin', dularfullur staður þagna"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהללו\/הללו",
+      "rationale": "Sálmurinn endar á halél — lofgjört — sem dauðir geta ekki flutt"
+    }
+  ],
+  "translation": "Ekki lofa þeir dánu Ja, og ekki allir þeir sem fara niður í þögnina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/115\/17-18.1792410740827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "þeir dánu"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "lofa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "þeir sem fara niður"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "í þögnina"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:20.828252563Z",
+  "model": "glm-5.3"
+}

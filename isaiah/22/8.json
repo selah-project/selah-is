@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Hebreskan hefur engan grunnorða; sagnarforma ויגל er þriðja persóna karlkyns en lýsingarorð vantar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hús skógarins",
+      "rationale": "בית היער er vopnageymsla Salómons í Jerúsjalajím; heiti geymt en ekki skýrt."
+    }
+  ],
+  "translation": "Og ⟨hann⟩ afhjúpaði ⟨את⟩ hulstrið á Júda, og þú leitst í degi þeim á vopnin í húsi skógarins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/22\/5-8.1792404056933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Og afhjúpaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulstrið á Júda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "hulstrið"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "og þú leitst"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "í degi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "vopnin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húsi"
+    },
+    {
+      "surface": "היער",
+      "gloss": "skógarins"
+    }
+  ],
+  "timestamp": "2026-10-19T10:00:56.935136775Z",
+  "model": "glm-5.3"
+}

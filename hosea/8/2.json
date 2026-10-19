@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þeir · vér",
+      "rationale": "Íslenska þyrftar fornöfn sem hebresku slekkur í sögninni."
+    },
+    {
+      "kind": "alternative",
+      "subject": "spurning eða fullyrðing",
+      "rationale": "JPS les þetta sem spurningu („munu þeir æpa mér?“) vegna háðar tóns Hósea; haft sem fullyrðing hér."
+    }
+  ],
+  "translation": "Mér æpa ⟨þeir⟩: Elóhím minn, ⟨vér⟩ Ísrael þekkjum þig!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/8\/1-4.1792408200207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "æpa þeir"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "þekkjum þig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T11:10:00.208206322Z",
+  "model": "glm-5.3"
+}

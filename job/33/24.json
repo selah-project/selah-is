@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 33:24",
+  "book": "job",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פדע",
+      "rationale": "פדע (að leysa, endurheimta) kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'lausnargjald' vs. 'sáttmáli\/renking' — KJV 'ransom', Wycliffe 'mercy'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחת",
+      "rationale": "gryfja — mynd þess að fara niður í eyðingargryfjuna, ekki 'helvíti'."
+    }
+  ],
+  "translation": "Þá sýnir honum hann miskunnsemi og segir: Leystu hann frá því að fara niður í gryfjuna — ég hef fundið lausnargjald.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cc6254e23284e7038e50475ece7856b6c02669009b7b5f008e83d503baae2543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/33\/24-24.1792417015351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחננו",
+      "gloss": "Þá sýnir honum hann miskunnsemi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og segir"
+    },
+    {
+      "surface": "פדעהו",
+      "gloss": "Leystu hann"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "frá því að fara niður"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "í gryfjuna"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ég hef fundið"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "lausnargjald"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:55.351661832Z",
+  "model": "glm-5.3"
+}

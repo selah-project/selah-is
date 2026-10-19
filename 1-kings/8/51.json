@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnliðurinn 'eru' er veikur í hebresku en nauðsynlegur í íslensku; fornafnið ⟨þeir⟩ bætt við til skýrleika"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כור הברזל",
+      "rationale": "'járnofninn' — myndlíking fyrir þrældóm í Egyptalandi (5. Mós 4:20)"
+    }
+  ],
+  "translation": "því að þjóð þín og arfur þinn eru ⟨þeir⟩, þeir er þú leiddir út úr Mitsrajím, úr miðju járnofninum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c317954c206d9fdfc9eedfab4adf3151c61469722d4752a1a835766769f89269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/49-52.1792402176736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóð þín"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "og arfur þinn"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eru ⟨þeir⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir er"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "þú leiddir út"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "úr Mitsrajím"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "úr miðju"
+    },
+    {
+      "surface": "כור",
+      "gloss": "ofninum"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "járn-"
+    }
+  ],
+  "timestamp": "2026-10-19T09:29:36.737654389Z",
+  "model": "glm-5.3"
+}

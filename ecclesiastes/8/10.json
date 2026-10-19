@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Versinn er orðkvænt: hverjir ganga frá helgum stað og hverjir gleymast — ranglátu sjálfir (KJV) eða hinn réttláti (JPS, ASV); hebreska setningin leyfir bæði."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨þeir⟩ bætt við til að gera gerandann skýran."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הבל er andvari\/ándráttur — ritað sem 'andvari' til að halda myndinni, ekki 'hégómi'."
+    }
+  ],
+  "translation": "Og svo sá ég ranglátana grafna, og þeir fóru og frá helgum stað ganga ⟨þeir⟩, og gleymast í borginni þar sem þeir gjörðu svo — einnig þetta er andvari.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "68a8fb67f868bfeb7fce7381029adc38e08745e2c05a893b9d108f2f01c06b8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/8\/10-11.1792417086689.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "Og svo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sá ég"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ranglátana"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "grafna"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "og fóru"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "og frá stað"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "helgum"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ganga"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "og gleymast"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borginni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjörðu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "andvari"
+    }
+  ],
+  "timestamp": "2026-10-19T13:38:06.689716630Z",
+  "model": "glm-5.3"
+}

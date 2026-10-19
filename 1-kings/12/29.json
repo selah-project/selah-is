@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf umræðuháttinn 'hann' aftur í seinni málsgreininni; hebreskan hefur hann ekki."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hinn eini \/ hinn anna",
+      "rationale": "Hebreska 'annar' er sömu myndar (האחד) í báðum liðum; íslenska verður að greina 'einn' og 'annar'."
+    }
+  ],
+  "translation": "Og hann setti ⟨את⟩ hinn eina í Beit-El, og ⟨את⟩ hinn anna setti hann í Dan.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/12\/29-32.1792402414984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Og setti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinn eini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hinn eini"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hinn anna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hinn anna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "setti"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "í Dan"
+    }
+  ],
+  "timestamp": "2026-10-19T09:33:34.985486510Z",
+  "model": "glm-5.3"
+}

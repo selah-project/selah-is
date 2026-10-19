@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨eru⟩",
+      "rationale": "Íslenska þarf samtengingu; hebreskan segir einfaldlega 'stæðandi fætur vorir'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerúsjalajím",
+      "rationale": "Beint tilhneyging til borgarinnar, hún nefnd á nafn"
+    }
+  ],
+  "translation": "Fætur vorir stóðu í hliðum þínum, Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/122\/1-4.1792410913720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "stóðu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨eru⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Fætur vorir"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "í hliðum þínum"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:13.720942154Z",
+  "model": "glm-5.3"
+}

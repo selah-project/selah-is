@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreska hefur enga sögn; ákveðni 'eru' bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדק haldið óþýtt samkvæmt D2 — réttlæti\/lögmæti í einni rót"
+    }
+  ],
+  "translation": "Ský og þykkmyrkur um kring hann, tsedek og dómr eru grundvöllur hásætis hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/97\/1-4.1792410459345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ský"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "og þykkmyrkur"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "um kring hann"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dómr"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "grundvöllur"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hásætis hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:39.345773675Z",
+  "model": "glm-5.3"
+}

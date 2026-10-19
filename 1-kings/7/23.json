@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 7:23",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "steypthaf",
+      "rationale": "הים er „hafið“ — heiti steyptra keris; haft sem heiti, ekki þýtt"
+    },
+    {
+      "kind": "crux",
+      "subject": "π og hafið",
+      "rationale": "þrjátíu ama um kring af tíu ama þvermáli gefur π=3 — fræg þýðandastríð; textinn segir tölurnar sínar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "þvermál, hæð og ummál hafsins — hrein mælingavers"
+    },
+    {
+      "kind": "crux",
+      "subject": "וקוה",
+      "rationale": "ketiv וקוה lesið וקו — „mænilína“; ritmyndin varðveitt í grunni"
+    }
+  ],
+  "translation": "Og hann gjörði ⟨את⟩ steypthafið, steypt málmi — tíu ölnum frá vör brúnar þess til brúnar þess, kringlót þess um kring, og fimm ölnum hæð þess, og lína þrjátíu ölnum gekk ⟨את⟩ því um kring.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "33701fd0d0bb83b4005a731db5de1f6eea5b4b1460460621e95a6469368eb57b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/7\/21-24.1792402123229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "steypthafið"
+    },
+    {
+      "surface": "הים",
+      "gloss": "steypthafið"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "steypt málmi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ölnum"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "frá brún þess"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "brúnar þess"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kringlót"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "um kring"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fimm"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ölnum"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "hæð þess"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "og lína"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "þrjátíu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ölnum"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "gekk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ því"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "um kring"
+    }
+  ],
+  "timestamp": "2026-10-19T09:28:43.230509529Z",
+  "model": "glm-5.3"
+}

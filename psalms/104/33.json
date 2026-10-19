@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זמר þýðir bókstaflega að klæja strengi tónbúnaðar; 'syngja lof' myndi gleyma myndinni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið 'ég' í 'meðan ég er til' er ekki í hebreskunni, bætt við til skýrleika"
+    }
+  ],
+  "translation": "Ég syng Jahve meðan ég lifi, ég spila strengjahljóðfæri fyrir Elóhím meðan ⟨ég⟩ er til.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0f8e6102456bb3bc270249a1ea47b7d8116ccc079f8644cca50f3ccedeb565d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/104\/33-35.1792410588485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "Ég syng"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "meðan ég lifi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ég spila strengjahljóðfæri"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "fyrir Elóhím"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "meðan ⟨ég⟩ er til"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:48.486255209Z",
+  "model": "glm-5.3"
+}

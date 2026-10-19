@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 32:22",
+  "book": "job",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כמעט ישאני",
+      "rationale": "Bókstaflega \"í lítlu [tíma] tekur hann mig upp\"; þýtt sem \"bera burt\" til að gefa merkinguna um skyndilegan dauða."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עשני",
+      "rationale": "\"Sá er gjörði mig\" — hebreskan hefur ekki orðið \"skapari\" heldur örtengingu sögninnar \"gjöra\" með persónufornafni."
+    }
+  ],
+  "translation": "Því að ekki veit ég að gefa lofstitla — í litlum stund myndi sá er gjörði mig bera mig burt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7154fcaadbf48911912a9f17bfe390c902c246085d8f30c47b695c62bd61ea67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/32\/21-22.1792412293783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "veit ég"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "að gefa lofstitla"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "í litlum stund"
+    },
+    {
+      "surface": "ישאני",
+      "gloss": "myndi bera mig burt"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "sá er gjörði mig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:13.783891916Z",
+  "model": "glm-5.3"
+}

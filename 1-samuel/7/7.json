@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 7:7",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„⟨það⟩“ bætt við sem andlag „heyrðu“; hebreskan hefur ekki andlagið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סרני",
+      "rationale": "„höfðingjar“ fyrir sern-ítalsstitlann Filistímanna; bókstaflega „axlar“ (sérstök titilmýnd, ekki hebreskur konungstitill)."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "„Andlit Filistímanna“ — bókstafleg mynd Óttast andlit = óttast vegna."
+    }
+  ],
+  "translation": "Og Filistímenn heyrðu að synir Ísraels höfðu safnast saman í Mitspa, og höfðingjar Filistímanna fóru upp gegn Ísrael. Og synir Ísraels heyrðu ⟨það⟩ og óttuðust andlit Filistímenna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/7\/5-8.1792400276756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Og heyrðu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistímenn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "höfðu safnast saman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "í Mitspa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "og fóru upp"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "höfðingjar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistímanna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "og heyrðu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "og óttuðust"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistímenna"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:56.761324648Z",
+  "model": "glm-5.3"
+}

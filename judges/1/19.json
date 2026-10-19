@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Jahve var með Júda",
+      "rationale": "Spenna í textanum: Jahve er með Júda, en samt tekst hann ekki að reka íbúendur dalsins — sumir lesa 'hann' sem Júda, aðrir sem Jahve."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúknar járn",
+      "rationale": "רכב ברזל er bókstaflega 'járn-vagna-fjöldi', hervagnar; 'járnvagnar' heldur myndinni."
+    }
+  ],
+  "translation": "Og Jahve var ⟨את⟩ með Júda, og hann tók ⟨את⟩ fjallið í eign, því að ekki var hægt að rekja í burtu íbúendur daljarðarinnar, því að járnvagnar höfðu þeir.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/1\/17-20.1792399423982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ með",
+      "marks": "Júda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "tók í eign"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fjallið"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "fjallið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "að rekja í burtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "íbúendur daljarðarinnar"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "íbúendur"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "daljarðarinnar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vagnar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "járn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "höfðu þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T08:43:43.983640412Z",
+  "model": "glm-5.3"
+}

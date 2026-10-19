@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf viðtökufornafn (þá) sem hebreskin felur í endingunni -ום."
+    },
+    {
+      "kind": "substitution",
+      "subject": "frelsaði",
+      "rationale": "ויצל er að snara burt, rykja úr hendinni — 'snyrta burt' væri jafn bókstæft."
+    }
+  ],
+  "translation": "Og hann gjörði ⟨þeim⟩ svo, og hann frelsaði ⟨את⟩ þá úr hendi sonanna Ísraels, og þeir drápu ⟨þá⟩ ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "af5c80a84db739a4f68a034c38c52cefbb67a756166fd21f5730d4ab0dafc90a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/9\/26-27.1792416462665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og hann gjörði"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨þeim⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "og hann frelsaði"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonanna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "drápu ⟨þá⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T13:27:42.665922559Z",
+  "model": "glm-5.3"
+}

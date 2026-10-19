@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 33:18",
+  "book": "job",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki ósýnileg sála."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלח",
+      "rationale": "'spjót\/skálpíla' — KJS 'sverð' (þýðing af LXX), YLT 'dart'."
+    }
+  ],
+  "translation": "Hann heldur aftur sálu hans frá gryfjunni, og lífi hans frá því að fara yfir með spjóti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/33\/17-20.1792412367133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשך",
+      "gloss": "heldur aftur"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu hans"
+    },
+    {
+      "surface": "מני",
+      "gloss": "frá"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "gryfjunni"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "og lífi hans"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "að fara yfir"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "með spjóti"
+    }
+  ],
+  "timestamp": "2026-10-19T12:19:27.134347888Z",
+  "model": "glm-5.3"
+}

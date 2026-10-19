@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "צדקתך á sæti Nafns ekki skipt út; réttlæti ein verður ekki notað eitt"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "beint ávarp til Jahve í bæn"
+    }
+  ],
+  "translation": "Jahve, leið þú mig í tsedek þínu vegna andstæðinga minna; gjör þú veg þinn slétta fyrir andliti mínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/5\/9-12.1792409182898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "leið þú mig"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "í tsedek þínu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "andstæðinga minna"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "gjör þú slétta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti mínu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "veg þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:22.899083530Z",
+  "model": "glm-5.3"
+}

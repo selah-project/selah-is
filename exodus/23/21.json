@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 23:21",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תמר er rót מרר (bitur) — „bitraðu ekki gegn honum“, en margar þýðingar setja „ógnir hann ekki“ eða „ger þú ekki uppreisn“."
+    },
+    {
+      "kind": "crux",
+      "subject": "לא ישא לפשעכם",
+      "rationale": "\"hann ber ekki\/burði ekki uppreisn yðar\" — „bera“ (נשא) getur merkt „fyrirgefa\" eða „þola ekki\"."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Boð í annarri persónu (eintölu) til Ísraels um sendiboða Jahve."
+    }
+  ],
+  "translation": "Gættu þess frammi fyrir andliti hans og hlýddi á rödd hans, bitraðu ekki gegn honum, því að hann mun ekki bera uppreisn yðar, því að nafn mitt er innra með honum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/21-24.1792394748899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Gættu þess"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "frammi fyrir andliti hans"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "og hlýddi"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "á rödd hans"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "bitraðu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gegn honum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mun bera"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "uppreisn yðar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nafn mitt"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "innra með honum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:48.900561780Z",
+  "model": "glm-5.3"
+}

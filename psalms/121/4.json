@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינום\/יישן",
+      "rationale": "Tvö næstsamhljóða sögn um hvíld — blunda\/sefa — í samstöðu sem eins konar loforð; hrópunin הנה vekur athygli"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "Varðveitandinn nefndur með nafni þjóðarinnar sem hann gætir"
+    }
+  ],
+  "translation": "Sjá, hann blundar ekki né sefur, sá er gætir Ísraels.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/121\/1-4.1792410872050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "blundar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "sefur"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "sá er gætir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:32.052038285Z",
+  "model": "glm-5.3"
+}

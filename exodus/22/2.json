@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זרחה השמש עליו",
+      "rationale": "„sólin rís yfir hann“ — vísa til þess að þjófurinn sé sýnilegur og óvættur; margir lesa myndrænt, ekki bókstaflega um sólarupprás."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "nafnháttar mynd — „bæta skal hann bæta“ — fullkominn óskilgreindur háttur undirstrikar fulla bætu."
+    }
+  ],
+  "translation": "Ef sólin hefur risið yfir hann, er blóðskuld honum að kenna; bæta skal hann fullbæta; ef hann á ekkert, skal hann seljast fyrir þjófnað sinn.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/1-4.1792394747895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "hefur risið"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir hann"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blóðskuld"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bæta"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "fullbæta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hann á"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "skal hann seljast"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "fyrir þjófnað sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:47.896802362Z",
+  "model": "glm-5.3"
+}

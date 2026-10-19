@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "דשנו þýðir bókstaflega 'feita\/smyrja', en merkir hér að fjarlægja öskuna af altarinu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'af öskunni' er bætt við til að gera merkingu דשנו skýra"
+    }
+  ],
+  "translation": "Og þeir skulu hreinsa ⟨את⟩ altarið af öskunni og breiða yfir það klæði af purpura.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b255bd005c0ae83bcb625c5a6ea05617e31a4c4fcbefe9b6164356253f918332",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/4\/13-16.1792396460332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "skulu hreinsa af öskunni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarið"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "og breiða"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir það"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "klæði"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "af purpura"
+    }
+  ],
+  "timestamp": "2026-10-19T07:54:20.333627916Z",
+  "model": "glm-5.3"
+}

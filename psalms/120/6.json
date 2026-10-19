@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er nálgum 'óður\/lifskraftur\/önd' — 'sála' er hefðin en þrengir merkinguna"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "לה (kvenkvæður fornöfn við נפש) fellur niður í íslensku, sálin tekur karlkyn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום\/שונא",
+      "rationale": "andstaða friðar og hatri endurtekin í 120:6–7 byggir uppspennuna í ljóðinu"
+    }
+  ],
+  "translation": "Of lengi hefur sála mín dvaldist með þeim sem hatar friðinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/120\/5-7.1792410867044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Of lengi"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "hefur dvaldist"
+    },
+    {
+      "surface": "לה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sála mín"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "þeim sem hatar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friðinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:27.045136288Z",
+  "model": "glm-5.3"
+}

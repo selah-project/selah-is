@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "forsagnirð ⟨ég⟩ bætt við, hebreska sagnmyndin er fullkomin án gefanda"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עמלט",
+      "rationale": "getur líka verið þátíð 'ég frelsaði' eða lýsingarháttur 'frelsuðum' — YLT les nútíð"
+    }
+  ],
+  "translation": "Því að ⟨ég⟩ frelsaði fátæka er hrópaði, og munaðarlausan, og þann er enginn hjálpaði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/29\/9-12.1792412268085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "⟨ég⟩ frelsaði"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fátæka"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "er hrópaði"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "og munaðarlausan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjálpaði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:48.086296300Z",
+  "model": "glm-5.3"
+}

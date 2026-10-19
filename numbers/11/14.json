@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "of",
+      "rationale": "Hebreska segir aðeins כבד ממני 'þungt frá mér'; 'of' bætt við til skýrleika á íslensku."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כבד ממני",
+      "rationale": "Myndkennd þyngd sem lýsir byrði forystunnar — 'þungt fyrir mig' heldur myndinni."
+    }
+  ],
+  "translation": "Ég má ekki einn saman bera ⟨את⟩ allt þetta fólk, því að það er of þungt fyrir mig.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c2719e650628983d68892c17d09f89d289778e8fd58e4b2a8e4aafeb154802d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/11\/13-16.1792396789027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "Ég má"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "einn saman"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "bera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt þetta fólk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "of þungt"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fyrir mig"
+    }
+  ],
+  "timestamp": "2026-10-19T07:59:49.028644710Z",
+  "model": "glm-5.3"
+}

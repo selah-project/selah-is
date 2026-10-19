@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "sögnin 'nálgast' tekur beint andlag; אל fellur niður í íslensku"
+    }
+  ],
+  "translation": "Þegar þú nálgast borg til að berjast við hana, þá skalt þú boða henni frið.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b2dae9be1df1f72980f92d3961b3be13c96949c81f33f8a1141754d2cb63961a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/20\/9-12.1792398089964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "þú nálgast"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borg"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "til að berjast"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "við hana"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "skalt þú boða"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "frið"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:29.965049215Z",
+  "model": "glm-5.3"
+}

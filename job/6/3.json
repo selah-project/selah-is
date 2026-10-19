@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 6:3",
+  "book": "job",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעו",
+      "rationale": "'gleypast upp' (KJV) gegn 'skyndingsam\/óvarur' (ylt, asv); 'rausast'heldur í miðjunni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hún",
+      "rationale": "Fornafnið 'hún' vísar til vigtana ógæfu úr 6:2; hebreskan segir það ekki"
+    }
+  ],
+  "translation": "Því að nú er hún þyngri en sandur hafanna; þess vegna rausast orð mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "44b7843de4c716c309f2ab5718dd17e7424319d2ab823c76e2ca82a48c8823b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/6\/1-4.1792411892426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "sandur"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "hafanna"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "er þyngri"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orð mín"
+    },
+    {
+      "surface": "לעו",
+      "gloss": "rausast"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:32.427541705Z",
+  "model": "glm-5.3"
+}

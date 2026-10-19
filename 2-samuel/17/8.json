@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er máttkar\/iður-lífskraftur, ekki ólík 'sál' í filosófískri merkingu."
+    },
+    {
+      "kind": "crux",
+      "subject": "את העם",
+      "rationale": "Síðasta את er upphaflega viðtökumark eða fornafnið 'með'; KJV 'with the people' vs. lesning sem beint vísi."
+    }
+  ],
+  "translation": "Og enn sagði Húsjaí: Þú kannt ⟨את⟩ föður þinn og ⟨את⟩ menn hans, að þeir eru kappi, og þeir eru bitrir í sálu sem björn afbúin á vellinum; og faðir þinn er stríðsmaður, og hann mun ekki gista ⟨את⟩ hjá lýðnum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/17\/5-8.1792401495428.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og ... sagði"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Húsjaí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "kannt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föður þinn"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "menn hans"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "menn hans"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "kappi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir eru"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "og ... bitrir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "í sálu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir eru"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "sem björn"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "afbúin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "á vellinum"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "og faðir þinn"
+    },
+    {
+      "surface": "איש",
+      "gloss": "er ... maður"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "stríðs"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ... ekki"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mun gista"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ hjá"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðnum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:18:15.429532313Z",
+  "model": "glm-5.3"
+}

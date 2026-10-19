@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סודו",
+      "rationale": "'ráð hans \/ leyniráð \/ trúnaður \/ vinskapur' — ASV 'friendship', JPS 'counsel'; ráðsseðja (סוד) merkir bæði leynilegt ráðfærì og nánd"
+    },
+    {
+      "kind": "secret",
+      "subject": "סודו",
+      "rationale": "סוד — leyndarráð Jahve, það sem er deilt með hinum réttláta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישרים",
+      "rationale": "fleirtala 'hinir réttlátu' — gerð í eintölu sem 'hinn réttláti' í samræmi við einn nálöza"
+    }
+  ],
+  "translation": "Því að hinn slungi í villingu er óhugnanlegt fyrir Jahve, en með ⟨את⟩ hinum réttláta er ráðgneði hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/29-32.1792411194884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "óhugnanlegt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "hinn slungi í villingu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hinum réttláta"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "hinum réttláta"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "ráðgneði hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:54.885538197Z",
+  "model": "glm-5.3"
+}

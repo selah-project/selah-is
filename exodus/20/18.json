@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sá hljóðin",
+      "rationale": "Hebreskan segir bókstaflega að fólkið 'sá' röddin — sjón og heyrn runnin saman; íslenska þolir þetta helst með 'sá'"
+    },
+    {
+      "kind": "addition",
+      "subject": "þegar \/ ⟨það⟩",
+      "rationale": "Íslenska þarf umsagnarlið og térmörk sem framhaldssagnir ebreskunnar bera sjálfar"
+    }
+  ],
+  "translation": "Og allt fólkið sá ⟨את⟩ hljóðin og ⟨את⟩ logana og ⟨את⟩ hljóð lúðursins og ⟨את⟩ fjallið reykjandi; og þegar fólkið sá ⟨það⟩ skalf það og settist í fjarlægð.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/17-20.1792394588328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "sá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hljóðin"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "hljóðin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "logana"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "logana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "hljóð lúðursins"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hljóð"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "lúðursins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fjallið"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "fjallið"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "reykjandi"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "og sá"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "skalf"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "settist"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "í fjarlægð"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:08.329652385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 35:4",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לבית אבותיכם",
+      "rationale": "orðrétt ‚að húsi feðra yðar‘ — ættarskipan látin gegna hlutverki í íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "deildir levíta",
+      "rationale": "skipan deilda eftir fyrirliggjandi skrá — talningarkerfi"
+    }
+  ],
+  "translation": "Og gerið ⟨yður⟩ tilbúna eftir ættarskipan feðra yðar, eftir deildum yðar, eftir skrá Davíðs konungs Ísraels og eftir rit Sjelómó sonar hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/35\/1-4.1792416099086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכונו",
+      "gloss": "Og gerið tilbúna"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eftir ættarskipan"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "feðra yðar"
+    },
+    {
+      "surface": "כמחלקותיכם",
+      "gloss": "eftir deildum yðar"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "eftir skrá"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ובמכתב",
+      "gloss": "og eftir rit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelómó"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonar hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:21:39.087769285Z",
+  "model": "glm-5.3"
+}

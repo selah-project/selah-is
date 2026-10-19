@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsögnin 'þeir' er bætt við — hebreskan segir aðeins 'og byggja\/búa' með víxlháttarmynd sem hefur þolanda aðra"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירשוה",
+      "rationale": "ירש merkir að taka eignarrétt með því að rekja burt fyrri íbúa — 'erfa' heldur lögfræðilegu mynstrinu en 'eiga' myndi glata því"
+    }
+  ],
+  "translation": "Því að Elóhím mun frelsa Tsíon og byggja borgir Júda, og ⟨þeir⟩ munu búa þar og erfa hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "503df40e5284b605bfe0400e474b0d605e192ba761716613facc52f63df3475f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/36-36.1792416922682.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "mun frelsa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsíon"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "og byggja"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borgir"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "og munu búa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "og erfa hana"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:22.682852319Z",
+  "model": "glm-5.3"
+}

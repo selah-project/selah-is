@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מקרה אחד יקרה",
+      "rationale": "orðróturinn er „hitta af slysni“ — þýtt „eitt atvik muni hitta“"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עיניו בראשו",
+      "gloss": "augu hans eru í höfði hans — myndrænt: vitrin sér þangað sem hann gengur"
+    }
+  ],
+  "translation": "Hinn vitri — augu hans eru í höfði hans, en heimskinn gengur í myrkri; og ég vissi held ég að eitt atvik muni hitta ⟨את⟩ alla þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80412e64eaa0814d410647e55b2f727041e35597ab6af455a2f3d881d43b22c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/2\/13-16.1792412994355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "hinn vitri"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "augu hans"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "í höfði hans"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "en heimskinn"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "í myrkri"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "og ég vissi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "held"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "að atvik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eitt"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "muni hitta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla þeirra"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "alla þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:54.356529178Z",
+  "model": "glm-5.3"
+}

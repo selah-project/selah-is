@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כליות eru líffæri, nýru, en tákna hið innra sjálf; 'reins' í eldri þýðingum"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "יתחמץ af חמץ: 'gerðist súrt\/brauð' um hjartað — mynd af iðrum; JPS 'in a ferment', KJV 'grieved'"
+    }
+  ],
+  "translation": "Því að hjarta mitt gerðist súrt, og í nýrum mínum var ég stunginn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/73\/21-24.1792410136919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "gerðist súrt"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "og í nýrum mínum"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "var ég stunginn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:16.919506649Z",
+  "model": "glm-5.3"
+}

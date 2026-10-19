@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska vélinn והיה krefst framsetningar á íslensku (mun það gerast) í hornsetningunni"
+    },
+    {
+      "kind": "alternative",
+      "subject": "eignum þeirra",
+      "rationale": "חיל merkir bæði „auðæfi“ og „hermáttur“; valið var „eignum“ samkvæmt samhengi ránarinnar"
+    }
+  ],
+  "translation": "Og ⟨mun það gerast⟩ að eignum þeirra verður rænt og hús þeirra verða að auðn; og þeir munu reisa hús en ekki búa í þeim, og planta vínviði en ekki drekka ⟨את⟩ vín sínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zephaniah\/1\/13-16.1792408819119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og mun það gerast"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "eignum þeirra"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "verður rænt"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "hús þeirra"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "að auðn"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "og þeir munu reisa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "búa"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "og planta"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vínviði"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "drekka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vín sínu"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "vín sínu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:20:19.120795181Z",
+  "model": "glm-5.3"
+}

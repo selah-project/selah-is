@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hebreska hefur enga sagnbindingu; 'ert' bætt við á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "Elóhím",
+      "rationale": "bein áheyrn til Guðs sem konungs þjóðarinnar"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישועות",
+      "rationale": "fleirtala 'yeshuot' — 'frelsir' (fleirtölu) jafn vel og eintala"
+    }
+  ],
+  "translation": "Þú ert ⟨sá⟩ konungur minn, Elóhím — bannaðu frelsun Jáakóvs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/44\/5-8.1792409745869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨sá⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konungur minn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bannaðu"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "frelsun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jáakóvs"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:45.869853771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "ensk og íslensk orðsending þarf spurnarhjálparsagnir sem hebreskan sleppir"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיום",
+      "rationale": "'frá deginum af' — bækurnar skiptast milli 'fyrr en dagur var var' (KJV) og 'frá eilífð' (BSB)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפעל ומי ישיבנה",
+      "rationale": "spurningin lokar yfirlýsingunni: ég geri — og hver snýr því aftur? hróp Jahve um ómátt allra andstæðinga"
+    }
+  ],
+  "translation": "Já, frá deginum af er ég ⟨hann⟩, og enginn er sá sem bjargar úr hendi minni; ég framkvæmi, og hver mun snúa því aftur?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/43\/13-16.1792404599554.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Já"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "frá deginum af"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hann⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "úr hendi minni"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "sá sem bjargar"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "ég framkvæmi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "mun snúa því aftur"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:59.555373460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "הטף: „smábörnunum“ (YLT) á móti „fjölskyldum“ (KJV\/ASV) — orðið merkir barnafólk, og „eftir munni“ bendir til mats eftir þörfum"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "„Eftir munni“ — hebreskt myndmál fyrir „eftir þörf“, tekið bókstaflega"
+    }
+  ],
+  "translation": "Og Jósef fæddi ⟨את⟩ föður sinn og ⟨את⟩ bræður sína og ⟨את⟩ allt hús föður sins, brauð eftir munni barnanna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9693dc305891facffcf29817cb52e3235e55f9a7ad44916777d3b594403fb01a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/47\/9-12.1792393909224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Og fæddi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "föður sinn"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður sinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bræður sína"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bræður sína"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allt hús föður sins"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður sins"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "eftir munni"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "barnanna"
+    }
+  ],
+  "timestamp": "2026-10-19T07:11:49.225639211Z",
+  "model": "glm-5.3"
+}

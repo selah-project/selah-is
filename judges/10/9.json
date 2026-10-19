@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ותצר er 'var þröng fyrir \/ var í þrengingu', ekki 'yfirbugaður' — myndin er þrenging, ekki kúgun"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'komst í' bætt við fyrir sagnmyndina ותצר, hebreskan segir bara 'var þröng'"
+    }
+  ],
+  "translation": "Og Ammónítar — synir Ammon — fóru yfir ⟨את⟩ Jórdan til að berjast einnig gegn Júda og gegn Benjamín og gegn húsi Efraíms, og Ísrael komst í mikla þrengingu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "009c45b9a3ac5972de6712fe22ff7cfde225acf1d7fd5becc317e28a47adbdb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/10\/9-12.1792399656251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "fóru yfir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jórdan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jórdan"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "til að berjast"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "gegn Júda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "og gegn Benjamín"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "og gegn húsi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraíms"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "og komst í þrengingu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    }
+  ],
+  "timestamp": "2026-10-19T08:47:36.252539376Z",
+  "model": "glm-5.3"
+}

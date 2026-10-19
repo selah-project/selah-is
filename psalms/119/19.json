@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Þrjú vers byrja á ג: גמל, גל, גר — akrostísk lagning sem glatast í þýðingu."
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "„Fela ekki fyrir mér boðorð þín“ — samsvarar „fela“; þýtt „fyrirlít“ sem „fela“ er rangt, merkingin er að hylja."
+    }
+  ],
+  "translation": "Gestur er ég á jörðinni, fyrirlít ekki fyrir mér boðorð þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/17-20.1792410778988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Gestur"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fyrirlít"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "fyrir mér"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "boðorð þín"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:58.989631509Z",
+  "model": "glm-5.3"
+}

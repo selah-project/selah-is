@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framtíðarhjálparsagnir (mun) bætt við; hebreskan hefur einfalda þátíð\/imprefekt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Jahve ... Jahve",
+      "rationale": "Tvítekið nafn í vísunum — klifrót endurtekið, glatað að hluta í þýðingu"
+    }
+  ],
+  "translation": "Jahve heyrði bæn mína, Jahve mun ⟨taka⟩ til bænarsmjörðs míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/6\/9-11.1792409166133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "bæn mína"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "bænarsmörð míns"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mun ⟨taka⟩ til"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:06.134681357Z",
+  "model": "glm-5.3"
+}

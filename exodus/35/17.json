@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קלעי er virkilega 'sláningar\/skylmingar'; 'tjöld' er nálægasta íslenska orðið fyrir vefjaða sviði garðsins"
+    }
+  ],
+  "translation": "⟨את⟩ tjöldin í garðinum, ⟨את⟩ súlur hans og ⟨את⟩ stallana hans, og ⟨את⟩ fortjaldið við hlið garðsins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "387dd514d427b4d960d2ba6183ac039628bac466275594dee996bd2c5feb9df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/35\/17-20.1792395080195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjöldin í garðinum"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "tjöldin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "í garðinum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "súlur hans"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "súlur hans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stallana hans"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "stallana hans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fortjaldið"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "fortjaldið"
+    },
+    {
+      "surface": "שער",
+      "gloss": "við hlið"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "garðsins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:31:20.195778249Z",
+  "model": "glm-5.3"
+}

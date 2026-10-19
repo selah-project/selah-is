@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "וְאֹתָם vísar til fórnanna úr v.10; 'þau' bætt við til skýrleika"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני יהוה",
+      "rationale": "bókstaflega 'fyrir andliti Jahve'; skilið sem 'fyrir augliti Jahve'"
+    }
+  ],
+  "translation": "Og presturinn sem hreinsar lætur ⟨את⟩ manninn sem hreinsast skal ⟨את⟩ og ⟨þau⟩ standa fyrir augliti Jahve, við dyraganginn á samfundatjaldinu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/14\/9-12.1792395749127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "og lætur standa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "sem hreinsar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manninn sem hreinsast skal"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "sem hreinsast skal"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "og ⟨þau⟩ ⟨את⟩",
+      "marks": "fórnirnar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir augliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "við dyraganginn"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjalds"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "samfundar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:42:29.129069127Z",
+  "model": "glm-5.3"
+}

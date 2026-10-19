@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur enga samtengingu; íslenskan krefst hennar."
+    },
+    {
+      "kind": "mystery",
+      "subject": "spor þín voru ekki þekkt",
+      "rationale": "Vegur Elóhíms í hafinu er ósýnilegur — hulin þekking, endalok þula."
+    }
+  ],
+  "translation": "Í hafinu er vegur þinn, og stígar þínir í mörg vötn, en spor þín voru ekki þekkt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/77\/17-20.1792410184197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "í hafinu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "vegur þinn"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "og stígar þínir"
+    },
+    {
+      "surface": "במים",
+      "gloss": "í vötn"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mörg"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "og spor þín"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "þekkt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:04.198148796Z",
+  "model": "glm-5.3"
+}

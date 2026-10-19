@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "íslenzka þarf samloðir þar sem hebreskan segir aðeins 'ég hann' (אני הוא)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מראש \/ ראשון",
+      "rationale": "'frá höfði\/upphafi' og 'hinn fyrsti' eru sömu rót — upphaf og frumvera falla saman í rhetorík versins"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת אחרנים",
+      "rationale": "ואת lesið sem forsetningin 'með' ('með hinum síðustu') eða sem táknið ⟨את⟩ markandi hina síðustu — hér varðveitt sem ⟨את⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kynslóðirnar",
+      "rationale": "kynslóðirnar eru kallaðar upp frá upphafi — tíminn talinn og raðaður"
+    }
+  ],
+  "translation": "Hver framkvæmdi og gjörði, sá er kynslóðirnar kallar frá upphafi? Ég, Jahve, hinn fyrsti, og ⟨את⟩ hinum síðustu — ég er ⟨sá⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/1-4.1792404652853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "framkvæmdi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "og gjörði"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallar"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "kynslóðirnar"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "frá upphafi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "hinn fyrsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hinum síðustu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "hinum síðustu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er ⟨sá⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:52.855088293Z",
+  "model": "glm-5.3"
+}

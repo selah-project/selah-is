@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnarununa ⟨er⟩ bætt við í tvígang"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lifandi vottorð",
+      "rationale": "עדות vottorð witnessing, ekki bara lög"
+    }
+  ],
+  "translation": "Sæll ⟨er⟩ sá sem varðveitir kunnáttu hans, sá sem leitar hans af öllu hjarta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/1-4.1792410782607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sæll"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "sá sem varðveitir"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "kunnáttu hans"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "af öllu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "sá sem leitar hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:02.608342184Z",
+  "model": "glm-5.3"
+}

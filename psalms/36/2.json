@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאם פשע לרשע",
+      "rationale": "Hver talar? 'Orð' (oracle) uppreisnarinnar TIL ranga mannsins (KJV\/JPS) eða uppreisn RANGA mannsins talar (fyrirsagnarleg lesning, bsb)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "í hjarta mínu",
+      "rationale": "בקרב לבי gæti líka verið 'í hjarta hans' (hugsanlega frávik frá texta); hjarta sálmansins heldur 'mínu'."
+    }
+  ],
+  "translation": "Orð uppreisnarinnar til hins ranga, í hjarta mínu: enginn ótti við Elóhím er fyrir augu hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/36\/1-4.1792409616508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "orð"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "uppreisnarinnar"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "til hins ranga"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "í"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mínu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ótti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "augu hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:36.508798711Z",
+  "model": "glm-5.3"
+}

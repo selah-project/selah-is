@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "lagðist með feðrum sínum",
+      "rationale": "עם אבתיו — mynd slaefa hjá feðrum; eufemísmi um dauða"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„sínum“ bætt við á íslensku; hebreskan hefur aðeins endinguna ־יו"
+    }
+  ],
+  "translation": "Og Davíð lagðist með feðrum sínum og var grafinn í borg Davíðs.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/2\/9-12.1792401914630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "lagðist"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðrum sínum"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "var grafinn"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    }
+  ],
+  "timestamp": "2026-10-19T09:25:14.630774233Z",
+  "model": "glm-5.3"
+}

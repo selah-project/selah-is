@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Fjórar boðsmyndir í röð — inngangsútsöngurinn í musterið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "torg hans",
+      "rationale": "חצרתיו eru umgarðaðir garðar mustersins; 'torg' heldur opinberu rýminu."
+    }
+  ],
+  "translation": "Komið í hlið hans með þakklæti, torg hans með lofgjörð; játið honum þakkir, vegsæmið nafn hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/100\/1-4.1792410550693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Komið"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "í hlið hans"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "með þakklæti"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "torg hans"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "með lofgjörð"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "játið þakkir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "vegsæmið"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:10.694664879Z",
+  "model": "glm-5.3"
+}

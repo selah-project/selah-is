@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er önd\/lífsátt, ekki sál í síðara skilningi; 'sál ykkar' er nálgun."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמאסו \/ תגעל",
+      "rationale": "Tveir nánast samstæðar setningar með samstöðu sögnum (fyrirlita \/ andstyggjast) — samhverf uppbygging sem öllum þýðingum tapast."
+    }
+  ],
+  "translation": "og ef þið fyrirlitið lög mín, og ef sál ykkar andstyggist ⟨את⟩ dóma mína, svo að þið gjörið ekki ⟨את⟩ öll boð mín, til að brjóta ⟨את⟩ sáttmála minn —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "b8c7c19eb040a9f1be83e0f014129552a3de6b565a958f8afbcaed7dde93030c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/13-16.1792396227956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "og ef"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "lög mín"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "fyrirlitið"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og ef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dóma mína"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dóma mína"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "andstyggst"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "sál ykkar"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "svo að ekki"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "gjörið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öll boð mín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "boð mín"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "til að brjóta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáttmála minn"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sáttmála minn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:50:27.957816588Z",
+  "model": "glm-5.3"
+}

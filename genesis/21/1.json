@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פקד 'heimsóti\/minntist' — JPS: remembered, KJV: visited; orðið þekkir bæði framkvæmd og heimsókn."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Endurtekið mönnum 'eins og hann sagði \/ eins og hann talaði' — tveölföld staðfesting á orði Jahve."
+    }
+  ],
+  "translation": "Og Jahve heimsóti ⟨את⟩ Sara, eins og hann hafði sagt, og Jahve gjördi Söru eins og hann hafði talað.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/21\/1-4.1792393040103.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "heimsóti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Söru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hafði sagt"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og gjördi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Söru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hafði talað"
+    }
+  ],
+  "timestamp": "2026-10-19T06:57:20.104261134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבעה \/ שבע",
+      "rationale": "Nafn brunnsins Sjíva hljómar við שבע ('sjö' og 'eið'), sem og Be'er-Sjéva úr 1. Mós 21 — tvöföld orðleik, glataður í þýðingu."
+    },
+    {
+      "kind": "elision",
+      "subject": "העיר",
+      "rationale": "Hebreskan segir 'nafn borgarinnar', án sagnar; íslenskan krefst sagnarinnar 'heitir'."
+    }
+  ],
+  "translation": "Og hann kallaði hana Sjíva; þess vegna heitir borgin Be'er-Sjéva til þessa dags.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "87e152307804b1547e662f81c4918f982e25e5a16c97088a74a3ded420bd283e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/26\/33-35.1792393157290.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og hann kallaði"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana (Sjíva)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Sjíva"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þess"
+    },
+    {
+      "surface": "שם",
+      "gloss": "heitir"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgin"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjéva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dags"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:17.290616292Z",
+  "model": "glm-5.3"
+}

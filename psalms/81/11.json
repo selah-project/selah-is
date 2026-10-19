@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המעלך",
+      "rationale": "hifil af עלה — „fór með þig upp“, ekki almennt „leysti þig út\""
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "Jahve talar beint til lýðs síns"
+    }
+  ],
+  "translation": "Ég er Jahve, Elóhím þinn, ⟨sá⟩ sem fór með þig upp úr landi Mitsrajím; Opna munninn víða, og ⟨ég⟩ mun fylla hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/81\/9-12.1792410254408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "⟨sá⟩ sem fór með þig upp"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "Opna víða"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "munninn"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "og ⟨ég⟩ mun fylla hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:14.409295336Z",
+  "model": "glm-5.3"
+}

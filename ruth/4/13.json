@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hérjun",
+      "rationale": "Hebreskan segir 'Jahve gaf henni hérjun' — meðgöngu — ekki 'gaf henni að eignast barn', og orðið er aðeins nokkrum sinnum í Tanakh."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויבא אליה",
+      "rationale": "'Gekk inn til hennar' er hvíldar-vottorð hjónabands; tekið bókstaflega, ekki falið eins og BSB gerir."
+    }
+  ],
+  "translation": "Og Bóas tók ⟨את⟩ Rút og hún varð honum að konu, og hann gekk inn til hennar, og Jahve gaf hérjun, og hún ól son.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "74b037ff52ec3203f9f2992878e3a2ae3e68d7cc88ba64ad214b7c9b6f428b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/4\/13-16.1792412714698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bóas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rút"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rút"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og hún varð"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "að konu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og hann gekk inn"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "til hennar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "hérjun"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og hún ól"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:14.699387909Z",
+  "model": "glm-5.3"
+}

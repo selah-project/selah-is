@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשרים",
+      "rationale": "Sg. 'sar' = höfðingi; fleirtala 'sarím' — sumir lesa hér 'yfirhöfðingja' en aðrir 'meðal höfðingja'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף כי",
+      "rationale": "'Hvorgi heldur, enn síður' — stigvaxandi neitun í orðatöknu."
+    }
+  ],
+  "translation": "Lúxus hæfir ekki heimskum manni, en ekki heldur að þræll ráði yfir höfðingjum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/19\/9-12.1792411482090.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "hæfir"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "heimskum manni"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "lúxus"
+    },
+    {
+      "surface": "אף",
+      "gloss": "en"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ekki heldur"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "að þræll"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ráði yfir"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "höfðingjum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:04:42.091329769Z",
+  "model": "glm-5.3"
+}

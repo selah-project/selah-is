@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 29:10",
+  "book": "job",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "eignarfall fleirtölu ⟨sínum⟩ bætt við til skýrleika, hebreskan hefur aðeins לחכם"
+    },
+    {
+      "kind": "idiom",
+      "subject": "tungan límdi að gómi",
+      "rationale": "myndrænt tákn um þagnhelgi, látið standa bókstaflega eins og hebreskan"
+    }
+  ],
+  "translation": "Rödd leiðtoga var huld, og tunga þeirna límdi að gómi ⟨sínum⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/29\/9-12.1792412268085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "leiðtoga"
+    },
+    {
+      "surface": "נחבאו",
+      "gloss": "var huld"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "og tunga þeirna"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "að gómi"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "límdi"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:48.085960335Z",
+  "model": "glm-5.3"
+}

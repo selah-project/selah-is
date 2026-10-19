@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraftur, andardráttur — ekki sál í filosófískum skilningi"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפקד",
+      "rationale": "pákad: 'heimsækja' með refsingartilgangi vs. 'refsityllegt heimsókn' — 'hefna' valið vegna samhengis"
+    }
+  ],
+  "translation": "Skulu ég ekki hefna þessa? segir Jahve, og skal sálin mín ekki hefna sig á þjóð ⟨sem er⟩ slík?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d581c71825f6cfcabc96d1fd7c8efb59ff22f7d25e74fcf77d8d9cc995580cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/5\/9-12.1792405349991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Skulu ekki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "hefna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "og"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "á þjóð"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "slík"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "skal hefna sig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    }
+  ],
+  "timestamp": "2026-10-19T10:22:29.991960524Z",
+  "model": "glm-5.3"
+}

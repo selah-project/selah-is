@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רחש",
+      "rationale": "Sjaldgæft orð: „að gjósa“, „að freista“ — „hjartað gýsr“ (fær\/straumar) eða „upphitast“; „órætt“ (KJV „inditing“) er út frá öðrum rót."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenskan þarf samhengisorð sem hebreskan sleppir."
+    }
+  ],
+  "translation": "Hjarta mitt gýsr góðu máli, ég segi verk mín fyrir konungi; tunga mín er penni hraðskrifara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/45\/1-4.1792409819154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "gýsr"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "máli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góðu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ég segi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "verk mín"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "fyrir konungi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "tunga mín"
+    },
+    {
+      "surface": "עט",
+      "gloss": "penni"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "skrifara"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "hrað-"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:59.155286993Z",
+  "model": "glm-5.3"
+}

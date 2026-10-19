@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היעזב מצור שדי",
+      "rationale": "Umræð vs. orðaröð: 'Hættir snjór Líbanons [bergs] sléttunnar' (KJV) á móti 'Yfirgefur snjórinn berg sléttunnar' — hebreska er tvíræð um hver yfirgefur hverja."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שדי (sjálfstætt)",
+      "rationale": "שדי hér er 'svið\/slétta' (heiti Líbanons), ekki Sjaddaí — sömu stafir, annað orð."
+    },
+    {
+      "kind": "alternative",
+      "subject": "זרים",
+      "rationale": "Annar möguleiki: 'útlægar vötur' (vatnsuppsprettur sem falla langt að heiman), eins og ASV."
+    }
+  ],
+  "translation": "Hættir snjór Líbanons frá bergi sléttunnar, eða verða framandi vötur, kaldir dropar, ábúnir?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "70f6398f96cfbcdf984f978fe9fece1f71e4c77e2ff7f588feecc75f3f60160a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/18\/13-16.1792405789369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היעזב",
+      "gloss": "Hættir"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "bergi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sléttunnar"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "snjór"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Líbanons"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "verða ábúnir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötur"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "framandi"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "kaldir"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "dropar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:49.370828877Z",
+  "model": "glm-5.3"
+}

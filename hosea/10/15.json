@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Bejt-El",
+      "rationale": "Hvort Bejt-El er gerandi („Bejt-El mun gera yður þetta“) eða viðtakandi („þetta mun gert við yður, Bejt-El“) er þýðendaágreiningur; frumtextinn leyfir bæði"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "נדמה נדמה — endurtekið sögn undirstrikar algjöra eyðingu; endurtekningin varðveitt með „eyðast, algjörlega eyðast“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעת רעתכם",
+      "rationale": "Endurtekinn rót רע (vondleiki vondleika yðar) munar í frumtextanum"
+    }
+  ],
+  "translation": "Svo mun Bejt-El gera við yður, vegna vondleika vondleika yðar; við dögun mun konungur Ísraels eyðast, algjörlega eyðast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "85cedc65ef27f6d9c20f2c180b5cd1d55d9a12f5b6b3651560e39d494ed1f5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/10\/13-15.1792408180053.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "svo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "við yður"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bejt-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "vondleika"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "vondleika yðar"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "við dögun"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "eyðast"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "algjörlega eyðast"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T11:09:40.054469031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "rúakh er ritað eftir hljóði (D2) — vindur\/andi\/andon í einu orði, ekki skipt"
+    },
+    {
+      "kind": "crux",
+      "subject": "skapa",
+      "rationale": "ברא — 'skapa' (aðeins um Guð í Biblíunni) vs 'útbúa' (ylt: 'prepare')"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnbeyging í stýfðri boðháttarsetningu; hebreskan hefur ekki sama orðafjölda"
+    }
+  ],
+  "translation": "Hjarta hreint skapaðu í mér, Elóhím, og rúakh staðfastri endurnýjaðu í ⟨mér⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0097f483491bb6fd1314892c66dc1dabbae0d15b7d10a1d67016f92a3c1712d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/12-12.1792416900956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hreint"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapaðu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "í mér"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "og rúakh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "staðfastri"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "endurnýjaðu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "í innra mér"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:00.956864010Z",
+  "model": "glm-5.3"
+}

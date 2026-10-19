@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחנהו",
+      "rationale": "„herbúðir hans” (her Jahve, sjá YLT) vs „herbúðir þeirra” (fólksins, KJÁK\/JPS) — ensuffixið er 3. pers. et."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„því” bætt við — sögnin ויפל hefur ekki andlag í þessari vers"
+    }
+  ],
+  "translation": "Og hann lét því falla í miðju herbúða hans, í kringum bústaði hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/25-28.1792410228098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "og hann lét falla"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "herbúða hans"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "í kringum"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "bústaði hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:48.098916555Z",
+  "model": "glm-5.3"
+}

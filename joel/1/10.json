@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדד שדה",
+      "rationale": "Póronomasía: 'shúdad sáde' — sömu stafir í sögn og nafni, eyðileggingin og akurinn falla saman; glatað í íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הוביש",
+      "rationale": "Rótin merkir bæði 'að skammast sín' og 'að þorna upp' — 'svipast' heldur tvíræðninni að hluta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "grain, new wine, oil",
+      "rationale": "Versinn telur grunnfæðuna þrjá — korn, vín og olíu — fastan þrjárskiptan vigslu í Tanakh."
+    }
+  ],
+  "translation": "Rént er akurinn, jörðin syrgir, því korninu hefur verið rænt; nývíninu er svipast, olían ferr niður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/1\/9-12.1792408301723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "rént er"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "akurinn"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "syrgir"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "hefur verið rænt"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "korninu"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "er svipast"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "nývíninu"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ferr niður"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "olían"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:41.724121723Z",
+  "model": "glm-5.3"
+}

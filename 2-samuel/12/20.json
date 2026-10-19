@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 12:20",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sig \/ fyrir honum",
+      "rationale": "Hebreska segir aðeins 'þvoði, smurði, fallaðist' — endurspeglanir atviksorð í þágufalli eru sett í íslenskunni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lét fallast",
+      "rationale": "וישתחו er 'prostraðist, fallaði fram' — líkamsmynd tilbeiðslunnar er haldið."
+    }
+  ],
+  "translation": "Þá reis Davíð af jörðinni og þvoði sig og smurði sig og skipti um klæði sín og gekk í hús Jahve og lét fallast fyrir honum, og kom heim í hús sitt og bað, og þeir settu fyrir honum brauð og hann át.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/17-20.1792401376994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Þá reis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "af jörðinni"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "og þvoði sig"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "og smurði sig"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "og skipti um"
+    },
+    {
+      "surface": "שמלתו",
+      "gloss": "klæði sín"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og gekk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í hús"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "og lét fallast fyrir honum"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heim í"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hús sitt"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "og bað"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "og þeir settu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "og hann át"
+    }
+  ],
+  "timestamp": "2026-10-19T09:16:16.995676368Z",
+  "model": "glm-5.3"
+}

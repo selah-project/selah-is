@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 59:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משגב",
+      "rationale": "Orðið er 'klettaklettur, há óaðgengilek staður' — 'hár klettaborg' heldur myndinni, en almennar þýðingar segja 'virki' eða 'skjól'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "khesed er fest sem hljóðritun — 'miskunn' eitt er of þröng þýðing á sáttmála-útryggð þessa orðs."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וארנן",
+      "rationale": "Rótin merkir bókstaflega 'að gnyrja' — hátíðilegt hróp; 'að syngja hátt' er annar möguleiki."
+    }
+  ],
+  "translation": "En ég vil syngja mátt þinn, og ég vil fjúka af khesed þínum í morgunsárið, því að þú hefur verið mín hár klettaborg og flóttastaður fyrir mér á degi þrengingar minnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/17-18.1792409930538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "אשיר",
+      "gloss": "vil syngja"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "mátt þinn"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "og ég vil fjúka"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "í morgunsárið"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed þinn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "היית",
+      "gloss": "þú hefur verið"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hár klettaborg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mín"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "og flóttastaður"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "þrengingar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:50.538706237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "frumlagsviðurnefnið „henni“ (jörðin úr v. 5) bætt við — hebreskan sleppir því."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תהום",
+      "rationale": "„Djúpin“ fyrir תהום — öldusjúandi djúpmar, sama orð og í 1. Mós 1:2."
+    }
+  ],
+  "translation": "Djúpin ⟨þektiðir⟩ ⟨את⟩ henni sem klæði — yfir fjöllin stóð vatnið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/104\/5-8.1792410540297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Djúpin"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "sem klæði"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "þektiðir"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fjöllin"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "stóð"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatnið"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:00.298065943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חבל חבלנו",
+      "rationale": "Nafnháttur endtekinn — 'svikbrótið höfum vér svikið' — hebresk áherslummynd, gjörburt í algildum þýðingum ('dealt very corruptly')."
+    },
+    {
+      "kind": "crux",
+      "subject": "חבל",
+      "rationale": "Rótin merkir að binda\/með veði; 'svika' vs 'gjörast ílla' vs 'spilla' — þýðendar skiptast."
+    }
+  ],
+  "translation": "Svikbrótið höfum vér svikið gegn þér, og vörðum ekki ⟨את⟩ boðorðin og ⟨את⟩ settningarnar og ⟨את⟩ dómana, sem þú bauðst ⟨את⟩ Mósje, þjóni þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nehemiah\/1\/5-8.1792414080545.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "Svikbrótið"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "höfum vér svikið"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gegn þér"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "vörðum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boðorðin"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "boðorðin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "settningarnar"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "settningarnar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dómana"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dómana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "þú bauðst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mósje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjóni þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:48:00.546578061Z",
+  "model": "glm-5.3"
+}

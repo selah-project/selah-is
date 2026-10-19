@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "Tvö neituð boðorð beint til lesandans: öfundast ekki, girnst ekki."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "H854, forsetningin 'með' — ber ⟨את⟩-merkið og vísað í 'þeim'."
+    }
+  ],
+  "translation": "Alls ekki öfundast þú mönnum illsku, og alls ekki girnst að vera með ⟨את⟩ þeim.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/24\/1-4.1792411587377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "öfundast þú"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "mönnum"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "illsku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og alls ekki"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "girnst"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "að vera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:27.378265367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "munu",
+      "rationale": "framtíðarmerking bætt við, hebreskan segir einfaldlega 'verða'"
+    }
+  ],
+  "translation": "Eins og þeir munu gerendur þeirra verða, allir þeir sem treysta á þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/135\/17-20.1792410927429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "eins og þeir"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "munu verða"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "gerendur þeirra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "treysta"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "á þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:27.429788248Z",
+  "model": "glm-5.3"
+}

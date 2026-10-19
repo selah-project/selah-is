@@ -1,0 +1,174 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 14:7",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lífi",
+      "rationale": "נֶפֶשׁ er 'óshol\/lífskraftur' (kviður, andardráttur), ekki 'sál' í grískum skilningi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושארית \/ נשארה",
+      "rationale": "Endurtekning rótar שׁאר: 'glóðin sem eftir er' og 'leiftrin' — myndmálið um eina eftirstandandi glóð tengist orðinu um leiftrina."
+    },
+    {
+      "kind": "idiom",
+      "subject": "slökkva glóðinni",
+      "rationale": "Glóðin (גַּחֶלֶת) stendur fyrir síðasta ættarvottin; myndlitingur varðveittur en ekki orðatök."
+    }
+  ],
+  "translation": "Og sjá, allt ættbálkinn ris upp gegn þinni ambátt, og þeir sögðu: Gef þeim ⟨את⟩ sem laut bróður sinn, og vér megum deyfa hann fyrir líf bróður hans er hann drap, og svo eyðum vér og ⟨את⟩ arfanum; og svo slökkva þeir ⟨את⟩ glóðina mína sem eftir er, svo að ekki verði manni mínum nafn né leiftr eftir á yfirborði jarðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8822c0ad97eefc47f5a671ecbbe6c040834106384360afea431b1cc633405820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/14\/5-8.1792401437863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Og sjá"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ris upp"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "ættbálkinn"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "þinni ambátt"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og þeir sögðu"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Gef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þeim sem laut bróður sinn"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sem laut"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður sinn"
+    },
+    {
+      "surface": "ונמתהו",
+      "gloss": "og megum deyfa hann"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "fyrir líf"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bróður hans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "drap"
+    },
+    {
+      "surface": "ונשמידה",
+      "gloss": "og eyðum vér"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arfanum"
+    },
+    {
+      "surface": "היורש",
+      "gloss": "arfanum"
+    },
+    {
+      "surface": "וכבו",
+      "gloss": "og slökkva þeir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "glóðina mína"
+    },
+    {
+      "surface": "גחלתי",
+      "gloss": "glóðina mína"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "eftir er"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "svo að ekki"
+    },
+    {
+      "surface": "שום",
+      "gloss": "verði"
+    },
+    {
+      "surface": "לאישי",
+      "gloss": "manni mínum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafn"
+    },
+    {
+      "surface": "ושארית",
+      "gloss": "né leiftr"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yfirborði"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "jarðar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:17:17.864476490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Verse ends mid-speech; the content of what Moses said is not given here."
+    },
+    {
+      "kind": "addition",
+      "subject": "til þeirra",
+      "rationale": "אלהם (to them) requires the preposition 'til' in Icelandic; Hebrew uses one word."
+    }
+  ],
+  "translation": "Og Mósje fór niður til lýðsins og sagði ⟨til⟩ þeirra:",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "beb2e3e3645484bc58603433f65d273323c0871b2807a4c7ee18274e8ef840e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/19\/25-25.1792394494682.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "og fór niður"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðsins"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨til⟩ þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:21:34.684021149Z",
+  "model": "glm-5.3"
+}

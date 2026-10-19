@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "„Láta nafn hverfa“ fyrir „eyða nafni“ — hebreskan notar orðið אבד (glata) um nafnið"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמים\/שמם",
+      "rationale": "Næstum hljóðlíking: „nafn þeirra“ (שמם) og „himnar“ (השמים) — nafnið hverfur undan himnunum"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið „hann“ bætt við í upphafi — hebreskan heldur aðeins sögninni"
+    }
+  ],
+  "translation": "Og hann mun gefa konunga þeirra í hönd þína, og þú munt láta nafn þeirra hverfa undan himnunum; enginn maður mun standast andlit þitt, uns þú hefur eytt ⟨את⟩ þeim.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1d989ccd62863d365d2f782a116dc1b23206af0a32478de209e8c43a99747356",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/7\/21-24.1792397764451.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Og hann mun gefa"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "konunga þeirra"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "í hönd þína"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "og þú munt láta hverfa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn þeirra"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nafn þeirra"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "undan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnunum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "mun standast"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "andlit þitt"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uns"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "þú hefur eytt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T08:16:04.452405054Z",
+  "model": "glm-5.3"
+}

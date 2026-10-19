@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אף er nef og nostrar; af myndinni kemur reiðin"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חרון er bókstafleg brennsla reiði; 'bræði' nær skapi hennar en missir eldmyndina"
+    }
+  ],
+  "translation": "Þá talar hann til þeirra í reiði sinni, og í bræði sinni lætur hann þá skjálfa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/2\/5-8.1792409209463.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "til þeirra"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "í reiði sinni"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "og í bræði sinni"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "lætur hann þá skjálfa"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:49.464026821Z",
+  "model": "glm-5.3"
+}

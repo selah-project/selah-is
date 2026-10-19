@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„að þú“ bætt við til að gera hlutsetningu skýra"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "viðvörun beint að Ísrael — öryggisvísa gegn því að gleyma"
+    }
+  ],
+  "translation": "Gættu þess að þú gleymir ekki ⟨את⟩ Jahve, sem leiddi þig út úr landi Mitsrajím, úr þrælahúsi.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/9-12.1792397659300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Gættu þess"
+    },
+    {
+      "surface": "לך",
+      "gloss": "að þú"
+    },
+    {
+      "surface": "פן",
+      "gloss": "að ... ekki"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "gleymir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "leiddi þig út"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "út úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "úr húsi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "þræla"
+    }
+  ],
+  "timestamp": "2026-10-19T08:14:19.302121802Z",
+  "model": "glm-5.3"
+}

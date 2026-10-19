@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביקרותיך",
+      "rationale": "'Ígripti þín' (dýrgripi konungsins) eða 'ærueinkunar-konur þínar' (KJV 'honourable women') — orðið er tvírætt."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שגל",
+      "rationale": "Sjaldgæft orð fyrir drottningu, bókstaflega 'hin helgaða', einungis þrisvar í Tanakh."
+    }
+  ],
+  "translation": "Dætur konunga eru meðal ígripta þinna; drottningin stendur við hægri hönd þína í hreinu gulli úr Ofír.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/45\/9-12.1792409783289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Dætur"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konunga"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "ígripta þinna"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "stendur"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "drottningin"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "við hægri hönd þína"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "í hreinu gulli"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "úr Ofír"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:23.290356924Z",
+  "model": "glm-5.3"
+}

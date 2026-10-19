@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא פנים",
+      "rationale": "'að bera andlit' = að sýna hlutsemi taka að sér málstað; bókstafleg mynd varðveitt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוכח יוכיח",
+      "rationale": "infinitivus absolutus frammi fyrir sögn — 'ákafa viðhaldið' eins og í rabínskri lýsingu"
+    }
+  ],
+  "translation": "Sannarlega mun hann áminna ⟨את⟩ ykkur, ef þér barið í leyni andlit.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a03f396d8017cd9af76fc3885c64bd789e66619cf0b77c44e0b2edf7dd66d9e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/13\/9-12.1792411954754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "sannarlega mun"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "áminna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "í leyni"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "þér barið"
+    }
+  ],
+  "timestamp": "2026-10-19T12:12:34.755535898Z",
+  "model": "glm-5.3"
+}

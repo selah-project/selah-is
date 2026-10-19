@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאל",
+      "rationale": "Rótin endur-leysa (גאל) kemur fimm sinnum fyrir í versinu; endurtekningin er stílfærð og markar afslætti endurleysandans — varðveitt með 'endurleysa' í öllum tilvikum."
+    },
+    {
+      "kind": "crux",
+      "subject": "לגאול לי",
+      "rationale": "Lestrar: 'fyrir mig' (á mitt leyfi, KJV) eða 'mín eigindyggð' — hjá YLT 'fyrir mig sjálfan'."
+    }
+  ],
+  "translation": "Og endurleysandinn sagði: Ég get ekki endurleyst fyrir mig, svo að ég spilli ekki ⟨את⟩ erfðalandi mínu; endurleyst þú fyrir þig ⟨את⟩ endurleysi mitt, því að ég get ekki endurleyst.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "425ef71b8a33cf4ed1d22e11ca9ece2c65f9e0aa4706095932963875a9945f18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/4\/5-8.1792412736635.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagði"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "endurleysandinn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "Ég get"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "endurleyst"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að ekki"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "spilli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erfðalandi mínu"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "erfðalandi mitt"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "endurleyst"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "endurleysi mitt"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "endurleysi mitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ég get"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "endurleyst"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:36.636127537Z",
+  "model": "glm-5.3"
+}

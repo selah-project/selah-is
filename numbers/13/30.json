@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלה נעלה \/ יכול נוכל",
+      "rationale": "Endurtekinn rót í tvennu: „farum upp — förum upp“ og „megum — megum“; styrkur ræðunnar tapast hluta til á íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Fornafnið ⟨það⟩ bætt við fyrir לה sem stendur eitt og hljómar stutt á íslensku."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "Sögn וירשנו hefur afturbeygt aukmynd; „hana“ nær merkingunni en eyðamerki söguðu hverfur."
+    }
+  ],
+  "translation": "Þá þagði Kaleb ⟨את⟩ lýðnum fyrir Mósje og sagði: Sömulum skulum vér fara upp og höfum ⟨את⟩ hana í arf, því að vér megum ⟨það⟩ vel.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "74981d40120b5fc08c207594df6e041d32164833b8dbfc0bdab3308e8d37e936",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/13\/29-32.1792396805468.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "Þá þagði"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lýðnum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðnum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Sömulum fara upp"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "skulum vér fara upp"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "og höfum í arf"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ hana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "megum"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "vel megum"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨það⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T08:00:05.469488619Z",
+  "model": "glm-5.3"
+}

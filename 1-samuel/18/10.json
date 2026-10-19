@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 18:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er 'rúakh' — vindur, andi, andardráttur — ekki 'andi' einn."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויתנבא",
+      "rationale": "'spáði' er rótin נביא; JPS gefur 'gekk örvæntingafullur' því samhengið er ras Sjáúls, ekki sannspá."
+    }
+  ],
+  "translation": "Og næsta dag gekk vond rúakh frá Elóhím yfir Sjáúl, og hann spáði inni í húsinu, en Davíð sló á strengjum með hendi sinni, dag eftir dag, og spjótið var í hendi Sjáúls.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "9cbcbd1c84569f80b6e0663f5ac2250682273701ea7a4fdef6542f485ccafa35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/18\/9-12.1792400660773.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og var það"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "næsta dag"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "gekk yfir"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vond"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "spáði"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "inni í"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsinu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en Davíð"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "sló á strengjum"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "með hendi sinni"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "eins og dag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "eftir dag"
+    },
+    {
+      "surface": "והחנית",
+      "gloss": "og spjótið"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hendi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúls"
+    }
+  ],
+  "timestamp": "2026-10-19T09:04:20.774806914Z",
+  "model": "glm-5.3"
+}

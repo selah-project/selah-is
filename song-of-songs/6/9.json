@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 6:9",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תמתי (af תָּם) merkir 'heil, fullkomin, óspillt'; 'fullkomin' heldur lögun orðsins"
+    },
+    {
+      "kind": "crux",
+      "subject": "ברה",
+      "rationale": "Rót בַּר: 'útvöld' (KJV 'choice one') eða 'tær, hrein' (LXX ἀμόλυντος); her 'útvöld'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת היא",
+      "rationale": "Endurtekningin 'ein er hún' í kringum versið er stíllbragð; varðveitt bæði sýnin"
+    }
+  ],
+  "translation": "Ein er hún, dúfan mín, hin fullkomna mín; ein er hún móður sinni, útvöld er hún fyrir þeirri er ól hana. Dætur sáu hana og heilluðu hana, drottningar og hjákonur, og þær lofuðu hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/6\/9-12.1792412598908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "היא",
+      "gloss": "er hún"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "dúfan mín"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "hin fullkomna mín"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ein"
+    },
+    {
+      "surface": "היא",
+      "gloss": "er hún"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "móður sinni"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "útvöld"
+    },
+    {
+      "surface": "היא",
+      "gloss": "er hún"
+    },
+    {
+      "surface": "ליולדתה",
+      "gloss": "fyrir þeirri er ól hana"
+    },
+    {
+      "surface": "ראוה",
+      "gloss": "sáu hana"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Dætur"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "og heilluðu hana"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "drottningar"
+    },
+    {
+      "surface": "ופילגשים",
+      "gloss": "og hjákonur"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "og þær lofuðu hana"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:18.908756398Z",
+  "model": "glm-5.3"
+}

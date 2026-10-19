@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 3:20",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eru",
+      "rationale": "Hebreska fornafnið הם „þeir“ ber áhersluna; íslenskan setur sögnina „eru“ í staðinn"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ættaskrá",
+      "rationale": "Lok formlegrar telningar ætta Leví eftir feðra húsum"
+    }
+  ],
+  "translation": "Og synir Merarí eftir ættum þeirra: Maklí og Musjí. Þetta eru ættir Levíta eftir feðra húsum þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f89feb74718452824a5abb5ced7a04b5707ec384c9b809b9654b4b6051610fe0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/3\/17-20.1792396420086.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og synir"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merarí"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "eftir ættum þeirra"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Maklí"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "og Musjí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "eru"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ættir"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levíta"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eftir húsum"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "feðra þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:53:40.087387763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "עלע (svopa\/sjúga upp) kemur aðeins fyrir hér í Tanakh — sjaldgæft orð um blóðsugu unga ernisins"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חללים er 'hinir gaddaðu\/hinir felldu' — drepnir með vopni, ekki óvígir dauðir"
+    }
+  ],
+  "translation": "Og ungar hans svopa upp blóð, og þar sem hinir felldu eru, þar er hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fe33652b2fcc3c36789ae5a217160e910ee9c6cc4decc1345fc127f39b3a5241",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/39\/29-30.1792412500151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "Og ungar hans"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "svopa upp"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóð"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "og þar sem"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "hinir felldu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "er hann"
+    }
+  ],
+  "timestamp": "2026-10-19T12:21:40.151948062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'er' bætist við; hebreskan hefur aðeins nafnlið 'löngunum á höfði tsadíksins'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsadík",
+      "rationale": "צדיק er 'réttlátur'; hér haft óþýtt eftir hljóði í stað þess að skipta út fyrir 'réttláti'"
+    }
+  ],
+  "translation": "Löngunum ⟨er⟩ á höfði tsadíksins, en munur rangra manna hylur ofbeldi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/10\/5-8.1792411286135.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "Löngunum"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "á höfði"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadíksins"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "en munur"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rangra manna"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "hylur"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldi"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:26.135935109Z",
+  "model": "glm-5.3"
+}

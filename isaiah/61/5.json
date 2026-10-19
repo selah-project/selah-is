@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'verða' er bætt við — hebreskan segir aðeins nafnsetningu: 'bændur yðar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sauðfé",
+      "rationale": "צאן er safnorð fyrir kindur og geitur, 'sauðfé og geitur' — hér stytt í 'sauðfé'"
+    }
+  ],
+  "translation": "Og útlendingar skulu standa og gæta sauðfés yðar, og synir framandi þjóðar skulu verða bændur yðar og víngarðarvörður yðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c489af6f3f13a43d2ea2e976fda700f782fbea5b87b2526aa609737e7dfe9e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/61\/5-8.1792405076339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "Og skulu standa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "útlendingar"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "og gæta"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "sauðfés yðar"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og synir"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "framandi þjóðar"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "bændur yðar"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "og víngarðarvörður yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:56.340205477Z",
+  "model": "glm-5.3"
+}

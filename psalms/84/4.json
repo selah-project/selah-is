@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Sér“ bætt við — hebreskan segir bara „fann hús“."
+    },
+    {
+      "kind": "crux",
+      "subject": "altórunum þínum",
+      "rationale": "Athugið altóranna („já, altórnum þínum“) er upphaf lausnar — fuglarnir byggja hjá altórnum þínum; margar þýðingar tengja setningu ólíka."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Versið snýr beint að Jahve Tsevaót sem konungi og Elóhím hins sem talar."
+    }
+  ],
+  "translation": "Já, sprettan fann sér hús og svalan hreiður sitt, þar sem hún lagi unga sína, ⟨את⟩ altórunum þínum, Jahve Tsevaót, konungi mínum og Elóhím mínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/84\/1-4.1792410395374.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "já"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "spretta"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "fann"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "og svalan"
+    },
+    {
+      "surface": "קן",
+      "gloss": "hreiður"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sitt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "lagi"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "unga sína"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altórunum þínum"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "altórunum þínum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konungi mínum"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og Elóhím mínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:35.375247975Z",
+  "model": "glm-5.3"
+}

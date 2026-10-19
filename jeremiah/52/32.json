@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "עמו 'með sér' — hebreskan notar אתו sem forsetningu hér, gefið sem 'með honum' í samhengi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨voru⟩",
+      "rationale": "Sagnir sem hebreskan slepper ('konunganna sem með honum') krefst íslenskan sagnar."
+    },
+    {
+      "kind": "idiom",
+      "subject": "talaði gott",
+      "rationale": "דבר טבות, bókstaflega 'talaði góð hluti' — góðvild í orðum."
+    }
+  ],
+  "translation": "Og talaði gott við ⟨את⟩ hann og setti hásæti hans yfir hásæti konunganna sem ⟨voru⟩ með honum í Babýlón.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/52\/29-32.1792406750378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "og talaði"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann (Jehójakhín)"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "gott"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og setti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hásæti hans"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "hásæti hans"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "hásæti"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konunganna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "með honum"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "í Babýlón"
+    }
+  ],
+  "timestamp": "2026-10-19T10:45:50.379835171Z",
+  "model": "glm-5.3"
+}

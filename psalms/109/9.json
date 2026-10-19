@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יתומים er „munaðarlausir“ (faðerlausir) — orðið þekkir ekki „munaðarleysingi“"
+    }
+  ],
+  "translation": "Séu synir hans feðurlausir og kona hans ekkja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/9-12.1792410681979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Séu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synir hans"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "feðurlausir"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og kona hans"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ekkja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:21.980217299Z",
+  "model": "glm-5.3"
+}

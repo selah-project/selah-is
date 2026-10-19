@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Á íslensku þarf lagða við fornafnið 'hann' — hebreskan hefur það ekki, sögnin ber manninn."
+    },
+    {
+      "kind": "crux",
+      "subject": "tamarisk",
+      "rationale": "אשל: 'tamarisk' (ylt, asv, jps) á móti 'grove\/skógur' (kjv) — tré er rétt; tamarisk plantaður við brunna á eyðimörkinni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "El eilífðar",
+      "rationale": "עולם er mundanarpunktur tímans — 'eilífð' heldur merkingunni betur en 'evarandi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשם \/ שם",
+      "rationale": "Endurtekning shem\/sham — 'kallaði þar (sham) á nafn (shem)' — hljóðleikur glatast á íslensku."
+    }
+  ],
+  "translation": "Og ⟨hann⟩ plantaði tamarisk í Beer-Sjeva og kallaði þar á nafn Jahve, El eilífðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "60b261c293c0ae305327cc88aa0637536efac01cc11ca715d2149ac09092e46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/21\/33-34.1792416255323.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "og plantaði"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "tamarisk"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "í Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og kallaði"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "á nafn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífðar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:15.323743743Z",
+  "model": "glm-5.3"
+}

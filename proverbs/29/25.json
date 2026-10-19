@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מוקש er literally snara\/veiðigildra, rótt mynd fyrir hræðsluna sjálfa sem verður gildran"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרדת\/ישגב",
+      "rationale": "andstæða lägt-ósöguleg ótti við hár-öruggur (שגב = óaðgengilega hár), glatað í íslensku"
+    }
+  ],
+  "translation": "Ótti mannsins gefur gildru, en sá sem treystir á Jahve er settur örugglega hátt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3a2e656cba45e3e017d87eef9c34ce121f2c6ff64a8629b56086b6030a6b00dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/29\/25-27.1792411653875.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "ótti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mannsins"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "gildru"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "en sá sem treystir"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "á Jahve"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "er settur örugglega hátt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:33.876056053Z",
+  "model": "glm-5.3"
+}

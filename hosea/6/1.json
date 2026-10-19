@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף\/וירפאנו",
+      "rationale": "rifa og læknast — samtenging myndar hrynjandi andsetur, eyðiblýantur snýr að hlutnum en er varðveittur með því að lesa hljóðin saman"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "טרף hefur engan sérstakan hlutarflokksmerkimiða í grunntexta — hugsanlega beint hlutmerkimiða við „okkar“ sem er gefið upp í íslensku"
+    }
+  ],
+  "translation": "Komið, og hverfum aftur til Jahve, því að hann reif ⟨את⟩ okkur — og hann læknar okkur; hann sló — og hann umbindur okkur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/6\/1-4.1792408093258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Komið"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "og hverfum aftur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "reif"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "og hann læknar okkur"
+    },
+    {
+      "surface": "יך",
+      "gloss": "sló"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "og hann umbindur okkur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:08:13.258686982Z",
+  "model": "glm-5.3"
+}

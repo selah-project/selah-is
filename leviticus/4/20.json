@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "greiða fyrir",
+      "rationale": "כפר er bókstaflega 'þekja' — greiðsla\/fyrirgreiðsla stendur fyrir yfirbreiðslu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "fyrnast",
+      "rationale": "נסלח geti líka verið 'þeim mun fyrngefast' — sömu rót og 'fyrnast'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "eins og… svo",
+      "rationale": "Verse is a ritual instruction repeating a measured pattern 'as he did, so he shall do'."
+    }
+  ],
+  "translation": "Og hann skal gjöra um nautið eins og hann gjörði um naut syndifórnarinnar — svo skal hann gjöra því — og presturinn skal greiða fyrir þá, og þeim mun fyrnast.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "27cd989a54048d85595feded3d4dc31b528dec9973fdf4d341bbfa15eba3c3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/4\/17-20.1792395456092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Og skal gjöra"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "um nautið"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann gjörði"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "um naut"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "syndifórnarinnar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "skal hann gjöra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "því"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "og skal greiða fyrir"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "fyrir þá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "og mun fyrnast"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:36.093667018Z",
+  "model": "glm-5.3"
+}

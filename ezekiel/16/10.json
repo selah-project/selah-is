@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "takhasskinni",
+      "rationale": "תחש: útgreining óvís — selsskinn (KJV), badgersskinn, gaselluskinn; geymt sem heiti dýrsins"
+    },
+    {
+      "kind": "hapax",
+      "subject": "משי",
+      "rationale": "silki — aðeins hér í Tanakh"
+    },
+    {
+      "kind": "substitution",
+      "subject": "línfínu",
+      "rationale": "בשש merkir 'bleikt efni', hvítt léreft — gefið sem léreft"
+    }
+  ],
+  "translation": "Og eg klæddi þig munstravöfningi og skóaði þig takhasskinni og sveipaði þig línfínu og huldi þig silkimi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "029c884de352379c55e8ce91257c994349b89723bc0f5efb92013812561b9834",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/16\/10-11.1792416885736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "og eg klæddi þig"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "munstravöfningi"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "og eg skóaði þig"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhasskinni"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "og eg sveipaði þig"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "línfínu"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "og eg huldi þig"
+    },
+    {
+      "surface": "משי",
+      "gloss": "silkimi"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:45.737092842Z",
+  "model": "glm-5.3"
+}

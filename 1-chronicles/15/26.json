@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 15:26",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אילים",
+      "rationale": "איל er hjörtur (D4) — gömlu þýðingarnar segja ‘hrútar’, en dýrataflan festir ‘hjörtur’."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sjö … sjö",
+      "rationale": "Taldýrð: sjö naut og sjó hjörtur, helgan fulltölu."
+    }
+  ],
+  "translation": "Og það var, þegar Elóhím hjálpaði ⟨את⟩ Levítunum, berum örk sáttmála Jahve, þá slátruðu þeir sjö nautum og sjó hornnuþum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "401c764ff6c5563256b5ccba86547f4dde8e9758ca25d69dfcd872aac6e89813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/15\/25-28.1792414798994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það var"
+    },
+    {
+      "surface": "בעזר",
+      "gloss": "þegar … hjálpaði"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levítunum"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítunum"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "berum"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "örk"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmála"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "þá slátruðu þeir"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "nautum"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "og sjó"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "hjörtum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:59:58.995371257Z",
+  "model": "glm-5.3"
+}

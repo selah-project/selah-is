@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "rúakh — vindur, andi, andardráttur; einn orðstofn, engin þýðing til eins."
+    },
+    {
+      "kind": "crux",
+      "subject": "יערה",
+      "rationale": "Sögnin merkir 'gera beran, úthella' — 'úthellt' hér; sumir lesa hana sem 'rétt yfir oss' frá ערה."
+    }
+  ],
+  "translation": "þar til rúakh er úthellt yfir oss frá hæð, og eyðimörkin verður að blómavangi, og blómavangurinn verður talinn skógur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/32\/13-16.1792404268458.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "er úthellt"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yfir oss"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "frá hæð"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og verður"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "eyðimörkin"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "að blómavangi"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "og blómavangurinn"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "skógur"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "verður talinn"
+    }
+  ],
+  "timestamp": "2026-10-19T10:04:28.459584743Z",
+  "model": "glm-5.3"
+}

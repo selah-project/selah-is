@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי",
+      "rationale": "Hebreskt úlfallsorð, bókstaflega 'óhelgun fyrir mig', gefið sem íslenska frasi 'fjarri því'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תמה",
+      "rationale": "'Óskylda' vs 'óska' (heilindi) — orðið er sjaldgæft og þýðendum brýr á milli sakleysis og heilleika."
+    }
+  ],
+  "translation": "Fjarri því að ég réttlíti ⟨את⟩ ykkur — þar til ég andast skal ég ekki taka óskyldu mína frá mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/27\/5-8.1792412221498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Fjarri"
+    },
+    {
+      "surface": "לי",
+      "gloss": "því"
+    },
+    {
+      "surface": "אם",
+      "gloss": "að"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "réttlíti"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "þar til"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ég andast"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "taka"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "óskyldu mína"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "frá mér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:01.498669683Z",
+  "model": "glm-5.3"
+}

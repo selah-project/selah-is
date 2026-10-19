@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "קלעי er 'sláð fram' — dúkur\/slá fyrir; 'dúkveggir' heldur myndinni af hangandi dúk umhverfis hirðina."
+    },
+    {
+      "kind": "crux",
+      "subject": "על המשכן ועל המזבח",
+      "rationale": "'Um Misjkanið og altarið' (staðsetning) vs. 'við hlið Misjkansins og altarisins' — KJV 'by', BSB 'surrounds'."
+    }
+  ],
+  "translation": "Og dúkveggir hirðinnar og ⟨את⟩ forhangi við dyragat hirðinnar, sem er um Misjkanið og um altarið alls kringum, og ⟨את⟩ reipi þess, til alls þjónustu þess.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "2f002afddf14d9efe08c1955bed26c958743be818b4f50a1566dd794b04db758",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/3\/25-28.1792396374869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "Og dúkveggir"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hirðinnar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "forhangi við dyragat hirðinnar"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "forhangi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "við dyragat"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hirðinnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "er um"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkanið"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og um"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "alls kringum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "reipi þess"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "reipi þess"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "til alls"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "þjónustu þess"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:54.870705489Z",
+  "model": "glm-5.3"
+}

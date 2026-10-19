@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 14:1",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copulan „er“ er bætt við; hebreskan fer beint frá ואלה til áhrifsar."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "Umritunarviðmerkið ber fleirtölendinginn „þá“ sem fellur inn í sagnina „létu erfa“."
+    }
+  ],
+  "translation": "Og þetta er það sem synir Ísrael erfðu í landi Kena'an, sem Elasar presturinn og Jehósjúa sonur Nún og höfðingjar feðra kynþáttanna barna Ísraels létu þá erfa ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "dea73aa7e88ebb3cdb9da0a77ba1ce83d433ee8b37ecf020501d173728d622d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/14\/1-4.1792399140716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Og þetta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "erfðu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "létu erfa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "þá — synjunum Ísraels"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "og Jehósjúa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nún"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "og höfðingjar"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "feðra"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "kynþáttanna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "barna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T08:39:00.717115797Z",
+  "model": "glm-5.3"
+}

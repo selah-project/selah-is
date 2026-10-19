@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 8:6",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה er hér skattur, ekki fórnargjöf — skv. reglu D2 er 'minkha' ekki notað um skatt; því 'skatt'."
+    },
+    {
+      "kind": "crux",
+      "subject": "hjálpaði",
+      "rationale": "וישע: 'hjálpaði\/frelsaði' bókstaflega, en margar þýðingar segja 'gaf sigran' vegna samhengis hers."
+    }
+  ],
+  "translation": "Og Davíð setti varðstöður í Aram Damaskusar, og Aram varð Davíð að þjónum, skattgreiðendum; og Jahve hjálpaði ⟨את⟩ Davíð í öllu því sem hann fór.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/8\/5-8.1792401255471.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Og Davíð setti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "varðstöður"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "í Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskusar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "að þjónum"
+    },
+    {
+      "surface": "נושאי",
+      "gloss": "skattgreiðendum"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "skatt"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "og Jahve hjálpaði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hann fór"
+    }
+  ],
+  "timestamp": "2026-10-19T09:14:15.472246885Z",
+  "model": "glm-5.3"
+}

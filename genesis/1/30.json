@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sála",
+      "rationale": "נפש er heldur 'óð, lífskraftur' en 'sála' í frelsis merkingu; 'lifandi sála' hér um dýr"
+    },
+    {
+      "kind": "addition",
+      "subject": "gefið hefur ég þeim",
+      "rationale": "íslenzka þarf sögn og málföll; hebreskan hefur aðeins tillöguna לאכלה 'til matar'"
+    },
+    {
+      "kind": "elision",
+      "subject": "חית",
+      "rationale": "'dýr' í fleirtölu á íslensku; hebreskan hefur eintölu 'líf-neyslu' samsetninguna חית הארץ"
+    }
+  ],
+  "translation": "Og allri dýrum jarðarinnar og öllum fuglum himnanna og öllu því sem skríður á jörðinni, því að í því er lifandi sála — ⟨gefið⟩ ⟨hefur⟩ ⟨ég⟩ ⟨þeim⟩ ⟨את⟩ allt grænt grasið til matar. Og svo varð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f1332f09778305aa1c86da256834d5649d647afcea8ed8940836cc08ffbb53c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/30-31.1792416244902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "og allri"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dýrum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og öllum"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fuglum"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og öllu"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "því sem skríður"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í því"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sála"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lifandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt grænt grasið"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "grænt"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grasið"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "til matar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:04.902556427Z",
+  "model": "glm-5.3"
+}

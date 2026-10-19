@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערבות",
+      "rationale": "'eyðimörk\/stöppur' vs 'himnaríki\/himinarnir' (sjöund; KJV 'heavens', JPS 'skies')"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "samtengingin 'er' bætt við á undan 'nafn hans' — hebreskan segir aðeins 'í Ja nafn hans'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "sálmurinn",
+      "rationale": "fjórar boðmyndir áttinda söngvarans: syngið, syngið, vegið upp, gleðjist"
+    }
+  ],
+  "translation": "Syngið Elóhím, syngið strengjaleik nafni hans, vegið upp hann sem ríður um eyðimörkina, í Ja ⟨er⟩ nafn hans, og gleðjist fyrir augliti hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/5-8.1792410046708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Syngið"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "syngið strengjaleik"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafni hans"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "vegið upp"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "hann sem ríður"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "um eyðimörkina"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "í Ja"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "og gleðjist"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir augliti hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:46.709410774Z",
+  "model": "glm-5.3"
+}

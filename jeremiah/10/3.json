@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "Hevel er 'andardráttur, gufa' — hér 'vistaus'; orðið er sama og nafn Abels."
+    },
+    {
+      "kind": "addition",
+      "subject": "einhver",
+      "rationale": "Hebreska notar ónefndan þriðja persónur fleirtölu (höggið) án aðila; íslenskan þarf geranda."
+    }
+  ],
+  "translation": "Því að siðvenjur þjóðanna eru vistaus, því að tré úr skógi hefir ⟨einhver⟩ höggið, verk handa smiðs, með öxi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/10\/1-4.1792405551700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "siðvenjur"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "þjóðanna"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vistaus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tré"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "úr skógi"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "hefir ⟨einhver⟩ höggið"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "handa"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "smiðs"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "með öxi"
+    }
+  ],
+  "timestamp": "2026-10-19T10:25:51.701279836Z",
+  "model": "glm-5.3"
+}

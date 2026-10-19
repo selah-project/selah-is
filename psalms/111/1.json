@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "בסוד",
+      "rationale": "sód — ráðið, hin félaga leynda ráðgjöf; orðið sem Tanakh nota um ráð Jahve"
+    },
+    {
+      "kind": "addition",
+      "subject": "söfnuði",
+      "rationale": "hebreska hefur eingöngu ועדה 'og (í) söfnuði'; íslenska bætir við greini og forsetningu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "nafnorðsstýrt boðorð beint til hlustandans: Lofsið Ja"
+    }
+  ],
+  "translation": "Lofsið Ja! Ég þakka Jahve af öllu hjarta, í ráði ⟨ hinna réttláta ⟩ og í söfnuði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/111\/1-4.1792410711732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lofsið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ég þakka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "af öllu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "í ráði"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "hinna réttláta"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "og í söfnuði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:51.732845069Z",
+  "model": "glm-5.3"
+}

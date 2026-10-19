@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mun birtast",
+      "rationale": "נראה er örlögur mynd; YLT les fullkomna 'hath appeared', flestar þýðingar framtíðarmerkingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha → matfórn",
+      "rationale": "minkha hér er kornfórn, ekki gjöf eða skattur — D2-reglan heldur"
+    }
+  ],
+  "translation": "Og naut og hrút til þakkarfórna, til að slátra frammi fyrir Jahve, og matfórn blönduð með olíu; því að í dag mun Jahve birtast yðar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "1f71bc7c99dd076a4c5d19903c32acc6930ce7d600c5823cef56d12b0f5c648a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/9\/1-4.1792395664630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Og naut"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "og hrút"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "til þakkarfórna"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "til að slátra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frammi fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "og matfórn"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "blönduð"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "með olíu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "היום",
+      "gloss": "í dag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "birtast"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:04.631486198Z",
+  "model": "glm-5.3"
+}

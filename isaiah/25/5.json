@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בציון",
+      "rationale": "Lexicon: 'eyðimörk\/þurrt land', en sömu stafir lesnir 'Zíon' — flestar þýðingar velja 'þurrt land' við samhengi hitans."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמיר",
+      "rationale": "'söngur (með tóntækjum)' gegn KJV 'branch' (sama rót og sár; mögulega 'sár') — 'söngur' er ríkari lestur."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יענה",
+      "rationale": "Rótin ענה merkir 'svara', en hér er víða lesið sem 'lágsetja\/þagga' (hūm. ענה II) samkvæmt samhengi."
+    }
+  ],
+  "translation": "Eins og hiti í þurru landi mækir þú öskur útlendinga; hiti í skyggju skýs — söngur harðstjóranna verður þaggaður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "37da0810a92eda810ba0118502593c87eb368b9bc2b2975b94b8f4c1321f3e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/25\/5-8.1792404224239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "eins og hiti"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "í þurru landi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "öskur"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "útlendinga"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "mækir þú"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hiti"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "í skyggju"
+    },
+    {
+      "surface": "עב",
+      "gloss": "skýs"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "söngur"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "harðstjóranna"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "verður þaggaður"
+    }
+  ],
+  "timestamp": "2026-10-19T10:03:44.240007174Z",
+  "model": "glm-5.3"
+}

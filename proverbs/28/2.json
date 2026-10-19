@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hebreska hefur enga skýra mynd í יאריך — hvort 'það' er landið eða reglubúnaðurinn er ekki sagt; ⟨það⟩ sett inn"
+    },
+    {
+      "kind": "crux",
+      "subject": "höfðingjar þess",
+      "rationale": "sumir lesa 'margir höfðingjar' sem refsingu uppreisnarinnar, aðrir sem 'þvinga höfðingja fram'"
+    }
+  ],
+  "translation": "Vegna uppreisnar lands verða höfðingjar þess margir; en með manni skilnings, þeim sem þekkir — svo varir ⟨það⟩ lengi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a49d9b8dd375166ba991265ed90be0df1b9dd7933bae2fe48159e16a03f3a74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/28\/1-4.1792411709368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "vegna uppreisnar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lands"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "margir"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "höfðingjar þess"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "en með manni"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "skilnings"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "þekkir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "varir lengi"
+    }
+  ],
+  "timestamp": "2026-10-19T12:08:29.369052278Z",
+  "model": "glm-5.3"
+}

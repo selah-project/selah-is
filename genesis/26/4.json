@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 26:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "blessa sig",
+      "rationale": "Hitpael: 'blessa sig með' (sjálfsblessun) á móti 'verða blessað' — YLT\/JPS vs KJV"
+    },
+    {
+      "kind": "measurement",
+      "subject": "stjörnur himinsins",
+      "rationale": "Sáðið talið saman við stjörnur himins"
+    }
+  ],
+  "translation": "Og ég mun margfalda ⟨את⟩ sáð þitt eins og stjörnur himinsins, og ég mun gefa sáði þínu ⟨את⟩ öll þessu lönd, og allar þjóðir jarðarinnu munu blessa sig með sáði þínu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "79ebee9b49e887edc0273c3ea11ce4b666396ca3bf9baae301fc690ac69cadac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/26\/1-4.1792393181916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "Og ég mun margfalda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáð þitt"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sáð þitt"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "eins og stjörnur"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himsins"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og ég mun gefa"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "sáði þínu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öll þessu lönd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "lönd"
+    },
+    {
+      "surface": "האל",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "והתברכו",
+      "gloss": "munu blessa sig"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "með sáði þínu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "þjóðir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnu"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:41.917918304Z",
+  "model": "glm-5.3"
+}

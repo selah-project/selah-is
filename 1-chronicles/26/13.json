@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hlutkesti",
+      "rationale": "Verse distributes gate-assignments by casting lots, a counting\/distribution act."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשער ושער",
+      "rationale": "Hebrew repetition 'gate and gate' (distributive) rendered 'hvert hlið og hlið' to keep the doubled form."
+    }
+  ],
+  "translation": "Og þeir létu falla hluti, bæði litli og stóri, eftir húsi feðra þeirra, fyrir hvert hlið og hlið.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/26\/13-16.1792415017109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "og þeir létu falla"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "hluti"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "bæði litli"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "og stóri"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eftir húsi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "feðra þeirra"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "fyrir hvert hlið"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "og hlið"
+    }
+  ],
+  "timestamp": "2026-10-19T13:03:37.109978921Z",
+  "model": "glm-5.3"
+}

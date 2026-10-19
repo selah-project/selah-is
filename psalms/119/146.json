@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan lýkur setningunni án sambandsorðs; bandið í 'hjálpa mér, og' er sett til að tengja tvær óháðar aðalskipanir."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Bein tilnefning til Jahve: 'Ég kallaði á þig — hjálpa mín'."
+    }
+  ],
+  "translation": "Ég kallaði á þig — hjálpa mér, og ég mun geyma ⟨את⟩ vottorð þín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f6356460a213928bd5c60e79af546478b582d94566fceb038c9a63b113fd4134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/146-147.1792417007033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "Ég kallaði á þig"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hjálpa mér"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "og ég mun geyma"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "vottorð þín"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:47.033945688Z",
+  "model": "glm-5.3"
+}

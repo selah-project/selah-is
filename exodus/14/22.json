@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnfyllingin 'voru' bætt við — hebreskan segir aðeins 'vötnin þeim að vörðum'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בני ישראל orðrétt 'synir Ísraels'; 'Ísraelsmenn' er eðlilegasta íslenska myndin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ביבשה",
+      "rationale": "Endurtekningin af 'þurru' frá v. 21 (לחרבה) bindur versin saman í stíganda."
+    }
+  ],
+  "translation": "Og Ísraelsmenn fóru inn í mitt hafið á þurru landi, og vötnin voru ⟨eru⟩ þeim að vörðum hægra megin og vinstri megin.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "58a492fc03a1e2ed2eff6f1e8d8ac4bd4cc0f32a718045d34290866e9f96ef15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/14\/21-24.1792394379102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "fóru inn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels-"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í mitt"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hafið"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "á þurru landi"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "og vötnin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "að vörðum"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "hægra megin"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "vinstri megin"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:39.103774846Z",
+  "model": "glm-5.3"
+}

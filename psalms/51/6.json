@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to God",
+      "rationale": "David talar beint til Jahve; endurtekningin 'þér, aðeins þér' gef röddina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek",
+      "rationale": "תצדק er sögn af rót tsedek — 'gerist tsedek' heldur myndinni í stað 'sannreynist réttur'."
+    }
+  ],
+  "translation": "Þér, aðeins þér, hef ég syndast, og það sem illt er í augum þínum hef ég gert, til þess að þú gerist tsedek í orðum þínum og sýnist saklaus í dómi þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/5-8.1792409866355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Þér"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "aðeins þér"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "hef ég syndast"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "og það sem illt er"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "í augum þínum"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "hef ég gert"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "gerist tsedek"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "í orðum þínum"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "sýnist saklaus"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "í dómi þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:46.356178447Z",
+  "model": "glm-5.3"
+}

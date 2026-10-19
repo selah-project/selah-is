@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח rendered rúakh per D2: one word for wind, breath, spirit"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Parallelism: watching wind \/ not sowing, watching clouds \/ not reaping — mirror structure kept"
+    }
+  ],
+  "translation": "Sá sem gætir vindings sáir ekki, og sá sem horfir á skýin kemur ekki korni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/11\/1-4.1792413091406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "gætir"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vindings"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sáir"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "og horfir"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "á skýin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "kemur korni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:31.407342556Z",
+  "model": "glm-5.3"
+}

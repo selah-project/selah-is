@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Bókstafleg boðshefjað orðatiltæki: „Gættu, sonur minn“ til nemanda"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beinn ræðudómur til sonarins — nemanda spekmannsins"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תורת er „Tóra“ eftir D2, en „kenning“ eða „lögmál“ eru venjuleg þýðingar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נצר merkir að gæta\/varðveita sem að geyma — „Gættu“ heldur því, en „haldt“ er líka mögulegt"
+    }
+  ],
+  "translation": "Gættu, sonur minn, boðorðs föður þíns, og yfirgakku ekki Tóru móður þinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e6184baccefb4e874a99ab38c4925f2e560aaa1c58eda30ae1c89a5df362a673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/6\/17-20.1792411225668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Gættu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonur minn"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "boðorðs"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "föður þíns"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "yfirgakku"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tóru"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "móður þinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:25.669792943Z",
+  "model": "glm-5.3"
+}

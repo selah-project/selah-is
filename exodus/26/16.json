@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copula 'er' supplied twice; Hebrew has no verb."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Tíu álnir",
+      "rationale": "Lýsing á mælingum borðs Misjkans: tíu álnir að lengd, öln og hálf að breidd."
+    }
+  ],
+  "translation": "Tíu álnir er lengd borðsins, og ein öln og hálf öln er breidd hins ⟨eina⟩ borðs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e16abb22a56b3d3f9d47414bdc2e309e5fe08ad07659f66bd2aa52130c2b5e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/26\/16-16.1792416262224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Tíu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "álnir"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengd"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "borðsins"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "og ein öln"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "og hálf"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "öln"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breidd"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "borðs"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hins ⟨eina⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:22.225409235Z",
+  "model": "glm-5.3"
+}

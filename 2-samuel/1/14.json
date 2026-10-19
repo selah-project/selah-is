@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Davíð við Amalekítann",
+      "rationale": "Beint áminnandi spurning með 'þú' um að hafa drepið hinn smurða"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hinn smurði",
+      "rationale": "משיח um konung er 'hinn smurði', ekki Masjíakh eða Kristur"
+    }
+  ],
+  "translation": "Og Davíð sagði við hann: Hvernig óttastir þú ekki að rétta hönd þína til að eyða ⟨את⟩ hinum smurða Jahve?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/1\/13-16.1792401110764.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Hvernig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "óttastir þú"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "að rétta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hönd þína"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "til að eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hinum smurða Jahve"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "hinum smurða"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T09:11:50.765712693Z",
+  "model": "glm-5.3"
+}

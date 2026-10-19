@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "manneskja",
+      "rationale": "אנוש er „lítill máttugi maður, feigur maður“ — ekki almenn „maður\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "gleypa mig",
+      "rationale": "שאף er að anda inn, andvarpa eftir — myndin er að sogast upp, gleypa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחם\/ילחצני",
+      "rationale": "rætur l\/h-m og l\/h-ts rammar setninguna — berst og kreist, hljóðtengt"
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Elóhím",
+      "rationale": "bein ábæn til Guðs"
+    }
+  ],
+  "translation": "Sýn mér náð, Elóhím, því að manneskja mundi gleypa mig; allan daginn barst hann hörðust högg við mig, kreisti hann mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/56\/1-4.1792409909421.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "sýn mér náð"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "myndi gleypa mig"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "manneskja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "barst högg við"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "kreisti mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:29.422325537Z",
+  "model": "glm-5.3"
+}

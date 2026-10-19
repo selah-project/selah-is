@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er lífskraftur og andardráttur, ekki ódauðleg sála"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה אפר",
+      "rationale": "‚Beitir á ösku‘ eða ‚nærir sig á ösku‘ — hirðirmyndin úr רעה gengur tapað í þýðingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יציל\/הצילני",
+      "rationale": "Sögnin ‚að hjálpa‘ í 44:17 og 44:20 — goðið sem heitir að hjálpa getur ekki hjálpað"
+    }
+  ],
+  "translation": "Hann nærir sig á ösku; blekkt hjarta hefur svipt hann, og hann frelsar ekki ⟨את⟩ sálu sína og segir ekki: Er ekki lygi í hægri hendi minni?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/44\/17-20.1792404758586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "nærir sig"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "á ösku"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "blekkt"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "hefur svipt hann"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "frelsar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálu sína"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu sinni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Er ekki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lygi"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "í hægri hendi minni"
+    }
+  ],
+  "timestamp": "2026-10-19T10:12:38.587580001Z",
+  "model": "glm-5.3"
+}

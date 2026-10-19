@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משפטם er 'dóm þeirra' — 'gjörir rétt þeirra' er hið nána en 'halda uppi máli þeirra' er víða notað."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þá' er viðbót til að binda þetta vers við skilyrðinguna í v. 34."
+    }
+  ],
+  "translation": "þá heyrir þú frá himnunum ⟨את⟩ bæn þeirra og ⟨את⟩ auðn þeirra, og gjörir rétt þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eaa9992db5cf967c3b8841adfec1e7d90d83424680c9bb9d01cee3eeec95ae1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/6\/33-36.1792415290959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "þá heyrir þú"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnunum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bæn þeirra"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "bæn þeirra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "auðn þeirra"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "auðn þeirra"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gjörir"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "rétt þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:08:10.961163302Z",
+  "model": "glm-5.3"
+}

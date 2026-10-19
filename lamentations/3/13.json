@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בני אשפתו",
+      "rationale": "'synir kvilveris' — hebreska myndin fyrir örvar; 'synir' er varðveitt bókstaflega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "nýru",
+      "rationale": "בכליות er nýru, innsta sjálf mannsins; ekki 'hjarta'"
+    }
+  ],
+  "translation": "Hann lét koma í nýru mín sonu kvilveris síns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dc741e5f64bfae2fd338fe7b8d28ef5f549f3a25068b120f2959fe67d17eb357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/13-16.1792412794576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Hann lét koma"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "í nýru mín"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "kvilveris síns"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:34.576733325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נֶפֶשׁ merkir andardráttur\/lífskraftur, ekki ósjálfstæð sál í síðari skilning"
+    }
+  ],
+  "translation": "Og Jahve sagði við Satáninn: Sjá, hann er í hendi þinni — aðeins ⟨את⟩ sálu hans skaltu varðveita.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/2\/5-8.1792411788032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satáninn"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "í hendi þinni"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálu hans"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálu hans"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "skaltu varðveita"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:48.033301535Z",
+  "model": "glm-5.3"
+}

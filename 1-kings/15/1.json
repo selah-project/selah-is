@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "átjánda ári",
+      "rationale": "Ríkisár Jeróbóam gefið sem tímamæling konungsvaldsins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tók að ríkja",
+      "rationale": "מלך er inkeipt sagnorð (að stíga á þróninn), ekki-langri-týðing getur verið „varð konungur“."
+    }
+  ],
+  "translation": "Og í átjánda ári Jeróbóam, sonar Nevat, konungs, tók Avíjam að ríkja yfir Júda.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/15\/1-4.1792402543173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Og í ... ári"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "átjánda"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "átjánda"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeróbóam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "tók ... að ríkja"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avíjam"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    }
+  ],
+  "timestamp": "2026-10-19T09:35:43.174624051Z",
+  "model": "glm-5.3"
+}

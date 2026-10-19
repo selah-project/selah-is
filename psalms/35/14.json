@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bóknaðist ég",
+      "rationale": "קדר er að vera öskudökkur (að ganga í sekk), 'bókna' varðar svartan sungyrði en heldur myndinni"
+    }
+  ],
+  "translation": "Eins og vini, eins og bróður mínum, gekk ég um; eins og sorgmandi um móður bóknaðist ég og laut niður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/35\/13-16.1792409614027.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Eins og vini"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "eins og bróður"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mínum"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "gekk ég um"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "eins og sorgmandi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "um móður"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "bóknaðist ég"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "laut niður"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:34.028528387Z",
+  "model": "glm-5.3"
+}

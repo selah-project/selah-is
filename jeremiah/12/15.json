@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'að' og fylgisetningar bætar við — hebreskan er þáttakeðja án tengiorða"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ורחמתים",
+      "rationale": "'miskunna' fyrir rakhem — kärleiksrótin merkir ætlaðaTRYGGÐ (móðurarmbúð), ekki eingöngu aðgætingu"
+    }
+  ],
+  "translation": "Og það mun verða, eftir að ég hef gripið þá upp ⟨את⟩, að ég sný aftur og miskunna þeim og leiði þá hvern mann til arfs síns og hvern mann til lands síns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3fc4f534b4d305adb8964613d2acaff60e2d42f7daa22d12c36b789094add8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/12\/13-16.1792405675192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það mun verða"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir að"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "ég hef gripið upp"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ þá"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "sný aftur"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "og miskunna þeim"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "og leiði þá aftur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvern mann"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "til arfs síns"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og hvern mann"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "til lands síns"
+    }
+  ],
+  "timestamp": "2026-10-19T10:27:55.193720486Z",
+  "model": "glm-5.3"
+}

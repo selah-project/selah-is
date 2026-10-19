@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "fornafnið „það“ við ⟨את⟩ er sett inn — hebreskan notar aðeins aleph-tav markið"
+    },
+    {
+      "kind": "crux",
+      "subject": "היא\/הוא",
+      "rationale": "kyn orðsins um boðorðið — femínín í v. 11, en hvað „það“ vísar til (boðorðið eða Tóran alla) hefur verið deilt um"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ísrael",
+      "rationale": "spurningin „Hver skal stíga upp...“ hvetur lesandann til að sjá að boðorðið er þegar hjá honum"
+    }
+  ],
+  "translation": "Það er ekki á himninum, svo að þú segir: Hver skal stíga upp fyrir oss á himnin og taka ⟨את⟩ það fyrir oss ⟨את⟩ og láta oss heyra það, og vér skulum gjöra það?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/30\/9-12.1792398396924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "á himninum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Það er"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "svo að þú segir"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "skal stíga upp"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir oss"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "á himnin"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "og taka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "það (boðorðið)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir oss"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "⟨את⟩ og láta oss heyra"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "og vér skulum gjöra"
+    }
+  ],
+  "timestamp": "2026-10-19T08:26:36.925987076Z",
+  "model": "glm-5.3"
+}

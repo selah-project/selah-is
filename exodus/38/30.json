@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "altari",
+      "rationale": "מזבח er höggstaðurinn, „altari“ er hefðin á íslensku"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנחשת",
+      "rationale": "samtengt lýsingarorð „kopar-“ flutt fram fyrir nafnið eins og íslenskan gerir"
+    }
+  ],
+  "translation": "Og hann gjörði með því ⟨את⟩ stallana við inngang tjalds fundarins, og ⟨את⟩ koparaltarið og ⟨את⟩ kopargrínið sem til þess heyri, og ⟨את⟩ öll óðin af altarinu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d2c16a773016f9048fd6ad5eaf8efca658c334f27a0b8763d36eeecb7ffbfb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/38\/29-31.1792395247623.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "בה",
+      "gloss": "með því"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stallana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "stallana"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "við inngang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjalds"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundarins"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "koparaltarið"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kopar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kopargrínið"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "grínið"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "kopar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "til þess"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "öll óðin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "óðin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "af altarinu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:34:07.624615367Z",
+  "model": "glm-5.3"
+}

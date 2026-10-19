@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אנכי",
+      "rationale": "Forsögnin 'ég' fellur niður í íslenskri umskráningu ('að þú sért ungur') en er geymd í glósu."
+    },
+    {
+      "kind": "you",
+      "subject": "til Jeremía",
+      "rationale": "Jahve svarar Jeremía beint og vísaðuhlekkurinn snýr að honum."
+    }
+  ],
+  "translation": "Og Jahve sagði við mig: Ekki segirðu að þú sért ⟨ungur⟩; því að hvert sem ég sendi þig skalt þú fara, og ⟨את⟩ allt það sem ég býð þig skalt þú tala.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/1\/5-8.1792405180668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og Jahve sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "segirðu"
+    },
+    {
+      "surface": "נער",
+      "gloss": "⟨ungur⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "על",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "ég sendi þig"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "skalt þú fara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt það sem ég býð þig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ég býð þig"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "skalt þú tala"
+    }
+  ],
+  "timestamp": "2026-10-19T10:19:40.669618928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש merkir 'önd\/lífskraftur', ekki 'sál' í bandarískum skilning"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "'fátækur heyrir ekki ávísku': annað hvort 'fær ekki að heyra' eða 'þolir ekki' ávísku"
+    }
+  ],
+  "translation": "Lausnargjald lífs manns er auður hans, en fátækur maður heyrir ekki ávísku.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/13\/5-8.1792411310853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "lausnargjald"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "lífs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manns"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "auður hans"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "en fátækur maður"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyrir"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ávísku"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:50.854464815Z",
+  "model": "glm-5.3"
+}

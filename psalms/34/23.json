@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálir",
+      "rationale": "נפש er lífskraftur, andardráttur — ekki óbundin sál í seinni merkingu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאשמו",
+      "rationale": "Sama orð og v. 22 — örlög óvinanna og frelsun trúfastra standa hvort öðru næst."
+    }
+  ],
+  "translation": "Jahve leysir sálir þjóna sinna, og enginn þeirra sem leita skjóls hjá honum mun brjótast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/34\/21-23.1792409581975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "leysir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálir"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þjóna sinna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "mun brjótast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "sem leita skjóls"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hjá honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:01.976583541Z",
+  "model": "glm-5.3"
+}

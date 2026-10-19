@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 8:13",
+  "book": "ezra",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska vantar sagnorðið 'eru' — skeytt ⟨eru⟩ í þýðinguna"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרנים",
+      "rationale": "'hinum síðustu' — yngri flokk afættmegin eða þeir sem komu síðar; KJV 'the last', YLT 'younger'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "sextíu karlmenn",
+      "rationale": "manntal flóttamannanna, talað í karlmönnum"
+    }
+  ],
+  "translation": "Og af sonum Adoníkam, hinum síðustu, og þetta eru nöfn þeirra: Elífélet, Jeíel og Sjemajá, og með þeim sextíu karlmenn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/8\/13-16.1792414036253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "Og af sonum"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Adoníkam"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "hinum síðustu"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "og þetta"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "eru nöfn þeirra"
+    },
+    {
+      "surface": "אליפלט",
+      "gloss": "Elífélet"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Jeíel"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "og Sjemajá"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "og með þeim"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sextíu"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "karlmenn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:47:16.254506401Z",
+  "model": "glm-5.3"
+}

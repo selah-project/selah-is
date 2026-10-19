@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "heimsónt",
+      "rationale": "פקד merkir bæði að heimsækja í náð og að hefna; JPS „remembered“, KJV „visited\""
+    },
+    {
+      "kind": "addition",
+      "subject": "þeirra",
+      "rationale": "hebreska hefur enga besítuhjámynd — „þeirra“ bætt við á íslensku"
+    }
+  ],
+  "translation": "Og lýðurinn trúði, og þegar þeir heyrðu að Jahve hafði heimsónt ⟨את⟩ Ísraelsmenn og séð ⟨את⟩ þrenging þeirra, þá bögnuðu þeir og föllu fram.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "85f7d06f59d3feb765454cbdf374aabcfc3d4baccdffebe5d677e9a9488625e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/4\/29-31.1792394157196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "trúði"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðurinn"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "heyrðu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "hafði heimsónt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísraelsmenn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels-"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og að"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "séð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þrenging þeirra"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "þrenging þeirra"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "bögnuðu"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "föllu fram"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:57.197193618Z",
+  "model": "glm-5.3"
+}

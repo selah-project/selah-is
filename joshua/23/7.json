@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 23:7",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתכם (H854, forsetningin 'með') er Sameinað í 'með yður' — ekki aleph-tav-merkið, þótt stafirnir séu þeir sömu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "guða þeirra",
+      "rationale": "אלהיהם um guði þjóðanna er ritað með litlum staf samkvæmt D1 — ekki Elóhím, þar sem um æðri guði er ekki að ræða"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "fjórföld neitun með 'né ... né ... né' endurkapar hin fjórfalda ולא hebreskunnar"
+    }
+  ],
+  "translation": "svo að þér komið ekki meðal þessar þjóðir, þær sem eftir eru ⟨את⟩ með yður, og nafn guða þeirra skuluð þér ekki minnast, né svörja við þá, né þjóna þeim, né falla á kné fyrir þeim.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/23\/5-8.1792399396605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבלתי",
+      "gloss": "svo að ... ekki"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "komið"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "meðal þjóðanna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "þær sem eftir eru"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ með yður"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "og nafn"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "guða þeirra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "skuluð þér minnast"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "תשביעו",
+      "gloss": "svörja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "þjóna þeim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "né"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "falla á kné fyrir þeim"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T08:43:16.606946640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 19:27",
+  "book": "job",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כליתי er nýrun — innri sjálf manns í hebreskri líkamsmynd, ekki 'hjarta'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ולא זר: 'ekki annar\/fremmandi' — ég sjá hann sjálfur, ekki í stað annars manns"
+    }
+  ],
+  "translation": "Hann sem ég sjálfur mun sjá fyrir mér, og augu mín hafa séð — og ekki framandi — nýrun mín eyðast í faðmi mínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e587d3bf64eef27daa4e5a3d739e2325de31017fc870a615993301b9e7e6aedd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/19\/25-28.1792412125418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Hann sem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég sjálfur"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mér"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "og augu mín"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hafa séð"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "זר",
+      "gloss": "framandi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "eyðast"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nýrun mín"
+    },
+    {
+      "surface": "בחקי",
+      "gloss": "í faðmi mínum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:25.419118828Z",
+  "model": "glm-5.3"
+}

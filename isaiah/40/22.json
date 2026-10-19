@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 40:22",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חוג",
+      "rationale": "'Hring' (hringhringur jarðar) kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כדק",
+      "rationale": "Orðið merkir 'eins og þunnt (efni)' — 'fínt dúk' er ráð úr samhengi; hebreskan segir aðeins 'eins og þunnt'."
+    },
+    {
+      "kind": "addition",
+      "subject": "כאהל",
+      "rationale": "'Tjald' — Misjkan-myndin sem aftengjast."
+    }
+  ],
+  "translation": "Hann sem situr yfir hring jarðarinnar og íbúar hennar eru sem locústur — hann sem teygir himnana út eins og fínt dúk og breiðir þá út eins og tjald til að búa í.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b98ee671101c64af0e54df5fc32fe792ba3d5551e1d784d394155d4b21c38fe2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/40\/21-24.1792404586481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "hann sem situr"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "hring"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "og íbúar hennar"
+    },
+    {
+      "surface": "כחגבים",
+      "gloss": "sem locústur"
+    },
+    {
+      "surface": "הנוטה",
+      "gloss": "hann sem teygir út"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "eins og fínt dúk"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnana"
+    },
+    {
+      "surface": "וימתחם",
+      "gloss": "og breiðir þá út"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "eins og tjald"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "til að búa í"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:46.482791523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וישמע er hér orðið 'kallaði saman' (lét boð ganga) — sömu rót og 'að heyra', en samhengið krefur kalls."
+    },
+    {
+      "kind": "crux",
+      "subject": "לצור",
+      "rationale": "Frá צור 'að þrengja\/bæla inn': 'umsetja' eða 'bitna á'; kaflanót 23:7 notaði sömu rót um að David væri 'læstur inni'."
+    }
+  ],
+  "translation": "Og Sjaul kallaði ⟨את⟩ allt fólkið saman til orrustu, til að fara niður í Keíla, til að bitna á Davíð og menn hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "66975ea330c05a4fadeb42348d23eb21414ad2a443fad6bacbe928ea4e3c309c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/23\/8-8.1792416593579.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Og Sjaul kallaði saman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt fólkið"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "til orrustu"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "til að fara niður"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "í Keíla"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "til að bitna á"
+    },
+    {
+      "surface": "אל",
+      "gloss": "á"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "menn hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:53.579855012Z",
+  "model": "glm-5.3"
+}

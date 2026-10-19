@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska segir 'þjóðinni þinni' með greini þar sem hebreska hefur עמך með forskeyti"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמך\/לעם",
+      "rationale": "Sama orð 'am' endurtekið — þjóðin þín gjörist þjóð — endurskýrt í sambandinu við Jahve"
+    }
+  ],
+  "translation": "Og þú gafst ⟨את⟩ þjóðinni þinni Ísrael að þér að þjóð til eilífs, og þú, Jahve, varst þeim að Elóhím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "795360cd02e06e560c7e7eb85f5784f0f9d670ae1bcb2b3e58a932560db1337b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/17\/21-24.1792414898816.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Og þú gafst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóðinni þinni Ísrael"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóðinni þinni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "לך",
+      "gloss": "að þér"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "að þjóð"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífs"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "og þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היית",
+      "gloss": "varst"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "að Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:01:38.817904860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska er óríkis frásögn 'illmenni falla'; 'Méttu' bætt við til óskarhættar eins og þýðingar gera"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עד אעבור 'uns ég færist um' — færsla úr hættu, ekki 'komast undan' að orðinu"
+    }
+  ],
+  "translation": "Méttu illmenni falla í net sín sjálf, meðan ég færist ⟨í gegnum⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/141\/9-10.1792410957970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Méttu ... falla"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "í net sín sjálf"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "illmenni"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saman"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "עד",
+      "gloss": "meðan"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "færist í gegnum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:57.971543456Z",
+  "model": "glm-5.3"
+}

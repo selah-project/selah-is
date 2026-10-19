@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 51:23",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu þinni",
+      "rationale": "נפש er meira ‑ andardráttur\/lífskraft en „sála“ í hetjulegri merkingu."
+    },
+    {
+      "kind": "crux",
+      "subject": "מוגיך",
+      "rationale": "Rót יגה ‑ þeir sem hræra\/qalda; sumir ‑ „þeir sem fljúga yfir þig“ (frelsarar), en samhengið styður þjóstara."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר...עברים",
+      "rationale": "„Farið yfir“ og „yfir-farandi“ — sama rótin tvísvar, mynd þess að troða fólk."
+    }
+  ],
+  "translation": "og ég mun setja hann í hönd þeirra sem kvaldu þig, þeir sem sögðu sálu þinni: Láttu þig falla, að vér getum farið yfir — og þú gerðir bak þitt sem jörðina og sem götuna þeim er yfir fara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/51\/21-23.1792404813385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתיה",
+      "gloss": "og ég mun setja hann"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "מוגיך",
+      "gloss": "þeirra sem kvaldu þig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þeir sem"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sögðu"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "sálu þinni"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "láttu þig falla"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "að vér getum farið yfir"
+    },
+    {
+      "surface": "ותשימי",
+      "gloss": "og þú gerðir"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "sem jörðina"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "bak þitt"
+    },
+    {
+      "surface": "וכחוץ",
+      "gloss": "og sem götuna"
+    },
+    {
+      "surface": "לעברים",
+      "gloss": "þeim er yfir fara"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:33.386901928Z",
+  "model": "glm-5.3"
+}

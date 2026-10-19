@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 38:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Konungsstýrð framkvæmdarþáguforsaga krefst frumlags á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמיך",
+      "rationale": "חם er tengdaföðurorð; 'mági' er nálagst en íslenska hefur ekki einkennandi orð fyrir föður tengdasonar"
+    }
+  ],
+  "translation": "Og ⟨það⟩ var tilkynnt Tamar, með því að segja: Sjá, mági þinn fer upp til Timna að klippa sauðfé sitt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "39f3f4d102a9eefca9b32bc00c98176d4cde190203eed19d45444ac5ca17b3d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/38\/13-16.1792393656895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "var tilkynnt"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "með því að segja"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "חמיך",
+      "gloss": "mági þinn"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fer upp"
+    },
+    {
+      "surface": "תמנתה",
+      "gloss": "til Timna"
+    },
+    {
+      "surface": "לגז",
+      "gloss": "að klippa"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sauðfé sitt"
+    }
+  ],
+  "timestamp": "2026-10-19T07:07:36.896032009Z",
+  "model": "glm-5.3"
+}

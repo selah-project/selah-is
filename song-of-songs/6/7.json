@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רקה",
+      "rationale": "Orðið merkir þunnt höfuðskegg þunn — 'slápur' (heldur en 'enni') er nákvæmasta íslenska orðið."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבעד",
+      "rationale": "'fyrir aftan' eða 'að ofan í slæðuna'; forsetningin er tvíræð um staðsetningu."
+    }
+  ],
+  "translation": "Eins og sneið af granatepli eru slápur þínar fyrir aftan slæðu þína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/6\/5-8.1792412633852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "Eins og sneið"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "af granatepli"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "slápur þínar"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "fyrir aftan"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "slæðu þína"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:53.853741661Z",
+  "model": "glm-5.3"
+}

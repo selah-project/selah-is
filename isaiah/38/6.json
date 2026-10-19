@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lófa",
+      "rationale": "כף er lófi\/hönd; íslenska segir oft 'úr hendi', en myndin er lófi handarinnar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העיר הזאת",
+      "rationale": "Endurtekning 'þessar borgar' tvisvar í versinu — rhetoriskt þungfellíng varðveitt."
+    }
+  ],
+  "translation": "Og úr lófa konungsins af Assúr mun ég frelsa þig, og ⟨את⟩ þessa borg mun ég verja, og ég muni verja þessa borg.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/38\/5-8.1792404479605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "og úr lófa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "frels(a) ég þig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "þessa borg"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgina"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "og vernda ég"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borginni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessari"
+    }
+  ],
+  "timestamp": "2026-10-19T10:07:59.606557129Z",
+  "model": "glm-5.3"
+}

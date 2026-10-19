@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דליו שקים",
+      "rationale": "'löppina hanga slakar' (JPS) á móti 'fætur eru ójafnir' (KJV); rótin דלל er 'að vera máttlaus'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משל",
+      "rationale": "'máltæki' fyrir משל — svo vel við 'spámaður' merkingunni."
+    }
+  ],
+  "translation": "Slakir eru fætur haltans, og máltæki í munni heimskra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/26\/5-8.1792411617996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "slakir eru"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "skálmar \/ fætur"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "haltans"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "og máltæki"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "í munni"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "heimskra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:57.997855405Z",
+  "model": "glm-5.3"
+}

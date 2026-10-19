@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "reykja",
+      "rationale": "הקטיר er 'géra að reyk' — fitan verður ilm með eldi, ekki bara 'brenna'."
+    }
+  ],
+  "translation": "Og presturinn skal reykja ⟨את⟩ fituna á altarinu, og brjóstið skal vera Ahroni og sonum hans.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/7\/29-32.1792395476377.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Og ... skal reykja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fituna"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fituna"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "á altarinu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og ... skal vera"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "brjóstið"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ahroni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "og sonum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T07:37:56.378987594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnssuffixarnir -ם í תהרגם\/תאבדם skírtaðir sem ⟨þá⟩\/⟾þeim⟩ áður en sögnin kemur"
+    },
+    {
+      "kind": "crux",
+      "subject": "משובת",
+      "rationale": "'afróf\/ublot' — KJV 'turning away', JPS 'waywardness', Geneva\/geneva-1599 les 'ease' eftir öðrum raddlestri (מְנוּחָה-hliðstæðu)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פתים",
+      "rationale": "פתי er 'sælanlegur, vanlærður' — 'einfaldur' nær myndinni en ekki sannleikanum alveg"
+    }
+  ],
+  "translation": "Því að afróf hinna einföldu mun deyða ⟨þá⟩, og öryggi heimskingjanna mun eyða ⟨þeim⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bc703d6b94e596cdeb364cc9604fd788e21a0f838fa40d055ea93be60e52b0cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/1\/32-32.1792416961149.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "afróf"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "hinna einföldu"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "mun deyða ⟨þá⟩"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "og öryggi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "heimskingjanna"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "mun eyða ⟨þeim⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:01.150357674Z",
+  "model": "glm-5.3"
+}

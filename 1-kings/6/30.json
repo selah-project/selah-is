@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hann' bætt við — hebreska hefur engan lýsingarháttar þátt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "gullklæðning gólfs mustersins, innan og utan"
+    }
+  ],
+  "translation": "Og ⟨את⟩ gólf hússins klæddi hann gulli, innandyra og utan.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "da6eafa4ad6c1b2b83f07e3d7d8b12efd0db58e82794e3d129c17b74f53b2516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/6\/29-32.1792402068364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "gólf hússins"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "gólf"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "hússins"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "klæddi hann"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulli"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "innandyra"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "og utan"
+    }
+  ],
+  "timestamp": "2026-10-19T09:27:48.365622346Z",
+  "model": "glm-5.3"
+}

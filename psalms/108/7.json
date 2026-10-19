@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Jahve (ónefndur",
+      "rationale": "Beint ákall í boðshætti: hjálpaðu og svara mér"
+    },
+    {
+      "kind": "crux",
+      "subject": "og svara mér",
+      "rationale": "ענני — 'svara mér' (eintala) í MT; slökkvara lestur 'svara oss' — KJV\/ASV fylgja eintölunni"
+    }
+  ],
+  "translation": "Til að elskuðu þinnir verði frelsaðar — hjálpaðu með hægri hendi þinni og svara mér!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/108\/5-8.1792410695227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "til að"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "verði frelsaðar"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "elskuðu þinnir"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "hjálpaðu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "með hægri hendi þinni"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "og svara mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:35.228031169Z",
+  "model": "glm-5.3"
+}

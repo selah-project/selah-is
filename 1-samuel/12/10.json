@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "bæn fólksins",
+      "rationale": "Bein ávarp til Jahve í bráðum: „ræktu oss… og vér munum þjóna þér.“"
+    },
+    {
+      "kind": "addition",
+      "subject": "munum",
+      "rationale": "Íslenska framtíðarmyndin bætt við; hebreska yfirfellssniðið hefur aðeins ófullkomna sögn."
+    }
+  ],
+  "translation": "Og þeir öskruðu til Jahve og sögðu: Vér höfum syndgað, því að vér yfirgáfum ⟨את⟩ Jahve og þjónuðum ⟨את⟩ Baalím og ⟨את⟩ Ashtarót; og nú ræktu oss úr hendi óvina okkar, og vér munum þjóna þér.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/12\/9-12.1792400395269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "öskruðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sögðu"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "vér höfum syndgað"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "vér yfirgáfum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "þjónuðum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalím"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ashtarót"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Ashtarót"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nú"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "ræktu oss"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "úr hendi"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "óvina okkar"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "vér munum þjóna þér"
+    }
+  ],
+  "timestamp": "2026-10-19T08:59:55.271054690Z",
+  "model": "glm-5.3"
+}

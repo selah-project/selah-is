@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 23:13",
+  "book": "job",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באחד",
+      "rationale": "'í einu (huga)' vs 'einn \/ óbreytanlegur' — BSB velur 'unchangeable', JPS 'at one with Himself'; hið frumslegna 'í einu' haldið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er nauð eða lífskraftur, ekki ósýnileg sál — 'sál' er næsta íslenska orð en glurar myndinni."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה",
+      "rationale": "Ekki aleph-tav-merki heldur sögnin אוה 'þrá' með persónuendingu — ekki ⟨את⟩."
+    }
+  ],
+  "translation": "En hann er í einu, og hver megur snúa honum? Og sál hans þráði, og hann gjörði ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fb4e44f48d8a1c38a76e7ea64ac851ffe16ffc4c5f9289da14f18530d661717b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/23\/13-16.1792412209514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "En hann"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "er í einu"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "megur snúa honum"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "Og sál hans"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "þráði"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og hann gjörði"
+    }
+  ],
+  "timestamp": "2026-10-19T12:16:49.514829553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 36:11",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "blámuni",
+      "rationale": "תכלת er dregin af skel dýrs — blá-fjólublár litur; 'blámuni' heldur litnum en ekki upprunanum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "jaðar",
+      "rationale": "שפת er 'vör' — munnvídd tjaldsins sem jaðarmörk, myndin glatar í íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "margföldun lykkjanna",
+      "rationale": "textinn er endursagður úr 2. Mós 26:5; KJV\/JPS skilja mismunandi hvar 'ytsta' tjaldið stendur í fyrri eða seinni samfestingunni"
+    }
+  ],
+  "translation": "Og hann gjörði lykkjur af blámuni á jaðri ⟨hins⟩ eina tjalds, við enda brúnsins í samfestingunni; svo gjörði hann á jaðri ysta tjaldsins, í samfestingu hinnar annarrar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "500de5f61b8301ee5cb6ec91fd67a68edf2f38e26f299df29e4dbd2519f3cbb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/36\/9-12.1792395215719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "lykkjur"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "af blámuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "jaðri"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tjalds"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "eina"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "við enda"
+    },
+    {
+      "surface": "במחברת",
+      "gloss": "í samfestingunni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði hann"
+    },
+    {
+      "surface": "בשפת",
+      "gloss": "á jaðri"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "tjaldsins"
+    },
+    {
+      "surface": "הקיצונה",
+      "gloss": "ysta"
+    },
+    {
+      "surface": "במחברת",
+      "gloss": "í samfestingu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "hinnar annarrar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:33:35.720562591Z",
+  "model": "glm-5.3"
+}

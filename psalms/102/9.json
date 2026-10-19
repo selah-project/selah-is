@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהוללי",
+      "rationale": "'þeir sem brjálast gegn mér' vs 'fara með mig að lattergi' (svörn 'by me', KJV) — rót הלל, vera galin."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפוני \/ נשבעו",
+      "rationale": "endrtökur af sársaukanum í v.8 heldur áfram — þulur um að sæta árásum allan daginn."
+    }
+  ],
+  "translation": "Allan daginn húðstruuku mig óvinir mínir; þeir sem rísa gegn mér hafa svarið við mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/102\/9-12.1792410489415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "daginn"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "húðstrauku mig"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "óvinir mínir"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "þeir sem rísa gegn mér"
+    },
+    {
+      "surface": "בי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "hafa svarið"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:09.415776646Z",
+  "model": "glm-5.3"
+}

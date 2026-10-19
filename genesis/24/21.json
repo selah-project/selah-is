@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 24:21",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "דרכו er „vegur hans\/ferð“; „ferð“ heldur myndinni af troðinni leið"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": " forsætið „og“ á undan þögninni er sett inn til að tengja sögnina"
+    }
+  ],
+  "translation": "Og manninn undraðist hana ⟨og⟩ þagði, til að vita hvort Jahve hefði gert ferð hans vel – eða ekki.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "929efbe90f8e3e4962f02e9091b861a681496f80a429afb3f9334022efb959b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/24\/21-24.1792393108042.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Og manninn"
+    },
+    {
+      "surface": "משתאה",
+      "gloss": "undraðist"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hana"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "þagði"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "til að vita"
+    },
+    {
+      "surface": "ההצליח",
+      "gloss": "hefði gert vel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ferð hans"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    }
+  ],
+  "timestamp": "2026-10-19T06:58:28.042757965Z",
+  "model": "glm-5.3"
+}

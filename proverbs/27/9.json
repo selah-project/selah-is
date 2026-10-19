@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf greini (hjartað) og sagnfyllingu ⟨er⟩ sem hebreskan slepptir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífsandi, önd og löngun — ekki sál í síðari merkingu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ráð sálar",
+      "rationale": "עצת נפש getur verið 'ráð sem kemur frá eigin innra lífi' frekar en 'ráð vinar'"
+    }
+  ],
+  "translation": "Olía og reykelsi gleðja hjartað, og sætleiki vinar hans ⟨er⟩ frá ráði sálar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/9-12.1792411647663.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "Olía"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "og reykelsi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "gleðja"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjartað"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "og sætleiki"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "vinar hans"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "frá ráði"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:27.663630084Z",
+  "model": "glm-5.3"
+}

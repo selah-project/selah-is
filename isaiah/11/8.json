@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פתן = naðra, צפעוני = höggormur skv. dýrataflu D4"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הדה",
+      "rationale": "„að þeysa hönd“ — sögn הדה sjaldgæv, að rétta út hönd"
+    }
+  ],
+  "translation": "Og súgubarn leikur sér við holu naðranna, og yfir holu höggormsins þeysir veitt barn höndina.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/11\/5-8.1792403917039.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "Og … leikur sér"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "súgubarn"
+    },
+    {
+      "surface": "על",
+      "gloss": "við"
+    },
+    {
+      "surface": "חר",
+      "gloss": "holu"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "naðranna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og yfir"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "holu"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "höggormsins"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "veitt"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "höndina"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "þeysir"
+    }
+  ],
+  "timestamp": "2026-10-19T09:58:37.040166301Z",
+  "model": "glm-5.3"
+}

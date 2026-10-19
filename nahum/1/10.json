@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד סירים סבכים",
+      "rationale": "Lesning umdeild: 'þyrnar flæstir saman' (סבך) á móti því að lesa סובב 'umsíða' eða מסבך 'umkringja'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבכים \/ סבואים",
+      "rationale": "þverbending á סבך (flæast) og סבא (drekka til dauka) — hljóðleikur tapast í íslensku"
+    }
+  ],
+  "translation": "Því að eins og þyrnar flæstir saman og eins og drykkur þeirra drukknir — þeir verða étnir eins og þurr stráfull.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/nahum\/1\/9-12.1792408683280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "þyrnar"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "flæstir saman"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "og drykkur þeirra"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "drukknir"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "verða étin"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "eins og strá"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "þurr"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fullkominn þurrkur"
+    }
+  ],
+  "timestamp": "2026-10-19T11:18:03.281727750Z",
+  "model": "glm-5.3"
+}

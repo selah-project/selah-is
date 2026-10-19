@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nearer '_andardráttur\/lífskraftur' en 'sál' í síðari merkingu"
+    },
+    {
+      "kind": "crux",
+      "subject": "משיבת נפש",
+      "rationale": "'snýr sálinni aftur' vs 'endurreistir\/vekir sálina' — sögnin שוב merkir að snúa aftur"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur enga sögn; sagnleið í viðtökumáli bætt við"
+    }
+  ],
+  "translation": "Tóra Jahve er fullkomin, hún endurreisir sálina; vitnisburður Jahve er tryggur, hann gervir hina óreyndu vitra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/19\/5-8.1792409457509.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "fullkomin"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "hún endurreisir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálina"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "vitnisburður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "tryggur"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "hann gervir vitra"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "hina óreyndu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:57.510653316Z",
+  "model": "glm-5.3"
+}

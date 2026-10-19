@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Misjkan",
+      "rationale": "orðrétta hljóðritun 'Misjkan' í stað 'tjaldbúðar' eftir reglu D2."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הפתח לפתח",
+      "rationale": "'op ... fyrir op' — sama orð tvisvar, lykkja varðveitt."
+    }
+  ],
+  "translation": "og ⟨את⟩ reykelsisaltarinn og ⟨את⟩ stöng þess, og ⟨את⟩ smurningarolíuna og ⟨את⟩ reykelsið af ilmríkum kryddi, og ⟨את⟩ forhangið að op Misjkan, fyrir op Misjkan —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "721100d4fd704bab70b436b60f51e9ff3774907d6dc12a47d5887069d149b7d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/35\/13-16.1792395119130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "reykelsisaltarinn"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "reykelsis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stöng þess"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "stöng þess"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "smurningarolíuna"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olíu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smurningar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "reykelsið"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "reykelsið"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "af ilmríkum kryddi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "forhangið"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "forhangið"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "að op"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "fyrir op"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkan"
+    }
+  ],
+  "timestamp": "2026-10-19T07:31:59.130992629Z",
+  "model": "glm-5.3"
+}

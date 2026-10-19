@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צופים er „sotnar“ (vaxkakan) — „dropar af alifuglum“ heldur myndinni af dropandi hunangi"
+    },
+    {
+      "kind": "crux",
+      "subject": "פז",
+      "rationale": "„fíngull“ eða „hreint gull“ — sumir lesa „gull frú Parvaim“; venjulega skilið „mikið hreint gull\""
+    }
+  ],
+  "translation": "Þau eru ásættanlegri en gull, já, en mikið fíngull, og sætri en hunang og dropar af alifuglum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/19\/9-12.1792409385321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "Þau eru ásættanlegri"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "en gull"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "já, en fíngull"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mikið"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "og sætri"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "en hunang"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "og dropar"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "af alifuglum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:29:45.322372513Z",
+  "model": "glm-5.3"
+}

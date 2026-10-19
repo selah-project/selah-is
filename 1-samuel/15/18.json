@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרם",
+      "rationale": "'Að banni' heldur mynd bansins (kerem); 'eyða algerlega' týnir hinu trúarlega bannhugtaki."
+    },
+    {
+      "kind": "you",
+      "subject": "Saul",
+      "rationale": "Endursögn boðorðs Jahve til Sauls."
+    }
+  ],
+  "translation": "Og Jahve sendi þig á leið og sagði: Far og ger ⟨את⟩ syndarana, ⟨את⟩ Amalek, að banni, og berjast við hann uns þú hefur eytt þeim ⟨אתם⟩.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/15\/17-20.1792400571336.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Og sendi þig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á leið"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Far"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "og gerðu að banni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syndarana"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "syndarana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "og berjast"
+    },
+    {
+      "surface": "בו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uns"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "þú hefur eytt þeim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:51.337693783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חקה er 'skipun\/ákvæði sem rist er út' — 'lög þau sem ég hef sett' heldur myndinni"
+    }
+  ],
+  "translation": "Og þér skulið gjöra ⟨את⟩ lögmin þau sem ég hef sett, og ⟨את⟩ dóma mina skuluð þér gæta og gjöra ⟨את⟩ þá, og þér skulið byggja á landinu í öruggæði.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/25\/17-20.1792396162238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Og þér skulið gjöra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lögmin þau sem ég hef sett"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lögmin þau sem ég hef sett"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dóma mina"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dóma mina"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "skuluð þér gæta"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "og gjöra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "og þér skulið byggja"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landinu"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "í öruggæði"
+    }
+  ],
+  "timestamp": "2026-10-19T07:49:22.239364221Z",
+  "model": "glm-5.3"
+}

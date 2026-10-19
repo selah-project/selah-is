@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשחה",
+      "rationale": "'að synda\/ láta fljóta' (sjálf rótin: synda) vs. nokkrar þýðingar lesa 'ég grain' (הגה) — myndin af rekkju sem flýtur í tárum er hin bókstaflega"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטה\/ערש",
+      "rationale": "tvö orð fyrir rúm í sömu línu, eins og hebreskan endurtekur myndina"
+    }
+  ],
+  "translation": "Ég er máttþrýtt af stönunum mínum, alla nótt læt ég rekkju mína að fljóta, með tárum mínum melt ég hvílurúm mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/6\/5-8.1792409190655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ég er máttþrýtt"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "af stönunum mínum"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "læt … að fljóta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nótt"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "rekkju mína"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "með tárum mínum"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "hvílurúm mitt"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "melt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:30.656501891Z",
+  "model": "glm-5.3"
+}

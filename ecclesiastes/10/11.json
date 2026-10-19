@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעל הלשון",
+      "rationale": "'tungumeistari' — það er giftdjáfsmaðurinn sem ljúflar orminn; en sumir lesa 'væluorðamaður, slúðrari'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחש",
+      "rationale": "לחש er hvísla eða galdraþula yfir eitursnák; 'ljúflingsorð' heldur hvíslinni en ekki galdrinum"
+    }
+  ],
+  "translation": "Ef naðran bítur án þess að ljúflingsorð sé fyrir, þá er enginn ávinningur fyrir hinn tungumeistara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "77409f50db2dd2ba88e0b079de9765595825d46c2c0e3b326febddcd0d69b0f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/10\/9-12.1792413030078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "bítur"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "naðran"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "án"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ljúflingsorð"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "þá er enginn"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ávinningur"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fyrir hinn..."
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "...tungumeistara"
+    }
+  ],
+  "timestamp": "2026-10-19T12:30:30.079718066Z",
+  "model": "glm-5.3"
+}

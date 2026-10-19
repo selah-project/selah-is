@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "'fylla hönd einhvers' (מלא את יד) = að vígja til embættis; bókstafleg mynd haldin með ⟨את⟩-merki"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'verður' og 'er' bætt við sem hjálparsagnar í þolmynd íslensku"
+    }
+  ],
+  "translation": "Og presturinn sem smurður verður ⟨את⟩ og sá sem ⟨את⟩ hönd hans er fyllt til að gegna prestþjónustu í stað föður síns, hann skal gjöra yfirbætur og klæðast ⟨את⟩ linfatnaðinum, helgu klæðunum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/16\/29-32.1792395918423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "skal gjöra yfirbætur"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "presturinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "smurður verður"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann",
+      "marks": "presturinn (smurður)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "og sá sem"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "er fyllt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hönd hans"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hönd hans"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til að gegna prestþjónustu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður síns"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "og klæðast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "linfatnaðinum"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fatnaði"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lin-"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæðunum"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "helgu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:18.425138720Z",
+  "model": "glm-5.3"
+}

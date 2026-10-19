@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "prónómenið 'þess' í ⟨…⟩ bætt við í síðasta lið til að gera áttækiningu skýra"
+    },
+    {
+      "kind": "measurement",
+      "subject": "altarið",
+      "rationale": "máluð mæling á altarinu: fimm kúnnur að lengd, fimm að breidd, þrjár að hæjd"
+    }
+  ],
+  "translation": "Og þú skalt gera ⟨את⟩ altarið úr akasíuviði; fimm kúnnar að lengd og fimm kúnnar að breidd — altarið skal vera ferhyrt — og þrjár kúnnar að hæjd ⟨þess⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "af94911547d91b63b616ff6bfa23579f4a1346476cae516f31c164523953c483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/27\/1-4.1792394869850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Og þú skalt gera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarið"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "úr ... viði"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasíu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fimm"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kúnnar"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "að lengd"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fimm"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kúnnar"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "að breidd"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ferhyrt"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "og þrjár"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kúnnar"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "að hæjd ⟨þess⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:27:49.850889088Z",
+  "model": "glm-5.3"
+}

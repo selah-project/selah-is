@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Sendiráð Sanheríbistar beinir hæðilegri spurningu til Hiskíu um hvar guðir þjóðanna séu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Hena og Ivva",
+      "rationale": "Hebreska hefur ekki 'konungur' fyrir Hena og Ivva; orðatiltæki stytt — staðanfnanna fylgja listanum."
+    }
+  ],
+  "translation": "Hvar er konungurinn í Khamat, og konungurinn í Arpad, og konungurinn í borginni Sfarvajím, Hena og Ivva?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "72c39aee1522fcaa61c999f183d40a5b772baffb814418864d9d3e06af17099c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/37\/13-16.1792404494192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hvar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "í Khamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og konungurinn"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "í Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og konungurinn"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "í borginni"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sfarvajím"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "og Ivva"
+    }
+  ],
+  "timestamp": "2026-10-19T10:08:14.193526053Z",
+  "model": "glm-5.3"
+}

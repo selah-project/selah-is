@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יונת אלם רחקים",
+      "rationale": "„dufan fjarri þagna“ — líklega nafn lagagreinar; annað hvort „þögga dufan fjarri“ eða óþekkt lagið „Jonat elem rehokim“"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "graftexti\/kvæði — merking óviss, skjaldamerki sex Davíðssálma"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "bandið „—“ bætt við til að tengja yfirskriftina"
+    }
+  ],
+  "translation": "Til forkófsins, um „dufuna fjarri þagna“ — Davíðs, grafið kvæði — þegar Filistinnar gripu ⟨את⟩ hann í Gat.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/56\/1-4.1792409909421.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "til forkófsins"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "dufuna"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "þagna"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "fjarri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "grafið kvæði"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "þegar gripu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistinnar"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "í Gat"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:29.422072201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "elohé hannekhár",
+      "rationale": "„guði framandiþjóðanna“ — lítil stafur, því um líkneski þjóðanna er að ræða, ekki Elóhím."
+    },
+    {
+      "kind": "you",
+      "subject": "to húsfólki Jaakobs",
+      "rationale": "Boðsfyrisetingar beint til heimilisins."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan bætir við „ykkur“ og „um“ sem hebreskan felur í sagnmyndinni."
+    }
+  ],
+  "translation": "Þá sagði Jaakov við húsfólk sitt og við allt það sem með honum var: Hafið burt ⟨את⟩ guði framandiþjóðanna sem meðal ykkar eru, og hreinsið ykkur, og skiptið ykkar um klæði.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "0d720eeb72df5e2c260021b2b216009b992f9b660701d4dd36f475fa2a70a6f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/35\/1-4.1792393566017.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Þá sagði"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "húsfólk sitt"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og við"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "með honum var"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "Hafið burt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guði framandiþjóðanna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guði"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "framandiþjóðanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "meðal ykkar"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "og hreinsið ykkur"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "og skiptið um"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "klæði ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:06:06.018222829Z",
+  "model": "glm-5.3"
+}

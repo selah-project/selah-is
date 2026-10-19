@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "parallelismi",
+      "rationale": "Tvær tvenndir í sömu mynd: afklæðast\/klæðast, þvo\/söla — endurtekningin ber tregð brúðarinnar."
+    },
+    {
+      "kind": "alternative",
+      "subject": "איככה",
+      "rationale": "Getur verið hvatning um hvernig eða útskýring um hvers vegna — 'hvernig?' eða 'af hverju skyldi ég?'."
+    }
+  ],
+  "translation": "Ég hef farið ⟨את⟩ skyrtuna mína af; hvernig skal ég klæðast henni aftur? Ég hef þvegið ⟨את⟩ fætur mína; hvernig skal ég söla þá?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/5\/1-4.1792412660217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Ég hef farið ... af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skyrtuna mína"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "skyrtuna mína"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hvernig"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "skal ég klæðast henni aftur"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Ég hef þvegið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fætur mína"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fætur mína"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hvernig"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "skal ég söla þá"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:20.219043414Z",
+  "model": "glm-5.3"
+}

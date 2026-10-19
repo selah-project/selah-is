@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 41:11",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הנחרים",
+      "rationale": "Orðið er mynd af חרה 'brenna' — 'þeir sem brenna (af reiði)' heldur mynd eldsins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין",
+      "rationale": "כאין 'sem ekkert\/eins og ekki-vera' endurtekur sig í versi 12 með כאפס — tvö orð fyrir tómið."
+    }
+  ],
+  "translation": "Sjá, allir þeir sem brenna af reiði gegn þér skulu verða sviðnir af skömm og svívirðast; þeir skulu verða sem ⟨ekki⟩-neinn og tortíma þeir menn sem deila við þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/9-12.1792404588610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "skulu verða sviðnir af skömm"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "og svívirðast"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "הנחרים",
+      "gloss": "þeir sem brenna af reiði"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gegn þér"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "þeir skulu verða"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "sem ekkert"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "og tortíma"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "þeir menn"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "sem deila við þig"
+    }
+  ],
+  "timestamp": "2026-10-19T10:09:48.611085948Z",
+  "model": "glm-5.3"
+}

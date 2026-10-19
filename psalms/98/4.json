@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "þrjú boðorð í röð beint að allri jörðunni — sálmurinn kallar alheiminn til lofs"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הריעו",
+      "rationale": "'sprungið eyrun' — raun: heyrileg ljóð; gefið sem föðurhljóm"
+    }
+  ],
+  "translation": "Greiðið föðurhljóm til Jahve, öll jörðin; springið út,jöglið og syngið með strengjum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/98\/1-4.1792410513549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Greiðið föðurhljóm"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öll"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "Springið út"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "jöglið"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "syngið með strengjum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:33.550696229Z",
+  "model": "glm-5.3"
+}

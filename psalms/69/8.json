@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נשאתי",
+      "rationale": "„hef borist“ fyrir bókstæða „hef lyft“ — hebreskan ber smánina eins og byrði"
+    }
+  ],
+  "translation": "Því að fyrir þína söku hef ég borist smán, og skömm hefur hulið andlit mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/5-8.1792410064007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "fyrir þína söku"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "hef ég borist"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smán"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "hefur hulið"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "skömm"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:04.008875212Z",
+  "model": "glm-5.3"
+}

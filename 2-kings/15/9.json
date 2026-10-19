@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 15:9",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það sem",
+      "rationale": "Íslenska þarf umritun á הרע með 'það sem raunt var'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hann varð ekki frá",
+      "rationale": "סור er 'að snúa sér burt'; 'varð ekki frá' gefur sama mynd"
+    }
+  ],
+  "translation": "Og hann gerði það sem raunt var í augum Jahve, eins og feður hans höfðu gert; hann varð ekki frá syndum Jeróveam sonar Névats, er hann hafði látið ⟨את⟩ Ísrael syndga.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f108304d1e7bfc981f5b1a1aee323a7a651ec9014b736040a583409c6dce1117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/15\/9-12.1792403161991.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gerði"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "það sem raunt var"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "höfðu gert"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feður hans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "hann varð"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "frá syndum"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeróveam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Névats"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hafði látið syndga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T09:46:01.992117554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "מי יתן er hebreskt óskarform ('Gefið hefði!') — spurningin er leiðréttt til íslenskrar spurningar"
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "Versið lýtur að því hulinna að enginn getur skapað hreint ór óhreinu — svar vantar, 'ekki einn'"
+    }
+  ],
+  "translation": "Hver getur gefið hreint ór óhreinu? Ekki einn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/14\/1-4.1792411999801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "getur gefið"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hreint"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ór óhreinu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:19.803056928Z",
+  "model": "glm-5.3"
+}

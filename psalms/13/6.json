@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "khesed er haldið sem láni (D2), ekki þýtt 'miskunn'."
+    },
+    {
+      "kind": "crux",
+      "subject": "גמל עלי",
+      "rationale": "'hann hefur gjörð mér bountifully' — þýtt 'gagnlaunast mér góðu'; aðrir lesa 'sýnt mér velgjörning'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'góðu' bætt við því að גמל segir ekki til um hvort vel eða illt — samhengið gefur gott."
+    }
+  ],
+  "translation": "En ég treysti khesed þínu, hjarta mitt gleðst í frelsun þinni, ég vil syngja Jahve, því að hann hefur gagnlaunast mér góðu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8d6992d9832e346d4b460c428112d5d21a27533da19243a0a01d923babea4ace",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/13\/5-6.1792409278664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "khesed þínu"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ég treysti"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "gleðst"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "í frelsun þinni"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ég vil syngja"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "hefur gagnlaunast"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mér góðu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:58.665109552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Talaðu við Ísraelsmenn",
+      "rationale": "Boðsmynd beint að Mósje um að tala til lýðsins"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraelsmanna",
+      "rationale": "Bein ræða til synja Ísraels í gegnum Mósje"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקריב\/קרבן",
+      "rationale": "Sama rót קרב — 'færa-nær' — endurtekin þrisvar í versinu; fórn er hið-nærdæma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרבן",
+      "rationale": "קרבן er 'það sem er fært nær' — íslenska 'fórn' gleymir nálægðarmyndinni"
+    }
+  ],
+  "translation": "Talaðu við Ísraelsmenn og segðu þeim: Maður af ykkur, ef hann færir fórn Jahve — af búfénu, af nautgripum eða sauðfé — skuluð þér færa ⟨את⟩ fórn ykkar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/1\/1-4.1792395407755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Talaðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "og segðu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maður"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "hann færir"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "af ykkur"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "fórn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "búfénu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "nautgripum"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "eða af"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sauðfé"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "skuluð þér færa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fórn ykkar"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "fórn ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:47.756663306Z",
+  "model": "glm-5.3"
+}

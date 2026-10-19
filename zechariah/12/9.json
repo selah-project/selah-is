@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Vilhálsmynd 'mun' bætt við — hebreskan notar afturbeygt sagnmynd við tvítekningu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "leitast við að eyða",
+      "rationale": "אבקש להשמיד er bókstaflega 'leita að því að eyða' — leitin er tilgangsmerking, ekki óvissa."
+    }
+  ],
+  "translation": "Og það mun verða á þeim degi að ég mun leitast við að eyða ⟨את⟩ öllum þjóðunum, þeim er koma gegn Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a2a2d45619bcb0938742c72e2da7193128dc9b1cd953dca25184d48bd08a2f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/12\/9-12.1792409070845.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það mun verða"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "mun ég leitast"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "við að eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllum þjóðunum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "þeim er koma"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:24:30.846055878Z",
+  "model": "glm-5.3"
+}

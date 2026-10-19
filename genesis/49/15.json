@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למס עבד",
+      "rationale": "'þræll undir útlagðri vinnu' — tvö orð bundin: skattur + stræfnavinna."
+    },
+    {
+      "kind": "elision",
+      "subject": "עבד",
+      "gloss": "sérmerkt með 'þræls' — hebreska setur tvö orð, íslenska eitt samsett."
+    }
+  ],
+  "translation": "Og hann sá hvíluna, að hún var góð, og ⟨את⟩ landið, að það var yndislegt, og hann beygði öxl sína til að bera, og varð til skattþræls.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/49\/13-16.1792394002628.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og hann sá"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "hvíluna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "góð"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "landið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "yndislegt"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "beygði"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "öxl sína"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "til að bera"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "varð"
+    },
+    {
+      "surface": "למס",
+      "gloss": "til skattþræls"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "(þræll)"
+    }
+  ],
+  "timestamp": "2026-10-19T07:13:22.629359143Z",
+  "model": "glm-5.3"
+}

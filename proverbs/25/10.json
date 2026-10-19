@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחסדך",
+      "rationale": "lítið notaða orðið חסד hér: 'gefur þér skömm' (midrash), eða 'sýnir þér ókærleika' — botninn er óviss."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sá að — Hebrew begins with פן alone; Icelandic needs the conjunction to bind to v. 9."
+    }
+  ],
+  "translation": "sá sem það heyrir bætir þér skömm, og orphanlegt orð um þig hverfur ekki burt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/25\/9-12.1792411550860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "sá að"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "bætir þér skömm"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sem heyrir"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "og orphanlegt orð um þig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hverfur burt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:50.861006464Z",
+  "model": "glm-5.3"
+}

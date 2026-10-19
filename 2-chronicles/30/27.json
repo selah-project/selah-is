@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "„var heyrð“ — hebreskan segir aðeins וישמע „og var heyrt“; JPS bætir við „af HaShem“ en textinn nefnir ekki hver heyrði."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לשמים er tvítala („himnunum tveim“) — hér „til himnanna“; tvímyndin helst með fleirtölu."
+    }
+  ],
+  "translation": "Og prestarnir, Levítarnir, risu upp og blessuðu ⟨את⟩ fólkið, og rödd þeirra var heyrð, og bæn þeirra kom í helga dvöl hans, til himnanna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "83a786b04a31341ae3d91390297969cf832cac6ca0e837881cc8b810b45eb387",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/30\/25-27.1792415961692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "og risu upp"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestarnir"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítarnir"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "og blessuðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólkið"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og var heyrð"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "rödd þeirra"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "og kom"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "bæn þeirra"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "í dvöl"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "helga hans"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "til himnanna"
+    }
+  ],
+  "timestamp": "2026-10-19T13:19:21.693025013Z",
+  "model": "glm-5.3"
+}

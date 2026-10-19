@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחדו",
+      "rationale": "'saman' — JPS les 'makest me dwell alone' (לבדד fyrst), en lesingin 'saman\/í einu' er nánum bókstæðari."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלום",
+      "rationale": "'friði' — שלום er víðara: heilleiki, velferð, velgengni."
+    }
+  ],
+  "translation": "Í friði mun ég um saman leggjast niður og sofa, því að þú, Jahve, einn lætur mig búa ⟨í⟩ öruggu⟨ri⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1814adc919befac7216545885acbe320f7d614af3de7993ff831b253c13f3c5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/4\/9-9.1792409159193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Í friði"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saman"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "leggjast niður"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "og sofa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "í öruggu"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "lætur mig búa"
+    }
+  ],
+  "timestamp": "2026-10-19T11:25:59.194391300Z",
+  "model": "glm-5.3"
+}

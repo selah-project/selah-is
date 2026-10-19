@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨þau⟩",
+      "rationale": "הנה er áherslufall samtenging sem íslenskan þarf að ljúka með fornafni"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אפילות",
+      "rationale": "'síþroskað' — orðið kemur aðeins fyrir hér; KJV 'not grown up' vs. JPS 'ripen late'"
+    }
+  ],
+  "translation": "En hveitið og speltið voru ekki slegin, því ⟨þau⟩ eru síþroskuð.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/29-32.1792394266115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "En hveitið"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "og speltið"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "voru slegin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "eru síþroskuð"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨þau⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:46.116689597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שכבתו",
+      "rationale": "Bókstaflega „lægið sitt“ — kynlegt samfarar; þýtt „líðan sína“ sem nálgast hið upprunalega"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "„skulið þið drepa“ — boð í annarri persónu fjöltölu til Ísraelsmanna"
+    }
+  ],
+  "translation": "Og maður sem leggur líðan sína hjá skepnu — dauða skal hann deyja, og ⟨את⟩ skepnuna skulið þið drepa.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/20\/13-16.1792396048152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og maður"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "leggur"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "líðan sína"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "hjá skepnu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal hann deyja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "skepnuna"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "skepnuna"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "skulið þið drepa"
+    }
+  ],
+  "timestamp": "2026-10-19T07:47:28.153527973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki ódauðleg sál í grískum skilning."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'þau' er bætt við þar sem hebreska sögnin ber útklíðuða hluti (אהבם)."
+    }
+  ],
+  "translation": "Sálu mín hefur geymt vitnisburði þína, og ég elska ⟨þau⟩ með miklu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c402f04e34d7358455eb2e7a20b694f363265af7a05473592faf51ea6042ce07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/165-168.1792410826324.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "hefur geymt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mín"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "vitnisburði þína"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "og ég elska ⟨þau⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "með miklu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:46.324861896Z",
+  "model": "glm-5.3"
+}

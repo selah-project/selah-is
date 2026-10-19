@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "טנא er körfa fléttruð úr víði; 'karfa' heldur myndinni betur en almenn 'korgur'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur enga sagn; 'verði' er sett til að íslenskan séheili"
+    }
+  ],
+  "translation": "Bölvuð verði korfan þín og deigtrogið þitt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f0defbafbbda89eae1d0eb94f35ff549b7f66c3fb06ecb3008fbab28b90dee60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/28\/17-20.1792398433516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Bölvuð verði"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "korfan þín"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "og deigtrogið þitt"
+    }
+  ],
+  "timestamp": "2026-10-19T08:27:13.516617741Z",
+  "model": "glm-5.3"
+}

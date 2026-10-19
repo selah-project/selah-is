@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על דברתי",
+      "rationale": "'í röð' er túlkun — orðatilhögunin er einungis hér í Tanakh (nánast hapax); 'vegna máls míns' er bókstaflegri lesning"
+    },
+    {
+      "kind": "you",
+      "subject": "ávarp konungsins",
+      "rationale": "Jahve sver konunginum embætti prests að eilífu"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דברתי",
+      "rationale": "nærrun einungis í þessu versi — grunnur 'eftir röð Malkí-Tsedek'"
+    }
+  ],
+  "translation": "Jahve hefur svarið og mun ekki iðrast: þú ert prestur til eilífar æva, í röð Malkí-Tsedek.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/110\/1-4.1792410720700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "hefur svarið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og mun ekki"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "iðrast"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prestur"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "til eilífar æva"
+    },
+    {
+      "surface": "על",
+      "gloss": "í"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "röð"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malkí-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:00.701495589Z",
+  "model": "glm-5.3"
+}

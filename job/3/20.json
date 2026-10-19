@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálar",
+      "rationale": "נפש er háls\/önd\/lífskraftur, ekki ósköpud sál — 'bitur í lífskrafti' er bókstaflegri mynd."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Job spyr Guð beint — kviðing sem hefur engan mannlegan viðtakanda."
+    }
+  ],
+  "translation": "Af hverju er ljósi gefið þeim er stritar, og líf þeim er bitur sálar?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d35fe2d4d5ee4ece28db970e2d86c0f4b03b53991b29abe1b1be270a26a2180e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/3\/17-20.1792411766359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Af hverju"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "er gefið"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "þeim er stritar"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ljósi"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "og líf"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "þeim er bitur"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:26.360841263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח þýtt 'rúakh' eftir reglu D2 — vindur\/andi\/andedráttur í einu orði"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Þegar' og 'en' sett inn til að tengja setningarnar sem hebreskan raðar samhliða"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהתעטף",
+      "rationale": "'Að hjast\/slöppast' — sumir þýða 'að verða klætt yfir', mynd af dúk falling yfir anda"
+    }
+  ],
+  "translation": "Þegar rúakh mín hjast yfir mig — en þú þekkir slóð mína; á þeirri leið sem ég geng hega þeir gildru fyrir mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9d5ab552f0f2d52c46e1e19b00a3216d4ba8beba227dd499df185e35207b5a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/142\/1-4.1792410985280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "þegar ... hjast"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mig"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rúakh mín"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en þú"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "þekkir"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "slóð mína"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "á leið"
+    },
+    {
+      "surface": "זו",
+      "gloss": "þeirri"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "sem ég geng"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "hega þeir"
+    },
+    {
+      "surface": "פח",
+      "gloss": "gildru"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:25.281314642Z",
+  "model": "glm-5.3"
+}

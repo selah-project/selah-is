@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עם er hér 'fólkið' (sem safnað heild), ekki þjóðin"
+    },
+    {
+      "kind": "alternative",
+      "subject": "b\/7452",
+      "rationale": "רעה getur líka verið 'hrópi' eða 'gleðikall' — samanburður við raunina í v.18"
+    }
+  ],
+  "translation": "Og Jehósjúa heyrði ⟨את⟩ raddir fölsksins ⟨í⟩ ógurlegum kalli og sagði við Mósje: Raddir styrjaldar ⟨eru⟩ í herbúðunum!",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/32\/17-20.1792395121992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehósjúa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raddir fölsksins"
+    },
+    {
+      "surface": "קול",
+      "gloss": "raddir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólksins"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "í ógurlegum kalli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "קול",
+      "gloss": "raddir"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "styrjalda"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "í herbúðunum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:32:01.993461007Z",
+  "model": "glm-5.3"
+}

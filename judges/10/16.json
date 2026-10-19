@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותקצר נפשו",
+      "rationale": "'sálin styttist' — hebreskt myndmál um óþol; 'angaðist' heldur myndinni um andlega þungan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "gloss": "נפש er lífsaftur og andardráttur, ekki 'sál' í síðari merkingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעבדו",
+      "rationale": "sama sögn og um guði framandi þjóðanna í 10:6 og 10:13 — þjónustan snýr nú eingöngu að Jahve"
+    }
+  ],
+  "translation": "Og þeir tóku burt ⟨את⟩ guði framandi þjóðanna úr sinni miðju og þjónuðu ⟨את⟩ Jahve; og sálin hans angaðist af erfiðleikum Ísraels.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/10\/13-16.1792399666595.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Og þeir tóku burt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guði framandi þjóðanna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guði"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "framandi þjóðanna"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "úr sinni miðju"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "og þjónuðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "angaðist"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálin hans"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "af erfiðleikum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T08:47:46.597044774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחשב",
+      "rationale": "„Hyggja á“ eða „ætla sér \/ reikna fyrir“ — sálmurinn lætur Adónaí ákveða frestinn; tvær aflæsingar eru kunnar."
+    },
+    {
+      "kind": "you",
+      "subject": "til Adónaí",
+      "rationale": "Bænin snýr að Adónaí í annarri persónu: „þú ert ... farðu ekki að seinka.“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "flótti",
+      "rationale": "מפלטי er „útreið minn, sú slóð sem ég slepp um“ — myndin er rými, ekki einungis sá sem frelsar."
+    }
+  ],
+  "translation": "En ég er fátækur og nauðstungan; Adónaí hyggst hyggja á mig — þú ert hjálp mín og flótti minn; Elóhím minn, farðu ekki að seinka.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c8bdd6fcd811c656ad7851a728d61b6c7a40ab41bfbe17b4c57cb481b8b642ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/40\/17-18.1792409699637.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fátækur"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og nauðstungan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hyggst hyggja"
+    },
+    {
+      "surface": "לי",
+      "gloss": "á mig"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "hjálp mín"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og flótti minn"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "farðu að seinka"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:59.638295231Z",
+  "model": "glm-5.3"
+}

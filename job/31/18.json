@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 31:18",
+  "book": "job",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנחנה — hver leiðbeint",
+      "rationale": "Greinirinn vantar; KJV\/ASV les 'henni' (ekkjunni úr v. 16–17), ýmsir les 'stýrt mér' — hebreskan hefur enga hlutþáttu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גדלני",
+      "rationale": "Formlega 'hann ól mig upp' eða 'ólst upp með mér' — hvort leshátti er varðveitt í 'ólst hann upp hjá mér'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslandska þarf hlutþáttu 'honum' sem hebreskan sleppir."
+    }
+  ],
+  "translation": "Því að frá æsku minni ólst hann upp hjá mér sem með föður, og frá móður minnar kviði hef ég leiðbeint ⟨honum⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "941e16eb3260e634584627e6b6fa20e1e0ccad1abd0c0132556eaab5cd34ee2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/31\/18-19.1792417036161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "frá æsku minni"
+    },
+    {
+      "surface": "גדלני",
+      "gloss": "ólst hann upp hjá mér"
+    },
+    {
+      "surface": "כאב",
+      "gloss": "sem með föður"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "og frá kvið"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "móður minnar"
+    },
+    {
+      "surface": "אנחנה",
+      "gloss": "hef ég leiðbeint"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:16.161415557Z",
+  "model": "glm-5.3"
+}

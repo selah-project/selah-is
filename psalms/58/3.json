@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפלסון",
+      "rationale": "„vega“ eða „brauta veginn“ (palas) — KJv „weigh“ vs „sléttið veg fyrir\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "ógierningar",
+      "rationale": "עוול: siðleg óglæði, myndað með ó- samkvæmt reglu um stakorð"
+    }
+  ],
+  "translation": "Nei, í hjarta vinnið þér ógierningar; á jörðinni vega hendur þyr vegið ofbeldi handa ykkar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/58\/1-4.1792409919009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "í hjarta"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ógierningar"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "vinnið þér"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "á jörðinni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldi"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "handa ykkar"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "vegið þyr"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:39.010041328Z",
+  "model": "glm-5.3"
+}

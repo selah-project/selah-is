@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Misjkan haldið sem heiti, ekki þýtt sem 'tjaldbúð' (D2)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאהל אל אהל וממשכן",
+      "rationale": "Endurtekning tjald–til–tjalds og Misjkan; hreyfingu Guðs með Ísrael lýst í tjaldbúningi"
+    }
+  ],
+  "translation": "Því að ekki hef ég búið í húsi frá þeim degi er ég hélt upp Ísrael ⟨את⟩, fram á þennan dag, og hef ég verið frá tjaldi til tjalds og frá Misjkan.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/17\/5-8.1792414938281.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "hef ég búið"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "היום",
+      "gloss": "þeim degi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "hélt ég upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fram á"
+    },
+    {
+      "surface": "היום",
+      "gloss": "þennan dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þennan"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "og hef ég verið"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "frá tjaldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tjalds"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "og frá Misjkan"
+    }
+  ],
+  "timestamp": "2026-10-19T13:02:18.282628428Z",
+  "model": "glm-5.3"
+}

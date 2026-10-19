@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהמו ככלב",
+      "rationale": "Hundageltingarmyndin: öskurinn (המה) og hundurinn fellast saman í ljóðlínu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þeir' bætt við — hebreska sögnin ber frumlagið í fleygformi sínu"
+    }
+  ],
+  "translation": "Þeir snúa aftur um kvöldið, gelta eins og hundur og fara um kringum borgina.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/5-8.1792409935158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "þeir snúa aftur"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "um kvöldið"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "gelta"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "eins og hundur"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "og fara um kringum"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "borgina"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:55.159751886Z",
+  "model": "glm-5.3"
+}

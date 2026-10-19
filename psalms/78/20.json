@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hold",
+      "rationale": "שאר merkir bókstaflega 'kjöt, hold, fæða' — 'hold' heldur myndinni en geta líka verið 'fæðu'."
+    },
+    {
+      "kind": "mystery",
+      "subject": "spurningarnar",
+      "rationale": "Tvær efa-spurningar endurtaka v. 19 og loka ræðu fólksins — textinn heldur svari í leynd til v. 23–29."
+    }
+  ],
+  "translation": "Sjá, hann laust klefarann og vötn runnu, og straumar flæddu yfir — getur hann einnig gefið brauð, eða búið til hold fyrir þjóð sína?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/17-20.1792410214723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "laust"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klefarann"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "og runnu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötn"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "og straumar"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "flæddu yfir"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brauð"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "getur hann"
+    },
+    {
+      "surface": "תת",
+      "gloss": "gefið"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "búið til"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hold"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "fyrir þjóð sína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:34.724560536Z",
+  "model": "glm-5.3"
+}

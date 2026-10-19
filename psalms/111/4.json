@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "fordæmi í þriðju persónu bætt við — hebreska segir aðeins עשה 'gjörði'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "זכר",
+      "rationale": "minningin — verkunum komið fyrir til að muna þau, athöfn talningar og varðveislu"
+    }
+  ],
+  "translation": "Minning gjörði hann af undrum sínþá, miskunnsamur og raunhærur er Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/111\/1-4.1792410711732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Minning"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði hann"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "af undrum sínþá"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "miskunnsamur"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "og raunhærur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:51.733319750Z",
+  "model": "glm-5.3"
+}

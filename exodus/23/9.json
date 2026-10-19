@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש merkir andardrátt\/lífsátt; 'sálu' heldur myndinni en 'hjarta' (KJV) gerir það ekki."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagtía 'skalt þú' bætt við; hebreskan segir einfaldlega 'ekki skalt þú þjaga'."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint ávarp til Ísraels í lögboði."
+    }
+  ],
+  "translation": "Og útlendinga skalt þú ekki þjaga, þér þekkið ⟨את⟩ sálu útlendingsins, því að útlendingar voru þér í landi Mitsrajím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6dec472d277ca4b284cf7c1e10c3b415e3e19755dfdfe02f053ff89bf7763595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/23\/9-12.1792394709453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Og útlendinga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "skalt þú þjaga"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "þekkið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálu útlendingsins"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálu"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "útlendingsins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "útlendingar"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "voru þér"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:09.454399647Z",
+  "model": "glm-5.3"
+}

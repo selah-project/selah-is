@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Þýðingin bæir við 'sá sem' — hebreskan hefur aðeins ţáð sögn og þol."
+    }
+  ],
+  "translation": "Ekki skal búa ⟨sá sem⟧ gerir svik í miðju húss míns; sá sem talar lygi — ekki skal hann standa gegn augum mínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/101\/5-8.1792410566888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "skal búa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "húss míns"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gerir"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "svik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sá sem talar"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lygi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "skal hann standa"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augum mínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:26.889593976Z",
+  "model": "glm-5.3"
+}

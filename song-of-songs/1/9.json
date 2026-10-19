@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לסוסתי",
+      "rationale": "Feminínan 'hryssa' (mín hryssa) á móti karlkyns hestum í vögnum — sumir þýða 'hestasveit'; myndin er ein kona meðal flokks stála."
+    },
+    {
+      "kind": "substitution",
+      "subject": "elskan mín",
+      "rationale": "רעיתי er kvenkyns 'félagkona mín, vinarkona mín' — persónuorð, ekki ástarheiti í nútímaskilningu."
+    }
+  ],
+  "translation": "Við hryssuna mína meðal vagna Paróh hefi ég líkt þér, elskan mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/1\/9-12.1792412584702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "við hryssuna mína"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "meðal vagna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróh"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "hefi ég líkt þér"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "elskan mín"
+    }
+  ],
+  "timestamp": "2026-10-19T12:23:04.703150552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 21:17",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נר",
+      "rationale": "ניר er lampi\/ljós — myndin er olíulampi Davíðs, ekki abstrakt 'ljós'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "H854 'með' en ekki H853 markið; ritað ⟨את⟩ með bandi til að greina"
+    },
+    {
+      "kind": "you",
+      "subject": "til Davíðs",
+      "rationale": "Menn Davíðs segja honum beint: ekki skalt þú fara út í orrustu"
+    }
+  ],
+  "translation": "Og Avíshai sonur Tserújju kom honum til hjálpar og laust ⟨את⟩ Filistann og felldi hann. Þá sóru menn Davíðs honum og sögðu: Ekki skalt þú fara ⟨את⟩ með okkur út í orrustu aftur, og ekki skalt þú slökkva ⟨את⟩ ljós Ísraels.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "eff696a0868f12bbf66ca6806a19c1c8b560b88bd6bfc3fae46da5e3b266fc6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/21\/17-20.1792401733916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזר",
+      "gloss": "kom til hjálpar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avíshai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserújju"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og laust"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistann"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistann"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "og felldi hann"
+    },
+    {
+      "surface": "אז",
+      "gloss": "þá"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "sóru"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "menn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sögðu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "skalt þú fara út"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aftur"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ með okkur"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "í orrustu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "skalt þú slökkva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ljós Ísraels"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ljós"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T09:22:13.917728369Z",
+  "model": "glm-5.3"
+}

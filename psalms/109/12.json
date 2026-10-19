@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf hjálparsögn „sé\/veri“ — hebreskan hefur aðeins neitun og sagnmyndir"
+    }
+  ],
+  "translation": "Sé enginn sem dregi khesed að honum, og sé enginn sem sýni miskunn munaðarleysingjum hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2291f4c1bd47c6d462e720781b2d1a314f3d533a96dcc1668c2751505c8fa367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/9-12.1792410681979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Sé ekki"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "veri"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "משך",
+      "gloss": "dregi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og sé ekki"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "veri"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "sýni miskunn"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "munaðarleysingjum hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:21.980678080Z",
+  "model": "glm-5.3"
+}

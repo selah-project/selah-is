@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 19:13",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "היבל er hornblast — 'júbilar' vísa til-hljóðs, ekki hátíðar; 'ljúður' heldur myndinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סקול יסקל · ירה יירה",
+      "rationale": "Infinitivus absolutus-tvenna, 'grýtt skal hann grýttur verða' — ættarþungi glatarst nokkuð"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hönd' flokkað með בו — hebreskan segir 'ekki skal handleggnast honum', höndin er mynd tæknisins"
+    }
+  ],
+  "translation": "Ekki skal handleggnast honum — hann skal áreiðanlega grýtt verða eða skotinn verða; hvort sem það er búfé eða maður, skal hann ekki lifa. Þegar ljúðurinn er dreginn langt, þá mega þeir fara upp í fjallið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f44a019e4fb83735145b00c9c7f001bc980c12004bfd3329979dfc71dfd20e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/19\/13-16.1792394568459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "skal handleggnast"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "grýtt"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "verða grýttur"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "skotinn"
+    },
+    {
+      "surface": "יירה",
+      "gloss": "verða skotinn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvort sem"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "búfé"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eða"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "lifa"
+    },
+    {
+      "surface": "במשך",
+      "gloss": "þegar … er dreginn"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "ljúðurinn"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mega fara upp"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "í fjallið"
+    }
+  ],
+  "timestamp": "2026-10-19T07:22:48.459823273Z",
+  "model": "glm-5.3"
+}

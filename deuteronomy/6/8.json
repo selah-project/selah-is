@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "טטפת",
+      "rationale": "Orðið kemur aðeins fyrir hér og í 2. Mós 13:15–16 og 5. Mós 11:18; merking óviss — 'band á enni' eða 'pílkar'."
+    },
+    {
+      "kind": "crux",
+      "subject": "pílkar",
+      "rationale": "טוטפת: 'framhliðsband' (JPS 'frontlets') gegn yfirlýst merkingu; 'pílkar' er gamalt íslenskt orð fyrir bandað skrautmörk."
+    },
+    {
+      "kind": "alternative",
+      "subject": "lýtt eða bókstafleg binding",
+      "rationale": "Sumir lesa sem myndræna tæknháttu um að halda orðunum ávalt í huga, en textinn segir beint 'binda'."
+    }
+  ],
+  "translation": "Og þú skalt binda þau sem merki á hönd þína, og þau skulu vera sem pílkar milli augna þínra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "008aefdb371f4e0d31dd1d15971334b645c64391e9adc866b24a445647d6bbf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/6\/8-8.1792416416862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "Og þú skalt binda þau"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "sem merki"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "hönd þína"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "og þau skulu vera"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "sem pílkar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "augna þínra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:56.862800136Z",
+  "model": "glm-5.3"
+}

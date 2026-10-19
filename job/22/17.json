@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 22:17",
+  "book": "job",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "'þeim' — en sum skýringar lesa 'oss' (LXX, Vulgata); hebreskan segir þriðju persónu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאל",
+      "rationale": "לָאֵl með greini getur verið 'til Guðs' eða heitið El; hér haldið sem El"
+    }
+  ],
+  "translation": "Þeir sem sögðu til El: Vík frá oss! og hvað getur Sjaddaí gjört þeim?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/22\/17-20.1792412152216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "þeir sem sögðu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "til El"
+    },
+    {
+      "surface": "סור",
+      "gloss": "vík"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "frá oss"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hvað"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "getur gjört"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddaí"
+    },
+    {
+      "surface": "למו",
+      "gloss": "þeim"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:52.216821068Z",
+  "model": "glm-5.3"
+}

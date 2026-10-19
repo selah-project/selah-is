@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחתה",
+      "rationale": "„hvert móti systur sinni“ — hebreskt myndmál fyrir „hvert á móti öðru“, skilið bókstaflega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "handleggir",
+      "rationale": "ידות er „hendur“ — tennar tengiliða á borðinu; „hendur“ heldur lögun orðsins"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Smíðalisti Tjáldnahússins: mælingar og liðir byggingarinnar taldir"
+    }
+  ],
+  "translation": "Tvær hendur á einu borði, tengdar saman, hvert gengur móti systur sinni; svo skalt þú gera við öll borð Misjkansins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4ba5905649043316d4b06920bdb369035029294b469f1c0299e63a9592c289f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/26\/17-20.1792394866322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "tvær"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "hendur"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "á borði"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "einu"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "tengdar saman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "hvert"
+    },
+    {
+      "surface": "אל",
+      "gloss": "móti"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "systur sinni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skalt þú gera"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "við öll"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "borð"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkansins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:27:46.323454552Z",
+  "model": "glm-5.3"
+}

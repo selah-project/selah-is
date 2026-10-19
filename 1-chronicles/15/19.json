@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 15:19",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במצלתים",
+      "rationale": "Tvítalan (dual) í orðinu merkir tveim málmhljóðfærum sem sláð er saman — \"tvöföld simböl\" varðar tvítöluna."
+    },
+    {
+      "kind": "elision",
+      "subject": "להשמיע",
+      "rationale": "Orðið er sagnmynd \"gera að heyra\" — \"láta heyra\" heldur orðmynd í stað \"hljóma\"."
+    }
+  ],
+  "translation": "Og söngvararnir Heiman, Asaf og Eitan, á tvöföldum simbölum úr eiri, til að láta heyra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8a4df17afd2251ff5888bee062b38d79338c347a60e4f986176a84385b9e3223",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/15\/17-20.1792414796143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמשררים",
+      "gloss": "og söngvararnir"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Heiman"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "og Eitan"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "á tvöföldum simbölum"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "úr eiri"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "til að láta heyra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:59:56.145026813Z",
+  "model": "glm-5.3"
+}

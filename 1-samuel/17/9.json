@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועבדתם אתנו",
+      "rationale": "אתנו er fornafn í persónu ('okkur'), ekki greinirinn את einn — glosan ⟨את⟩ er sett samkvæmt reglu Selah."
+    }
+  ],
+  "translation": "Ef hann má berjast við ⟨את⟩ mig og slegið mig, munum vér verða ykkar að þrælum; en ef ég meg fyrir honum og slest hann, munuð þér verða okkur að þrælum og þjóna ⟨את⟩ okkur.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/17\/9-12.1792400574484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ef"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "má"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "berjast"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "við ⟨את⟩"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "og slegið mig"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "munum vér verða"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkar"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "að þrælum"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en ef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "meg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "fyrir honum"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "og slest hann"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "munuð þér verða"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "okkur"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "að þrælum"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "og þjóna"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "okkur"
+    }
+  ],
+  "timestamp": "2026-10-19T09:02:54.485214965Z",
+  "model": "glm-5.3"
+}

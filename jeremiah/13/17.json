@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 13:17",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nálgast 'lífsönd\/holdgerving lífskrafts', ekki ósýnileg sál í grískum skilningi"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur enga sögn í 'hjörð Jahve ⟨er⟩ tekin' — vísir sóttur úr samhengi"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "versið beinist til lýðsins í öðru persónufleirtölu: 'ef þið heyrið'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמע\/תדמע\/דמעה",
+      "rationale": "endurtekning rætur grátsatriés þrisvar í einni línu, tapast að hluta í íslensku"
+    }
+  ],
+  "translation": "En ef þið heyrið hana ekki, mun sál mín gráta í leyni sakir yfirgangs, og grátandi mun hún gráta og auga mitt mun falla tár, því að hjörð Jahve er tekin í ánauð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80e5b47075691074f4ecace86bc603c3b28c8848c517efaf656d5d11b92090ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/13\/17-20.1792405681576.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En ef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשמעוה",
+      "gloss": "þið heyrið hana"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "í leyni"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "mun gráta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sakir"
+    },
+    {
+      "surface": "גוה",
+      "gloss": "yfirgangs"
+    },
+    {
+      "surface": "ודמע",
+      "gloss": "grátandi"
+    },
+    {
+      "surface": "תדמע",
+      "gloss": "mun hún gráta"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "og mun falla"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "auga mitt"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "tár"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "er tekin"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "hjörð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T10:28:01.577240182Z",
+  "model": "glm-5.3"
+}

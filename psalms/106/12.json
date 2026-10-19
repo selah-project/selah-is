@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "האמין ב is 'trust in\/believe' by building up (root אמן), rendered with Icelandic 'trúa' rather than the literal 'made firm\/supported'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebrew has no subject pronoun; 'þeir' (they, Israel) is supplied from context."
+    }
+  ],
+  "translation": "Þá trúðu þeir orðum hans, þeir sungu lof hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cb7030353ad5cfb6fa06b71d5fc221fd617b12ac251daa8b33c0e2afbcdd88a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/12-12.1792416952482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Þá trúðu þeir"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "orðum hans"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "þeir sungu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lof hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:52.483374346Z",
+  "model": "glm-5.3"
+}

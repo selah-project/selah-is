@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnar eru hvorki í hebreskunni — 'í vögnum' og 'á hestum' standa eintómar; ⟨eru⟩ sett í sambandi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלה...ואלה",
+      "rationale": "Endurtekið 'þessir... og þeir' skapar andstæðu við 'en vér'; mótanleg rök í ljóðinu"
+    }
+  ],
+  "translation": "Þessir ⟨eru⟩ á vögnum, og þessir á hestum, en vér í nafni Jahve Elóhím vors minnumst.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "407b48d910194a22cdae93bf36cd16b5a136ef15bcee0f67f64355c84fbc1ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/20\/5-8.1792409454627.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þessir"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "á vögnum"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "og þessir"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "á hestum"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en vér"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "í nafni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vors"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "minnumst"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:54.628413884Z",
+  "model": "glm-5.3"
+}

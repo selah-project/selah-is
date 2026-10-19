@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 28:28",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופרשיו",
+      "rationale": "'hrossin hans' vs. 'hófar hans' (KJV 'horsemen'; JPS 'sharp edges') — rótin merkir draghest, en spurning hvort hóf sé undir"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחם יודק",
+      "rationale": "'brauðkorn er krossað' — spurning eða fullyrðing? JPS les spurningu: 'Er brauðkorn krossað? Nei'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "והמם",
+      "rationale": "'setur í uppnám\/gerir að mogo' — sögnin notuð annars staðar um að eyða; hér um skakkvinnu korns undir hvirfil"
+    }
+  ],
+  "translation": "Brauðkorn er krossað; því að ekki að eilífu þreskir hann það, og hvirfill vagnar hans og hrossin gera það að mogo — hann krossar það ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0dfdd48f8191fde9c3859097ce5a41d54b6def0087e7181467aefdae55ab4311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/28\/25-28.1792404262956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brauðkorn"
+    },
+    {
+      "surface": "יודק",
+      "gloss": "er krossað"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "אדוש",
+      "gloss": "þreskir"
+    },
+    {
+      "surface": "ידושנו",
+      "gloss": "hann það"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "og gera að mogo"
+    },
+    {
+      "surface": "גלגל",
+      "gloss": "hvirfill"
+    },
+    {
+      "surface": "עגלתו",
+      "gloss": "vagnar hans"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "og hrossin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידקנו",
+      "gloss": "krossar það"
+    }
+  ],
+  "timestamp": "2026-10-19T10:04:22.957964346Z",
+  "model": "glm-5.3"
+}

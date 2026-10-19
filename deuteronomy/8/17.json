@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "auði",
+      "rationale": "חיל er kraftur, herlið eða auður; valið er 'auði' vegna samhengis máttar og handar"
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael",
+      "rationale": "Móse talar beint til Ísraels um hættuna á öfgum hjartans"
+    }
+  ],
+  "translation": "Og þú segir í hjarta þínu: Máttur minn og kraftur handar minnar hefur gert mér ⟨את⟩ þetta auði.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b48ff8d6402ada310d27768ea942a00c289fb5bf0feef81d39a7987c6200ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/8\/17-20.1792397833673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Og þú segir"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "í hjarta þínu"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Máttur minn"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "og kraftur"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "handar minnar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hefur gert"
+    },
+    {
+      "surface": "לי",
+      "gloss": " mér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þetta auði"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "auði"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    }
+  ],
+  "timestamp": "2026-10-19T08:17:13.673573309Z",
+  "model": "glm-5.3"
+}

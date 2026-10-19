@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Hér er את H854 forsetningin 'með' — ekki afmarkari beinsagnarlagar; glosan bær ⟨את⟩ samkvæmt reglu en merkingin er 'með þeim'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "'fræ' — mynd afkvæma; 'afkvæmi' valin en myndin er plöntufræ."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרע\/נצר",
+      "rationale": "זרע 'fræ' í v20 svarar נצר 'sproti' í v19 — konungurinn útilokaður út frá sprotanum og fræinu."
+    }
+  ],
+  "translation": "Þú munt ekki verða sameinuð ⟨את⟩ með þeim í gröf, því að land þitt eyðilagðir þú, þjóð þína myrtir þú; afkvæmi illvirkjanna verður ekki nefnt um aldur og ævi.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "71d11119127fecaec6646c572384b9e0984fe1e431b40b704d63725d6b978e2e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/14\/17-20.1792403940300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "munt verða sameinuð"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "með þeim"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "í gröf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "land þitt"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "eyðilagðir"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "þjóð þína"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "myrtir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "verður nefnt"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "um aldur og ævi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "afkvæmi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "illvirkjanna"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:00.301460049Z",
+  "model": "glm-5.3"
+}

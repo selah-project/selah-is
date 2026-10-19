@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífskraft\/önd, ekki ósáleg sál — 'sál' er næsta íslenska orð en missir það."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על לב הנער",
+      "rationale": "'Talaði til hjarta stúlkunnar' — hebreskt myndmál um huggun; KJV 'spake kindly' gefur upp boðskapinn, ekki myndina."
+    }
+  ],
+  "translation": "Og sál hans festist við Dínu, dóttur Jaakobs, og hann elskaði ⟨את⟩ stúlkuna og talaði til hjarta stúlkunnar.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "394e63d6f5812f345cd4a5b436117fb78bb9c97d402da53e1cc85f04f7c0cbfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/34\/1-4.1792393546075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "festist við"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sál hans"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "við Dínu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttur"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "elskaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stúlkuna"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "stúlkuna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "talaði"
+    },
+    {
+      "surface": "על",
+      "gloss": "til"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "stúlkunnar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:05:46.076459459Z",
+  "model": "glm-5.3"
+}

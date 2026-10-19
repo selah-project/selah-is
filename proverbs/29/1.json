@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki sögn í 'veð það er engin lækning'; íslenskan bætir við ⟨er⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "herða nokkuna",
+      "rationale": "ערף קשה — stífnokkaður, þýtt bókstaflega sem 'herða nokkuna'."
+    }
+  ],
+  "translation": "Maður sem margfaldlega áminntur herðar nokkuna, skyndilega mun hann brotna og ⟨er⟩ ekki lækning.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/29\/1-4.1792411651032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "áminningar"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "herðir"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "nokka"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "skyndilega"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "mun hann brotna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og ⟨er⟩ ekki"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "lækning"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:31.033488195Z",
+  "model": "glm-5.3"
+}

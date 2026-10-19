@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח merkir vind, andardrátt og andi — hér vindur, en orðmyndin er sú sama og yfir Anda Guðs"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא כן",
+      "rationale": "„Ekki svo“ — stutt neitun sem speglar v. 3; hin íslenska Biblía mýkir þetta oft í fulla setningu"
+    }
+  ],
+  "translation": "Ekki svo rangafulldu — heldur eru þeir ⟨samir⟩ agni sem rúach hríðar burt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/1\/1-4.1792409254363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "rangafulldu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eru"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "samir agni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "hríðar burt"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:34.364692637Z",
+  "model": "glm-5.3"
+}

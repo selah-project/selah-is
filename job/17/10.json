@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Hiob beint til vina sinna: 'þið allir, snúið aftur og komið' — áskorun til andstæðinganna."
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Boð og áskorun: komið aftur, og ég mun ekki finna speking meðal yðar — sarkasmi gegn vinunum."
+    }
+  ],
+  "translation": "En þið allir, snúið aftur og komið ⟨nú⟩, og ég finn ekki á meðal yðar einn speking.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/17\/9-12.1792412026929.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "En"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "þið allir"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "snúið aftur"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "komið"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨nú⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "finn"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "á meðal yðar"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "speking"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:46.930879345Z",
+  "model": "glm-5.3"
+}

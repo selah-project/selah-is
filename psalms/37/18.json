@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תמימם",
+      "rationale": "„Heilt, fullkomið“ — „óspakka“ gefur heilindi en ekki syndleysi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "daga",
+      "rationale": "Dagar hinna heilu eru taldir — Jahve þekkir þá hvern og einn"
+    }
+  ],
+  "translation": "Jahve þekkir daga óspakka, og arfur þeirra mun vera að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4db5cf25bd8637da31c422a8739f8d08d83ba362eb3cb88d01d279f67135a4de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/17-20.1792409686541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "þekkir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "óspakka"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "og arfur þeirra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mun vera"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:46.541897332Z",
+  "model": "glm-5.3"
+}

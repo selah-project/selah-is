@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "höfðingi slátraramanna",
+      "rationale": "רב טבחים er bókstaflega 'höfðingi slátrara' — framkvæmdastjóri lífvarða Babýloníukonungs."
+    },
+    {
+      "kind": "substitution",
+      "subject": "annan prestinn",
+      "rationale": "כהן משנה er 'prest hins annars flokks', fyrsti staðgengill æðsta prests."
+    }
+  ],
+  "translation": "Og höfðingi slátraramanna tók ⟨את⟩ Serajja, æðsta prestinn, og ⟨את⟩ Tsefanja, annan prestinn, og ⟨את⟩ þrjá verði þröskuldsins.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/25\/17-20.1792403691041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "רב",
+      "gloss": "höfðingi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "slátraramanna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajja, æðsta prestinn"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prest"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "æðsti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanja, annan prestinn"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanja"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "prest"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "annan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "þrjá verði þröskuldsins"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "þrjá"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "verði"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "þröskuldsins"
+    }
+  ],
+  "timestamp": "2026-10-19T09:54:51.042703190Z",
+  "model": "glm-5.3"
+}

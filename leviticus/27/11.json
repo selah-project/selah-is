@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפני",
+      "rationale": "sjálflegt 'fyrir andliti' heldur myndinni en 'fyrir framan' væri tæknilega jafngilt"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "'það sem' í stað annars אשר til að tengja neikvæða afmarkun"
+    }
+  ],
+  "translation": "Og ef allt óhreint búfé, það sem þeir bera ekki sem kórbán frá því til Jahve, þá skal hann setja ⟨את⟩ búféð fyrir andliti prestsins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/27\/9-12.1792396313608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "búfé"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "óhreint"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "þeir bera"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "frá því"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "kórbán"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "þá skal hann setja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "búféð"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "búféð"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prestsins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:51:53.609807509Z",
+  "model": "glm-5.3"
+}

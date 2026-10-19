@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska myndar ekki samlegð með sagnorði; íslenska þarf 'er'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "árskráin",
+      "rationale": "Versið telur fjórar ár paradísar með nöfnum — talningaskýrsla"
+    }
+  ],
+  "translation": "Og nafn hins annar álfar, himináttúruhlekkjarans — réttara: Og nafn annar árinnar er Gíkhon; hann ⟨er⟩ sá sem umlykur ⟨את⟩ allt land Kús.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/13-16.1792392532295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Og nafn"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "árinnar"
+    },
+    {
+      "surface": "השני",
+      "gloss": "hinnar annar"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gíkhon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "sá sem umlykur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt land Kús"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    }
+  ],
+  "timestamp": "2026-10-19T06:48:52.298421635Z",
+  "model": "glm-5.3"
+}

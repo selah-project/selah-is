@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sjötíu",
+      "rationale": "Talan sjötíu telur bræðurna — talning eins og hebreskan segir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "launaði",
+      "rationale": "וישב er 'sneri aftur' — Elóhím sneri illverkinu aftur yfir höfuð Avímelek."
+    }
+  ],
+  "translation": "Og Elóhím launaði ⟨את⟩ illverki Avímelek, það er hann gjörði föður sínum, með því að drepa ⟨את⟩ sjötíu bræður hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "855d5a21fbdcf8bddb6df7d29be85ab8b3a4d947f3d4fd7a840ccc4567530611",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/9\/56-56.1792416564691.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "launaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "illverki"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "illverki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avímelek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það er"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörði"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "föður sínum"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "að drepa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjötíu bræður hans"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sjötíu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bræður hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:24.692139843Z",
+  "model": "glm-5.3"
+}

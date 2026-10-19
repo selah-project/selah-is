@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמם",
+      "rationale": "Lestu sem שֵׁם + viðskeyti ('nafn þeirra') eða שְמָם ('eyði') — 'nafn þeirra' er viðtekin lestur"
+    }
+  ],
+  "translation": "Þú gagntókst þjóðirnar, þú eyddir hinnum illa; nafn þeirra hefur þú dó út, að eilífu og ævinlega.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/9\/5-8.1792409302630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Þú gagntókst"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "þú eyddir"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hinnum illa"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nafn þeirra"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "hefur þú dó út"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og ævinlega"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:22.631001393Z",
+  "model": "glm-5.3"
+}

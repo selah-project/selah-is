@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעה\/התרעעה · פור\/התפוררה · מוט\/התמוטטה",
+      "rationale": "Þrefaldur infinitivus-absolutus + hitpa'el — róttæk endurtekning sömu rótar, hvert orð tvisvar; hrökkvísa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "vökvandi",
+      "rationale": "מוט er að vakva\/skákka — valdið 'vaka' til að varðveita hljóðræna mynd frekar en 'skelfur'."
+    }
+  ],
+  "translation": "Brotin, alveg brotin er jörðin, sundrungin, alveg sundrungin er jörðin, vökvandi, alveg vökvað er jörðin.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/24\/17-20.1792404177444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Brotin"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "alveg brotin er"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "פור",
+      "gloss": "sundrungin"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "alveg sundrungin er"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðin"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "vökvandi"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "alveg vökvað er"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðin"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:57.445897846Z",
+  "model": "glm-5.3"
+}

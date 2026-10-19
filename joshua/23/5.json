@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מפניכם og מלפניכם eru bókstaflega 'frá andlit yðvaru' — andlitsmynd hebreskunnar höfðð að hluta í bókstaflegri mynd"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוריש\/ירשתם",
+      "rationale": "sama rót 3423 tvisvar — 'reka út' og 'öðlast' heyra saman í hebreskunni, tappingin og arftekan"
+    }
+  ],
+  "translation": "Og Jahve, Elóhím yðar, hann mun hrinda þeim frá yður og reka ⟨את⟩ þá burt frá andlit yðvaru, og þér skuluð öðlast ⟨את⟩ land þeirra, eins og Jahve, Elóhím yðar, hefur talað til yðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/23\/5-8.1792399396605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Og Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "mun hrinda þeim"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "frá yður"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "og reka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "þjóðirnar — þær sem hraktar eru burt frá andlit yðvaru"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "burt frá andlit yðvaru"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "og þér skuluð öðlast"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "land þeirra"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "land þeirra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hefur talað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "til yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:43:16.606524555Z",
+  "model": "glm-5.3"
+}

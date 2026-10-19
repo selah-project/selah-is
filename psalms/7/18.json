@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "tsedek haldið eftir hljóði — 'réttlæti' myndi gleyma rótinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אודה\/ואזמרה",
+      "rationale": "Lofigæfa og strengjaleikur í tveimur samstöðum loka ljóðsins með endurteknu nafni Jahve"
+    }
+  ],
+  "translation": "Ég lofa Jahve eftir tsedek hans, og eg syng nafni Jahve hins hæsta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/17-18.1792409163211.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ég lofa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "eftir tsedek hans"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "og eg syng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nafni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hins hæsta"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:03.212090081Z",
+  "model": "glm-5.3"
+}

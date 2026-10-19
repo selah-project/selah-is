@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "'á hönd' — hebreskt myndmál um umsjón eða gegnum einstakling, ekki bókstafleg staðsetning"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נימצא",
+      "rationale": "'þeir sem fundust með steinum' — óvenjuleg ópersónuleg smíð; sumir þýða 'hjá þeim sem steinar fundust'"
+    }
+  ],
+  "translation": "Og þeir sem ⟨את⟩ steinunum áttu — hver sem fannst með steina — gáfu ⟨את⟩ þeim til fjárhýs húss Jahve, í hönd Jekíels Gersoníta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "968b2f9747132728733d87a698d8d064194abaf82eb81635d3d438f471a47da9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/29\/5-8.1792415145629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "Og þeir sem fundust"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "steinunum"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "steinar"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gáfu"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "til fjárhýs"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "í hönd"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hjá"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jekíels"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Gersoníta"
+    }
+  ],
+  "timestamp": "2026-10-19T13:05:45.630946373Z",
+  "model": "glm-5.3"
+}

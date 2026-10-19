@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אתם er hér forsetningin „við“, en merkt ⟨את⟩ samkvæmt reglu verkefnisins"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מסוה",
+      "rationale": "orðið „hula“ kemst aðeins fyrir í þessum kafla (2. Mós 34) í Tanakh"
+    }
+  ],
+  "translation": "Og er Mósje hafði lokið að tala við ⟨את⟩ þá, setti hann hulu á andlit sitt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "4aa8508be69368953ec3ba37530f3ff8c79389f62ceabe09401fb2354c5966b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/34\/33-35.1792395095846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "hafði lokið"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "að tala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá (Ísraelsmenn)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "setti"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "andlit sitt"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "hulu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:31:35.847170263Z",
+  "model": "glm-5.3"
+}

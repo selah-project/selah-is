@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur engin sögn; íslenskan þarf samhengisorð (er) tvisvar"
+    },
+    {
+      "kind": "you",
+      "subject": "psálminn",
+      "rationale": "beint tilæti til pílagrímsins í öðru persónufalli (þig, þinn)"
+    }
+  ],
+  "translation": "Jahve er varðveitandi þinn, Jahve er skuggi þinn, á hægri hönd þinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/121\/5-8.1792410878499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "varðveitandi þinn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "skuggi þinn"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hönd"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "hægri hönd þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:38.499654282Z",
+  "model": "glm-5.3"
+}

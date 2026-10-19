@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gúffa út",
+      "rationale": "נבע er að 'sprunga fram' eins og uppsprettja — vatnsmynd fyrir orðræðu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨er⟩",
+      "rationale": "Íslenska þarf samtengingu í spurningunni sem hebreskan sleppir"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבות",
+      "rationale": "Orðin sjálf eru sverð — myndlíningin um vopnaðar varir helst í bókstaflegri þýðingu"
+    }
+  ],
+  "translation": "Sjá, þeir gúffa út með munni sínum; sverð eru á vörum þeirra, því að hver ⟨er⟩ sem heyir?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/59\/5-8.1792409935158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "þeir gúffa út"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "með munni sínum"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sverð"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "á vörum þeirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hver"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "heyir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:55.159913163Z",
+  "model": "glm-5.3"
+}

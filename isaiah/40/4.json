@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "העקב: rótin er 'hæl\/kryppur' — 'krókótt undirlag' eða 'óslétt braut' (KJV 'crooked', JPS 'rugged')."
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "רכס 'klettahryggur' — sjaldgæft orð, aðeins hér og í Ps 68:17 í Tanakh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Andstæðupörin gjá\/fjall, hækast\/lækast mynda kíasma — ljóðrænt jafnvægi sem varðveitt er með andstæðum."
+    }
+  ],
+  "translation": "Hver gjá skal hækast og hvert fjall og hver hæð lækast, og krókótta land verður að sléttu og klettahryggirnir að dölum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c47c8032b261dec1f5806e5a5b6003ca79c26a4981197e86ddd957385c3521a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/40\/1-4.1792404627892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "gjá"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "skal hækast"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og hvert"
+    },
+    {
+      "surface": "הר",
+      "gloss": "fjall"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "og hver hæð"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "lækast"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og verður"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "krókótta land"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "að sléttu"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "og klettahryggirnir"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "að dölum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:27.894078196Z",
+  "model": "glm-5.3"
+}

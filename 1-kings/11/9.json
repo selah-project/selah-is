@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויתאנף er bókstaflega 'gnýsti andanum' — reiðin sem önd; íslenskan fær bara 'reiðist'"
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve um Sjólómó",
+      "rationale": "þriðja persónu frásögn en tilkallar Sjólómó sem hlutaðeiganda"
+    }
+  ],
+  "translation": "Og Jahve reiðist Sjólómó, því að hjarta hans hafði snúist frá Jahve, Elóhím Ísraels, sá sem birtist honum tvisvar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/11\/9-12.1792402325510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "reiðist"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "Sjólómó"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "hafði snúist"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "hjarta hans"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "frá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "sá sem birtist"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tvisvar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:32:05.511577267Z",
+  "model": "glm-5.3"
+}

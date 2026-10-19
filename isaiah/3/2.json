@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seiðmaður",
+      "rationale": "קוסם er sá sem dregr framhorning (spádóm í gegnum hagatöfrur); 'seiðmaður' er næsta íslenska mynd en myndin af framhorningunum glatar."
+    }
+  ],
+  "translation": "Kappa og stríðsmann, dómara og spámann, seiðmann og ellismann —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/3\/1-4.1792403666216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "kappa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "og stríðs-"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mann"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "dómara"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "og spámann"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "seiðmann"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "og ellismann"
+    }
+  ],
+  "timestamp": "2026-10-19T09:54:26.217546984Z",
+  "model": "glm-5.3"
+}

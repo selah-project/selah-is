@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Mósje og Aharon",
+      "rationale": "Konungur Mitsrajím ávarpar þá tvo nafngreint og rekur þau í vinnuna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תפריעו",
+      "rationale": "'Losið \/ leysið los' — rótin פרע er að leysa úr böndum; 'gleypa sér' heldur myndinni af því að losa úr."
+    },
+    {
+      "kind": "addition",
+      "subject": "okkar",
+      "rationale": "'Okkar' í 'okkar þyngslna' — hebreskan segir aðeins 'farið til þyngslna ykkarra'."
+    }
+  ],
+  "translation": "Og konungur Mitsrajím sagði við þá: Hví gleypið þér, Mósje og Aharon, ⟨את⟩ fólkinu úr verkum þess? Farið til okkar þyngslna ykkarra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "47519202fa80e6a97bcc4075527e65ad1c3c121bbc62df2f421108ac0a4eebc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/5\/1-4.1792394222731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hví"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "gleypið þér"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fólkinu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkinu"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "úr verkum þess"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "farið"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "til okkar þyngslna ykkarra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:02.733945923Z",
+  "model": "glm-5.3"
+}

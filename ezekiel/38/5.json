@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אֵת hér er forsetningin 'með', gjörð með ⟨את⟩-merki en ekki fallmerki beins hlutar"
+    }
+  ],
+  "translation": "Paras, Kush og Put með ⟨את⟩ þeim, allir þeirra með skjöld og hjálm.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f9e60814802c096c07d8ad82e12253fd3bfb7ca9300c222feafa13fcfec886ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/38\/5-8.1792407710956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "og Put"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "með ⟨את⟩",
+      "marks": "þeim (Paras, Kush og Put)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir þeirra"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skjöld"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "og hjálm"
+    }
+  ],
+  "timestamp": "2026-10-19T11:01:50.957357552Z",
+  "model": "glm-5.3"
+}

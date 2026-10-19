@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 6:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "השמן 'fita hjartað' — yfirfært 'gerið hart' (BSB) tapar ljómynd fitunnar; hér er haldið við mynd hins ólgandi feita hjarta."
+    },
+    {
+      "kind": "hapax",
+      "subject": "is",
+      "rationale": "השע (שׁעע) í boðshætti 'steiktu\/limdu augun' er afar sjaldgæft — tvennt hefur verið lesið: 'slíktu' og 'hrifðu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨að það⟩ bætt við fyrir ורפא לו — hebreskan hefur aðeins forsetninguna לו."
+    }
+  ],
+  "translation": "Fituðu hjarta þessa þjóðfólks og eyrun þyngdu og augun steiktu — svo að það sé ekki að augun sjái og eyrun heyri og hjartað skilji og ⟨að það⟩ snúi aftur og verði heilað.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/6\/9-12.1792403776133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמן",
+      "gloss": "Fituðu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjarta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "þjóðfólks"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "og eyrun"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "þyngdu"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "og augun"
+    },
+    {
+      "surface": "השע",
+      "gloss": "steiktu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að … ekki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sjái"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "að augun"
+    },
+    {
+      "surface": "ובאזניו",
+      "gloss": "og eyrun"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "heyri"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "og hjartað"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "skilji"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "snúi aftur"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "og verði heilað"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨að það⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T09:56:16.134032918Z",
+  "model": "glm-5.3"
+}

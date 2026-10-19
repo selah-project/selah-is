@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 11:8",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואביא",
+      "rationale": "fullkominn þátíð \"ég leiddi yfir þá\" (jps\/asv) vs. ófullkominn framtíð \"ég mun leiddu yfir þá\" (geneva) — hebreska wayyiqtol styður þátíð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דברי הברית",
+      "rationale": "bsb þýðir \"bölvanirnar\" en hebreskan segir bókstaflega \"orð sáttmálans\" — haldið er við orðin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעו ... הטו",
+      "rationale": "jákvæða boðið í v.7 (Heyrið) snýst við í neitun (þeir heyrðu ekki, böguðu ekki) — klípustrúktur tapast að hluta"
+    }
+  ],
+  "translation": "En þeir heyrðu ekki og böguðu ekki ⟨את⟩ eyrunum sínum, og hver maður gekk eftir þrjósku hins illa hjarta síns; og ég leiddi yfir þá ⟨את⟩ alla orð þessa sáttmála, er ég hafði boðið að gjöra, en þeir gjörðu ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5264b9579088ec7f38f740d99cc3e2fe25cf798a1582ba31c9d6ffc6ee69347d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/11\/5-8.1792405567256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En ekki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "heyrðu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "böguðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyrunum sínum"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "eyrunum sínum"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "og gekk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hver maður"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "eftir þrjósku"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hjarta síns"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "hins illa"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "og ég leiddi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "yfir þá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla orð þessa sáttmála"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orð"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sáttmála"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ég hafði boðið"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ekki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "þeir gjörðu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:26:07.258544599Z",
+  "model": "glm-5.3"
+}

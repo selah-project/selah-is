@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 25:2",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "þrjú þúsund sauðfjár og eitt þúsund geita — tölurnar standa eins og hebreskan segir"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעשהו",
+      "rationale": "מעשך er 'atferli\/verk' — 'rekstur' er þýtt úr samhengi, orðið sjálft er 'atferli'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "átti: íslensk umsögn þarf aukna hjálpsögn í þágufalli við infinitívus"
+    }
+  ],
+  "translation": "Og maður var í Maon og rekstri hans í Karmel, og maðurinn var afar mikill, og honum til höndar sauðfé og geitur, þrjú þúsund og eitt þúsund geita; og það varð þegar rýja átti ⟨את⟩ hjörð hans í Karmel.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8054a7e88969f656c2e3111dab3cce736f9adb04bba96124b8aa5426e88a2eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/25\/1-4.1792400908952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og maður"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "í Maon"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "rekstri hans"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "í Karmel"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "og maðurinn"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "afar"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "honum til höndar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sauðfé og geitur"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "þrjú"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "og eitt þúsund"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "geita"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "það varð"
+    },
+    {
+      "surface": "בגזז",
+      "gloss": "þegar rýja átti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hjörð hans"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "hjörð hans"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "í Karmel"
+    }
+  ],
+  "timestamp": "2026-10-19T09:08:28.953798169Z",
+  "model": "glm-5.3"
+}

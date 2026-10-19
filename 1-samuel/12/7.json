@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתכם",
+      "rationale": "H854 forsetning 'með ykkur', ekki H853 markið — 'dæma með' eða 'rétta mála við'; sumir þýða 'gegn ykkur'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedek-verki",
+      "rationale": "צדקות skilið 'tsedek-verk' samkvæmt D2 — réttlætisverki Jahve"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "boðshátturinn 'standið þér' beinist að öllu fólkinu"
+    }
+  ],
+  "translation": "Og nú, standið þér frammi, og ég mun rétta mála ⟨את⟩ með ykkur frammi fyrir Jahve, ⟨את⟩ alla tsedek-verki Jahve, er hann gjörði ⟨את⟩ við ykkur ⟨את⟩ og við feður ykkar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/12\/5-8.1792400452767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "standið þér frammi"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "og ég mun rétta mála"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ með ykkur"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "frammi fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla tsedek-verki Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedek-verki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann gjörði"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ við ykkur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ og við"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "feður ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:00:52.769394010Z",
+  "model": "glm-5.3"
+}

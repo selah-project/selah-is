@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב\/ומטיב",
+      "rationale": "Sömu rót tvívegis: 'góður ert þú og gjörir gott' — orðaleikur טוב\/מטיב varðveittur"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חק er 'fast setning, ákvörðun' — 'settning' heldur lagmælingarmyndinni, 'lög' væru of víð"
+    }
+  ],
+  "translation": "Góður ert þú og gjörir gott; kenndu mér settningar þínar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/65-68.1792410838752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Góður"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "og gjörir gott"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "kenndu mér"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "settningar þínar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:53:58.753394296Z",
+  "model": "glm-5.3"
+}

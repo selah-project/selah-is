@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שבר er ‚korn‘ (sem brotið er í kornkorna) — ‚korn‘ heldur myndinni"
+    },
+    {
+      "kind": "addition",
+      "subject": "ásamt",
+      "rationale": "viðtenging orkuð á íslensku þar sem hebreskan setur tvo hluti saman með ואת"
+    }
+  ],
+  "translation": "Og ⟨את⟩ bikar minn — bikar silfursins — skalt þú setja í munninn á sekki yngsta, ásamt ⟨את⟩ silfri korns hans. Og hann gjörði eftir orði Jósefs, er hann hafði talað.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/44\/1-4.1792393866371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "bikar minn"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "bikar minn"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "bikar"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silfursins"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "skalt þú setja"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "í munninn á"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "sekki"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "yngsta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ásamt ⟨את⟩",
+      "marks": "silfri korns hans"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfri"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "korns hans"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "og hann gjörði"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "eftir orði"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hann hafði talað"
+    }
+  ],
+  "timestamp": "2026-10-19T07:11:06.372500163Z",
+  "model": "glm-5.3"
+}

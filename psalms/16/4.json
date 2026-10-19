@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחר מהרו",
+      "rationale": "„skyndast eftir öðrum“ — textinn er myrkur; JPS les „sem bera fyrirbæn til annars“, YLT „sem flýja bak á bak\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצבותם",
+      "rationale": "עצב merkir bæði „líkneski\" og „sár\/þjáning\"; here „æði\" (sárir) við hæf, en orðmyndin ber hvorja merkinguna"
+    },
+    {
+      "kind": "elision",
+      "subject": "מדם",
+      "gloss": "„af blóði“ fellt saman við „blóðfórnir\""
+    }
+  ],
+  "translation": "Margfaldist æði þeirra er skyndast eftir öðrum ⟨guði⟩; ekki vil ég úthella blóðfórnþeirra, og ekki beri ég ⟨את⟩ nöfn þeirra á varir mínar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/16\/1-4.1792409310137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Margfaldist"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "æði þeirra"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "er skyndast"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "vil ég úthella"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "blóðfórnþeirra"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "blóð"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "beri ég"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nöfn þeirra"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "nöfn þeirra"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "varir mínar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:30.138604067Z",
+  "model": "glm-5.3"
+}

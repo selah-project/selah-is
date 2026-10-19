@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨þá⟩",
+      "rationale": "Fornafn í fleirtölu sem hebreska suffiksið -ם í אברכם ber, en íslenskan þarf aukafornafn."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישם\/שם",
+      "rationale": "Þau setja (ישימו) nafnið (שם) — sömu stafir endurtakast innan versins."
+    }
+  ],
+  "translation": "Og þeir skulu setja ⟨את⟩ nafn mitt yfir Ísraelsmenn, og ég mun blessa ⟨þá⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "140606acc1b83ea4995b62466ca3d84525f3ea2f7566fb338082a22a594fa586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/6\/25-27.1792396449088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "skulu setja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn mitt"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nafn mitt"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "mun blessa"
+    }
+  ],
+  "timestamp": "2026-10-19T07:54:09.088959883Z",
+  "model": "glm-5.3"
+}

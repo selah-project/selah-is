@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 8:15",
+  "book": "ezra",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "engin",
+      "rationale": "'engan' — hebreska neitunin לא tekur til allrar setningar; íslenska þarf nafnorð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "skildi\/skoðaði",
+      "rationale": "ואבינה er bín 'skilja, greina' — 'skoðaði' gefur athöfnina en gleymir aðgreiningunni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "í þrjá daga",
+      "rationale": "tímatal dvalarinnar við Ahava"
+    }
+  ],
+  "translation": "Og ég safnaði þeim að ánni ⟨sem⟩ kemur að Ahava, og við tjaldbúðuðum þar í þrjá daga; og ég skoðaði fólkið og prestana, en af sonum Leví fann ég engan þar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "39fcbbadd3d8b8ef28363f7042fd0f00d5c7bce5af1fc2e0660d2344f4cd4a1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezra\/8\/13-16.1792414036253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקבצם",
+      "gloss": "Og ég safnaði þeim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ánni"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "⟨sem⟩ kemur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "אהוא",
+      "gloss": "Ahava"
+    },
+    {
+      "surface": "ונחנה",
+      "gloss": "og við tjaldbúðuðum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "í þrjá"
+    },
+    {
+      "surface": "ואבינה",
+      "gloss": "og ég skoðaði"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "ובכהנים",
+      "gloss": "og prestana"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "en af sonum"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leví"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engan"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "fann ég"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:47:16.254826510Z",
+  "model": "glm-5.3"
+}

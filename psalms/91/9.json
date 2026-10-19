@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sögn fráliging",
+      "rationale": "יָדַעְתָּ vantar í grunntextanum; kenning les כי אתה sem 'því að þú' (skjól mitt), en KJW\/JPS lesa 'þú hefur gert Jahve að skjóli þínu'."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan hefur ekki sögnina 'væra'; íslenskan krefst hennar."
+    }
+  ],
+  "translation": "Því að þú, Jahve, er skjól mitt, hinn Hæsti, sem hefur gert bústað þinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/91\/9-12.1792410423346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "skjól mitt"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hinn Hæsti"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "hefur gert"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "bústað þinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:03.347181086Z",
+  "model": "glm-5.3"
+}

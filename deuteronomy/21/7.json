@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'það' bætt við öðru lið — hebreskan styttir setningu eftir 'sáu ekki'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידינו\/עינינו",
+      "rationale": "samhverf tvíverknaður: hendur\/augu, hellta\/sjá — lögleg hrein-skýrking"
+    }
+  ],
+  "translation": "Og þeir svara og segja: Hendur vorar helltu ekki út ⟨את⟩ blóði þessu, og augu vor litu það ekki.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5100172d8d3cc7c5d7dfebd1ddd1efec1ff7763e7a64d8b22bbed8da8075b778",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/21\/5-8.1792398093493.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Og þeir svara"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "og segja"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Hendur vorar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "helltu ekki út"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóði þessu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "blóði"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "og augu vor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "litu það ekki"
+    }
+  ],
+  "timestamp": "2026-10-19T08:21:33.494978427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 7:13",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרא\/שמע",
+      "rationale": "Kall- og heyr-orðin koma tvisvar í spegilbyggingu (qatal–lo shame'ú \/ yiqre'ú–lo eshma'), sem gengur tapað ef orðavalið er ekki samhæft."
+    },
+    {
+      "kind": "crux",
+      "subject": "spámenns vs. lýðsins kall",
+      "rationale": "Sumar þýðingar lesa 'svo munu þeir kalla' sem framtíð, aðrar sem þáð („svo kölluðu þeir“); hebreska yiqtol-ráðningin leyfir bæði."
+    }
+  ],
+  "translation": "Og svo varð: Eins og hann kallaði og þeir heyrðu ekki, svo munu þeir kalla og ég mun ekki heyra, segir Jahve Tsevaót.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2004d58ef8dcebf1e2c667b8d9c16d62efcbe2b3fa2a57faff758f44ad704c89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/7\/13-14.1792408942306.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og svo varð"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "Eins og"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kallaði"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "heyrðu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "munu kalla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mun ég heyra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    }
+  ],
+  "timestamp": "2026-10-19T11:22:22.306631106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "til Mósje og Aharon",
+      "rationale": "Paró talar beint til þeirra bræðra — óvenjulegt, því hann hafði áður sent boð eftir mönnum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "einn ykkur",
+      "rationale": "גם ... גם er „bæði ... og“; „einn ykkur“ heldur áherslunni án danska „både“-földunnar."
+    }
+  ],
+  "translation": "Og hann kallaði að Mósje og Aharon um nóttina og sagði: Rísið, farið út úr lýð mínum, einn ykkur og Ísraelsmenn, og gangið, þjónið ⟨את⟩ Jahve eins og þér hafið talað.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/29-32.1792394471385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og hann kallaði að"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "og Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "um nóttina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Rísið"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "farið út"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "út úr"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lýð mínum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "גם",
+      "gloss": "og"
+    },
+    {
+      "surface": "בני",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels-"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "og gangið"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "þjónið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "eins og þér hafið talað"
+    }
+  ],
+  "timestamp": "2026-10-19T07:21:11.387237359Z",
+  "model": "glm-5.3"
+}

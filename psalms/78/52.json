@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eyðimörk",
+      "rationale": "מדבר er beitiland\/opin svæði sem fé er rekið á — ekki aðeins sandauðn."
+    }
+  ],
+  "translation": "Og hann lét þjóð sína fara eins og sauðfé og leiddi hana eins og hjörð í eyðimörkinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/49-52.1792410237712.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Og hann lét fara"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "eins og sauðfé"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "þjóð sína"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "og leiddi hana"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "eins og hjörð"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:57.713181491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kappamenn",
+      "rationale": "אישׁ חיל er 'menn herskapar\/djarfmenn'; 'kappamaður' heldur myndinni næstum"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אֹתָם er fornafnið 'þau', ekki aleph-tav-marki; það stendur sem 'þau' í þýðingunni"
+    }
+  ],
+  "translation": "Og allir kappamenn risu og fóru alla nóttina og tóku ⟨את⟩ lík Sauls og ⟨את⟩ lík sona hans af múri Bet-Sjan og komu til Javesjar og brendu ⟨את⟩ þau þar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/31\/9-12.1792401085413.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "risu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kappa-"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "fóru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nóttina"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "tóku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lík Sauls"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "lík"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sauls"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "lík sona hans"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "lík"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sona hans"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "af múri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Sjan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "komu til"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Javesjar"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "brendu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þau"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:11:25.414852672Z",
+  "model": "glm-5.3"
+}

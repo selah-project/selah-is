@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חסד sett sem khesed, ekki miskunn, samkvæmt D2"
+    }
+  ],
+  "translation": "En þú, Jahve, Adónaí, gjör ⟨את⟩ með mér fyrir sakar nafns þíns, því að gott er khesed þitt — hlífa mér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/21-24.1792410692509.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjör"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "með mér"
+    },
+    {
+      "surface": "למען",
+      "gloss": "fyrir sakar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nafns þíns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "khesed þitt"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "hlífa mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:32.509832324Z",
+  "model": "glm-5.3"
+}

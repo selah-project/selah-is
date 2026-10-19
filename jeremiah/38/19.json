@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 38:19",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "smíði",
+      "rationale": "התעלל הוא að gjöra að gríni, þjást leikinn — „leika sér að“ eða „niðurlægja“, ekki einungis hæna"
+    },
+    {
+      "kind": "addition",
+      "subject": "mig",
+      "rationale": "Íslenzka þarf andlag eftir smíða; hebreskan hefur aðeins בִּי"
+    }
+  ],
+  "translation": "Og konungurinn Tsidkijáhu sagði við Jirmejáhu: Ég er hræddur um Júdamennina sem féllu til Kasdímanna, svo að þeir gefi mig ⟨את⟩ ekki í þeirra hönd og smíði mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ad864c5a764678757aef7ff12ca985729c524e187c501bc1b1ebbdbbc7b4d9b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/38\/17-20.1792406333790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijáhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejáhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "er hræddur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Júdamennina"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Júdamennina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "féllu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdímanna"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að... ekki"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "þeir gefi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "í þeirra hönd"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "í þeirra hönd"
+    },
+    {
+      "surface": "והתעללו",
+      "gloss": "og smíði mig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mig"
+    }
+  ],
+  "timestamp": "2026-10-19T10:38:53.791641755Z",
+  "model": "glm-5.3"
+}

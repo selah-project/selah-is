@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אשה merkir „eldföring“ — eldfórna, ekki almenna fórn; Íslenzku orðið heldur eldmyndinni."
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "ריח ניחח — „ilmur huggunar“, fast setning um það sem Jahve tekur vel við."
+    }
+  ],
+  "translation": "Og synir Aharon skulu reykja ⟨את⟩ því á altarinu, ofan á brenniföringunni sem er á viðnum, sem er á eldinum — eldföring, ilmur huggunar fyrir Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "778b7f6bd094a60ecd3cb2b8c81155e72e136b52acb22e75e91a05af3ebba350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/3\/5-8.1792395386497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "skulu reykja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "því"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "á altarinu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ofan á"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brenniföringunni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "er á"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "viðnum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "er á"
+    },
+    {
+      "surface": "האש",
+      "gloss": "eldinum"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eldföring"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "ilmur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "huggunar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:36:26.498648517Z",
+  "model": "glm-5.3"
+}

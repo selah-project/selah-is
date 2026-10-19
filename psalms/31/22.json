@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "בעיר מצור: 'borg umsátrs' (LXX 'walled city') eða 'af umsátri' — מן getur merkt 'frá'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חסד er haft óþýtt sem khesed eftir D2."
+    }
+  ],
+  "translation": "Lofaður sé Jahve, því að hann gerði khesed sitt undarlegt fyrir mér í borg í umsátri.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/31\/21-24.1792409598890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Lofaður sé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "gerði undarlegt"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed sitt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mér"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "í umsátri"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:18.891105976Z",
+  "model": "glm-5.3"
+}

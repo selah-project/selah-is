@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Þýðingin bætir við nefnaviðbót ('voru') sem hebreskan helt ekki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vestur",
+      "rationale": "פאת ים er bókstaflega 'hlið hafsins' — sjór sem áttaviti (vestur), og er aðeins 'vestur' eftir"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mál",
+      "rationale": "Versið málar tjaldbúðina: fimmtíu áma, tíu súlur, tíu grunnsteinar"
+    },
+    {
+      "kind": "elision",
+      "subject": "ושי העמדים",
+      "rationale": "Hebreskan segir bókstaflega 'krókar súlanna' — greinirinn verður viðskeyttur í íslensku"
+    }
+  ],
+  "translation": "Og að vesturhliðinni voru tjaldvéfjar fimmtíu á ama, súlur þeirra tíu og grunnsteinar þeirra tíu; krókar súlanna og tengistangir þeirra af silfri.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0720ca0205b431b169b2a458d959a915344d6a26510911633934fff9a9166d22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/38\/12-12.1792416265854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "Og að vesturhliðinni"
+    },
+    {
+      "surface": "ים",
+      "gloss": "vestur"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "tjaldvéfjar"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fimmtíu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "á ama"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "súlur þeirra"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "og grunnsteinar þeirra"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "krókar"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "súlanna"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "og tengistangir þeirra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "af silfri"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:25.854648168Z",
+  "model": "glm-5.3"
+}

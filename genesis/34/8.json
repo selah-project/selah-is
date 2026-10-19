@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er 'ónd, lífskrafti, háls' — ekki ósálarfræðileg sál; 'sál hans' er nálgun en ekki nákvæm mynd hebreskunnar."
+    },
+    {
+      "kind": "you",
+      "subject": "Hamor til syna Jaakóbs",
+      "rationale": "Bein ræða: Hamor ávarpar syni Jaakóbs með ósk þinni boðmynd."
+    }
+  ],
+  "translation": "Og Hamor talaði ⟨את⟩ við þá og sagði: Sjekem, sonur minn — sál hans er föst við dóttur ykkar; gefið nú ⟨את⟩ hana honum að eiginkonu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "acbba441ef351150b8f15d65c954d83b33d82e476362df2ccca2283dff75687f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/34\/5-8.1792393588137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Og talaði"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ við þá",
+      "marks": "þá"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonur minn"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "er föst"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sál hans"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "við dóttur ykkar"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "gefið"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "hana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "að eiginkonu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:06:28.139185835Z",
+  "model": "glm-5.3"
+}

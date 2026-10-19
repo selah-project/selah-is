@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er nearer 'lífsmáttur\/andi' en 'sál' í vesturlenskum skilningi"
+    },
+    {
+      "kind": "crux",
+      "subject": "járn kom í sál hans",
+      "rationale": "KJV les 'hann var lagður í járn' (samanfesting באה נפשו sem 'járn fyrir sálina'), YLT les bókstaflega 'járn fór í sál hans'"
+    }
+  ],
+  "translation": "Þeir þröngdu fætur hans með fjötrum, járn kom í sál hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c96e55343e8b2b13a8424ca831f5b31d388b7414241d9066fc0473279a768d08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/18-19.1792416965394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "þeir þröngdu"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "með fjötrum"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "fætur hans"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "járn"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kom í"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sál hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:36:05.395170212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "atviksaðningarnar 'það' og 'eru' eru íslensku bætt við — hebreskan hefur enga sögn í fyrri málsgreininni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ציון\/ישב",
+      "rationale": "Tíon-fjallið 'dvelur' (jóshev) — setning myndar andstæðu við 'hreyfist ekki', lýsing myndar orðmynd"
+    }
+  ],
+  "translation": "Söngur uppstiganna. Þeir sem treysta á Jahve eru sem fjallið Tíon — það hreyfist ekki, að eilífu dvelur það.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/125\/1-4.1792410927500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Söngur"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "uppstiganna"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Þeir sem treysta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "á Jahve"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "sem fjallið"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tíon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "það hreyfist"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dvelur það"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:27.501551470Z",
+  "model": "glm-5.3"
+}

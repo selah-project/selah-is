@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "því sem",
+      "rationale": "Hebreskan segir einfaldlega „varpaði burt gott“ — nafnorðið án greini; íslenska þarf smið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "gott",
+      "rationale": "„Gott“ vísa líka til Guðs sjálfs og tess góða sem hann gefur; myndlistin hverf í íslensku."
+    }
+  ],
+  "translation": "Ísrael varpaði burt ⟨því sem⟩ gott er; óvinur mun elta hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/8\/1-4.1792408200207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "varpaði burt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gott"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "óvinur"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "mun elta hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:10:00.208340009Z",
+  "model": "glm-5.3"
+}

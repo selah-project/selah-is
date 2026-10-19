@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תם",
+      "rationale": "'heill, óspakki' — orðið merkir fullkomnan eða óskaddaðan, ekki bara 'saklausa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשו",
+      "rationale": "נפש er lífskraftur\/andardráttur, ekki ódauðleg sála; 'leita lífs hans' er gild lesning."
+    }
+  ],
+  "translation": "Blóðmenn hata hinn heila, en hinir réttlátu leita sálar hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/29\/9-12.1792411644874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "menn"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blóðs"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "hata"
+    },
+    {
+      "surface": "תם",
+      "gloss": "hinn heila"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "en hinir réttlátu"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "leita"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sálar hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:24.875027359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "skordýr? nei — בעליך\/עשיך: samstöðuhljóð ('eiginmaður þinn \/ gjörandi þinn'), endurtök tenging varðveitt með snúið orðalagi"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hann bætt við sem frumlag í síðasta leið — hebreskan hefur aðeins sagnmyndina יקרא"
+    }
+  ],
+  "translation": "Því að eiginmaður þinn er skapari þinn — Jahve Tsevaót er nafn hans — og endurleysari þinn, hinn heilagi Ísraels: Elóhím alls jarðarinnar mun hann kallast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/54\/5-8.1792404851129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "eiginmaður þinn"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "skapari þinn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "og endurleysari þinn"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "hinn heilagi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "mun hann kallast"
+    }
+  ],
+  "timestamp": "2026-10-19T10:14:11.129758419Z",
+  "model": "glm-5.3"
+}

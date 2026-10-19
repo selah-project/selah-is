@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sá",
+      "rationale": "Endurtekin hlutlæg lýsingarsetning — íslenska þyrfti tengilið við fyrri vers"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כח\/גבורה",
+      "rationale": "Tvennar orð um kraft og mátt í samstæðu; íslenska heldur greinmuninum kraftur\/máttur"
+    }
+  ],
+  "translation": "Sá sem staðfestir fjöll með krafti sínum, ⟨sá⟩ sem gyrðir sig með mátti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/65\/5-8.1792410013019.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "staðfestir"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fjöll"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "með krafti sínum"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "gyrðir sig"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "með mátti"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:13.020206148Z",
+  "model": "glm-5.3"
+}

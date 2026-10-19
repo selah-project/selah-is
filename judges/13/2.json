@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 13:2",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þar' bætt við fyrir ויהי — íslenska þarf staðvísandi ævintýraupphaf sem hebreskan styttir í 'var'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "óbyrja",
+      "rationale": "עקרה 'ólýst\/strólaust' — 'óbyrja' heldur myndinni af konu sem hefur eigi getað fætt; 'órýr' of vítt."
+    },
+    {
+      "kind": "mystery",
+      "subject": "óbyrja konan",
+      "rationale": "Fæðingarsögur bókarinnar hefjast á óbyrja konu — textinn setur ómöguleika fram áður en boðun kemur."
+    }
+  ],
+  "translation": "Og þar var maður nokkur frá Tsrora, af ætt Dana, og nafn hans Manóakh; og kona hans var óbyrja og hafði eigi fætt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/13\/1-4.1792399819588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nokkur"
+    },
+    {
+      "surface": "מצרעה",
+      "gloss": "frá Tsrora"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "af ætt"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "Dana"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "og nafn hans"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manóakh"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "og kona hans"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "óbyrja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og eigi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "hafði fætt"
+    }
+  ],
+  "timestamp": "2026-10-19T08:50:19.589444774Z",
+  "model": "glm-5.3"
+}

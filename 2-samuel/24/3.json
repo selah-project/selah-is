@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 24:3",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהם וכהם",
+      "rationale": "'eins og þeir eru og eins og þeir eru' — hundraðfalda ættjarðarlýsing: 'hverju sinni hundrað sinnum' eða 'hundraðfalda af núverandi fjölda'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "אדני um mann — 'herra minn', ekki Nafnið."
+    },
+    {
+      "kind": "you",
+      "subject": "Jóab til konungsins",
+      "rationale": "Jóab andmælir konungi með spurningu."
+    }
+  ],
+  "translation": "Og Jóab sagði við konunginn: Jahve, Elóhím þinn, láti þjóðina fjölga, hverju sinni hundrað sinnum, og augu herra míns konungsins sjái það; en herra minn konungurinn, hvers veganna hefur hann hug á þessu máli?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/24\/1-4.1792401843600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginn"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "láti fjölga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "העם",
+      "gloss": "þjóðina"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "hverju sinni"
+    },
+    {
+      "surface": "וכהם",
+      "gloss": "og hverju sinni"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "hundrað"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "sinnum"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "og augu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra míns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "sjái"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "en herra minn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvers veganna"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "hefur hug á"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "á máli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:24:03.601698070Z",
+  "model": "glm-5.3"
+}

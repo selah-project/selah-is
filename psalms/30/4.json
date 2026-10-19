@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu mína",
+      "rationale": "נפש er andardráttur\/lífskraftur, ekki ósýnileg sál í síðari merkingu"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיורדי בור",
+      "rationale": "Antin 'lifnaðir mig við frá því að fara niður í gryfjuna' (KJV) eða 'meðal þeirra sem fara niður' — מן getur verið bæði"
+    }
+  ],
+  "translation": "Jahve, þú færðir sálu mína upp frá Sjeól, þú gerðir mig lifanda meðal þeirra sem fara niður í gryfjuna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/30\/1-4.1792409533311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "þú færðir upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeól"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mína"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "þú gerðir mig lifanda"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "meðal þeirra sem fara niður"
+    },
+    {
+      "surface": "בור",
+      "gloss": "í gryfjuna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:13.312865478Z",
+  "model": "glm-5.3"
+}

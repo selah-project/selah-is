@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dor",
+      "rationale": "דור er kynslóð\/kynkvöld, tímahring, ekki aðeins 'kynslóð fólks'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "imakh\/kharat",
+      "rationale": "tvenn mynd eyðingar — strokið út og skorinn af — endurtæk í v.13–15"
+    }
+  ],
+  "translation": "Verði endi hans til að eyða; í kynkvöld annarri verði nafn þeirra strokið út.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/109\/13-16.1792410713359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Verði"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "endi hans"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "til að eyða"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "í kynkvöld"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "annarri"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "verði strokið út"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nafn þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:51:53.360423046Z",
+  "model": "glm-5.3"
+}

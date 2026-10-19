@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי את בתי",
+      "rationale": "'Hver ert þú, dóttir mín?' — Nóömi spurði; sumir lesa 'Hvernig gekk þér, dóttir mín?' — 'hver' er orðið."
+    },
+    {
+      "kind": "addition",
+      "subject": "hún",
+      "rationale": "ágripis viðtækur greinir ('máður sín') gerir óljóst hver talar — Áftur Nóömi er hér brókeruð 'hún'."
+    }
+  ],
+  "translation": "Og hún kom til máður sinnar, og ⟨hún⟩ sagði: Hver ert þú, dóttir mín? Og hún kunngjörði henni ⟨את⟩ allt það sem maðurinn hafði gjört henni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/3\/13-16.1792412723445.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Og hún kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "máður sinnar"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og ⟨hún⟩ sagði"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "את",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "dóttir mín"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Og hún kunngjörði"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hafði gjört"
+    },
+    {
+      "surface": "לה",
+      "gloss": "henni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "maðurinn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:23.446621577Z",
+  "model": "glm-5.3"
+}

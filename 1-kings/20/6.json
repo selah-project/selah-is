@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„heldur“ í upphafi kemur í stað ófullkomins כי אם úr v. 5 — tvennt fyrir eitt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sem augu þín girnast",
+      "rationale": "מחמד עיניך er bókstaflega „þrá girnd augna þinna“ — þýtt sem samsetning"
+    }
+  ],
+  "translation": "heldur mun ég á þessari stundu á morgun senda ⟨את⟩ þjóna mína til þín, og þeir munu leita ⟨את⟩ húsi þínu og ⟨את⟩ húsum þjóna þinna, og verður það að allt sem augu þín girnast munu þeir leggja í hönd sín og taka.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ad18bf81e856c659867c26b1555dc215594230598732fc839e89a2139ade54ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/20\/5-8.1792402649861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨heldur⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "á þessari stundu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "á morgun"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "mun ég senda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóna mína"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjóna mína"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "og þeir munu leita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "húsi þínu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "húsi þínu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "húsum þjóna þinna"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "húsum"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "þjóna þinna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og verður það"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "sem augu þín girnast"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "augu þín"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "munu þeir leggja"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "í hönd sín"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "og taka"
+    }
+  ],
+  "timestamp": "2026-10-19T09:37:29.862786788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "אחלי er óskarform, „ætti þess að vera“, gefið sem ósk en ekki fullyrðing"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אסף er bókstaflega „safna, taka burt“; hér „losa undan“"
+    }
+  ],
+  "translation": "Og hún sagði við frú sína: Gæti herra minn verið hjá spámanninum í Sjemróne! Þá myndi hann losa ⟨את⟩ hann undan holdsótt sinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/5\/1-4.1792402967164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Og hún sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "frú sína"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Gæti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra minn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "hjá"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "spámanninum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "í Sjemróne"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "myndi hann losa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "undan holdsótt sinni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:42:47.165942431Z",
+  "model": "glm-5.3"
+}

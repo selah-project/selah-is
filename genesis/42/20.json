@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כנים\/כן",
+      "rationale": "Sama rót כן í 'sannir menn' (v. 19) og 'þeir gerðu svo' (v. 20) — bræðurnar sýna að þeir eru כן með því að gera כן, glatað í íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Boðsorð beint til bræðranna: 'skuluð þið flytja'"
+    }
+  ],
+  "translation": "Og ⟨את⟩ ykkar bróður, hinn yngsta, skuluð þið flytja til mín, svo að orð ykkar verða staðfest, og þið deyið ekki. Og þeir gerðu svo.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/42\/17-20.1792393787999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Og ⟨את⟩",
+      "marks": "ykkar bróður, hinn yngsta"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ykkar bróður"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "hinn yngsti"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "skuluð þið flytja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mín"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "verða staðfest"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "orð ykkar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "þið deyið"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Og þeir gerðu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    }
+  ],
+  "timestamp": "2026-10-19T07:09:48.000336029Z",
+  "model": "glm-5.3"
+}

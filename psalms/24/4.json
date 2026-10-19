@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu sinni",
+      "rationale": "נפש er holdleg hlutur — andardráttur, háls, lífsmáttur — ekki óþröng „sál\""
+    },
+    {
+      "kind": "crux",
+      "subject": "נפשי",
+      "rationale": "Forskeytið er fyrstu persónu („sál mín“) — JPS les „nafn mitt (í tómíð)\", flestar þýðingar lesa með þriðju persónu („sálu sinni\")"
+    },
+    {
+      "kind": "substitution",
+      "subject": "að tómi",
+      "rationale": "לשוא merkir tóm, guðsemi, svik — eitt orð, mörg hljóð"
+    }
+  ],
+  "translation": "Hinn ósyndugi í höndum og hreinsaður í hjarta, sá er ekki lyfti sálu sinni að tómi og ekki sór sviksamlega.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/24\/1-4.1792409522293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "ósyndugi"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "í höndum"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "og hreinsaður"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "í hjarta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "lyfti"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "að tómi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu sinni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sór"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "sviksamlega"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:02.294686950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 22:9",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אנשי רכיל er samsett nafn — 'menn slúðurs' — og ekki fallbeygt aðgreint í hebresku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "fjöllunum",
+      "rationale": "ההרים vísa líklega til háræðisstaða hjá skringgoðum, en textinn segir aðeins 'fjöllin'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jerúsalem",
+      "rationale": "vesiðaddir 2. persónu eintölu ('í þér') til Jerúsjalajím"
+    }
+  ],
+  "translation": "Slúðurmenn hafa verið í þér til þess að úthella blóði, og á fjöllunum hafa þeir étið í þér; í meðalliti þínu drýgðu þeir lostnasa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/22\/9-12.1792407314824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "slúður-menn"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "slúðurs"
+    },
+    {
+      "surface": "היו",
+      "gloss": "hafa verið"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "úthella"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóði"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "fjöllunum"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "hafa þeir étið"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "lostnasa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "drýgðu þeir"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "í meðalliti þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T10:55:14.824708304Z",
+  "model": "glm-5.3"
+}

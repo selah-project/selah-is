@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מתרפקת",
+      "rationale": "Hapax-orðið מתרפקת; rótin רפק 'að halla sér\/leggjast', víst sem 'hallandi sér' en YLT les 'flýti sér'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חבלה",
+      "rationale": "חבל getur þýtt 'var í barneimingu' eða 'veðsetti'; YLT les 'gaf veð' en flestar þýðingar 'þunguð'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמה…שמה",
+      "rationale": "Endurtekning orðsins שמה 'þar' tvísvar myndar ljóðrænt jafnværi sem tapast ekki alveg á íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'Móðir þín' er endurtekið í fyrri helmingi til að gera sambandið skýrt, sem hebreskan fellur brott."
+    }
+  ],
+  "translation": "Hver er þetta, sem stígur upp úr eyðimerkinni, hallandi sér á elskann sinn? Undir eplatrénu vakti ég þig; þar var móðir þín þunguð með þér, þar var hún þunguð og ól þig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/8\/5-8.1792412752033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "stígur upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "úr"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "eyðimerkinni"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "hallandi sér"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "elskann sinn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Undir"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "eplatrénu"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "vakti ég þig"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þar"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "var móðir þín þunguð með þér"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "móðir þín"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þar"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "var hún þunguð"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "ól þig"
+    }
+  ],
+  "timestamp": "2026-10-19T12:25:52.034040525Z",
+  "model": "glm-5.3"
+}

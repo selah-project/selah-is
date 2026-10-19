@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 1:11",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צאנן\/יצאה",
+      "rationale": "Tsaanan hljómar við 'að komast út' (jatsa) — og hún 'kom ekki út': nafnið stendur í andstæðu við örlög borgarinnar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפיר",
+      "rationale": "Sjafír merkir 'fagur' — hin fagra borg fer ber í ber; nafnið snýr gegn örlögunum."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמדתו",
+      "rationale": "'stoð hans\/þess' — 'dvöl', 'stoð' (KJV 'his standing') eða 'viðkomustaður' (YLT 'its standing'); tilvísun óvís."
+    },
+    {
+      "kind": "you",
+      "subject": "v11",
+      "rationale": "beint málfar til íbúanna í Sjafír og Tsaanan — 'farðu yfir... þú sem býrð'."
+    }
+  ],
+  "translation": "Farðu yfir, þú sem býrð í Sjafír — ber í ber með skömm; hún sem býr í Tsaanan kom ekki út; harmveizla Bet-Haetsel mun taka frá yður stoð sína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/1\/9-12.1792408575751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "farðu yfir"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "þú sem býrð"
+    },
+    {
+      "surface": "שפיר",
+      "gloss": "í Sjafír"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "ber í ber"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "með skömm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "kom út"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "hún sem býr"
+    },
+    {
+      "surface": "צאנן",
+      "gloss": "í Tsaanan"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "harmveizla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "האצל",
+      "gloss": "Haetsel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mun taka"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "frá yður"
+    },
+    {
+      "surface": "עמדתו",
+      "gloss": "stoð sína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:15.752639890Z",
+  "model": "glm-5.3"
+}

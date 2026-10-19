@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "þær",
+      "rationale": "Fornafn bætt við til að greina hverju enginn hræðir — hebreskan segir aðeins 'og enginn óttafari'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערי ערער",
+      "rationale": "Borgir Aroer — öllfræðin í hebresku er glötuð í íslensku."
+    }
+  ],
+  "translation": "Yfirgefnar verða borgir Aroer; hjörðum verða þær og þær leggjast þar niður, og enginn er til að hræða ⟨þær⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/17\/1-4.1792404054687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "Yfirgefnar verða"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "borgir"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "hjörðum"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "verða þær"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "og þær leggjast niður"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn er"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "til að hræða"
+    }
+  ],
+  "timestamp": "2026-10-19T10:00:54.688024582Z",
+  "model": "glm-5.3"
+}

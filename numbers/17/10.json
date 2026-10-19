@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þeir bætt við í „féllu þeir“ — hebreskan segir aðeins „og féllu“"
+    },
+    {
+      "kind": "you",
+      "subject": "Mósje og Aharon og söfnuðurinn",
+      "rationale": "Jahve talar beint til þeirra og skipar þeim að rísa upp úr söfnuðinum"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כרgע",
+      "rationale": "„blinking eyans augnablik“ — íslenska „í svipan“ fangar styttimeðina"
+    }
+  ],
+  "translation": "„Rísið upp úr miðju þessarar söfnuðar, og mun ég eyða ⟨את⟩ þeim í svipan.“ Og féllu þeir á andlit sín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7543c80c406d3e9ab9375da41c929cf8169909376df3d355dbe17edbae158403",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/17\/10-11.1792416453549.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Rísið upp"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "úr miðju"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "söfnuðar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessarar"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "og mun ég eyða"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "í svipan"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "Og féllu þeir"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "andlit sín"
+    }
+  ],
+  "timestamp": "2026-10-19T13:27:33.550075990Z",
+  "model": "glm-5.3"
+}

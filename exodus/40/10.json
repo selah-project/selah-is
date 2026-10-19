@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קדש קדשים",
+      "rationale": "tvöföld mynd 'heilagast helgast' — hebreska tvímyndin, oft þýðð 'allrahelgast'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העלה",
+      "rationale": "'það sem stígur upp' — brennivottur; myndin af uppstígandi reyk goðsögn ekki til í íslensku orði"
+    }
+  ],
+  "translation": "Og þú skalt smurja ⟨את⟩ brennivottar-altarið og ⟨את⟩ allt tilhögun þess, og þú skalt helga ⟨את⟩ altarið, og altarið verður heilagast helgast ⟨er⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/40\/9-12.1792395328460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "og þú skalt smurja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brennivottar-altarið"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brennivottar-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "allt tilhögun þess"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "tilhögun þess"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "og þú skalt helga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarið"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "og ⟨er⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarið"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilagast"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "helgast"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:28.461825835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 18:31",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אהל מועד er bókstaflega 'tjald fundarins'; 'tjaldfundarborgin' heldur samsetningunni í einu orði."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Áherslufornafnið הוא krefst ljóss sagnaritar ('eru') á íslensku."
+    }
+  ],
+  "translation": "Og þér megið eta ⟨את⟩ því á öllum stöðum, þér og hús yðar, því að laun eru yður það í stað þjónustu yðar í tjaldfundarborginni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cf564fbff3a1cd1ae4458c8717dfb905cc8c8bde246427e33ff68902b733b240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/18\/29-32.1792396958234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Og þér megið eta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "því"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "á öllum"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "stöðum"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "וביתכם",
+      "gloss": "og hús yðar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "laun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "eru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "עבדתכם",
+      "gloss": "þjónustu yðar"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "í tjaldfundarborginni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tjaldfundarborginni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:02:38.235146916Z",
+  "model": "glm-5.3"
+}

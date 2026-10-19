@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Passiveíska krefst eðlislegrar orðrarðar; ויבש er karlkyns en 'hjarta' er hvorkykyn á íslensku"
+    }
+  ],
+  "translation": "Slegið eins og gras og útþurrkaðist hjarta mitt, því að ég gleymdi að éta brauð mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/102\/5-8.1792410492157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "slegið"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "eins og gras"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "og útþurrkaðist"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "gleymdi ég"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "að éta"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "brauð mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:12.157514756Z",
+  "model": "glm-5.3"
+}

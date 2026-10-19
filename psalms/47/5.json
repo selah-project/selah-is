@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גאון",
+      "rationale": "merkir 'upphátt príð\/dýrð' en einnig 'ofrukk; 'dýrð Jaakobs' eða 'príð Jaakobs'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagtengingu 'Hann' bætt við — hebreskan hefur engan umræðanda í versinu."
+    }
+  ],
+  "translation": "Hann kjósi fyrir okkur ⟨את⟩ arf okkar, ⟨את⟩ dýrð Jaakobs sem hann elskaði. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d85656acc6dcb427d1a999a114b159e188cebb46a2153fd77c0ea58dbb988aed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/47\/5-8.1792409822459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "kjósi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir okkur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arf okkar"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "arf okkar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dýrð Jaakobs"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "dýrð"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "elskaði"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:02.460633966Z",
+  "model": "glm-5.3"
+}

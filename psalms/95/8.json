@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Meríba\/Massa",
+      "rationale": "Meríba (2. Mós 17:7, 'sætti\/þraut') og Massa ('tilraun') — staðarnöfn sem merka sömu atburðina; nafnaleikurinn sést ekki í þýðingu."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael",
+      "rationale": "Banneitið beint til hlustenda — gerið ekki."
+    },
+    {
+      "kind": "crux",
+      "subject": "eyðimörk",
+      "rationale": "מדבר merkir beitiland\/opin svæði jafnt sem eyðimörk; 'eyðimörk' er valið sökum samhengis Massa og Meríba."
+    }
+  ],
+  "translation": "Gerið ekki hjörtu ykkar hart sem í Meríba, eins og daginn í Massa, í eyðimörkinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/95\/5-8.1792410466526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "Gerið ... hart"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "hjörtu ykkar"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "sem í Meríba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "eins og daginn"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "í Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:46.527736361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf sagnirnar „var“ og „gamall“ sem hebreskan tilgreinir aðeins með tölunni „sextán ára“."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Orðið á sér enga samsvarandi íslenska málmynd og fellur saman við „hann“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sextán ára",
+      "rationale": "Aldur konungsins talinn í árum."
+    }
+  ],
+  "translation": "Og allt fólkið Júda tók Azarja — hann var sextán ára gamall — og gerðu hann að konungi í stað föður hans, Amatsja.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7e0516ed2931750e800642a522e7600a86b6a2e97a63deb1defb8d4343a43479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/14\/21-24.1792403183652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "tók"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "בן",
+      "gloss": "var"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sex"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tán"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ára gamall"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "gerðu hann að konungi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður hans"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsja"
+    }
+  ],
+  "timestamp": "2026-10-19T09:46:23.652785919Z",
+  "model": "glm-5.3"
+}

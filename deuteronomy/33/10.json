@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 33:10",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפך",
+      "rationale": "orðrétt 'í nás þína' — myndatóð Gyðinga þýðir oft 'fyrir andliti þínu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "heilabrennifórn",
+      "rationale": "כליל er 'hið heila (fórn sem brennur algerlega)' — ekki sérstök fórnategund í hebreskunni sjálfri."
+    }
+  ],
+  "translation": "Þeir skulu kenna dóma þína Jaakov og Tóru þína Ísrael; þeir setja reykelsi í nás þitt og heilabrennifórn á altari þínu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "77d40ea29f102d9d8aff5a4584383bf911f798bf42e0cebab41778bb53c3cc1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/33\/9-12.1792398507301.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יורו",
+      "gloss": "þeir skulu kenna"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dóma þína"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "og Tóru þína"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "þeir setja"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "reykelsi"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "í nás þitt"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "og heilabrennifórn"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altari þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T08:28:27.302567216Z",
+  "model": "glm-5.3"
+}

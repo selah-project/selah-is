@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 12:12",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guðum",
+      "rationale": "אלהי מצרים um guði Þjóðanna — lítil stafur rétt samkvæmt D1"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "'ég Jahve' — sagnarfinn ⟨er⟩ bætt við á íslensku"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שפטים",
+      "rationale": "שפט 'dómar\/refsingar' kemur aðeins fyrir hér í Tanakh"
+    }
+  ],
+  "translation": "Og ég mun fara um land Mitsrajím þetta nótt, og ég mun slá alla frumborna í landi Mitsrajím, frá manni og til búfés; og gegn öllum guðum Mitsrajím mun ég framkvæma dóma — ég ⟨er⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/9-12.1792394330756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברתי",
+      "gloss": "og ég mun fara um"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nótt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "og ég mun slá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "frumborna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "frá manni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "búfés"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "og gegn öllum"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mun ég framkvæma"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "dóma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:18:50.758042812Z",
+  "model": "glm-5.3"
+}

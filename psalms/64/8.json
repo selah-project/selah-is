@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתאם \/ פתאום",
+      "rationale": "Pit'óm endurtekið úr v. 5 — sölumálaskiptið: örvar þeirra komu skyndilega, nú kemur ör Elóhím skyndilega."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið 'þá' er bætt við á íslensku; hebreskan segir aðeins 'og skýtur' með óbeint andlag í sagnmyndinni."
+    }
+  ],
+  "translation": "Og Elóhím skýtur þá með ör — skyndilega urðu högg þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/64\/5-8.1792410040648.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "og skýtur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ör"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "skyndilega"
+    },
+    {
+      "surface": "היו",
+      "gloss": "urðu"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "högg þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:40.649338125Z",
+  "model": "glm-5.3"
+}

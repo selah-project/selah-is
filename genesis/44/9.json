@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins ‚og hann dó‘; persónufornafnið ‚hann‘ er bætt við í íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "to the steward of Joseph",
+      "rationale": "Bræðurnir tala beint til ráðsmannsins Jósefs"
+    }
+  ],
+  "translation": "Hjá hverjum af þjónum þírum sem ⟨אתו⟩ finnst hjá, deyist hann, og einnig verðum vér að þjónum herra míns.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/44\/9-12.1792393795799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "finnst"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hjá hverjum af þjónum þírum"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "af þjónum þírum"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "deyist hann"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og einnig"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "vér"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "verðum"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "að herra míns"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "þjónum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:09:55.800430937Z",
+  "model": "glm-5.3"
+}

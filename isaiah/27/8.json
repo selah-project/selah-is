@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סאסאה",
+      "rationale": "Sjáaldrorð, aðeins hér í Tanakh — 'mátun\/mæting' er ráðning úr rót mælieiningar"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסאסאה בשלחה",
+      "rationale": "Tvær ráðningar ganga um: 'með mátun, með því að senda hana burt' (ASV\/JPS) gegn KJV 'þegar hún sprettur út' — upphafleg merking óviss"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er 'rúakh' — vindur\/Andi í einu orði; 'vindur' einn þrengir merkinguna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "בסאסאה",
+      "rationale": "Versið talar um mátun — refsingin er mætt, ekki ómáluð"
+    }
+  ],
+  "translation": "Með mátun, með því að senda hana burt, heldur ⟨hann⟩ deilum við hana; hann fjarlægði hana með harðri rúakh sinni, á degi austanveðurs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7c8ff48e480b5c6a3471f49fae736cd6e7c1cfa83cdd1cefdd810f1078904408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/27\/5-8.1792404165935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בסאסאה",
+      "gloss": "Með mátun"
+    },
+    {
+      "surface": "בשלחה",
+      "gloss": "með því að senda hana burt"
+    },
+    {
+      "surface": "תריבנה",
+      "gloss": "heldur deilum við hana"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "fjarlægði"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "með rúakh sinni"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "harðri"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "austanveðurs"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:45.936885970Z",
+  "model": "glm-5.3"
+}

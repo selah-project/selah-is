@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "er — hebreskan sleppir sagnarlsi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "guðir",
+      "rationale": "אלהים hér um guði þjóðanna, með litlum staf, ekki Elóhím"
+    }
+  ],
+  "translation": "Því að ég veit að Jahve er mikill, og Adónaí vor er meiri en allir guðir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/135\/5-8.1792410937639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "veit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "og Adónaí vor"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "meiri en allir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:37.640389702Z",
+  "model": "glm-5.3"
+}

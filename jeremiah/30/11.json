@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 30:11",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "'þar' fellur niður — 'meðal þjóðanna sem ég dreifti þig meðal' ber staðsetninguna þegar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלה...כלה",
+      "rationale": "Orðið 'כלה' (full eyðing) endurtekið — full eyðing þjóðanna en ekki Ísraels; andstæðan er kjarni verssins."
+    },
+    {
+      "kind": "crux",
+      "subject": "למשפט",
+      "rationale": "'í dómi' eða 'að mæli' — KJV 'in measure', önnur lesning 'réttlátlega'."
+    }
+  ],
+  "translation": "Því að ⟨את⟩ með þér er ⟨את⟩ ég, segir Jahve, til að frelsa þig. Því að ég mun gera fullkomna eyðingu í öllum þjóðunum, sem ég hef dreift þig meðal; en ⟨את⟩ þig mun ég ekki gera að fullri eyðingu, heldur aga ég þig í dómi og mun eigi alveg hlífa þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/30\/9-12.1792406029837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ með þér"
+    },
+    {
+      "surface": "אני",
+      "gloss": "er ⟨את⟩ ég"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להושיעך",
+      "gloss": "til að frelsa þig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ég mun gera"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "fullkomna eyðingu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í öllum"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הפצותיך",
+      "gloss": "ég hef dreift þig meðal"
+    },
+    {
+      "surface": "שם",
+      "gloss": ""
+    },
+    {
+      "surface": "אך",
+      "gloss": "en"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ þig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mun ég gera"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "að fullri eyðingu"
+    },
+    {
+      "surface": "ויסרתיך",
+      "gloss": "aga ég þig"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "í dómi"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "hlífa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi alveg"
+    },
+    {
+      "surface": "אנקך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T10:33:49.838793276Z",
+  "model": "glm-5.3"
+}

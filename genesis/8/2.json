@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "hurðir himnanna",
+      "rationale": "ארבות השמים 'hurðar\/gluggar himnanna' — myndrænt fyrir upptök regns, borið lítt literal í íslensku."
+    },
+    {
+      "kind": "substitution",
+      "subject": "djúpið",
+      "rationale": "תהום er súrandi útdjúp, forn kósímísk orðrós, ekki aðeins 'haf'."
+    }
+  ],
+  "translation": "Og lokuðust uppsprettur djúpsins og hurðir himnanna, og regnið hætti af himnunum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/8\/1-4.1792392698961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "loknuðust"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "uppsprettur"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "djúpsins"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "og hurðir"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "hætti"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "regnið"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnunum"
+    }
+  ],
+  "timestamp": "2026-10-19T06:51:38.962441115Z",
+  "model": "glm-5.3"
+}

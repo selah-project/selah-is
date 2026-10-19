@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "'Gengist ábyrgð fyrir' (trygging, endurgjald) eða 'blanda saman' — flestar þýðingar velja ábyrgðarmyndina."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ערב er myndrænt 'fletja saman' — ábyrgðarmyndin kemur frá lánsviðskiptum."
+    }
+  ],
+  "translation": "Gengist ⟨sem⟩ ábyrgðarmaður fyrir þjóni þínum til gæsku; hinn hrekki sig mikli skal ekki kúpa mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/119\/121-124.1792410844605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Gengist ⟨sem⟩ ábyrgðarmaður fyrir"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "þjóni þínum"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "til gæsku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "skal ekki"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "kúpa mig"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "hinn hrekki sig mikli"
+    }
+  ],
+  "timestamp": "2026-10-19T11:54:04.605904079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf greini í 'andlit ⟨hins⟩ valdsmanns' þar sem hebreska hefur samstæðu með greini einungis á hvoru orði."
+    },
+    {
+      "kind": "hapax",
+      "subject": "השליט",
+      "rationale": "Orðið shalít (valdsmaður, persískt lánaviðorð) er afar sjaldgæft í Tanakh og birtist aðallega í Ester-bók og hér."
+    }
+  ],
+  "translation": "Það er óþverra sem ég hef séð undir sólinni, eins og skeið sem gengur fram frá andliti ⟨hins⟩ valdsmanns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0588a275be6adbfa70bbf9af9e0fa67a7805a40dccd6d1d0f66351098406449c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/10\/5-8.1792413039537.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Það er"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "óþverra"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "sem ég hef séð"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sólinni"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "eins og skeið"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "sem gengur fram"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "frá andliti"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "valdsmanns"
+    }
+  ],
+  "timestamp": "2026-10-19T12:30:39.537767252Z",
+  "model": "glm-5.3"
+}

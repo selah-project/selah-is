@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska יש krefst sögnar á íslensku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זאת",
+      "rationale": "'Þetta' vísar ógreinilega fram á við — sök sú sem KúsjFully sakar Davíð um."
+    }
+  ],
+  "translation": "Jahve, Elóhím minn, ef ég gjörði þetta, ef óréttlæti ⟨er⟩ í lófum mínum —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/1-4.1792409236169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gjörði ég"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "óréttlæti"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "í lófum mínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:16.170538876Z",
+  "model": "glm-5.3"
+}

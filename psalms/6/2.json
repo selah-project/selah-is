@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Hebreska orðið merkir bókstaflega 'nef, nasir'; 'reiði' er myndrænt notkun þess."
+    },
+    {
+      "kind": "you",
+      "subject": "Jahve",
+      "rationale": "Beint tilnaður til Jahve í bæn."
+    }
+  ],
+  "translation": "Jahve, ekki í reiði þinni sætt þú mig, og ekki í heift þinni aga þú mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/6\/1-4.1792409186327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "í reiði þinni"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "sætt þú mig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "í heift þinni"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "aga þú mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:26.327891876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 20:21",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "hvíldist með feðrum sínum",
+      "rationale": "עם אבתיו 'lá með feðrum sínum' er hebresk umsögn um að deyja, gerð í íslensku sem hvíld"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tók konungdóminn",
+      "rationale": "וימלך er einfaldur sagnarforn-tími af 'konunga'; íslenskan þarf inngangshjálp"
+    }
+  ],
+  "translation": "Og Khiskíjahu hvíldist með feðrum sínum, og Menashe sonur hans tók konungdóminn í hans stað.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "dce5569d8e3bac142e9a422053987d24ca09544294824208fc26656d3773203d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/20\/21-21.1792403420453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "og hvíldist"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khiskíjahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðrum sínum"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og tók konungdóminn"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "í hans stað"
+    }
+  ],
+  "timestamp": "2026-10-19T09:50:20.453720011Z",
+  "model": "glm-5.3"
+}

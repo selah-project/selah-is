@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסך",
+      "rationale": "Rót נסך merkir 'að ausa út' (drykkjarfórn) — en KJF\/Geneva lesa 'lokað með' af כסה; 'ausið er' heldur rótinni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "flöskurnar",
+      "rationale": "הקשות er 'krukkur' (af löngum hálsi); 'flöskur' heldur löngum myndinni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kupar",
+      "rationale": "כפות er bókstaflega 'lófar' — lítilar lófaformaðar diskar; myndin glatarst að hluta."
+    }
+  ],
+  "translation": "Og hann gjörði ⟨את⟩ áhöldin sem á borðinu eru — ⟨את⟩ skálir þess og ⟨את⟩ kupar þess og ⟨את⟩ blóðker þess og ⟨את⟩ flöskurnar sem ausið er með — úr skíru gulli.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ca7e97eb19995cd058903b718b62a714c99d6e42964951f1e3eda8183e9ed4ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/37\/13-16.1792395235615.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gjörði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áhöldin"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "áhöldin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "borðinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skálir þess"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "skálir þess"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "kupar þess"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "kupar þess"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "blóðker þess"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "blóðker þess"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "flöskurnar"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "flöskurnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ausið er"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "með"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulli"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "skíru"
+    }
+  ],
+  "timestamp": "2026-10-19T07:33:55.617344401Z",
+  "model": "glm-5.3"
+}

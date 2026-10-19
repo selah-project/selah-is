@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "ויצף er 'þekja yfir' (þynnt gyllti) — 'klæddi' er næsta íslenska orð myndrænt"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שטים",
+      "rationale": "akasía — trjátegund; 'Shittim' væri hljóðrænt en nafn trés er þýtt"
+    }
+  ],
+  "translation": "Og hann gjörði ⟨את⟩ stangirnar af akasíuviði og klæddi ⟨את⟩ þær kopar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e05fb8e2109a04dea909c27e0391bb0176284919fbf74da18e80e3b2d0706eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/38\/6-7.1792416292943.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "og hann gjörði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stangirnar"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "stangirnar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af viði"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasíu"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "og klæddi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þær",
+      "marks": "þær (stangirnar)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kopar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:52.944121120Z",
+  "model": "glm-5.3"
+}

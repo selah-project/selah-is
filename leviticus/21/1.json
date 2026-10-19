@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er lífskrafti\/anding, ekki sál í ósköpjuðum skilningi; 'fyrir sál' heldur mynd hebreskunnar."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Framsögnarforsæti ('skal hann') bætt við — hebreskan segir bara lögmálið óbeint."
+    },
+    {
+      "kind": "you",
+      "subject": "to the priests",
+      "rationale": "Boð talað til prestanna, sona Aharons."
+    }
+  ],
+  "translation": "Og Jahve sagði við Mósje: Talaðu við prestana, syni Aharons, og segðu þeim: Fyrir sál skal hann ekki gjast óhreinn meðal fólks síns.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/21\/1-4.1792396004678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Talaðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "prestana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharons"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "og segðu þeim"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "fyrir sál"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "gjast óhreinn"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "meðal fólks síns"
+    }
+  ],
+  "timestamp": "2026-10-19T07:46:44.680248020Z",
+  "model": "glm-5.3"
+}

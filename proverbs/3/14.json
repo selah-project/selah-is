@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "samanburðarsetningin 'betri en' krefst endurtekningar á sögn í seinna liðnum, sem hebreskan sleppir"
+    },
+    {
+      "kind": "crux",
+      "subject": "מחרוץ",
+      "rationale": "merkir 'útskorið, hreinsað' — 'skírt gull' eða 'gull í geymslu'; KJV 'fine gold'"
+    }
+  ],
+  "translation": "Því að hagnaður hennar er betri en kaupsilfur, og tekjur hennar betri en skírt gull.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7932d61661b4d4a0808ca5e36159d9ac5c828bd5d220084a535f681cbc2b3689",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/13-16.1792411176988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "betri"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "hagnaður hennar"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "kaup"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "en skírt"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "tekjur hennar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:59:36.988919204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 15:14",
+  "book": "job",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maðurinn",
+      "rationale": "אנוש merkir 'hráðdauðlegur maður' — tvenndin á milli orðanna לאדם og אנוש hverfur á íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "hreinn",
+      "rationale": "יזכה: 'vera glær\/ gegnsæjinn' myndlíkt vs. siðferðilegt 'ósýrður, saklaus'"
+    }
+  ],
+  "translation": "Hver er maðurinn, að hann skyldi vera hreinr, og sá sem fæddur er af konu, að hann skyldi vera réttlátur?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "daac0b3a6140fbde71c41334a94ca86bb2d82083f2dcb5eb9c606fbe7a1f24a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/15\/14-15.1792417079181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "maðurinn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "skyldi vera hreinn"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "og að"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "skyldi vera réttlátur"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "fæddur"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "af konu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:59.182334221Z",
+  "model": "glm-5.3"
+}

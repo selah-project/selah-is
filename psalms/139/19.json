@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "אִם lesið bæði sem ósk ('ó að þú myndir', JPS\/Geneva) og sem vissan staðhæfingu ('vissulega slærð þú', KJV)."
+    },
+    {
+      "kind": "you",
+      "subject": "menn blóðsins",
+      "rationale": "Beint ávarp með boðshætti: hverfið frá mér."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אנשי דמים",
+      "rationale": "Samband 'menn blóðs' = blóðstokkar; myndin látin standa bókstaflega."
+    }
+  ],
+  "translation": "Ó að þú myndir drepa, Elóa, hinn rangláta! Og menn blóðsins — hverfið frá mér!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/17-20.1792410997598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ó að þú myndir"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "drepa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elóa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "hinn rangláta"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "og menn"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "blóðsins"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "hverfið"
+    },
+    {
+      "surface": "מני",
+      "gloss": "frá mér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:37.598885239Z",
+  "model": "glm-5.3"
+}

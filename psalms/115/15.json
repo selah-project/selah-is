@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eruð",
+      "rationale": "Sagnbandið „eruð“ er sett fram; hebreskan hefur ekki sagnband í hverfandi frasi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "himnar og jörð",
+      "rationale": "Tvíeykið שמים (himnar) er tvítala — „himnatvenn“; íslenska „himnanna“ gefur ekki tvítöluna eftir."
+    }
+  ],
+  "translation": "Þér eruð blessaðir af Jahve, geri himnanna og jarðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/115\/13-16.1792410748031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "blessaðir"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Þér"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "af Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "geri"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "og jarðar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:28.031904909Z",
+  "model": "glm-5.3"
+}

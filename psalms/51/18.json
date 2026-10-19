@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתנה",
+      "rationale": "'eða þá myndi ég gefa hana' (KJV) gegn 'ég myndi gefa' án skilyrðis; ו vav getur verið veldandi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולה",
+      "gloss": "'brenniför' fyrir það sem gengur upp, heilbræðslu"
+    }
+  ],
+  "translation": "Því að þú hefur ekki gagntekið slátrun — þá hefði ég gefið ⟨את⟩ hana; brenniför hefur þú ekki ánægju af.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/17-20.1792409852032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "þú girnist"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slátrun"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "og ég myndi gefa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brenniför"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "hefur þú ánægju af"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:32.033243001Z",
+  "model": "glm-5.3"
+}

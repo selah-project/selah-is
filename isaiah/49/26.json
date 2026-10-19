@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 49:26",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ungrýju",
+      "rationale": "עסיס er nýtt, ógært þrúgusaf; aðalþýðing „sweet wine“ sætir ekki — það er must"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוניך",
+      "rationale": "lemma ינה, „að kúga\/þrýsta“; endirinn -יך bendir til Síon eins og í v. 25"
+    },
+    {
+      "kind": "idiom",
+      "subject": "allt hold",
+      "rationale": "כל בשar = allt mannkynið, lífvera; „hold“ varðveitt í báðum tilvikum til að halda endurtekningunni"
+    }
+  ],
+  "translation": "Og ég mun láta ⟨את⟩ þjáendum þína éta ⟨את⟩ hold þeirra sjálfra, og eins ogungrýju munu þeir drekka blóð sitt, og allt hold skal vita að ég er Jahve, frelsari þinn og endurlausnarmaður þinn, sterki Jaakobs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "747d9ef241c758a264311e4074e0c8a7727def901b7c49484489a5d3659608b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/49\/25-26.1792404809490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאכלתי",
+      "gloss": "og ég mun láta éta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjáendum þína"
+    },
+    {
+      "surface": "מוניך",
+      "gloss": "þjáendum þína"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hold þeirra"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "hold þeirra"
+    },
+    {
+      "surface": "וכעסיס",
+      "gloss": "og eins og unrýju"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "blóð sitt"
+    },
+    {
+      "surface": "ישכרון",
+      "gloss": "munu þeir drekka sig drukknir"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "og skal vita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hold"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "frelsari þinn"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "endurlausnarmaður þinn"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "sterki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:29.491016812Z",
+  "model": "glm-5.3"
+}

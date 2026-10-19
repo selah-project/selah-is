@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hebreska hefur ekki fornafnið 'þeir'; sagnirnar í fleirtolu þurfa frumlag á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mótaði",
+      "rationale": "יצר er að móta leir eins og potari — mynd hvers orðs er varðveitt"
+    }
+  ],
+  "translation": "Þjóðina þessa mótaði ég mér; lof mitt munu ⟨þeir⟩ segja frá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/43\/21-24.1792404600291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "זו",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "mótaði ég"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lof mitt"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "segja ⟨þeir⟩ frá"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:00.292424548Z",
+  "model": "glm-5.3"
+}

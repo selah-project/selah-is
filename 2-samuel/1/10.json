@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 1:10",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨þau⟩ bætt við á íslensku — hebreskan segir aðeins 'og ég bar'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "herra míns",
+      "rationale": "אדני hér um mann (Davíð), ekki Guð — 'herra minn', ekki Adónaí."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנזר",
+      "rationale": "Kóróna konungs eða vígð band — sögðin er að Amalekíti sé að ljúga (saman ber 1:6)."
+    }
+  ],
+  "translation": "Og ég stað yfir honum og felldi hann, því að ég vissi að hann myndi ekki lifa eftir fall sitt; og ég tók díademið sem var á höfði honum og armbandið sem var á armi honum, og bar ⟨þau⟩ hingað til herra míns.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/1\/9-12.1792401094150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעמד",
+      "gloss": "Og ég stað"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir honum"
+    },
+    {
+      "surface": "ואמתתהו",
+      "gloss": "og felldi hann"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ég vissi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "myndi lifa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "fall sitt"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "og ég tók"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "díademið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "höfði honum"
+    },
+    {
+      "surface": "ואצעדה",
+      "gloss": "og armbandið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "armi honum"
+    },
+    {
+      "surface": "ואביאם",
+      "gloss": "og bar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hingað til"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "herra míns"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hingað"
+    }
+  ],
+  "timestamp": "2026-10-19T09:11:34.151510055Z",
+  "model": "glm-5.3"
+}

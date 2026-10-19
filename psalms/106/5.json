@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לשמח\/בשמחת",
+      "rationale": "sama rót endurtekin — 'gleðjast í gleði' — endurspeglast einnig í 'sjá\/ gæsku'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "ekki í þessu versi, en 'útkjörin' fyrir בחיריך heldur mynd útkjörningar, ekki hlutverks"
+    }
+  ],
+  "translation": "Að fá að sjá gæsku útkjörinna þinna, að gleðjast í gleði þjóðar þinnar, að hrósa með arfleifð þinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/5-8.1792410624781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "að fá að sjá"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "gæsku"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "útkjörinna þinna"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "að gleðjast"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "í gleði"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "þjóðar þinnar"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "að hrósa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "arleifð þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:24.781760885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מנשה\/נשני",
+      "rationale": "Nafnið Menasje (מנשה) er dregið af sögninni נשׂני ‚lét mig gleyma‘; nafnasetningin byggir á hljóðlíkingu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית אבי",
+      "rationale": "„Hús föður míns“ merki ættina; ‚fæðingarhús‘ heldur myndinni en orðatilhögunin er íslensk."
+    }
+  ],
+  "translation": "Og Jósef kallaði ⟨את⟩ heiti fyrstfædda sonarins Menasje, því að Elóhím lét mig gleyma ⟨את⟩ öllum erfiði mínum og ⟨את⟩ öllu fæðingarhúsi föður míns.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "679e1d34b3f96c87934810b12fed48b5eca8b2df02bdbad91fc79e07f17dea11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/41\/49-52.1792393763909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og kallaði"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heiti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "heiti"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "fyrstfædda"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "lét mig gleyma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllum erfiði mínum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "erfiði mínum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "öllu fæðingarhúsi föður míns"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "fæðingarhúsi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "föður míns"
+    }
+  ],
+  "timestamp": "2026-10-19T07:09:23.912190579Z",
+  "model": "glm-5.3"
+}

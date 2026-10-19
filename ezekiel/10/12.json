@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 10:12",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hold",
+      "rationale": "בשר er „hold“ — ekki ‚líkami‘; hold kerúbanna sjálft er augnafullt."
+    },
+    {
+      "kind": "crux",
+      "subject": "וגבהם",
+      "rationale": "גב er „bak“ eða „rim\/boginn flötur“; KJV ‚rings‘, JPS ‚backs‘."
+    }
+  ],
+  "translation": "Og allt hold þeirra, og bak þeirra, og hendur þeirra, og vængir þeirra, og hjólin, full af augum allt í kring, þeirra fjögurra hjól.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7957aaa31cac3d4c4afc24b1e81353d4b51ffc420db13e51f98ea35d44411fb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/10\/9-12.1792406888281.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Og allt"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "hold þeirra"
+    },
+    {
+      "surface": "וגבהם",
+      "gloss": "og bak þeirra"
+    },
+    {
+      "surface": "וידיהם",
+      "gloss": "og hendur þeirra"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "og vængir þeirra"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "og hjólin"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "full"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "af augum"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "allt í kring"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "þeirra fjögurra"
+    },
+    {
+      "surface": "אופניהם",
+      "gloss": "hjól"
+    }
+  ],
+  "timestamp": "2026-10-19T10:48:08.282450700Z",
+  "model": "glm-5.3"
+}

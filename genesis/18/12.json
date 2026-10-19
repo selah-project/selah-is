@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 18:12",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צחק \/ יצחק",
+      "rationale": "Sará „hló“ (צחק) — sama rót og nafn Ísaks (Jitskhak); orðvísnin birtist aftar í kaflanum."
+    },
+    {
+      "kind": "crux",
+      "subject": "עדנה",
+      "rationale": "„ánægja\/líðan“ (frá rót עדן) — læst sem kynlífslugleði eða almenn ánægja; orðið er nær örheiti í Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "innra með sér",
+      "rationale": "בקרבה er bókstaflega „í miðju hennar“ — íslenskan notar fastandi frase."
+    }
+  ],
+  "translation": "Þá hló Sará innra með sér og sagði: Eftir að ég hef eldist, á ég þá ánægju — og herra minn er gamall?",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/18\/9-12.1792392908569.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצחק",
+      "gloss": "Þá hló"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sará"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "innra með sér"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Eftir að"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ég hef eldist"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "á"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ánægju"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "og herra minn"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "er gamall"
+    }
+  ],
+  "timestamp": "2026-10-19T06:55:08.570466532Z",
+  "model": "glm-5.3"
+}

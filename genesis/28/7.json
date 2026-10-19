@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וישמע אל — orðlega 'heyrði til'; 'hlýddi' er venjuleg íslensk endursögn á hlýðninni sem liggur í að heyra."
+    }
+  ],
+  "translation": "og að Jaakov hlýddi föður sínum og móður sinni og færi til Paddan-Aram —",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "7ca369c9dbee31948ee48fbc0bf297dac8775f5999c67d7758fb1d66874e5d74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/28\/5-8.1792393246110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "hlýddi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "föður"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sínum"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og móður"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sinni"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "og færi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:46.111432478Z",
+  "model": "glm-5.3"
+}

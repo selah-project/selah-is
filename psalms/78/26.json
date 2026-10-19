@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vindar",
+      "rationale": "קדים og תימן heita eftir áttum (austur\/suður) — vindurinn er ekki nefndur í hebreskunu, „vindur” bætt við"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„sínum” bætt við — בעזו er aðeins „með krafti hans”, lýsingarorðið fer með"
+    }
+  ],
+  "translation": "Hann lét austanvind fara af stað í himnunum og dró suðanvind með krafti sínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/25-28.1792410228098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "lét fara af stað"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "austanvind"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "í himnunum"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "dró"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "með krafti"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "suðanvind"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:48.098644989Z",
+  "model": "glm-5.3"
+}

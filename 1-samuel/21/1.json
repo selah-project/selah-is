@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf stefviðbótina „inn“ sem hebreskan segir með sagninni בוא."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויקם וילך",
+      "rationale": "„Hann“ er ónefnt í hebresku — fráliðið úr samhengi (David), enda birtingatexti hélt aðeins endaloka 20. kafla."
+    }
+  ],
+  "translation": "Og hann reis og fór, og Jónatan fór ⟨inn⟩ í borgina.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "78c27489ce3859d973829d14b18ba46e3e24a2884ca06a6878ce61664d6f39c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/21\/1-4.1792400784894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "reis"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "fór"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "fór"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgina"
+    }
+  ],
+  "timestamp": "2026-10-19T09:06:24.894965396Z",
+  "model": "glm-5.3"
+}

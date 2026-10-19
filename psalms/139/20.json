@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאמרוך",
+      "rationale": "'Tala um þig' (KJV) á móti 'nefna þig' (JPS) — myndin er notkun nafns Guðs, tengd boðinu um að bera Nafnið ekki í svifsemi (2. Mós 20:7)."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשוא לשוא עריך",
+      "rationale": "Orðaröð óviss: 'óvinir þínir eru lyftir til lítils' (YL T) eða 'bera Nafn þitt í svifsemi' (KJV)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למזמה ... לשוא",
+      "rationale": "Tvö líkar-setningar með לְ — 'í illráðum ... í svifsemi' — samhverf lykt í hebresku sem íslenskan heldur að hluta til."
+    }
+  ],
+  "translation": "Sem nefna þig í illráðum, og óvinir þínir bera Nafn þitt í svifsemi.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/17-20.1792410997598.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "nefna þig"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "í illráðum"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bera"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "í svifsemi"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "óvinir þínir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:37.599027517Z",
+  "model": "glm-5.3"
+}

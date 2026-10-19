@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kunnugur vor",
+      "rationale": "מודעת: ættingi\/tengd fjölskylda (LXX „tengdur okkar“) vs. kunnáttamaður; orðið er tengt sögu af skyldleika."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "את בערותיו er með-forsetning („með“), ekki aleph-tav-markið — glosað sem „með“."
+    },
+    {
+      "kind": "you",
+      "subject": "to Ruth",
+      "rationale": "Naomí heldur áfram beinni ræðu til Rutar."
+    }
+  ],
+  "translation": "Og nú — er Boaz ekki kunnugur vor, sá er þú varst ⟨את⟩ með stúlkum hans? Sjá, hann er að siga ⟨את⟩ þreskjugólfið byggjarins í nótt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ruth\/3\/1-4.1792412762355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "og nú"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "kunnugur vor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "היית",
+      "gloss": "þú varst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ með",
+      "marks": "stúlkum hans"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "stúlkum hans"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "að siga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þreskjugólfið byggjarins"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "þreskjugólfið"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "byggjarins"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "í nótt"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:02.356043874Z",
+  "model": "glm-5.3"
+}

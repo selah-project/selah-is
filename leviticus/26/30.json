@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "skurðgoð",
+      "rationale": "גלולים er bókstaflega 'klukur' (kúlulaga viðarbitar), rittýtt sem skurðgoð"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמנים",
+      "rationale": "sólarsúlur (súlnar til dýrkunar sólar) — sumir þýða 'reykaltari' (svona BSB) eða 'myndir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sál mín",
+      "rationale": "נפש er lífskraftur, önd, ekki óskiljanleg sál — 'lífskraftur minn mun hafna yður'"
+    }
+  ],
+  "translation": "Og ég mun eyða ⟨את⟩ hástöðvum yðar, og högga niður ⟨את⟩ sólarsúlur yðar, og ég mun leggja ⟨את⟩ lík yðar ofan á lík skurðgoða yðar, og sál mín mun andstyggjast yður ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "81b862961ddb59a53194231fbb7ec23233f491157574d6ac5827f127ebada576",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/30-31.1792416364486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "Og ég mun eyða"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hástöðvum yðar"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "hástöðvum yðar"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "og högga niður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sólarsúlur yðar"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "sólarsúlur yðar"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "og ég mun leggja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lík yðar"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "lík yðar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ofan á"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "lík"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "skurðgoða yðar"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "og andstyggjast"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "yður ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:04.487482766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לפני er orðrétt 'fyrir andliti'; 'fyrir ásjánu' varðveitir myndina"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שוק er 'leggur\/lær', ekki 'öxl' eins og eldri þýðingar gera"
+    }
+  ],
+  "translation": "Og ⟨את⟩ brjóstið og ⟨את⟩ hægra lær sveiflaði Aharon sem sveiflifórn fyrir ásjánu Jahve, eins og Mósje hafði boðið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a3d690cce0f3322a2a66c498da9c3472edea00af817a4030dbd6fd81d0fb9ec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/9\/21-24.1792395682653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brjóstið"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "brjóstið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hægra lær"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lær"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "hægra"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "sveiflaði"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sem sveiflifórn"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir ásjánu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hafði boðið"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    }
+  ],
+  "timestamp": "2026-10-19T07:41:22.654978084Z",
+  "model": "glm-5.3"
+}

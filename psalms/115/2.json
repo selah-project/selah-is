@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Viðhorfsagnirði נא hefur ekkinn íslenskt samsvörun; merkt ⟨þá⟩ sem næst"
+    },
+    {
+      "kind": "you",
+      "subject": "þjóðirnar",
+      "rationale": "Spurningin er látin í munn þjóðanna — beint ábúð við lesandann um hvar Guð þjóðarinnar sé"
+    }
+  ],
+  "translation": "Hví ættu þjóðirnar að segja: Hvar er ⟨þá⟩ Elóhím þeirra?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/115\/1-4.1792410724855.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ættu að segja"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Hvar er"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨þá⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elóhím þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:04.856266415Z",
+  "model": "glm-5.3"
+}

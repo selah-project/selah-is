@@ -1,0 +1,204 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 3:12",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "fyrsta mánuðinum, þrettánda degi",
+      "rationale": "Dagsetningin er nákvæm — þrettándi dagur fyrsta mánaðar (Nísan), einn dag áður en Pésakh hefst."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה \/ עם ועם",
+      "rationale": "Endurtekin tvíeykð 'umdæmi og umdæmi, lýður og lýður' gera útlistunina að stjórnlegt kvæði — fallandi hrynjám sem hverfur í íslensku."
+    },
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "'það' í 'var það skrifað' er sett inn; hebreskan notar ópersónulega þolmynd án frumlags."
+    },
+    {
+      "kind": "substitution",
+      "subject": "satrapar",
+      "rationale": "אחשדרפני er persneskt lánaorð (khshathrapavan) — haldið sem hljóðfært heiti yfir yfirstjóra aðalhéruða."
+    }
+  ],
+  "translation": "Og ritarar konungsins voru kallaðir í fyrsta mánuðinum, þrettánda degi hans, og var skrifað eftir öllu því sem Haman bauð, til satrapa konungsins og til höfðingjanna yfir hvert umdæmi og hvert, og til yfirstjórnenda hvers lýðs og hvers, hvert umdæmi eftir rit sinni og hver lýður eftir tungu sinni; í nafni Akasveróss konungs var það skrifað og innsiglað með innsigli konungsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/3\/9-12.1792413201765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Og... voru kallaðir"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "ritarar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "í mánuðinum"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "fyrsta"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "þrettánda"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tíu og þrír)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "degi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hans"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "og var skrifað"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "eftir öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחשדרפני",
+      "gloss": "satrapa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "הפחות",
+      "gloss": "höfðingjanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "hvert umdæmi"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "og hvert"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "yfirstjórnenda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hvers lýðs"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og hvers"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "hvert umdæmi"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "og hvert"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "eftir rit sinni"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og hver lýður"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og hver"
+    },
+    {
+      "surface": "כלשונו",
+      "gloss": "eftir tungu sinni"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "í nafni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Akasveróss"
+    },
+    {
+      "surface": "נכתב",
+      "gloss": "var skrifað"
+    },
+    {
+      "surface": "ונחתם",
+      "gloss": "og innsiglað"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "með innsigli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    }
+  ],
+  "timestamp": "2026-10-19T12:33:21.767274396Z",
+  "model": "glm-5.3"
+}

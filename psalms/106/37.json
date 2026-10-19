@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שדים — 'skemar' — lýst sem illvöru andaverum; YLT 'destroyers', LXX 'dæmonium'"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "vitnað um Ísraels þjóð í þriðju persónu — enginn beinn áhrifamaður í þessu versi"
+    }
+  ],
+  "translation": "Og þeir slátruðu ⟨את⟩ sonum sínum og ⟨את⟩ dætrum sínum skémunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/37-40.1792410602722.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Og þeir slátruðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonum sínum"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sonum sínum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "dætrum sínum"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "dætrum sínum"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "skémunum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:02.722971283Z",
+  "model": "glm-5.3"
+}

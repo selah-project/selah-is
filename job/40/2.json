@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 40:2",
+  "book": "job",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרב",
+      "rationale": "„Er málgirndur sá sem keppist við Sjaddaí að læra af honum?“ — sumir lesa orðið sem spurningu um leiðsögn, aðrir um málgirni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagða fornafnið „hann“ bætt við til að gera ópersónulegu skipunina skýra."
+    }
+  ],
+  "translation": "Er sá sem deilir við Sjaddaí ⟨að⟩ vísa honum rétta leið? Sá sem ásakar Elóa — hann skal svara því.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0861b0336753d9d42fcd4fed95f86231a3761ee23ab492c70e05b2fe37917617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/40\/1-4.1792412513655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "deilir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "við"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddaí"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "vísa rétta leið"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ásakar"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elóa"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "hann skal svara því"
+    }
+  ],
+  "timestamp": "2026-10-19T12:21:53.655766520Z",
+  "model": "glm-5.3"
+}

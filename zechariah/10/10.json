@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan segir aðeins „og ekki mun fundast þeim“; orðið ⟨rúm⟩ er bætt við til skýringar."
+    },
+    {
+      "kind": "crux",
+      "subject": "ימצא להם",
+      "rationale": "„Fundið verður fyrir þeim“ — jps: „pláss nægir ekki“, kjv: „pláss mun ekki fundast“."
+    }
+  ],
+  "translation": "Og ég mun láta þá snúa aftur úr landi Mitsrajím og úr Assúr mun ég safna þeim, og í land Gilad og Líbanon mun ég færa þá, og ⟨rúm⟩ mun ekki fundast fyrir þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/10\/9-12.1792409045772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "Og ég mun láta þá snúa aftur"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "og úr Assúr"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "mun ég safna þeim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og í"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "og Líbanon"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "mun ég færa þá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mun fundast"
+    },
+    {
+      "surface": "להם",
+      "gloss": "fyrir þá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:24:05.773342720Z",
+  "model": "glm-5.3"
+}

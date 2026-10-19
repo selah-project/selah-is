@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "voru",
+      "rationale": "Hebreskan segir aðeins 'allur lýðurinn og allir hetjurnir á hægri hönd hans' — sagnliðurinn 'voru' er íslensk viðbót, merkt."
+    },
+    {
+      "kind": "substitution",
+      "subject": "grætti",
+      "rationale": "סקל er sérstaklega 'að græta\/grípa steinum' (steining); 'varpa' myndi tapa myndinni."
+    }
+  ],
+  "translation": "Og hann grætti ⟨את⟩ Davíð með steinum og ⟨את⟩ alla þjóna konungsins Davíðs; og allur lýðurinn og allir hetjurnir ⟨voru⟩ á hægri hönd hans og á vinstri hönd hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/16\/5-8.1792401517394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Og hann grætti"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "með steinum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davíð"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "alla þjóna konungsins Davíðs"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjóna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lýðurinn"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allir"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "hetjurnir"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "á hægri hönd hans"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "og á vinstri hönd hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:18:37.395153108Z",
+  "model": "glm-5.3"
+}

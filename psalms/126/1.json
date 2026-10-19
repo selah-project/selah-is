@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בשוב\/שיבת",
+      "rationale": "Sama rót endurtekin: 'að snúa aftur ... aftursnúning'; orðlékanum glatar í þýðingu"
+    },
+    {
+      "kind": "crux",
+      "subject": "endurhending",
+      "rationale": "שיבת getur einnig merkt 'hörfuhafi\/fanga'; 'endurhending' heldur skyldleika við שוב"
+    },
+    {
+      "kind": "you",
+      "subject": "vér",
+      "rationale": "Pilagrimarnir tala í fyrstu persónu fleirtölu, hátíðiségilegt viðmæli"
+    }
+  ],
+  "translation": "Söngur stíganna. Þegar Jahve snéri aftur ⟨את⟩ endurhendingu Tsjíon, vorum vér sem draumamenn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/126\/1-4.1792410934536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Söngur"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stíganna"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Þegar ... snéri aftur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "endurhendingu Tsjíon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "endurhendingu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsjíon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "vorum vér"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sem draumamenn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:34.537254707Z",
+  "model": "glm-5.3"
+}

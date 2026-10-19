@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska setur frumlag í aðsetursfalli (þér) sem hebreskan felur í endingunni."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Aleph-tav með persónuendingu varðveitt sem ⟨את⟩ merki, ekki þýtt."
+    }
+  ],
+  "translation": "Og þér svarið ⟨את⟩ mér og sagðuð: Gott er málið sem þú hefir talað að gjöra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0bf54a590f73a5be45a38603610a96ef44db9162fba19e02a677a7023e647f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/14-15.1792416395120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Og þér svarið"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mér"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "og sagðuð"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Gott"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "er málið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "þú hefir talað"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "að gjöra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:35.120758593Z",
+  "model": "glm-5.3"
+}

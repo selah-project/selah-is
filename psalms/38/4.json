@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אין...אין",
+      "rationale": "Endurtekið neitunarefni í samlagningu — 'enginn... enginn' — myndar tvíveggja byggingu versins"
+    },
+    {
+      "kind": "substitution",
+      "subject": "heift",
+      "rationale": "זעם er bókstaflega 'froða í munninum', myndlega 'ofsareiði'; 'heift' heldur munnlegu myndinni næst"
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenskan þarf sögn í hvorum lið; hebreskan segir aðeins 'enginn heilleiki í holdi mínu'"
+    }
+  ],
+  "translation": "Enginn heilleiki er í holdi mínu vegna heiftar þinnar, enginn friður er í beinum mínum vegna syndar minnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/1-4.1792409723634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Enginn"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "heilleiki"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "í holdi mínu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "heiftar þinnar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friður"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "í beinum mínum"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "syndar minnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:23.635907964Z",
+  "model": "glm-5.3"
+}

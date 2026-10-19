@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "eign",
+      "rationale": "מלאכת er 'verk\/starf'; 'eign náungans' er lesin merking — JPS 'goods'"
+    },
+    {
+      "kind": "crux",
+      "subject": "og skal taka við",
+      "rationale": "ולקח: 'eigandinn tekur (eiðinn)' — sagnfylling 'eiðinum' bætt við af textanum í v. 10 samhengi"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "frumlag 'gæslumaðurinn' bætt við í síðustu setningu — hebreskan hefur aðeins sögn"
+    }
+  ],
+  "translation": "þá skal eiður Jahve vera milli þeirra beggja, ⟨að særa⟩ hvort hann hafi ekki tekið hönd sína að eign náunga síns; og eigandinn skal taka við ⟨eiðinum⟩, og ⟨gæslumaðurinn⟩ skal ekki bæta.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/9-12.1792394653215.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "eiður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "בין",
+      "gloss": "milli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "þeirra beggja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hvort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tekið"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hönd sína"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "að eign"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "náunga síns"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "og skal taka við"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "eigandinn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "skal bæta"
+    }
+  ],
+  "timestamp": "2026-10-19T07:24:13.216568483Z",
+  "model": "glm-5.3"
+}

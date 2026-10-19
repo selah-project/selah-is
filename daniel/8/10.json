@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nokkra",
+      "rationale": "Íslenskan þarf andlag til að setningin lesist; hebreskan hefur aðeins 'af hersveitinni og af stjörnunum'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צבא",
+      "rationale": "Sama orð og í 'Jahve Tsevaót' — hersveit himnanna birtist hér sem raunveruleg sveit sem fellur."
+    }
+  ],
+  "translation": "Og það óx allt að hersveit himnanna, og það félli til jarðar ⟨nokkra⟩ af hersveitinni og af stjörnunum og trampaði á þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/8\/9-12.1792413594182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "og það óx"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt að"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "hersveit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "og það félli"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "til jarðar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "hersveitinni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og af"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "stjörnunum"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "og trampaði á þá"
+    }
+  ],
+  "timestamp": "2026-10-19T12:39:54.182854724Z",
+  "model": "glm-5.3"
+}

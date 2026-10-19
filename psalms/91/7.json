@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "þúsund og tíu þúsund — tölurnar fléttast gegn einum manni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnfyllingin „það“ bætt við í síðari málsgrein, hebreskan notar karlkynssögn ógreinilega"
+    }
+  ],
+  "translation": "Þúsund fellur hlið þinni og tíu þúsund hægrri handar þinnar — þér nær það ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/91\/5-8.1792410457429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "fellur"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "hlið þinni"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "Þúsund"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "og tíu þúsund"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "hægrri handar þinnar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "nær"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:37.430355482Z",
+  "model": "glm-5.3"
+}

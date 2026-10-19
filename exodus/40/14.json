@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תקריב",
+      "rationale": "Bókstaflega 'skalt þú leiða nær' (orofferðarmál); 'koma nær' heldur myndinni"
+    }
+  ],
+  "translation": "Og sonu hans skalt þú koma nær og klæða ⟨את⟩ þá skyrtum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/40\/13-16.1792395342589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ og",
+      "marks": "sonu hans"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sonu hans"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "skalt þú koma nær"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "og klæða"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "skyrtum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:42.589970496Z",
+  "model": "glm-5.3"
+}

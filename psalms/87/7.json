@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dansarar",
+      "rationale": "כחוללים frá חול — 'dansarar\/snúningamenn' (ASV, JPS) vs. 'spilamenn á hljóðfæri' (Geneva, KJV)"
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "gloss": "",
+      "rationale": "sögn sem hebreskan vantar; tenging í upphaflega glósu-merkingu"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "beint ávarp — 'í þér', til Tsíon (kvenkyns borgar)"
+    }
+  ],
+  "translation": "Og syngjandi eins og dansarar: Allar uppsprettur mínar eru í þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/87\/5-7.1792410334485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "og syngjandi"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "eins og dansarar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "uppsprettur mínar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:34.486358288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Samlíkingin „sem“ er ekki í hebreskunni; נהר stendur óbundin við hlið setningarinnar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתח ... ויזובו",
+      "rationale": "opna og flæða — myndin af kletti sem opnast og vatni flæðir, hvorttveggja í sömu línu."
+    }
+  ],
+  "translation": "Hann opnaði klettinn og vötnin runnu út; þau fóru í þurrum eyðitröðum ⟨sem⟩ fljót.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/105\/41-44.1792410601126.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "opnaði"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klettinn"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "og runnu út"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vötnin"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "þau fóru"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "í þurrum eyðitröðum"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "fljót"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:01.127327751Z",
+  "model": "glm-5.3"
+}

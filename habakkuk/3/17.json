@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 3:17",
+  "book": "habakkuk",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כחש",
+      "rationale": "orðatiltækið 'gersemar ólívunnar ljúga' — að ljúga um afrakstur — gefið sem 'lögðust fram', því íslenskan lýsir svikrángun ólívunnar frekar en ósannindi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושדמות",
+      "rationale": "hapax-plúralís af 'akur' — 'akararnir' (samanber KJV 'the fields') gegn lestri nokkurra handrita; formið er aðeins hér í Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "vegisögn sem hebreskan sleppir í 'engin naut í gripahúsunum'"
+    }
+  ],
+  "translation": "Þótt fikjan blómstri ekki og engin avling sé í vínviðjunum, lögðust ber fram af gersemar ólívunnar og akararnir gjörðu enga fæðu, sauðféð var fellt úr sviðgeymslunni og engin naut eru í gripahúsunum —",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3a432eb2950b67e7331edff9805c0cf6779a7bce7883b5544cf929f1576ab01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/habakkuk\/3\/17-19.1792408817596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "fikjan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "blómstri"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og engin"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "avling"
+    },
+    {
+      "surface": "בגפנים",
+      "gloss": "í vínviðjunum"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "lögðust fram"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gersemar"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ólívunnar"
+    },
+    {
+      "surface": "ושדמות",
+      "gloss": "og akararnir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gjörðu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "fæðu"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "var fellt"
+    },
+    {
+      "surface": "ממכלה",
+      "gloss": "úr sviðgeymslunni"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sauðféð"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og engin"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "naut"
+    },
+    {
+      "surface": "ברפתים",
+      "gloss": "í gripahúsunum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:20:17.597153023Z",
+  "model": "glm-5.3"
+}

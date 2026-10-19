@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יַעַן כִּי merkir 'af því að \/ vegna þess að', orsakatenging ekki tvennt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Athugið 7:4 — Aram og Efraím kölluð 'tvær sporðar af reykandi brandi'; 7:5 endurtekur aðilana"
+    }
+  ],
+  "translation": "Af því að Aram hefur ráðgert illa gegn þér — Efraím og sonur Remalja — svo segjandi:",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "640d8293190f272fabcdc0aea2c767908b701cef362e9b29327a6f23c4f7ae4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/7\/5-8.1792403722703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "af því að"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "hefur ráðgert"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "gegn þér"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "illa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraím"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "og sonur"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalja"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "svo segjandi"
+    }
+  ],
+  "timestamp": "2026-10-19T09:55:22.703979077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מדי שנה בשנה",
+      "rationale": "Bókstaflega „samkvæmt ári í ári“; þýtt „ár frá ári“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וסבב",
+      "rationale": "„Sneri í kringum“ — þýtt „í hringferð“ til að gera ferðamynstrið ljóst"
+    },
+    {
+      "kind": "measurement",
+      "subject": "בית אל והגלגל והמצפה",
+      "rationale": "Staðarlisti — dómhring Sámúels talinn upp"
+    }
+  ],
+  "translation": "Og hann ferdist ár frá ári í hringferð til Bet-El og Gilgal og Mitspa, og dæmdi Ísrael ⟨את⟩ á öllum þessum stöðum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/7\/13-16.1792400246484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "ferdist"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "frá"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ári"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "í hringferð"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "og Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "og Mitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "dæmdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ísrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllum þessum stöðum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "stöðum"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:57:26.486119853Z",
+  "model": "glm-5.3"
+}

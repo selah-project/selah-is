@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "horn björgunar minnar",
+      "rationale": "קרן ישעי er bókstafleg mynd — horn sem táknar mátt — ekki missa hana í 'styrkur'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישעי\/משעי\/תשעני",
+      "rationale": "Þrír orð af rót ישע í einu versi; rótarleikurinn hverfur að mestu á íslensku."
+    }
+  ],
+  "translation": "Elóhím, klettur minn, í honum leita ég hælis; skjöldur minn og horn björgunar minnar, hávirki mitt og athvarf mitt, frelsari minn — þú frelsar mig frá ofbeldi.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/22\/1-4.1792401732749.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "klettur minn"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "leita ég hælis"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í honum"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "skjöldur minn"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "og horn"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "björgunar minnar"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "hávirki mitt"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "og athvarf mitt"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "frelsari minn"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "frá ofbeldi"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "þú frelsar mig"
+    }
+  ],
+  "timestamp": "2026-10-19T09:22:12.750631795Z",
+  "model": "glm-5.3"
+}

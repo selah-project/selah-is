@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 22:4",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Hinn lofaða kalla ég á, Jahve",
+      "rationale": "Fyrsta lesing: מהלל er lýsingarorð til Jahve; annar möguleiki (KJV): 'Ég kalla á Jahve, hinn lofanlega' — sömu merking, önnur setningagerð."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אושע",
+      "rationale": "Sama ישע-rót og í v3 heldur áfram — 'frelsari minn' og 'verð ég frelsaður' svara hvort öðru."
+    }
+  ],
+  "translation": "Hinn lofaða kalla ég á, Jahve, og af óvinum mínum verð ég frelsaður.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/22\/1-4.1792401732749.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "hinn lofaða"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kalla ég á"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומאיבי",
+      "gloss": "og af óvinum mínum"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "verð ég frelsaður"
+    }
+  ],
+  "timestamp": "2026-10-19T09:22:12.750777217Z",
+  "model": "glm-5.3"
+}

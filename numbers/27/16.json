@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "beint til Jahve",
+      "rationale": "Mósje beitir orða að Jahve í bæn — óbein ósk meðensonar ('mæti... setja' í viðtengingu)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh-lofts",
+      "rationale": "הרוחת er fleirtala af רוח — 'rúakh' heldur þrennu gildinu vindur\/andi\/andardráttur; 'anda' eitt myndi þrengja merkinguna"
+    }
+  ],
+  "translation": "Já, mæti Jahve, Elóhím rúakh-lofts alls holds, setja mann yfir söfnuðinn —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "bce42ac82121b26e6d49a1c5de78855d9b844375f9b75e99703654ea2261e66f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/27\/13-16.1792397266765.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "mæti ... setja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "rúakh-lofts"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "holds"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "söfnuðinn"
+    }
+  ],
+  "timestamp": "2026-10-19T08:07:46.766442444Z",
+  "model": "glm-5.3"
+}

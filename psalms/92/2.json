@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Beint tilmæli til Jahve í annarri persónu — „nafn þitt, hinn Hæsti“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "að þakka",
+      "rationale": "להדות er bókstaflega að „kasta“ lofi (jafnvel að „kasta steini“), vísað sem þakkagjöf."
+    }
+  ],
+  "translation": "Gott er að þakka Jahve og að helga sig með strengjum fyrir nafn þitt, hinn Hæsti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/92\/1-4.1792410447911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Gott"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "að þakka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "og að helga sig með strengjum"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "fyrir nafn þitt"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hinn Hæsti"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:27.912532606Z",
+  "model": "glm-5.3"
+}

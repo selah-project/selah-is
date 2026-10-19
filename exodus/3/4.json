@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„hafði“ — íslenska þarf tímaviðbót sem hebreska segir með sögninni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משה משה",
+      "rationale": "nafn endurtekið — hebresk kveðja sem kallar manninn alla, glatast að hluta til"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Mósje",
+      "rationale": "kallið „Mósje, Mósje“ og svarið „Hér er ég“ (הנני) — boð og svörun"
+    },
+    {
+      "kind": "you",
+      "subject": "to Mósje",
+      "rationale": "Elóhím ávarpar Mósje beint og nefnir hann með nafni"
+    }
+  ],
+  "translation": "Og Jahve sá að hann hafði víkjað til að sjá, og Elóhím kallaði til hans úr miðju þyrnirinum og sagði: Mósje, Mósje! Og hann sagði: Hér er ég.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/3\/1-4.1792394117575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Og … sá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "סר",
+      "gloss": "hafði víkjað"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "til að sjá"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "og … kallaði"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "úr miðju"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "þyrnirinum"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og … sagði"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hér er ég"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:17.578184333Z",
+  "model": "glm-5.3"
+}

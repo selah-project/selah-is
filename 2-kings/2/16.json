@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 2:16",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "annað נא fellur — íslenska nær málfræðilega ekki tvennri kurteisamynd með sömu mynd"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "skipunarmyndin 'láttu þá fara' — hebreskan notar óbeina framtíð 'þeir skulu fara' sem beiðni"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "fimmtíu karlmenn taldir — kapparnir skipaðir í tölusettri deild"
+    }
+  ],
+  "translation": "Og þeir sögðu við hann: Sjá, nú, ⟨את⟩ með þjónum þínum eru fimmtíu menn, synir kapps; láttu þá fara og leita ⟨את⟩ að herra þínum — svo að rúakh Jahve hafi ekki numið hann og kastað honum á einn fjallanna eða í eina gjánnar. En hann sagði: Þér skuluð ekki senda.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c44a39ee10cbb524acb8865b40d9842968029f4faf6192e773c63c1921fcb9be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/2\/13-16.1792402838032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "sögðu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "við hann"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "יש",
+      "gloss": "eru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fimmtíu menn"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "með þjónum þínum"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "fimmtíu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kapps"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "láttu þá fara"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "og leita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "herra þínum"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "að herra þínum"
+    },
+    {
+      "surface": "פן",
+      "gloss": "svo að ... ekki"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hafi numið"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלכהו",
+      "gloss": "og kastað honum"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "á einn"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "fjallanna"
+    },
+    {
+      "surface": "או",
+      "gloss": "eða"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "í eina"
+    },
+    {
+      "surface": "הגיאות",
+      "gloss": "gjánnar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "Þér skuluð senda"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:38.034212954Z",
+  "model": "glm-5.3"
+}

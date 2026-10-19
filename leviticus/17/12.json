@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 17:12",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er önd\/lífskraftur, ekki sál í nútímaskilningi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דם",
+      "rationale": "blóð endurtekið tvisvar — lögboðið um blóðið í 17:11 og 17:12 ramma versið inn"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "forsagðarfylling ⟨sem⟩ til að tengja nafnliðinn"
+    }
+  ],
+  "translation": "Þess vegna sagði ég öðrum Ísraelsmanna: Engin sálar ⟨sem⟩ meðal ykkar skal éta blóð, og útlendingurinn sem dvelur meðal ykkar skal ekki éta blóð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5643481743278d8a612e9aaa078fc0b6722b716919c1a1c9b05d6308f2c33b59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/17\/12-12.1792416283632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þess vegna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sagði ég"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraelsmanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Engin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálar"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "meðal ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "skal éta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóð"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "og útlendingurinn"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sem dvelur"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "meðal ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "skal éta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóð"
+    }
+  ],
+  "timestamp": "2026-10-19T13:24:43.632768048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 1:28",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למס",
+      "rationale": "„knúiþjónustu“ — מס er skylduvinna\/skattur; „þjónustu“ heldurþunganum."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוריש...הורישו",
+      "rationale": "Sömu rót tvívegis í lokin: „að hraka — hraktu ekki“ — innantóm lykilorð alls kaflans."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„alls“ færir tvöfaldan neitun (והוריש לא) yfir á íslensku."
+    }
+  ],
+  "translation": "Og það varð, þegar Ísrael varð sterkt, að þeir settu ⟨את⟩ Kanaanítann í knúiþjónustu, en hraktu hann alls ekki burt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/1\/25-28.1792399453756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "כי",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "varð sterkt"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "settu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanítann"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanítann"
+    },
+    {
+      "surface": "למס",
+      "gloss": "í knúiþjónustu"
+    },
+    {
+      "surface": "והוריש",
+      "gloss": "en hraktu burt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alls ekki"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "hann"
+    }
+  ],
+  "timestamp": "2026-10-19T08:44:13.758402508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "בכסה — „fullt tungl“ (kesé) er lesning flestra; KJV „tilskipuðum tíma“ fylgir aðra rót."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið mælir tímann: nýmánudagur, fullt tungl, hátíðardagur."
+    }
+  ],
+  "translation": "Blásið í horn nýmánudegi, fullu mánaðarlagi, degi hátíðar vorrar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/81\/1-4.1792410271216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Blásið"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "nýmánudegi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "í horn"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "fullu mánaðarlagi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "degi"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "hátíðar vorrar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:31.217865294Z",
+  "model": "glm-5.3"
+}

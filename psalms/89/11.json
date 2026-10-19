@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Rahab",
+      "rationale": "רהב er ýmist sjókverk af试用期 eða heiti yfir Egyptalandi — nafn þýðast ekki"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חלל er bókstaflega 'sá sem lagður hefur verið' (pierceð), gjörð að 'hinn fellda'"
+    }
+  ],
+  "translation": "Þú kufðir ⟨את⟩ Rahab sem hinn fellda; með armi máttar þíns dreifðir þú óvinum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/9-12.1792410355889.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "kufðir"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "sem hinn fellda"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "með armi"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "máttar þíns"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "dreifðir"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "óvinum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:55.890855925Z",
+  "model": "glm-5.3"
+}

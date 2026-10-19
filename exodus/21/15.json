@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Óbein rót endurtekin — 'dauða skal hann deyja' — innfellið mynstri sem íslenskan heldur með tveggja orða endurtekningu"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sín\/sína' bætt við — hebreska suffixed-pronounmyndin er nú þegar í 'föður sinn'"
+    }
+  ],
+  "translation": "Og sá sem slær föður sinn eða móður sína — dauða skal hann deyja.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/21\/13-16.1792394719401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Og sá sem slær"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður sinn"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "eða móður sína"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal hann deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:19.402055111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 41:2",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צדק",
+      "rationale": "'hin réttláti (einn)' móti 'í réttlæti kallaði hann hann' — ASV\/BSB lesa atviksorð, KJV\/JPS nafnorð; hér haldið hljóði rótarinnar: tsedek"
+    },
+    {
+      "kind": "mystery",
+      "subject": "hver vakti upp frá austri",
+      "rationale": "spurningin felur nafn hins vakta í ljósi — textinn nefnir hann ekki (síðar er þekkt sem Kýros, en versið sjálft segir það ekki)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומלכים ירד",
+      "rationale": "rásin er 'konungum lét hann troða' — ירד er troða undir, ekki 'stjórna' almennilega"
+    }
+  ],
+  "translation": "Hver vakti upp frá austri tsedek, kallaði hann til fótar síns? Hann gaf þjóðir fyrir augliti hans og konunga lægði hann undir; hann gaf þeim sem ryk fyrir sverð hans, sem ventinn þurrhalm fyrir bogma hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/41\/1-4.1792404652853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "vakti upp"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "frá austri"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "kallaði hann"
+    },
+    {
+      "surface": "לרגלו",
+      "gloss": "til fótar síns"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir augliti hans"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðir"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "og konunga"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "lægði undir"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "sem ryk"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "fyrir sverð hans"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sem þurrhalm"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "ventinn"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "fyrir bogma hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:10:52.854767276Z",
+  "model": "glm-5.3"
+}

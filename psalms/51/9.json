@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "תחטאני er sögn af rót חטא (synda) en þýðir hér 'hreinsa af synd'; sumir þýða 'ósyndga mig'."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Bæn beint til Elóhím í annarri persónu."
+    }
+  ],
+  "translation": "Hreinsa mig af synd með ísópi, og ég verð hreinn; þveg þú mig, og ég verð hvítari en snjór.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/9-12.1792409859951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "hreinsa mig af synd"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "með ísópi"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "og ég verð hreinn"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "þveg þú mig"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "en snjór"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "ég verð hvítari"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:39.952225190Z",
+  "model": "glm-5.3"
+}

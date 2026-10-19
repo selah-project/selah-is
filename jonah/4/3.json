@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nephesh er lífskraftur\/önd, ekki ódauðleg sála; hér „sála“ sem næsta íslenska orð en fylgja má dæminu um lífskraft."
+    },
+    {
+      "kind": "you",
+      "subject": "Jóna til Jahve",
+      "rationale": "Beint ávarp — ósk Jóna eftir dauða."
+    }
+  ],
+  "translation": "Og nú, Jahve, tak þú nú ⟨את⟩ sálu mína frá mér, því betra er dauði minn en líf mitt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bbeda3bd2ad668cc58b89b610bf315bc141b08f6c66f7a62f708ca6adcc8bf9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jonah\/4\/1-4.1792408568266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "tak"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sálu mína"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mína"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "frá mér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "betra er"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "dauði minn"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "en líf mitt"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:08.267508938Z",
+  "model": "glm-5.3"
+}

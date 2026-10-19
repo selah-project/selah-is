@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 73:26",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "sagnfylling (er) bætt við; hebreskan auð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צור",
+      "rationale": "orðið er „klettur“, ekki „styrkur“ eins og KJV segir"
+    }
+  ],
+  "translation": "Mjólkurður er hold mitt og hjarta mitt; klettur hjarta mins og hlutdeild mín er Elóhím að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/73\/25-28.1792410142441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "Mjólkurður er"
+    },
+    {
+      "surface": "שארי",
+      "gloss": "hold mitt"
+    },
+    {
+      "surface": "ולבבי",
+      "gloss": "og hjarta mitt"
+    },
+    {
+      "surface": "צור",
+      "gloss": "klettur"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "hjarta mins"
+    },
+    {
+      "surface": "וחלקי",
+      "gloss": "og hlutdeild mín"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "að eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:42:22.442689883Z",
+  "model": "glm-5.3"
+}

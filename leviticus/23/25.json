@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אִשָּׁה merkir bókstaflega 'eld-fórn'; samsett orð haldið með bandi"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "boð til Ísraelsmanna um Sjabbatinn í mánuðinum sjöunda"
+    }
+  ],
+  "translation": "Allri þjónustuvinnu skuluð þér ekki gjöra, og þér skuluð færa el-fórn til Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e5b1287b60357a7cc0026e1357b27fb487a49af873b0131cdb162705ea793e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/23\/25-28.1792396190744.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "allri"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "vinnu"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "þjónustu-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "skuluð þér gjöra"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "og þér skuluð færa nálægt"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "el-fórn"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:49:50.744994901Z",
+  "model": "glm-5.3"
+}

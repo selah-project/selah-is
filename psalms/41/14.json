@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir aðeins ברוך (lofaður); íslenskan þarf sagnfyllingu ⟨sé⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "אמן ואמן",
+      "rationale": "Tvítekið amén endar bók II á sálmunum; endurtekin staðfesting er föll af mynd."
+    }
+  ],
+  "translation": "⟨Sé⟩ lofaður Jahve, Elóhím Ísraels, frá eilífu og til eilífu — amén og amén.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/41\/13-14.1792409677044.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "⟨sé⟩ lofaður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "frá eilífu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "eilífu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amén"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "og amén"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:37.045238741Z",
+  "model": "glm-5.3"
+}

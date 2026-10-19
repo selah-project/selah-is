@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 4:4",
+  "book": "song-of-songs",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תלפיות",
+      "rationale": "Orðið 'talpijót' kemur aðeins fyrir hér í öllu Tanakh; merking óviss — 'búningahús' er gisk"
+    },
+    {
+      "kind": "crux",
+      "subject": "לתלפיות",
+      "rationale": "Túlkar deilast: 'herklæðabúr' (KJV), 'turnspyrnar' (JPS 'turrets'), 'hæðir\/vextir' — rótin óþekkt"
+    },
+    {
+      "kind": "measurement",
+      "subject": "אלף",
+      "rationale": "Talningin 'þúsund skjalda' gefur vígiturninum mælda stærð"
+    }
+  ],
+  "translation": "Sem turn Davíðs er háls þinn, byggður fyrir búningahús; þúsund skjalda hanga á honum, allir skildir vígra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "29bdaf664ff43abfe8fbf7d40e1971d8822100bad805c807db164d611627041f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/song-of-songs\/4\/1-4.1792412663004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמגדל",
+      "gloss": "Sem turn"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "háls þinn"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "byggður"
+    },
+    {
+      "surface": "לתלפיות",
+      "gloss": "fyrir búningahús"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "skjalda"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "hangandi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á honum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "skildir"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "vígra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:24:23.005911480Z",
+  "model": "glm-5.3"
+}

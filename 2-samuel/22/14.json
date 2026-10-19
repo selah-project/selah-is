@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ירעם er haft um þrumu — sagnirnar merkja að berast saman hratt; 'þrumaði' heldur myndinni"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "נתן קול er gefa rödd; 'gaf' tekur tilhlýðilega þolmynd í íslensku"
+    }
+  ],
+  "translation": "Jahve þrumar frá himnunum, og hinn Hæsti gefur rödd sína.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/22\/13-16.1792401770460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "þrumar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnunum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "og hinn Hæsti"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "rödd sína"
+    }
+  ],
+  "timestamp": "2026-10-19T09:22:50.461713687Z",
+  "model": "glm-5.3"
+}

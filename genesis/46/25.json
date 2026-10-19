@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er öndandi vera, lífskraftur — ekki ódauðleg sál"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "talning ættartölu: allar sálir sjö"
+    }
+  ],
+  "translation": "Þetta eru synir Bílha, er Lavan gaf Rakel, dóttur sinni, og hún fæddi ⟨את⟩ þessa fyrir Jaakov; allar sálir: sjö.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/46\/25-28.1792393884655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bílha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gaf"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rakel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "dóttur sinni"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og hún fæddi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessa"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fyrir Jaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálir"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sjö"
+    }
+  ],
+  "timestamp": "2026-10-19T07:11:24.655811228Z",
+  "model": "glm-5.3"
+}

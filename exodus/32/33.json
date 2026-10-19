@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מי hér óákveðið 'hver sem' en orðrétt spyrjandi 'hver?' — Jahve svarar ekki beiðni Mósja heldur setur regluna."
+    },
+    {
+      "kind": "secret",
+      "subject": "bók Jahve",
+      "rationale": "Skráð nöfn í bók Jahve — það sem er falið og hægt að stroða út."
+    },
+    {
+      "kind": "you",
+      "subject": "to Mósje",
+      "rationale": "Jahve talar beint til Mósje."
+    }
+  ],
+  "translation": "Og Jahve sagði við Mósje: Hver sem hefur syndgað gegn mér — hann mun ég stroða út af bók minni.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/32\/33-35.1792395057346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hefur syndgað"
+    },
+    {
+      "surface": "לי",
+      "gloss": "gegn mér"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "mun ég stroða út"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "af bók minni"
+    }
+  ],
+  "timestamp": "2026-10-19T07:30:57.348455194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרף\/חרף",
+      "rationale": "sömu samhljóðar og 'vinter' (v. 17) og 'háðun' (v. 18) —或tvíþýðni sem glatast á íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið 'þú' og 'þau' bætt við til skýrleika; hebreskan heldur sögðu 'þú' tvisvar"
+    }
+  ],
+  "translation": "Þú settir allar landamerki jarðarinnar; sumar og vetur myndaðir ⟨þú⟩ ⟨þau⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/74\/17-20.1792410212688.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "settir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "landamerki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jarðarinnar"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sumar"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "og vetur"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Þú"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "myndaðir-þau"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:32.689206667Z",
+  "model": "glm-5.3"
+}

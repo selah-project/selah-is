@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "היתרת er „flipinn\/það sem stingur út“ á lifur — „flipi“ heldur myndinni, „himna“ myndar ekki"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "על הכליות við יסירנה má líka lesa „hjá nýrunum“ frekar en „ásamt nýrunum“"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versinn telur líffærin nákvæmlega: tvö nýru, fita, lendir, lifrarflipi"
+    }
+  ],
+  "translation": "Og ⟨את⟩ nýrun tvö, og ⟨את⟩ fituna sem er á þeim, sem er á lendum, og ⟨את⟩ flipann á lifrinni — ásamt nýrunum skal hann taka ⟨את þeiru⟩ burt.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/3\/9-12.1792395351464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nýrun tvö"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tvö"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nýrun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fituna"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "fituna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "er á þeim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lendum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "flipann á lifrinni"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "flipann"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lifrinni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ásamt"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "nýrunum"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "skal hann taka burt"
+    }
+  ],
+  "timestamp": "2026-10-19T07:35:51.465279635Z",
+  "model": "glm-5.3"
+}

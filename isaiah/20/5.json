@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "persónufornöfnin 'þeirra' eru viðbætt — hebreskan ber endingarnar -ם"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מבט",
+      "rationale": "מַבָּט er eiginlega 'útlist\/á várð' — hér í merkingunni 'von'"
+    }
+  ],
+  "translation": "Og þeir skelfjast og skömmast yfir Kús, von ⟨þeirra⟩, og yfir Mitsrajím, prýði ⟨þeirra⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/20\/5-6.1792403975296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "skelfjast"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "skömmast"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "yfir Kús"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "von þeirra"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og yfir"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "prýði þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:35.297108179Z",
+  "model": "glm-5.3"
+}

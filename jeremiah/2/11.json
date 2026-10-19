@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 2:11",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guðir",
+      "rationale": "אלהים hér um guði þjóðanna — smáréttritað 'guðir', ekki Elóhím, í samræmi við D1"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ההימיר\/המיר",
+      "rationale": "sama sögn (skipta víxlum) endurtekin — spurningin og svarið spegla hvort annað"
+    },
+    {
+      "kind": "substitution",
+      "subject": "heirdýrð",
+      "rationale": "כבוד er þyngd\/prýði — 'heirdýrð' heldur þunga orðsins"
+    }
+  ],
+  "translation": "Hefir þjóð skipt um guði — og þeir eru engir guðir? En fólkið mitt hefur skipt heirdýrð sinni fyrir það sem ekki dugar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/2\/9-12.1792405155606.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההימיר",
+      "gloss": "Hefir … skipt"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "þjóð"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guði"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "og þeir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðir"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "En fólkið mitt"
+    },
+    {
+      "surface": "המיר",
+      "gloss": "hefur skipt"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "heirdýrð sinni"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "dugar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:19:15.607231265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hæðir hans",
+      "rationale": "prónómenið 'hans' getur vísað til Jahve (altarin íhofuð honum) eða til Khiskíjahu; Sancheríb snýr siðbót Khiskíjahu (2. Kon 18:4) gegn honum sjálfum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "במות eru 'hæðir' — hátíðarstaðir á hæðum; orðið 'hæðir' heldur myndina en fellir trúarlega merkinguna"
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah and Jerusalem",
+      "rationale": "skipunin er flutt í beinni ávarpningu í fleirtölu annarri persónu (þér skuluð)"
+    }
+  ],
+  "translation": "Er það ekki hann, Khiskíjahu, sem fjarlægði ⟨את⟩ hæðir hans og ⟨את⟩ altári hans, og bauð Júda og Jerúsjalajím og sagði: Fyrir einu altári skuluð þér falla á kné, og á því skuluð þér reykja?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "33da31ad26dd2a56c8b01969218523d4962cd2231b3e5f96f8b8559b68ef6093",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/32\/9-12.1792415970235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Er það ekki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Khiskíjahu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "fjarlægði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hæðir hans"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "hæðir hans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "altári hans"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "altári hans"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og bauð"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "og Jerúsjalajím"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Fyrir"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einu"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "skuluð þér falla á kné"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "og á því"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "skuluð þér reykja"
+    }
+  ],
+  "timestamp": "2026-10-19T13:19:30.236300912Z",
+  "model": "glm-5.3"
+}

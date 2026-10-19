@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf hjálparsögn (mun) við ófullkomna framtíð hebreskunnar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "áreynsla",
+      "rationale": "נחלים eru vetrarflaustækir — 'ár' glatar árferði þeirra"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hljóðmynd",
+      "rationale": "Ljóðlína endar á því að vatn skellur í eyðimörk — andstæðan eyðimörk\/vatn ber uppi versinu"
+    }
+  ],
+  "translation": "Þá mun haltti hlaupa sem hjörtur, og tungan hjá þungmála mun syngja; því að sprungið hafa vatn í eyðimörkinni og ár á auðninni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e17da3e438800e2b6e7ceb8f1432a065e60c5a9dc5fc9ce4f37712d6101b87f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/35\/6-7.1792416763268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "mun hlaupa"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "sem hjörtur"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "halti"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "og mun syngja"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tungan"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "þungmála"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "sprungið hafa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "og ár"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "á auðninni"
+    }
+  ],
+  "timestamp": "2026-10-19T13:32:43.268861430Z",
+  "model": "glm-5.3"
+}

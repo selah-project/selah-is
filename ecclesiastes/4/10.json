@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואילו",
+      "rationale": "Skilið annars vegar sem útrás „vei“ (hvílíkt öryggi að vera einn), hins vegar sem „en ef“ — JPS: „woe to him that is alone“"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Fornafnið ⟨þeim⟩ bætt við til að gera viðtakanda sýnilegan"
+    }
+  ],
+  "translation": "Því að ef þeir falla, mun hinn eini veita ⟨את⟩ félagi sínum uppréttu — en vei ⟨þeim⟩ er einn, þegar hann fellur, og engin annar til að reisa hann upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/4\/9-12.1792412936815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "þeir falla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hinn eini"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "veita uppréttu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "félagi sínum"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "félagi sínum"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "en vei"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "er einn"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "þegar hann fellur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og engin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "annar"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "til að reisa hann upp"
+    }
+  ],
+  "timestamp": "2026-10-19T12:28:56.815849874Z",
+  "model": "glm-5.3"
+}

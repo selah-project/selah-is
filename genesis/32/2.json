@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "messenger",
+      "rationale": "מלאך er sendiboði — engar vængir í orðinu sjálfu; 'engill' í íslensku er orðið of þröngt."
+    }
+  ],
+  "translation": "Og Jaakov gékk á vegi sínum, og sendiboðar Elóhím mættu honum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "593863dba75e144f05b7cff6f0d2862998a89cf2ca64430d0587032be7b8f1c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/32\/1-4.1792393437182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Og Jaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gékk"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "á vegi sínum"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "og mættu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "sendiboðar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:03:57.183525871Z",
+  "model": "glm-5.3"
+}

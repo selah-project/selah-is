@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 9:4",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויעבר...ויעבר...ויעברו...ויעבר",
+      "rationale": "Fjöldsamleg endurtekning á 'fór yfir\/um' í hverri málsgrein skapar leitarferðarrýtm; íslenska heldur endurtekningunni með 'fór\/fyrst'."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואין",
+      "rationale": "'og ⟨þær voru⟩ ekki' — hebreska segir aðeins 'og engin', sniðgengt með skeyttu sögn í íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "ימיני",
+      "rationale": "'Land Jáminí' —legt hvort heldur er um land Benjamín er að ræða eða óþekkt svarðyrði staða; þýðing sem Benjamín er meginlesningin."
+    }
+  ],
+  "translation": "Og hann fór um Efraímfjöll og fyrst um land Sjalísha, og fundu þeir ekki; og þeir fóru um land Sjáalím, en ⟨þær voru⟩ ekki; og hann fyrst um land Benjamín, og fundu ekki.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "06b6e753e2393e863a91a5c6cc68639c70db572f354210b6cadfd11bf7fd0069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/9\/1-4.1792400314261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Og hann fór"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "um fjöll"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraím"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "og fyrst"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "um land"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "Sjalísha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fundu þeir"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "og þeir fóru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "um land"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "Sjáalím"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en ekki ⟨voru þær⟩"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "og hann fyrst"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "um land"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benjamín"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "fundu"
+    }
+  ],
+  "timestamp": "2026-10-19T08:58:34.263157549Z",
+  "model": "glm-5.3"
+}

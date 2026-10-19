@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'stendur' bætt við — hebreskan segir aðeins 'hásæti þitt, Elóhím, eilíft og fram eftir'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "Tvírætt: 'Hásæti þitt, Elóhím' (ákall) eða 'hásæti þitt er hásæti Elóhíms' eða 'Elóhím er hásæti þitt'; JPS les 'hásæti gefið af Elóhím'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מישר",
+      "rationale": "Orðið merkir bókstælt 'sléttlönd\/sléttu' — hér notað í mynduðum skilningi 'jafnrétti\/réttlæti'."
+    }
+  ],
+  "translation": "Hásæti þitt, Elóhím, ⟨stendur⟩ til eilífs og fram eftir; scepturna réttlætis er scepturna konungsdóms þíns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/45\/5-8.1792409834590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "hásæti þitt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "til eilífs"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og fram eftir"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "scepturna"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "réttlætis"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "scepturna"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "konungsdóms þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:14.591370049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Fyrsta persónu fleirtölu boðsháttur — textinn kallar á lesandann: Komið, fallum fram."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נכרעה\/נברכה",
+      "rationale": "ברך (knésetja\/blessa) og כרע (lúpa) — samhljóða orð í upphafi, tapast í þýðingu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "skapara vorum",
+      "rationale": "עושנו er þátttöku mynd af עשה — 'hann sem gerði okkur', ekki formlegt skapar-orð (ברא)."
+    }
+  ],
+  "translation": "Komið, fallum fram og lúpur vér, knésetjum fyrir Jahve, skapara vorum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/95\/5-8.1792410466526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Komið"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "fallum fram"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "og lúpur vér"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "knésetjum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "skapara vorum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:47:46.527438673Z",
+  "model": "glm-5.3"
+}

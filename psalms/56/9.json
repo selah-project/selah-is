@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ספרתה \/ בספרתך",
+      "rationale": "Teljing og skráning: flakkið talið og tárin skráð í bók — sami rótarsþráttur (ספר) tvisvar í versinu."
+    },
+    {
+      "kind": "crux",
+      "subject": "בנאדך",
+      "rationale": "Hapax-líkt orð: 'leðursloppi' (vínbelgur) — sumir þýða 'í flösku þinni', aðrir 'fyrir þinn sakir' (מנודך)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ספרתה \/ ספרתך",
+      "rationale": "Orðlekur: 'taldið' og 'bókinni' deila rótinni ספר — talið og ritaða orðið heyra saman."
+    }
+  ],
+  "translation": "Flakk mitt hefur þú talið — þú setur tárin mín í leðursloppa þinn; eru þau ekki í bók þinni?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/56\/9-12.1792409863785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "flakk mitt"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "hefur þú talið"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "setur"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "tárin mín"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "í leðursloppa þinn"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "eru þau ekki"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "í bók þinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:43.786430942Z",
+  "model": "glm-5.3"
+}

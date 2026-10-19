@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "með",
+      "rationale": "hebreskan segir bara 'og tvær töflurnar í hönd minni' án forsagnar; íslenska bætir við 'með' eða lætur setninguna standa án sögnar"
+    },
+    {
+      "kind": "elision",
+      "subject": "sögn",
+      "rationale": "setningin 'og tvær töflurnar í hönd minni' hefur enga sögn á hebresku — það er baldurfrásögn"
+    }
+  ],
+  "translation": "Og ég gerði ark af akasíuviði, og ég hógg tvær töflur af steini eins og þær fyrstu, og ég sté upp á fjallið, og tvær töflurnar í hönd minni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b271a3e442c49beb7e6f752a2ed9e082a3529a768624f4a9f20b44cb682bfd5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/10\/1-4.1792397827970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "og ég gerði"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "af viði"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasíu"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "og ég hógg"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tvær"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "töflur"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "af steini"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "eins og þær fyrstu"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "og ég sté upp"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "á fjallið"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "og tvær"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "töflurnar"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "í hönd minni"
+    }
+  ],
+  "timestamp": "2026-10-19T08:17:07.971259457Z",
+  "model": "glm-5.3"
+}

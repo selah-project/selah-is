@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחמד...תחמד",
+      "rationale": "Lögmálið endar á tvískiptri endurtekningu sömu sagnar, sem nýtt hefur verið til átaks (descriptive vs. prescriptive)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "náungi",
+      "rationale": "רע är nánasti félagi\/alsystkir, en 'náungi' er hefðbundið íslenskt biblíuorð fyrir hann"
+    }
+  ],
+  "translation": "Þú skalt ekki girnast hús náunga þíns; þú skalt ekki girnast konu náunga þíns, né þræl hans, né ambátt hans, né uxann hans, né asna hans, né neitt það sem náunginn þinn á.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/17-20.1792394588328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "girnast"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "náunga þíns"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "girnast"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "konu"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "náunga þíns"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "né þræl hans"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "né ambátt hans"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "né uxann hans"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "né asna hans"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "náunginn þinn á"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:08.329321170Z",
+  "model": "glm-5.3"
+}

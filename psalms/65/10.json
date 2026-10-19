@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mettar hana",
+      "rationale": "ותשקקה er flæða yfir — mynd vatnsins flæðandi yfir akra"
+    },
+    {
+      "kind": "crux",
+      "subject": "פלג אלהים",
+      "rationale": "streymisá Elóhíms — skurður\/gráfuþró eða áarskipulag guðlegs uppsprettu; ekki ákveðin á"
+    }
+  ],
+  "translation": "Þú heimsækir jörðina og mettar hana, afar gjörir þú hana ríka; streymisá Elóhím er full af vatni; korn þeirra búgertir þú — því að svo búgertir þú hana.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/65\/9-12.1792409980727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "Þú heimsækir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "og mettar hana"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "afar"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "gjörir þú hana ríka"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "streymisá"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "er full"
+    },
+    {
+      "surface": "מים",
+      "gloss": "af vatni"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "búgertir þú"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "korn þeirra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כן",
+      "gloss": "svo"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "búgertir þú hana"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:40.727795664Z",
+  "model": "glm-5.3"
+}

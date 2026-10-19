@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan sleppur sagnorðinu; íslenska þarf það"
+    },
+    {
+      "kind": "crux",
+      "subject": "קסם",
+      "rationale": "„spádómsspjöld“ (kjör eða spádómsgjöf) á vörum konungs gagnvart „eiður“ (ylt) eða „guðdómlegur dómur“ (kjv)"
+    }
+  ],
+  "translation": "Spádómsspjöld ⟨eru⟩ á vörum konungs; í dómi mun munnur hans ekki svíkja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/16\/9-12.1792411393767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "spádómsspjöld"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "vörum"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "í dómi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "mun svíkja"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "munnur hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:13.767672012Z",
+  "model": "glm-5.3"
+}

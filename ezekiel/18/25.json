@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 18:25",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תכן er að vega á vog; 'ekki veginn rétt' heldur mynd mælingarinnar sem 'ójafn\/unrétt' missir"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "beint átal til húss Ísraels: 'Heyrið nú, hús Ísraels'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתכן",
+      "rationale": "orðið endurtekið þrisvar í versinu sem klifring; endurtekningin helst í íslenskunni með 'vegin'"
+    }
+  ],
+  "translation": "Og þér segið: Vegur Adónaí er ekki veginn rétt. Heyrið nú, hús Ísraels: Er vegur minn ekki veginn rétt? Er það ekki vegir ykkar sem eru ekki veginn rétt?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "864b819036b539c4b0bb4dee775955bcb51c34b789c2b2763f92bf39bcba4473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/18\/25-28.1792407174500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Og þér segið"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "er veginn"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vegur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Heyrið"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "הדרכי",
+      "gloss": "vegur minn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "er veginn"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Er það ekki"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "vegir ykkar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יתכנו",
+      "gloss": "eru veginn"
+    }
+  ],
+  "timestamp": "2026-10-19T10:52:54.501160220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mágr",
+      "rationale": "חתן er mágr eða tengdasonur; 'mágr' er víðara orðið og heldur merkingarsviði hebreskunnar."
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Sjáúls",
+      "rationale": "Bein spurning Sjáúls með þrengra hæfileikaræðu — hver er ég?"
+    }
+  ],
+  "translation": "Og Davíð sagði við Sjáúl: Hver er ég, og hvað er líf mitt, eða ætt föður míns í Ísrael, að ég skyldi verða mágr konungs?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c0d7ff89ece34cccc17b28f885a6ca4888c97d2209aa8cd33cafc59ec1bc66e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/18\/17-20.1792400696459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáúl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "er ég"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "og hvað"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "líf mitt"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ætt"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "föður míns"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "skyldi ég verða"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mágr"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konungs"
+    }
+  ],
+  "timestamp": "2026-10-19T09:04:56.460393841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בני … בני",
+      "rationale": "Endurtekningin 'synir Elí — synir Belíal' er ítrekuð brúðumynd, haldin í íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "Belíal",
+      "rationale": "בלי־על 'án gildi' — nafn eða nafnorð? 'synir ónytsnar' (ylt) móti heiti Belíal"
+    }
+  ],
+  "translation": "Og synir Elí voru synir Belíal — þeir þekktu ekki ⟨את⟩ Jahve.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/2\/9-12.1792400146067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Og synir"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "voru synir"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belíal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "þeir þekktu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T08:55:46.068846275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Pronoun það added as object of finna; Hebrew suffix on verb already carries it"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Imperative addressed to the reader: send out your bread"
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "Return after many days is promised without explanation — outcome hidden from the giver"
+    }
+  ],
+  "translation": "Sendum brauðinu þínu út yfir yfirborð vatnsins, því að eftir mörg dögum munt þú finna ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/11\/1-4.1792413091406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Sendum út"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "brauðinu þínu"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yfirborð"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnsins"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "mörg"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dögum"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "munt þú finna ⟨það⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:31.406799635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נדדה שנת",
+      "rationale": "svefninn 'flúði' — persónusköpun sem glatast hluta í íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ספר הזכרנות דברי הימים",
+      "rationale": "bók minninganna og ársagna konungsins — skráning atburða"
+    }
+  ],
+  "translation": "Þetta nótt flúði svefn konungsins, og hann sagði að færa inn ⟨את⟩ bók minninganna, orð daganna, og þau voru lesin upp fyrir konunginum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3265bd9c681a5a08110c784903050628bb6632682548598b437d307c3b7391d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/6\/1-4.1792413205957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "nótt"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "flúði"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "svefn"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "að færa inn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bók minninganna"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bók"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "minninganna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "orð"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "daganna"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "og þau voru"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "lesin upp"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    }
+  ],
+  "timestamp": "2026-10-19T12:33:25.958046417Z",
+  "model": "glm-5.3"
+}

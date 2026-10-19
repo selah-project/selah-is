@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבט",
+      "rationale": "'stafur' (kjúgur, valdsvöndur) vs. 'kynkvísl' — margir þýða sem þjóð eða herdeild illvirkja, ekki tákn valds"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גורל",
+      "rationale": "'hlutskipti' — bókstaflega 'vártlöpp' eða hlutsteinn sem varpað var til að skipta landi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הצדיקים",
+      "rationale": "'réttlátu' endurtekið — sleppti endurtekningin myndar krossbók"
+    }
+  ],
+  "translation": "Því að stafur illvirkja mun ekki hvíla á hlutskipti réttlátu, svo að réttlátir leggi ekki fram hendur sínar í ranglæti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/125\/1-4.1792410927500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "mun hvíla"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "stafur"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "illvirkja"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "hlutskipti"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "réttlátu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "svo að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "leggi fram"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "réttlátir"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "í ranglæti"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hendur sínar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:27.501883872Z",
+  "model": "glm-5.3"
+}

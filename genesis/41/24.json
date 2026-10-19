@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "töframenn",
+      "rationale": "חרטומים eru 'teknar stafi-þeirra', töfraskráfarar; 'töframenn' er næsta íslenska mynd."
+    },
+    {
+      "kind": "addition",
+      "subject": "þetta",
+      "rationale": "Íslenskan þarf andlag fyrir 'sagði'; hebreskan hefur eingöngu ואמר אל — markað með ⟨את⟩-líkingu."
+    },
+    {
+      "kind": "mystery",
+      "subject": "draumur Faraó",
+      "rationale": "Enginn kunngjörir merkinguna — textinnheldur lausninni leyndri uns Jósef kemur."
+    }
+  ],
+  "translation": "Og þunnu axin gleypdu ⟨את⟩ sjö góðu axin, og ég sagði ⟨את⟩ þetta töframönnunum — en enginn kunngjörir mér ⟨það⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "52d171f77d4a0db9bbf35013864851f355b569df8d50ed632cc3a8f5d9874886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/41\/21-24.1792393734079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "Og gleypdu"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "axin"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "þunnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sjö góðu axin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "góðu axin"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "góðu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "og ég sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "töframannanna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en enginn"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "kunngjörir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    }
+  ],
+  "timestamp": "2026-10-19T07:08:54.082914005Z",
+  "model": "glm-5.3"
+}

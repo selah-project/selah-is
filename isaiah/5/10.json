@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versinn er hreint mælingarvers: ökrar, bat, hómer og efa — uppskera þannig lítill að tíu ökrar gefa aðeins eina vökvamælieiningu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צמד",
+      "rationale": "Orðið merkir bókstaflega 'par, ok nauta' og það dagverk sem parið ræður við — 'akri' er þvinguð en hefðin föst."
+    }
+  ],
+  "translation": "Því að tíu ökrar af vínegarði gera eina bat, og sáðkorn hómers gerir eina efu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/5\/9-12.1792403778338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "ökrar"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "af vínegarði"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "gera"
+    },
+    {
+      "surface": "בת",
+      "gloss": "bat"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eina"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "og sáðkorn"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "hómers"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gerir"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:56:18.339380567Z",
+  "model": "glm-5.3"
+}

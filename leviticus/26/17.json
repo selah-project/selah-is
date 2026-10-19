@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "ונגפתם 'verið gæpt\/höggn' — gjörlausar þýðingar segja 'falla' eða 'slá'; nafnlega 'þér munuð stökkvast fyrir', gefið sem falla fyrir óvinum"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'þótt ... sé' — hebreskan segir 'og enginn elti', sambandið sett fram með íslenskri atkvæðisgerð"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Bein heimtil til Ísraels í svörguðu máli Jahve"
+    }
+  ],
+  "translation": "Og ég set andlit mitt á móti ykkur, og þér munuð falla fyrir óvinum ykkur, og þeir sem hata ykkur munu ráða yfir ykkur, og þér munuð flýja, þótt enginn sé að elta ⟨את⟩ ykkur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0c313a58f51f74ebfc5d7040cbcd4f0941aa59ac70b63f470c2066f5b56b2d47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/17-18.1792416371770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Og ég set"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlit mitt"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "á móti ykkur"
+    },
+    {
+      "surface": "ונגפתם",
+      "gloss": "og þér munuð falla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "óvinum ykkur"
+    },
+    {
+      "surface": "ורדו",
+      "gloss": "munu ráða yfir"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ykkur"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "þeir sem hata ykkur"
+    },
+    {
+      "surface": "ונסתם",
+      "gloss": "og þér munuð flýja"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "þótt enginn sé"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "að elta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ykkur"
+    }
+  ],
+  "timestamp": "2026-10-19T13:26:11.771001009Z",
+  "model": "glm-5.3"
+}

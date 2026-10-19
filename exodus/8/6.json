@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Mósje",
+      "rationale": "Fyrsta ויאמר hefur ekki nafn í hebresku; hvort það er Mósje eða Paró sem svarar er af samhengi — viðmerkingin fyllir í eyðuna"
+    },
+    {
+      "kind": "measurement",
+      "subject": "til morguns",
+      "rationale": "Paró ákveður tímasetningu með למחר — mæling á tíma bænaráhrifanna"
+    },
+    {
+      "kind": "crux",
+      "subject": "af hverju 'á morgun'?",
+      "rationale": "Svar Paró 'til morguns' frestar undirlagið — mörgum ýkt undir að hann frestar frekar en að láta strax"
+    }
+  ],
+  "translation": "Og ⟨Mósje⟩ sagði: Til morguns. Og hann sagði: Eftir orði þitt — til þess að þú vitir að enginn er eins og Jahve, Elóhím vor.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/8\/5-8.1792394266110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "til morguns"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "eftir orði þitt"
+    },
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "þú vitir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "eins og Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím vor"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:46.110847989Z",
+  "model": "glm-5.3"
+}

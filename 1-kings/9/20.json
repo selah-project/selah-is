@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "voru",
+      "rationale": "Hebreskan segir aðeins „ekki af sonum Ísraels þeir“ — án sögnar; íslenskan krefst sögnar."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "Tengiorðið אשר fellur í íslenskri orðröð — merkingu þess ber „sem eftir var“ og þvingunin saman."
+    },
+    {
+      "kind": "measurement",
+      "subject": "þjóðflokkalistinn",
+      "rationale": "Fimm kanaanískir þjóðflokkar taldir upp í fastri röð — hefðbundin skrá."
+    }
+  ],
+  "translation": "Allt fólkið sem eftir var af Emorítunum, Khittítunum, Perizzítunum, Khivvítunum og Jebúsítunum — ⟨þeir› voru ekki af sonum Ísraels —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "00361da876a260a310eb5eb405829c913035f1add199c784d18a0655c8cb793c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/9\/17-20.1792402226171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "sem eftir var"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorítunum"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Khittítunum"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizzítunum"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Khivvítunum"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "og Jebúsítunum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "af sonum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:26.172367888Z",
+  "model": "glm-5.3"
+}

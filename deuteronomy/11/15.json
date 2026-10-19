@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "búfé",
+      "rationale": "בהמה er skepnur almennt, ekki aðeins sauðfé"
+    }
+  ],
+  "translation": "Og ég gef grasi á völlum þínum fyrir búfé þitt, og þú étur og mettarst.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/11\/13-16.1792397825687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Og ég gef"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grasi"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "á völlum þínum"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "fyrir búfé þitt"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "og þú étur"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "og mettarst"
+    }
+  ],
+  "timestamp": "2026-10-19T08:17:05.687973089Z",
+  "model": "glm-5.3"
+}

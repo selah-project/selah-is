@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Úrím og Tummím",
+      "rationale": "Eðli og notkun Úríms og Tummíms er aldrei skýrð í Tanakh — hluti af földum þekkingu gotten"
+    },
+    {
+      "kind": "crux",
+      "subject": "Úrím og Tummím",
+      "rationale": "Nöfnin eru flutt hljóðlega (‘ljós’ og ‘fullkomleikar’ í ýmsum þýðingum); engin viss þýðing er til"
+    }
+  ],
+  "translation": "Og hann setti á hann ⟨את⟩ brjóstskjöldinn, og setti í brjóstskjöldinn ⟨את⟩ Úrím og ⟨את⟩ Tummím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/8\/5-8.1792395619588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Og ... setti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "á hann"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brjóstskjöldinn"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brjóstskjöldinn"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og ... setti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brjóstskjöldinn"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Úrím"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Úrím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Tummím"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tummím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:19.590277607Z",
+  "model": "glm-5.3"
+}

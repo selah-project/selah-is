@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska hefur ekki fornafnið 'þú' sérstaklega; spurningarforsagan bætir því við."
+    },
+    {
+      "kind": "you",
+      "subject": "Ísrael (jeremía 2:14)",
+      "rationale": "Beint rætt til Ísraels í öðrum persónu kvenkyns."
+    }
+  ],
+  "translation": "Hefir þú ekki gjört þetta við sjálfa þig, er þú yfirgafst ⟨את⟩ Jahve Elóhím þinn, þá er hann leiddi þig á veginum?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/2\/17-20.1792405201277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "efrir þú ekki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gjört"
+    },
+    {
+      "surface": "לך",
+      "gloss": "við sjálfa þig"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "yfirgafst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "þá"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "leiddi þig"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á veginum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:20:01.277867963Z",
+  "model": "glm-5.3"
+}

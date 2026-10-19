@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "Fleirtala af חלכא „úsælpingur“ — aðeins hér í Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "בעצומיו",
+      "rationale": "„Öflugir hans“ — klær ljónsins (jps: claws) eða öflugar menn hans (kjv: strong ones); valið klær í ljónslíkingu verss 9."
+    }
+  ],
+  "translation": "Hann hnígur saman og lækkar, og hinn óláni fellur undir klóum hans öflugum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/10\/9-12.1792409290552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "hnígur saman"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "lækkar"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "og fellur"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "undir klóum hans öflugum"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "hinn óláni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:10.553191774Z",
+  "model": "glm-5.3"
+}

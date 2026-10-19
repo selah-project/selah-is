@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er\/hans",
+      "rationale": "Íslenskan þarf sambandssagn og eignarfornafn sem hebreskan felur í endingunni -ו"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזר כנגדו",
+      "rationale": "'hjálpari andstæða hans' — gjörvísa 'hjálp sem hæfir honum'; kvenkyns viðurlag séð í næsta versi, engin svipuð fyrirfram-vitneskja hér"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dýri",
+      "rationale": "חית השדה er 'lifandi-vera vallarins'; 'dýr' missir rótina חי (lifandi)"
+    }
+  ],
+  "translation": "Og manninn gaf nöfn öllu búfénu og fugli himnanna og öllu dýri vallarins; en fyrir manninn fannst enginn hjálpari sem ⟨væri⟩ ⟨hans⟩ andstæða.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fb6534df757e848d44d72379395a8b97f69f3ebe860a4036f25d6b2b13b3fc6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/2\/20-20.1792416208938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Og gaf"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nöfn"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "búfénu"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "og fugli"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "og öllu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dýri"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "vallarins"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "en fyrir manninn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "fannst"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjálpari"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "sem ⟨er⟩ andstæða ⟨hans⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T13:23:28.938545885Z",
+  "model": "glm-5.3"
+}

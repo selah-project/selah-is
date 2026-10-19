@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עתה ×3",
+      "rationale": "þreföld endurtekning 'nú' byggir stigvaxandi hrynjanda, varðveitt í íslensku"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mér⟩",
+      "rationale": "íslenzka frumlagið í 'lyfta sér' krefst andlags sem hebreskan sleppir"
+    }
+  ],
+  "translation": "Nú rís ég, segir Jahve; nú upphægist ég, nú lyfti ég ⟨mér⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a56ab7d8fc4f967477cd1ba253603db4e6465427fc768b472f00a4fee4b6809b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/33\/9-12.1792404248622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "rís ég"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "upphægist ég"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "lyfti ég"
+    }
+  ],
+  "timestamp": "2026-10-19T10:04:08.623702246Z",
+  "model": "glm-5.3"
+}

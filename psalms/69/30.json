@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשגבני",
+      "rationale": "Sagt í nútíð eða ósk: „setur mig á hár“ eða „má þú setja mig á hár“ — hebreskan ber óvissa í sér."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עני\/וכואב",
+      "rationale": "Ansöngværð tvíeyki — fátækt og sár — sem síðar vers 33 tekur upp aftur."
+    }
+  ],
+  "translation": "En ég er fátækur og sárharður; hjálpræði þitt, Elóhím, má setja mig á hár.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a8552463f9e75668856ee235c01a6dd11e5ead309af6d604942ea06065f50a8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/30-31.1792416937761.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fátækur"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "og sárharður"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "hjálpræði þitt"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "má setja mig á hár"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:37.761961068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בתמי er 'fullkomnun\/óskeikja', ekki bara sakleysi"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "beint ákall til Jahve í fyrstu persónu"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "nafnshötturinn opnar með ákalli: 'Dæm mig, Jahve'"
+    }
+  ],
+  "translation": "Af Davíð. Dæm mig, Jahve, því að ég hef göngt í óskeikju minni, og á Jahve hef ég treyst; ekki skal ég hnikast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/26\/1-4.1792409532426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Af Davíð"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Dæm mig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "í óskeikju minni"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "hef ég göngt"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "og á Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "hef ég treyst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "skal ég hnikast"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:12.427470892Z",
+  "model": "glm-5.3"
+}

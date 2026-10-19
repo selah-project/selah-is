@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Copula 'erum' bætt við — hebreskan segir aðeins 'allir-við dáin'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לשלחם",
+      "rationale": "Bókstaflega 'að senda þá burt'; gefið sem 'brottferð þess' til að halda nafnhætti"
+    }
+  ],
+  "translation": "Og Mitsríar þrýstu á fólkinu til að hraða brottferð þess úr landinu, því þeir sögðu: Allir erum við ⟨dáin⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/33-36.1792394432767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "þrýstu á"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsríar"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkinu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "til að hraða"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "brottferð þess"
+    },
+    {
+      "surface": "מן",
+      "gloss": "úr"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landinu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sögðu"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "allir"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "dáin"
+    }
+  ],
+  "timestamp": "2026-10-19T07:20:32.768596306Z",
+  "model": "glm-5.3"
+}

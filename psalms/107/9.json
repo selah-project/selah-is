@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er andardráttur og lífskraftur, ekki ódáinsama sál; 'sál' er hefð en rótin nær til barka og hungurs"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "שקקה merkir bókstaflega 'það sem eltur græðgi' — 'sem girndist' er önnur möguleg lesning"
+    }
+  ],
+  "translation": "Því að hann mettaði sálina sem þyrsti, og sálina sem hungraði fyllti hann gæsku.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/9-12.1792410617229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "mettaði"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálina"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "sem þyrsti"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "og sálina"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "sem hungraði"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fyllti"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gæsku"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:17.229809016Z",
+  "model": "glm-5.3"
+}

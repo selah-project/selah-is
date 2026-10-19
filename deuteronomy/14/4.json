@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan hefur ekki sagnirna 'eru'; íslenskan krefst hennar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שה כשבים \/ שה עזים",
+      "rationale": "Hebreskan segir 'kind af kindum' og 'kind af geitum' — byggt með fornöfnum, flatt í 'kind' og 'kiðkefli' í mörgum þýðingum"
+    }
+  ],
+  "translation": "Þetta eru skepnurnar sem þér megið eta: nautið, kindina af kindum og kindina af geitum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6600f15af2c230402b908e8d25e265ef48779b6d419f1658f06f98d08dd1f5b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/14\/4-4.1792416444976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "skepnurnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "megið eta"
+    },
+    {
+      "surface": "שור",
+      "gloss": "nautið"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kindina"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "af kindum"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "og kindina"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "af geitum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:27:24.977395625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ויעמד 'gerði að standa' — hið sögulega 'staðsetti' heldur mynd sagnarinnar frekar en 'tóku afstöðu' (hlutverk, ekki orðmynd)"
+    },
+    {
+      "kind": "crux",
+      "subject": "העמיד את כל הנמצא",
+      "rationale": "'gerði alla þá er fundust að þiggja sáttmálann' (KJV 'stand to it') vs. einfaldlega 'kallaði saman' — sögnin er framsögn"
+    }
+  ],
+  "translation": "Og hann staðsetti ⟨את⟩ alla þá er fundust í Jerúsjalajím og í Benjamín, og íbúar Jerúsjalajím gjörðu eftir sáttmála Elóhím, Elóhím feðra þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4f3c2e97374e122ed45f0d55b02af65cb84aa1fa66ad0ce6b6f3a6b838acd915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/34\/32-32.1792417164235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Og hann staðsetti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla þá er fundust"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "þeir er fundust"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "og í Benjamín"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "og gjörðu"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "íbúar"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "eftir sáttmála"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "feðra þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T13:39:24.236078374Z",
+  "model": "glm-5.3"
+}

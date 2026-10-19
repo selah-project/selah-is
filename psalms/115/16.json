@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השמים שמים",
+      "rationale": "Himnarnir, himnanna — tekjuþáttur endurtekinn að ofan; myndheiður sem varðveitt er með endurtekningu."
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Sagnband „eru“ sett fram — hebreskan segir aðeins „himmunum, himna Jahve“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שמים",
+      "rationale": "Tvítala שמים — „himnatvenn“; íslenska tapar tvítölunni."
+    }
+  ],
+  "translation": "Himnar himnanna eru Jahve, en jörðina hefur hann gefið mönnunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/115\/13-16.1792410748031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Himnar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "eru Jahve"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en jörðina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hefur hann gefið"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mönnunum"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "(manna)"
+    }
+  ],
+  "timestamp": "2026-10-19T11:52:28.032020645Z",
+  "model": "glm-5.3"
+}

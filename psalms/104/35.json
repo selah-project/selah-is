@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er heldur 'kverk\/endirits\/lífsmáttur' en 'sál' — 'sál' hér sem hefðbundið en merkingin víðari"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "יתמו: optativ 'séu þeir eytt' (KJV, JPS) eða framtíð\/fullyrðing 'þeir verða eytt' (YLT)"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "þulurinn ávarpar sálu sína beint; 'הללו יה' ávarpar söfnuðinn"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "'הללו יה' er uppruni orðsins 'hallelúja' — tekið sem heilt lofkall"
+    }
+  ],
+  "translation": "Séu þeir sem synda eytt af jörðinni, og ógott félagarbrotin meiri ⟨sé⟩ ekki. Þakklát sé, sál mín, ⟨את⟩ Jahve. Lofjið Ja!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0f8e6102456bb3bc270249a1ea47b7d8116ccc079f8644cca50f3ccedeb565d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/104\/33-35.1792410588485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "Séu þeir sem synda eytt"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "þeir sem synda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "og ógott félagarbrotin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meiri"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "⟨sé⟩ ekki"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Þakklát sé"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sál mín"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lofjið"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:49:48.486650055Z",
+  "model": "glm-5.3"
+}

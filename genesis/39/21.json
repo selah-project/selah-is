@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "את hér er forsetningin ‚með‘ (H854), ekki收益-merkilegt DOM; geymt sem ⟨את⟩-merki samkvæmt reglu."
+    },
+    {
+      "kind": "crux",
+      "subject": "khesed",
+      "rationale": "ויט אליו חסed: ‚víslaði khesed‘ — sumir þýða ‚sýndi miskunn‘, en khesed er haft óþýtt samkvæmt D2."
+    }
+  ],
+  "translation": "Og Jahve var ⟨með⟩ ⟨את⟩ Jósef og rétti honum khesed og gaf honum þokka í augum yfirmanns fangahússins.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e7021eb3202ab55b7f3374ae437367b22f0aaeb88576f12a8637770a72a1e3da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/39\/21-23.1792393647652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "og var"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "og rétti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "þokka sinn"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "í augum"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yfirmanns"
+    },
+    {
+      "surface": "בית",
+      "gloss": "húss"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "fangahússins"
+    }
+  ],
+  "timestamp": "2026-10-19T07:07:27.652820280Z",
+  "model": "glm-5.3"
+}

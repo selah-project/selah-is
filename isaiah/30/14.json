@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 30:14",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨nóg til að⟩ bætt við — hebreskan segir aðeins 'kerfisbrot til að taka eld'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבל",
+      "rationale": "leðurflaska eða krukka — orðið kemur frá henni falla saman þegar tóm; 'krukka' hér samkvæmt samhengi leirmiðarans"
+    }
+  ],
+  "translation": "Og hennar brot verður sem brot leirmiðarans krukkus, kramið niður án miskunnar, og ekki fæst í tömlum þess kerfisbrot — ⟨nóg til að⟩ taka eld úr ásum eða ausa vatn úr lóni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1a3945ef0edb8f8bc91ec313b1acb5c4a583c0b541cbe8396481a5511953054f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/30\/13-16.1792404323541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושברה",
+      "gloss": "og hennar brot"
+    },
+    {
+      "surface": "כשבר",
+      "gloss": "sem brot"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "krukkus"
+    },
+    {
+      "surface": "יוצרים",
+      "gloss": "leirmiðarans"
+    },
+    {
+      "surface": "כתות",
+      "gloss": "kramið niður"
+    },
+    {
+      "surface": "לא",
+      "gloss": "án"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "miskunnar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "fæst"
+    },
+    {
+      "surface": "במכתתו",
+      "gloss": "í tömlum þess"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "kerfisbrot"
+    },
+    {
+      "surface": "לחתות",
+      "gloss": "til að taka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "eld"
+    },
+    {
+      "surface": "מיקוד",
+      "gloss": "úr ásum"
+    },
+    {
+      "surface": "ולחשף",
+      "gloss": "og til að ausa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "מגבא",
+      "gloss": "úr lóni"
+    }
+  ],
+  "timestamp": "2026-10-19T10:05:23.542215487Z",
+  "model": "glm-5.3"
+}

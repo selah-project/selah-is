@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "gröf og gryfja",
+      "rationale": "Íllæti grafur gryfju fyrir náungum og dettur sjálft í hana — haftæki sem endurspeglar þema sálmsins um endurgjald."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פעל ... יפעל",
+      "rationale": "Sama sögn lokar bæði v. 14 og v. 16 — 'hann gjörir' öldugar örvar og 'hann gjörir' gryfjuna sem hann dettur í; endurtekingerð týnst á íslensku."
+    }
+  ],
+  "translation": "Gröf graf hann og gróf hana út, og féll í gryfjuna sem hann gjörði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/7\/13-16.1792409195419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "gröf"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "graf hann"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "og gróf hana út"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "og féll"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "í gryfjuna"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "sem hann gjörði"
+    }
+  ],
+  "timestamp": "2026-10-19T11:26:35.420328404Z",
+  "model": "glm-5.3"
+}

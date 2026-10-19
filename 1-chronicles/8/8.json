@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Orðið „börn“ bætt við — hebreskan segir aðeins „gat“"
+    },
+    {
+      "kind": "substitution",
+      "subject": "á sviði",
+      "rationale": "„שדה“ er svið\/akur; sumir þýða „landið“ (KJV) en orðið sjálft er sviðið"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלחו אתם",
+      "rationale": "„Sendi þær burt“ — skilnaður frá konunum (BSB) eða einfaldlega sending; andlagsformið er karlkyn en konurnar eru taldar upp"
+    }
+  ],
+  "translation": "Og Sjaharaím gat börn á sviði Móab eftir að hann hafði sent ⟨את⟩ þá burt — Chúsím og ⟨את⟩ Baara, konur hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/8\/5-8.1792414590240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "og Sjaharaím"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "gat"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "á sviði"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "eftir að"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hann hafði sent burt"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "Chúsím og Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chúsím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "konur hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:56:30.241614296Z",
+  "model": "glm-5.3"
+}

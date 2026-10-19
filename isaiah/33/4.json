@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אֹסֶף",
+      "rationale": "Nafnorðið 'söfnun (ávaxta)' stendur aðeins hér í Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "הֶחָסִיל og גֵּבִים",
+      "rationale": "Tvenn orð fyrir gaddafara (locust); KJS les 'fiðrildi' (caterpillar) fyrir חסיל — íslenska heldur gaddafa með báðum."
+    }
+  ],
+  "translation": "Og herfangi yðvarn verður safnað eins og gaddafariinn safnar; eins og hlupandi gaddafarar renna um hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "57114b137b94ebafd6d4ba61d319adfbfcf4b9348d054fd36d09daf484ef0c9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/33\/1-4.1792404343257.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "og verður safnað"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "herfangi yðvarn"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "söfnun"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "gaddafariinn"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "eins og rennur"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "gaddafarar"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "hlupandi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "um hann"
+    }
+  ],
+  "timestamp": "2026-10-19T10:05:43.258378432Z",
+  "model": "glm-5.3"
+}

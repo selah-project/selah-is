@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד בואך",
+      "rationale": "'þar til þú kemur' — óvenjuleg annar persóna í þriðju persónu frásögn; orðrétt varðveitt"
+    },
+    {
+      "kind": "addition",
+      "subject": "hvorki…né",
+      "rationale": "ábendingar orða í hebresku aðeins 'vav', en íslenskan þarf samhengi"
+    }
+  ],
+  "translation": "Og þeir hersettust gegn þeim og eyðilögðu ⟨את⟩ ávexti landsins allt þar til ⟨þú⟩ kemur til Azzu, og þeir skildu eftir enga fæðu í Ísrael — hvorki kind né naut né asna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b25a7c3f9e68b3c26cc2d17be9b8bc43e871f47d852e70eaa94663850eedd2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/judges\/6\/1-4.1792399605245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "Og þeir hersettust"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "gegn þeim"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "og eyðilögðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ávexti landsins"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "ávexti"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "landsins"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt þar til"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "⟨þú⟩ kemur"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "til Azzu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "þeir skildu eftir"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "neina fæðu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "í Ísrael"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "kind"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "naut"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "né asna"
+    }
+  ],
+  "timestamp": "2026-10-19T08:46:45.246912879Z",
+  "model": "glm-5.3"
+}

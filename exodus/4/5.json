@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf samtengingu 'að' eftir 'trúi' sem hebreska segir með כי."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהי ×4",
+      "rationale": "Fjöldinn 'Elóhím' endurtekinn fjórum sinnum — fall valdsins, varðveitt í íslensku."
+    }
+  ],
+  "translation": "Til þess að þeir trúi að Jahve, Elóhím feðra þeirra — Elóhím Avraham, Elóhím Jitskhak og Elóhím Jaakov — hafi birst þér.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "658a85369b6f50c16f4b3050da9f91d3c030c8e4065bc001af9b8eaaaf91ea5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/4\/5-8.1792394129325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "til þess að"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "þeir trúi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "hafi birst"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "feðra þeirra"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitskhak"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og Elóhím"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    }
+  ],
+  "timestamp": "2026-10-19T07:15:29.325695011Z",
+  "model": "glm-5.3"
+}

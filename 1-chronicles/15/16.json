@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 15:16",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nabl",
+      "rationale": "נבל þýtt með hljóðréttri íslensku mynd 'nöblum' — stringatæki af skinnbelg, ekki 'gítar' eða 'harpa'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kinnór",
+      "rationale": "'kinnórum' heldur hljóði hebreskunnar fremur en almenningi 'harpa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמיעים להרים",
+      "rationale": "Orðaleikur með heyrð og hækkun — 'láta heyra, að lyfta' — fjölda samhljóða er varðveitt að hluta."
+    }
+  ],
+  "translation": "Og Davíð sagði höfðingjum Levítanna að setja ⟨את⟩ bræður þeirra, söngvarana, með söngtækjum — nöblum og kinnórum og symbölum — láta heyra, til að lyfta með röddu til gleði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5805a0b79fda9fce2abf4402fc682384a02e55b52375aa8481b414daf85b8757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/15\/13-16.1792414817185.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "höfðingjum"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levítanna"
+    },
+    {
+      "surface": "להעמיד",
+      "gloss": "að setja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bræður þeirra"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "bræður þeirra"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "söngvarana"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "með tækjum"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "söngs"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "nöblum"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "og kinnórum"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "og symbölum"
+    },
+    {
+      "surface": "משמיעים",
+      "gloss": "láta heyra"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "til að lyfta"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "með röddu"
+    },
+    {
+      "surface": "לשמחה",
+      "gloss": "til gleði"
+    }
+  ],
+  "timestamp": "2026-10-19T13:00:17.187022577Z",
+  "model": "glm-5.3"
+}

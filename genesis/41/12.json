@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "loks orðið 'hann' bætt við í 'túlkaði hann' — hebreskan endar einfaldlega á sögninni פתר"
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "drykkjarinn heldur áfram sögn sinni til Paró um Mósje"
+    }
+  ],
+  "translation": "Og þar var með ⟨את⟩ okkur ungur sveinn, Hebri, þræll hjá höfuðslátaranum; og við sögðum honum, og hann túlkaði fyrir okkur ⟨את⟩ drauma okkar — hvern samkvæmt draumi hans túlkaði hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/41\/9-12.1792393708454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Og þar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "með ⟨את⟩ okkur"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ungur sveinn"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebri"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "þræll"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "hjá höfuð"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "slátaranum"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "og við sögðum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "og hann túlkaði"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "fyrir okkur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "drauma okkar"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "drauma okkar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvern"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "samkvæmt draumi hans"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "túlkaði"
+    }
+  ],
+  "timestamp": "2026-10-19T07:08:28.455493528Z",
+  "model": "glm-5.3"
+}

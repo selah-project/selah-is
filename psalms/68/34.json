@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "eignarfall nafnliðar „rödd máttar“ — hebreska hefur tvennt nafnorð í stað"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשמי שמי",
+      "rationale": "tvöföldun „himna himna“ sem hæsta hæð — varðveitt bókstaflega"
+    }
+  ],
+  "translation": "Sá sem ríður á himnum himna fornra — sjá, hann gefur með röddu sinni rödd ⟨máttar⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/33-36.1792410076152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "Sá sem ríður"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "á himnum"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "himna"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "fornra"
+    },
+    {
+      "surface": "הן",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hann gefur"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "með röddu sinni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "עז",
+      "gloss": "máttar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:16.153242828Z",
+  "model": "glm-5.3"
+}

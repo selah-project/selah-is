@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שרד",
+      "rationale": "Orðið שרד kemur aðeins hér í Tanakh — 'saumaður', vítt lesið sem 'þjónustuklæði' eða 'brotnir í saum'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בגדי השרד",
+      "rationale": "Þýðendum splundrast: 'klæði þjónustunnar' (KJV), 'litrí klæði' (YL T), 'fléttað klæði' (JPS) — rótin merkir 'stungin með nál'."
+    }
+  ],
+  "translation": "og ⟨את⟩ saumföngin ⟨seríu⟩, og ⟨את⟩ heiligu klæðin fyrir Aharon prestinn, og ⟨את⟩ klæði sona hans til að gegna prestþjónustu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/31\/9-12.1792394952466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "saumföngin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "saumföngin"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "⟨seríu⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "heiligu klæðin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæðin"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heiligu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "fyrir Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "prestinn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "klæði sona hans"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klæði"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sona hans"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "til að gegna prestþjónustu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:29:12.468183889Z",
+  "model": "glm-5.3"
+}

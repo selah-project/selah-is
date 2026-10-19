@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálin",
+      "rationale": "נפש er lífskraftur, andardráttur, ekki sála í dómskerslu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חלב ודשן",
+      "rationale": "bókstaflega 'fita og feiting' — forfeinaði hluti fórnarinnar, ríkasta og bezta"
+    }
+  ],
+  "translation": "Sem feitti og mergðarri fæðu mun sálin mín mettast, og munnur minn mun lofa þig með fögrum munni ⟨það⟩ af fögnuði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/63\/5-8.1792410002022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "feitti"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "og mergðarri fæðu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mun mettast"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "með fögrum munni"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "af fögnuði"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "mun lofa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "munnur minn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:02.022914639Z",
+  "model": "glm-5.3"
+}

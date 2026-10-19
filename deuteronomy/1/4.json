@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "gloss": "",
+      "rationale": "hebreska áhrifasniðið hefur ekki frumlag — 'hann' vísar til Mósje og er bætt við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "slegið",
+      "rationale": "הכה er 'slá' — herferðarmál í Tanakh, ekki endilega 'drepa'"
+    }
+  ],
+  "translation": "Eftir að hann hafði slegið ⟨את⟩ Síkhon, konung Amoríta, sá er bjó í Kheshbon, og ⟨את⟩ Óg, konung Bashans, sá er bjó í Ashtarót, í Edrei.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/1-4.1792397594817.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Eftir að"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "hann hafði slegið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Síkhon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Síkhon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoríta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bjó"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "í Kheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "Óg"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Óg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá er"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bjó"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "í Ashtarót"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "í Edrei"
+    }
+  ],
+  "timestamp": "2026-10-19T08:13:14.818893985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אעלה\/תורד",
+      "rationale": "Fjórfaldi 'ég skal stíga upp' (v. 13–14) speglast í einni 'þú verður steypt niður' — chiasmus upphæðingar og falls"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בור er grafin gryfja eða brunnarop, ekki 'helvíti' — 'gröf' heldur myndinni"
+    }
+  ],
+  "translation": "Aðeins niður í Sjeól verður þú steypt, í djúpar holur grófarinnar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6ba8f6c00872ae1d5ffd7b9906623de2aad0d21d350d0abbc2d653cc5c6bac6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/14\/13-16.1792403901779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Aðeins"
+    },
+    {
+      "surface": "אל",
+      "gloss": "niður í"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeól"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "verður þú steypt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "djúpar holur"
+    },
+    {
+      "surface": "בור",
+      "gloss": "grófarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T09:58:21.780591402Z",
+  "model": "glm-5.3"
+}

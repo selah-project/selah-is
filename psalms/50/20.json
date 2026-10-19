@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דפי",
+      "rationale": "Dofí — „bakkastöð, smán“ — aðeins hér í Tanakh."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Ákall beint að rangláta manninum í öðru persónu."
+    }
+  ],
+  "translation": "Þú situr og talar móti bróður þínum, móti syni móður þinnar gefur þú lastorð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "15aed668552cc575206c6f0a43fb01428f4be214646cd9253294d44b31bc9138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/50\/17-20.1792409807531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "þú situr"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "móti bróður þínum"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "talar"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "móti syni"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "móður þinnar"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gefur þú"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "lastorð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:47.532239752Z",
+  "model": "glm-5.3"
+}

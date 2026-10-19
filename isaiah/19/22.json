@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נגף\/נגף ורפוא",
+      "rationale": "slá…-slá-og-græða: sögn endurtekin í óákveðni, spennan milli slátra og lækningar í tveim orðum."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נעתר",
+      "rationale": "'mun heyra bæn' — orðið merkir bæði 'biðjast með reykelsi' og 'svara bæn'."
+    }
+  ],
+  "translation": "Og Jahve mun slá ⟨את⟩ Mitsrajím — að slá og græða; og þeir munu snúa aftur til Jahve, og hann mun heyra bæn þeirra og græða þá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "89ade09efda90363b11acf681971accbce1a78d189b5abde9b8f2a6ee10b983e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/19\/21-24.1792403997314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "mun slá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajím"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "að slá"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "og græða"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "og munu snúa aftur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "til"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "mun heyra bæn"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeirra"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "og græða þá"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:57.315888674Z",
+  "model": "glm-5.3"
+}

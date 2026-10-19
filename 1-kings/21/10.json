@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 21:10",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "blesað",
+      "rationale": "ברכת er 'blesaði' — orðið sjálft — en snúgill notar það sem útvíkisorð um að banna (eufemismi); margar þýðingar skrifa 'bannaðir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sonu Belíal",
+      "rationale": "בני בליעל er orðatiltæki, 'órýrmilegir menn', en nafnið Belíal er varðveitt"
+    }
+  ],
+  "translation": "Og setjið tvo menn, sonu Belíal, gagnvart honum, og látið þá vitna um hann og segja: Þú hefur blesað Elóhím og konunginn. Síðan skulið þú færa hann út og grýta hann, svo að hann deyi.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cbf1cf327c48f0c7d4277c3ed6a988223766221f4a8845896283810cccee4d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/21\/9-12.1792402601622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והושיבו",
+      "gloss": "Og setjið"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tvo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belíal"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "gagnvart honum"
+    },
+    {
+      "surface": "ויעדהו",
+      "gloss": "og látið þá vitna um hann"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og segja"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "Þú hefur blesað"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og konunginn"
+    },
+    {
+      "surface": "והוציאהו",
+      "gloss": "skulið þú færa hann út"
+    },
+    {
+      "surface": "וסקלהו",
+      "gloss": "og grýta hann"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "svo að hann deyi"
+    }
+  ],
+  "timestamp": "2026-10-19T09:36:41.623379738Z",
+  "model": "glm-5.3"
+}

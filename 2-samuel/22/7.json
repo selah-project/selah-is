@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnbótina 'kom' er bætt við — hebreska segir aðeins 'ópi minn í eyru hans'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "היכל",
+      "rationale": "'musteri' — en Dávíð átti engan mustera; orðið er höll, aðsetur Elóhím á himni."
+    }
+  ],
+  "translation": "Í angist minni ákalla ég Jahve, og til Elóhím míns kalla ég, og hann heyrði ⟨את⟩ rödd mína úr musteri sínu, og ópi minn kom í eyru hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/22\/5-8.1792401706191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "í angist"
+    },
+    {
+      "surface": "לי",
+      "gloss": "minni"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ákalla ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og til"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím míns"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "kalla ég"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "og hann heyrði"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "úr musteri sínu"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "rödd mína"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "og ópi minn"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "í eyru hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:21:46.192251030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 30:22",
+  "book": "job",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשוה",
+      "rationale": "Þýtt 'eyðileggur\/jafnar við jörðu' eða 'gerir til einskis' — rót שוה getur merkt að leggja flatan eða gera tillaga."
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "rúach hér 'vindur', ekki 'andi'."
+    }
+  ],
+  "translation": "Þú lyftir mér upp á vindinn, þú lætur mig ríða honum, og þú bráðnar mig — þú jafnar mig við jörðu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/30\/21-24.1792412302824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשאני",
+      "gloss": "þú lyftir mér"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upp á"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vindinn"
+    },
+    {
+      "surface": "תרכיבני",
+      "gloss": "þú lætur mig ríða"
+    },
+    {
+      "surface": "ותמגגני",
+      "gloss": "og þú bráðnar mig"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "þú jafnar við jörðu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:18:22.825153542Z",
+  "model": "glm-5.3"
+}

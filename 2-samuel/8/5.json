@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עשרים ושנים אלף er tæplega 'tuttugu og tvær þúsund' — hebreskan telur 'tuttugu og tvær þúsund manns', 'manna' er partitív í grunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sikurgjöld' er lagt til til að gera בארם ('af Aram') lesanlegt sem orðun 'lék Aram'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið telur fallna hermenn: tuttugu og tvær þúsund manns."
+    }
+  ],
+  "translation": "Og Aram Damaskusar kom til að hjálpa Hadadéser, konungi Tsoba, og Davíð lék Aram sikurgjöld: tæp tuttugu og tvær þúsund manna.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/8\/5-8.1792401255471.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Og … kom"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskusar"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "til að hjálpa"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "Hadadéser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "og Davíð lék"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tuttugu"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "og tvær"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manna"
+    }
+  ],
+  "timestamp": "2026-10-19T09:14:15.472009265Z",
+  "model": "glm-5.3"
+}

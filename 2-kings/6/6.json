@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויצף",
+      "rationale": "Orðið er 'yfirflæða' (causativ af צוף) — 'lét fljóta' heldur orðmynd causaafbrigðisins."
+    },
+    {
+      "kind": "alternative",
+      "subject": "איש האלהים",
+      "rationale": "'Maður Elóhím' í stað hefðbundins 'Guðs maður' — Nafnið Elóhím helst óþýtt."
+    }
+  ],
+  "translation": "Og maður Elóhím sagði: Hvar féll það? Og hann sýndi honum ⟨את⟩ staðinn, og hann hjó sér tré og kastaði þangað, og lét járnið fljóta.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/6\/5-8.1792402875795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Hvar"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "féll það"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "Og hann sýndi honum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "staðinn"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "staðinn"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "og hann hjó"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "tré"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "og kastaði"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þangað"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "og lét fljóta"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "járnið"
+    }
+  ],
+  "timestamp": "2026-10-19T09:41:15.795934688Z",
+  "model": "glm-5.3"
+}

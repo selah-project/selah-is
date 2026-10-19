@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "að fara",
+      "rationale": "Íslenska þarf hjálparsögn við þátíðarfarsagna — hebreska notar þáttinn הלך sjálfan sem sögn."
+    },
+    {
+      "kind": "addition",
+      "subject": "hún",
+      "rationale": "Fornafnið \"hún\" bætt við til að gera eignarfallið skiljanlegt; hebreskan hefur breidd og lengd sem eignarfallsmyndir."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Jerúsjalajím",
+      "rationale": "Mæling borgarinnar — breidd og lengd."
+    }
+  ],
+  "translation": "Og ég sagði: Hvert ertu ⟨að fara⟩? Og hann sagði mér: Að mæla ⟨את⟩ Jerúsjalajím, að sjá hve breið ⟨hún⟩ er og hve löng ⟨hún⟩ er.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1d756fff573194abb35f4ed6296a535f8fe0e6ef2448e6dbcf8f5389a840bd0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/2\/5-8.1792408986014.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Og ég sagði"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Hvert"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ertu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨að fara⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "למד",
+      "gloss": "Að mæla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerúsjalajím"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "að sjá"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hve"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "breið ⟨hún⟩ er"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "og hve"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "löng ⟨hún⟩ er"
+    }
+  ],
+  "timestamp": "2026-10-19T11:23:06.015368289Z",
+  "model": "glm-5.3"
+}

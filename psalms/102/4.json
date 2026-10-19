@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קד",
+      "rationale": "'eldstæði' (KJV\/JPS 'hearth') vs. 'brandur\/glóð' (ylt 'fire-brand', BSB 'embers') — rótin מוקד merkir eld eða eldivið."
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Sagnliðir 'eru' bætt við; hebreskan segir aðeins 'svelldu — sem reykur — dagar mínir'."
+    }
+  ],
+  "translation": "Því að dagar mínir eru svelldir sem reykur, og bein mín eru brennd eins og eldstæði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/102\/1-4.1792410524675.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "eru svelldir"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sem reykur"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dagar mínir"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "og bein mín"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "קד",
+      "gloss": "eldstæði"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "eru brennd"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:44.676706269Z",
+  "model": "glm-5.3"
+}

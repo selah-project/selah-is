@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "esther 9:25",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמר",
+      "rationale": "Hver sagði: konungurinn (með bréfi) eða Ester? Grunnið er óljóst — KJK\/ASV lesa konunginn, ýmis lesa Ester."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hann",
+      "rationale": "Íslenska þarf fornafnið 'hann' (Hamman); hebreskan hefur aðeins lögn í orðunum um hann."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨hann⟩",
+      "rationale": "Fornafnið 'hann' bætt við til að greina hver talandinn er."
+    }
+  ],
+  "translation": "Og er hún kom fyrir konunginn, sagði ⟨hann⟩ með bréfinu: Hverfi áráð hans, hið illa, er hann ásetti sér gegn Júðum, yfir höfuð hans sjálfs, og þeir hengu ⟨את⟩ hann og ⟨את⟩ sonu hans á trénu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0152af1cbd7db126e387eea1b89d43164019033e09588030010baf5048fb67c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/9\/25-28.1792413377739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "Og er hún kom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "bréfinu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "Hverfi"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "áráð hans"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hið illa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ásetti sér"
+    },
+    {
+      "surface": "על",
+      "gloss": "gegn"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Júðum"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "höfuð hans"
+    },
+    {
+      "surface": "ותלו",
+      "gloss": "og þeir hengu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sonu hans"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sonu hans"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "trénu"
+    }
+  ],
+  "timestamp": "2026-10-19T12:36:17.739780983Z",
+  "model": "glm-5.3"
+}

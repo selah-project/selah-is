@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru \/ er",
+      "rationale": "hebreskan séð enga sögn — merkja ⟨eru⟩ og ⟨er⟩ sem íslenskan krefst"
+    },
+    {
+      "kind": "substitution",
+      "subject": "arfur",
+      "rationale": "נחלת er smásamt orð 'arfur-Jahve' — 'arfur Jahve' heldur bindingunni en á íslensku viðskeyti"
+    }
+  ],
+  "translation": "Sjá, arfur Jahve ⟨eru⟩ synir, og laun ⟨er⟩ ávöxtur kviðarinnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/127\/1-4.1792410915977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "arfur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synir"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "laun"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ávöxtur"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "kviðarinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:55:15.978127716Z",
+  "model": "glm-5.3"
+}

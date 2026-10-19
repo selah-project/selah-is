@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הריפות",
+      "rationale": "grjón\/mylja (þurrkuð korn) kemur aðeins fyrir hér í Tanakh."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "\"þú\" í flítum þarf viðfang — hebreska sögnin er í annarri persónu karlkyns eintölu en fornafnið er sleppt."
+    }
+  ],
+  "translation": "Þótt þú steypir ⟨את⟩ heimskan í steytipanni, á meðal grjóna, með steytri, hverfur heimskan hans ekki frá honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/27\/21-24.1792411660268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "þótt"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "þú steypir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heimskan"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "heimskan"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "í steytipanni"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "á meðal"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "grjóna"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "með steytri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "hverfur"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "frá honum"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "heimskan hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:07:40.268912937Z",
+  "model": "glm-5.3"
+}

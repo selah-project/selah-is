@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "hebreskan sleppir sagnlið; íslenskan þarf 'er'"
+    },
+    {
+      "kind": "secret",
+      "subject": "צָרוּר \/ צְפוּנָה",
+      "rationale": "syndin er bundin og falin — mynd af því að liggja í geymslu, hvíldar ekki fyrr en reikningsgerð"
+    }
+  ],
+  "translation": "Bundið er brot Efraíms, falið synd hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/13\/9-12.1792408176138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "bundið er"
+    },
+    {
+      "surface": "עון",
+      "gloss": "brot"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraíms"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "falið"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "synd hans"
+    }
+  ],
+  "timestamp": "2026-10-19T11:09:36.139082102Z",
+  "model": "glm-5.3"
+}

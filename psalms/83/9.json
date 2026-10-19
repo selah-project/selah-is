@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "זרוע er bókstaflega 'armur'; KJV 'holpen' missir myndina, 'armar' heldur henni"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "סלה er tónlistarmerki, haft óþýtt"
+    }
+  ],
+  "translation": "Jafnvel Assúr hefur gengið í lið þeirra, orðinn ⟨את⟩ armar barnanna Lóts. Selah.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/83\/9-12.1792410259248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "jafnvel"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "hefur gengið í lið"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "þeirra"
+    },
+    {
+      "surface": "היו",
+      "gloss": "orðinn"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "armar"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "barnanna"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lóts"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:19.248925118Z",
+  "model": "glm-5.3"
+}

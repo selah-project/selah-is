@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "þágufallsorði sem íslenskan þarf við 'verður bjargað' — hebreskan segir aðeins 'af henni verður bjargað'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צרה היא",
+      "rationale": "bókstaflega 'þrenging — hún er'; kyn hebreska orðsins (kvk) birtist í 'af henni'"
+    }
+  ],
+  "translation": "Hve! því að mikill er sá dagur, enginn er honum jafn; og hann er þrengingartími fyrir Jaakov, en af henni verður ⟨hann⟩ bjargað.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1ec5461b271904f7c91e3b10b413869960708e3f1848cb908368c97992272ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/30\/5-8.1792406067008.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hve!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mikill"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sá dagur"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sá"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "er honum jafn"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og tími"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "þrengingar"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hann er"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "fyrir Jaakov"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "en af henni"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "verður bjargað"
+    }
+  ],
+  "timestamp": "2026-10-19T10:34:27.009767364Z",
+  "model": "glm-5.3"
+}

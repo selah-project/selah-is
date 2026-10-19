@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreska á enginn sögn í this frasa; íslenska þarf samhengis-orð"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mettaðir",
+      "rationale": "שבע er að fylla til fullnægju, bókstaflega um mat — 'mettaðir' heldur myndinni"
+    }
+  ],
+  "translation": "Hamingjusömur ⟨er⟩ sú sem þú velur og færir nálægt ⟨sér⟩, svo að hún megi búa í garðum þínum; vér verðum mettaðir af gæsku húss þíns, ⟨af⟩ helgu musteri þínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/65\/5-8.1792410013019.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Hamingjusömur"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "þú velur"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "og færir nálægt"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "búi"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "í garðum þínum"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "vér verðum mettaðir"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "af gæsku"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "húss þíns"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "helgu"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "musteri þínu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:13.019827856Z",
+  "model": "glm-5.3"
+}

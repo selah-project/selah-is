@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„hans“ og „hann“ bætt við — hebreskan segir aðeins „andlit“ og „að heyra“ án eiganda."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Samsettu neitunar-orðin „כי אם“ eru tekin sem eitt „Nei“ sem svarar fortaltíu í 59:1."
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Ræðan snýr að Ísrael í annarri persónu fleirtölu („ykkar“)."
+    }
+  ],
+  "translation": "Nei, öryrkjar ykkar hafa orðið aðskiljandi milli ykkar og Elóhím ykkar, og syndir ykkar huluðu andlit ⟨hans⟩ frá ykkur, svo að ⟨hann⟩ heyrir ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/59\/1-4.1792405026240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨í staðinn⟩"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "öryrkjar ykkar"
+    },
+    {
+      "surface": "היו",
+      "gloss": "hafa orðið"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "aðskiljandi"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "milli ykkar"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "og"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím ykkar"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "og syndir ykkar"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "huluðu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "andlit"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "frá ykkur"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "svo að hann heyrir ekki"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:06.241526324Z",
+  "model": "glm-5.3"
+}

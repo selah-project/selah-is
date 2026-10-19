@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עגבים",
+      "rationale": "Ástarorð — kærleiksljóð, ekki 'hróðurljóð'; samband við 'ástarorð' v. 31 heldur orðmyndinni saman."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "gloss": "",
+      "rationale": "'Þú ert' — hebreskan hefur aðeins 'og sjá, þú' með forsetningu; sagnir 'ert' bætt við."
+    }
+  ],
+  "translation": "Og sjá, þú ert þeim eins og kveðskapur um ástarorð, fagurreddur og vel spilað — og þeir heyra ⟨את⟩ orð þín en gjöra ⟨את⟩ þau ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b5437fd13561a86ad8a3d2963ef5a781e6f23046766f267b2d2da3c47e93d491",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/33\/29-32.1792407650914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "Og sjá, þú ert"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "eins og kveðskapur"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "um ástarorð"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fagur"
+    },
+    {
+      "surface": "קול",
+      "gloss": "reddur"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "og vel"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "spilað"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "og þeir heyra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orð þín"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "orð þín"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "en gjöra"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ þau"
+    }
+  ],
+  "timestamp": "2026-10-19T11:00:50.915968801Z",
+  "model": "glm-5.3"
+}

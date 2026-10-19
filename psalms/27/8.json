@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לך אמר לבי",
+      "rationale": "KJT les: 'þú sagðir: Leitið andlits míns' — בקשו sem þúmynd; JPS\/þýðing hér: hjartað mælti 'um þína sök' — где sögnin er fleirtala, ekki önnur persóna"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "Versið snýr að Jahve í annarri persónu — 'andlit þín mun ég leita'"
+    }
+  ],
+  "translation": "Um þína sök sagði hjarta mitt: Leitið andlits míns — ⟨את⟩ andlit þín, Jahve, mun ég leita.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/27\/5-8.1792409541526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "um þína sök"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Leitið"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlits míns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andlit þín"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlit þín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "mun ég leita"
+    }
+  ],
+  "timestamp": "2026-10-19T11:32:21.527918941Z",
+  "model": "glm-5.3"
+}

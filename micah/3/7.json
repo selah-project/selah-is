@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "vör",
+      "rationale": "שפם er varamót eins og hjá Harpa (Harpa 2:12) — sorgarmerki; ekki vör."
+    },
+    {
+      "kind": "crux",
+      "subject": "אין מענה אלהים",
+      "rationale": "orðrétt 'engin svar Elóhím' — 'Guð svarað ekki' eða 'engu svara Elóhím'; myndin er þögn Elóhíms."
+    }
+  ],
+  "translation": "Og sýnarmennirnir verða skammaddir og augljósamennirnir blygðast; allir þeirra munu hylja skegg sitt, því að Elóhím svarað ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/3\/5-8.1792408600934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "verða skammaddir"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "sýnarmennirnir"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "blygðast"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "augljósamennirnir"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "munu hylja"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "skegg sitt"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "svar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:40.935836856Z",
+  "model": "glm-5.3"
+}

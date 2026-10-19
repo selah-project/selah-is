@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Jussívarnir krefjast 'megi' á íslensku; hebreskan hefur formið sjálft"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Óbeint ávarp til Guðs í annarri persónu ('þér', 'þína')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "björgun",
+      "rationale": "ישועה er 'það sem bjargar', hjálp\/victory; einn íslenskur hljóðrænn orðatiltæki ekki til"
+    }
+  ],
+  "translation": "Megi allir þeir sem leita þér fagna og gleðjast í þér, og þeir sem elska björgun þína segji ávallt: Elóhím sé stór!\n",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/70\/5-6.1792410036179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "fagni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "og gleðjist"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "þeir sem leita þér"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "og segji"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ávallt"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "sé stór"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "þeir sem elska"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "björgun þína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:36.179768460Z",
+  "model": "glm-5.3"
+}

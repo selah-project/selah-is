@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálgátt",
+      "rationale": "נפש er önd\/lífskraftur, ekki 'sál' í grenskri merkingu."
+    },
+    {
+      "kind": "addition",
+      "subject": "hann",
+      "rationale": "Fornafn 'hann' bætt við á íslensku; hebreskan hefur aðeins sögnina 'jákenna'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "sálgátt mín",
+      "rationale": "Höfundurinn ávarpar eigin sálgátt með skipun: 'Bíð eftir Elóhím'."
+    },
+    {
+      "kind": "crux",
+      "subject": "hjálpræði andlits míns",
+      "rationale": "ישועת פני — ' hjálpræði andlits' táknað; KJV 'heilsa andlits', BSB flytur nafnliðinn alveg."
+    }
+  ],
+  "translation": "Hví sökkvisk þú niður, sálgátt mín, og hví órar þú yfir mér? Bíð eftir Elóhím, því að enn mun ég jákenna ⟨hann⟩, hjálpræði andlits míns og Elóhím minn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/42\/9-12.1792409720895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "sökkvisk þú niður"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálgátt mín"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "og hví"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "órar þú"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mér"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Bíð eftir"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "mun ég jákenna ⟨hann⟩"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "hjálpræði"
+    },
+    {
+      "surface": "פני",
+      "gloss": "andlits míns"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "og Elóhím minn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:20.897030166Z",
+  "model": "glm-5.3"
+}

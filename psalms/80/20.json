@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "bein áköllun á Jahve, Elóhím Tsevaót"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השיבנו \/ ונושעה",
+      "rationale": "endurtekning úr v.4,8,15 — þema sálmsins: 'snú oss aftur' og 'verðum hjálpaðir'"
+    }
+  ],
+  "translation": "Jahve, Elóhím Tsevaót, snú þú oss aftur; láttu andlit þitt skína, og verðum vér hjálpaðir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/80\/17-20.1792410297919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "snú þú oss aftur"
+    },
+    {
+      "surface": "האר",
+      "gloss": "láttu skína"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlit þitt"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "og verðum vér hjálpaðir"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:57.920910950Z",
+  "model": "glm-5.3"
+}

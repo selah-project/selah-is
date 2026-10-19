@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 12:2",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan hefur ekki sögn í setningunni um synina; íslenska krefst sögninnar „eru“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתהלך \/ התהלכתי",
+      "rationale": "Sama stofn „að ganga“ endurtekinn um konunginn og um Sjemúel — speglun sem varðveitt er með sama orði"
+    }
+  ],
+  "translation": "Og nú, sjá, konungurinn gengur frammi fyrir yður, en ég hef orðið gamall og grár, og sjá, synir mínir eru ⟨את⟩ með yður; en ég hef gengið frammi fyrir yður frá æsku minni allt til þessa dags.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "8cd5788a29a0ef5ff52376b89afa0ca78dab6d9eae9face0727e1bcd513a3320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/12\/1-4.1792400470139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "frammi fyrir yður"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ég"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "hef orðið gamall"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "og grár"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og synir mínir"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "með yður"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ég"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "hef gengið"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "frammi fyrir yður"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "frá æsku minni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dags"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T09:01:10.140637486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עז 'sterkur, harður' sett sem eftirmáli 'hinum harða' á eftir nafninu, eins og hebreskan gerir."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'voru' og 'en' viðbætt til að mynda samanburðinn sem ממני birtir með forsetningu."
+    }
+  ],
+  "translation": "Hann frelsaði mig frá óvini mínum, hinum harða, og frá þeim sem hata mig, því að þeir voru sterkari en ég.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ac8296ab4ed3e869e4133be596bb5fb7435700ed43ccd28ec2a808737651474",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/18\/17-20.1792409408124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Hann frelsaði mig"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "frá óvini mínum"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hinum harða"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "og frá þeim sem hata mig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "þeir voru sterkari"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "en ég"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:08.124731992Z",
+  "model": "glm-5.3"
+}

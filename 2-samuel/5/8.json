@@ -1,0 +1,146 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 5:8",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צנור",
+      "rationale": "'Skurður\/vatnsskarð' — aðeins hér í Tanakh, talin vísa í vatnsskötuloft Síonar"
+    },
+    {
+      "kind": "crux",
+      "subject": "orðatiltæki Davíðs",
+      "rationale": "Setningin er þunn — KJV bætir við 'yfirhöfuðsmaður og höfðingi' sem hebreskan hefur ekki í þessari mynd (máltækið 1 Krón 11:6)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sálin",
+      "rationale": "נפש er heldur 'kok\/lífskraftur' en óbundin sál í vesturlenskum skilningi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שנאו נפש דוד",
+      "rationale": "'Sálin Davíðs hataði' — hebreskt persónuskildiþol, ekki fullyrðing um tilfinningu sálarinnar sjálfrar"
+    }
+  ],
+  "translation": "Og Davíð sagði á þeim degi: Hver sem slær Jebúsíta og nær skurðinum — og ⟨את⟩ haltirnir og ⟨את⟩ blindirnir — hataði sálin Davíðs. Þess vegna segja þeir: Blindur og haltur kemur ekki í húsið.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e1e995a1de823661c902b10a55c0fdbca04190d70e80966317b243d9b8a4e588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/5\/5-8.1792401256843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Hver"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sem slær"
+    },
+    {
+      "surface": "יבסי",
+      "gloss": "Jebúsíta"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "og nær"
+    },
+    {
+      "surface": "בצנור",
+      "gloss": "skurðinum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haltirnir"
+    },
+    {
+      "surface": "הפסחים",
+      "gloss": "haltirnir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "blindirnir"
+    },
+    {
+      "surface": "העורים",
+      "gloss": "blindirnir"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "hataði"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "על",
+      "gloss": "Þess"
+    },
+    {
+      "surface": "כן",
+      "gloss": "vegna"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "segja þeir"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Blindur"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "og haltur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kemur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsið"
+    }
+  ],
+  "timestamp": "2026-10-19T09:14:16.844893221Z",
+  "model": "glm-5.3"
+}

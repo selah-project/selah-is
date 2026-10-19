@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Verset heldur áfram beinni ávarpani til Ísraelsmanna: 'ykkur', 'ykkar Elóhím'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "המוציא er þátt í nútíð en þýtt sem þáðarleg 'sá er leiddi út' samkvæmt venju eldri þýðinga."
+    }
+  ],
+  "translation": "sá er leiddi ⟨את⟩ ykkur út úr landi Mitsrajím, til að vera ykkar Elóhím; ég er Jahve.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a61ecc0ef134683dbc68551a4b08fec134a12d24fa4a0ed82445bed2a0e6712f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/22\/33-33.1792395948340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "sá er leiddi út"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ykkur",
+      "marks": "ykkur"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "út úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "til að vera"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykkar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T07:45:48.340573367Z",
+  "model": "glm-5.3"
+}

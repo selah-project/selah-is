@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨hve⟩",
+      "rationale": "עד־מה er bundið spurningarorð; „hve“ bætt við til að mynda spurningu á íslensku."
+    },
+    {
+      "kind": "crux",
+      "subject": "כבודי לכלמה",
+      "rationale": "„dýrð mín til skammarungar“ — söguleg tvímæli: „hve lengi skemmmer þér dýrð mína“ (virk sögn) á móti stöðu-yfirráða mynd hér."
+    },
+    {
+      "kind": "you",
+      "subject": "til andstæðinga Davíðs",
+      "rationale": "Bein ávörpun í fleirtölu: „Mannasynir“."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Sela — tónlistarmerki, haft óþýtt."
+    }
+  ],
+  "translation": "Mannasynir, hve lengi — dýrð mín til skammarungar; tómi elskið þér, og leitið lygi. Sela.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/4\/1-4.1792409236087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hve lengi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨hve⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "dýrð mín"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "til skammarungar"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "elskið þér"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tómi"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "leitið"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lygi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-19T11:27:16.088905796Z",
+  "model": "glm-5.3"
+}

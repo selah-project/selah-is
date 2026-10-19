@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "ארזי אל: 'sedlar El' (YLT\/ASV, orðrétt) vs. 'máttugar sedlar' (JPS\/BSB) — אל sem styrkleiki, en Nafnið er hér varðveitt"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "voru — kopúla sem hebreskan vantar, sett í hornklofa"
+    }
+  ],
+  "translation": "Fjöll huldu skugga hans, og kvistir hans voru sedlar El.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/80\/9-12.1792410259383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "huldu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "fjöll"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "skugga hans"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "og kvistir hans"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:19.383933341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "Getur verið skilyrt 'ef' (ylt) eða kausativt 'þegar' (kjl) — sögnin í afturbeiðni gerir 'þegar' eðlilegra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הרגם",
+      "rationale": "'sló þá' fyrir 'drap þá' — talað um fjöldaeyðingar en ekki endanlega dauða allra."
+    }
+  ],
+  "translation": "Þegar hann sló þá, leituðu þeir að honum, og sneru aftur, og leituðu snemma að El.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/78\/33-36.1792410241432.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Þegar"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "hann sló þá"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "leituðu þeir að honum"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "og sneru aftur"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "og leituðu snemma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að El"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:01.433595213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "sögnin 'er' er röng viðskeyting — hebreskan segir aðeins 'en ég Jahve'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מועד",
+      "rationale": "'ákveðinn tími\/hátíð' — Bíbían segir 'tjaldbúðir hátíðarinnar'; tjöldin minna á Sjannahágg (3. Mós 23:42-43)"
+    }
+  ],
+  "translation": "En ég ⟨er⟩ Jahve, Elóhím þinn, frá landi Mitsrajím; enn mun ég láta þig búa í tjöldum, eins og á dögum hátíðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/12\/9-12.1792408188138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "En ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "frá landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "mun ég láta þig búa"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "í tjöldum"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "eins og á dögum"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "hátíðar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:09:48.139475181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מראות er bæði 'sýn' og 'speglar'; speglar kvennanna (bronsspeglar) eru vísunin"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "צבאת\/צבאו — sömu rót endurtekin, 'þær sem þjónuðu ... þjónuðu', sveiflan glatast að hluta"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "צבא hér: 'ganga í þjónustu\/fylking' (asv\/jps 'ministered') vs 'komu saman' (kjv 'assembled')"
+    }
+  ],
+  "translation": "Og hann gerði ⟨את⟩ þvottakeruna af kopri og ⟨את⟩ stall hennar af kopri, úr speglum kvennanna sem þjónuðu við innganginn á fundartjaldinu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2dd8a01858d9824f251c6036dd0c995356e2ee74253efef04747f2865a3b1d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/38\/8-9.1792416319581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Og hann gerði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þvottakeruna"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "þvottakeruna"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af kopri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "stall hennar"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "stall hennar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "af kopri"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "úr speglum"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "kvennanna sem þjónuðu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "þjónuðu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "við innganginn"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "á fundartjaldinu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fundartjaldinu"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:19.582041672Z",
+  "model": "glm-5.3"
+}

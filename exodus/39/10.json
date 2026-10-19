@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "odem, pitda, bareket",
+      "rationale": "Hebresku nafn gersemana eru óviss — KJJ 'sardius, topaz, carbuncle' á móti JPS 'carnelian, topaz, smaragd'; hljóð hebreskunnar haldið."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨er⟩",
+      "rationale": "Íslenska þarfnast sagnorðs þar sem hebreskan segir aðeins 'hin fyrsta röð'."
+    }
+  ],
+  "translation": "Og þeir fylltu hann fjórum röðum steina: röð — odem, pitda og bareket — ⟨er⟩ hin fyrsta röðin.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c97b73b8eced2e0d6a47fb121a208afe1c590378384d54c7f290d1262810eff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/39\/9-12.1792395232699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "Og þeir fylltu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fjórum"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "röðum"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "steina"
+    },
+    {
+      "surface": "טור",
+      "gloss": "röð"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odem"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "pitda"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "og bareket"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "röðin"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hin fyrsta"
+    }
+  ],
+  "timestamp": "2026-10-19T07:33:52.701850246Z",
+  "model": "glm-5.3"
+}

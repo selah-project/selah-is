@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במחול",
+      "rationale": "'Í hringdansi' — sumir þýða 'í dancingi' (KJV), aðrir 'með dancingi' (BSB)."
+    },
+    {
+      "kind": "elision",
+      "subject": "strengleik",
+      "rationale": "זמר rótin merkir að slá á strengi — 'spila' nær ekki myndinni, orði bætt skýringu."
+    }
+  ],
+  "translation": "Lófið nafn hans í dancingi, með tömmurínu og knerð — spilið honum strengleik.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/149\/1-4.1792411059370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Lófið"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "í dancingi"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "með tömmurínu"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "og knerð"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "spilið"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:39.371899281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 8:16",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את (v. 16)",
+      "rationale": "Hér er את forsetningin 'við' (H854), ekki merkilegt beint hlutmerki — þess er ekki ⟨את⟩ getið."
+    },
+    {
+      "kind": "you",
+      "subject": "þér",
+      "rationale": "Boðsorð til lýðsins: talið sannleika, dæmið réttan dóm — hjávegifull boðskapur."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמת ... אמת",
+      "rationale": "Endurtekin 'sannleiki' umlykur 'hvern mann við náunga sinn' — inngreip mynd sem týnist í þýðingu."
+    }
+  ],
+  "translation": "Þetta eru orðin sem þér skuluð gjöra: Talið sannleika, hvern maður ⟨את⟩ við náunga sinn — sannleika, og dóm friðar dæmið í hliðum ykkar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "705d74d82d87111793bbf84a739679aff1d169c2c813eaccdcb758ec3f458117",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/8\/13-16.1792409024672.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "eru orðin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "þér skuluð gjöra"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Talið"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvern maður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ við"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "náunga sinn"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sannleika"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dóm"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friðar"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "dæmið"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "í hliðum ykkar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:23:44.673729330Z",
+  "model": "glm-5.3"
+}

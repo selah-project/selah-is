@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צחק",
+      "rationale": "Sama rót og Isaak – orðmynd er varðveitt í íslensku með sömu táknmynd."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לא כי",
+      "rationale": "Nei heldur – hebreskt neitunarsamband, ekki orðrétt „nei því“."
+    }
+  ],
+  "translation": "En Sára afneitaði og sagði: Ég hló ekki — því að hún óttaðist. Og hann sagði: Nei, heldur hlst þú.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/18\/13-16.1792392899033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "afneitaði"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og sagði"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "Ég hló"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hún óttaðist"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "hló þú"
+    }
+  ],
+  "timestamp": "2026-10-19T06:54:59.034716239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דבלים",
+      "rationale": "Divlajím er tvífeldt orð — 'tvö döðluköku' (דבלה 'döðlukaka') — táknrænt nafn í sömu róttáknmynd og sagan sjálf."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'varð þunguð' — hebreska Cis þolmyndar sögnin er ósamsetjanleg á íslensku án hjúsagnar."
+    }
+  ],
+  "translation": "Og hann fór og tók ⟨את⟩ Gómer, dóttur Divlajím; og hún varð þunguð og ól honum son.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "958d3b6c15167617e99ac0fa1adfc3a9bcbe857f73dc2a12fc5e2331f54a3d77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/1\/1-4.1792408126872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Og hann fór"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "og tók"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gómer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gómer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dóttur"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Divlajím"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "og hún varð þunguð"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "og ól"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    }
+  ],
+  "timestamp": "2026-10-19T11:08:46.873908666Z",
+  "model": "glm-5.3"
+}

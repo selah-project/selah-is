@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "אתו er samhaft orðatiltæki (sögn + ábending); fléttað í setningu sem „sem lokað er“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Óhreinki mæld í tíma: „allt til kvölds“."
+    }
+  ],
+  "translation": "Og sá sem kemur inn í húsið alla þá daga sem það er lokað, verður óhreinn ⟨את⟩ allt til kvölds.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/14\/45-48.1792395795600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "og sá sem kemur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "inn í"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsið"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "daga"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "sem lokað er"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann",
+      "marks": "húsið (aðgerðin beinist að húsinu sem lokað er)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "verður óhreinn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "allt til"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kvölds"
+    }
+  ],
+  "timestamp": "2026-10-19T07:43:15.602133426Z",
+  "model": "glm-5.3"
+}

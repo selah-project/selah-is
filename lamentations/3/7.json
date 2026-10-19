@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נחשתי",
+      "rationale": "Bókstaflega 'koparinn minn' — kopar (=nálar) eða koparfjötrar; 'fjötur' er ráðning úr samhengi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ולא אצא",
+      "rationale": "Bókstaflega 'og ég kem ekki út' — afleiðingarmynd 'svo að' er íslensk bjargð"
+    }
+  ],
+  "translation": "Hann múraði um kringum mig svo að ég kemst ekki út; hann gerði koparfjötur minar þungar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/lamentations\/3\/5-8.1792412780123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "múraði um"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "kringum mig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "svo að ég kemst ekki"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "út"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "gerði þungar"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "koparfjötur minar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:26:20.124825878Z",
+  "model": "glm-5.3"
+}

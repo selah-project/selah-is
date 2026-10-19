@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 58:3",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sálu",
+      "rationale": "נפש er heldur 'kverk\/regn\/lífsmáttur' en sála í hefðbundri merkingu"
+    },
+    {
+      "kind": "crux",
+      "subject": "עצביכם",
+      "rationale": "Orðið þýðir 'ykkar verkamenn' (ráðnir menn) — sumir þýða 'ykkar erfiðisverk' og lesa sem 'öll ykkar verk'"
+    }
+  ],
+  "translation": "Hví föstum vér og þú sérð það ekki? Hældum sálu vorri og þú kannt ⟨það⟩ ekki? Sjá, á föstudegi yðar findið þér ykkar eigin geðþóta, og alla verkamenn yðar leggið þér í harðræði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/58\/1-4.1792405031864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "צמנו",
+      "gloss": "föstum vér"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "sérð þú"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "Hældum"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sálu vorri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "kannt"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "צמכם",
+      "gloss": "föstu yðar"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "findið þér"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "eigin geðþóta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og alla"
+    },
+    {
+      "surface": "עצביכם",
+      "gloss": "verkamenn yðar"
+    },
+    {
+      "surface": "תנגשו",
+      "gloss": "leggið þér í harðræði"
+    }
+  ],
+  "timestamp": "2026-10-19T10:17:11.865663004Z",
+  "model": "glm-5.3"
+}

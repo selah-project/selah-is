@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מכשפה er kvenkyns (galdrakona), ekki hið kynhlutlausa 'galdramaður' eins og margar þýðinga gera"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "תחיה er af orðmynd 'læknandi\/lífgandi' — sumir lesa 'þú skalt ekki láta hana lifa' sem banningu, aðrir sem drápsúrskipun"
+    }
+  ],
+  "translation": "Galdra konu skalt þú ekki láta lifa.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/22\/17-20.1792394730973.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "galdra konu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "láta lifa"
+    }
+  ],
+  "timestamp": "2026-10-19T07:25:30.973936025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בראשכם",
+      "rationale": "Hebreskt myndmál 'á höfði yðar' = gjörðin hverfir aftur yfir gerandann; geymt bókstaflega."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכרתם ... השבתי",
+      "rationale": "Söluþjófarunum er endurgoldið með sömu sölu — andstæða sölunnar og endurgjaldsins."
+    }
+  ],
+  "translation": "Sjá, ég vek þá upp af þeim stað sem þér selduð þá ⟨את⟩ þangað, og ég mun endurgjalda yðar gjörð á höfði yðar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b107c57d1e633adaa6c4b3d7aa35584fa5aa12ffa34b8d326361becda6a8ba54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/4\/5-8.1792408318535.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Sjá, ég"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "vek þá upp"
+    },
+    {
+      "surface": "מן",
+      "gloss": "af"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "staðnum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "selduð þér"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "þangað"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "og ég mun endurgjalda"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "yðar gjörð"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "á höfði yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:58.536190283Z",
+  "model": "glm-5.3"
+}

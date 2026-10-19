@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "Rótin merkir 'löstun\/þorsti' (YLt 'a desire of strong drink', BSB 'to crave'); LXX og JPS lesa 'hvar er?' (איה) — það er þekkt mótbók"
+    },
+    {
+      "kind": "hapax",
+      "subject": "או",
+      "rationale": "Orðið lesið sem 'löngun' aðeins hér í Tanakh; annars er það tengingin 'eða'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל למלכים",
+      "rationale": "Endurtekningin 'ekki fyrir konunga' í krossbróður nafninu Lemuel (למואל) í miðjunni"
+    }
+  ],
+  "translation": "Ekki fyrir konunga, Lemuel, ekki fyrir konunga að drekka vín, né fyrir ráðamenn ⟨eyðslu⟩ áfengis.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/31\/1-4.1792411744319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ekki"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "fyrir konunga"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "fyrir konunga"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "að drekka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vín"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "né fyrir ráðamenn"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨eyðslu⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "áfengis"
+    }
+  ],
+  "timestamp": "2026-10-19T12:09:04.320128382Z",
+  "model": "glm-5.3"
+}

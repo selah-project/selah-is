@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "און merkir bæði 'tómleiki' og 'ógn\/vandræði'; 'skelfing' heldur mynd illðátsins en glóar tómleikann."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnfylling 'hann' bætt við — hebreskan hefur enginn liðþega­markara hér."
+    }
+  ],
+  "translation": "Skelfingu hyggst hann á rúmi sínu, stillir sér á veg sem ekki er góður, illu hafnar hann ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3974f2fe32fd51618047ae2396e57696fcce2851acb852e3956037b9ac203b8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/36\/5-8.1792409621437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "skelfingu"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hyggst"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "rúmi sínu"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "stillir sér"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "veg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "er góður"
+    },
+    {
+      "surface": "רע",
+      "gloss": "illu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "hafnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:41.438140303Z",
+  "model": "glm-5.3"
+}

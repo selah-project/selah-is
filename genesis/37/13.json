@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 37:13",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf spurnarsetningu með „Eru“, hebreskan hefur aðeins höfnunarorðið הלוא"
+    },
+    {
+      "kind": "you",
+      "subject": "to Joseph",
+      "rationale": "Ísrael talar beint til Jósefs með skipun og spurningu"
+    }
+  ],
+  "translation": "Og Ísrael sagði við Jósef: Eru ekki bræður þínir að gæta hjardar í Sjekem? Far þangað, og ég mun senda þig til þeirra. En hann sagði honum: Hér er ég.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "406fbb212c15fff66266e76e2246bb5c8b3e0968b21638c550452e4834fb6363",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/37\/13-16.1792393557744.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bræður þínir"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "að gæta hjardar"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "í Sjekem"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Far þangað"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "og ég mun senda þig"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "til þeirra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hann sagði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hér er ég"
+    }
+  ],
+  "timestamp": "2026-10-19T07:05:57.745422085Z",
+  "model": "glm-5.3"
+}

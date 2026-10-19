@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "בער er 'nautgaldr' — dýrasleg heimskuleika; 'djarfi' heldur myndinni um tvískinnung en 'dýraskur' væri of bókstæfur"
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "ASV les 'יראה' með ósýnilegu andlýsingarorði ('hann sér það'); lesið hér sem 'hann sér að…' eins og JPS"
+    }
+  ],
+  "translation": "Því að hann sér ⟨að⟩ vitrir menn deyja; saman fara heimskinginn og djarfi, og yfirgefa auð sinn öðrum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/49\/9-12.1792409804365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sér"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "vitrir menn"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "deyja"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saman"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "heimskinginn"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "og djarfi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "fara"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "og yfirgefa"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "auð sinn"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:44.366446336Z",
+  "model": "glm-5.3"
+}

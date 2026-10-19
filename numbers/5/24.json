@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרים\/המאררים\/למרים",
+      "rationale": "Þrefaldur leikur á rót mar (beittur): beitta vatnið, það sem bölvuðu, til beiskju — tapast að hluta til á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המאררים",
+      "rationale": "Sagaþátturinn (participium af arar, bölvunin sjálf) settur fram sem kverni 'er bölvar'; KJV: 'that causeth the curse'"
+    },
+    {
+      "kind": "crux",
+      "subject": "למרים",
+      "rationale": "Til beiskju (afleiðing) eða 'sem beitt eitur' (tilgangur) — þýðendum skiptur máli"
+    }
+  ],
+  "translation": "Og hann mun láta konuna drekka ⟨את⟩ ⟨את⟩ hið beittu vatn bölvunarinnar, og vatnið er bölvar mun koma inn í hana til beiskju.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "47f7a9829bf89074f2fce594c0362857828ec3bc91c08bc5d967e985bb24a789",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/5\/24-24.1792416348822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "mun hann láta drekka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konuna"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "konuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hið beittu vatn"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vatn"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "hið beittu"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "bölvunarinnar"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "og mun koma inn"
+    },
+    {
+      "surface": "בה",
+      "gloss": "í hana"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vatnið"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "er bölvar"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "til beiskju"
+    }
+  ],
+  "timestamp": "2026-10-19T13:25:48.823235239Z",
+  "model": "glm-5.3"
+}

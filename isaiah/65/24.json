@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "frumlag bætt við — íslenskan þarf frumlag fyrir 'verður', hebreskan hefur hann í sögninni sjálfri"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואני…ואני",
+      "rationale": "tvítekið 'og ég' myndar samhverfa andstöðu milli Guðs sem svarar og fólks sem talar — áherslan glatarst að hluta"
+    }
+  ],
+  "translation": "Og ⟨það⟩ verður, áður en þeir kalla, mun ég svara; ennfremur, meðan þeir tala, mun ég heyra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "578420fffc6089f267425b5bfce70af2733c9d7132c0d4690945e0838dcb9dd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/65\/21-24.1792405119178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og verður"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "þeir kalla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "mun ég svara"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ennfremur"
+    },
+    {
+      "surface": "הם",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "tala"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "og ég"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "mun ég heyra"
+    }
+  ],
+  "timestamp": "2026-10-19T10:18:39.180116867Z",
+  "model": "glm-5.3"
+}

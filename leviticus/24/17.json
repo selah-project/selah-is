@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כל נפש אדם",
+      "rationale": "\"all sál manns\" — כל fellur í Íslenskri orðröð saman með samsetningu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "néfesh er lífskraftur\/andi, ekki sál í ósaknaðri merkingu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "infinitivus absolutus — endurtekning sömu rótar, \"dauða skal hann deyja\""
+    }
+  ],
+  "translation": "Og maður ⟨er⟩ ðeyrir ⟨את⟩ mannssálina, farinn með dauða skal hann deyja.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/24\/17-20.1792396107831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Og maður"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ðeyrir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manns-"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "-sálina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sál manns"
+    },
+    {
+      "surface": "מות",
+      "gloss": "farinn með dauða"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "skal hann deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T07:48:27.832440311Z",
+  "model": "glm-5.3"
+}

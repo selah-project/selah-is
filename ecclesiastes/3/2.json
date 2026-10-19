@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "félagsorðið 'það' bætt við fyrir 'נטוע' — hebreskan segir aðeins 'rífa upp plantað'"
+    }
+  ],
+  "translation": "Stund að fæðast, og stund að deyja; stund að planta, og stund að rífa upp ⟨það⟩ sem plantað er.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/3\/1-4.1792412966942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "stund"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "að fæðast"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og stund"
+    },
+    {
+      "surface": "למות",
+      "gloss": "að deyja"
+    },
+    {
+      "surface": "עת",
+      "gloss": "stund"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "að planta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "og stund"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "að rífa upp"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "sem plantað er"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:26.943371694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "H854 „með“, ekki merki beins hlutar — en ritað eins og ⟨את⟩ samkvæmt reglunni; gætu lesendur ruglast."
+    },
+    {
+      "kind": "you",
+      "subject": "spurning konungsins",
+      "rationale": "Beint til Avsjaloms: „Hví skyldi hann fara með þér?“"
+    }
+  ],
+  "translation": "Og Avsjalom sagði: Og ef ekki, þá fari ⟨nú⟩ Amnon, bróðir minn, með ⟨את⟩ oss. Og konungurinn sagði honum: Hví skyldi hann fara með þér?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/13\/25-28.1792401400704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Og ef ekki"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "fari"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "með ⟨את⟩ oss",
+      "marks": "oss"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bróðir minn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungurinn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "skyldi hann fara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "með þér"
+    }
+  ],
+  "timestamp": "2026-10-19T09:16:40.705280434Z",
+  "model": "glm-5.3"
+}

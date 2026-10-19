@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 42:9",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "להפיל תחנה er ljóst myndmál — ‚að fella bænina' — íslenska ‚bera bæn' myndi gleyma sagninni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fyrir andliti hans",
+      "rationale": "לפניו er ‚áfram frá andliti\/ásjá hans' — andlitið heldur myndinni."
+    }
+  ],
+  "translation": "Og hann sagði við þá: Svá segir Jahve, Elóhím Ísraels, sem þið senduð ⟨את⟩ mig til hans, til að fella bæn ykkar fyrir andliti hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "66c4f1e94a01e0eee81ea336f12009d61544a49eaa48593b186d42788903ade6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/42\/9-12.1792406483764.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "við þá"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Svá"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "þið senduð"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mig",
+      "marks": "mig"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "til að fella"
+    },
+    {
+      "surface": "תחנתכם",
+      "gloss": "bæn ykkar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "fyrir andliti hans"
+    }
+  ],
+  "timestamp": "2026-10-19T10:41:23.765140958Z",
+  "model": "glm-5.3"
+}

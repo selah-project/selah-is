@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "'fyrir andliti' — hebresk orðasambandið varðveitt, en 'af ótta við' væri eðlilegra íslenska orðalag"
+    },
+    {
+      "kind": "crux",
+      "subject": "טרם",
+      "rationale": "'enn ekki' (lestur KJV\/JPS) vs. 'áður en' — spá Mósje um framtíð eða fullyrti hann um núverandi hartæni"
+    }
+  ],
+  "translation": "En þú og þjónar þínir — ég veit að þið óttist enn ekki fyrir andliti Jahve Elóhím.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "9d9cb39a020eb3639644816e5a1bf636d888db99f0235e15b7c9f8f63d613f7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/9\/29-32.1792394266115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En þú"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "og þjónar þínir"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ég veit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "enn ekki"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "þið óttist"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "fyrir andliti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    }
+  ],
+  "timestamp": "2026-10-19T07:17:46.116352933Z",
+  "model": "glm-5.3"
+}

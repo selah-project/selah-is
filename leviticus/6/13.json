@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið mælir minkhuna: tíundi hluti efa, helmingur að morgni, helmingur um kveldið."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה haft óþýtt sem minkha — kornfórn prestsins, ekki gjöf eða skattur."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרבן\/יקריבו",
+      "rationale": "Sama rót qarav í 'fórnargjöf' og 'færa' — það sem er fært nær — tapast að hluta á íslensku."
+    }
+  ],
+  "translation": "Þetta er fórnargjöf Aharonar og sona hans, er þeir færa Jahve á degi er ⟨את⟩ hann er smurður: tíundi hluti efa af söxulmjöli, minkha ævarandi; helmingur hennar að morgni og helmingur hennar um kveldið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/6\/13-16.1792395544767.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "fórnargjöf"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonar"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "og sona hans"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "þeir færa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "smurður"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hann"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "tíundi hluti"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "söxulmjöli"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ævarandi"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "helmingur hennar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "að morgni"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "og helmingur hennar"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "um kveldið"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:04.767843825Z",
+  "model": "glm-5.3"
+}

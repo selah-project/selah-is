@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Skipting tveggja fullyrðinga krefst verbu 'er' sem hebreskan heldur óskilgreindri sambindingu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארצח",
+      "rationale": "Níðfall í frumtöku (einnig lesið: 'er ég veginn'); 'myrtur' heldur merkingu רצח (manndráp)."
+    }
+  ],
+  "translation": "Hinn latumaðurinn segir: Ljón er úti, í miðri torgunum verð ég myrtur.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/22\/13-16.1792411530042.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "segir"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "latumaðurinn"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ljón"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "úti"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðri"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "torgunum"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "verð ég myrtur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:30.043144257Z",
+  "model": "glm-5.3"
+}

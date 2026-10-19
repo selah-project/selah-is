@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 21:7",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Orðrétt „að munni sverðs“ — íðulega þýtt „egg sverðsins“; myndin af munninum er varðveitt hér."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er loft og lífskraftur, ekki ódauðleg sála; „leita sálar þeirra“ stendur fyrir „ætla þeim bana“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחוס\/יחמל\/ירחם",
+      "rationale": "Þrjú neitunarnöfn í röð um miskunn — stígreðinn einnig í hebresku."
+    }
+  ],
+  "translation": "Og eftir þetta, segir Jahve, gef ég ⟨את⟩ Tsidkíjahu konung Júda og ⟨את⟩ þjóna hans og ⟨את⟩ fólkið og ⟨את⟩ þá sem eftir eru í þessari borg, frá plágunni, frá sverðinu og frá hungursneyðinni, í hendi Nevúkhadretsar konungs Bavel og í hendi óvina þeirra og í hendi þeirra sem leita sálar þeirra; og hann mun slá þá að munni sverðs — hann mun ei sýna þeim miskunn og ei þyrma og ei aumast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/21\/5-8.1792405828831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Og eftir"
+    },
+    {
+      "surface": "כן",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "gef ég"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkíjahu konung Júda"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkíjahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konung"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "þjóna hans"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "þjóna hans"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "fólkið"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "þá sem eftir eru"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "þá sem eftir eru"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borg"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "plágunni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "frá"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sverðinu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "og frá"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hungursneyðinni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hendi"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevúkhadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og í hendi"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "óvina þeirra"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "og í hendi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "þeirra sem leita"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sálar þeirra"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "og hann mun slá þá"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "að munni"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverðs"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יחוס",
+      "gloss": "mun sýna þeim miskunn"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ei"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "þyrma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ei"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "aumast"
+    }
+  ],
+  "timestamp": "2026-10-19T10:30:28.832459553Z",
+  "model": "glm-5.3"
+}

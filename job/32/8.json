@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח er ritað eftir hljóði — eitt orð, þrennt: Andi, vindur, andardráttur; ekki 'andi' einn."
+    },
+    {
+      "kind": "crux",
+      "subject": "תבינם",
+      "rationale": "Kvenkyns sagnbeyging með fleirtölufornöfni 'þeim' — hvort 'rúakh' eða 'nardráttur Sjaddaí' er frumlag er ekki ljóst."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רוח\/נשמת",
+      "rationale": "Tvö andar-orð í samstillingu — rúakh og neshama — spegla tvö sérlög Anda í manninum."
+    }
+  ],
+  "translation": "En þó — rúakh er í manninum, og andardráttur Sjaddaí gefur þeim skilning.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1d1705853fb0f863e2d13261d331502655f8bcb5af8089895cb8c245216a5636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/32\/5-8.1792412343867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "En þó"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨er⟩"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "í manninum"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "og andardráttur"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddaí"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "gefur þeim skilning"
+    }
+  ],
+  "timestamp": "2026-10-19T12:19:03.868764641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 10:17",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן חורים",
+      "rationale": "'sonur fyrirmenna' vs 'frjáls sonur' (JPS) — חור merkir bæði aðalsmaður og frjáls borinn maður."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשריך",
+      "rationale": "Gegn v. 16 'ójái land' — 'sælt ert þú, land' er beint andstætt mótvindi, endurtekin eftirmynd."
+    }
+  ],
+  "translation": "Sælt ert þú, land, þegar konungur þinn er sonur fyrirmenna, og höfðingjar þínir eta á réttum tíma, til styrkjar og ekki til drukkennsku.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "510d1b5a5965459d421e5beff915568cc05404588309d42af1135f50e2becaff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/10\/17-20.1792413065652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשריך",
+      "gloss": "Sælt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "konungur þinn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonur"
+    },
+    {
+      "surface": "חורים",
+      "gloss": "fyrirmanna"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "og höfðingjar þínir"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "á réttum tíma"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "eta"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "til styrkjar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "til drukkennsku"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:05.652896268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 23:7",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "„Svo lifi Jahve“ — hebresk eiðsformúla, bókstaflega „lifandi er Jahve“"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "„Svo“ bætt við til að gera eiðsformúluna skiljanlega á íslensku"
+    }
+  ],
+  "translation": "Þess vegna sjá, dagar koma, segir Jahve, og þeir munu ekki segja lengur: Svo lifi Jahve, er létti ⟨את⟩ sonum Ísraels upp úr landi Mitsrajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/23\/5-8.1792405891644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Þess vegna"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sjá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "koma"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "þeir munu segja"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lengur"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Svo lifi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "létti upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonum Ísraels"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    }
+  ],
+  "timestamp": "2026-10-19T10:31:31.645629737Z",
+  "model": "glm-5.3"
+}

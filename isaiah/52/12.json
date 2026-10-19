@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 52:12",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "SamhengisOrð „⟨er⟩“ bætt við — hebreska sögnin er þátttaking í smærð, ekki sérstök flytilsögn."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומאספכם",
+      "rationale": "„sá sem safnar yður“ (bakvörður, siglandi) — KJV „rereward“, YLT „gathering you“; hvorttveggja mögulegt úr rót אסף."
+    }
+  ],
+  "translation": "Því að ekki í flýtibráð munuð þér fara út og ekki í flótta munuð þér ganga, því að Jahve gengur fyrir yður, og sá sem safnar yður ⟨er⟩ Elóhím Ísraels.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "00dad7920c64788357726b96b0ebb8546103fc0f627a78c91c0892c15402a706",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/52\/9-12.1792404821668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "í flýtibráð"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "munuð þér fara út"
+    },
+    {
+      "surface": "ובמנוסה",
+      "gloss": "og í flótta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "munuð þér ganga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "fyrir yður"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומאספכם",
+      "gloss": "og sá sem safnar yður"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    }
+  ],
+  "timestamp": "2026-10-19T10:13:41.670049646Z",
+  "model": "glm-5.3"
+}

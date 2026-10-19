@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sextán þúsund og fimm hundruð",
+      "rationale": "Mannatal kynkvíslar Rúbenar, 46.500."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnarfersla og形成 'voru' bætt við; hebreskan segir aðeins 'talnir þeirra … sextán þúsund'."
+    }
+  ],
+  "translation": "Þeir sem taldir voru, fyrir kynkvísl Rúbenar, voru sextán þúsund og fimm hundruð.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ccd59394e672eddb47fe23a0c8b31bc99ea2818c754a57d9682b7e903b9b2bcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/1\/21-24.1792396321974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "þeir sem taldir voru"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "fyrir kynkvísl"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúbenar"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "sextán"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "og fjörutíu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "þúsund"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "og fimm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    }
+  ],
+  "timestamp": "2026-10-19T07:52:01.975564305Z",
+  "model": "glm-5.3"
+}

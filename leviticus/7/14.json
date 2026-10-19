@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תרומה er 'upphafshæfingargjöf' — hér einfaldlega 'gjöf'; sumar þýðingar gera 'hefjargjöf' (heave offering)"
+    },
+    {
+      "kind": "crux",
+      "subject": "eitt af hverjum",
+      "rationale": "מכל קרבן: kjv\/ylt 'eitt af öllu fórnargjafarinnar' vs asv\/jps 'eitt af hverri gjöf' — hebreskan leyfir bæði"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "לו יהיה er ósniðin setning 'honum skal það vera' — endursögð sem 'henni skal falla'"
+    }
+  ],
+  "translation": "Og af því skal hann færa fram eitt af hverjum fórnargjöf, gjöf til Jahve; henni skal falla séranum sem stökkvar ⟨את⟩ blóði heillarfórnanna.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/7\/13-16.1792395494640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Og skal hann færa fram"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "af því"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eitt"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "af hverjum"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "fórnargjöf"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "gjöf"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "til Jahve"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "séranum"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "sem stökkvar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "blóði"
+    },
+    {
+      "surface": "דם",
+      "gloss": "blóði"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "heillarfórnanna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "henni skal falla"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨skal⟩"
+    }
+  ],
+  "timestamp": "2026-10-19T07:38:14.641327856Z",
+  "model": "glm-5.3"
+}

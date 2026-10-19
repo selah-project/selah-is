@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 9:6",
+  "book": "job",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עמודיה",
+      "rationale": "'Súlur hennar' — fornt myndmál um jarðgrunninn sem stoðir hafs; ekki smækkað í 'grundvöll'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתפלצון",
+      "rationale": "Aukinn ending (-ון) og hljóðmynd orðsins leggur titring í orðið sjálft; 'skjálfa' glatar hljóðinu."
+    }
+  ],
+  "translation": "sá sem ryður jörðinni úr stað hennar, og súlur hennar skjálfa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/9\/5-8.1792411892489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המרגיז",
+      "gloss": "sá sem ryður"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðinni"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "úr stað hennar"
+    },
+    {
+      "surface": "ועמודיה",
+      "gloss": "og súlur hennar"
+    },
+    {
+      "surface": "יתפלצון",
+      "gloss": "skjálfa"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:32.489997497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "sagnliðir 'er' bætt við — hebreskan sleppir sagnlið í nominalsetningu"
+    },
+    {
+      "kind": "you",
+      "subject": "Davíð til Jahve",
+      "rationale": "lofgjörð beint til Jahve"
+    }
+  ],
+  "translation": "Jahve, enginn er eins og þú, og enginn Elóhím er nema þú, í öllu því sem við höfðum heyrt með eyrum vorum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/17\/17-20.1792414907442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn er"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "eins og þú"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og enginn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "er nema þú"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "í öllu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "því sem"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "við höfðum heyrt"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "með eyrum vorum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:01:47.444159729Z",
+  "model": "glm-5.3"
+}

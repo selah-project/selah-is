@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חֶסֶד er ritað eftir hljóði samkvæmt reglu D2 — miskunn ein er of þrengt"
+    }
+  ],
+  "translation": "Því sem himnarnir eru háir yfir jörðinni, þá ríkir khesed hans yfir þeim sem óttast hann.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/103\/9-12.1792410504365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því sem"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "háir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "himnarnir"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðina"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ríkir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "khesed hans"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "þeim sem óttast hann"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:24.366703312Z",
+  "model": "glm-5.3"
+}

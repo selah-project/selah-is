@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש er nær ‹ómæði\/lífskrafti‹ en ‹sál‹ í klassískri skilningu"
+    },
+    {
+      "kind": "you",
+      "subject": "til Ísraels",
+      "rationale": "beint ávarp við söfnuðinn á fundi Jósúu"
+    }
+  ],
+  "translation": "Og gætið yðar mjög, fyrir sálir yðar, að elska ⟨את⟩ Jahve, Elóhím yðar.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "4628bf1cd59fd95085db3b7694fe203bc8f2ae5d7dd511dffc7cafa158a86e20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/23\/9-12.1792399391803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "gætið"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mjög"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "fyrir sálir yðar"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "að elska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, Elóhím yðar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elóhím yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:43:11.804791771Z",
+  "model": "glm-5.3"
+}

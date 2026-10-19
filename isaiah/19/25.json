@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska orðið אשר er þýtt sem 'því að'; Íslenksa þarf samband til að tengja við fyrri vers"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברכו\/ברוך",
+      "rationale": "Sama rót ברך endurtekin — ' blessaði' og 'blessaður' — klifrun sem vekur athygli á þríþætta blessun"
+    }
+  ],
+  "translation": "Því að Jahve Tsevaót hefur blessed það, og segir: Blessað sé Mitsrajím, fólk mitt, og Assúr, verk handa minna, og Ísrael, arfleifð mín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9a4d499442ab2930a8af8ae96135fa91a6c719c5b2eac5c448d62058fd12e915",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/19\/25-25.1792403949133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "því að"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "hefur blessað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "og segir"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "blessað sé"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólk mitt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "og verk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "handa minna"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assúr"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "og arfleifð mín"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    }
+  ],
+  "timestamp": "2026-10-19T09:59:09.134122828Z",
+  "model": "glm-5.3"
+}

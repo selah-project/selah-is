@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 11:5",
+  "book": "zechariah",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קניהן",
+      "rationale": "'kaupendur þeirra' (JPS, YLT) á móti 'eigendur' (KJV, ASV) — rótin קנה getur merkt bæði að kaupa og að eignast."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואעשר",
+      "rationale": "Rótin עשר II ('verða ríkur') er nálægt 'Asur' (Assýríu) í hljðði — sumir lesa þarna líkt orð.\nEinnig áttir orð í sama versi, rótin er 'auðgjast', en sumir lesa tvíræðni með Assur."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשר \/ אשר",
+      "rationale": "'ég verð ríkur' hljómar næstum eins og Assýría (אשור) — þögul tvíræðni sem glatast á íslensku."
+    }
+  ],
+  "translation": "Þeir sem eignast þær drepa þær og teljast ekki saknir, og þeir sem selja þær segja: Lofsamið sé Jahve, og ég verð ríkur; en hirðir þeirra sýna þeim enga miskunn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/zechariah\/11\/5-8.1792409141503.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "þeir sem"
+    },
+    {
+      "surface": "קניהן",
+      "gloss": "eignast þær"
+    },
+    {
+      "surface": "יהרגן",
+      "gloss": "drepa þær"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "teljast saknir"
+    },
+    {
+      "surface": "ומכריהן",
+      "gloss": "og þeir sem selja þær"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "segja"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Lofsamið sé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואעשר",
+      "gloss": "og ég verð ríkur"
+    },
+    {
+      "surface": "ורעיהם",
+      "gloss": "en hirðir þeirra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "sýna miskunn"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "yfir þær"
+    }
+  ],
+  "timestamp": "2026-10-19T11:25:41.503899477Z",
+  "model": "glm-5.3"
+}

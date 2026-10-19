@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "viðir",
+      "rationale": "ערבים er víðiteinar til vefna — 'viðir' er nákvæmasta íslenska orðið, engin deila"
+    },
+    {
+      "kind": "alternative",
+      "subject": "í miðju þeirra",
+      "rationale": "בתוכה er kvk. et. 'í miðju hennar' — áréttar ám Babel (vk. fleirt. í íslensku), ekki víðjarnar"
+    }
+  ],
+  "translation": "Á viðjum í miðju þeirra héngum við hörpur okkar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/137\/1-4.1792410986914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Á"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "viðjum"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "í miðju þeirra"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "héngum við"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "hörpur okkar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:26.915297965Z",
+  "model": "glm-5.3"
+}

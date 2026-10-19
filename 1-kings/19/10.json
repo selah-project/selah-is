@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קנא קנאתי",
+      "rationale": "Infiniteivus absolutus: sögn tvítekin til áherslu, 'ákafast hef ég ákafast', eytt í einfalda íslenskri málasamstöðu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lífi mínu",
+      "rationale": "נפש er lífskraftur\/önd, ekki 'sál' í abstraktum skilningi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Elíjahú segir 'sáttmálann þinn'",
+      "rationale": "Elía talar við Jahve en kallar sáttmálann 'þinn' — skýnt sem að Elía talar nú um höfunda sáttmálans sjálfs"
+    }
+  ],
+  "translation": "Og hann sagði: Af ákafa hef ég ákafast fyrir Jahve, Elóhím Tsevaót, því að synir Ísraels hafa yfirgefið sáttmálann þinn — ⟨את⟩ altarin þín hafa þeir rifið niður, og ⟨את⟩ spámenn þína hafa þeir drepð með sverði, og ég varð eftir, ég einn, og þeir leituðu að ⟨את⟩ lífi mínu til að taka það.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "66be424d0aaf562f1d9b295ea91326dc9473343133ffd5d58af94cabf5c6bae9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/19\/9-12.1792402639093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og hann sagði"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "af ákafa"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "hef ég ákafast"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "fyrir Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaót"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hafa yfirgefið"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "sáttmálann þinn"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarin þín"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "altarin þín"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "hafa þeir rifið niður"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "spámenn þína"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "spámenn þína"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "hafa þeir drepð"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "með sverði"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "og ég varð eftir"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "einn"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "og þeir leituðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lífi mínu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "lífi mínu"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "til að taka það"
+    }
+  ],
+  "timestamp": "2026-10-19T09:37:19.094731002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסדי",
+      "rationale": "'khesed mitt' — hvort Jahve sé kallaður 'kærlighet minn' (eignarfall um Guð, eins og KJV 'my goodness') eða 'khesed' sem nafn hans"
+    },
+    {
+      "kind": "substitution",
+      "subject": "vígi",
+      "rationale": "ומצודתי merkir bæði 'net' og 'vígkastala' — hér 'vígi' um Jahve, ekki net"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnirnar 'er' og 'treysti' þarf íslenskan til að mynda setningu úr nafnaröð hebreskunnar"
+    }
+  ],
+  "translation": "khesed mitt og vígi mitt, hátt skjól mitt og frelsari minn, skjöldur minn — í honum treysti ég, sá sem leggur fólkið mitt undir mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/144\/1-4.1792411038771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "khesed mitt"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "og vígi mitt"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "hátt skjól mitt"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "og frelsari minn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "skjöldur minn"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "og í honum"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "treysti ég"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "sá sem leggur undir"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "fólkið mitt"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "undir mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:18.772106149Z",
+  "model": "glm-5.3"
+}

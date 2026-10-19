@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 45:24",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לי אמר",
+      "rationale": "endursögn klofin: 'er sagt um mig' (JPS, ASV) á móti 'mun hver segja: í Jahve er mitt' (KJV, YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנחרים",
+      "rationale": "'þeir sem glóa\/brenna (af reiði)' — mynd brennandi reiðis sett fram með 'brenna gegn'"
+    }
+  ],
+  "translation": "Einungis í Jahve — svo er sagt um mig — eru tsedekót og afl; til hans munu allir þeir koma sem brenna gegn honum, og þeir munu skammast sín.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "d8abf4e963898c70c2c03225f104d787dae45d16d992388ac19f7f3aefe7fc9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/45\/21-24.1792404763999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Einungis"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "í Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "um mig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "er sagt"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedekót"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "og afl"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "munu koma"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "og munu skammast sín"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "הנחרים",
+      "gloss": "þeir sem brenna gegn"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:12:44.000736422Z",
+  "model": "glm-5.3"
+}

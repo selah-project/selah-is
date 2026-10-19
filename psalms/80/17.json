@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מגערת er sterkara orð en 'áminning' — gjörm eða ár; 'ár' held sterkleikanum"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "andlit þitt — vísað til Jahve í öðrum persónu"
+    }
+  ],
+  "translation": "Brennd í eldi, niðurhöggfin — vegna árar andlits þíns munu þeir farast.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/80\/17-20.1792410297919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "Brennd"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eldi"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "niðurhöggfin"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "vegna árar"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "andlits þíns"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "munu þeir farast"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:57.920430263Z",
+  "model": "glm-5.3"
+}

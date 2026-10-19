@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "גבלת er sjaldgæft orð — 'fjölgað keðjuvirkni' — skýrt misjafnt: 'keðjur í endunum' (KJ) á móti 'fléttaðar' (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "חושן skýrt sem 'brjóstskjöldur'; orðið sjálft er kannski 'veski' eða 'gnægtir'."
+    }
+  ],
+  "translation": "Og þeir gerðu á brjóstskjöldinn keðjur, fléttað vefnað, gerðar úr þvingum, af hreinu gulli.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "a3672582ae955081ebcf92542904b3f54d86e20403d56a8e46f5209a8ac6b20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/39\/13-16.1792395267861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Og þeir gerðu"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "brjóstskjöldinn"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "keðjur"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "fléttað vefnað"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "gerðar"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "úr þvingum"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gulli"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hreinu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:34:27.862371471Z",
+  "model": "glm-5.3"
+}

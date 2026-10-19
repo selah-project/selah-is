@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hann' bætt við fyrir framan 'skapaði' í öðri og þriðju málsgrein — hebreskan hefur ekki fornafnið."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברא",
+      "rationale": "Sögnin בראא endurtekin þrisvar — stígandi í málsgreinum verssins."
+    }
+  ],
+  "translation": "Og Elóhím skapaði ⟨את⟩ manninn í mynd sinni; í mynd Elóhím skapaði hann ⟨את⟩ hann; karlmann og konumann skapaði hann ⟨את⟩ þau.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/1\/25-28.1792392564253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Og skapaði"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manninn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manninn"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "í mynd sinni"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "í mynd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapaði"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hann",
+      "marks": "hann"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "karlmann"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "og konumann"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skapaði"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þau",
+      "marks": "þau"
+    }
+  ],
+  "timestamp": "2026-10-19T06:49:24.260506290Z",
+  "model": "glm-5.3"
+}

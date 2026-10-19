@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משכן haft sem heitið Misjkan, ekki 'tjaldbúð', samkvæmt D2"
+    }
+  ],
+  "translation": "Og Mósje tók ⟨את⟩ smurningarolíunni og smurði ⟨את⟩ Misjkaninn og ⟨את⟩ allt það sem í honum er, og hann helgaði ⟨את⟩ þau.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/8\/9-12.1792395599794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mósje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smurningarolíunni"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olíu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "smurningar-"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "og smurði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misjkaninn"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkaninn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allt"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "בו",
+      "gloss": "er í honum"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "og hann helgaði"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þau"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:59.795771899Z",
+  "model": "glm-5.3"
+}

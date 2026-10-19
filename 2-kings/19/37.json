@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 19:37",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Hebreska segir ekki 'sonir hans' um Adrammelek og Sjaréser — orðið 'sonir' er í Tólf konunga 19:37 samhliða texta en ekki hér"
+    },
+    {
+      "kind": "crux",
+      "subject": "אררט",
+      "rationale": "Ararat eða Armenía — KJA segir Armenia, hebreskan segir Ararat"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסרך",
+      "rationale": "Nísrók, nafn goðsins, kemur aðeins fyrir hér í Tanakh"
+    }
+  ],
+  "translation": "Og það gerðist, er hann var að falla fram fyrir í húsi Nísrók, guði sínum, að Adrammelek og Sjaréser highjöguðu hann með sverði, og þeir flýðu í land Ararat, og Eser-Haddon, sonur hans, tók ríki í stað hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "ec789943a4c1a9614545531906243b90e65409af09348ca55838442e759a642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/19\/37-37.1792403423582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og það gerðist"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "משתחוה",
+      "gloss": "var að falla fram fyrir"
+    },
+    {
+      "surface": "בית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "נסרך",
+      "gloss": "Nísrók"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "guði sínum"
+    },
+    {
+      "surface": "ואדרמלך",
+      "gloss": "Og Adrammelek"
+    },
+    {
+      "surface": "ושראצר",
+      "gloss": "og Sjaréser"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hjöguðu hann"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "með sverði"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "og þeir"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "flýðu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "í land"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararat"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "og tók ríki"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "Eser"
+    },
+    {
+      "surface": "חדן",
+      "gloss": "-Haddon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "í stað hans"
+    }
+  ],
+  "timestamp": "2026-10-19T09:50:23.582968891Z",
+  "model": "glm-5.3"
+}

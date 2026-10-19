@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fefndarforðaMYND תעלים er ópersónuleg; ⟨þér⟩ bætt við til að gera hlutinn ljósan"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בצרה",
+      "rationale": "orðrétt 'þrenging', mynd rýrðar og nauða"
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "versið beinist beint til Jahve í öðru persónufalli"
+    }
+  ],
+  "translation": "Hví stendur þú, Jahve, í fjarlægð, hví leynir þú ⟨þér⟩ á tímum þrenginga?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/10\/1-4.1792409337650.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stendur þú"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "í fjarlægð"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "leynir þú"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "á tímum"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "þrenginga"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:57.651036336Z",
+  "model": "glm-5.3"
+}

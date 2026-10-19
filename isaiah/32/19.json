@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברד\/ברדת og שפלה\/תשפל",
+      "rationale": "tvenn hljóðlíking: hagl\/niðurfall og láglendi\/lækkað — tapast að hluta til á íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "borgin sökkvur",
+      "rationale": "er 'borgin lækkuð í láglendi' fellt niður (ASV) eða 'leið niður í dalinn' (JPS); hebreskan heldur orðmynd śpl í bæði"
+    }
+  ],
+  "translation": "Og hagl, þegar skógurinn hnígr, og í láglendinu sökkvur borgin.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "40a77b9aa53f19b877808e1aeb00c6b1037e72d126b03005ab66cebe2697f674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/32\/17-20.1792404258700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "Og hagl"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "hnígr"
+    },
+    {
+      "surface": "היער",
+      "gloss": "skógurinn"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "og í láglendinu"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "sökkvur"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgin"
+    }
+  ],
+  "timestamp": "2026-10-19T10:04:18.701929764Z",
+  "model": "glm-5.3"
+}

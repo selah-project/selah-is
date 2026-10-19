@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתן בקולו",
+      "rationale": "'gaf í rödd sína' — gefa með rödd, þýtt 'gaf út rödd'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטו\/תמוג",
+      "rationale": "endanutning mótsagnar: konungsríki vikna (מוט) og jörð bráðnar (מוג)"
+    }
+  ],
+  "translation": "Þjóðirnar öskra, konungsríki vikna; ⟨þegar⟩ hann gefur ⟨út⟩ rödd sína, bráðnar jörðin.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/46\/5-8.1792409805622.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "öskra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "vikna"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "konungsríki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "rödd sína"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "bráðnar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "jörðin"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:45.623529264Z",
+  "model": "glm-5.3"
+}

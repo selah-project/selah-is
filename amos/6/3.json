@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שבת = seta\/sessi, rúm eða þingpallur – ekki 'ríki' og ekki 'hvíld' (Sjabbat-nafnið er annað orð)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "Spenna í versinu: ýta deginum burt en draga ofbeldið að – tvær hreyfingar í gagnstæð átt"
+    }
+  ],
+  "translation": "Þeir sem ýta hinum illa degi burt, og leiða sessi ofbeldisins nálægt ⟨sér⟩ –",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2f1e7dd81ee922eded610b0788c5c1779fbddd0c256c6bce444b7413fd3da228",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/amos\/6\/1-4.1792408436423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "Þeir sem ýta burt"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "deginum"
+    },
+    {
+      "surface": "רע",
+      "gloss": "hinum illa"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "og leiða nálægt"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sessi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ofbeldisins"
+    }
+  ],
+  "timestamp": "2026-10-19T11:13:56.424909560Z",
+  "model": "glm-5.3"
+}

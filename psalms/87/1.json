@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "עלמת השיר — á íslensku þarf áttvísi „hans“ (Síonar), hebreskan hefur aðeins öryrðið „grundvöllur hans“"
+    },
+    {
+      "kind": "crux",
+      "subject": "יסודתו",
+      "rationale": "„Grundvöllur hans“ — hvers? Tulkar skiptast: Síonarborgin sjálf eða musterið; KJW „his foundation“, BSB „his city\""
+    }
+  ],
+  "translation": "Sálmur og söngur sona Kórak. Grundvöllur ⟨hans⟩ er í heilögum fjöllum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/87\/1-4.1792410341458.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "sona"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kórak"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sálmur"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "söngur"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "grundvöllur ⟨hans⟩"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "í fjöllum"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilög"
+    }
+  ],
+  "timestamp": "2026-10-19T11:45:41.459196938Z",
+  "model": "glm-5.3"
+}

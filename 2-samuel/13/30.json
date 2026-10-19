@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "þeir voru — hebreskan hefur aðeins áherslufornafnið המה, sagnir og lýsingarorð bætast við á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tíðindin",
+      "rationale": "השמעה er „það sem heyrist, fréttin“ — kvenkyns nafnorð myndað af שמע, „heyra“"
+    }
+  ],
+  "translation": "Og meðan þeir voru á vegi kom tíðindin til Davíð, ⟨með því að segja⟩: Avsjalóm hefur slegið ⟨את⟩ alla sonu konungsins, og ekkert eitt er eftir af þeim.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/13\/29-32.1792401429594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "á vegi"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "kom tíðindin"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨með því að segja⟩"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "hefur slegið"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avsjalóm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alla sonu konungsins"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sonu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "er eftir"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "af þeim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eitt"
+    }
+  ],
+  "timestamp": "2026-10-19T09:17:09.595301063Z",
+  "model": "glm-5.3"
+}

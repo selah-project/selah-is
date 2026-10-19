@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 7:9",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska spurningarvirðin ה í upphafi er látin bera spurninguna með 'Á að' á íslensku"
+    },
+    {
+      "kind": "you",
+      "subject": "to Ísrael í musterinu",
+      "rationale": "Jahve spyr lýðinn beint um görfuð þau er hann sér"
+    },
+    {
+      "kind": "substitution",
+      "subject": "elohim acherim",
+      "rationale": "אלהים hér um guði þjóðanna — 'guðum', ekki Elóhím, því 'aðrir' bent á ranglætisguði"
+    }
+  ],
+  "translation": "Á að stela, myrða og drýgja hórúð, og sverjast í lygi, og reykja reykelsi fyrir Baal, og ganga eftir guðum öðrum, sem þér þekkið ekki?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "de524f14ad9416449c63f096373ec9d235c2dea283cffb62435d67b908e03ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/7\/9-12.1792405416482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגנב",
+      "gloss": "Á að stela"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "myrða"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "og drýgja hórúð"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "og sverjast"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "í lygi"
+    },
+    {
+      "surface": "וקטר",
+      "gloss": "og reykja reykelsi"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "fyrir Baal"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "og ganga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "þér þekkið"
+    }
+  ],
+  "timestamp": "2026-10-19T10:23:36.483182804Z",
+  "model": "glm-5.3"
+}

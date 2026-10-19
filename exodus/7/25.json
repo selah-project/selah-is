@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sjö dagar",
+      "rationale": "Ráðstrikandi tíðarfjöldi: sjö dagar milli högganna."
+    },
+    {
+      "kind": "idiom",
+      "subject": "וימלא",
+      "rationale": "„Fylldust“ — á íslensku „dagarnir rann upp“."
+    }
+  ],
+  "translation": "Og sjö dagar rann upp eftir að Jahve hafði slegið ⟨את⟩ ána.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/7\/25-28.1792394344604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "rann upp"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir að"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "hafði slegið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "áninn"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "áninn"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:04.604763821Z",
+  "model": "glm-5.3"
+}

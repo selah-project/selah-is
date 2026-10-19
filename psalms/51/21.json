@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "צדק haldið sem tsedek samkvæmt D2 — 'fórnir tsedek' í stað 'réttlætisfórnir'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תחפץ 'munu fnýsa yður yndi' — sannmerkt form: framtíðarheimild um sæmd fórnanna eftir iðran"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולה\/יעלו",
+      "rationale": "brennifórnin 'gengur upp' (עלה) og sömu rót endurtekst í 'munu bera upp' — stigmynd sem týnist í íslensku"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "versið telur og flokkar fórnategundirnar: sláturfórn, brennifórn, heildarfórn"
+    }
+  ],
+  "translation": "Þá muntu fnýsa yfir sláturfórnir tsedek — brennifórn og heildarfórn; þá munu þeir bera upp nautgripi á altari þínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "eeadf88d2c32473eb4328f14062b9152a2c5e5b0ef54a847ff898d6596f8fd6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/51\/21-21.1792409851075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "muntu fnýsa yfir"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sláturfórnir"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brennifórn"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "og heildarfórn"
+    },
+    {
+      "surface": "אז",
+      "gloss": "þá"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "munu þeir bera upp"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "altari þínu"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "nautgripi"
+    }
+  ],
+  "timestamp": "2026-10-19T11:37:31.076181476Z",
+  "model": "glm-5.3"
+}

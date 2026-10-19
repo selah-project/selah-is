@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 40:14",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "\"Javnaðu: gjör khesed við mig\" — innskot á íslensku til að gera óbeina bónnina skýra; hebreskan segir aðeins \"og þú gjörir nú með mér khesed\"."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Brottfall í upphaflegri orðatiltöku; orðið er vængjamynd við boðhátt og hefur enga samsvarandi íslenska yfirburði — endurheimt sem \"níu\" í leiðréttri útgáfu."
+    },
+    {
+      "kind": "you",
+      "subject": "to the cupbearer",
+      "rationale": "Jósef beinir bæn sinni til drykkjumeistarans: minnist mín, gjör khesed, færir mig út."
+    }
+  ],
+  "translation": "Þess er að vænta að þú minnist mín ⟨את⟩ með þér, þegar þér fer vel, og þú gjöri mér níu — javnaðu: gjör khesed við mig — og minnist mín gagnvart Paróh og færir mig út úr þessu húsi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "39df6fa2df1ffe5b3e1206a49dcb5613fc19ead10ea9e416bc425122b612a1ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/40\/13-16.1792393687460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Þess er að vænta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "að"
+    },
+    {
+      "surface": "זכרתני",
+      "gloss": "þú minnist mín"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ með þér"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "þegar"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "fer vel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og þú gjörir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "níu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesed"
+    },
+    {
+      "surface": "והזכרתני",
+      "gloss": "og minnist mín"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gagnvart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróh"
+    },
+    {
+      "surface": "והוצאתני",
+      "gloss": "og færir mig út"
+    },
+    {
+      "surface": "מן",
+      "gloss": "úr"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:08:07.461029042Z",
+  "model": "glm-5.3"
+}

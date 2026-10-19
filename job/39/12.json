@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 39:12",
+  "book": "job",
+  "lang": "is",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וגרנך",
+      "rationale": "'þreskjuvöllur' er rúm til að þreskja á — 'hlöðu' (KJV 'barn') er ekki í orðinu."
+    },
+    {
+      "kind": "you",
+      "subject": "to Job",
+      "rationale": "Spurningin áfram beint til Jobs."
+    }
+  ],
+  "translation": "Trúir þú honum, að hann muni flytja heim sáðkorn þitt, og safna korni þreskjuvollar þins?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "b5b76b5b81d8d2b096a7d2b06a160bff40d836b6936325fe53518e3aaf8bb93f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/39\/9-12.1792412470654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התאמין",
+      "gloss": "Trúir þú"
+    },
+    {
+      "surface": "בו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "flytja heim"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sáðkorn þitt"
+    },
+    {
+      "surface": "וגרנך",
+      "gloss": "þreskjuvollar þins"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "safna korni"
+    }
+  ],
+  "timestamp": "2026-10-19T12:21:10.655295546Z",
+  "model": "glm-5.3"
+}

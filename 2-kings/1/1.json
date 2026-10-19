@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "פשע er sögn ('brót þegnshollrar'); íslenskan þarf nafnaskýringuna 'gerði upreisn' þar sem engin sögn er til"
+    }
+  ],
+  "translation": "Og Móab gerði uppreisn gegn Ísrael eftir dauða Akhav.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d4da3ecf09d8dbc7bdf118ca2bc3fa1fec0e9896447a31ce38e7567052c5a331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/1\/1-4.1792402836807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "gerði uppreisn"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "gegn Ísrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Akhav"
+    }
+  ],
+  "timestamp": "2026-10-19T09:40:36.808182628Z",
+  "model": "glm-5.3"
+}

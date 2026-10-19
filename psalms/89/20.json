@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khasídum",
+      "rationale": "חסידיך — „khasídum þinnum“, hollvinum þinnum; ekki „heilög“ eða „píslarvottum\""
+    },
+    {
+      "kind": "crux",
+      "subject": "eintala eða fleirtala",
+      "rationale": "לחסידיך getur verið eintala (sá helgi) eða fleirtala (khasídarnir) — KJW „holy one“, ASV „saints\""
+    },
+    {
+      "kind": "mystery",
+      "subject": "sýn",
+      "rationale": "Guð talar í sýn — opinberunarfarsmáttur, hluti af leynilegum uppruna Davíðsvalds"
+    }
+  ],
+  "translation": "Þá talaðir þú í sýn til khasídum þinna og sagðir: Ég hef sett hjálp á hinn máttmikla, ég hef hafið útvalinn mann úr lýðnum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1efec28f885b7bd897d6f0e74718914e24a473b6970ea360972fcb3ff2b9e72d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/17-20.1792410371079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "talaðir þú"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "í sýn"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "til khasídum þinna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og sagðir"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "Ég hef sett"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "hjálp"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hinn máttmikla"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "ég hef hafið"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "útvalinn mann"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "úr lýðnum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:11.080072891Z",
+  "model": "glm-5.3"
+}

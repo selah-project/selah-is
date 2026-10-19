@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מספר",
+      "rationale": "'Tala' — stór eða lítil? KJV\/JPS les 'fáir', YLT les 'verði taldir'; hebreskan segir aðeins 'tala'."
+    },
+    {
+      "kind": "addition",
+      "subject": "fá",
+      "rationale": "Á íslensku þarf viðfang fyrir 'tals'; 'fá' er uppástunga, ekki í hebresku."
+    },
+    {
+      "kind": "you",
+      "subject": "til Rúbens",
+      "rationale": "Bæn ósvipuð um ættkvíslina — ósk í þriðju persónu."
+    }
+  ],
+  "translation": "Lifi Rúben og deyi ekki, og séu menn hans ⟨fá⟩ tals.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/33\/5-8.1792398578314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Lifi"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og ... ekki"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "deyi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "og séu"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "menn hans"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "tals"
+    }
+  ],
+  "timestamp": "2026-10-19T08:29:38.315248274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tómleiki",
+      "rationale": "הבל merkir bókstaflega „andardráttur, gufa“ — það sem hverfur; „tómleiki“ heldur tóminu en missir mynd andardráttarins."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים",
+      "rationale": "Hebreska í сверхативum-forminu „X af X-um“ (sbr. Ljóðaljóð 1:1); endurtekningin fimm sinnum er slagorð bókarinnar."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Hebreskan segir „ allt הבל“ án sögnar; íslenskan krefst sögnarinnar „er“."
+    }
+  ],
+  "translation": "Tómleiki tómleikanna, sagði Kóhelet; tómleiki tómleikanna — allt er tómleiki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/1\/1-4.1792412966682.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Tómleiki"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tómleikanna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kóhelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tómleiki"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "tómleikanna"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tómleiki"
+    }
+  ],
+  "timestamp": "2026-10-19T12:29:26.682816193Z",
+  "model": "glm-5.3"
+}

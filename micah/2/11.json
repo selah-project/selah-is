@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 2:11",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח merkir vind\/andi; ritað eftir hljóði samkvæmt reglu D2, ekki 'andi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מטיף",
+      "rationale": "נטף = að dropa; myndga tunur um að spá — 'dropa' vs. 'spá' (KJV 'prophesy'); sömu rót og אטף að ofan"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אטף\/מטיף",
+      "rationale": "sömynd נטף endurtekin: hann 'dropar' lygina og fólkið fær sinn 'dropara' — endurspeglað með 'dropa' í báðum setningum"
+    }
+  ],
+  "translation": "Ef maður gengur með rúakh og lygi, með lygasögum: Ég mun dropa yfir þig víni og áfengan drykk — þá er hann spámaður þessa fólks!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/2\/9-12.1792408562852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ef"
+    },
+    {
+      "surface": "איש",
+      "gloss": "maður"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gengur"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "með rúakh"
+    },
+    {
+      "surface": "ושקר",
+      "gloss": "og lygi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "með lygasögum"
+    },
+    {
+      "surface": "אטף",
+      "gloss": "mun ég dropa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yfir þig"
+    },
+    {
+      "surface": "ליין",
+      "gloss": "víni"
+    },
+    {
+      "surface": "ולשכר",
+      "gloss": "og áfengan drykk"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "þá er"
+    },
+    {
+      "surface": "מטיף",
+      "gloss": "spámaður"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólks"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessa"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:02.853778700Z",
+  "model": "glm-5.3"
+}

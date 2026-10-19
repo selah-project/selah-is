@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "מוסר er bæði „agi“ og „bót“, „viböð“; „agi“ heldur líkingunni um agaðing"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמנע\/מנער",
+      "rationale": "munnvísi: sömu stafir í „vorkenna“ og „drengi“, týnst á íslensku"
+    }
+  ],
+  "translation": "Eigi skaltu vorkenna drengnum aga, því að þótt þú sláir hann með stang, skal hann eigi deyja.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/23\/13-16.1792411559193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "skaltu vorkenna"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "drengnum"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "aga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að þótt"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "þú sláir hann"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "með stang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal hann deyja"
+    }
+  ],
+  "timestamp": "2026-10-19T12:05:59.194103171Z",
+  "model": "glm-5.3"
+}

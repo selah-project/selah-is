@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hafrarnir",
+      "rationale": "שעירים er bókstaflega 'hafrar' en vísa líklega til hraukamyndum\/seiðis; KJV 'devils', JPS 'satyrs', ASV 'he-goats'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "במות er 'hæðir' (blótstaðir á hæðum), ekki 'hátiðir' — myndin er landleg."
+    }
+  ],
+  "translation": "Og hann skipaði sér prestar fyrir hæðirnar og fyrir hafrana og fyrir kálfa þá, er hann gjörði.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9b97dea88e1073a12d2c8af50f811e8bb0ad0bd8b11c7f2ff9626f34feb09699",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/11\/13-16.1792415380329.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Og hann skipaði"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sér"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "prestar"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "fyrir hæðirnar"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "og fyrir hafrana"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "og fyrir kálfa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hann gjörði"
+    }
+  ],
+  "timestamp": "2026-10-19T13:09:40.330713375Z",
+  "model": "glm-5.3"
+}

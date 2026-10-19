@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to konan í Sjó",
+      "rationale": "Beint ávarp til konunnar sem kom til spámannsins Ahíja."
+    },
+    {
+      "kind": "addition",
+      "subject": "um leið og",
+      "rationale": "Tímasetningin ('um leið og') kemur úr tilverufrásögn 'í komu fótanna' en íslenska þér nafnlið ekki smið."
+    }
+  ],
+  "translation": "En þú rís upp, gakk heim til húss þíns; um leið og fætur þínir koma í borgina, mun barnið deyja.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/14\/9-12.1792402455851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "En þú"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "rís upp"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gakk"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "heim til húss þíns"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "um leið og… koma"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "fætur þínir"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "í borgina"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mun deyja"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "barnið"
+    }
+  ],
+  "timestamp": "2026-10-19T09:34:15.852929316Z",
+  "model": "glm-5.3"
+}

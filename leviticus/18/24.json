@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Ávarp beint til Ísraels í fleirtölu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפניכם",
+      "rationale": "Orðrétt 'frá andlit yðar' — íslenskan tekur ekki andlitið; 'frá yður' gefur merkinguna."
+    }
+  ],
+  "translation": "Óhreinkið yður ekki með öllu þessu, því að með öllu þessu hafa þjóðirnar óhreinkað sig, þær er ég sendi burt frá yður.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/18\/21-24.1792395843107.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "óiðreiðið — Óhreinkið yður"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "með öllu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessu"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "hafa óhreinkað sig"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "þjóðirnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þær er"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "sendi burt"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "frá yður"
+    }
+  ],
+  "timestamp": "2026-10-19T07:44:03.114606598Z",
+  "model": "glm-5.3"
+}

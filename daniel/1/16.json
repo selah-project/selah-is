@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "grænmeti",
+      "rationale": "זרענים er „það sem sáð er“ — ætt hvort tveggja korn og baunir; „grænmeti“ nær ekki öllu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hirðirinn",
+      "rationale": "המלצר er væntanlega persneskt lánaorð um yfirthjón konungs; „hirðir“ er hlutverk, ekki heiti."
+    }
+  ],
+  "translation": "Og varð hirðirinn sá er bar í burtu ⟨את⟩ veislumatinn þeirra og vínið í drykk þeirra og gaf þeim grænmeti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/1\/13-16.1792413299737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og varð"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "hirðirinn"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "bar í burtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veislumatinn þeirra"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "veislumaturinn þeirra"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "og vínið"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "drykkjar þeirra"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "להם",
+      "gloss": "þeim"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "grænmeti"
+    }
+  ],
+  "timestamp": "2026-10-19T12:34:59.738394898Z",
+  "model": "glm-5.3"
+}

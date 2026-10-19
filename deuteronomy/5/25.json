@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 5:25",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "á",
+      "rationale": "íslenska þarf forsetninguna 'á' við 'hlusta'; hebreskan hefur aðeins את sem markar beint hlutstæða"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mun éta okkur",
+      "rationale": "תאכלנו er bókstaflega 'mun éta okkur' — eldurinn 'etur', mynd sem varðveitt er"
+    }
+  ],
+  "translation": "Og nú — hvers vegna eigum við að deyja? Því að þessi mikli eldur mun éta okkur; ef við tökum okkur enn til að hlusta ⟨á⟩ ⟨את⟩ rödd Jahve, Elóhím okkar, þá erum við dánir.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d762a56b61737f74e76d63905a84f0ecd1638d7fe2bead7c661b50d10b77b28c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/5\/25-28.1792397718653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Og nú"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvers vegna"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "eigum við að deyja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mun éta okkur"
+    },
+    {
+      "surface": "האש",
+      "gloss": "eldur"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "þessi mikli"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יספים",
+      "gloss": "tökum okkur enn til"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "við"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "að hlusta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rödd (Jahve, Elóhím okkar)"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rödd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elóhím okkar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "þá erum við dánir"
+    }
+  ],
+  "timestamp": "2026-10-19T08:15:18.653941716Z",
+  "model": "glm-5.3"
+}

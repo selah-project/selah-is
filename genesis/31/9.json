@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "\"hann\" bætt við — hebreskan segir aðeins \"gaf mér\""
+    }
+  ],
+  "translation": "Og Elóhím rændi ⟨את⟩ kvikfénaði föður ykkar og gaf mér hann.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "eb69e9b2806e86929e3beb31210387000f4f132f28383e16a56f071fbf6d74ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/31\/9-12.1792393407338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "rændi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kvikfénaði föður ykkar"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "kvikfénaði"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "föður ykkar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "og gaf"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    }
+  ],
+  "timestamp": "2026-10-19T07:03:27.339406052Z",
+  "model": "glm-5.3"
+}

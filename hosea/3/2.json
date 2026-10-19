@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sikla",
+      "rationale": "Hebreskan segir aðeins 'fimmtán silfurs' — 'siklar' bætt við til að gera mælieininguna skýra (samanber 2. Mós 21:32)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Verð keyptinni talið upp í mælieiningum: siklar, hómer og letek (hálfu hómer)"
+    },
+    {
+      "kind": "crux",
+      "subject": "letek",
+      "rationale": "לתך er hálft hómer; sumir þýðingar (ylt) lesa 'hómer og letek' sem samtala, aðrir sem hálft hómer"
+    }
+  ],
+  "translation": "Og ég keypti hana mér fyrir fimmtán silfur⟨sikla⟩ og eitt hómer byggjar og hálft letek byggjar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cf2763dc68593172b8a4a9d66420a8cb79f2a359b3a5f9405b47909d642d88be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/hosea\/3\/2-3.1792416888557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "og ég keypti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "fyrir fimmtán"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silfur"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "og eitt hómer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "byggjar"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "og hálft letek"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "byggjar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:48.557659786Z",
+  "model": "glm-5.3"
+}

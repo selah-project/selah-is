@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnfyllingin 'voru' er bætt við; hebreskan sleppir henni"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבריחו",
+      "rationale": "'þeir hröktu í burtu' vs. 'þeir flýðu' — rót ברח getur merkt bæði að flýja og að eiga flótta"
+    }
+  ],
+  "translation": "og Bería og Sjema — þeir voru höfðingjar ættfélaga meðal íbúa Ajjalons; þeir hröktu í burtu ⟨את⟩ íbúunum í Gat.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "595d79ef62734dfa2fec266e5f21b8aa9ef0b3750e8286b8f271ed8071427810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/8\/13-16.1792414610626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברעה",
+      "gloss": "og Bería"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "og Sjema"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfðingjar"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ættfélaga"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "meðal íbúa"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajjalons"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "hröktu í burtu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "íbúunum í Gat"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "íbúunum"
+    },
+    {
+      "surface": "גת",
+      "gloss": "í Gat"
+    }
+  ],
+  "timestamp": "2026-10-19T12:56:50.627145298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mun verða",
+      "rationale": "Íslenska þarf hjálpsögn sem hebreskan hefur í והיה en formið er viðkennt."
+    },
+    {
+      "kind": "alternative",
+      "subject": "elskar þig",
+      "rationale": "Framsögnarbrot: orð þrælsins sjálfs ('af því að ég elska þig') eða skýring höfundarins ('af því að hann elskar þig')."
+    }
+  ],
+  "translation": "Og svo mun verða: ef hann segir við þig: Ég vil fara ekki frá þér — af því að hann elskar þig og ⟨את⟩ húsið þitt, af því að honum gengur vel hjá þér —",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "90206ecf89e263a8338873b7dc775a43a41fbcad121ff08945f9201c13a89c5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/15\/13-16.1792397947431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og svo mun verða"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ef"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hann segir"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "við þig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ég vil fara"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "frá þér"
+    },
+    {
+      "surface": "כי",
+      "gloss": "af því að"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "hann elskar þig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "húsið þitt"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "húsið þitt"
+    },
+    {
+      "surface": "כי",
+      "gloss": "af því að"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "gengur vel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hjá þér"
+    }
+  ],
+  "timestamp": "2026-10-19T08:19:07.432230068Z",
+  "model": "glm-5.3"
+}

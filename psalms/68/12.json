@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המבשרות",
+      "rationale": "Feminine plural participle 'the women-heralds' (YLT, ASV, JPS) vs KJV 'company of those that published'; the feminine form is kept."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמר ... המבשרות",
+      "rationale": "The word given becomes the tidings proclaimed — word to heralds echo, loose in Icelandic."
+    }
+  ],
+  "translation": "Adónaí gef orðið; konurnar sem bera fregnina eru her mikill.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "782088c89db3a0c483570a9cffcc90139503190ce52c3d67f26fa4949be80130",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/68\/9-12.1792410042977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gefur"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "orðið"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "konurnar sem bera fregnina"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "her"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mikill"
+    }
+  ],
+  "timestamp": "2026-10-19T11:40:42.978893941Z",
+  "model": "glm-5.3"
+}

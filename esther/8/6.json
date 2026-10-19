@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איככה אוכל",
+      "rationale": "Samstöfubrellan í 'eykhakh ukhal' endurtekn tvisvar — þolinn tapast í íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "komur yfir",
+      "rationale": "ימצא er 'finnur' — ógæfan 'finnur' þjóðina,Persneskur málfar"
+    }
+  ],
+  "translation": "Því að hvernig get ég þolað og séð þá ógæfu sem yfir ⟨את⟩ þjóð mína kemur, og hvernig get ég þolað og séð tortímingu fæðingarlands míns?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "133dd0839d4065e557d272c5b4d3654d7eabc871c7c4fd88cf9411641a2400f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/8\/5-8.1792413367827.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hvernig"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "get ég"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "og séð"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ógæfu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "kemur yfir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þjóð mína"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "þjóð mína"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "og hvernig"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "get ég"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "og séð"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "tortímingu"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "fæðingarlands míns"
+    }
+  ],
+  "timestamp": "2026-10-19T12:36:07.828869850Z",
+  "model": "glm-5.3"
+}

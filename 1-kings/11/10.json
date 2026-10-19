@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "guðum",
+      "rationale": "אלהים אחרים — 'guðir' með litlum staf samkvæmt D1, því að um guði þjóðanna er að ræða"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bannað",
+      "rationale": "צוה merkir 'skipað, bauð' — 'bannað' er valið samkvæmt samhengi neikvæðar skipunar"
+    }
+  ],
+  "translation": "Og hann hafði bannað honum þetta mál, að fara ekki eftir öðrum guðum — en hann varðveitti ekki ⟨את⟩ það er Jahve hafði bannað.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/11\/9-12.1792402325510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "hafði bannað"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "על",
+      "gloss": "um"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "þetta mál"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "að ... ekki"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "fara"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "guðum"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "öðrum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ... ekki"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "varðveitti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "það er Jahve hafði bannað"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "það er"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hafði bannað"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T09:32:05.511804968Z",
+  "model": "glm-5.3"
+}

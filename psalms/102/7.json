@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קאת",
+      "rationale": "קאת kemur aðeins hér fyrir í Tanakh — fugl úr eyðimörk, venjulega skýrð 'pelíkani'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כוס",
+      "rationale": "'Ugla' er þekktasta skýring; orðið er gloppótt og gæti verið önnur náttúruvörn"
+    }
+  ],
+  "translation": "Ég varð gert líkt pelíkana í eyðimörkinni, ég varð eins og ugla í rústunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/102\/5-8.1792410492157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "varð ég gert líkt"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "pelíkana"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "í eyðimörkinni"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "varð ég"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "eins og ugla"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "í rústunum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:48:12.157805808Z",
+  "model": "glm-5.3"
+}

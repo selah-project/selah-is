@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 14:2",
+  "book": "job",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "וימל er orðið um að klippa\/skera af (sama og umsnúning); 'visnar' er túlkun, 'afklipptur' er myndin"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'hann' bætt við — hebreskan á ekki viðfang með sögninni"
+    }
+  ],
+  "translation": "Sem blóm kemur hann fram og er afklipptur, og flýr sem skuggi og stendur ekki.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a47a8fda9bb630af5392215d2db826f0b8631d2316cb3137f7f75ae32bb88ac2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/14\/1-4.1792411999801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כציץ",
+      "gloss": "Sem blóm"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kemur hann fram"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "og er afklipptur"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "og flýr"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "sem skuggi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "stendur"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:19.802702104Z",
+  "model": "glm-5.3"
+}

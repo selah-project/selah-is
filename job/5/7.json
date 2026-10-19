@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני רשף",
+      "rationale": "רשף er glóði\/eldgneist (einnig ættarnafn á gyðingu), 'synir eldgneistanna fljúga hæst' — gamall þýðingarmáli; sumir lesa 'örnarnir heiða flug'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sitt⟩",
+      "rationale": "Íslenskan þarf eignarfornafn við 'flug' þar sem hebreskan segir aðeins עוף."
+    }
+  ],
+  "translation": "Því að manninum er fætt til erfiðis, og synir eldgneista heiða flug ⟨sitt⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/5\/5-8.1792411877013.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "manninum"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "til erfiðis"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "er fætt"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "og synir"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "eldgneista"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "heiða"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "flug"
+    }
+  ],
+  "timestamp": "2026-10-19T12:11:17.014454775Z",
+  "model": "glm-5.3"
+}

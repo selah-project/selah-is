@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lífi sínu",
+      "rationale": "נפש er andardráttur, lífskraftur, ekki 'sál'; 'lífi sínu' heldur myndinni"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וינוסו…וינסו",
+      "rationale": "sama flóttaorðið endurtekið í versinu, eytt í upphafsstöfunum"
+    }
+  ],
+  "translation": "Þá risu þeir og flýðu í myrkrinu og yfirgáfu ⟨את⟩ töld sín og ⟨את⟩ hross sín og ⟨את⟩ asna sina — herbúðina eins og hún var — og flýðu fyrir lífi sínu.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "66bb0eb6efa151f93d665b6e9dccb94fd85aeac346f71261276feee1aeab7444",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/7\/5-8.1792402990031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "þá risu þeir"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "og flýðu"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "í myrkrinu"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "og yfirgáfu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tjöld sín"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "tjöld sín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hross sín"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hross sín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asna sina"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "asna sina"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "herbúðina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún var"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "og flýðu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "lífi sínu"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:10.032451502Z",
+  "model": "glm-5.3"
+}

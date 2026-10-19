@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreskan hefur ekki sögnina 'er' — viðsætt á íslensku sem ⟨er⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Jahve talar beint til Ísraels og kynnir sig sem Elóhím þeirra"
+    }
+  ],
+  "translation": "⟨Ég⟩ er Jahve, Elóhím þinn, ⟨sá⟩ er leiddi þig út úr landi Mitsrajím, úr húsi þræla.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/20\/1-4.1792394586619.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sá⟩ er"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "leiddi þig út"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "út úr landi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "úr húsi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "þræla"
+    }
+  ],
+  "timestamp": "2026-10-19T07:23:06.619699276Z",
+  "model": "glm-5.3"
+}

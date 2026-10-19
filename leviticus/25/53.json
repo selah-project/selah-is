@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 25:53",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בפרך",
+      "rationale": "„brot“ eða „hörð þvingun“; einnig lesið sem „með gaddi“ (talmúdísk þýðing), því rótin er að brotna."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ירדנו",
+      "rationale": "„trampast á, leggja undir“ — kúfa heldur mynd þvingunar en ekki hörðu ástríðuna."
+    },
+    {
+      "kind": "you",
+      "subject": "undir augum þínum",
+      "rationale": "beint til ísraelska eigandans — kaupendur eða arftakar hanns."
+    }
+  ],
+  "translation": "Eins og árs-leigumaður, ár eftir ár, skal hann vera hjá honum; ekki skal hann kúfa hann með harðræði undir augum þínum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5bfd8a8d98d15571d8e506a5d8b336657a9c301ac9a570aed0a90f39be06d51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/25\/53-55.1792396150297.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "eins og árs-leigumaður"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ár"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ár eftir ár"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "skal vera"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "hjá honum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "kúfa hann"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "með harðræði"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "undir augum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:49:10.298025857Z",
+  "model": "glm-5.3"
+}

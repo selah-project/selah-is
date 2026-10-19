@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elóhím",
+      "rationale": "Beint ávarp til Guðs í annarri persónu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשמותי",
+      "rationale": "„missyndir“ fyrir hebreska orðið um sekt\/sök — orðið getur líka merkt syndfórn"
+    }
+  ],
+  "translation": "Elóhím, þú þekkir heimsku mína, og missyndir mínar frá þér eru ekki falnar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/69\/5-8.1792410064007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "þú"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "þekkir"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "heimsku mína"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "og missyndir mínar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "frá þér"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "eru falnar"
+    }
+  ],
+  "timestamp": "2026-10-19T11:41:04.008593309Z",
+  "model": "glm-5.3"
+}

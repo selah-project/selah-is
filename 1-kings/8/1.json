@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 8:1",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "ציון ritað eftir hljóði (Tsjíon), ekki Síon, til að halda hljóði hebreskunnar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf bandið „—“ og sagnfyllingu „hún er“ þar sem hebreskan setur היא á undan ציון"
+    }
+  ],
+  "translation": "Þá safnaði Salómon ⟨את⟩ öldungum Ísraels, ⟨את⟩ öllum höfðingjum kynþáttanna, höfðingjum ættfaðra barnanna Ísraels, til konungs Salómons, til Jerúsjalajím, til að flytja upp ⟨את⟩ sáttmálsörk Jahve frá borg Davíðs — hún er Tsjíon.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d4f6c78c3efa6e5588a26194cd13d66b9349a06709dd0a0ab109b05517d5f108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/1-4.1792402180990.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Þá"
+    },
+    {
+      "surface": "יקהל",
+      "gloss": "safnaði"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salómon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öldungum Ísraels"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "öldungum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllum höfðingjum kynþáttanna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllum"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfðingjum"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "kynþáttanna"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "höfðingjum"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ættfaðra"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "barnanna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungs"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salómons"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "til að flytja upp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáttmálsörk Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sáttmálsörk"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmáls"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "frá borg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíðs"
+    },
+    {
+      "surface": "היא",
+      "gloss": "hún"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsjíon"
+    }
+  ],
+  "timestamp": "2026-10-19T09:29:40.991586322Z",
+  "model": "glm-5.3"
+}

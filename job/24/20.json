@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 24:20",
+  "book": "job",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתקו",
+      "rationale": "„sætleiki hans” — KJS „maðkur sætir á honum”; sumir lesa „nammi” eða „goo” sem föðu maðksins."
+    },
+    {
+      "kind": "substitution",
+      "subject": "móðirkvi",
+      "rationale": "רחם er líffærið (kviður móður) — myndin: móðirin sjálf gleymir syni sínum."
+    }
+  ],
+  "translation": "Móðirkvi gleymir honum; maðkur sætir á honum; hann er ekki lengur minnst; og ranglætið brotnar sem tré.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/24\/17-20.1792412253177.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישכחהו",
+      "gloss": "gleymir honum"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "móðirkvi"
+    },
+    {
+      "surface": "מתקו",
+      "gloss": "sætir"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "maðkur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lengur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "hann er minnst"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "og brotnar"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "sem tré"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ranglætið"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:33.178323736Z",
+  "model": "glm-5.3"
+}

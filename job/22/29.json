@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 22:29",
+  "book": "job",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forsagnafrumlag ⟨þeir⟩ bætt við — hebreska sögnin השפילו hefur ekki nefndan geranda."
+    },
+    {
+      "kind": "crux",
+      "subject": "lækkuðu",
+      "rationale": "KJV\/JPS lesa „þegar þér eru látkuð“ (sögn getur verið önnur persóna), YLT „þeir lækkuðu“ — hebreska myndin er tvíræð."
+    },
+    {
+      "kind": "crux",
+      "subject": "hann frelstar",
+      "rationale": "Gerandi יושע er ónefndur — Elífuím á við Elóhím, en sumir lesa hinn uppháða sem geranda."
+    }
+  ],
+  "translation": "Því að þegar ⟨þeir⟩ lækkuðu, mundir þú segja: Upphækkun; og sá sem lækka augu — hann frelstar ⟨hann⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4983a18876d1aff17858b477c1741da9e6f1ce9f4d440f1875880175129c4dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/22\/29-30.1792412146931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "השפילו",
+      "gloss": "lækkuðu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "og þú sagðir"
+    },
+    {
+      "surface": "גוה",
+      "gloss": "Upphækkun"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "og sá sem lækka"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "augu"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "hann frelstar"
+    }
+  ],
+  "timestamp": "2026-10-19T12:15:46.931954055Z",
+  "model": "glm-5.3"
+}

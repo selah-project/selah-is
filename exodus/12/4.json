@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 12:4",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífsafli\/ándardráttur, ekki ódauðleg sál; 'sálar' heldur orðmynd en ekki síðari tíma merkingu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Mannfjöldatalning og mataraukasvæði — útreikningur eftir höfðum fyrir hvert lamb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסס\/מכסת",
+      "rationale": "Sama rót í 'mannfjölda' (במכסת) og 'að reikna' (תכסו) — endurtökuvísi sem glatast í íslensku"
+    }
+  ],
+  "translation": "Og ef húsið er of lítið til að nægja fyrir lamb, þá taki hann og nágranni hans sá sem næstur er húsi hans, samkvæmt mannfjölda sálna; hvern og einn eftir matar sinni skulið þið æfa ykkur fyrir lambið.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "6a2fca18ed82383ceda26d660db1376d8335a18cf5835d5198440090dbd41aba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/12\/1-4.1792394352500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Og ef"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "er of lítið"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsið"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "til að"
+    },
+    {
+      "surface": "משה",
+      "gloss": "fyrir lamb"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "þá taki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "og nágranni hans"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sá sem næstur er"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "hús hans"
+    },
+    {
+      "surface": "במכסת",
+      "gloss": "samkvæmt mannfjölda"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "sála"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hvern og einn"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "matar"
+    },
+    {
+      "surface": "תכסו",
+      "gloss": "skulið þið æva"
+    },
+    {
+      "surface": "על",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "השה",
+      "gloss": "lambið"
+    }
+  ],
+  "timestamp": "2026-10-19T07:19:12.501912922Z",
+  "model": "glm-5.3"
+}

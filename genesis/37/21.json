@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Hebreska segir aðeins „Og Reúben heyrði“ — andlagið er viðkomandi óskilið; ⟨það⟩ bætt við."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נפש er þarf\/lífskraftur, ekki ódauðleg sál; „slá hann, sálu“ er orðrétt en myndin er lífið sjálft."
+    }
+  ],
+  "translation": "Og Reúben heyrði ⟨það⟩ og bjargaði honum úr höndum þeirra og sagði: Ekki skulum við slá hann, sálu.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "db41c8b654a0d7d7a6dc269a13834e7835c42386e7e2a7262d8f80fbac853443",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/37\/21-24.1792393656121.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "heyrði"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reúben"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "bjargaði-honum"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "úr-höndum-þeirra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "skulum-slá-hann"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálu"
+    }
+  ],
+  "timestamp": "2026-10-19T07:07:36.121946015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er lífsöfl, andardráttur — 'sál' er hefð en ekki full samsvörun."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תער נפשי",
+      "rationale": "'Gjörðu ekki sálu mína berstætta' — bera, tæma (KJV 'destitute') eða 'láttu sálu mína ekki út hellt' (JPS)."
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "Beint erindi til Jahve Adónaí í bæn."
+    }
+  ],
+  "translation": "Því að til þín, Jahve Adónaí, leita augu mín; hjá þér hef ég leitað hælis; gjörðu ekki sálu mína berstætta.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/141\/5-8.1792411029299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "til þín"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adónaí"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "augu mín"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "hjá þér"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "hef ég leitað hælis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תער",
+      "gloss": "gjörðu berstætta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálu mína"
+    }
+  ],
+  "timestamp": "2026-10-19T11:57:09.300710122Z",
+  "model": "glm-5.3"
+}

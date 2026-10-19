@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "af gleði",
+      "rationale": "תרנין er að syngja af gleði; íslenskan þarf við hangingu til að bera tilfinninguna"
+    },
+    {
+      "kind": "crux",
+      "subject": "מוצאי בקר וערב",
+      "rationale": "útgöngur morguns og kvelds — sólargeislar austurs og vesturs eðabólmatímar; myndin af jörðinni sem hring"
+    }
+  ],
+  "translation": "Þeir sem búa í ystu endamörkum óttast merki þín; útgöngum morguns og kvelds lætur þú syngja ⟨af gleði⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/65\/9-12.1792409980727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "óttast"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "þeir sem búa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "í ystu endamörkum"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "merki þín"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "útgöngum"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "morguns"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "og kvelds"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "lætur þú syngja"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:40.727601908Z",
+  "model": "glm-5.3"
+}

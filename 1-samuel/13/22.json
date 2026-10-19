@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nokkurs",
+      "rationale": "Íslenskan þarf form orðsins sem hebreskan segir með 'allt fólkið'."
+    },
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "את hér er af sömu mynd og aleph-tav-merkin en gerir í þessu samhengi hlutverk atviksorðs ('með'); bæðimerkt sem ⟨את⟩ til að varðveita stafi textans."
+    }
+  ],
+  "translation": "Og þá er orrustudagurinn kom fannst hvorki sverð né spjót í hendi nokkurs þjóðfólksins sem var með ⟨את⟩ Sjaúl og ⟨את⟩ Jónatani; en fannst hjá Sjaúl og Jónatani syni hans.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "120d8c878cc517918208a6576b7c2857257af530c550366fea7ce813295c2815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/13\/21-23.1792400375310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "og varð"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "orrustu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "fannst"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sverð"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "né spjót"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "í hendi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allt"
+    },
+    {
+      "surface": "העם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaúl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaúl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jónatani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "og fannst"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "hjá Sjaúl"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "og hjá Jónatani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syni hans"
+    }
+  ],
+  "timestamp": "2026-10-19T08:59:35.311185839Z",
+  "model": "glm-5.3"
+}

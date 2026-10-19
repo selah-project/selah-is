@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Bókstaflega 'skera sáttmála' — hebreskt myndmál um slátruð dýr við sáttmálaslitrun; íslenskan heldur sögninni 'skera'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לִבְחִירִי er bundið forsetningartengt 'fyrir útvalda mínum' — gefið sem 'við útvalda minn' til að gera sáttmálann skiljanlegan."
+    },
+    {
+      "kind": "secret",
+      "subject": "is",
+      "rationale": "Nafnlaus eiður — 'útvaldi minn' er uppfyllt fyrst í næsta versi (Davíð); lesandinn fær svarið seint."
+    }
+  ],
+  "translation": "Ég skar sáttmála við útvalda minn, ég sór Davíð, þjóni mínum:",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/89\/1-4.1792410375074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Ég skar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sáttmála"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "við útvalda minn"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ég sór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "þjóni mínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:46:15.075975525Z",
+  "model": "glm-5.3"
+}

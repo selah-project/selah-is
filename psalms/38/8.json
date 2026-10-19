@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקלה",
+      "rationale": "Sögnin merkir 'að steikja\/bruna' — KJW 'leðjublóð', aðrir 'bruni' eða 'þurrkur' (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Íslenskan þarf sögn en hebreskan sleppir henni."
+    }
+  ],
+  "translation": "Því að lendar mínar eru fullar af bruna, og engin heilsa er í holdi mínu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/38\/5-8.1792409698116.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "lendar mínar"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "eru fullar"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "af bruna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "og engin"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "heilsa"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "í holdi mínu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:58.117663655Z",
+  "model": "glm-5.3"
+}

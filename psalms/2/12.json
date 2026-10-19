@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "בַּר: 'sonur' (KJV, Geneva) vs 'hreinleiki' — 'kyssið í hreinleika' (JPS, úr aramæsku בַּר); hebreska orðið fyrir son er venjulega בֵּן."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אַף er nef\/nasir; ritað 'reiði' eftir myndlíngun Hebreninganna."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "נַשְּׁקוּ בַּר: hljómfall (alliteratíon) sem hverfi á íslensku."
+    },
+    {
+      "kind": "alternative",
+      "subject": "is",
+      "rationale": "אַשְׁרֵי gefur íslensku fleirtölu 'Sælir eru allir þeir' — eintala valin til að halda staki."
+    }
+  ],
+  "translation": "Kyssið ⟨את⟩ soninn, aðeins hann reiðist og þið farið vilja vegar, því að reiði hans mundi í smá stund. Sæll er hver sá sem leitar hjálpar hjá honum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "4f7d929a62f4c931e445b6cfa43b3060fa4f4a559d6a433c3cb0b73a9f589489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/2\/12-12.1792416925709.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "Kyssið"
+    },
+    {
+      "surface": "בר",
+      "gloss": "soninn",
+      "marks": "sonurinn"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "reiðist"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "og þið farið vilja"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vegar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "mundi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "í smá stund"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "reiði hans"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Sæll"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hver"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "sá sem leitar hjálpar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hjá honum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:25.710067284Z",
+  "model": "glm-5.3"
+}

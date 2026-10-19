@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joel 2:25",
+  "book": "joel",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "Fjögur orð fyrir landflugu (ארבה, ילק, חסיל, גזם) — óvíst hvort fjórar tegundir eða fjórir þrep aldurshringjar; gefið er hvorum tveggja lýsing"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שלם gjaldi — rótin er 'gera heilt, bæta', ekki aðeins endurgjald"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "שלמתי og חילי — 'gjalda' og 'hersveit' af sömu rót-ætt; orðaleikur glatast á íslensku"
+    }
+  ],
+  "translation": "Og ég gjaldi yður ⟨את⟩ árin er landflugan át, flugan í fylking og eyðingin og flugan í svarm, hersveit mín hin mikla, er ég sendi á yður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "85b29dad6f984164a19f15b8721e300f0de7b4e577c1fa996cde3579d63f923c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joel\/2\/25-27.1792408302257.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלמתי",
+      "gloss": "Og ég gjaldi yður"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "árin"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "árin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "át"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "landflugan"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "flugan í fylking"
+    },
+    {
+      "surface": "והחסיל",
+      "gloss": "og eyðingin"
+    },
+    {
+      "surface": "והגזם",
+      "gloss": "og flugan í svarm"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "hersveit mín"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "hin mikla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ég sendi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "á yður"
+    }
+  ],
+  "timestamp": "2026-10-19T11:11:42.258408054Z",
+  "model": "glm-5.3"
+}

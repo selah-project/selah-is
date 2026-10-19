@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 14:14",
+  "book": "1-samuel",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כבחצי מענה צמד שדה",
+      "rationale": "Eðlileg mynd: 'hálf furra í akri yoke-kvika' — mælieiningin er landsvæði sem tvö naut plægja á degi; KJV 'half acre', YLT 'half furrow of a yoke'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mælieiningin",
+      "rationale": "Íslenska hefur ekki samsvarandi mælieiningu; 'svipuðu flatrlandsvæði og' er sett fram til að gera kvirni (kvr 'as-it-were') greinilegan."
+    },
+    {
+      "kind": "measurement",
+      "subject": "hlutfallslegar mælingar",
+      "rationale": "Versið mælir bæði mannafjölda (tuttugu menn) og landsvæði (hálf furra-kvika)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "צמד",
+      "rationale": "צמד getur merkt 'akri (dagsverki tveggja nauta)' — einnig 'átthagapaari'; hér er mælieiningin átt."
+    }
+  ],
+  "translation": "Og það varð fyrsta höggþetta sem Jónatan og sá sem bar vápn hans höggu, um tuttugu menn, á svipuðu flatrlandsvæði og hálf furra þess kviks sem plægt hefir akurinn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e53b124811d3693be16e42dc32ec5120d3b6e205d33c1700dc301635cb1f11ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-samuel\/14\/14-15.1792416585049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Og það varð"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "höggþetta"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "fyrsta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "höggu"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "og sá sem bar"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "vápn hans"
+    },
+    {
+      "surface": "כעשרים",
+      "gloss": "um tuttugu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "כבחצי",
+      "gloss": "á svipuðu flatrlandsvæði og hálf"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "furra"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "þess kviks sem plægt hefir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "akurinn"
+    }
+  ],
+  "timestamp": "2026-10-19T13:29:45.050466956Z",
+  "model": "glm-5.3"
+}

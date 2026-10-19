@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "í",
+      "rationale": " hebreskan segir 'himninum' án forsetningar; íslenska þarf 'í'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gerir dóm þeirra",
+      "rationale": "משפטם er dómur\/réttur; 'verja máli þeirra' væri túlkanir en ekki orðið sjálft"
+    }
+  ],
+  "translation": "þá heyrir þú ⟨í⟩ himninum ⟨את⟩ bæn þeirra og ⟨את⟩ ákall þeirra, og gerir dóm þeirra.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/8\/45-48.1792402243867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "þá heyrir þú"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himninum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bæn þeirra"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "bæn þeirra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "ákall þeirra"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ákall þeirra"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "og gerir"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "dóm þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T09:30:43.867880553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Lýsingarhátturinn „skuli ekki hefja sig upp“ beinist að hinum þverrugu."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "למו (áhrifssviðsnetur, „við þá“) féll niður í tengslinu við „sjálfir“."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "Selá er tónlistarmerki, hélst óþýtt sem Selá."
+    }
+  ],
+  "translation": "Hann ríkir með kappi sínu að eilífu; augu hans vaka yfir þjóðunum — hinir þverrugu skuli ekki hefja sig upp. Selá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/66\/5-8.1792409985185.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Hann ríkir"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "með kappi sínu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "augu hans"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "yfir þjóðunum"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "vaka"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "hinir þverrugu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "skuli hefja sig upp"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨sjálfir⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:45.187025031Z",
+  "model": "glm-5.3"
+}

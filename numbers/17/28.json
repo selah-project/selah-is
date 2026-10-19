@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 17:28",
+  "book": "numbers",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הקרב הקרב",
+      "rationale": "Inföll 'nálgast, nær sig' — endurtekin atviksmynd á hebresku, haldin með tveim orðum"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "תמנו er 'klárast\/tapast algerlega' — 'töpum öll' heldur algleypingu orðsins"
+    }
+  ],
+  "translation": "Hver sem nálgast, sá er nær sig að Misjkan Jahve, skal deyja. Er það nú svo að vér töpum öll og dóum?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "2d5bb0ba9fc8c4ced1e3fa32144de1c8163f6a6c3d835767d69c3ddf4dd724ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/numbers\/17\/25-28.1792396912891.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hver sem"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nálgast"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sá er nær sig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Misjkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "skal deyja"
+    },
+    {
+      "surface": "האם",
+      "gloss": "Er það nú svo"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "að vér töpum öll"
+    },
+    {
+      "surface": "לגוע",
+      "gloss": "og dóum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:01:52.893010587Z",
+  "model": "glm-5.3"
+}

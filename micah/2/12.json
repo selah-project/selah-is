@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 2:12",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצרה",
+      "rationale": "sauðatún\/fjárengi (rabínsk lesning) vs. borgin Bótsra í Edóm (KJV 'Bozrah')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אסף\/אסף · קבץ\/קבץ",
+      "rationale": "endurtekin óvissmynd á tveim rótum, upphafstafir א og ק — stíll endursagður með 'já, safna'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הדברו",
+      "rationale": "נָדְרִיאַבְז (davar) um beit mynd aðeins hér sem fleirtölu 'beitir sínir' — merkir beitiland\/fjárgarður"
+    }
+  ],
+  "translation": "Ég mun safna, já, safna Jaakov, öllum þér; safna saman mun ég leif Ísraels; saman mun ég setja þau sem sauðfé í fjárengjum, sem hjörð í miðju beitarlands sins — þau munu gjála af mannfjöldanum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "76e3e6a7c1a772534e723fff7f3d2008a275492a767aadef8244b7d850ffad57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/2\/9-12.1792408562852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "mun ég safna"
+    },
+    {
+      "surface": "אאסף",
+      "gloss": "já, safna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "öllum þér"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "safna saman"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "mun ég safna"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "leif"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saman"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "mun ég setja þau"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sem sauðfé"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "í fjárengjum"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "sem hjörð"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "í miðju"
+    },
+    {
+      "surface": "הדברו",
+      "gloss": "beitarlands sins"
+    },
+    {
+      "surface": "תהימנה",
+      "gloss": "munu þau gjála"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "af mannfjöldanum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:02.853948079Z",
+  "model": "glm-5.3"
+}

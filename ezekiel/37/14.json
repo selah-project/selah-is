@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 37:14",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוּחַ er „rúakh“ — andi, vindur, andardráttur í einu orði; ekki þýtt í eitt einsþýtt orð."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברתי ועשיתי",
+      "rationale": "talað og gert — stutt tvötyggja fullyrting um orð og verk Jahve."
+    }
+  ],
+  "translation": "Og ég set rúakh mína í yður, og þér munuð lifa, og ég legg yður á jörð yðar; og þér munuð vita að ég er Jahve; ég hef talað og ég framkvæmi, segir Jahve.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f655020aca498b37a406df189e54182ff6b2c59680957d06f84273514fa0c5b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/37\/13-16.1792407741430.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Og ég set"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "rúakh mína"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "í yður"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "og þér munuð lifa"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "og ég legg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ yður",
+      "marks": "yður, á jörð yðar"
+    },
+    {
+      "surface": "על",
+      "gloss": "á"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "jörð yðar"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "og þér munuð vita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ég hef talað"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "og ég framkvæmi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-10-19T11:02:21.431277793Z",
+  "model": "glm-5.3"
+}

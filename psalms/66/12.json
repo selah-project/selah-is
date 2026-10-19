@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרויה",
+      "rationale": "'gnægð\/metþró' — KJV 'wealthy place', YLT 'watered place'; rót merkir saðning"
+    },
+    {
+      "kind": "addition",
+      "subject": "en",
+      "rationale": "hebreska hefur enga andstæðatengingu; vandsæti skiptir úr þröngd í frelsi"
+    }
+  ],
+  "translation": "Þú létir menn ríða yfir höfðum okkar, við fórum í eld og í vatn, en þú leiddir okkur út í gnægð.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/66\/9-12.1792409955041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Þú létir ríða"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "menn"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "yfir höfðum okkar"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "við fórum"
+    },
+    {
+      "surface": "באש",
+      "gloss": "í eld"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "og í vatn"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "en þú leiddir okkur út"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "í gnægð"
+    }
+  ],
+  "timestamp": "2026-10-19T11:39:15.042349928Z",
+  "model": "glm-5.3"
+}

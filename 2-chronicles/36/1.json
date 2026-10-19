@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עם הארץ er heilt hugtak, 'landstjórnarfólkið', ekki bara 'fólkið í landinu'."
+    }
+  ],
+  "translation": "Og landstjórnarfólkið tók ⟨את⟩ Jehóakhaz, son Jóshíjahu, og gerði hann að konungi í stað föður hans í Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "3db89a6fa8e7eb30aa1c0cf18e1b8a4fcd02324c19d64b1d494fa30136a7b23f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/36\/1-4.1792416147893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Og tók"
+    },
+    {
+      "surface": "עם",
+      "gloss": "fólkið"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lands"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehóakhaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehóakhaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jóshíjahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "og gerði hann að konungi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "í stað"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "föður hans"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:22:27.894518349Z",
+  "model": "glm-5.3"
+}

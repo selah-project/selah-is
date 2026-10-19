@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 8:27",
+  "book": "joshua",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨sér⟩",
+      "rationale": "להם er forsetningarfornafn með sögnina 'rændu sér' — íslenskan þarf samskeytingu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בהמה",
+      "rationale": "'búfé' — bešemá er almennt fénaður, ekki aðeins sauðfé."
+    }
+  ],
+  "translation": "Aðeins búfénu og herfangi þeirrar borgar rændu Ísrael ⟨sér⟩, samkvæmt orði Jahve, er hann bauð ⟨את⟩ Jósúa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6710f20de52f0b33d362cdf673ec65ecf04e40ae64e196c750624979e0c619a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/joshua\/8\/26-27.1792416451007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Aðeins"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "búfénu"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "og herfangi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "borgar"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "þeirrar"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "rændu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨sér⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísrael"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "samkvæmt orði"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósúa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jósúa"
+    }
+  ],
+  "timestamp": "2026-10-19T13:27:31.008680456Z",
+  "model": "glm-5.3"
+}

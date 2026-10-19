@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 26:44",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "Hér er אתם forsetningin H854 „með þeim“, ekki merkið H853 — en gjösinð er varðveitt með ⟨את⟩ samkvæmt reglunni."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨eru⟩",
+      "rationale": "Íslenskan þarf hjálparsögn í „þegar þeir eru“; hebreskan notar ópersónulega smíð בהיותם."
+    }
+  ],
+  "translation": "Enn þetta sama — þegar þeir eru í landi óvina sinna mun ég ekki varpa þeim burt og ekki fýsa þeim, svo að eyða þeim eða brjóta sáttmála minn ⟨את⟩ þeim; því að ég er Jahve, Elóhím þeirra.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "62160dc84f4ede1a8f56087e4b0ba757293bffea11a318710f943bf0ebdd9854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/26\/41-44.1792396265743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Enn"
+    },
+    {
+      "surface": "גם",
+      "gloss": "einnig"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta sama"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "þegar þeir eru"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í land"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "óvina sinna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "מאסתים",
+      "gloss": "varpa ég þeim burt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "געלתים",
+      "gloss": "fýsa ég þeim"
+    },
+    {
+      "surface": "לכלתם",
+      "gloss": "svo að eyða þeim"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "eða brjóta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sáttmála minn"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim (með þeim)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elóhím þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T07:51:05.745129850Z",
+  "model": "glm-5.3"
+}

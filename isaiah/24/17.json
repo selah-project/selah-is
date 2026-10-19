@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "Þríleikur á hljóðinu pakh: ótti, gryfja, net — veiðitækjakeðja sem tapast í þýðingu."
+    },
+    {
+      "kind": "you",
+      "subject": "þú sem býrð á jörðinni",
+      "rationale": "Bein ávarðun til íbúa jarðarinnar."
+    }
+  ],
+  "translation": "Ótti, og gryfjan, og netið, yfir þig, þú sem býrð á jörðinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/24\/17-20.1792404177444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ótti"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "og gryfjan"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "og netið"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yfir þig"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "þú sem býrð"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "á jörðinni"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:57.445465913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משכן ritað Misjkan samkvæmt D2, ekki 'tjaldbúð'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "מעשה חושב er helgi­formþáttur: 'verk hönnuðar\/hugþekkis', borið fram sem eitt hugtak"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "tölvan tíu er metrikk vígslar­gerðar Misjkansins"
+    }
+  ],
+  "translation": "Og ⟨את⟩ Misjkanin skalt þú gera með tíu mönnum dúka, úr tvinnu lérefti og skæblátt og purpura og skarlati, með kérúbum, verk hugþekkis skalt þú gera ⟨את⟩ þá.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "05f50be337aa0bc8e60bc8f241b60b061d1c6fd6af66a52c361de9576b52c249",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/26\/1-4.1792394863804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Misjkanin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Misjkanin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skalt þú gera"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "dúkum"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lérefti"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tvinnu"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "og skæblátt"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "og purpura"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "og ⟨skarlati⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "skarlat"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "með kérúbum"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "verk"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hugþekkis"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "skalt þú gera"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ þá",
+      "marks": "þá (dúkana)"
+    }
+  ],
+  "timestamp": "2026-10-19T07:27:43.805540972Z",
+  "model": "glm-5.3"
+}

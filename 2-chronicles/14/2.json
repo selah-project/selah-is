@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "האשריט hugsað sem heiti gyðju Aséra, ekki 'lundir' eða 'skógar'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "הבמון 'hámstöður' — aldrei 'hátiðir'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "fornafnið 'hann' bætt við, hebreskan segir aðeins ויסר"
+    }
+  ],
+  "translation": "Og hann tók burt ⟨את⟩ altari hinna framandi og hámstöðurnar, og braut ⟨את⟩ súlurnar, og hégg af ⟨את⟩ Aséra-myndunum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/14\/1-4.1792415554455.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "tók burt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altari hinna framandi"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altari"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "hinna framandi"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "og hámstöðurnar"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "braut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "súlurnar"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "súlurnar"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "hégg af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aséra-myndunum"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Aséra-myndunum"
+    }
+  ],
+  "timestamp": "2026-10-19T13:12:34.456468422Z",
+  "model": "glm-5.3"
+}

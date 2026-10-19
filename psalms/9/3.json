@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "æðsti",
+      "rationale": "עליון er „hinn hæsti\/upphæði“ og titill á El hæsta — „hinn æðsti“ heldur hæðarmyndinni"
+    }
+  ],
+  "translation": "Ég mun gleðjast og fagna í þér, ég mun syngja nafni þínu, hinn æðsti.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/9\/1-4.1792409336268.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Ég mun gleðjast"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "og fagna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "í þér"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ég mun syngja"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nafni þínu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hinn æðsti"
+    }
+  ],
+  "timestamp": "2026-10-19T11:28:56.269319394Z",
+  "model": "glm-5.3"
+}

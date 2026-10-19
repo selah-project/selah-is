@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf aukasetninguna „svo varð“ fyrir ויהי"
+    }
+  ],
+  "translation": "Og svo varð, eftir dauða Sjáls, að Davíð sneri aftur frá því að slá ⟨את⟩ Amalek, og Davíð dvaldi í Tsiklag í tvo daga.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/1\/1-4.1792401164008.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Og svo varð"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "eftir"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dauða"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjáls"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "að Davíð"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sneri aftur"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "frá því að slá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "og dvaldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davíð"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "í Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tvo"
+    }
+  ],
+  "timestamp": "2026-10-19T09:12:44.008789473Z",
+  "model": "glm-5.3"
+}

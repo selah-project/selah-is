@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gryfjum",
+      "rationale": "משחיתות er gryfjur\/fallgryfjur, jps þýðir «gröf þeirra», kjv «eyðileggingar þeirra»"
+    }
+  ],
+  "translation": "Hann sendir orð sitt og læknaði þá, og hann frelsaði þá frá gryfjum þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/107\/17-20.1792410650441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hann sendir"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "orð sitt"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "og læknaði þá"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "og hann frelsaði þá frá"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "gryfjum þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:50.442306045Z",
+  "model": "glm-5.3"
+}

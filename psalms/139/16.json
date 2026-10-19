@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גולם",
+      "rationale": "gōlem — ómyndað massi, fóstusjúkra — stendur aðeins hér í Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "ימים יצרו",
+      "rationale": "'dagarnir sem myndaðir voru' — voru dagarnir eða líkamsþættirnir skráðir? KJV 'my members' vs JPS 'the days'"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'⟨var þá enn til⟩' bætt við — hebreskan sleppir sagnaruni í síðustu setningu"
+    }
+  ],
+  "translation": "Ómóaða efni mitt sáu augu þín, og á bók þinni váru ⟨þeir⟩ allir skráðir — dagar þeir er myndaðir voru, og ekki einn þeirra ⟨var þá enn til⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/13-16.1792410994773.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "Ómóaða efni mitt"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sáu"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "augu þín"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "og á"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "bók þinni"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "allir"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "váru skráðir"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dagar"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "er myndaðir voru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "einn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:34.774306753Z",
+  "model": "glm-5.3"
+}

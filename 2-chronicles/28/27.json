@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 28:27",
+  "book": "2-chronicles",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "hebreska notar fleirtölu 3. persónu („þeir grófu“, „þeir færðu“) á án nefnds geranda; íslenska þarf þannig viðfang"
+    },
+    {
+      "kind": "idiom",
+      "subject": "hvíldist með feðrum sínum",
+      "rationale": "עם אבתיו — „lagðist með feðrum sínum“, hebreskt myndmál um dauða konungs"
+    },
+    {
+      "kind": "crux",
+      "subject": "konunganna Ísraels",
+      "rationale": "2. Krón 28:27 segir „konunga Ísraels“ en samhliða地方 2. Kon 16:20 hefur „konunga Davíðs“; textinn hér kallar Júda-konung með nafni Ísraels"
+    }
+  ],
+  "translation": "Og Akhaz hvíldist með feðrum sínum, og ⟨þeir⟩ grófu hann í borginni, í Jerúsjalajím, því að ⟨þeir⟩ færðu hann ekki í grafir konunganna Ísraels; og Jiskíjahu, sonur hans, varð konungur í stað hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c95d7b3c1c3962bde52d89e64f2eea91d6b16f3a79871a2a8d29b163e408c74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-chronicles\/28\/27-27.1792417133247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "hvíldist"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "með"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "feðrum sínum"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "grófu hann"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "í borginni"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "í Jerúsjalajím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "הביאהו",
+      "gloss": "férðu hann"
+    },
+    {
+      "surface": "לקברי",
+      "gloss": "í grafir"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konunganna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "varð konungur"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jiskíjahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "í stað hans"
+    }
+  ],
+  "timestamp": "2026-10-19T13:38:53.247713994Z",
+  "model": "glm-5.3"
+}

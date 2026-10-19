@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "is",
+      "rationale": "מאספיו og מקבציו — tvö samstofu orð fyrir 'safnarar' í srandi spegli; tapast að hluta til á íslensku"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hælgörðum",
+      "rationale": "חצרות er 'garðar\/tún'; 'hælgarðar' taka helgið úr קדשי sem stendur sér"
+    }
+  ],
+  "translation": "Því að safnarar þess munu éta það og lofa ⟨את⟩ Jahve, og safnarar þess munu drekka það í hælgörðum helga míns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "ad2358ce4624816b15fb009e656e446101a8e1ac322b1403fbbbb8e577dc2ca5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/62\/9-12.1792405008010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "safnarar þess"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "munu éta það"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "og lofa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "og safnarar þess"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "munu drekka það"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "í hælgörðum"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "helga míns"
+    }
+  ],
+  "timestamp": "2026-10-19T10:16:48.010718118Z",
+  "model": "glm-5.3"
+}

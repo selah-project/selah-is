@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שלחו את ידם",
+      "rationale": "Sjálfborið myndmál — 'senda höndina' — þýtt 'leggja hönd'."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Forskeytið 'í' í 'í herfangið' kemur í stað hebreska atviksorðsins."
+    }
+  ],
+  "translation": "Tíu sonu Hamans, sonar Medata, óvinar Júda, drápu þeir; en í herfangið lögðu þeir ekki ⟨את⟩ hönd sína.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "5caa1af612d20e88fca42557e7ff78938d0d743e3d7f7c3eda2fde417bc56bd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/9\/9-12.1792413278216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "tíu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamans"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sonar"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "óvinar"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "drápu þeir"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "en í herfangið"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "lögðu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hönd sína"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hönd sína"
+    }
+  ],
+  "timestamp": "2026-10-19T12:34:38.217065583Z",
+  "model": "glm-5.3"
+}

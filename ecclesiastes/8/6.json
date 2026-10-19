@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חפץ",
+      "rationale": "'ásetning\/tilgangur' — YLT les 'delight', KJV 'purpose' — orðið getur verið bæði vilji og gaman"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רעת",
+      "rationale": "hebreska: illskuna hjá manninum — 'ógipt' heldur merkingunni en ekki nákvæmlega sömu mynd"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "það — fjarskyldur frumlag í íslensku, ekki í hebresku"
+    }
+  ],
+  "translation": "Því að fyrir hvern ásetning er ⟨það⟩ tími og dómur, því að ógipt miklu er yfir manninum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ecclesiastes\/8\/5-8.1792413114083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "fyrir hvern"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ásetning"
+    },
+    {
+      "surface": "יש",
+      "gloss": "er"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tími"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "og dómur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ógipt"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "manninum"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "miklu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "yfir hann"
+    }
+  ],
+  "timestamp": "2026-10-19T12:31:54.083964798Z",
+  "model": "glm-5.3"
+}

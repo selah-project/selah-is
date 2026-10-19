@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהום אל תהום",
+      "rationale": "Endurtekningin 'djúp til djúps' er rísjálín versins og berst óbreytt í íslensku"
+    },
+    {
+      "kind": "crux",
+      "subject": "צנוריך",
+      "rationale": "'afossar' (LXX og JPS) gegn 'vatnsskálar' (KJV); orðið er leia fyrir vatni"
+    }
+  ],
+  "translation": "Djúp kallar til djúps við raust afossa þinna; allar bylgjubrot þín og öldur þínar fóru yfir mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/42\/5-8.1792409754662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Djúp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "til"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "djúps"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "kallar"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "við raust"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "afossa þinna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allar"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "bylgjubrot þín"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "og öldur þínar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "yfir mig"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "fóru"
+    }
+  ],
+  "timestamp": "2026-10-19T11:35:54.663680290Z",
+  "model": "glm-5.3"
+}

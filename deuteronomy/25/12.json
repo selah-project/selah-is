@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "augu þitt skal eigi aumast",
+      "rationale": "hebreska hefur 'auga' sem frumkvöðull meðaðarinnar; íslenska heldur myndinni frekar en 'sýna enga miskunn'"
+    },
+    {
+      "kind": "crux",
+      "subject": "högga af hönd hennar",
+      "rationale": "כַּפָּה er lófi\/hönd; sumar þýðingar (sbr. Talmud) lesa aðeins mútsemyrir eða fingur, en textinn segir 'lófi hennar'"
+    }
+  ],
+  "translation": "Þá skalt þú högga af ⟨את⟩ hönd hennar — auga þitt skal eigi aumast yfir henni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7369d287e76f72dcaebff46f62ebe7e519d5637ba313f83d3084c85a7c309bf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/25\/9-12.1792398245449.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "Þá skalt þú högga af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hönd hennar"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "hönd hennar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "skal aumast"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "augu þitt"
+    }
+  ],
+  "timestamp": "2026-10-19T08:24:05.450335443Z",
+  "model": "glm-5.3"
+}

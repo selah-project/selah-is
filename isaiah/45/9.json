@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 45:9",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf vitnisburðinn „Það hefur engar hendur“ sem frumlag; hebreskan segir aðeins „ekun hendur honum“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרש\/חרשי",
+      "rationale": "Endurtekning leirbrotsins — leirbrot gegn leirbrotum — myndar hjálíðuna um manninn sem deilir við mótarann sinn"
+    },
+    {
+      "kind": "crux",
+      "subject": "רב את יצרו",
+      "rationale": "„Deilir við mótarann“ eða „heldur uppi máli við mótarann“ — ריב er lagalegt app; mynd leirmalarans er sömu rótar"
+    }
+  ],
+  "translation": "Vei þeim sem deilir ⟨את⟩ mótarann sinn, leirbrot ⟨את⟩ leirbrot jarðar! Mun leirinn segja við mótarann sinn: Hvað gerir þú? Og verkið þitt ⟨sé⟄ Það hefur engar hendur?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/45\/9-12.1792404696941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Vei"
+    },
+    {
+      "surface": "רב",
+      "gloss": "deilir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mótarann sinn"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "mótarann-sinn"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "leirbrot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leirbrot jarðar"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "leirbrot"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "jarðar"
+    },
+    {
+      "surface": "היאמר",
+      "gloss": "mun-segja"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "leirinn"
+    },
+    {
+      "surface": "ליצרו",
+      "gloss": "við-mótarann-sinn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hvað"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gerir-þú"
+    },
+    {
+      "surface": "ופעלך",
+      "gloss": "og-verkið-þitt"
+    },
+    {
+      "surface": "אין",
+      "gloss": "engar"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "hendur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    }
+  ],
+  "timestamp": "2026-10-19T10:11:36.942230812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 27:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Beint hlutliðurheiti í íslensku krefst fornafnsins ‚það‘ sem hebreskan heldur í sagnbeytingunni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sálin mín",
+      "rationale": "נפש er lífsönd, barki, lífskraftur — ‚sál‘ er hefðin en ekki full mynd hebreskunnar"
+    }
+  ],
+  "translation": "og gjör mér lostæti, eins og ég hef elskað, og færðu mér ⟨það⟩, og ég mun éta, svo að sálin mín blessi þig áður en ég dey.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/27\/1-4.1792393193789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "og gjör"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "lostæti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ég hef elskað"
+    },
+    {
+      "surface": "והביאה",
+      "gloss": "og færðu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mér"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "og ég mun éta"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "svo að"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "blessi þig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sálin mín"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ég dey"
+    }
+  ],
+  "timestamp": "2026-10-19T06:59:53.790481348Z",
+  "model": "glm-5.3"
+}

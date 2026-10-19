@@ -1,0 +1,197 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 6:32",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן המרצח",
+      "rationale": "'son morðingsins' — konungurinn (Jóram) eða almennt 'morisynir' semlastæling; sumir lesa 'þessi morðingi'"
+    },
+    {
+      "kind": "you",
+      "subject": "öldungarnir",
+      "rationale": "Elísa talar beint til öldunganna — boðsháttur í fleirtölu"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "fyrsta אתו er forsetningin 'með\/hjá' (H854), ekki marking að drætti — samtfest við 'hjá honum'"
+    }
+  ],
+  "translation": "En Elísa sat í húsi sínu og öldungarnir sátu hjá honum, og hann sendi mann frá sér; en áður en sendimaðurinn kom til hans, sagði hann við öldungana: Sjáðið þið að þessi son morðingsins hefur sent til að fjarlægja ⟨את⟩ höfuð mitt? Sjáði, um leið og sendimaðurinn kemur, lokið dyrunum og þrýstið ⟨את⟩ honum að dyrunum — er hljóð fóta herra hans ekki á eftir honum?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/6\/29-32.1792402991158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "En Elísa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sat"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "í húsi sínu"
+    },
+    {
+      "surface": "והזקנים",
+      "gloss": "og öldungarnir"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "sátu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hjá ⟨את⟩ honum"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "og sendi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mann"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "frá sér"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "áður en"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sendimaðurinn"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hann"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "öldungana"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "sjáið þið"
+    },
+    {
+      "surface": "כי",
+      "gloss": "að"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "hefur sent"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "המרצח",
+      "gloss": "morðingsins"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessi"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "til að fjarlægja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "höfuð mitt"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfuð mitt"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sjáið"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "um leið og ... kemur"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "sendimaðurinn"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "lokið"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dyrunum"
+    },
+    {
+      "surface": "ולחצתם",
+      "gloss": "og þrýstið"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "honum"
+    },
+    {
+      "surface": "בדלת",
+      "gloss": "að dyrunum"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "er ... ekki"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hljóð"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "fóta"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "herra hans"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "á eftir honum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:43:11.159796756Z",
+  "model": "glm-5.3"
+}

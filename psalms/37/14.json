@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "פתחו חרב 'opna sverð' = draga það út slíðri; דרכו קשת 'troða boga' = spenna hann"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "עני og אביון eru tvennt: hinn þarfi (sjálfur særður) og hinn efnalausi (auðveldur); sameinað í 'fátækir' væri missa mikilvægan mun"
+    }
+  ],
+  "translation": "Hinir óguðu hafa gripið sverð og spennt boga sína, til að fella hinn þarfa og efnalausa, til að slátra þeim er réttláta vega fara.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/13-16.1792409652508.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "sverð"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "hafa gripið út"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hinir óguðu"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "og spennt"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "boga sína"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "til að fella"
+    },
+    {
+      "surface": "עני",
+      "gloss": "hinn þarfa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "og efnalausa"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "til að slátra"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "þeim er… réttláta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "vega fara"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:12.508726844Z",
+  "model": "glm-5.3"
+}

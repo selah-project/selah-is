@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 15:4",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "þöngum þínum",
+      "rationale": "ממעיך er kviður\/innyfli, myndlíking um eigin afkvæmi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "neitun + „heldur“ — hebreskt frasilag fyrir sterka andstæðu, ýtt sem 'heldur'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "part of the fixed כי אם construction, no separate Icelandic rendering"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יירשך",
+      "rationale": "orðið „erfa þig“ endurtekið í krossljóðsutformi fyrir og eftir andstæðuna"
+    }
+  ],
+  "translation": "Og sjá, orð Jahve kom til hans, er sagði: Þessi mun ekki erfa þig, heldur sá sem gengur ú úr þöngum þínum — hann mun erfa þig.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "da8a1078efccbc5638e746f15f712abacb2932b80a2eb0f6a306cf95e31abf1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/15\/1-4.1792392863708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Og sjá"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "er sagði"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "mun erfa þig"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Þessi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "heldur"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sá sem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gengur ú"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "úr þöngum þínum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "יירשך",
+      "gloss": "mun erfa þig"
+    }
+  ],
+  "timestamp": "2026-10-19T06:54:23.710036873Z",
+  "model": "glm-5.3"
+}

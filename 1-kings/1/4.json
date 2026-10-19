@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "ידעה 'þekkti hana' er hebreskt málgátur um kynlíf; bókstæð 'þekkti' heldur orðmyndinni eins og eldri þýðingar."
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "סכנת endurtekið úr v. 2; 'umhirðandi' heldur sama orði báðum stöðum."
+    }
+  ],
+  "translation": "Og stúlkan var fögr umfram mætu, og hún varð konunginum umhirðandi og þjónaði honum, en konungurinn þekkti hana ekki.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-kings\/1\/1-4.1792401864069.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "og stúlkan"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "fögr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "umfram"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mætu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "og hún varð"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "konunginum"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "umhirðandi"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "og þjónaði honum"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "en konungurinn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "þekkti hana"
+    }
+  ],
+  "timestamp": "2026-10-19T09:24:24.071032387Z",
+  "model": "glm-5.3"
+}

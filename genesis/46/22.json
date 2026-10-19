@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sál",
+      "rationale": "נפש er öndandi vera, lífskraftur — ekki ódauðleg sál"
+    },
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreska vantar sögnina 'eru' — íslenska krefst hennar"
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Talning: alls fjórtán sálar"
+    }
+  ],
+  "translation": "Þetta eru synir Rakel, sem fæddir voru Jaakov: alls sálar fjórtán.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "c7d1c1914f4478d08bee24db820d2aaadb2ee49748bcb3d94dae5b885648c9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/46\/21-24.1792393858354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Þetta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synir"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rakel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "fæddir voru"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alls"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sálar"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fjórtán"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "fjórtán"
+    }
+  ],
+  "timestamp": "2026-10-19T07:10:58.354901797Z",
+  "model": "glm-5.3"
+}

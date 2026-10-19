@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "frumlag og samtenging sem hebreskan sleppir í síðasta lið"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחטאת עמך",
+      "rationale": "„sök þjóðar þinnar“ — sumir lesa „þjóð þín hefur brugðist“ (ylt), aðrir „sök lies with your own people“ (kjv) — umboðsmennirnir lýsa hinum slettnu á að sök Þjóðar síðar"
+    }
+  ],
+  "translation": "Strá er ekki gefið þjónum þínum, og um teglur segja ⟨þeir⟩ við ⟨okkur⟩: Gjörið! Og sjá, þjónar þínir eru slegnir — og sök Þjóðar þinnar ⟨er það⟩.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "2d83b7706d744ba687459704a748093de7e85eba92d083d95fac01e8da448f74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/5\/13-16.1792394189971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "strá"
+    },
+    {
+      "surface": "אין",
+      "gloss": "er ekki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gefið"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "þjónum þínum"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "og um teglur"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "segja"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "við okkur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjörið"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og sjá"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "þjónar þínir"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "eru slegnir"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "og sök"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Þjóðar þinnar"
+    }
+  ],
+  "timestamp": "2026-10-19T07:16:29.973191282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 37:34",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨það⟩ bætt við — hebreskan segir aðeins \"þú munt sjá\""
+    },
+    {
+      "kind": "you",
+      "subject": "sá réttláti",
+      "rationale": "nafnháttar_skipun beinist til réttláta lesandans"
+    }
+  ],
+  "translation": "Bíddu eftir Jahve og gættu vegar hans, og hann mun upphæja þig til að erfa landið; þegar óguðirnir eru hoggnir af, munt þú ⟨það⟩ sjá.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/37\/33-36.1792409679793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Bíddu eftir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(eftir)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "og gættu"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "vegar hans"
+    },
+    {
+      "surface": "וירוממך",
+      "gloss": "og hann mun upphæja þig"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "til að erfa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "landið"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "þegar ... eru hoggnir af"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "óguðirnir"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "munt þú sjá"
+    }
+  ],
+  "timestamp": "2026-10-19T11:34:39.794106776Z",
+  "model": "glm-5.3"
+}

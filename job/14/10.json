@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'sitt síðasta' bætt við til að gefa andar út í gegn; hebreskan segir aðeins 'blés út'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "ויחלש er 'var lagður niður\/veiktist'; 'máttarminnkar' gefur hina bókstöfslegu mynd"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Spurningin 'og hvar er hann?' beinist til Guðs og til heyrandans"
+    }
+  ],
+  "translation": "En karlmaður deyr og máttarminnkar; já, maður andar sitt síðasta — og hvar er hann?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/14\/9-12.1792411985529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "En karlmaður"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "deyr"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "og máttarminnkar"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "andar sitt síðasta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "maður"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "og hvar er hann?"
+    }
+  ],
+  "timestamp": "2026-10-19T12:13:05.530008744Z",
+  "model": "glm-5.3"
+}

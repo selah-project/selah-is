@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרחכם ומשאכם וריבכם",
+      "rationale": "Þrennd með endurtekinniEndingu -כם — 'yðar' þrisvar — klifrandi málfar sem íslenskan varðveitir með endurtekningu."
+    },
+    {
+      "kind": "crux",
+      "subject": "טֹרַח",
+      "rationale": "Sjaldgæft orð — 'þungur byrði\/óþægindi'; sumir þýða 'vandræði', aðrir 'álag'."
+    }
+  ],
+  "translation": "Hvernig skal ég einn saman bera byrðar yðar og álag yðar og deilur yðar?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/1\/9-12.1792397530555.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Hvernig"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "skal ég … bera"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "einn saman"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "byrðar yðar"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "og álag yðar"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "og deilur yðar"
+    }
+  ],
+  "timestamp": "2026-10-19T08:12:10.556637963Z",
+  "model": "glm-5.3"
+}

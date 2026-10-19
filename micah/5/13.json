@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 5:13",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עריך",
+      "rationale": "עריך er 'borgir þínar' (KJV, ASV, BSB), en JPS\/ylt les 'óvinir þínir' — sértæk lesning; orðmyndin er 'ajim, borgir."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשיריך",
+      "rationale": "Aséra er nafn gyðju og súlanna helgaðra henni; KJV 'graven images' heldur ekki lögun orðsins."
+    }
+  ],
+  "translation": "Og ég mun rífa burt Aséra-stytturnar þínar úr miðju þinni, og ég mun eyða borgum þínum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "83ab424e319d17e8643e8c46cfbd2e8eb7f4edfcb7702906a5b55b6a7cd9f410",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/5\/13-14.1792408535457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתשתי",
+      "gloss": "Og ég mun rífa burt"
+    },
+    {
+      "surface": "אשיריך",
+      "gloss": "Aséra-stytturnar þínar"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "úr miðju þinni"
+    },
+    {
+      "surface": "והשמדתי",
+      "gloss": "og ég mun eyða"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "borgum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T11:15:35.458036536Z",
+  "model": "glm-5.3"
+}

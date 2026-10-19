@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "orðið 'sæng' er ekki í hebreskunni — יצע merkir 'breiða út \/ strá undir', rúmfatesturinn er skilinn út frá samhengi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sjeól",
+      "rationale": "שאול ritað Sjeól samkvæmt reglu D2 — ekki 'helvíti', það er ríki dauðra, ekki refsing"
+    }
+  ],
+  "translation": "Ef ég stíg upp til himna — þar ert þú; og ef ég breiði út sæng í Sjeól — sjá, þú ert ⟨þar⟩.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/139\/5-8.1792410992521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ef"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "égu stíg upp"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "til himna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ert þú"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "og ég breiði út"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "í Sjeól"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "sjá, þú ert"
+    }
+  ],
+  "timestamp": "2026-10-19T11:56:32.522511881Z",
+  "model": "glm-5.3"
+}

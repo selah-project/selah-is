@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "שדה er „akur\/svæði“ — „svæði“ valið, en orðið er flatt land, ekki landspjöld."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עין משפט",
+      "rationale": "Nafnið þýðir bókstaflega „lind dóms“ — nafn leynir merkingu sinni í íslensku."
+    },
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Herferðin mæld upp með þorps- og örnefnum: En-Mishpat, Kadesj, Khatseson-Tamar."
+    }
+  ],
+  "translation": "Og þeir sneru aftur og komu að En-Mishpat — það er Kadesj — og ullu ⟨את⟩ öllu svæði Amalekíta, og einnig ⟨את⟩ Emorítana, ⟨þá⟩ sem bjuggu í Khatseson-Tamar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c749229de5460959a04a8f52ebeda2140390c61541cf959785634460d0ce7656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/14\/6-7.1792416224905.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Og þeir sneru aftur"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "og komu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "að"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mishpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það er"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesj"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "og ullu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "öllu svæði Amalekíta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "öllu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "svæði"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amalekíta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "og einnig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorítana"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorítana"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "sem bjuggu"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "í Khatseson"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    }
+  ],
+  "timestamp": "2026-10-19T13:23:44.906526238Z",
+  "model": "glm-5.3"
+}

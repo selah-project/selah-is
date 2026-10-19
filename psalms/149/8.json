@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "זִקִּים merkir bæði 'brennandi örv' og 'fjötur'; hér 'fjötur' eins og í 2. Mós 39:3"
+    },
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "נִכְבָּדִים er 'þeir sem eru þungir virðingu' — vegtingar heldur myndinni en 'aðalsmenn'"
+    }
+  ],
+  "translation": "Til að binda konunga þeirra í fjötrum og vegtinga þeirra í járnkeðjum,",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "50206f1a3f90c370b52740260bfb66e66f459492cb1f3af135c38dbd58921e61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/149\/8-8.1792416955974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "til að binda"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "konunga þeirra"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "í fjötrum"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "og vegtinga þeirra"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "í keðjum"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "járns"
+    }
+  ],
+  "timestamp": "2026-10-19T13:35:55.974885635Z",
+  "model": "glm-5.3"
+}

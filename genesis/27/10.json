@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Beint viðfang séldarinnar vantar í hebreskunu; ⟨את⟩ vísar til réttanna úr v. 9."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "בעבר אשר, bókstaflega 'í þá guðs vegna að', þýtt sem eitt 'svo að'."
+    }
+  ],
+  "translation": "Og þú skalt færa föður þínum ⟨את⟩, og hann skal eta, svo að hann blessi þig á undan dauða sínum.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5e1ae108dd9a376b45953dd9cce28c79600ff5e5852820767598dc188d89234c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/27\/9-12.1792393230251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "og þú skalt færa"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "föður þínum"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "og hann skal eta"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "svo að"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(að)"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "hann blessi þig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "á undan"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "dauða sínum"
+    }
+  ],
+  "timestamp": "2026-10-19T07:00:30.252031783Z",
+  "model": "glm-5.3"
+}

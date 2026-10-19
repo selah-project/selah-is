@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מחרשים",
+      "rationale": "rótin er 'að plægja\/risa' — hér 'að þegja'; KJS bætir við 'speak ye not a word' sem hebreskan segir ekki"
+    },
+    {
+      "kind": "you",
+      "subject": "til alls Ísraels",
+      "rationale": "spurningin beinist til lýðsins í öðrum persónu fleirtölu"
+    }
+  ],
+  "translation": "En Avsjalóm, er vér smurðum ⟨hann⟩ yfir oss, er dauður í orustunni, og nú — hví þögluð þér um að snúa konunginum ⟨את⟩ aftur?",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "66c534f3ddee1849a6f3eaa4f7a6aec74df96257ccc411bae1f5cd173a3afdcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/19\/9-12.1792401667294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "En Avsjalóm"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "vér smurðum"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "yfir oss"
+    },
+    {
+      "surface": "מת",
+      "gloss": "er dauður"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "í orustunni"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "og nú"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hví"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "þér"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "þögluð"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "um að snúa aftur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konunginum"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konunginum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:21:07.295190742Z",
+  "model": "glm-5.3"
+}

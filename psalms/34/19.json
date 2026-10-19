@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "'mun hann' — hebreska framtíðarformið bært við með hjálpsögn"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rúakh",
+      "rationale": "רוח ritað eftir hljóði — vindur\/andi\/argarák, ekki þýtt til eins orðs"
+    }
+  ],
+  "translation": "Nálægur er Jahve þeim er hjartað er brotið í þeim, og þá er rúakh er ⟨את⟩ kramin mun hann hjálpa.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/34\/17-20.1792409591903.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Nálægur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "þeim er ... brotið"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hjartað"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "og ⟨את⟩",
+      "marks": "þá er rúakh er kramin"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "kramin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rúakh"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "mun hann hjálpa"
+    }
+  ],
+  "timestamp": "2026-10-19T11:33:11.904536085Z",
+  "model": "glm-5.3"
+}

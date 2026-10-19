@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרס\/פרסה\/פרסות",
+      "rationale": "endurtekin rót 'klauf' þrisvar sinnum; fjöldi orða í íslensku gleymir samhljóðanum"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "hebreska hefur enga sögn í 'það megið þér eta'; íslenskan bætir við 'mega'"
+    }
+  ],
+  "translation": "Allt það sem klofar klauf og er skakað klaufinn í klöfum, og fær upp jôgurð — af búfénu — það megið þér eta.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/11\/1-4.1792395625482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Allt"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "sem klofar"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "klauf"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "og er skakað"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "klof"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "í klöfum"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "og fær upp"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "jôgurð"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "af búfénu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "það"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "megið þér eta"
+    }
+  ],
+  "timestamp": "2026-10-19T07:40:25.484128278Z",
+  "model": "glm-5.3"
+}

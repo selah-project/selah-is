@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Tíðarbeygingarfornafn 'hann mun' bætt við — hebreskan hefur engin hjáspáorð."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהרסם\/יבנם",
+      "rationale": "Andstæð lykilorð rífa-niður\/byggja-upp — hrynrýn hefur glatast að hluta í íslensku."
+    }
+  ],
+  "translation": "Því að þeir skilja ekki verk Jahve né athafnir handa hans; hann mun rífa þá niður og ekki byggja þá upp.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/28\/5-8.1792409514618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "þeir skilja"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(að)"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "verk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "né"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "athafnir"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "handa hans"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "hann mun rífa þá niður"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "byggja þá upp"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:54.618650839Z",
+  "model": "glm-5.3"
+}

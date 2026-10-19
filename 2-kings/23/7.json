@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "is",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקדשים",
+      "rationale": "'Hinir helgu': helgimenn gyðjudýrkunar — KJK 'sódómískir menn' miðar við 5. Mós 23; annar kostr 'helgihúsmenn'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתי\/בתים",
+      "rationale": "Sama orð 'hús' tvisvar: hann braut húsin og konurnar vöfðu hús — endurtekningin glatar ekki, hún heldst."
+    }
+  ],
+  "translation": "Og hann braut niður ⟨את⟩ hús hinna helgu, þau er voru í húsi Jahve, þar sem konurnar vöfðu þar hús fyrir Aséru.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "e6c4bff004ccb0ff64a19b024759a4b3bc900bf88662abbe8973e5b11489962b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-kings\/23\/5-8.1792403521906.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "braut niður"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hús hinna helgu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "hús"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "hinna helgu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þau er"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "í húsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "konurnar"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "vöfðu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "hús"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "fyrir Aséru"
+    }
+  ],
+  "timestamp": "2026-10-19T09:52:01.908398207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "⟨það⟩ bætt við — hebreskan segir aðeins „þú gafst honum“"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "tvö orð um eilíft tímaatgervi — „eilífuð og að eilífu“ varðveit endurtekninguna"
+    }
+  ],
+  "translation": "Líf bað hann um frá þér, og þú gafst honum ⟨það⟩ — lengd daga, eilífuð og að eilífu.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/21\/5-8.1792409464396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Líf"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "bað hann um"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "frá þér"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "þú gafst"
+    },
+    {
+      "surface": "לו",
+      "gloss": "honum"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengd"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "daga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "eilífuð"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og að eilífu"
+    }
+  ],
+  "timestamp": "2026-10-19T11:31:04.396819401Z",
+  "model": "glm-5.3"
+}

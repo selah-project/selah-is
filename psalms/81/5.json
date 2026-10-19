@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "משפט rendered 'dómur' (D2), en biblíuþýðingar segja oft 'lög' eða 'skipan'."
+    }
+  ],
+  "translation": "Því að það er ákvæði fyrir Ísrael, dómur Elóhím Jaakobs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/81\/5-8.1792410290364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ákvæði"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "fyrir Ísrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "það"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dómur"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobs"
+    }
+  ],
+  "timestamp": "2026-10-19T11:44:50.365369513Z",
+  "model": "glm-5.3"
+}

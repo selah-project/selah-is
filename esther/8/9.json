@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 8:9",
+  "book": "esther",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "is",
+      "rationale": "Versið telur dag (23. Síván), hérað (127) og lýsir rit- og tunguskipti hvers héraðs og þjóðar."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה \/ עם ועם",
+      "rationale": "Tvítekið uppröðunarsamband 'hérað fyrir hérað, þjóð fyrir þjóð' — endurtekin stig sem gefa versinu stjórnulega lögun."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Hebreska forsetningin hverfur — íslenskan notar þágufall Gyðinga\/satröpanna án samsvarandi orðs."
+    }
+  ],
+  "translation": "Og kallaðir voru ritarar konungsins á þeirri stundu, í mánuðinum þriðja — hann er mánuðurinn Síván — þann tuttugu og þrjá í honum; og ritað var allt það sem Mordekaj bauð Gyðingum og satröpum og höfuðsmönnum og höfðingjum héraðanna sem frá Hodú og til Kús, hundrað og tuttugu og sjö héraða, hérað fyrir hérað eftir rit því, og þjóð fyrir þjóð eftir tungu sinni, og Gyðingum eftir rit þeirra og eftir tungu þeirra.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/esther\/8\/9-12.1792413398338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Og kallaðir voru"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "ritarar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konungsins"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "á þeirri"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "stundu"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "í mánuðinum"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "þriðja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hann"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mánuðurinn"
+    },
+    {
+      "surface": "סיון",
+      "gloss": "Síván"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "þrjá"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tuttugu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í honum"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "og ritað var"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "allt það"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bauð"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Gyðingum"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og"
+    },
+    {
+      "surface": "האחשדרפנים",
+      "gloss": "satröpum"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "og höfuðsmönnum"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "og höfðingjum"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "héraðanna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "frá Hodú"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "og til"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kús"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sjö"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "og tuttugu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "og hundrað"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "héraða"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "hérað"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "og hérað"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "eftir rit því"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og þjóð"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "og þjóð"
+    },
+    {
+      "surface": "כלשנו",
+      "gloss": "eftir tungu sinni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "og"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Gyðingum"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "eftir rit þeirra"
+    },
+    {
+      "surface": "וכלשונם",
+      "gloss": "og eftir tungu þeirra"
+    }
+  ],
+  "timestamp": "2026-10-19T12:36:38.339281616Z",
+  "model": "glm-5.3"
+}

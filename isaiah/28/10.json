@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צו לצו קו לקו",
+      "rationale": "hljóðverk — stutt tvíhljóða stofar endast í kor, smátt og smátt; íslenska heldur endurtekningunni en ekki fullkomna samhljóðann"
+    },
+    {
+      "kind": "crux",
+      "subject": "boð við boð",
+      "rationale": "hefð: 'skipun við skipun, lína við línu' (kenning fyrir endurtekna kenningu); aðrar lesnir: háð eftirherming stammlegra hjá spámanninum, eða óþýðanleg barnamáli"
+    },
+    {
+      "kind": "mystery",
+      "subject": "erfiður texti",
+      "rationale": "versið er meðvitað ógagnsætt — hljóðeftirherming sem lokast á 'smátt þar, smátt þar'"
+    }
+  ],
+  "translation": "Því að boð við boð, boð við boð, lína við línu, lína við línu, smátt þar, smátt þar.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/28\/9-12.1792404182017.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "צו",
+      "gloss": "boð"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "við boð"
+    },
+    {
+      "surface": "צו",
+      "gloss": "boð"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "við boð"
+    },
+    {
+      "surface": "קו",
+      "gloss": "lína"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "við línu"
+    },
+    {
+      "surface": "קו",
+      "gloss": "lína"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "við línu"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "smátt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "smátt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    }
+  ],
+  "timestamp": "2026-10-19T10:03:02.018986551Z",
+  "model": "glm-5.3"
+}

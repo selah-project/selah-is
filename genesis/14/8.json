@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 14:8",
+  "book": "genesis",
+  "lang": "is",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "á íslensku þarf sagnfyllingu 'er' við הוא — hebreskan hefur aðeins无言táknheiti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "réðust … til orrustu",
+      "rationale": "ויערכו מלחמה er bókstaflega 'undirbúðu orrustu, settu hersveitir í röð' — íslenskan notar eina sögn"
+    },
+    {
+      "kind": "elision",
+      "subject": "השדים",
+      "rationale": "greinirinn ה- fellur burt — íslenski greinirinn 'Siddímdalnum' er viðskeyttur"
+    }
+  ],
+  "translation": "Og konungur Sódómó og konungur Amórhó og konungur Admó og konungur Tsevojím og konungur Bela — hún er Tsoar — fóru út og réðust ⟨את⟩ þeim til orrustu í Siddímdalnum.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "92f9e510a0fa23c3545cd4ffa28d9b68bfb46b5bf4f794d2bb05030e218003e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/genesis\/14\/8-8.1792416208597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "fóru út"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sódómó"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og konungur"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amórhó"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og konungur"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Admó"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og konungur"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevojím"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "og konungur"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hún er"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "réðust"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þeim"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "til orrustu"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "í dalnum"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Siddím"
+    }
+  ],
+  "timestamp": "2026-10-19T13:23:28.598394464Z",
+  "model": "glm-5.3"
+}

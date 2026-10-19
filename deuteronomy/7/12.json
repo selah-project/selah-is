@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 7:12",
+  "book": "deuteronomy",
+  "lang": "is",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "'hæl' — myndulega 'sem afleiðing af'; KJV 'wherefore', aðrir 'if\/því að'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khesed",
+      "rationale": "חסד er khesed — eingöngu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/שמע",
+      "rationale": "hlýða–varðveita endurtekið í keðju: þið varðveitið, hann varðveitir"
+    }
+  ],
+  "translation": "Og það mun verða, þar sem þið hlýðið ⟨את⟩ þessum dóumum og varðveitið ⟨את⟩ þá og gjörið ⟨את⟩ þá, að Jahve, Elóhím þinn, mun halda fyrir þig ⟨את⟩ sáttmálann og ⟨את⟩ khesed sem hann sór feðrum þínum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/deuteronomy\/7\/9-12.1792397761015.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Og það mun verða"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "þar sem"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "þið hlýðið"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "þessum dóumum"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dómum"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "þessum"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "og varðveitið"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "og gjörið"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "að hann mun halda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elóhím þinn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "fyrir þig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sáttmálann"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sáttmálann"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "khesed"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "og khesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hann sór"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "feðrum þínum"
+    }
+  ],
+  "timestamp": "2026-10-19T08:16:01.016421177Z",
+  "model": "glm-5.3"
+}

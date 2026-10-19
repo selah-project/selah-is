@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "גֵאוּת merkir upphákkun\/æðruleysi; 'stórfenglegt' er val á milli 'dýrð' og 'ofurdjárvlegt', sem lagar ekki allar skyndingar"
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "מידעת er sagnmynd án meðvitundar orðs; 'er' bætt við á íslensku (⟨er⟩)"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "מידעת: lestur 'þetta ER kunnugt' (KJV, ASV-víxlað boðhairt) á móti boðhátt 'kunngjörið þetta!' (JPS 'let this be known')"
+    },
+    {
+      "kind": "invitation",
+      "subject": "is",
+      "rationale": "Ljóðkáldið beinir boðháttarháttum ('Syngið') að lesandanum ásamt v. 4-6 sem heild"
+    }
+  ],
+  "translation": "Syngið Jahve, því að stórfenglegt hefur hann gjört; kunnugt er þetta á allri jörðinni.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "02bb020b015ec647b5d0428066602a3f74d465d47bb96e4e3e96048daf9ea384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/12\/5-6.1792403841806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Syngið"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "stórfenglegt"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hefur hann gjört"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "kunnugt ⟨er⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "á allri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "jörðinni"
+    }
+  ],
+  "timestamp": "2026-10-19T09:57:21.806558397Z",
+  "model": "glm-5.3"
+}

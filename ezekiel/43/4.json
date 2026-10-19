@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "is",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sögnin 'snýr' er bætt við — hebreskan segir aðeins 'andlit hans' + 'veg austurs'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פניו",
+      "rationale": "'andlit hans' vísar til hliðarinnar sem snýr austur — hebreskan talar um andlit, ekki átt"
+    }
+  ],
+  "translation": "Og dýrð Jahve kom inn í húsið, um veg hliðsins sem andlit hans ⟨snýr⟩ til austurs.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "2a41d481e7e5d81f58ba2704b0827c16a6403b1d2d3ede707daf6234dadc18e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/ezekiel\/43\/4-4.1792416862037.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "Og dýrð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom inn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "í"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "húsið"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "um veg"
+    },
+    {
+      "surface": "שער",
+      "gloss": "hliðsins"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "andlit hans"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "til"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "austurs"
+    }
+  ],
+  "timestamp": "2026-10-19T13:34:22.038126625Z",
+  "model": "glm-5.3"
+}

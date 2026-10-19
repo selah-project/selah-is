@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מכהו\/הכהו · הרגיו\/הרג",
+      "rationale": "Þríuslungin rótarleikur naká\/harag — 'sló\/sleginn', 'drap\/drepinn' — endurtekinn stofn, órþýðanlegur endómur"
+    },
+    {
+      "kind": "crux",
+      "subject": "hvort 'hann'",
+      "rationale": "Fornafnið 'hann' getur verið Ísrael eða þjóðflokkar — hebreskan er tvíræð um hver sló og hver var sleginn"
+    }
+  ],
+  "translation": "Eins og slagið á hann — hefur ⟨sá⟩ slegið hann sem sló hann? Eða eins og fallnir hans — hefur hann verið drepinn eins og þeir sem honum voru vegnir?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7c8ff48e480b5c6a3471f49fae736cd6e7c1cfa83cdd1cefdd810f1078904408",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/27\/5-8.1792404165935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Eins og slagið"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "á hann"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "hefur slegið hann"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Eða"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "eins og fallnir"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "hans"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "hefur hann verið drepinn"
+    }
+  ],
+  "timestamp": "2026-10-19T10:02:45.936748441Z",
+  "model": "glm-5.3"
+}

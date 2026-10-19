@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משור אבוס",
+      "rationale": "'fóðrað naut' (ytl) á móti 'stíflað naut' (kjb) — אבוס merkir 'að fóðra', ekki 'að stífla'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hata",
+      "rationale": "שנאה er ritað eftir hljóði (D3), ekki 'hatur'"
+    }
+  ],
+  "translation": "Betri er máltíð af grænmeti og ást þar, en fóðrað naut og hata í því.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "173c25e58a233029735c8f8bc41f3aacef86cd2baf14377cf8a7b3e33745467f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/15\/17-20.1792411428459.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Betri"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "máltíð"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "grænmeti"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "og ást"
+    },
+    {
+      "surface": "שם",
+      "gloss": "þar"
+    },
+    {
+      "surface": "משור",
+      "gloss": "naut"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "fóðrað"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "og hata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "í því"
+    }
+  ],
+  "timestamp": "2026-10-19T12:03:48.460227836Z",
+  "model": "glm-5.3"
+}

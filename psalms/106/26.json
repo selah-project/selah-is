@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "וישא ידו — 'hóf hond sína' til eiðs (sjá 5Mós 32:40) eða ógnar; ASV\/JPS 'svo hann sór'"
+    }
+  ],
+  "translation": "Og hann hélt upp hendi sinni gegn þeim til að fella þá ⟨את⟩ í eyðimörkinni.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/106\/25-28.1792410631560.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hélt upp"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hendi sinni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "gegn þeim"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "til að fella"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "þá"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "í eyðimörkinni"
+    }
+  ],
+  "timestamp": "2026-10-19T11:50:31.561457173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 1:11",
+  "book": "daniel",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלצר",
+      "rationale": "KJS og Jeneva lesa 'Meltsar' sem eiginnafn með greini; ASV og JPS lesa 'veitingamaður\/ryðjandi' (málsgrein orðsins 4453); hér er titillinn valinn."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Íslenska þarf tvípunk á enda verssins til að búa yfir setninguna; hebreskan heldur frásögninni áfram í versi 12 án slíks marks."
+    }
+  ],
+  "translation": "Og Daniél sagði við veitingamanninn, er höfuð geldinganna hafði sett yfir Daniél, Khananja, Mishaél og Asarja:",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7fdd05ead5c1d257a1181e2c1b7b1ddb346b5bd576e6bf5a3164fd114d9fca8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/daniel\/1\/10-11.1792417071895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniél"
+    },
+    {
+      "surface": "אל",
+      "gloss": "við"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "veitingamanninn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "er"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "hafði sett"
+    },
+    {
+      "surface": "שר",
+      "gloss": "höfuð"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "geldinganna"
+    },
+    {
+      "surface": "על",
+      "gloss": "yfir"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniél"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Khananja"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishaél"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "og Asarja"
+    }
+  ],
+  "timestamp": "2026-10-19T13:37:51.895950861Z",
+  "model": "glm-5.3"
+}

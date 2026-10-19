@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גרשם\/גר",
+      "rationale": "Nafnið Gersjóm hljómar 'ger sham' — fostumaður þar; orðaleikurinn glatarst ekki alveg í íslensku með 'föstumaður'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נכריה",
+      "rationale": "'Framandi' fyrirAdj sem merkir útlendska, ókunnugan"
+    }
+  ],
+  "translation": "Og hún fæddi son, og hann kallaði ⟨את⟩ nafn hans Gersjóm, því að hann sagði: Föstumaður hef ég verið í framandi landi.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "83a87c186a844b9a3823942c09b5ec4114d9aaed6f8622eea264855397fa0620",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/2\/21-24.1792394098095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "fæddi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "son"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "kallaði"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nafn hans"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nafn hans"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersjóm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því að"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sagði"
+    },
+    {
+      "surface": "גר",
+      "gloss": "föstumaður"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "hef ég verið"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "í landi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "framandi"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:58.096447795Z",
+  "model": "glm-5.3"
+}

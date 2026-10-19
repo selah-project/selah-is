@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 12:23",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "er",
+      "rationale": "Þýðingin bætir við 'er dáinn' — hebreskan segir aðeins מת, 'dó', á ttk."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני הלך אליו \/ והוא לא ישוב אלי",
+      "rationale": "Andstæða í spegli: ég fer til hans — hann kemur ekki til mín; sama snúningur (הלך\/שוב) báðum megin, tapaður að hluta til í íslensku."
+    }
+  ],
+  "translation": "En nú er hann dáinn — hvers vegna er þetta, að ég fasti? Get ég fært hann aftur? Ég fer til hans, en hann kemur ekki aftur til mín.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "d31da3a0cb420da2352f89f387e51be2c39559b0a256069cd70c9da6de2b55bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/12\/21-24.1792401423385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nú"
+    },
+    {
+      "surface": "מת",
+      "gloss": "er dáinn"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hvers vegna"
+    },
+    {
+      "surface": "זה",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "צם",
+      "gloss": "fasti"
+    },
+    {
+      "surface": "האוכל",
+      "gloss": "get"
+    },
+    {
+      "surface": "להשיבו",
+      "gloss": "fært hann aftur"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aftur"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ég"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "fer"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "til hans"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hann"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kemur aftur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "til mín"
+    }
+  ],
+  "timestamp": "2026-10-19T09:17:03.387146150Z",
+  "model": "glm-5.3"
+}

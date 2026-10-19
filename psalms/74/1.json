@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "אפך er bókstaflega 'nefþinn\/nasir þinn' — reiðin sem reykar úr nösum; 'reiði' týnir myndinni"
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "kongreinska hefur ekki hljóðstafa sem beygjum við 'þú' og 'þín' — hebreska endingsfornafninu er varið með íslenskum eignarfornöfnum"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "bein heiting til Elóhím í klagebænni — spurning hví hann hafi yfirgefið þjóð sína"
+    }
+  ],
+  "translation": "Kenniljóð eftir Asaf. Hví hefur þú, Elóhím, skygt á okkur að eilífu? Reykur reiði þín gegn kindum beitars þíns.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/74\/1-4.1792410206882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Kenniljóð"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "eftir Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Hví"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "hefur þú skygt"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "reykur"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "reiði þín"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "gegn kindum"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "beitars þíns"
+    }
+  ],
+  "timestamp": "2026-10-19T11:43:26.883442715Z",
+  "model": "glm-5.3"
+}

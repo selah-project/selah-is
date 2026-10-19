@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התקם",
+      "rationale": "frá נתק — 'togga burtu' eða 'greina þá frá' (sjá YLT 'separate'); báðar lesnir meðal þýðenda"
+    },
+    {
+      "kind": "you",
+      "subject": "til Jahve",
+      "rationale": "beint bænaljóð Jeremía til Jahve — ekki til lýðsins"
+    }
+  ],
+  "translation": "En þú, Jahve, þekkir mig, þú sérð mig og prófar hjarta mitt hjá ⟨את⟩-þér; togga þá burtu eins og sauðfé til slátrunar og helga þá fyrir degi drápsins.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/12\/1-4.1792405601910.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En þú"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "þekkir mig"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "sérð mig"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "og prófar"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hjarta mitt"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ hjá",
+      "marks": "hjarta mitt"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "togga þá burtu"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "eins og sauðfé"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "til slátrunar"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "og helga þá"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "fyrir dag"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "drápsins"
+    }
+  ],
+  "timestamp": "2026-10-19T10:26:41.912274958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "לכפר er bókstaflega 'þekja'; 'blóthreinsun' var valið en ekki 'sónming'."
+    },
+    {
+      "kind": "elision",
+      "subject": "is",
+      "rationale": "Passív frásögn á íslensku krefst hjálparsagnar sem hebreskan heldur í sagnmyndinni."
+    }
+  ],
+  "translation": "Eins og gert var á þessum degi, hefur Jahve borið ⟨áður⟩ ⟨að gera svo⟩, til að gera ykkur blóthreinsun.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "5a92882fcb901808f294fa10daee248357e112c10b2b9df5b4ac63afb3e44f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/leviticus\/8\/33-36.1792395587988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "eins sem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gert var"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "á degi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "þessum"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "hefur borið fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "til að gera"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "til að blóthreinsa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "fyrir ykkur"
+    }
+  ],
+  "timestamp": "2026-10-19T07:39:47.989843397Z",
+  "model": "glm-5.3"
+}

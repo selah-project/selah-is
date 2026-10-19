@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenska þarf fyrirsagnarsetninguna „var“ fyrir Rafa, en hebreskan segir aðeins „Rafa sonur hans“."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ættartala",
+      "rationale": "Versið er hluti af ættartölu Benjamín."
+    }
+  ],
+  "translation": "Og Mótsa gat ⟨את⟩ Bína; Rafa var sonur hans, Elasa sonur hans, Atsel sonur hans.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "661acc558170f2df8631ba40761ceec7f39ea65341f8212b3c296d8b0d68141a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/8\/37-40.1792414642314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "Og Mótsa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "gat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bína"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Bína"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Atsel"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sonur hans"
+    }
+  ],
+  "timestamp": "2026-10-19T12:57:22.315002221Z",
+  "model": "glm-5.3"
+}

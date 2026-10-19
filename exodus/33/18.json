@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "כבוד er 'þyngd, þunga' myndulega — 'dýrð' er hefð en rótin er þyngd."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jahve",
+      "rationale": "Mósje beinir beiðni sinni beint að Jahve."
+    }
+  ],
+  "translation": "Og hann sagði: Sýn mér, bið ek, ⟨את⟩ dýrð þína.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "f75ae32522f2b9cc6076c3b186a90a01c4976cf5d15144ab463ca73c6bee2459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/33\/17-20.1792395138227.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Og sagði"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Sýn mér"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bið ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dýrð þína"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "dýrð þína"
+    }
+  ],
+  "timestamp": "2026-10-19T07:32:18.228261095Z",
+  "model": "glm-5.3"
+}

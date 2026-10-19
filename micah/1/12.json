@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרות",
+      "rationale": "Marót hljómar við 'bitterð' (mar) — borgin sem beið eftir góðu fékk biturdóm."
+    },
+    {
+      "kind": "crux",
+      "subject": "חלה",
+      "rationale": "'heldur eftir'\/'vonar' (KJV) vs. 'veikist' (Wycliffe) — rótin khul merkir að snúast, pyntast; hvorug lesning einræð."
+    }
+  ],
+  "translation": "Því sú sem býr í Marót heldur eftir góðu, því ógna hefur komið niður frá ⟨את⟩ Jahve að hlíð Jerúsjalajím.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/micah\/1\/9-12.1792408575751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "heldur eftir"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "góðu"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "sú sem býr"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "í Marót"
+    },
+    {
+      "surface": "כי",
+      "gloss": "því"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "hefur komið niður"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ógna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "frá ⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "að hlíð"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerúsjalajím"
+    }
+  ],
+  "timestamp": "2026-10-19T11:16:15.752828128Z",
+  "model": "glm-5.3"
+}

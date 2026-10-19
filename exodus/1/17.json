@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "is",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "המילדת er kallaðar ljósmæðrar; hebreska orðið merkir konurnar sem hjálpa til við fæðingu"
+    },
+    {
+      "kind": "you",
+      "subject": "to the midwives",
+      "rationale": "konungur Mitsrajím talar til ljósmæðranna — en versið sjálft lýsir gjörðum þeirra"
+    }
+  ],
+  "translation": "En ljósmæðrarnar óttuðust ⟨את⟩ Elóhím og gjörðu ekki eins og konungur Mitsrajím talaði til þeirra, og létu ⟨את⟩ sveinana lifa.",
+  "provenance": {
+    "system-sha256": "56bcc3a969a6c4ad31dc98c03e0ab0e228d36cc91a1a7fd57f4f90575c59580c",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/exodus\/1\/17-20.1792394069222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "óttuðust"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ljósmæðrarnar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elóhím"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gjörðu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "eins og"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "talaði"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "til þeirra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konungur"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajím"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "og létu lifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sveinana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sveinana"
+    }
+  ],
+  "timestamp": "2026-10-19T07:14:29.222890304Z",
+  "model": "glm-5.3"
+}

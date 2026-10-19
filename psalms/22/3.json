@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דומיה לי",
+      "rationale": "„Engin þögn fyrir mér“ (ég fæ engan hvíld) vs. „þú þagnar ekki fyrir mér“ — hvörgu myndin er möguleg í grunntextanum"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יומם\/ולילה",
+      "rationale": "Dag\/nótt andstæðupár — kall dag og nótt án svars, andstæðan varðveitt"
+    }
+  ],
+  "translation": "Elóhím minn, ég kalli um daginn og þú svarar ekki, og um nætti og engin þögn ⟨er⟩ fyrir mig.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/22\/1-4.1792409445046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elóhím minn"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ég kalli"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "um daginn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "þú svarar"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "og um nætti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og engin"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "þögn"
+    },
+    {
+      "surface": "לי",
+      "gloss": "fyrir mig"
+    }
+  ],
+  "timestamp": "2026-10-19T11:30:45.047495890Z",
+  "model": "glm-5.3"
+}

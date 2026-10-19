@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "השחת er gryfjan\/eyðingin; KJV 'corruption' og BSB 'decay' flytja út túlkun sem hebreskan segir ekki"
+    },
+    {
+      "kind": "mystery",
+      "subject": "is",
+      "rationale": "versið heldur áfram umræðunni um hvort maður geti keypt sig undan dauðanum — hið ósvaraða spurningartákn sálmsins"
+    }
+  ],
+  "translation": "að lifa enn að eilífu, að sjá ei grafargryfjuna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/49\/9-12.1792409804365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "lifi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enn"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "að eilífu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ei"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sjái"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "grafargryfjuna"
+    }
+  ],
+  "timestamp": "2026-10-19T11:36:44.366277375Z",
+  "model": "glm-5.3"
+}

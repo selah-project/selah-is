@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "is",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "Berpviður (cypress) samkvæmt JPS; KJS 'fir' — tegund trés óvís."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משחקים",
+      "rationale": "שחק er 'hlæja\/leika sér' — 'léku' heldur myndinni frekar en 'féllu í dáð'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ובמנענעים",
+      "rationale": "Ristluð hljóðfæri — orðið kemst ekki aftur í Tanakh með þessari merkingu."
+    }
+  ],
+  "translation": "Og Davíð og allt hús Ísraels léku fyrir Jahve á öllum hljómfærum úr berpviði, og á harpur og á nöblum og á töntrum og á sisurum og á símblum.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "99189915eaf72642e10d5faa67746224728450704f4fc4027ba533f283139233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/2-samuel\/6\/5-8.1792401272369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Og Davíð"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allt"
+    },
+    {
+      "surface": "בית",
+      "gloss": "hús"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ísraels"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "léku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "fyrir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "á öllum"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hljómfærum úr"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "berpviði"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "og á harpur"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "og á nöblum"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "og á töntrum"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "og á sisurum"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "og á símblum"
+    }
+  ],
+  "timestamp": "2026-10-19T09:14:32.370002026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taman",
+      "rationale": "טמן er ‚að fela\/grafa'; ‚færir' í skálina er dregið úr myndinni"
+    },
+    {
+      "kind": "idiom",
+      "subject": "nil'ah",
+      "rationale": "נלאה — ‚þreyttur\/leiður'; flutt sem ‚fyrir höndum' til að halda skemmtileginni"
+    }
+  ],
+  "translation": "Slævinn færir höndina í skálina; ⟨það⟩ er honum fyrir höndum að flytja hana aftur upp í munninn.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "9303938cdea077702843c108027c0b092f80a992ef27443ebd0a0086bfd5a494",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/26\/13-16.1792411613328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "færer"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "Slævinn"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "höndina"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "í skálina"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "er honum fyrir höndum"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "að flytja hana aftur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "upp í"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "munninn"
+    }
+  ],
+  "timestamp": "2026-10-19T12:06:53.329159079Z",
+  "model": "glm-5.3"
+}

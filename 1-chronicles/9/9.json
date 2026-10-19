@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 9:9",
+  "book": "1-chronicles",
+  "lang": "is",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "956",
+      "rationale": "Talið yfir bræðranna: níu hundruð fimmtíu og sex, ritað með orðum eins og hebreskan."
+    },
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Sagnirnar 'voru' og 'sinna' eru settar inn; hebreskan hefur enga sögn hér."
+    }
+  ],
+  "translation": "Og bræður þeirra eftir kynslóðum þeirra — níu hundruð og fimmtíu og sex; allir þessir voru menn, höfðar feðra, eftir fæðingarhúsum feðra sinna.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "c00825f8d877eb3a4d44fb529c1c356071c3d7b15fba802f1cd7d35a9ce02bbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/1-chronicles\/9\/9-12.1792414650871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Og bræður þeirra"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "eftir kynslóðum þeirra"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "níu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hundruð"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "og fimmtíu"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "og sex"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allir"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "þessir"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "menn"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "höfðar"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "feðra"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "eftir fæðingarhúsum"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "feðra sinna"
+    }
+  ],
+  "timestamp": "2026-10-19T12:57:30.872536093Z",
+  "model": "glm-5.3"
+}

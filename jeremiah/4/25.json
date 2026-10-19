@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Íslenskan þarf sögnina 'var' sem hebreskan sleppir með אין"
+    },
+    {
+      "kind": "crux",
+      "subject": "והנה",
+      "rationale": "hvít sem \/ sjá – \/ og hvít sem: ýmis geymslumál í afstöðu til הנה"
+    }
+  ],
+  "translation": "Ég sá, og hvít sem ⟨það⟩: enginn maður var ⟨þar⟩, og allur fugl himnanna hafði flust burt.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "7b0977cf8996c91a22f42e9f0aee1c3f74584886385ef77c369525eb3da27565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/4\/25-28.1792405331341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ég sá"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "og hvít sem"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enginn"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "maður"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "og allur"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "fugl"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "himnanna"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "hafði flust burt"
+    }
+  ],
+  "timestamp": "2026-10-19T10:22:11.341799664Z",
+  "model": "glm-5.3"
+}

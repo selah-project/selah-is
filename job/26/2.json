@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "is",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "is",
+      "rationale": "Spurnarorðin hvé\/hví gefa til kynna háðslegt spurningartónn sem hebreskan segir með מֶה"
+    },
+    {
+      "kind": "substitution",
+      "subject": "armur",
+      "rationale": "זְרוֹעַ er teygt út arm — myndlíking um styrk, ekki líkamslim"
+    }
+  ],
+  "translation": "Hvé hefur þú hjálpað ⟨þeim⟩ sem eigi hafa kraft, hví hefur þú frelsað arm þann er eigi á styrk?",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "a2f3b40aff160d0dd3c365ff1752a3fd0cf77a6274e6186a3bce8ca368fff7d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/job\/26\/1-4.1792412221518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hvé"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hefur þú hjálpað"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kraft"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "hefur þú frelsað"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eigi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "styrk"
+    }
+  ],
+  "timestamp": "2026-10-19T12:17:01.519568875Z",
+  "model": "glm-5.3"
+}

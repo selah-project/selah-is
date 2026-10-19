@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "is",
+      "rationale": "'ויש אתך' — bókstaflega 'og það er með þér', það er: þegar þú hefur efnið hjá þér; gefið óbeint"
+    },
+    {
+      "kind": "you",
+      "subject": "is",
+      "rationale": "Bein ræða til náungans — og vísvitandi til lesandans sem kallar til náunga"
+    }
+  ],
+  "translation": "Segðu ekki við náunga þinn: Farðu og kom aftur, og á morgun mun ég gefa — og það ⟨er⟩ með ⟨את⟩ þér.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/3\/25-28.1792411204899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "segðu"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "við náunga þinn"
+    },
+    {
+      "surface": "לך",
+      "gloss": "farðu"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "og kom aftur"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "og á morgun"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "mun ég gefa"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "og ⟨er⟩"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "með ⟨את⟩ þér"
+    }
+  ],
+  "timestamp": "2026-10-19T12:00:04.900839418Z",
+  "model": "glm-5.3"
+}

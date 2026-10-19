@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "is",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "is",
+      "rationale": "יבאיש er eiginlega 'myrkt lyktar', reitt ílát: 'fýlar\/rotnar'"
+    },
+    {
+      "kind": "crux",
+      "subject": "is",
+      "rationale": "יבאיש ויחפיר: virði 'gerir ógeðslegt og verður skammaður' eða 'rotnar og er settur í skömm'"
+    }
+  ],
+  "translation": "Orð lygar hatar réttlátur maður, en vondur maður fýlar og verður skammaður.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/proverbs\/13\/5-8.1792411310853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lygar"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "hatar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "réttlátur maður"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "en vondur maður"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "fýlar"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "og verður skammaður"
+    }
+  ],
+  "timestamp": "2026-10-19T12:01:50.853945433Z",
+  "model": "glm-5.3"
+}

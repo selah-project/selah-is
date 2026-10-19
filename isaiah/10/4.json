@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "is",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלתי",
+      "rationale": "Lítið orð, umdeilt: 'aðeins\/nema' (ásb\/jps) eða 'án mín' (kjv, lesið úr rót)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרע...יפלו",
+      "rationale": "Kjása og falla — tveir fallhættir í samstöðu, myndrænt veldisleysi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "gloss": "reiði",
+      "rationale": "Bókstaflega 'nef hans \/ nasir' — reiðin er andartekt í hebresku."
+    }
+  ],
+  "translation": "Aðeins að kjása undir fangum, og undir felldum að falla. Við allt þetta sneri reiði hans ekki aftur, og enn er hönd hans útrétt.",
+  "provenance": {
+    "system-sha256": "9dbf37c5dfaaf92675855770eef4438f3f2a48c25f47e2a2bb06c75d6de8e364",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/isaiah\/10\/1-4.1792403921699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "aðeins"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "að kjása"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "undir"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "fanga"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "og undir"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "felldum"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "að falla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "við allt"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "þetta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ekki"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sneri aftur"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "reiði hans"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "og enn"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "hönd hans"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "útrétt"
+    }
+  ],
+  "timestamp": "2026-10-19T09:58:41.700887531Z",
+  "model": "glm-5.3"
+}

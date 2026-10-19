@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "is",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eru",
+      "rationale": "Hebreskan er án sagnorðs; íslenskan þarf fyllingu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "þakkir",
+      "rationale": "תודות er þakkfórnum, réttnefni handaþrýstingur — þakkjargjöf, ekki aðeins orð"
+    }
+  ],
+  "translation": "Yfir mig, Elóhím, ⟨eru⟩ heit þín; ég skal gjalda þér þakkir.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/psalms\/56\/13-14.1792409932653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Yfir mig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhím"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "heit þín"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ég skal gjalda"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "þakkir"
+    },
+    {
+      "surface": "לך",
+      "gloss": "þér"
+    }
+  ],
+  "timestamp": "2026-10-19T11:38:52.653755689Z",
+  "model": "glm-5.3"
+}

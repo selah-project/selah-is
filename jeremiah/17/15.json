@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "það",
+      "rationale": "Íslenskan þurfir frumlag ⟨það⟩ fyrir 'kom'"
+    },
+    {
+      "kind": "you",
+      "subject": "spottararnir",
+      "rationale": "Óvinir Jeremía haða orði með beinni spurningu — áskorun tiltæk í nánd, beint í ljósið á spámanninn"
+    }
+  ],
+  "translation": "Sjá, þeir segja við mig: Hvar er orð Jahve? Kom það nú!",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/17\/13-16.1792405759293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Sjá"
+    },
+    {
+      "surface": "המה",
+      "gloss": "þeir"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "segja"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "við mig"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Hvar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "orð"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nú"
+    }
+  ],
+  "timestamp": "2026-10-19T10:29:19.294707235Z",
+  "model": "glm-5.3"
+}

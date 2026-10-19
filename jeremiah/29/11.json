@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 29:11",
+  "book": "jeremiah",
+  "lang": "is",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחרית ותקוה",
+      "rationale": "„framtíð og von“ vs KJV „expected end“ og ASV „hope in your latter end“ — acharít getur merkt endan eða það sem á eftir kemur"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Jahve talar beint til Landflytninganna í Babel um hugsanir sínar gagnvart þeim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחשבות\/חשב",
+      "rationale": "sömu rót endurtekin — „hugsanirnar … sem ég hugsa … hugsanir“ — kolfrasar"
+    }
+  ],
+  "translation": "Því að ég veit ⟨את⟩ hugsanirnar sem ég hugsa um yður, segir Jahve — hugsanir friðar og ekki til ógæfu, til að gefa yður framtíð og von.",
+  "provenance": {
+    "system-sha256": "8182907fb6c29ac61c3e022650cbb3f8e89cf944fb757525d5b0e1a6865456d8",
+    "user-sha256": "70c4a9a201890c3269109a2e9ea1c11cfe26ca9cbf69b90fda2072ffa419c458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/is\/jeremiah\/29\/9-12.1792406056220.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Því að"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "veit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hugsanirnar"
+    },
+    {
+      "surface": "המחשבת",
+      "gloss": "hugsanirnar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sem"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ég"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hugsa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "um yður"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "segir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "hugsanir"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "friðar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "og ekki"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "til ógæfu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "til að gefa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yður"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "framtíð"
+    },
+    {
+      "surface": "ותקוה",
+      "gloss": "og von"
+    }
+  ],
+  "timestamp": "2026-10-19T10:34:16.222021015Z",
+  "model": "glm-5.3"
+}
